@@ -1,0 +1,1003 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 2
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts000.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts001.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts002.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts003.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts004.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts005.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts006.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts007.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts008.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts009.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts010.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts011.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts012.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts013.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts014.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts015.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts016.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts017.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts018.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts019.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts020.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts021.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts022.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts023.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts024.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts025.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts026.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts027.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts028.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts029.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts030.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts031.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts032.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts033.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts034.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts035.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts036.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts037.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts038.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts039.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts040.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts041.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts042.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts043.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts044.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts045.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts046.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts047.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts048.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts049.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts050.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts051.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts052.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts053.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts054.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts055.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts056.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts057.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts058.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts059.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts060.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts061.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts062.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts063.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts064.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts065.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts066.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts067.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts068.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts069.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts070.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts071.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts072.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts073.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts074.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts075.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts076.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts077.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts078.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts079.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts080.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts081.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts082.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts083.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts084.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts085.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts086.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts087.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts088.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts089.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts090.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts091.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts092.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts093.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts094.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts095.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts096.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts097.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts098.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts099.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts100.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts101.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts102.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts103.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts104.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts105.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts106.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts107.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts108.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts109.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts110.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts111.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts112.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts113.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts115.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts116.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts117.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts118.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts119.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts120.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts121.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts122.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts123.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts124.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts125.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts126.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts127.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts128.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts129.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts130.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts131.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts132.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts133.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts134.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts135.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts136.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts137.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts138.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts139.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts140.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts141.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts142.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts143.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts144.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts145.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts146.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts147.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts148.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts149.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts150.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts151.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts152.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts153.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts154.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts155.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts156.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts157.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts158.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts159.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts160.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts161.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts162.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts163.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts164.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts165.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts166.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts167.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts168.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts169.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts170.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts171.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts172.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts173.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts174.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts175.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts176.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts177.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts178.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts179.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts180.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts181.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts182.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts183.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts184.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts185.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts186.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts187.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts188.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts189.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts190.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts191.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts192.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts193.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts194.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts195.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts196.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts197.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts198.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProducts199.json"
+    }
+  ]
+}

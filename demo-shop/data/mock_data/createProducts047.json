@@ -1,0 +1,2496 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "11b97b8f7b651c4058d83a4604efc0c318296ed9",
+        "name": "Marwal Crystal Tortoise Showpiece  -  4 cm",
+        "description": "Dummy description for product Marwal Crystal Tortoise Showpiece  -  4 cm",
+        "manufacturer_id": "e1af1b1ff0fd1ff588f1988c5cd71c9524959d03",
+        "taric_code": "bb30af16-afd3-4ef1-b91c-9ad1f4fa68dc",
+        "variants": [
+          {
+            "id": "b1f96cc8ee85f9e2a41b109196c38e65",
+            "name": "Marwal Ethnic",
+            "description": "Marwal Crystal Tortoise Showpiece  -  4 cm (Crystal, Clear)\n                         Price: Rs. 345\n\t\t\t\t\n\t\t\tCrystal\nHeight - 4 cm\nWidth - 5 cm\nWeight - 100 g\nCrystal\nHeight - 4 cm\nWidth - 5 cm\nWeight - 100 g",
+            "stock_level": 9069,
+            "price": 799,
+            "sale": false,
+            "sale_price": 345,
+            "stock_keeping_unit": "SHIEBG6FHNFZ2TFP",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/f/p/mct-003-marwal-1100x1100-imaebgff9gbnhaze.jpeg",
+                "filename": "mct-003-marwal-1100x1100-imaebgff9gbnhaze.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/f/p/mct-003-marwal-original-imaebgff9gbnhaze.jpeg",
+                "filename": "mct-003-marwal-original-imaebgff9gbnhaze.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Marwal"] },
+              { "key": "Model Number", "values": ["MCT-003"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Shade", "values": ["Clear"] },
+              { "key": "Material", "values": ["Crystal"] },
+              { "key": "Model Name", "values": ["Crystal Tortoise"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Height", "values": ["4 cm"] },
+              { "key": "Width", "values": ["5 cm"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["No"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e5a0b7972815881a40abff7944473f2b079c776" }
+      },
+      "active": true,
+      "id": "11b97b8f7b651c4058d83a4604efc0c318296ed9"
+    },
+    {
+      "product": {
+        "id": "2bbecbe97e9ac82f62fde11945931ee3a4eb433c",
+        "name": "Village Handicrafts Rose Gold Plated Alloy, Leather, Stone Necklace",
+        "description": "Dummy description for product Village Handicrafts Rose Gold Plated Alloy, Leather, Stone Necklace",
+        "manufacturer_id": "1dae939de9764363848bf558f436e1f8779f7451",
+        "taric_code": "d7a96a5a-ac59-4ce6-9879-9b1017ecebf9",
+        "variants": [
+          {
+            "id": "c3b32ebdb91ce77842c2f6e2494d9238",
+            "name": "Necklaces",
+            "description": "Village Handicrafts Rose Gold Plated Alloy, Leather, Stone Necklace - Buy Village Handicrafts Rose Gold Plated Alloy, Leather, Stone Necklace only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1545,
+            "price": 450,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCEAFM7XQDGVBZ6",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/b/z/6/w1247-village-handicrafts-necklace-original-imaeae7bzbtmanvq.jpeg",
+                "filename": "w1247-village-handicrafts-necklace-original-imaeae7bzbtmanvq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/b/z/6/w1247-village-handicrafts-necklace-original-imaeae7hszke7e6k.jpeg",
+                "filename": "w1247-village-handicrafts-necklace-original-imaeae7hszke7e6k.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Village Handicrafts"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["W1247"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday", "Love", "Workwear"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Brown"] },
+              {
+                "key": "Base Material",
+                "values": ["Alloy", "Leather", "Stone"]
+              },
+              { "key": "Plating", "values": ["Rose Gold"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "2bbecbe97e9ac82f62fde11945931ee3a4eb433c"
+    },
+    {
+      "product": {
+        "id": "3e61ffb3bd065bdfc096cd94a34774fadec00fa9",
+        "name": "S C Handicrafts Showpiece  -  9.5 cm",
+        "description": "Dummy description for product S C Handicrafts Showpiece  -  9.5 cm",
+        "manufacturer_id": "876112584ebe4fb8ec8269d817f53a9d48aad3cb",
+        "taric_code": "8467c217-9225-462c-803f-2f3c2c70d90d",
+        "variants": [
+          {
+            "id": "06daeb89328c5ac33475186b4110354c",
+            "name": "S C Handicrafts Showpieces",
+            "description": "Buy S C Handicrafts Showpiece  -  9.5 cm for Rs.4100 online. S C Handicrafts Showpiece  -  9.5 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9451,
+            "price": 4650,
+            "sale": false,
+            "sale_price": 4100,
+            "stock_keeping_unit": "SHIE2QTSH9UWXWRF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/w/r/f/rs-08-s-c-handicrafts-original-imae2qpuzytqbdyb.jpeg",
+                "filename": "rs-08-s-c-handicrafts-original-imae2qpuzytqbdyb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/w/r/f/rs-08-s-c-handicrafts-original-imae2qpuzytqbdyb.jpeg",
+                "filename": "rs-08-s-c-handicrafts-original-imae2qpuzytqbdyb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["S C Handicrafts"] },
+              { "key": "Model Number", "values": ["RS-08"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Material", "values": ["Wooden"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Weight", "values": ["30 g"] },
+              { "key": "Height", "values": ["9.5 cm"] },
+              { "key": "Width", "values": ["6 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": false,
+      "id": "3e61ffb3bd065bdfc096cd94a34774fadec00fa9"
+    },
+    {
+      "product": {
+        "id": "d3d122cd22a2cea91c6dc22542bde1934a6cee84",
+        "name": "Allure Auto CM 1853 Car Mat Chevrolet Sail",
+        "description": "Dummy description for product Allure Auto CM 1853 Car Mat Chevrolet Sail",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "feca90eb-6e25-4012-bf23-48e55fcef85c",
+        "variants": [
+          {
+            "id": "31b5e318424eeefbb537374c2c3f1a08",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 1853 Car Mat Chevrolet Sail for Rs.1599 online. Allure Auto CM 1853 Car Mat Chevrolet Sail at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1572,
+            "price": 4900,
+            "sale": true,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QVZZS3FER",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/m/v/v/honda-jazz-odourless-car-floor-foot-mats-5-pcs-set-red-allure-1100x1100-imaecqmdqrwq7z7b.jpeg",
+                "filename": "honda-jazz-odourless-car-floor-foot-mats-5-pcs-set-red-allure-1100x1100-imaecqmdqrwq7z7b.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/m/v/v/honda-jazz-odourless-car-floor-foot-mats-5-pcs-set-red-allure-original-imaecqmdqrwq7z7b.jpeg",
+                "filename": "honda-jazz-odourless-car-floor-foot-mats-5-pcs-set-red-allure-original-imaecqmdqrwq7z7b.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Sail"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Chevrolet Sail - Odourless Car Floor Foot Mats 5 Pcs Set ( Red )"
+                ]
+              },
+              { "key": "Vehicle Brand", "values": ["Chevrolet"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 1853"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "d3d122cd22a2cea91c6dc22542bde1934a6cee84"
+    },
+    {
+      "product": {
+        "id": "6a3577921ac2515282b2eed2746e242b8c3594ba",
+        "name": "Voylla Artificial Simplicity Plain Wood Necklace",
+        "description": "Dummy description for product Voylla Artificial Simplicity Plain Wood Necklace",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "2ed6c939-0af7-4792-9ad6-2fdeb935e352",
+        "variants": [
+          {
+            "id": "03350d47693e03fdde65fa280e5d310d",
+            "name": "Necklaces",
+            "description": "Voylla Artificial Simplicity Plain Wood Necklace - Buy Voylla Artificial Simplicity Plain Wood Necklace only for Rs. 299 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4192,
+            "price": 469,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "NKCE9G2BZYKFA4UQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/4/u/q/8907275323280-voylla-necklace-original-imae9huat7km5n5z.jpeg",
+                "filename": "8907275323280-voylla-necklace-original-imae9huat7km5n5z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/4/u/q/8907275323280-voylla-necklace-original-imae9huat7km5n5z.jpeg",
+                "filename": "8907275323280-voylla-necklace-original-imae9huat7km5n5z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["8907275323280"] },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Model Name",
+                "values": ["Artificial Simplicity Plain"]
+              },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The product is covered under 30 days Replacement Guarantee."
+                ]
+              },
+              { "key": "Weight", "values": ["37.55 g"] },
+              { "key": "Height", "values": ["1016 mm"] },
+              { "key": "Base Material", "values": ["Wood"] },
+              { "key": "Plating", "values": ["NA"] },
+              { "key": "Finish", "values": ["Plain"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "6a3577921ac2515282b2eed2746e242b8c3594ba"
+    },
+    {
+      "product": {
+        "id": "e37cb8e4eadb8e54617469ad055713bf6d3d806d",
+        "name": "3a AUTOCARE Car Mat Honda Mobilio",
+        "description": "Dummy description for product 3a AUTOCARE Car Mat Honda Mobilio",
+        "manufacturer_id": "29750a53f1fb25a20676e63192c69a0969889588",
+        "taric_code": "29f33f65-2fc8-4ba2-9609-bf1ca68a3cd7",
+        "variants": [
+          {
+            "id": "fae160e68db4e64a22ad0e414dc456fb",
+            "name": "Car Mats",
+            "description": "3a AUTOCARE Car Mat Honda Mobilio (Black)\n                         Price: Rs. 2,350\n\t\t\t\t\n\t\t\tEvery car owner wishes to flaunt his car and cleanliness of the interior. Floor mats are an essential accessory in the car. 3a AUTOCARE presents the best 3 dimensional car floor mats for your car that ensure it is spic and span always. 3a AUTOCARE 3d car mats are produced using material of the finest quality and are odourless. They also come with the desirable qualities of anti-skid and anti-bunch and are designed specifically to fit your car. Added attraction includes metal pad on the driver mat.\nEvery car owner wishes to flaunt his car and cleanliness of the interior. Floor mats are an essential accessory in the car. 3a AUTOCARE presents the best 3 dimensional car floor mats for your car that ensure it is spic and span always. 3a AUTOCARE 3d car mats are produced using material of the finest quality and are odourless. They also come with the desirable qualities of anti-skid and anti-bunch and are designed specifically to fit your car. Added attraction includes metal pad on the driver mat.",
+            "stock_level": 9199,
+            "price": 3000,
+            "sale": false,
+            "sale_price": 2350,
+            "stock_keeping_unit": "CRTEA7HAHHRNYZEY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-1100x1100-imae9zygyuzzjz33.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-1100x1100-imae9zygyuzzjz33.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygyuzzjz33.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygyuzzjz33.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygjzzrj4rr.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygjzzrj4rr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygsgndh4qb.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygsgndh4qb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygmz9wwpsf.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygmz9wwpsf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygzzxww6ya.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygzzxww6ya.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["3a AUTOCARE"] },
+              { "key": "Grommets Included", "values": ["Yes"] },
+              {
+                "key": "Used For",
+                "values": ["Travel with clean car floor and ecofriendly"]
+              },
+              { "key": "Vehicle Model Name", "values": ["Mobilio"] },
+              { "key": "Model Number", "values": ["3A117/Mobilio"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Spiked Sole", "values": ["Yes"] },
+              { "key": "Vehicle Brand", "values": ["Honda"] },
+              { "key": "Material", "values": ["Microfibre"] },
+              { "key": "Finish", "values": ["Matt"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Sales Package",
+                "values": ["2 Pieces Mats Front", "3 Pieces Mats Rear"]
+              },
+              { "key": "Pack of", "values": ["5"] },
+              { "key": "Weight", "values": ["3.2 kg"] },
+              { "key": "Height", "values": ["66 cm"] },
+              { "key": "Width", "values": ["47 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Any manufacturing Defects"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Any Manufacturing defects"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Customer needs to send the product at company warehouse"
+                ]
+              },
+              { "key": "Not Covered in Warranty", "values": ["Cuts And Burn"] },
+              {
+                "key": "Other Features",
+                "values": ["Antiskid material used in bottom"]
+              },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Technology Used", "values": ["Advanced Fit Edge"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": false,
+      "id": "e37cb8e4eadb8e54617469ad055713bf6d3d806d"
+    },
+    {
+      "product": {
+        "id": "bf5ab218abeb15032c1b537af46190a9894be289",
+        "name": "Tirupati Knife Rocker Pizza Cutter",
+        "description": "Dummy description for product Tirupati Knife Rocker Pizza Cutter",
+        "manufacturer_id": "781bf04d23cb5c21838794da8309ccd01e16c268",
+        "taric_code": "dae2f44a-5f79-44ad-b46f-ab081d7a42ce",
+        "variants": [
+          {
+            "id": "d67f3a208c2420d6f6a1c84c04d794fb",
+            "name": "Tirupati Pizza Cutters",
+            "description": "Buy Tirupati Knife Rocker Pizza Cutter for Rs.649 online. Tirupati Knife Rocker Pizza Cutter at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7662,
+            "price": 1018,
+            "sale": true,
+            "sale_price": 649,
+            "stock_keeping_unit": "PACE43HFWFDSMPJC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pizza-cutter/p/j/c/prock-01-tirupati-original-imae8sfyszndepms.jpeg",
+                "filename": "prock-01-tirupati-original-imae8sfyszndepms.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pizza-cutter/p/j/c/prock-01-tirupati-original-imae8sfyszndepms.jpeg",
+                "filename": "prock-01-tirupati-original-imae8sfyszndepms.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Tirupati"] },
+              { "key": "Handle Material", "values": ["Polypropylene"] },
+              { "key": "Used for", "values": ["Cutting Pizza"] },
+              { "key": "Blade Material", "values": ["Stainless Steel"] },
+              { "key": "Model Number", "values": ["PROCK-01"] },
+              { "key": "Type", "values": ["Rocker"] },
+              { "key": "Shade", "values": ["Steel"] },
+              { "key": "Thumb Guard", "values": ["Yes"] },
+              { "key": "Model Name", "values": ["Knife"] },
+              { "key": "Suitable for", "values": ["All varities of pizza"] },
+              { "key": "Color", "values": ["Steel"] },
+              { "key": "Sales Package", "values": ["1 Pizza Rocker Knife"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Weight", "values": ["180 g"] },
+              {
+                "key": "Other Features",
+                "values": ["Very sharp blade. Handle carefully"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "50d7aef052f3c41259e236e5341b683560538535" }
+      },
+      "active": true,
+      "id": "bf5ab218abeb15032c1b537af46190a9894be289"
+    },
+    {
+      "product": {
+        "id": "44f21dbf96b5b2d52f3663ef932f3da9615c3266",
+        "name": "Allure Auto CM 749 Car Mat Hyundai Accent",
+        "description": "Dummy description for product Allure Auto CM 749 Car Mat Hyundai Accent",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "e2c294d2-499d-4836-b76e-00dee36b381c",
+        "variants": [
+          {
+            "id": "a9e7298be4067f60fbc70192a42d3b71",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 749 Car Mat Hyundai Accent for Rs.1380 online. Allure Auto CM 749 Car Mat Hyundai Accent at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2745,
+            "price": 4200,
+            "sale": false,
+            "sale_price": 1380,
+            "stock_keeping_unit": "CRTECN2QXQCXHKC8",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/e/k/5/fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-1100x1100-imaecjxkskucjg65.jpeg",
+                "filename": "fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-1100x1100-imaecjxkskucjg65.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/e/k/5/fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-original-imaecjxkskucjg65.jpeg",
+                "filename": "fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-original-imaecjxkskucjg65.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Accent"] },
+              {
+                "key": "Model Number",
+                "values": ["Hyundai Accent - Rubber Mats ( Transparent)"]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Hyundai"] },
+              { "key": "Model Name", "values": ["CM 749"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": false,
+      "id": "44f21dbf96b5b2d52f3663ef932f3da9615c3266"
+    },
+    {
+      "product": {
+        "id": "b8dc5f036a9e838f9377bd9c22f2657f06ad3af1",
+        "name": "Allure Auto CM 1993 Car Mat Chevrolet Enjoy",
+        "description": "Dummy description for product Allure Auto CM 1993 Car Mat Chevrolet Enjoy",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "7d0494ea-ad52-4f4a-b951-7990f24f39b2",
+        "variants": [
+          {
+            "id": "54a554a313580789473ae5cac8b10e4b",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 1993 Car Mat Chevrolet Enjoy for Rs.1599 online. Allure Auto CM 1993 Car Mat Chevrolet Enjoy at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8739,
+            "price": 4900,
+            "sale": true,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QTWDYRKGW",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/s/z/2/honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-1100x1100-imaecqmdx5kadmvf.jpeg",
+                "filename": "honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-1100x1100-imaecqmdx5kadmvf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/s/z/2/honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-original-imaecqmdx5kadmvf.jpeg",
+                "filename": "honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-original-imaecqmdx5kadmvf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Enjoy"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Chevrolet Enjoy - Odourless Car Floor Foot Mats 5 Pcs Set ( Grey )"
+                ]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Chevrolet"] },
+              { "key": "Model Name", "values": ["CM 1993"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "b8dc5f036a9e838f9377bd9c22f2657f06ad3af1"
+    },
+    {
+      "product": {
+        "id": "d32462960c8c5690f83cefc23d3b6870b77ef900",
+        "name": "Adimani Mustuw Scarf Fabric Necklace",
+        "description": "Dummy description for product Adimani Mustuw Scarf Fabric Necklace",
+        "manufacturer_id": "ce09d0148c0d7c1760d0521e78d6330d8d3539c3",
+        "taric_code": "054372e3-296c-4979-ae65-63f1df442852",
+        "variants": [
+          {
+            "id": "32007b2f00f9a6a288a9dc17e595f3f9",
+            "name": "Necklaces",
+            "description": "Adimani Mustuw Scarf Fabric Necklace - Buy Adimani Mustuw Scarf Fabric Necklace only for Rs. 579 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9028,
+            "price": 3200,
+            "sale": false,
+            "sale_price": 579,
+            "stock_keeping_unit": "NKCE79CGHYMSS7GH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/7/g/h/afn-00095-adimani-necklace-original-imae79bg7kzynhbj.jpeg",
+                "filename": "afn-00095-adimani-necklace-original-imae79bg7kzynhbj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/7/g/h/afn-00095-adimani-necklace-original-imae79bggzm5xsqd.jpeg",
+                "filename": "afn-00095-adimani-necklace-original-imae79bggzm5xsqd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Adimani"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["AFN-00095"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Mustuw Scarf"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Base Material", "values": ["Fabric"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "d32462960c8c5690f83cefc23d3b6870b77ef900"
+    },
+    {
+      "product": {
+        "id": "5f192be1eec8a973edfae0182722ac3f910dbfdf",
+        "name": "Adimani Felimq Scarf Fabric Necklace",
+        "description": "Dummy description for product Adimani Felimq Scarf Fabric Necklace",
+        "manufacturer_id": "ce09d0148c0d7c1760d0521e78d6330d8d3539c3",
+        "taric_code": "cad7145a-8667-4246-a688-72cab14b69f7",
+        "variants": [
+          {
+            "id": "f6cbc66f9de20098b7b4b47462684280",
+            "name": "Necklaces",
+            "description": "Adimani Felimq Scarf Fabric Necklace - Buy Adimani Felimq Scarf Fabric Necklace only for Rs. 510 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2028,
+            "price": 2600,
+            "sale": false,
+            "sale_price": 510,
+            "stock_keeping_unit": "NKCE79CGRVVPSCKY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/c/k/y/afn-00089-adimani-necklace-original-imae79bgf5fzbwnw.jpeg",
+                "filename": "afn-00089-adimani-necklace-original-imae79bgf5fzbwnw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/c/k/y/afn-00089-adimani-necklace-original-imae79bggfynb6w9.jpeg",
+                "filename": "afn-00089-adimani-necklace-original-imae79bggfynb6w9.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Adimani"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["AFN-00089"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Felimq Scarf"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Base Material", "values": ["Fabric"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "5f192be1eec8a973edfae0182722ac3f910dbfdf"
+    },
+    {
+      "product": {
+        "id": "641541742d89d81772859d61200358300aea2929",
+        "name": "Volaliva Metal Necklace",
+        "description": "Dummy description for product Volaliva Metal Necklace",
+        "manufacturer_id": "4d3d15a470fb6e387c52c3f1e7ac97eb1059050b",
+        "taric_code": "f4127fef-b688-469f-971b-1d52e7ab9e02",
+        "variants": [
+          {
+            "id": "bc9664e0a59083227b4cd194367f082e",
+            "name": "Necklaces",
+            "description": "Volaliva Metal Necklace - Buy Volaliva Metal Necklace only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2781,
+            "price": 850,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCE88AHVENFACHA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/c/h/a/tp-n-10-volaliva-necklace-1100x1100-imae887xfmygnk9w.jpeg",
+                "filename": "tp-n-10-volaliva-necklace-1100x1100-imae887xfmygnk9w.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/c/h/a/tp-n-10-volaliva-necklace-original-imae887xfmygnk9w.jpeg",
+                "filename": "tp-n-10-volaliva-necklace-original-imae887xfmygnk9w.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/c/h/a/tp-n-10-volaliva-necklace-original-imae887xm5wgtx4k.jpeg",
+                "filename": "tp-n-10-volaliva-necklace-original-imae887xm5wgtx4k.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Volaliva"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["TP-N-10"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Base Material", "values": ["Metal"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "641541742d89d81772859d61200358300aea2929"
+    },
+    {
+      "product": {
+        "id": "ec3c4856c77dd114656d396a403ca33f0514f435",
+        "name": "X Gold India Jhaler Metal Necklace",
+        "description": "Dummy description for product X Gold India Jhaler Metal Necklace",
+        "manufacturer_id": "c449668e926e9af698b8343998411883eba9e401",
+        "taric_code": "4a2cadf6-8c96-4514-84b3-a33cd1fe2a0f",
+        "variants": [
+          {
+            "id": "84d9c5a6316f76142f9fb7e82fea1add",
+            "name": "Necklaces",
+            "description": "X Gold India Jhaler Metal Necklace - Buy X Gold India Jhaler Metal Necklace only for Rs. 400 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8549,
+            "price": 690,
+            "sale": false,
+            "sale_price": 400,
+            "stock_keeping_unit": "NKCDZBE883VXZTZM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/t/z/m/xnf7004-x-gold-necklace-1100x1100-imadv33ugbxzk7kb.jpeg",
+                "filename": "xnf7004-x-gold-necklace-1100x1100-imadv33ugbxzk7kb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/t/z/m/xnf7004-x-gold-necklace-original-imadv33ugbxzk7kb.jpeg",
+                "filename": "xnf7004-x-gold-necklace-original-imadv33ugbxzk7kb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["X Gold India"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Model Number", "values": ["XNF7004"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Jhaler"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["Brand Certification"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "ec3c4856c77dd114656d396a403ca33f0514f435"
+    },
+    {
+      "product": {
+        "id": "ef3cb87346c6bb3c44d4a5bf3c5b192c4aa460f6",
+        "name": "3a Autocare Terrano Car Mat Nissan Terrano",
+        "description": "Dummy description for product 3a Autocare Terrano Car Mat Nissan Terrano",
+        "manufacturer_id": "9c7c12d49c5509d0d78f7ca51f923a355a774f4b",
+        "taric_code": "7562a679-fa58-48ae-a5d9-7f636f4c9ecf",
+        "variants": [
+          {
+            "id": "f246054fb3d1e82987077577e6e89039",
+            "name": "Car Mats",
+            "description": "3a Autocare Terrano Car Mat Nissan Terrano (Beige)\n                         Price: Rs. 2,160\n\t\t\t\t\n\t\t\tEvery car owner wishes to flaunt his car and cleanliness of the interior. Floor mats are an essential accessory in the car. 3a AUTOCARE presents the best 3 dimensional car floor mats for your car that ensure it is spic and span always. 3a AUTOCARE 3d car mats are produced using material of the finest quality and are odourless. They also come with the desirable qualities of anti-skid and anti-bunch and are designed specifically to fit your car. Added attraction includes metal pad on the driver mat.\nEvery car owner wishes to flaunt his car and cleanliness of the interior. Floor mats are an essential accessory in the car. 3a AUTOCARE presents the best 3 dimensional car floor mats for your car that ensure it is spic and span always. 3a AUTOCARE 3d car mats are produced using material of the finest quality and are odourless. They also come with the desirable qualities of anti-skid and anti-bunch and are designed specifically to fit your car. Added attraction includes metal pad on the driver mat.",
+            "stock_level": 8769,
+            "price": 3200,
+            "sale": true,
+            "sale_price": 2160,
+            "stock_keeping_unit": "CRTEB774SCZXFHBY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-1100x1100-imae9zygzqpjhhgx.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-1100x1100-imae9zygzqpjhhgx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-original-imae9zygzqpjhhgx.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-original-imae9zygzqpjhhgx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghuyayb2m.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghuyayb2m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyggpfzadfh.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyggpfzadfh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghhfcbfsf.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghhfcbfsf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-original-imae9zyggxgrjukw.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-original-imae9zyggxgrjukw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["3a Autocare"] },
+              { "key": "Model Year", "values": ["NA"] },
+              {
+                "key": "Used For",
+                "values": ["Travel with clean car floor and ecofriendly"]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Microfibre"] },
+              { "key": "Finish", "values": ["Matt"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Grommets Included", "values": ["Yes"] },
+              { "key": "Vehicle Model Name", "values": ["Terrano"] },
+              { "key": "Model Number", "values": ["3A124/1/Terrano"] },
+              { "key": "Spiked Sole", "values": ["Yes"] },
+              { "key": "Vehicle Brand", "values": ["Nissan"] },
+              { "key": "Model Name", "values": ["Terrano"] },
+              {
+                "key": "Sales Package",
+                "values": ["2 Pieces Mats Front", "3 Pieces Mats Rear"]
+              },
+              { "key": "Pack of", "values": ["5"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Any manufacturing Defects"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Customer needs to send the product at company warehouse"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Any Manufacturing defects"]
+              },
+              { "key": "Not Covered in Warranty", "values": ["Cuts And Burn"] },
+              { "key": "Weight", "values": ["3 kg"] },
+              { "key": "Height", "values": ["65 cm"] },
+              { "key": "Width", "values": ["47 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              {
+                "key": "Other Features",
+                "values": ["Antiskid material used in bottom"]
+              },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Technology Used", "values": ["Advanced Fit Edge"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "ef3cb87346c6bb3c44d4a5bf3c5b192c4aa460f6"
+    },
+    {
+      "product": {
+        "id": "66d9ae0ac0314aa52a88f5b16a9abcf55d1e5cca",
+        "name": "Village Handicrafts Aluminum, Ceramic Necklace",
+        "description": "Dummy description for product Village Handicrafts Aluminum, Ceramic Necklace",
+        "manufacturer_id": "1dae939de9764363848bf558f436e1f8779f7451",
+        "taric_code": "032f80f3-4eb3-4451-a84a-9c6aee275b5b",
+        "variants": [
+          {
+            "id": "6c124aac7541b55dda308eb0d61faad8",
+            "name": "Necklaces",
+            "description": "Village Handicrafts Aluminum, Ceramic Necklace - Buy Village Handicrafts Aluminum, Ceramic Necklace only for Rs. 315 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3397,
+            "price": 315,
+            "sale": true,
+            "sale_price": 315,
+            "stock_keeping_unit": "NKCEFAG9Y7ZHS6M7",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/6/m/7/u3709-village-handicrafts-necklace-original-imaefady7pzdfbsc.jpeg",
+                "filename": "u3709-village-handicrafts-necklace-original-imaefady7pzdfbsc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/6/m/7/u3709-village-handicrafts-necklace-original-imaefady7pzdfbsc.jpeg",
+                "filename": "u3709-village-handicrafts-necklace-original-imaefady7pzdfbsc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/6/m/7/u3709-village-handicrafts-necklace-original-imaefadysbnntk6p.jpeg",
+                "filename": "u3709-village-handicrafts-necklace-original-imaefadysbnntk6p.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/6/m/7/u3709-village-handicrafts-necklace-original-imaefadyetyejpyq.jpeg",
+                "filename": "u3709-village-handicrafts-necklace-original-imaefadyetyejpyq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Village Handicrafts"] },
+              { "key": "Collection", "values": ["Ethnic"] },
+              { "key": "Model Number", "values": ["U3709"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Base Material", "values": ["Aluminum", "Ceramic"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "66d9ae0ac0314aa52a88f5b16a9abcf55d1e5cca"
+    },
+    {
+      "product": {
+        "id": "8c4d3671637e90835f1b23f8b42c5069f3f95efe",
+        "name": "Village Handicrafts Brass, Rose Gold Plated Aluminum, Bone, Resin Necklace",
+        "description": "Dummy description for product Village Handicrafts Brass, Rose Gold Plated Aluminum, Bone, Resin Necklace",
+        "manufacturer_id": "1dae939de9764363848bf558f436e1f8779f7451",
+        "taric_code": "71a7e6ab-e877-4a1e-a938-8d2730655f56",
+        "variants": [
+          {
+            "id": "65ba0cee6493c497b080b43602fb5337",
+            "name": "Necklaces",
+            "description": "Village Handicrafts Brass, Rose Gold Plated Aluminum, Bone, Resin Necklace - Buy Village Handicrafts Brass, Rose Gold Plated Aluminum, Bone, Resin Necklace only for Rs. 315 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9509,
+            "price": 350,
+            "sale": false,
+            "sale_price": 315,
+            "stock_keeping_unit": "NKCEANB7H8P6QY4K",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/y/4/k/w1251-village-handicrafts-necklace-original-imaeamwsrnnqhmhg.jpeg",
+                "filename": "w1251-village-handicrafts-necklace-original-imaeamwsrnnqhmhg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/y/4/k/w1251-village-handicrafts-necklace-original-imaeamwsrnnqhmhg.jpeg",
+                "filename": "w1251-village-handicrafts-necklace-original-imaeamwsrnnqhmhg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/y/4/k/w1251-village-handicrafts-necklace-original-imaeamwtmng6jkze.jpeg",
+                "filename": "w1251-village-handicrafts-necklace-original-imaeamwtmng6jkze.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Village Handicrafts"] },
+              { "key": "Collection", "values": ["Temple"] },
+              { "key": "Model Number", "values": ["W1251"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Occasion", "values": ["Everyday", "Love", "Workwear"] },
+              { "key": "Color", "values": ["Black", "Gold"] },
+              {
+                "key": "Base Material",
+                "values": ["Aluminum", "Bone", "Resin"]
+              },
+              { "key": "Plating", "values": ["Brass", "Rose Gold"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "8c4d3671637e90835f1b23f8b42c5069f3f95efe"
+    },
+    {
+      "product": {
+        "id": "9e6ace68254fd120fed9f75ac5796730ae119348",
+        "name": "Allure Auto CM 797 Car Mat Maruti Versa",
+        "description": "Dummy description for product Allure Auto CM 797 Car Mat Maruti Versa",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "0077c99d-69db-4989-86b9-e3dc9f123932",
+        "variants": [
+          {
+            "id": "2ab2eec4a5a5eea3a6851ecc220b6653",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 797 Car Mat Maruti Versa for Rs.1380 online. Allure Auto CM 797 Car Mat Maruti Versa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5567,
+            "price": 4200,
+            "sale": false,
+            "sale_price": 1380,
+            "stock_keeping_unit": "CRTECN2RXDAKHZTW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/e/k/5/fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-1100x1100-imaecjxkskucjg65.jpeg",
+                "filename": "fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-1100x1100-imaecjxkskucjg65.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/e/k/5/fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-original-imaecjxkskucjg65.jpeg",
+                "filename": "fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-original-imaecjxkskucjg65.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Versa"] },
+              {
+                "key": "Model Number",
+                "values": ["Maruti Versa - Rubber Mats ( Transparent)"]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Maruti"] },
+              { "key": "Model Name", "values": ["CM 797"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": false,
+      "id": "9e6ace68254fd120fed9f75ac5796730ae119348"
+    },
+    {
+      "product": {
+        "id": "bd13ae7ed0e1b6c3dd7b99c7487f98f9e41d78b5",
+        "name": "Voylla Artificial Classic Textured Crystal Alloy Necklace",
+        "description": "Dummy description for product Voylla Artificial Classic Textured Crystal Alloy Necklace",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "16f855c1-fdf2-481b-983d-d8a9822437c2",
+        "variants": [
+          {
+            "id": "cfffef23bc1b7fb27a59009c4674e9b0",
+            "name": "Necklaces",
+            "description": "Voylla Artificial Classic Textured Crystal Alloy Necklace\n                         Price: Rs. 279\n\t\t\t\t\n\t\t\tEnrich your jewelry collection with this elegant and stylish necklace. Match this exclusive jewelry with any of your outfits to obtain a perfect look.\nEnrich your jewelry collection with this elegant and stylish necklace. Match this exclusive jewelry with any of your outfits to obtain a perfect look.",
+            "stock_level": 2611,
+            "price": 349,
+            "sale": false,
+            "sale_price": 279,
+            "stock_keeping_unit": "NKCE9G2BMDFJMZDG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/z/d/g/8907275325819-voylla-necklace-1100x1100-imae9huaxda7znxg.jpeg",
+                "filename": "8907275325819-voylla-necklace-1100x1100-imae9huaxda7znxg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/z/d/g/8907275325819-voylla-necklace-original-imae9huaxda7znxg.jpeg",
+                "filename": "8907275325819-voylla-necklace-original-imae9huaxda7znxg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/z/d/g/8907275325819-voylla-necklace-original-imae9huapnh7czya.jpeg",
+                "filename": "8907275325819-voylla-necklace-original-imae9huapnh7czya.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["8907275325819"] },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Model Name",
+                "values": ["Artificial Classic Textured"]
+              },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Brown"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The product is covered under 30 days Replacement Guarantee."
+                ]
+              },
+              { "key": "Weight", "values": ["30.74 g"] },
+              { "key": "Height", "values": ["457.2 mm"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["NA"] },
+              { "key": "Finish", "values": ["Textured"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "bd13ae7ed0e1b6c3dd7b99c7487f98f9e41d78b5"
+    },
+    {
+      "product": {
+        "id": "85b06449a7ed5423902b7b78b2b5e1cfd8eb814f",
+        "name": "Allure Auto CM 1157 Car Mat Ford Ecosport",
+        "description": "Dummy description for product Allure Auto CM 1157 Car Mat Ford Ecosport",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "05b117cd-b56b-4ee7-b824-68d8e99b0454",
+        "variants": [
+          {
+            "id": "8e6abb145a8b3e5e15b3bc4835afb1f6",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 1157 Car Mat Ford Ecosport for Rs.1599 online. Allure Auto CM 1157 Car Mat Ford Ecosport at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3451,
+            "price": 4900,
+            "sale": true,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QUFY2YTJK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/z/z/9/skoda-rapid-anti-slip-noodle-car-floor-mats-set-of-5-grey-allure-1100x1100-imaecjxhbzaqrmge.jpeg",
+                "filename": "skoda-rapid-anti-slip-noodle-car-floor-mats-set-of-5-grey-allure-1100x1100-imaecjxhbzaqrmge.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/z/z/9/skoda-rapid-anti-slip-noodle-car-floor-mats-set-of-5-grey-allure-original-imaecjxhbzaqrmge.jpeg",
+                "filename": "skoda-rapid-anti-slip-noodle-car-floor-mats-set-of-5-grey-allure-original-imaecjxhbzaqrmge.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Ecosport"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Ford Ecosport - Anti Slip Noodle Car Floor Mats Set Of 5 Grey"
+                ]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Ford"] },
+              { "key": "Model Name", "values": ["CM 1157"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "85b06449a7ed5423902b7b78b2b5e1cfd8eb814f"
+    },
+    {
+      "product": {
+        "id": "3a7e10b43be6fc54ade6e896fa7303a1d5f7f0e9",
+        "name": "Lal Haveli Decorative Dholak Musician Showpiece  -  8.89 cm",
+        "description": "Dummy description for product Lal Haveli Decorative Dholak Musician Showpiece  -  8.89 cm",
+        "manufacturer_id": "d88e2a8134325f9b8e4ca0c7166ee9c1e9c673dc",
+        "taric_code": "8fc57cf5-42b2-4ea2-959d-9edeff2d422a",
+        "variants": [
+          {
+            "id": "67d6b4a8aa19d57740b0440365b77624",
+            "name": "Lal Haveli Ethnic",
+            "description": "Lal Haveli Decorative Dholak Musician Showpiece  -  8.89 cm (Steel, Wooden, Red)\n                         Price: Rs. 1,085\n\t\t\t\t\n\t\t\tThe fine handmade meenakari work designs and Pretty color of this showpiece add a touch of Traditional and elegance to your home decor. It Beautiful Indian Rajasthani handmade Man Musician showpiece is made of light wood and steel material. We promise to deliver best quality products at best prices.\nThe fine handmade meenakari work designs and Pretty color of this showpiece add a touch of Traditional and elegance to your home decor. It Beautiful Indian Rajasthani handmade Man Musician showpiece is made of light wood and steel material. We promise to deliver best quality products at best prices.",
+            "stock_level": 923,
+            "price": 1450,
+            "sale": false,
+            "sale_price": 1085,
+            "stock_keeping_unit": "SHIEBCQZF8EQ3FSD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/f/s/d/rhnd00151-lal-haveli-original-imaebbt6byasxzt6.jpeg",
+                "filename": "rhnd00151-lal-haveli-original-imaebbt6byasxzt6.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/f/s/d/rhnd00151-lal-haveli-original-imaebbt6byasxzt6.jpeg",
+                "filename": "rhnd00151-lal-haveli-original-imaebbt6byasxzt6.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/f/s/d/rhnd00151-lal-haveli-original-imaebbt6phzzppn9.jpeg",
+                "filename": "rhnd00151-lal-haveli-original-imaebbt6phzzppn9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/f/s/d/rhnd00151-lal-haveli-original-imaebbt68nfw4fn2.jpeg",
+                "filename": "rhnd00151-lal-haveli-original-imaebbt68nfw4fn2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Lal Haveli"] },
+              { "key": "Model Number", "values": ["RHND00151"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Material", "values": ["Steel", "Wooden"] },
+              { "key": "Model Name", "values": ["Decorative Dholak Musician"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Weight", "values": ["450 g"] },
+              { "key": "Height", "values": ["8.89 cm"] },
+              { "key": "Width", "values": ["48.26 cm"] },
+              { "key": "Sales Package", "values": ["1 Musician Showpiece"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e5a0b7972815881a40abff7944473f2b079c776" }
+      },
+      "active": true,
+      "id": "3a7e10b43be6fc54ade6e896fa7303a1d5f7f0e9"
+    },
+    {
+      "product": {
+        "id": "6ae34f8ce8a35998f9085c428f44486a2f71154b",
+        "name": "Voylla Artifictial Plain Crystal Alloy Necklace",
+        "description": "Dummy description for product Voylla Artifictial Plain Crystal Alloy Necklace",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "636da62f-e25d-486a-9fae-d953e4516bda",
+        "variants": [
+          {
+            "id": "4b91cffc68afbb6e55b8cb2e232d457a",
+            "name": "Necklaces",
+            "description": "Voylla Artifictial Plain Crystal Alloy Necklace - Buy Voylla Artifictial Plain Crystal Alloy Necklace only for Rs. 495 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 17,
+            "price": 1069,
+            "sale": false,
+            "sale_price": 495,
+            "stock_keeping_unit": "NKCE48ZU6EAYFSCM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/s/c/m/8907275168324-voylla-necklace-1100x1100-imae48ypgdf3fwxz.jpeg",
+                "filename": "8907275168324-voylla-necklace-1100x1100-imae48ypgdf3fwxz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/s/c/m/8907275168324-voylla-necklace-original-imae48ypgdf3fwxz.jpeg",
+                "filename": "8907275168324-voylla-necklace-original-imae48ypgdf3fwxz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/s/c/m/8907275168324-voylla-necklace-original-imae48ypzpn6agtx.jpeg",
+                "filename": "8907275168324-voylla-necklace-original-imae48ypzpn6agtx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["8907275168324"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Artifictial Plain"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Love"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["67.23 g"] },
+              { "key": "Height", "values": ["457.2 mm"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "6ae34f8ce8a35998f9085c428f44486a2f71154b"
+    },
+    {
+      "product": {
+        "id": "3e20118340c1527f7c2a76ade94ff780faf382a7",
+        "name": "MCB Exports Horse Face Decorative Stool Showpiece  -  22 cm",
+        "description": "Dummy description for product MCB Exports Horse Face Decorative Stool Showpiece  -  22 cm",
+        "manufacturer_id": "9a21c26633074583cb8b04af018dc841a5b132a0",
+        "taric_code": "940fcba0-ae2c-472b-a2df-b36e62ce40c1",
+        "variants": [
+          {
+            "id": "70019daab0e2ade07fa135002bc1da4a",
+            "name": "MCB Exports Ethnic",
+            "description": "MCB Exports Horse Face Decorative Stool Showpiece  -  22 cm (Wooden, Multicolor)\n                         Price: Rs. 2,099\n\t\t\t\t\n\t\t\tWooden Multicolor Decorative Stool, Dimension: 27x17.5x22 cms\nWooden Multicolor Decorative Stool, Dimension: 27x17.5x22 cms",
+            "stock_level": 4334,
+            "price": 2499,
+            "sale": false,
+            "sale_price": 2099,
+            "stock_keeping_unit": "SHIEBY82HGZCTH5D",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/5/d/mcb3065-mcb-exports-original-imaebxx5tgqeefqz.jpeg",
+                "filename": "mcb3065-mcb-exports-original-imaebxx5tgqeefqz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/h/5/d/mcb3065-mcb-exports-original-imaebxx5tgqeefqz.jpeg",
+                "filename": "mcb3065-mcb-exports-original-imaebxx5tgqeefqz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/5/d/mcb3065-mcb-exports-original-imaebxx5ekcg5j7g.jpeg",
+                "filename": "mcb3065-mcb-exports-original-imaebxx5ekcg5j7g.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/h/5/d/mcb3065-mcb-exports-original-imaebxx6bywzg324.jpeg",
+                "filename": "mcb3065-mcb-exports-original-imaebxx6bywzg324.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["MCB Exports"] },
+              { "key": "Model Number", "values": ["MCB3065"] },
+              { "key": "Shade", "values": ["Multicolor"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              {
+                "key": "Model Name",
+                "values": ["Horse Face Decorative Stool"]
+              },
+              { "key": "Material", "values": ["Wooden"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["1130 g"] },
+              { "key": "Height", "values": ["22 cm"] },
+              { "key": "Width", "values": ["17.5 cm"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Mini Decorative Stool Showpiece"]
+              },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e5a0b7972815881a40abff7944473f2b079c776" }
+      },
+      "active": true,
+      "id": "3e20118340c1527f7c2a76ade94ff780faf382a7"
+    },
+    {
+      "product": {
+        "id": "f4cfefb67e913d299ff1b637b38a7a21ade4fc1f",
+        "name": "Tuelip Alloy Necklace",
+        "description": "Dummy description for product Tuelip Alloy Necklace",
+        "manufacturer_id": "8c04758f880ebbf21aea5c7133f280ba257bc5f2",
+        "taric_code": "afdbff2e-4499-47c1-bee2-6daa4cc97e4c",
+        "variants": [
+          {
+            "id": "767d0e3195dd04da2e192eff77f8cd3d",
+            "name": "Necklaces",
+            "description": "Tuelip Alloy Necklace - Buy Tuelip Alloy Necklace only for Rs. 199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6291,
+            "price": 899,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "NKCEAFPJS8QQ93WM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/3/w/m/a6-tuelip-necklace-1100x1100-imae9yymzfpeevph.jpeg",
+                "filename": "a6-tuelip-necklace-1100x1100-imae9yymzfpeevph.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/3/w/m/a6-tuelip-necklace-original-imae9yymzfpeevph.jpeg",
+                "filename": "a6-tuelip-necklace-original-imae9yymzfpeevph.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Tuelip"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["A6"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Black", "Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "f4cfefb67e913d299ff1b637b38a7a21ade4fc1f"
+    },
+    {
+      "product": {
+        "id": "9f17abc6923612677f5c19e5a74fa6a26856ad4e",
+        "name": "Allure Auto CM 1755 Car Mat Hyundai Sonata Fluidic",
+        "description": "Dummy description for product Allure Auto CM 1755 Car Mat Hyundai Sonata Fluidic",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "2f022919-69db-4c8f-8816-8c08a0979c90",
+        "variants": [
+          {
+            "id": "e686d80067668a422656dc9a6d850ae8",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 1755 Car Mat Hyundai Sonata Fluidic for Rs.1599 online. Allure Auto CM 1755 Car Mat Hyundai Sonata Fluidic at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5962,
+            "price": 4900,
+            "sale": false,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QYTENUZJD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/w/f/t/maruti-celerio-odourless-car-floor-foot-mats-5-pcs-set-blue-1100x1100-imaecqmdvzhfruzs.jpeg",
+                "filename": "maruti-celerio-odourless-car-floor-foot-mats-5-pcs-set-blue-1100x1100-imaecqmdvzhfruzs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/w/f/t/maruti-celerio-odourless-car-floor-foot-mats-5-pcs-set-blue-original-imaecqmdvzhfruzs.jpeg",
+                "filename": "maruti-celerio-odourless-car-floor-foot-mats-5-pcs-set-blue-original-imaecqmdvzhfruzs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Sonata Fluidic"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Hyundai Sonata Fluidic - Odourless Car Floor Foot Mats 5 Pcs Set ( Blue )"
+                ]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Hyundai"] },
+              { "key": "Model Name", "values": ["CM 1755"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": false,
+      "id": "9f17abc6923612677f5c19e5a74fa6a26856ad4e"
+    },
+    {
+      "product": {
+        "id": "f9346cb7361e5b50f4975aeee9ea583ffe9e35be",
+        "name": "Allure Auto CM 1357 Car Mat Maruti Gypsy",
+        "description": "Dummy description for product Allure Auto CM 1357 Car Mat Maruti Gypsy",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "2cf2b0df-f340-494d-ba08-80e172d19a87",
+        "variants": [
+          {
+            "id": "e2d5ddab12528502d7401a1b8d633dbe",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 1357 Car Mat Maruti Gypsy for Rs.1599 online. Allure Auto CM 1357 Car Mat Maruti Gypsy at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8650,
+            "price": 4900,
+            "sale": false,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2RCJRME9QG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/h/t/b/maruti-ertiga-anti-slip-noodle-car-floor-mats-set-of-5-black-1100x1100-imaecjxhn5dmzwgz.jpeg",
+                "filename": "maruti-ertiga-anti-slip-noodle-car-floor-mats-set-of-5-black-1100x1100-imaecjxhn5dmzwgz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/h/t/b/maruti-ertiga-anti-slip-noodle-car-floor-mats-set-of-5-black-original-imaecjxhn5dmzwgz.jpeg",
+                "filename": "maruti-ertiga-anti-slip-noodle-car-floor-mats-set-of-5-black-original-imaecjxhn5dmzwgz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Gypsy"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Maruti Gypsy - Anti Slip Noodle Car Floor Mats Set Of 5 Black"
+                ]
+              },
+              { "key": "Vehicle Brand", "values": ["Maruti"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 1357"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "f9346cb7361e5b50f4975aeee9ea583ffe9e35be"
+    },
+    {
+      "product": {
+        "id": "7a7a628734a5b01f35648557d24463ff121a8195",
+        "name": "Voylla Precious Classic Plain Crystal Yellow Gold Plated Alloy Necklace",
+        "description": "Dummy description for product Voylla Precious Classic Plain Crystal Yellow Gold Plated Alloy Necklace",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "856afa74-681d-45cc-bc51-127daadd403a",
+        "variants": [
+          {
+            "id": "fab65ec604fa6841e6ade83d75ee0f0c",
+            "name": "Necklaces",
+            "description": "Voylla Precious Classic Plain Crystal Yellow Gold Plated Alloy Necklace - Buy Voylla Precious Classic Plain Crystal Yellow Gold Plated Alloy Necklace only for Rs. 463 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9707,
+            "price": 579,
+            "sale": true,
+            "sale_price": 463,
+            "stock_keeping_unit": "NKCE9TBYX8CUA2ZJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/2/z/j/8907275336693-voylla-necklace-original-imae9t27khpcma34.jpeg",
+                "filename": "8907275336693-voylla-necklace-original-imae9t27khpcma34.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/2/z/j/8907275336693-voylla-necklace-original-imaedcypqnhd33kg.jpeg",
+                "filename": "8907275336693-voylla-necklace-original-imaedcypqnhd33kg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/2/z/j/8907275336693-voylla-necklace-original-imae9t27zvgygjwu.jpeg",
+                "filename": "8907275336693-voylla-necklace-original-imae9t27zvgygjwu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/2/z/j/8907275336693-voylla-necklace-original-imae9t27detuhhpx.jpeg",
+                "filename": "8907275336693-voylla-necklace-original-imae9t27detuhhpx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["8907275336693"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Precious Classic Plain"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["36.68 g"] },
+              { "key": "Height", "values": ["406.4 mm"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The product is covered under 30 days Replacement Guarantee."
+                ]
+              },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Plain"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "7a7a628734a5b01f35648557d24463ff121a8195"
+    },
+    {
+      "product": {
+        "id": "422796fd9abd728f3707c623a3d92b20bc6e879b",
+        "name": "Adorelabel Floral Fantasy Long Chain Glass Necklace",
+        "description": "Dummy description for product Adorelabel Floral Fantasy Long Chain Glass Necklace",
+        "manufacturer_id": "9eaa1c42c777be6b7b6ad3068df9a4654402be4f",
+        "taric_code": "7081caf9-f3a8-4259-a2aa-c4777ff51451",
+        "variants": [
+          {
+            "id": "b6a488e651a9de180e0ccead1d41f9c1",
+            "name": "Necklaces",
+            "description": "Adorelabel Floral Fantasy Long Chain Glass Necklace - Buy Adorelabel Floral Fantasy Long Chain Glass Necklace only for Rs. 554 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6126,
+            "price": 1848,
+            "sale": true,
+            "sale_price": 554,
+            "stock_keeping_unit": "NKCE69P8JR2ENBAG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/b/a/g/aln129-adorelabel-necklace-original-imae699verzhghzb.jpeg",
+                "filename": "aln129-adorelabel-necklace-original-imae699verzhghzb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/b/a/g/aln129-adorelabel-necklace-original-imae699verzhghzb.jpeg",
+                "filename": "aln129-adorelabel-necklace-original-imae699verzhghzb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Adorelabel"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["ALN129"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Floral Fantasy Long Chain"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Glass"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "422796fd9abd728f3707c623a3d92b20bc6e879b"
+    },
+    {
+      "product": {
+        "id": "d4de72203bf07a15991c4983a44cd77264acb430",
+        "name": "Tirupati 4\"- Black Wheel Pizza Cutter",
+        "description": "Dummy description for product Tirupati 4\"- Black Wheel Pizza Cutter",
+        "manufacturer_id": "781bf04d23cb5c21838794da8309ccd01e16c268",
+        "taric_code": "0b209274-c7f5-4efc-9237-ac3d37dbeba9",
+        "variants": [
+          {
+            "id": "7c1eb7de4c3460703e0060098529fd26",
+            "name": "Tirupati Pizza Cutters",
+            "description": "Buy Tirupati 4\"- Black Wheel Pizza Cutter for Rs.649 online. Tirupati 4\"- Black Wheel Pizza Cutter at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6296,
+            "price": 1018,
+            "sale": false,
+            "sale_price": 649,
+            "stock_keeping_unit": "PACE43HF8JWNA2GY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pizza-cutter/2/g/y/pcut-b-tirupati-original-imae4fgtmhzcwymz.jpeg",
+                "filename": "pcut-b-tirupati-original-imae4fgtmhzcwymz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pizza-cutter/2/g/y/pcut-b-tirupati-original-imae4fgtmhzcwymz.jpeg",
+                "filename": "pcut-b-tirupati-original-imae4fgtmhzcwymz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Tirupati"] },
+              { "key": "Handle Material", "values": ["Polypropylene"] },
+              {
+                "key": "Used for",
+                "values": [
+                  "Cut Pizzas",
+                  "Cut Breads",
+                  "Cut Naans",
+                  "Cut Puff Pastry"
+                ]
+              },
+              { "key": "Blade Material", "values": ["Stainless Steel"] },
+              { "key": "Model Number", "values": ["PCUT-B"] },
+              { "key": "Type", "values": ["Wheel"] },
+              { "key": "Shade", "values": ["Black"] },
+              { "key": "Thumb Guard", "values": ["Yes"] },
+              { "key": "Model Name", "values": ["4\\\"- Black"] },
+              {
+                "key": "Suitable for",
+                "values": [
+                  "Cut Pizzas",
+                  "Cut Breads",
+                  "Cut Naans",
+                  "Cut Puff Pastry"
+                ]
+              },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["1 Pizza Cutter"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["4 inch"] },
+              { "key": "Weight", "values": ["160 g"] },
+              {
+                "key": "Other Features",
+                "values": ["Sharp blade. Handle carefully"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "50d7aef052f3c41259e236e5341b683560538535" }
+      },
+      "active": true,
+      "id": "d4de72203bf07a15991c4983a44cd77264acb430"
+    },
+    {
+      "product": {
+        "id": "7d0e3284111b9e87026b2e418ef3c70268afecef",
+        "name": "Aaishwarya Pink Petal Bib Alloy Necklace",
+        "description": "Dummy description for product Aaishwarya Pink Petal Bib Alloy Necklace",
+        "manufacturer_id": "9cba5720f09099c5cfe8b927884eb75a01971c42",
+        "taric_code": "186eaacc-7e15-4b17-953b-20490b0efbae",
+        "variants": [
+          {
+            "id": "fb66a416afc11f29c226e47e03b3989c",
+            "name": "Necklaces",
+            "description": "Aaishwarya Pink Petal Bib Alloy Necklace - Buy Aaishwarya Pink Petal Bib Alloy Necklace only for Rs. 559 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5115,
+            "price": 1599,
+            "sale": false,
+            "sale_price": 559,
+            "stock_keeping_unit": "NKCEBGPNHGQFQWSU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/w/s/u/ayw615n968p-aaishwarya-necklace-original-imaebgfhbxtgzdpn.jpeg",
+                "filename": "ayw615n968p-aaishwarya-necklace-original-imaebgfhbxtgzdpn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/f/g/y/ayw615n968-aaishwarya-necklace-set-original-imaebgfhnbhthvzj.jpeg",
+                "filename": "ayw615n968-aaishwarya-necklace-set-original-imaebgfhnbhthvzj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Aaishwarya"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Model Number", "values": ["AYW615N968P"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Pink Petal Bib"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Everyday", "Love"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Chain/Necklace Length", "values": ["22 inch"] },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Necklace Type", "values": ["Choker"] },
+              { "key": "Chain Type", "values": ["Rope"] },
+              { "key": "Sales Package", "values": ["Pack Of 1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "7d0e3284111b9e87026b2e418ef3c70268afecef"
+    },
+    {
+      "product": {
+        "id": "ba173e1ada4bac0dacb00511c04f8a52106aa724",
+        "name": "Allure Auto CM 365 Car Mat Maruti New Swift",
+        "description": "Dummy description for product Allure Auto CM 365 Car Mat Maruti New Swift",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "c7239cda-0d50-4ebb-9f4a-d38619be959a",
+        "variants": [
+          {
+            "id": "8e9b83f0ddc36bdf677a1e6ed125557f",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 365 Car Mat Maruti New Swift for Rs.920 online. Allure Auto CM 365 Car Mat Maruti New Swift at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2022,
+            "price": 2800,
+            "sale": false,
+            "sale_price": 920,
+            "stock_keeping_unit": "CRTECN2QYAWB9FPE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/x/6/e/renault-koleos-rubber-mats-beige-allure-auto-cm-384-1100x1100-imaecjxkctf8hr2m.jpeg",
+                "filename": "renault-koleos-rubber-mats-beige-allure-auto-cm-384-1100x1100-imaecjxkctf8hr2m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/x/6/e/renault-koleos-rubber-mats-beige-allure-auto-cm-384-original-imaecjxkctf8hr2m.jpeg",
+                "filename": "renault-koleos-rubber-mats-beige-allure-auto-cm-384-original-imaecjxkctf8hr2m.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["New Swift"] },
+              {
+                "key": "Model Number",
+                "values": ["Maruti New Swift - Rubber Mats ( Beige)"]
+              },
+              { "key": "Vehicle Brand", "values": ["Maruti"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 365"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "ba173e1ada4bac0dacb00511c04f8a52106aa724"
+    },
+    {
+      "product": {
+        "id": "603dd350be9c43f14f627d444b5fc2c5098791c5",
+        "name": "Tiedribbons We Love Mom With Green Background Tile Showpiece  -  28 cm",
+        "description": "Dummy description for product Tiedribbons We Love Mom With Green Background Tile Showpiece  -  28 cm",
+        "manufacturer_id": "f643a53cd219daae61bd561f948ebca92232d0a4",
+        "taric_code": "2f3725be-50d9-4695-9599-1267eef93ebb",
+        "variants": [
+          {
+            "id": "f39a2cce8929f5b44087d688995994e4",
+            "name": "Tiedribbons Showpieces",
+            "description": "Buy Tiedribbons We Love Mom With Green Background Tile Showpiece  -  28 cm for Rs.699 online. Tiedribbons We Love Mom With Green Background Tile Showpiece  -  28 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2975,
+            "price": 1599,
+            "sale": true,
+            "sale_price": 699,
+            "stock_keeping_unit": "SHIE6ZSBWP9DTDHZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/d/h/z/mothersdaytile041-tiedribbons-original-imae6zpdz2chw3ax.jpeg",
+                "filename": "mothersdaytile041-tiedribbons-original-imae6zpdz2chw3ax.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/d/h/z/mothersdaytile041-tiedribbons-original-imae6zpdz2chw3ax.jpeg",
+                "filename": "mothersdaytile041-tiedribbons-original-imae6zpdz2chw3ax.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/5/p/n/mothersdaytile010-tiedribbons-original-imaefhmer5rn7w7w.jpeg",
+                "filename": "mothersdaytile010-tiedribbons-original-imaefhmer5rn7w7w.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/d/w/y/mothersdaytile029-tiedribbons-original-imae6zpcgz3an7ub.jpeg",
+                "filename": "mothersdaytile029-tiedribbons-original-imae6zpcgz3an7ub.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/z/t/b/mothersdaytile001-tiedribbons-original-imaefhmefnk94mam.jpeg",
+                "filename": "mothersdaytile001-tiedribbons-original-imaefhmefnk94mam.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Tiedribbons"] },
+              { "key": "Model Number", "values": ["mothersdaytile041"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              {
+                "key": "Model Name",
+                "values": ["We Love Mom With Green Background Tile"]
+              },
+              { "key": "Material", "values": ["Ceramic"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Height", "values": ["28 cm"] },
+              { "key": "Width", "values": ["20 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "603dd350be9c43f14f627d444b5fc2c5098791c5"
+    },
+    {
+      "product": {
+        "id": "90383c9ac867ae00e47d36a36c48e56352f4037e",
+        "name": "Rajo Raja Magan Buddha Artpiece Showpiece  -  20.5 cm",
+        "description": "Dummy description for product Rajo Raja Magan Buddha Artpiece Showpiece  -  20.5 cm",
+        "manufacturer_id": "23e019b8124952ac889bc59c940039822c06820c",
+        "taric_code": "8a9604a4-7b0d-4a77-9411-88cf6c3d60ef",
+        "variants": [
+          {
+            "id": "4451f1b01168b6a085738d0b0f2f02aa",
+            "name": "Rajo Raja Ethnic",
+            "description": "Buy Rajo Raja Magan Buddha Artpiece Showpiece  -  20.5 cm for Rs.1799 online. Rajo Raja Magan Buddha Artpiece Showpiece  -  20.5 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6975,
+            "price": 1799,
+            "sale": false,
+            "sale_price": 1799,
+            "stock_keeping_unit": "SHIEC8ATMHEWET32",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/t/3/2/maganbuddha-rajo-raja-original-imaec3fxftyz4azs.jpeg",
+                "filename": "maganbuddha-rajo-raja-original-imaec3fxftyz4azs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/3/2/maganbuddha-rajo-raja-original-imaec3fxhtb7whzk.jpeg",
+                "filename": "maganbuddha-rajo-raja-original-imaec3fxhtb7whzk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/t/3/2/maganbuddha-rajo-raja-original-imaec3fxar3vg5fk.jpeg",
+                "filename": "maganbuddha-rajo-raja-original-imaec3fxar3vg5fk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Rajo Raja"] },
+              { "key": "Model Number", "values": ["maganbuddha"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Model Name", "values": ["Magan Buddha Artpiece"] },
+              { "key": "Material", "values": ["Polyresin"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Height", "values": ["20.5 cm"] },
+              { "key": "Width", "values": ["11.5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e5a0b7972815881a40abff7944473f2b079c776" }
+      },
+      "active": true,
+      "id": "90383c9ac867ae00e47d36a36c48e56352f4037e"
+    },
+    {
+      "product": {
+        "id": "5a8b2a66ffca387286aea5db4908dd2e82a2bf0e",
+        "name": "Affinity Jewellers Designer Gold Hyderabadi Gold Taar Mala String Pearl 18K Yellow Gold Plated Alloy Necklace",
+        "description": "Dummy description for product Affinity Jewellers Designer Gold Hyderabadi Gold Taar Mala String Pearl 18K Yellow Gold Plated Alloy Necklace",
+        "manufacturer_id": "9be122500882871668d4f9c92bdcd5984b300578",
+        "taric_code": "8275cf2f-bbee-49a3-aa0e-5b414db73fb5",
+        "variants": [
+          {
+            "id": "e492b0e28e6a87ba1603b040964dc7bb",
+            "name": "Necklaces",
+            "description": "Affinity Jewellers Designer Gold Hyderabadi Gold Taar Mala String Pearl 18K Yellow Gold Plated Alloy Necklace\n                         Price: Rs. 863\n\t\t\t\t\n\t\t\tAffinity Jewellers Designer Gold Pearl Hyderabadi Pearl Beads Gold Taar Mala String Gold Plated\nAffinity Jewellers Designer Gold Pearl Hyderabadi Pearl Beads Gold Taar Mala String Gold Plated",
+            "stock_level": 3452,
+            "price": 1736,
+            "sale": true,
+            "sale_price": 863,
+            "stock_keeping_unit": "NKCEC9FM5A8PJSHZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/s/h/z/affym062-affinity-jewellers-necklace-original-imaecfkgpr5c3uph.jpeg",
+                "filename": "affym062-affinity-jewellers-necklace-original-imaecfkgpr5c3uph.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/s/h/z/affym062-affinity-jewellers-necklace-original-imaecfkgpr5c3uph.jpeg",
+                "filename": "affym062-affinity-jewellers-necklace-original-imaecfkgpr5c3uph.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/s/h/z/affym062-affinity-jewellers-necklace-original-imaecfkggjurznxd.jpeg",
+                "filename": "affym062-affinity-jewellers-necklace-original-imaecfkggjurznxd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/s/h/z/affym062-affinity-jewellers-necklace-original-imaecfkgzdfzs2mj.jpeg",
+                "filename": "affym062-affinity-jewellers-necklace-original-imaecfkgzdfzs2mj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["Cultured"] },
+              { "key": "Brand", "values": ["Affinity Jewellers"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["AFFYM062"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Model Name",
+                "values": ["Designer Gold Hyderabadi Gold Taar Mala String"]
+              },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              {
+                "key": "Occasion",
+                "values": [
+                  "Love",
+                  "Religious",
+                  "Wedding and Engagement",
+                  "Workwear",
+                  "Everyday"
+                ]
+              },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Chain/Necklace Length", "values": ["18 inch"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Pearl"] },
+              { "key": "Plating", "values": ["18K Yellow Gold"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "5a8b2a66ffca387286aea5db4908dd2e82a2bf0e"
+    },
+    {
+      "product": {
+        "id": "0c59009b96d69ebf944401de5a5c088bd124cdd3",
+        "name": "Allure Auto CM 836 Car Mat Toyota Altis",
+        "description": "Dummy description for product Allure Auto CM 836 Car Mat Toyota Altis",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "4a751464-752a-447c-b11a-a127aaf3e4ae",
+        "variants": [
+          {
+            "id": "36a32bc12df9fd76882377168d9e6677",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 836 Car Mat Toyota Altis for Rs.1380 online. Allure Auto CM 836 Car Mat Toyota Altis at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2015,
+            "price": 4200,
+            "sale": false,
+            "sale_price": 1380,
+            "stock_keeping_unit": "CRTECN2QZHB5H9ZG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/e/k/5/fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-1100x1100-imaecjxkskucjg65.jpeg",
+                "filename": "fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-1100x1100-imaecjxkskucjg65.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/e/k/5/fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-original-imaecjxkskucjg65.jpeg",
+                "filename": "fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-original-imaecjxkskucjg65.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Altis"] },
+              {
+                "key": "Model Number",
+                "values": ["Toyota Altis - Rubber Mats ( Transparent)"]
+              },
+              { "key": "Vehicle Brand", "values": ["Toyota"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 836"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": false,
+      "id": "0c59009b96d69ebf944401de5a5c088bd124cdd3"
+    },
+    {
+      "product": {
+        "id": "3b07b8aa272b4767d5ea42477a7559d2b10d082b",
+        "name": "Village Handicrafts Alloy, Glass, Cotton Dori, Resin Necklace",
+        "description": "Dummy description for product Village Handicrafts Alloy, Glass, Cotton Dori, Resin Necklace",
+        "manufacturer_id": "1dae939de9764363848bf558f436e1f8779f7451",
+        "taric_code": "599f3ac6-15ea-4655-abdd-ed5f0fa71633",
+        "variants": [
+          {
+            "id": "6c1f6831cdb4b383042fdc51b2216aae",
+            "name": "Necklaces",
+            "description": "Village Handicrafts Alloy, Glass, Cotton Dori, Resin Necklace - Buy Village Handicrafts Alloy, Glass, Cotton Dori, Resin Necklace only for Rs. 378 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3070,
+            "price": 399,
+            "sale": false,
+            "sale_price": 378,
+            "stock_keeping_unit": "NKCE5YNTTNJHVHZT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/h/z/t/u5178-village-handicrafts-necklace-original-imae5szcq3q3gehn.jpeg",
+                "filename": "u5178-village-handicrafts-necklace-original-imae5szcq3q3gehn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/z/t/u5178-village-handicrafts-necklace-original-imae5szcq3q3gehn.jpeg",
+                "filename": "u5178-village-handicrafts-necklace-original-imae5szcq3q3gehn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/z/t/u5178-village-handicrafts-necklace-original-imae5szd3fqzrf5w.jpeg",
+                "filename": "u5178-village-handicrafts-necklace-original-imae5szd3fqzrf5w.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Floral"] },
+              { "key": "Brand", "values": ["Village Handicrafts"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["U5178"] },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Occasion",
+                "values": [
+                  "Everyday",
+                  "Wedding and Engagement",
+                  "Love",
+                  "Religious"
+                ]
+              },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Pink", "Red", "Silver"] },
+              {
+                "key": "Base Material",
+                "values": ["Alloy", "Glass", "Cotton Dori", "Resin"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "3b07b8aa272b4767d5ea42477a7559d2b10d082b"
+    },
+    {
+      "product": {
+        "id": "c3da14a3ab479c61385a64d83ce3210b0490edb4",
+        "name": "3a Autocare Innova Car Mat Toyota Innova",
+        "description": "Dummy description for product 3a Autocare Innova Car Mat Toyota Innova",
+        "manufacturer_id": "9c7c12d49c5509d0d78f7ca51f923a355a774f4b",
+        "taric_code": "d5f49881-120b-4e00-a30e-df6757b35980",
+        "variants": [
+          {
+            "id": "d11cdcc10850326d33c316fc54229aac",
+            "name": "Car Mats",
+            "description": "Buy 3a Autocare Innova Car Mat Toyota Innova for Rs.2650 online. 3a Autocare Innova Car Mat Toyota Innova at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6984,
+            "price": 3500,
+            "sale": false,
+            "sale_price": 2650,
+            "stock_keeping_unit": "CRTEB774JMGXVDNY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-1100x1100-imae9zygzqpjhhgx.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-1100x1100-imae9zygzqpjhhgx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-original-imae9zygzqpjhhgx.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-original-imae9zygzqpjhhgx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghuyayb2m.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghuyayb2m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyggpfzadfh.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyggpfzadfh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghhfcbfsf.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghhfcbfsf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-original-imae9zyggxgrjukw.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-original-imae9zyggxgrjukw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["3a Autocare"] },
+              { "key": "Model Year", "values": ["NA"] },
+              {
+                "key": "Used For",
+                "values": ["Travel with clean car floor and ecofriendly"]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Microfibre"] },
+              { "key": "Finish", "values": ["Matt"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Grommets Included", "values": ["Yes"] },
+              { "key": "Vehicle Model Name", "values": ["Innova"] },
+              { "key": "Model Number", "values": ["3A121/1/Innova"] },
+              { "key": "Spiked Sole", "values": ["Yes"] },
+              { "key": "Vehicle Brand", "values": ["Toyota"] },
+              { "key": "Model Name", "values": ["Innova"] },
+              {
+                "key": "Sales Package",
+                "values": ["2 Pieces Mats Front", "3 Pieces Mats Rear"]
+              },
+              { "key": "Pack of", "values": ["5"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Any manufacturing Defects"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Customer needs to send the product at company warehouse"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Any Manufacturing defects"]
+              },
+              { "key": "Not Covered in Warranty", "values": ["Cuts And Burn"] },
+              { "key": "Weight", "values": ["3 kg"] },
+              { "key": "Height", "values": ["68 cm"] },
+              { "key": "Width", "values": ["48 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              {
+                "key": "Other Features",
+                "values": ["Antiskid material used in bottom"]
+              },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Technology Used", "values": ["Advanced Fit Edge"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "c3da14a3ab479c61385a64d83ce3210b0490edb4"
+    },
+    {
+      "product": {
+        "id": "3be0e1c6f13b27ddab83e3635a9a80f5816933c4",
+        "name": "Zaicus Bohemian Tassels Drop Alloy Necklace",
+        "description": "Dummy description for product Zaicus Bohemian Tassels Drop Alloy Necklace",
+        "manufacturer_id": "5b5b097d93562e61be5894cd6ca72265cedcf53c",
+        "taric_code": "63dd1e7a-2809-437f-879c-cbdb9705f2c7",
+        "variants": [
+          {
+            "id": "729384395434239c4779ddadb6e2235f",
+            "name": "Necklaces",
+            "description": "Zaicus Bohemian Tassels Drop Alloy Necklace - Buy Zaicus Bohemian Tassels Drop Alloy Necklace only for Rs. 218 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7169,
+            "price": 699,
+            "sale": false,
+            "sale_price": 218,
+            "stock_keeping_unit": "NKCE5QSZUY9GPHHA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/h/h/a/bohemian-tassels-drop-zaicus-necklace-1100x1100-imae5pryzsate6ff.jpeg",
+                "filename": "bohemian-tassels-drop-zaicus-necklace-1100x1100-imae5pryzsate6ff.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/h/a/bohemian-tassels-drop-zaicus-necklace-original-imae5pryzsate6ff.jpeg",
+                "filename": "bohemian-tassels-drop-zaicus-necklace-original-imae5pryzsate6ff.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/h/a/bohemian-tassels-drop-zaicus-necklace-original-imae5psyvhbg3ykn.jpeg",
+                "filename": "bohemian-tassels-drop-zaicus-necklace-original-imae5psyvhbg3ykn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Zaicus"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["Bohemian Tassels Drop"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Bohemian Tassels Drop"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["Black", "White", "Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "3be0e1c6f13b27ddab83e3635a9a80f5816933c4"
+    },
+    {
+      "product": {
+        "id": "790daa4f0adf8bdb4135e44b6126b76012b6e470",
+        "name": "Allure Auto CM 332 Car Mat Hyundai Santro Xing",
+        "description": "Dummy description for product Allure Auto CM 332 Car Mat Hyundai Santro Xing",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "1108286f-d7fd-4925-a18b-77e34ffc22bb",
+        "variants": [
+          {
+            "id": "faec32f8cffdb773a391c5d057f46e14",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 332 Car Mat Hyundai Santro Xing for Rs.920 online. Allure Auto CM 332 Car Mat Hyundai Santro Xing at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 144,
+            "price": 2800,
+            "sale": false,
+            "sale_price": 920,
+            "stock_keeping_unit": "CRTECN2QTMBHJTTR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/x/6/e/renault-koleos-rubber-mats-beige-allure-auto-cm-384-1100x1100-imaecjxkctf8hr2m.jpeg",
+                "filename": "renault-koleos-rubber-mats-beige-allure-auto-cm-384-1100x1100-imaecjxkctf8hr2m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/x/6/e/renault-koleos-rubber-mats-beige-allure-auto-cm-384-original-imaecjxkctf8hr2m.jpeg",
+                "filename": "renault-koleos-rubber-mats-beige-allure-auto-cm-384-original-imaecjxkctf8hr2m.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Santro Xing"] },
+              {
+                "key": "Model Number",
+                "values": ["Hyundai Santro Xing - Rubber Mats ( Beige)"]
+              },
+              { "key": "Vehicle Brand", "values": ["Hyundai"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 332"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "790daa4f0adf8bdb4135e44b6126b76012b6e470"
+    },
+    {
+      "product": {
+        "id": "bcfe2263fbd88981c6a88141d9551e9489393e34",
+        "name": "MCB Exports Iron Decorative Pot Showpiece  -  74 cm",
+        "description": "Dummy description for product MCB Exports Iron Decorative Pot Showpiece  -  74 cm",
+        "manufacturer_id": "9a21c26633074583cb8b04af018dc841a5b132a0",
+        "taric_code": "6fc96c70-ed4d-4b18-b2f3-dca89558b0c5",
+        "variants": [
+          {
+            "id": "c8b274240700c107a8a9506a65c9aaba",
+            "name": "MCB Exports Ethnic",
+            "description": "MCB Exports Iron Decorative Pot Showpiece  -  74 cm (Iron, Multicolor)\n                         Price: Rs. 9,999\n\t\t\t\t\n\t\t\tIron Decorative Pot with beautiful color combination\nIron Decorative Pot with beautiful color combination",
+            "stock_level": 21,
+            "price": 11999,
+            "sale": false,
+            "sale_price": 9999,
+            "stock_keeping_unit": "SHIECYFWYYZHU6NR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/6/n/r/mcb4633-mcb-exports-original-imaebzu8zpwchzdz.jpeg",
+                "filename": "mcb4633-mcb-exports-original-imaebzu8zpwchzdz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/6/n/r/mcb4633-mcb-exports-original-imaebzu8fh34hwyt.jpeg",
+                "filename": "mcb4633-mcb-exports-original-imaebzu8fh34hwyt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["MCB Exports"] },
+              { "key": "Model Number", "values": ["MCB4633"] },
+              { "key": "Shade", "values": ["Multicolor"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Model Name", "values": ["Iron Decorative Pot"] },
+              { "key": "Material", "values": ["Iron"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["2340 g"] },
+              { "key": "Height", "values": ["74 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Sales Package", "values": ["1 Decorative Pot"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e5a0b7972815881a40abff7944473f2b079c776" }
+      },
+      "active": true,
+      "id": "bcfe2263fbd88981c6a88141d9551e9489393e34"
+    },
+    {
+      "product": {
+        "id": "0ba0999ef76b5e1c8ba9668c06d220b49fcc66a8",
+        "name": "Allure Auto CM 523 Car Mat Nissan Teana",
+        "description": "Dummy description for product Allure Auto CM 523 Car Mat Nissan Teana",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "9a9fc3f2-0bca-4f0d-9570-69f85d59645a",
+        "variants": [
+          {
+            "id": "bc89e77226cdb816798ae8f48342ee98",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 523 Car Mat Nissan Teana for Rs.920 online. Allure Auto CM 523 Car Mat Nissan Teana at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1804,
+            "price": 2800,
+            "sale": false,
+            "sale_price": 920,
+            "stock_keeping_unit": "CRTECN2QVTBESP8F",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/8/x/k/tata-nano-rubber-mats-grey-allure-auto-cm-543-1100x1100-imaecjxkgfhnb3hq.jpeg",
+                "filename": "tata-nano-rubber-mats-grey-allure-auto-cm-543-1100x1100-imaecjxkgfhnb3hq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/8/x/k/tata-nano-rubber-mats-grey-allure-auto-cm-543-original-imaecjxkgfhnb3hq.jpeg",
+                "filename": "tata-nano-rubber-mats-grey-allure-auto-cm-543-original-imaecjxkgfhnb3hq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Teana"] },
+              {
+                "key": "Model Number",
+                "values": ["Nissan Teana - Rubber Mats ( Grey)"]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Nissan"] },
+              { "key": "Model Name", "values": ["CM 523"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "0ba0999ef76b5e1c8ba9668c06d220b49fcc66a8"
+    },
+    {
+      "product": {
+        "id": "4cb41169d462f73937104fd0e058fd9a8d1b681a",
+        "name": "Ratash.Com LA_0126_2 Showpiece  -  8 cm",
+        "description": "Dummy description for product Ratash.Com LA_0126_2 Showpiece  -  8 cm",
+        "manufacturer_id": "a70ee70d69c46a1ed22921d64529373fe9952a4d",
+        "taric_code": "d34a02cc-7290-47f4-b600-0692d69f0c45",
+        "variants": [
+          {
+            "id": "31749201ddcba2025f2b1fca46a81aec",
+            "name": "Ratash.Com Ethnic",
+            "description": "Ratash.Com LA_0126_2 Showpiece  -  8 cm (Brass, Gold)\n                         Price: Rs. 498\n\t\t\t\t\n\t\t\tSpiritual note:\nIts divine aura will add an allure to your home. It is high in quality and will harmonize your home/temple interiors with spiritual ambiance. It signifies the traditional and ethnic skill of India. Bring an element of spirituality to your home.\nDetails:\nThis specially designed cut metal fine carving work Gold plated leaf with Madina (religious place of Islam) carving for embellishment of your home/temple. Handcrafted piece of art complements your home spritual compilation. Your home, your office or your business venture will reverberate with the rich ethnicity. Take your pick from our richest assortment of handicrafts and give your home a divine individuality.\nNote:\nThere could be a slight variation in design, weight, dimensions and color that shown in the image as all products are handmade. However, there would not be any compromise in QUALITY. See Terms & condition\nSpiritual note:\nIts divine aura will add an allure to your home. It is high in quality and will harmonize your home/temple interiors with spiritual ambiance. It signifies the traditional and ethnic skill of India. Bring an element of spirituality to your home.\nDetails:\nThis specially designed cut metal fine carving work Gold plated leaf with Madina (religious place of Islam) carving for embellishment of your home/temple. Handcrafted piece of art complements your home spritual compilation. Your home, your office or your business venture will reverberate with the rich ethnicity. Take your pick from our richest assortment of handicrafts and give your home a divine individuality.\nNote:\nThere could be a slight variation in design, weight, dimensions and color that shown in the image as all products are handmade. However, there would not be any compromise in QUALITY. See Terms & condition",
+            "stock_level": 9788,
+            "price": 1107,
+            "sale": true,
+            "sale_price": 498,
+            "stock_keeping_unit": "SHIECKYBUZCBZS8U",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/s/8/u/la-0126-2-ratash-com-1100x1100-imaeckwyug9kxzzb.jpeg",
+                "filename": "la-0126-2-ratash-com-1100x1100-imaeckwyug9kxzzb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/s/8/u/la-0126-2-ratash-com-original-imaeckwyug9kxzzb.jpeg",
+                "filename": "la-0126-2-ratash-com-original-imaeckwyug9kxzzb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ratash.Com"] },
+              { "key": "Model Number", "values": ["LA_0126_2"] },
+              { "key": "Shade", "values": ["Gold"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Model Name", "values": ["LA_0126_2"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["80 g"] },
+              { "key": "Height", "values": ["8 cm"] },
+              { "key": "Width", "values": ["0.1 cm"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Gold Plated Leaf", "1 Stand"]
+              },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e5a0b7972815881a40abff7944473f2b079c776" }
+      },
+      "active": true,
+      "id": "4cb41169d462f73937104fd0e058fd9a8d1b681a"
+    },
+    {
+      "product": {
+        "id": "a278bb194e784273af954f24da0e88f7cd57fc22",
+        "name": "Aara Arts Coral Alloy Necklace",
+        "description": "Dummy description for product Aara Arts Coral Alloy Necklace",
+        "manufacturer_id": "e3596e650b08daf990908cf5d5a3d822d113e0ef",
+        "taric_code": "cba3253e-4d80-4a75-9971-0a52a99a46d7",
+        "variants": [
+          {
+            "id": "b046d7e2b990a851bb6be1d8cd1dc7af",
+            "name": "Necklaces",
+            "description": "Aara Arts Coral Alloy Necklace - Buy Aara Arts Coral Alloy Necklace only for Rs. 660 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6801,
+            "price": 790,
+            "sale": false,
+            "sale_price": 660,
+            "stock_keeping_unit": "NKCDYHF8ZEK8ZM58",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/m/5/8/aaran092-aara-arts-necklace-original-imadyg6uskn7zzsy.jpeg",
+                "filename": "aaran092-aara-arts-necklace-original-imadyg6uskn7zzsy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/m/5/8/aaran092-aara-arts-necklace-original-imadyg6uskn7zzsy.jpeg",
+                "filename": "aaran092-aara-arts-necklace-original-imadyg6uskn7zzsy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Aara Arts"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["AARAN092"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Coral"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Love", "Religious"]
+              },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Chain/Necklace Length", "values": ["24 inch"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Necklace Type", "values": ["Neck Piece"] },
+              { "key": "Finish", "values": ["Matte"] },
+              { "key": "Clasp Type", "values": ["Lobster Claw"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "a278bb194e784273af954f24da0e88f7cd57fc22"
+    },
+    {
+      "product": {
+        "id": "dd565658f358842e1daaf7cfe0467818bd2ee352",
+        "name": "Allure Auto CM 1491 Car Mat Maruti Alto K10",
+        "description": "Dummy description for product Allure Auto CM 1491 Car Mat Maruti Alto K10",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "89e3b890-70cc-4824-a074-3070fafc08ef",
+        "variants": [
+          {
+            "id": "75ac8d2c0f61f088fdf6e2929987e34f",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 1491 Car Mat Maruti Alto K10 for Rs.1599 online. Allure Auto CM 1491 Car Mat Maruti Alto K10 at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6160,
+            "price": 4900,
+            "sale": false,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QZCKDYCTG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/m/z/f/mahindra-scorpio-anti-slip-noodle-car-floor-mats-set-of-5-green-1100x1100-imaecjxhhkhuzvak.jpeg",
+                "filename": "mahindra-scorpio-anti-slip-noodle-car-floor-mats-set-of-5-green-1100x1100-imaecjxhhkhuzvak.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/m/z/f/mahindra-scorpio-anti-slip-noodle-car-floor-mats-set-of-5-green-original-imaecjxhhkhuzvak.jpeg",
+                "filename": "mahindra-scorpio-anti-slip-noodle-car-floor-mats-set-of-5-green-original-imaecjxhhkhuzvak.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Alto K10"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Maruti Alto K10 - Anti Slip Noodle Car Floor Mats Set Of 5 Green"
+                ]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Maruti"] },
+              { "key": "Model Name", "values": ["CM 1491"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": false,
+      "id": "dd565658f358842e1daaf7cfe0467818bd2ee352"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

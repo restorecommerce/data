@@ -1,0 +1,18 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createRoles.json"
+    },
+	{
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createUsers.json"
+    }
+  ]
+}

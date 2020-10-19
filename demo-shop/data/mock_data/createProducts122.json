@@ -1,0 +1,3256 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "f129c14cc4c2d137ee0ab3ee94d6d1a18f4c20fa",
+        "name": "ARRA Solid Wood 5 Seater Sofa",
+        "description": "Dummy description for product ARRA Solid Wood 5 Seater Sofa",
+        "manufacturer_id": "8579ff944c668d20274e9085d5fa1ce6e2013ece",
+        "taric_code": "56908617-f5db-4c25-9191-8039a6e79da1",
+        "variants": [
+          {
+            "id": "069a49081494492829bd914203a8bd52",
+            "name": "Sofas & Sectionals",
+            "description": "Buy ARRA Solid Wood 5 Seater Sofa for Rs.61800 online. ARRA Solid Wood 5 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4184,
+            "price": 61800,
+            "sale": false,
+            "sale_price": 61800,
+            "stock_keeping_unit": "SOFEDVYZMGY6UXFJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/x/f/j/arra0214-cherry-hardwood-arra-black-black-1100x1100-imaebsffkzgkxp36.jpeg",
+                "filename": "arra0214-cherry-hardwood-arra-black-black-1100x1100-imaebsffkzgkxp36.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/x/f/j/arra0214-cherry-hardwood-arra-black-black-original-imaebsffkzgkxp36.jpeg",
+                "filename": "arra0214-cherry-hardwood-arra-black-black-original-imaebsffkzgkxp36.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/x/f/j/arra0214-cherry-hardwood-arra-black-black-original-imaebsf2kxhug7gy.jpeg",
+                "filename": "arra0214-cherry-hardwood-arra-black-black-original-imaebsf2kxhug7gy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/x/f/j/arra0214-cherry-hardwood-arra-black-black-original-imaeduuepqhgenh5.jpeg",
+                "filename": "arra0214-cherry-hardwood-arra-black-black-original-imaeduuepqhgenh5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/x/f/j/arra0214-cherry-hardwood-arra-black-black-original-imaeduuef6gby2ct.jpeg",
+                "filename": "arra0214-cherry-hardwood-arra-black-black-original-imaeduuef6gby2ct.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/x/f/j/arra0214-cherry-hardwood-arra-black-black-original-imaebsffnryfd74f.jpeg",
+                "filename": "arra0214-cherry-hardwood-arra-black-black-original-imaebsffnryfd74f.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "781e5e93-4e1c-493c-9c9b-e9581a378535",
+                "values": ["5 Seater"]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["5 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["Cushion"] },
+              { "key": "Suitable For", "values": ["Living Room", "Seating"] },
+              { "key": "Model Number", "values": ["ARRA0214"] },
+              { "key": "Style Code", "values": ["ARRA0214"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Wipe with moist cloth"]
+              },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "b81b71a9-950a-4547-bd7d-8e4cb14c8dac",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "d09eadb8-3975-438a-bd8b-55a5354698ce",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Service Type", "values": ["Replacement"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "15 Days against any manufacturing fault from the date of delivery."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Weight", "values": ["107 kg"] },
+              { "key": "Height", "values": ["950 mm"] },
+              { "key": "Width", "values": ["850 mm"] },
+              { "key": "Depth", "values": ["850 mm"] },
+              { "key": "Upholstery Color", "values": ["Black"] },
+              { "key": "Primary Color", "values": ["Brown"] },
+              { "key": "Primary Material", "values": ["Solid Wood"] },
+              { "key": "Secondary Material Subtype", "values": ["Plywood"] },
+              { "key": "Secondary Material", "values": ["Foam"] },
+              { "key": "Finish Color", "values": ["Black"] },
+              {
+                "key": "Primary Material Subtype",
+                "values": ["Cherry Hardwood"]
+              }
+            ]
+          },
+          {
+            "id": "c6461a2a84cf121d51294d3878c81686",
+            "name": "Sofas & Sectionals",
+            "description": "Buy ARRA Solid Wood 5 Seater Sofa for Rs.51400 online. ARRA Solid Wood 5 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 532,
+            "price": 51400,
+            "sale": false,
+            "sale_price": 51400,
+            "stock_keeping_unit": "SOFEDVYZAHXWYTGW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/t/g/w/arra0250-cherry-hardwood-arra-brown-brown-1100x1100-imaebsezbkvpkdmx.jpeg",
+                "filename": "arra0250-cherry-hardwood-arra-brown-brown-1100x1100-imaebsezbkvpkdmx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/t/g/w/arra0250-cherry-hardwood-arra-brown-brown-original-imaebsezbkvpkdmx.jpeg",
+                "filename": "arra0250-cherry-hardwood-arra-brown-brown-original-imaebsezbkvpkdmx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/t/g/w/arra0250-cherry-hardwood-arra-brown-brown-original-imaebsfyhux7e62q.jpeg",
+                "filename": "arra0250-cherry-hardwood-arra-brown-brown-original-imaebsfyhux7e62q.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/t/g/w/arra0250-cherry-hardwood-arra-brown-brown-original-imaeduuezzfc7huz.jpeg",
+                "filename": "arra0250-cherry-hardwood-arra-brown-brown-original-imaeduuezzfc7huz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/t/g/w/arra0250-cherry-hardwood-arra-brown-brown-original-imaeduuez4p9hszc.jpeg",
+                "filename": "arra0250-cherry-hardwood-arra-brown-brown-original-imaeduuez4p9hszc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/t/g/w/arra0250-cherry-hardwood-arra-brown-brown-original-imaebsezxzmzbphs.jpeg",
+                "filename": "arra0250-cherry-hardwood-arra-brown-brown-original-imaebsezxzmzbphs.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "24adab75-831f-44b1-9aab-a9bd3396f4c1",
+                "values": ["5 Seater"]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["5 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["Cushion"] },
+              { "key": "Suitable For", "values": ["Living Room", "Seating"] },
+              { "key": "Model Number", "values": ["ARRA0250"] },
+              { "key": "Style Code", "values": ["ARRA0250"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Wipe with moist cloth"]
+              },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "4abba70c-b6d9-49ec-a1ab-8f03b8e6ab54",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "3bf1601a-fa0a-4895-b864-679ed8c98236",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Service Type", "values": ["Replacement"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "15 Days against any manufacturing fault from the date of delivery."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Weight", "values": ["86 kg"] },
+              { "key": "Height", "values": ["950 mm"] },
+              { "key": "Width", "values": ["850 mm"] },
+              { "key": "Depth", "values": ["850 mm"] },
+              { "key": "Upholstery Color", "values": ["Brown"] },
+              { "key": "Primary Color", "values": ["Brown"] },
+              { "key": "Primary Material", "values": ["Solid Wood"] },
+              { "key": "Secondary Material Subtype", "values": ["Polyester"] },
+              { "key": "Secondary Material", "values": ["Foam"] },
+              { "key": "Finish Color", "values": ["Brown"] },
+              {
+                "key": "Primary Material Subtype",
+                "values": ["Cherry Hardwood"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c4c3422c7b5edcfa8db3ef008d78becc5014214" }
+      },
+      "active": true,
+      "id": "f129c14cc4c2d137ee0ab3ee94d6d1a18f4c20fa"
+    },
+    {
+      "product": {
+        "id": "68550573c3d6d8bf6ff070166ab6ec1c7f016af1",
+        "name": "Orkus 5 W LED Bulb",
+        "description": "Dummy description for product Orkus 5 W LED Bulb",
+        "manufacturer_id": "48899e6d8bdba4d392970c08e05465fb266f6697",
+        "taric_code": "bef8845f-b26d-4d0c-83c1-18e93372f9fa",
+        "variants": [
+          {
+            "id": "a6295f05dca2d5fac2b005d3bb68b306",
+            "name": "Orkus Bulbs",
+            "description": "Orkus 5 W LED Bulb (White)\n                         Price: Rs. 320\n\t\t\t\t\n\t\t\tLasts 6 times longer than standard incandescent lamps\nLasts 6 times longer than standard incandescent lamps",
+            "stock_level": 2849,
+            "price": 600,
+            "sale": false,
+            "sale_price": 320,
+            "stock_keeping_unit": "BLBEDH9XMZBXAYAH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bulb/y/a/h/5w-optiglow-led-bulb-orkus-1100x1100-imaedgdy2qnvetrc.jpeg",
+                "filename": "5w-optiglow-led-bulb-orkus-1100x1100-imaedgdy2qnvetrc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bulb/y/a/h/5w-optiglow-led-bulb-orkus-original-imaedgdy2qnvetrc.jpeg",
+                "filename": "5w-optiglow-led-bulb-orkus-original-imaedgdy2qnvetrc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Orkus"] },
+              { "key": "Rated Life", "values": ["15years"] },
+              { "key": "Model Number", "values": ["5W OPTIGLOW LED BULB"] },
+              { "key": "Shade", "values": ["White"] },
+              { "key": "Bulb Shape", "values": ["HIGH GLOW"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Bulb Base", "values": ["B22"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Lumen Efficacy", "values": ["100 lm/W"] },
+              { "key": "Lumen", "values": ["500"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              { "key": "Domestic Warranty", "values": ["2 Year"] },
+              { "key": "Power Consumption", "values": ["5 W"] },
+              { "key": "Voltage", "values": ["220-240"] },
+              { "key": "Sales Package", "values": ["1 Bulb"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Shatter Proof", "values": ["Yes"] },
+              { "key": "Certification", "values": ["BIS", "ISO"] },
+              { "key": "Energy Saving", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "31611de385056957a2f1dbe131f6f8a05219fee6" }
+      },
+      "active": true,
+      "id": "68550573c3d6d8bf6ff070166ab6ec1c7f016af1"
+    },
+    {
+      "product": {
+        "id": "55bfd59a26351e6f2002ff2c53f3ef0d72feae55",
+        "name": "Sunita Fashion Shiva Ling Home Pooja Purpose Showpiece  -  10 cm",
+        "description": "Dummy description for product Sunita Fashion Shiva Ling Home Pooja Purpose Showpiece  -  10 cm",
+        "manufacturer_id": "9a63a95b0673e39c9bcd6379e7b3f2aef2774b4e",
+        "taric_code": "065bdc12-04e1-4327-a07b-54594abbdd8a",
+        "variants": [
+          {
+            "id": "89443ee6393d52428103f26ed6f54501",
+            "name": "Sunita Fashion Religious Idols",
+            "description": "Buy Sunita Fashion Shiva Ling Home Pooja Purpose Showpiece  -  10 cm for Rs.233 online. Sunita Fashion Shiva Ling Home Pooja Purpose Showpiece  -  10 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6724,
+            "price": 300,
+            "sale": false,
+            "sale_price": 233,
+            "stock_keeping_unit": "SHIED8FA8YMGFQNC",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/r/x/3/af-ik-sl-14-anshul-fashion-1100x1100-imaecx5ygwdkwyrp.jpeg",
+                "filename": "af-ik-sl-14-anshul-fashion-1100x1100-imaecx5ygwdkwyrp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/r/x/3/af-ik-sl-14-anshul-fashion-original-imaecx5ygwdkwyrp.jpeg",
+                "filename": "af-ik-sl-14-anshul-fashion-original-imaecx5ygwdkwyrp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Sunita Fashion"] },
+              { "key": "Model Number", "values": ["SF-IK-SL-20"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Material", "values": ["Stoneware"] },
+              {
+                "key": "Model Name",
+                "values": ["Shiva Ling Home Pooja Purpose"]
+              },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Height", "values": ["10 cm"] },
+              { "key": "Width", "values": ["5 cm"] },
+              { "key": "Depth", "values": ["4 cm"] },
+              { "key": "Sales Package", "values": ["Idol"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "55bfd59a26351e6f2002ff2c53f3ef0d72feae55"
+    },
+    {
+      "product": {
+        "id": "60d5831014da3c5aa0256f7c22a4f050887780e6",
+        "name": "Galaxy Decorations Polyester Royalblue Plain Eyelet Door Curtain",
+        "description": "Dummy description for product Galaxy Decorations Polyester Royalblue Plain Eyelet Door Curtain",
+        "manufacturer_id": "58203f9f09206b8d7febcf515c91205c554b2b85",
+        "taric_code": "987167af-c2e1-4b21-8af4-04836d74d9a0",
+        "variants": [
+          {
+            "id": "dd9a5979c32bbdd836984529af862303",
+            "name": "Curtains",
+            "description": "Buy Galaxy Decorations Polyester Royalblue Plain Eyelet Door Curtain at Rs. 2199 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 9589,
+            "price": 3299,
+            "sale": false,
+            "sale_price": 2199,
+            "stock_keeping_unit": "CRNEBXXCXTBWMMKQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/curtain/m/k/q/gd-222-82-galaxy-decorations-eyelet-plain-1100x1100-imaebxspgqcsyar5.jpeg",
+                "filename": "gd-222-82-galaxy-decorations-eyelet-plain-1100x1100-imaebxspgqcsyar5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/curtain/m/k/q/gd-222-82-galaxy-decorations-eyelet-plain-original-imaebxspgqcsyar5.jpeg",
+                "filename": "gd-222-82-galaxy-decorations-eyelet-plain-original-imaebxspgqcsyar5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Galaxy Decorations"] },
+              { "key": "Designed For", "values": ["Door"] },
+              { "key": "Type", "values": ["Eyelet"] },
+              { "key": "Model Name", "values": ["Plain"] },
+              { "key": "Model ID", "values": ["GD-222"] },
+              { "key": "Color", "values": ["Royalblue"] },
+              { "key": "Length", "values": ["82 cm"] },
+              { "key": "Material", "values": ["Polyester"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 8"]
+              },
+              { "key": "Sales Package", "values": ["8 curtains"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "79ee8c484fcf7952ee8567467ad6e65733fdf11c" }
+      },
+      "active": true,
+      "id": "60d5831014da3c5aa0256f7c22a4f050887780e6"
+    },
+    {
+      "product": {
+        "id": "56dda60ea93c8e81033421a8103f0bbace17ab8d",
+        "name": "ARRA Engineered Wood 2 Seater Sofa",
+        "description": "Dummy description for product ARRA Engineered Wood 2 Seater Sofa",
+        "manufacturer_id": "8579ff944c668d20274e9085d5fa1ce6e2013ece",
+        "taric_code": "55e9b9e9-9b14-447e-ab56-2f930a896fca",
+        "variants": [
+          {
+            "id": "ac89a4af153f3a29748dedfa8b364f14",
+            "name": "Sofas & Sectionals",
+            "description": "Buy ARRA Engineered Wood 2 Seater Sofa for Rs.15900 online. ARRA Engineered Wood 2 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4326,
+            "price": 15900,
+            "sale": false,
+            "sale_price": 15900,
+            "stock_keeping_unit": "SOFEDVYZZJME6AJR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/a/j/r/arra0039-cherry-hardwood-arra-brown-delite-walnut-1100x1100-imaebsfycshkgbmg.jpeg",
+                "filename": "arra0039-cherry-hardwood-arra-brown-delite-walnut-1100x1100-imaebsfycshkgbmg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/a/j/r/arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaebsfycshkgbmg.jpeg",
+                "filename": "arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaebsfycshkgbmg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/a/j/r/arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaebsfyz8tuhpsn.jpeg",
+                "filename": "arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaebsfyz8tuhpsn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/a/j/r/arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaeduucvmkm7zvp.jpeg",
+                "filename": "arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaeduucvmkm7zvp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/a/j/r/arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaebsfyetvhvgdz.jpeg",
+                "filename": "arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaebsfyetvhvgdz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/a/j/r/arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaebsfykhwmyhyg.jpeg",
+                "filename": "arra0039-cherry-hardwood-arra-brown-delite-walnut-original-imaebsfykhwmyhyg.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "e305f09f-9c69-4f72-8a7b-08e9d4e1b66f",
+                "values": ["2 Seater Sofa Set"]
+              },
+              {
+                "key": "b8d12f55-e5e9-4532-b816-483d9ddeaf3a",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "b377196b-9a38-4671-84d4-0df800b574ab",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam", "Cotton"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["2 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["Cushion"] },
+              { "key": "Suitable For", "values": ["Living Room", "Seating"] },
+              { "key": "Model Number", "values": ["ARRA0039"] },
+              { "key": "Style Code", "values": ["ARRA0039"] },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Wipe with moist cloth"]
+              },
+              { "key": "Weight", "values": ["35 kg"] },
+              { "key": "Height", "values": ["500 mm"] },
+              { "key": "Width", "values": ["650 mm"] },
+              { "key": "Depth", "values": ["650 mm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "15 Days against any manufacturing fault from the date of delivery."
+                ]
+              },
+              { "key": "Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Primary Material", "values": ["Engineered Wood"] },
+              { "key": "Primary Color", "values": ["Brown"] },
+              { "key": "Upholstery Color", "values": ["Brown Delite"] },
+              { "key": "Secondary Material", "values": ["Fabric"] },
+              { "key": "Secondary Material Subtype", "values": ["Polyester"] },
+              { "key": "Finish Color", "values": ["Walnut"] },
+              {
+                "key": "Primary Material Subtype",
+                "values": ["Cherry Hardwood"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c4c3422c7b5edcfa8db3ef008d78becc5014214" }
+      },
+      "active": true,
+      "id": "56dda60ea93c8e81033421a8103f0bbace17ab8d"
+    },
+    {
+      "product": {
+        "id": "2b1a9d940f7fc249c6e43a5a17fd6243573e8737",
+        "name": "ARRA Engineered Wood 6 Seater Sofa",
+        "description": "Dummy description for product ARRA Engineered Wood 6 Seater Sofa",
+        "manufacturer_id": "8579ff944c668d20274e9085d5fa1ce6e2013ece",
+        "taric_code": "54435ed0-749d-48f3-bf6a-e360e1333c04",
+        "variants": [
+          {
+            "id": "0896b58d04007af2a8eb8f5534ff5ff0",
+            "name": "Sofas & Sectionals",
+            "description": "Buy ARRA Engineered Wood 6 Seater Sofa for Rs.44500 online. ARRA Engineered Wood 6 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5995,
+            "price": 44500,
+            "sale": true,
+            "sale_price": 44500,
+            "stock_keeping_unit": "SOFEDVYZ564ZQTNJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/t/n/j/arra0088-cherry-hardwood-arra-yellow-walnut-1100x1100-imaeduuemdjyavmh.jpeg",
+                "filename": "arra0088-cherry-hardwood-arra-yellow-walnut-1100x1100-imaeduuemdjyavmh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/t/n/j/arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduuemdjyavmh.jpeg",
+                "filename": "arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduuemdjyavmh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/t/n/j/arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduuehmfztyjy.jpeg",
+                "filename": "arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduuehmfztyjy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/t/n/j/arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduue6mw8uwxg.jpeg",
+                "filename": "arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduue6mw8uwxg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/t/n/j/arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduuekhc5mw6r.jpeg",
+                "filename": "arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduuekhc5mw6r.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/t/n/j/arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduuepxwez3wx.jpeg",
+                "filename": "arra0088-cherry-hardwood-arra-yellow-walnut-original-imaeduuepxwez3wx.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "2e657558-acf8-4d86-9e00-9e8fdf7fe8c3",
+                "values": ["6 Seater"]
+              },
+              {
+                "key": "563d7506-5318-482d-b0a4-298f9e3357f3",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "c1d4edb7-2a4b-4e75-bfce-6b40552ee515",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam", "Cotton"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["6 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["Cushion"] },
+              { "key": "Suitable For", "values": ["Living Room", "Seating"] },
+              { "key": "Model Number", "values": ["ARRA0088"] },
+              { "key": "Style Code", "values": ["ARRA0088"] },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Wipe with moist cloth"]
+              },
+              { "key": "Weight", "values": ["22 kg"] },
+              { "key": "Height", "values": ["500 mm"] },
+              { "key": "Width", "values": ["640 mm"] },
+              { "key": "Depth", "values": ["640 mm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "15 Days against any manufacturing fault from the date of delivery."
+                ]
+              },
+              { "key": "Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Primary Material", "values": ["Engineered Wood"] },
+              { "key": "Primary Color", "values": ["Brown"] },
+              { "key": "Upholstery Color", "values": ["Yellow"] },
+              { "key": "Secondary Material", "values": ["Fabric"] },
+              { "key": "Secondary Material Subtype", "values": ["Plywood"] },
+              { "key": "Finish Color", "values": ["Walnut"] },
+              {
+                "key": "Primary Material Subtype",
+                "values": ["Cherry Hardwood"]
+              }
+            ]
+          },
+          {
+            "id": "81bf6923d1b7f6fdbbc43221d630e26b",
+            "name": "Sofas & Sectionals",
+            "description": "Buy ARRA Engineered Wood 6 Seater Sofa for Rs.44500 online. ARRA Engineered Wood 6 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7463,
+            "price": 44500,
+            "sale": false,
+            "sale_price": 44500,
+            "stock_keeping_unit": "SOFEDVYZVFTZHMYT",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/m/y/t/arra0301-cherry-hardwood-arra-beige-beige-1100x1100-imaeduufevxnvjwe.jpeg",
+                "filename": "arra0301-cherry-hardwood-arra-beige-beige-1100x1100-imaeduufevxnvjwe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/m/y/t/arra0301-cherry-hardwood-arra-beige-beige-original-imaeduufevxnvjwe.jpeg",
+                "filename": "arra0301-cherry-hardwood-arra-beige-beige-original-imaeduufevxnvjwe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/m/y/t/arra0301-cherry-hardwood-arra-beige-beige-original-imaeduufrumuahz2.jpeg",
+                "filename": "arra0301-cherry-hardwood-arra-beige-beige-original-imaeduufrumuahz2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/m/y/t/arra0301-cherry-hardwood-arra-beige-beige-original-imaeduuftr4ts72h.jpeg",
+                "filename": "arra0301-cherry-hardwood-arra-beige-beige-original-imaeduuftr4ts72h.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/m/y/t/arra0301-cherry-hardwood-arra-beige-beige-original-imaeduufebzy9mzg.jpeg",
+                "filename": "arra0301-cherry-hardwood-arra-beige-beige-original-imaeduufebzy9mzg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/m/y/t/arra0301-cherry-hardwood-arra-beige-beige-original-imaeduufzghgqjqz.jpeg",
+                "filename": "arra0301-cherry-hardwood-arra-beige-beige-original-imaeduufzghgqjqz.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "34ea962e-dc5e-4d64-b934-aedcadecdf7c",
+                "values": ["6 Seater"]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam", "Cotton"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["6 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["Cushion"] },
+              { "key": "Suitable For", "values": ["Living Room", "Seating"] },
+              { "key": "Model Number", "values": ["ARRA0301"] },
+              { "key": "Style Code", "values": ["ARRA0301"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Wipe with moist cloth"]
+              },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "c68a400c-a30e-4062-95c4-5b549692fbfe",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "7c2c1d1f-13c6-4b16-a460-4ee224273ac0",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Service Type", "values": ["Replacement"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "15 Days against any manufacturing fault from the date of delivery."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Weight", "values": ["22 kg"] },
+              { "key": "Height", "values": ["500 mm"] },
+              { "key": "Width", "values": ["640 mm"] },
+              { "key": "Depth", "values": ["640 mm"] },
+              { "key": "Upholstery Color", "values": ["Beige"] },
+              { "key": "Primary Color", "values": ["Brown"] },
+              { "key": "Primary Material", "values": ["Engineered Wood"] },
+              { "key": "Secondary Material Subtype", "values": ["Polyester"] },
+              { "key": "Secondary Material", "values": ["Fabric"] },
+              { "key": "Finish Color", "values": ["Beige"] },
+              {
+                "key": "Primary Material Subtype",
+                "values": ["Cherry Hardwood"]
+              }
+            ]
+          },
+          {
+            "id": "bd00509cb3220544e81563f1bb42dcd2",
+            "name": "Sofas & Sectionals",
+            "description": "Buy ARRA Engineered Wood 6 Seater Sofa for Rs.44500 online. ARRA Engineered Wood 6 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1715,
+            "price": 44500,
+            "sale": false,
+            "sale_price": 44500,
+            "stock_keeping_unit": "SOFEDVYZHG5SHGXM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/g/x/m/arra0090-cherry-hardwood-arra-light-brown-walnut-1100x1100-imaeduuezshjfcm5.jpeg",
+                "filename": "arra0090-cherry-hardwood-arra-light-brown-walnut-1100x1100-imaeduuezshjfcm5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/g/x/m/arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduuezshjfcm5.jpeg",
+                "filename": "arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduuezshjfcm5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/g/x/m/arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduueczp2qfyk.jpeg",
+                "filename": "arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduueczp2qfyk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/g/x/m/arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduuetzrgggyz.jpeg",
+                "filename": "arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduuetzrgggyz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/g/x/m/arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduuefpxzcmem.jpeg",
+                "filename": "arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduuefpxzcmem.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/g/x/m/arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduuempvhyfkq.jpeg",
+                "filename": "arra0090-cherry-hardwood-arra-light-brown-walnut-original-imaeduuempvhyfkq.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "2b9d9daa-00e5-4ab0-810d-c90042ae8959",
+                "values": ["6 Seater"]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam", "Cotton"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["6 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["Cushion"] },
+              { "key": "Suitable For", "values": ["Living Room", "Seating"] },
+              { "key": "Model Number", "values": ["ARRA0090"] },
+              { "key": "Style Code", "values": ["ARRA0090"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Wipe with moist cloth"]
+              },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "94e3c759-322f-411d-843f-4c33b8cf1a34",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "a7f3f116-c099-426a-849d-98019fe34ea1",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Service Type", "values": ["Replacement"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "15 Days against any manufacturing fault from the date of delivery."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Weight", "values": ["22 kg"] },
+              { "key": "Height", "values": ["500 mm"] },
+              { "key": "Width", "values": ["640 mm"] },
+              { "key": "Depth", "values": ["640 mm"] },
+              { "key": "Upholstery Color", "values": ["Light Brown"] },
+              { "key": "Primary Color", "values": ["Brown"] },
+              { "key": "Primary Material", "values": ["Engineered Wood"] },
+              { "key": "Secondary Material Subtype", "values": ["Plywood"] },
+              { "key": "Secondary Material", "values": ["Fabric"] },
+              { "key": "Finish Color", "values": ["Walnut"] },
+              {
+                "key": "Primary Material Subtype",
+                "values": ["Cherry Hardwood"]
+              }
+            ]
+          },
+          {
+            "id": "e467f2cf000812cd2b2ce52956b01d9f",
+            "name": "Sofas & Sectionals",
+            "description": "Buy ARRA Engineered Wood 6 Seater Sofa for Rs.44500 online. ARRA Engineered Wood 6 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8117,
+            "price": 44500,
+            "sale": true,
+            "sale_price": 44500,
+            "stock_keeping_unit": "SOFEDVYZGFTKSDGG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/d/g/g/arra0300-cherry-hardwood-arra-green-green-1100x1100-imaeduuf9qahayhv.jpeg",
+                "filename": "arra0300-cherry-hardwood-arra-green-green-1100x1100-imaeduuf9qahayhv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/d/g/g/arra0300-cherry-hardwood-arra-green-green-original-imaeduuf9qahayhv.jpeg",
+                "filename": "arra0300-cherry-hardwood-arra-green-green-original-imaeduuf9qahayhv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/d/g/g/arra0300-cherry-hardwood-arra-green-green-original-imaeduufqbvjh4rc.jpeg",
+                "filename": "arra0300-cherry-hardwood-arra-green-green-original-imaeduufqbvjh4rc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/d/g/g/arra0300-cherry-hardwood-arra-green-green-original-imaeduufz5dpwart.jpeg",
+                "filename": "arra0300-cherry-hardwood-arra-green-green-original-imaeduufz5dpwart.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/d/g/g/arra0300-cherry-hardwood-arra-green-green-original-imaeduufxqkrtgfe.jpeg",
+                "filename": "arra0300-cherry-hardwood-arra-green-green-original-imaeduufxqkrtgfe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/d/g/g/arra0300-cherry-hardwood-arra-green-green-original-imaeduufxbd6maz7.jpeg",
+                "filename": "arra0300-cherry-hardwood-arra-green-green-original-imaeduufxbd6maz7.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "7c397317-b336-40b4-9661-ad975c5af136",
+                "values": ["6 Seater"]
+              },
+              {
+                "key": "5e1fcfd3-22f8-4b2b-9868-0944c43718ba",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "70668825-ac94-4a8e-a9fc-23c553c7bac0",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam", "Cotton"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["6 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["Cushion"] },
+              { "key": "Suitable For", "values": ["Living Room", "Seating"] },
+              { "key": "Model Number", "values": ["ARRA0300"] },
+              { "key": "Style Code", "values": ["ARRA0300"] },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Wipe with moist cloth"]
+              },
+              { "key": "Weight", "values": ["22 kg"] },
+              { "key": "Height", "values": ["500 mm"] },
+              { "key": "Width", "values": ["640 mm"] },
+              { "key": "Depth", "values": ["640 mm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "15 Days against any manufacturing fault from the date of delivery."
+                ]
+              },
+              { "key": "Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Manufacturing fault"]
+              },
+              { "key": "Primary Material", "values": ["Engineered Wood"] },
+              { "key": "Primary Color", "values": ["Brown"] },
+              { "key": "Upholstery Color", "values": ["Green"] },
+              { "key": "Secondary Material", "values": ["Fabric"] },
+              { "key": "Secondary Material Subtype", "values": ["Polyester"] },
+              { "key": "Finish Color", "values": ["Green"] },
+              {
+                "key": "Primary Material Subtype",
+                "values": ["Cherry Hardwood"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c4c3422c7b5edcfa8db3ef008d78becc5014214" }
+      },
+      "active": true,
+      "id": "2b1a9d940f7fc249c6e43a5a17fd6243573e8737"
+    },
+    {
+      "product": {
+        "id": "4e54a2af4cc644f4cac7f50cef0303f68623a041",
+        "name": "Daycraft Signature A6 Notebook Adhesive Bound",
+        "description": "Dummy description for product Daycraft Signature A6 Notebook Adhesive Bound",
+        "manufacturer_id": "600e852ec9b18796b9a6b5b7e5df85f656f9a581",
+        "taric_code": "a5943204-e4c1-4b04-b70e-5af90df5212b",
+        "variants": [
+          {
+            "id": "05587647377651adae2565ac282e4384",
+            "name": "Daycraft Office Supplies",
+            "description": "Buy Daycraft Signature A6 Notebook Adhesive Bound for Rs.890 online. Daycraft Signature A6 Notebook Adhesive Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5436,
+            "price": 890,
+            "sale": false,
+            "sale_price": 890,
+            "stock_keeping_unit": "DIAE4Q5MP7TFVZ8T",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/z/8/t/daycraft-signature-a6-grey-notebook-1100x1100-imae4qgfgfcvd2gf.jpeg",
+                "filename": "daycraft-signature-a6-grey-notebook-1100x1100-imae4qgfgfcvd2gf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/diary-notebook/z/8/t/daycraft-signature-a6-grey-notebook-original-imae4qgfgfcvd2gf.jpeg",
+                "filename": "daycraft-signature-a6-grey-notebook-original-imae4qgfgfcvd2gf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Unruled"] },
+              { "key": "Model id", "values": ["Signature(A6)-Grey Notebook"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "No. of Pages", "values": ["128"] },
+              { "key": "Brand Name", "values": ["Daycraft"] },
+              { "key": "Binding", "values": ["Adhesive Bound"] },
+              { "key": "Size", "values": ["A6"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Length", "values": ["14.9 cm"] },
+              { "key": "Width", "values": ["10.8 cm"] },
+              { "key": "Sales Package", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": true,
+      "id": "4e54a2af4cc644f4cac7f50cef0303f68623a041"
+    },
+    {
+      "product": {
+        "id": "7002ccc4f704fabe88cc6135e602bf6c15878a36",
+        "name": "Durian Tulsa Leatherette 1 Seater Sofa",
+        "description": "Dummy description for product Durian Tulsa Leatherette 1 Seater Sofa",
+        "manufacturer_id": "fcddc9a07b04195b0843a9a4957fbfa0d5944a38",
+        "taric_code": "57e7422e-914f-4412-bb4e-308465833ce7",
+        "variants": [
+          {
+            "id": "b922a87a7c65a84e3cd287f529455755",
+            "name": "Sofas & Sectionals",
+            "description": "Buy Durian Tulsa Leatherette 1 Seater Sofa for Rs.23205 online. Durian Tulsa Leatherette 1 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9912,
+            "price": 35700,
+            "sale": true,
+            "sale_price": 23205,
+            "stock_keeping_unit": "SOFE8HPYPESPQRPD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/r/p/d/tulsa-1-plywood-durian-brown-brown-1100x1100-imae8e4z98dpt6my.jpeg",
+                "filename": "tulsa-1-plywood-durian-brown-brown-1100x1100-imae8e4z98dpt6my.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/r/p/d/tulsa-1-plywood-durian-brown-brown-original-imae8e4z98dpt6my.jpeg",
+                "filename": "tulsa-1-plywood-durian-brown-brown-original-imae8e4z98dpt6my.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/r/p/d/tulsa-1-leatherette-durian-brown-brown-original-imae998ypbc9ncph.jpeg",
+                "filename": "tulsa-1-leatherette-durian-brown-brown-original-imae998ypbc9ncph.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/r/p/d/tulsa-1-plywood-durian-brown-brown-original-imae8e4zg3mrqyfw.jpeg",
+                "filename": "tulsa-1-plywood-durian-brown-brown-original-imae8e4zg3mrqyfw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/r/p/d/tulsa-1-plywood-durian-brown-brown-original-imae8e4zhayz9mza.jpeg",
+                "filename": "tulsa-1-plywood-durian-brown-brown-original-imae8e4zhayz9mza.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/r/p/d/tulsa-1-plywood-durian-brown-brown-original-imae8e4zfgr62nwq.jpeg",
+                "filename": "tulsa-1-plywood-durian-brown-brown-original-imae8e4zfgr62nwq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/r/p/d/tulsa-1-plywood-durian-brown-brown-original-imae8uhxxsa8wz6s.jpeg",
+                "filename": "tulsa-1-plywood-durian-brown-brown-original-imae8uhxxsa8wz6s.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "fe0557a6-51d2-4801-87fd-09272e227244",
+                "values": ["1 Sofa"]
+              },
+              { "key": "Brand", "values": ["Durian"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["1 Seater"] },
+              { "key": "Upholstery Type", "values": ["Tufted"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Adjustable Headrest", "values": ["No"] },
+              { "key": "Suitable For", "values": ["Living Room"] },
+              { "key": "Maximum Load Capacity", "values": ["90 kg"] },
+              { "key": "Model Number", "values": ["TULSA/1"] },
+              { "key": "Model Series Name", "values": ["Tulsa"] },
+              { "key": "Style Code", "values": ["TULSA/1"] },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "Care Instructions",
+                "values": [
+                  "Clean the upholstery with a Damp Cloth.",
+                  "Do not use wet cloth."
+                ]
+              },
+              {
+                "key": "cd0efa87-189f-407b-9a50-05e1ad78ec46",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "d7ec4921-ca22-44c6-a4fb-c4fed712e214",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              { "key": "Weight", "values": ["28.91 kg"] },
+              { "key": "Height", "values": ["830 mm"] },
+              { "key": "Width", "values": ["865 mm"] },
+              { "key": "Depth", "values": ["850 mm"] },
+              { "key": "Seat Height", "values": ["445 mm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "For the remaining 4 years from date of expiry of the first year Durian shall only be liable to provide repair service in regard to any malfunction or defect to the goods/materials,at cost to the customer (including component cost)"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "5 Year Durian Industries Ltd. Company Domestic Warranty"
+                ]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Warranty for first year totally Free and free service will �Continue for the next four years(excluding inputs",
+                  "if any)"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Durian reserves the right to reject any warranty service �during the warranty term",
+                  "if in its sole opinion",
+                  "Durian finds that the customer have not complied /adhered to the \\\"User Manual / Instructions\\\" provided to the customer at the time of such goods/materials. Damage cause to the product due to i...View More Durian reserves the right to reject any warranty service �during the warranty term",
+                  "if in its sole opinion",
+                  "Durian finds that the customer have not complied /adhered to the \\\"User Manual / Instructions\\\" provided to the customer at the time of such goods/materials. Damage cause to the product due to improper installation by customer",
+                  "normal wear and tear."
+                ]
+              },
+              { "key": "Upholstery Color", "values": ["Brown"] },
+              { "key": "Primary Color", "values": ["Brown"] },
+              { "key": "Primary Material", "values": ["Leatherette"] },
+              { "key": "Secondary Material Subtype", "values": ["NA"] },
+              { "key": "Secondary Material", "values": ["Solid Wood"] },
+              { "key": "Finish Color", "values": ["Chocolate Brown"] },
+              { "key": "Primary Material Subtype", "values": ["Leatherette"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Soft touch upholstery",
+                  "superior durability and comfort"
+                ]
+              },
+              { "key": "Origin of Manufacture", "values": ["Domestic"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c4c3422c7b5edcfa8db3ef008d78becc5014214" }
+      },
+      "active": true,
+      "id": "7002ccc4f704fabe88cc6135e602bf6c15878a36"
+    },
+    {
+      "product": {
+        "id": "5b14d7c5bd41755a1ce1a89a54b7466d12fee878",
+        "name": "Xtreme 3 Pipe Air Pressure For Hero HF 110 dB Vehicle Horn",
+        "description": "Dummy description for product Xtreme 3 Pipe Air Pressure For Hero HF 110 dB Vehicle Horn",
+        "manufacturer_id": "35d550f1c9db974a99dd00c3073732f90ec02b8d",
+        "taric_code": "239076ee-a1c5-4a94-b43e-7e1c58b58fdb",
+        "variants": [
+          {
+            "id": "18c4983e00c2918345bd27393a88b16d",
+            "name": "Vehicle Horns",
+            "description": "Xtreme 3 Pipe Air Pressure For Hero HF 110 dB Vehicle Horn\n                         Price: Rs. 1,098\n\t\t\t\t\n\t\t\t18 Sounds Digital Computer Chip Electric Powered Horn.\nRATED VOLTAGE: 12V.18 Sounds Digital Computer Chip Electric Powered Horn.\nRATED VOLTAGE: 12V.\nSOUND LEVEL: 110DB.\nTYPE ELECTRIC HORN.\nSPEAKER DESIGN 4-WAY.\n100% Original Product from MOCC.\nFUNDAMENTAL FREQUENCY: 410/510HZ.\nTYPE ELECTRIC HORN.\n18 Sounds Digital Computer Chip Electric Powered Horn.\nRATED VOLTAGE: 12V.18 Sounds Digital Computer Chip Electric Powered Horn.\nRATED VOLTAGE: 12V.\nSOUND LEVEL: 110DB.\nTYPE ELECTRIC HORN.\nSPEAKER DESIGN 4-WAY.\n100% Original Product from MOCC.\nFUNDAMENTAL FREQUENCY: 410/510HZ.\nTYPE ELECTRIC HORN.",
+            "stock_level": 2827,
+            "price": 1999,
+            "sale": false,
+            "sale_price": 1098,
+            "stock_keeping_unit": "VHREBBHBFPDAF7G7",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/b/m/g/3-pipe-air-pressure-for-yamaha-fz-s-xtreme-1100x1100-imaebbysgzzdwhgv.jpeg",
+                "filename": "3-pipe-air-pressure-for-yamaha-fz-s-xtreme-1100x1100-imaebbysgzzdwhgv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/b/m/g/3-pipe-air-pressure-for-yamaha-fz-s-xtreme-original-imaebbysgzzdwhgv.jpeg",
+                "filename": "3-pipe-air-pressure-for-yamaha-fz-s-xtreme-original-imaebbysgzzdwhgv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Xtreme"] },
+              { "key": "Vehicle Model Name", "values": ["HF"] },
+              {
+                "key": "Model Number",
+                "values": ["3 Pipe Air Pressure For Hero HF"]
+              },
+              { "key": "Type", "values": ["Internal"] },
+              { "key": "Vehicle Brand", "values": ["Hero"] },
+              { "key": "Volume", "values": ["110 dB"] },
+              { "key": "Material", "values": ["Plastic", "Metal"] },
+              { "key": "Sound Type", "values": ["Musical and Plain"] },
+              { "key": "Body Design", "values": ["Red::Black"] },
+              { "key": "Frequency Range", "values": ["800 Hz"] },
+              { "key": "Color", "values": ["Red", "Black"] },
+              { "key": "Sales Package", "values": ["1 Vehicle Horn"] },
+              { "key": "Pack of", "values": ["5"] },
+              { "key": "Weight", "values": ["1000 g"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "36a0af0115d473c3b3771b770a2ed6577c7e31fb" }
+      },
+      "active": false,
+      "id": "5b14d7c5bd41755a1ce1a89a54b7466d12fee878"
+    },
+    {
+      "product": {
+        "id": "cf541bd935433aab011220a202b19f3f08a8432b",
+        "name": "APS Sleeve for Datawind Ubislate 10Ci Tablet",
+        "description": "Dummy description for product APS Sleeve for Datawind Ubislate 10Ci Tablet",
+        "manufacturer_id": "620677da511e92f329390454da56e13cf6b63e72",
+        "taric_code": "ae8a9355-e67c-4140-a1f4-0513426ce745",
+        "variants": [
+          {
+            "id": "4b93fb37b083bd5a4181e18361c88718",
+            "name": "APS Cases & Covers",
+            "description": "APS Sleeve for Datawind Ubislate 10Ci Tablet (Black)\n                         Price: Rs. 250\n\t\t\t\t\n\t\t\tSoft Sleeve For Tablet. Protects Tablet From Daily Wear And Tear. Can Carry Safely In Your Hand Bag. Made From Hard Wearing Material To Protect Tablet.\nSoft Sleeve For Tablet. Protects Tablet From Daily Wear And Tear. Can Carry Safely In Your Hand Bag. Made From Hard Wearing Material To Protect Tablet.",
+            "stock_level": 4968,
+            "price": 699,
+            "sale": false,
+            "sale_price": 250,
+            "stock_keeping_unit": "ACCE5K5HZVHYCQHY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/c/v/v/aps-10-inch-sleeve-black-red-ipad-2-1100x1100-imae5kjbagvfgtdy.jpeg",
+                "filename": "aps-10-inch-sleeve-black-red-ipad-2-1100x1100-imae5kjbagvfgtdy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/sleeve/c/v/v/aps-10-inch-sleeve-black-red-ipad-2-original-imae5kjbagvfgtdy.jpeg",
+                "filename": "aps-10-inch-sleeve-black-red-ipad-2-original-imae5kjbagvfgtdy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/t/h/k/aps-8-sleeve-black-red-470-original-imae5g3h3jkhrgzk.jpeg",
+                "filename": "aps-8-sleeve-black-red-470-original-imae5g3h3jkhrgzk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["APS"] },
+              { "key": "Shade", "values": ["Black"] },
+              { "key": "Material", "values": ["Rubber"] },
+              {
+                "key": "Designed for",
+                "values": ["Datawind Ubislate 10Ci Tablet"]
+              },
+              {
+                "key": "Model ID",
+                "values": ["10 inch SLEEVE BLACK RED 10CI"]
+              },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["1 Sleeve"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": true,
+      "id": "cf541bd935433aab011220a202b19f3f08a8432b"
+    },
+    {
+      "product": {
+        "id": "4a8793c15b391d5bbf2090e54d8ff532146a1536",
+        "name": "APS Sleeve for Vox V105 Calling Tablet",
+        "description": "Dummy description for product APS Sleeve for Vox V105 Calling Tablet",
+        "manufacturer_id": "620677da511e92f329390454da56e13cf6b63e72",
+        "taric_code": "ad6f8936-d25e-4283-a715-56c6a2502b55",
+        "variants": [
+          {
+            "id": "b6e5d1401b125b1c12f148d52fc13375",
+            "name": "APS Cases & Covers",
+            "description": "Buy APS Sleeve for Vox V105 Calling Tablet only for Rs. 250 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5407,
+            "price": 699,
+            "sale": true,
+            "sale_price": 250,
+            "stock_keeping_unit": "ACCE5K5HMGMMYCHH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/c/v/v/aps-10-inch-sleeve-black-red-ipad-2-1100x1100-imae5kjbagvfgtdy.jpeg",
+                "filename": "aps-10-inch-sleeve-black-red-ipad-2-1100x1100-imae5kjbagvfgtdy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/sleeve/c/v/v/aps-10-inch-sleeve-black-red-ipad-2-original-imae5kjbagvfgtdy.jpeg",
+                "filename": "aps-10-inch-sleeve-black-red-ipad-2-original-imae5kjbagvfgtdy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/t/h/k/aps-8-sleeve-black-red-470-original-imae5g3h3jkhrgzk.jpeg",
+                "filename": "aps-8-sleeve-black-red-470-original-imae5g3h3jkhrgzk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["APS"] },
+              { "key": "Shade", "values": ["Black"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Designed for", "values": ["Vox V105 Calling Tablet"] },
+              { "key": "Model ID", "values": ["8 SLEEVE BLACK RED V105"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["1 Sleeve"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": false,
+      "id": "4a8793c15b391d5bbf2090e54d8ff532146a1536"
+    },
+    {
+      "product": {
+        "id": "59941fcf7784f80d12ae666a603f8a670bf6dc44",
+        "name": "Fastway Book Cover for Acer Iconia One 7 (B1-760) HD",
+        "description": "Dummy description for product Fastway Book Cover for Acer Iconia One 7 (B1-760) HD",
+        "manufacturer_id": "4e53e1a9f0f524c749de14bc24cbdc13996d8bb8",
+        "taric_code": "c555c3e0-7ffc-48b0-a678-963115627a53",
+        "variants": [
+          {
+            "id": "63198025b4fee972ee4bef7f6b1209b8",
+            "name": "Fastway Cases & Covers",
+            "description": "Fastway Book Cover for Acer Iconia One 7 (B1-760) HD (Multicolor)\n                         Price: Rs. 349\n\t\t\t\t\n\t\t\tFancy /Funky/Multi Colour 7 inch Tab Cover : Looks quite FANCY , FUNKY and perfect for YOUTH. The Really Smart Cover makes Tablet do things no other cover can. The Smart Cover doesn't just protect Tablet, it keeps it ready to go whenever you are. Magnetic Locks to lock your tablet when not in use and hence making it totally safe. You can put it stand up for watching videos or lay it down for type writing. Ultra Slim & lightweight . Custom Made For The Perfect Fit - Provides Front & Back Protection For Your Tablet & Has Magnetic Locks - Flips Back And Out Of The Way Like A Page In A Magazine. This Cover Don't Have Hole For Camera.\nFancy /Funky/Multi Colour 7 inch Tab Cover : Looks quite FANCY , FUNKY and perfect for YOUTH. The Really Smart Cover makes Tablet do things no other cover can. The Smart Cover doesn't just protect Tablet, it keeps it ready to go whenever you are. Magnetic Locks to lock your tablet when not in use and hence making it totally safe. You can put it stand up for watching videos or lay it down for type writing. Ultra Slim & lightweight . Custom Made For The Perfect Fit - Provides Front & Back Protection For Your Tablet & Has Magnetic Locks - Flips Back And Out Of The Way Like A Page In A Magazine. This Cover Don't Have Hole For Camera.",
+            "stock_level": 1164,
+            "price": 699,
+            "sale": false,
+            "sale_price": 349,
+            "stock_keeping_unit": "ACCECR24JGSPKHDG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/7/x/m/fastway-flr7multi303-1100x1100-imae72f4gweggase.jpeg",
+                "filename": "fastway-flr7multi303-1100x1100-imae72f4gweggase.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/book-cover/7/x/m/fastway-flr7multi303-original-imae72f4gweggase.jpeg",
+                "filename": "fastway-flr7multi303-original-imae72f4gweggase.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/book-cover/7/x/m/fastway-flr7multi303-original-imae72f4zuxabhfu.jpeg",
+                "filename": "fastway-flr7multi303-original-imae72f4zuxabhfu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/7/x/m/fastway-flr7multi303-original-imae72f45f5ugdfs.jpeg",
+                "filename": "fastway-flr7multi303-original-imae72f45f5ugdfs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Fastway"] },
+              { "key": "Shade", "values": ["Multicolor"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              {
+                "key": "Designed for",
+                "values": ["Acer Iconia One 7 (B1-760) HD"]
+              },
+              { "key": "Model ID", "values": ["flr7multi324"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["200 g"] },
+              {
+                "key": "Width x Height x Depth",
+                "values": ["130 x 200 x 15 cm"]
+              },
+              { "key": "Sales Package", "values": ["7 Inch Tablet Cover"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": true,
+      "id": "59941fcf7784f80d12ae666a603f8a670bf6dc44"
+    },
+    {
+      "product": {
+        "id": "20e6a4ff8bb2ae3d6f1005724e50d45684bee4ed",
+        "name": "Aarya 24kt Hanuman Matt Gold Plated Frame Showpiece  -  12 cm",
+        "description": "Dummy description for product Aarya 24kt Hanuman Matt Gold Plated Frame Showpiece  -  12 cm",
+        "manufacturer_id": "d31868f7e6d648b2980c11381ae4cfb0544fd707",
+        "taric_code": "d6756cd2-8506-4e92-ab4c-cf48a4c5638f",
+        "variants": [
+          {
+            "id": "499fc23c6a89641fbb591ef2fa17b2f7",
+            "name": "Aarya 24kt Religious Idols",
+            "description": "Buy Aarya 24kt Hanuman Matt Gold Plated Frame Showpiece  -  12 cm for Rs.340 online. Aarya 24kt Hanuman Matt Gold Plated Frame Showpiece  -  12 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1261,
+            "price": 425,
+            "sale": true,
+            "sale_price": 340,
+            "stock_keeping_unit": "SHIE9Y8XB8UPYHKS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/h/k/s/ar-sccf-007-aarya-24kt-1100x1100-imae9yf7qge3wtns.jpeg",
+                "filename": "ar-sccf-007-aarya-24kt-1100x1100-imae9yf7qge3wtns.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/k/s/ar-sccf-007-aarya-24kt-original-imae9yf7qge3wtns.jpeg",
+                "filename": "ar-sccf-007-aarya-24kt-original-imae9yf7qge3wtns.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Aarya 24kt"] },
+              { "key": "Model Number", "values": ["Ar-sccf-007"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": ["Hanuman Matt Gold Plated Frame"]
+              },
+              { "key": "Material", "values": ["Gold Plated"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Height", "values": ["12 cm"] },
+              { "key": "Width", "values": ["14 cm"] },
+              { "key": "Depth", "values": ["1.5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "20e6a4ff8bb2ae3d6f1005724e50d45684bee4ed"
+    },
+    {
+      "product": {
+        "id": "b7eb33eddcbd1717a9337748ad0f49167d6c1cc8",
+        "name": "Rajasthani emporium V15 Decorative Bottle",
+        "description": "Dummy description for product Rajasthani emporium V15 Decorative Bottle",
+        "manufacturer_id": "874a82cfecf20cc9d11bcfbd1cce9891a714f702",
+        "taric_code": "3a6c4938-9aa9-4144-ac86-c9be711cc4da",
+        "variants": [
+          {
+            "id": "17db2b2684ffb979b7ab715c4e9d28bf",
+            "name": "Rajasthani emporium Decorative Bottles",
+            "description": "Buy Rajasthani emporium V15 Decorative Bottle for Rs.2399 online. Rajasthani emporium V15 Decorative Bottle at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8930,
+            "price": 3999,
+            "sale": false,
+            "sale_price": 2399,
+            "stock_keeping_unit": "DCBEE798FWYDAUTD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/decorative-bottle/u/t/d/v15-rajasthani-emporium-original-imaeef9cdjdzq3zc.jpeg",
+                "filename": "v15-rajasthani-emporium-original-imaeef9cdjdzq3zc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Rajasthani emporium"] },
+              { "key": "Suitable For", "values": ["decoration"] },
+              { "key": "Model Number", "values": ["V15"] },
+              { "key": "Material", "values": ["brass and glass"] },
+              { "key": "Color", "values": ["Brown"] },
+              { "key": "Volumetric Weight", "values": ["1.1 kg"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1293916a66742fd22b6423567b9f7841ed61e2a5" }
+      },
+      "active": true,
+      "id": "b7eb33eddcbd1717a9337748ad0f49167d6c1cc8"
+    },
+    {
+      "product": {
+        "id": "ef1c71a80c532f08f3fb7d68599a61349878ab02",
+        "name": "ARRA Fabric 2 Seater Sectional",
+        "description": "Dummy description for product ARRA Fabric 2 Seater Sectional",
+        "manufacturer_id": "8579ff944c668d20274e9085d5fa1ce6e2013ece",
+        "taric_code": "d18caecc-668e-41b8-ad17-5ca8613d877e",
+        "variants": [
+          {
+            "id": "965a33084abcdc4d4094c3093caf7267",
+            "name": "Sofas & Sectionals",
+            "description": "ARRA Fabric 2 Seater Sectional (Finish Color - ROYAL GRAY)\n                         Price: Rs. 17,999\n\t\t\t\t\n\t\t\tARRA offers Cooper 2 Seater Sofa C9-ROYAL GRAY. Add subtle glaze to your living room furniture with Sterling,The subtle texture throughout the fabric helps it make a strong impact. The polyester fabric has a velvety feel which gives it the pretense of extreme luxury.Assure comfort and quality by buying this sofa.\nARRA offers Cooper 2 Seater Sofa C9-ROYAL GRAY. Add subtle glaze to your living room furniture with Sterling,The subtle texture throughout the fabric helps it make a strong impact. The polyester fabric has a velvety feel which gives it the pretense of extreme luxury.Assure comfort and quality by buying this sofa.",
+            "stock_level": 1523,
+            "price": 27000,
+            "sale": false,
+            "sale_price": 17999,
+            "stock_keeping_unit": "SOFEE2TZYPDUVU9G",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/u/9/g/arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2hzkxvrxk7v.jpeg",
+                "filename": "arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2hzkxvrxk7v.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/u/9/g/arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2hzkxvrxk7v.jpeg",
+                "filename": "arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2hzkxvrxk7v.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/u/9/g/arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2mycrstx7nr.jpeg",
+                "filename": "arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2mycrstx7nr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/u/9/g/arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2myayepuhhg.jpeg",
+                "filename": "arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2myayepuhhg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/u/9/g/arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2hzcqervkq6.jpeg",
+                "filename": "arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2hzcqervkq6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/u/9/g/arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2myr4drzttf.jpeg",
+                "filename": "arra0367-polyester-arra-royal-gray-royal-gray-original-imaee2myr4drzttf.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "c612c542-6f78-417b-b6f6-9ac214040c72",
+                "values": ["2 Seater Sofa"]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["Right Facing"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sectional"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam", "Fiber"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["2 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["NA"] },
+              { "key": "Suitable For", "values": ["Living Room"] },
+              { "key": "Model Number", "values": ["ARRA0367"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Do Not Use Wet Cloth For Lealing"]
+              },
+              { "key": "Finish Type", "values": ["Fabric"] },
+              {
+                "key": "919b8eba-5b5f-4bcb-ac66-a552e4f32c93",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "4ce56755-c4ba-4732-a46b-f592c172f2d4",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["No Warranty Available"]
+              },
+              { "key": "Service Type", "values": ["No Warranty Available"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["No Warranty Available"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["No Warranty Available"]
+              },
+              { "key": "Weight", "values": ["23 kg"] },
+              { "key": "Height", "values": ["72 mm"] },
+              { "key": "Width", "values": ["70 mm"] },
+              { "key": "Depth", "values": ["127 mm"] },
+              { "key": "Upholstery Color", "values": ["Royal Gray"] },
+              { "key": "Primary Color", "values": ["Grey"] },
+              { "key": "Primary Material", "values": ["Fabric"] },
+              { "key": "Secondary Material Subtype", "values": ["Plywood"] },
+              { "key": "Secondary Material", "values": ["Fabric"] },
+              { "key": "Finish Color", "values": ["ROYAL GRAY"] },
+              { "key": "Primary Material Subtype", "values": ["Polyester"] }
+            ]
+          },
+          {
+            "id": "56b707731d48411844e4efc514057398",
+            "name": "Sofas & Sectionals",
+            "description": "ARRA Fabric 2 Seater Sectional (Finish Color - ROYAL BLUE)\n                         Price: Rs. 17,999\n\t\t\t\t\n\t\t\tARRA offers Cooper 2 Seater Sofa C7-ROYAL BLUE. Add subtle glaze to your living room furniture with Sterling,The subtle texture throughout the fabric helps it make a strong impact. The polyester fabric has a velvety feel which gives it the pretense of extreme luxury.Assure comfort and quality by buying this sofa.\nARRA offers Cooper 2 Seater Sofa C7-ROYAL BLUE. Add subtle glaze to your living room furniture with Sterling,The subtle texture throughout the fabric helps it make a strong impact. The polyester fabric has a velvety feel which gives it the pretense of extreme luxury.Assure comfort and quality by buying this sofa.",
+            "stock_level": 2834,
+            "price": 27000,
+            "sale": false,
+            "sale_price": 17999,
+            "stock_keeping_unit": "SOFEE2TZGCRUECXM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/c/x/m/arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hyhrdqgkwe.jpeg",
+                "filename": "arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hyhrdqgkwe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/c/x/m/arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hzhg33qznn.jpeg",
+                "filename": "arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hzhg33qznn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/c/x/m/arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hzrjs4sxr3.jpeg",
+                "filename": "arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hzrjs4sxr3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/c/x/m/arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hzq9j972h5.jpeg",
+                "filename": "arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hzq9j972h5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/c/x/m/arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hzaqmx9yvh.jpeg",
+                "filename": "arra0351-polyester-arra-royal-blue-royal-blue-original-imaee2hzaqmx9yvh.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "9b897910-a3c9-40f3-980c-e03dd88b3f85",
+                "values": ["2 Seater Sofa"]
+              },
+              { "key": "Brand", "values": ["ARRA"] },
+              { "key": "Orientation", "values": ["Right Facing"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sectional"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam", "Fiber"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["2 Seater"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Upholstery Type", "values": ["NA"] },
+              { "key": "Suitable For", "values": ["Living Room"] },
+              { "key": "Model Number", "values": ["ARRA0351"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Do Not Use Wet Cloth For Lealing"]
+              },
+              { "key": "Finish Type", "values": ["Fabric"] },
+              {
+                "key": "8c2ac055-9054-493c-8d35-265979d8869f",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "9b50fc38-58c3-406c-9cdb-ae2f3e29113d",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["No Warranty Available"]
+              },
+              { "key": "Service Type", "values": ["No Warranty Available"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["No Warranty Available"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["No Warranty Available"]
+              },
+              { "key": "Weight", "values": ["23 kg"] },
+              { "key": "Height", "values": ["72 mm"] },
+              { "key": "Width", "values": ["70 mm"] },
+              { "key": "Depth", "values": ["127 mm"] },
+              { "key": "Upholstery Color", "values": ["Royal Blue"] },
+              { "key": "Primary Color", "values": ["Blue"] },
+              { "key": "Primary Material", "values": ["Fabric"] },
+              { "key": "Secondary Material Subtype", "values": ["Plywood"] },
+              { "key": "Secondary Material", "values": ["Fabric"] },
+              { "key": "Finish Color", "values": ["ROYAL BLUE"] },
+              { "key": "Primary Material Subtype", "values": ["Polyester"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c4c3422c7b5edcfa8db3ef008d78becc5014214" }
+      },
+      "active": true,
+      "id": "ef1c71a80c532f08f3fb7d68599a61349878ab02"
+    },
+    {
+      "product": {
+        "id": "1c1fc90bc2cdd6323e7861a118f4f90212fd91e6",
+        "name": "Bless Ganesh Murti Showpiece  -  32 cm",
+        "description": "Dummy description for product Bless Ganesh Murti Showpiece  -  32 cm",
+        "manufacturer_id": "c9ad910f5a2f49d63fc674ed8f283730d51bdba7",
+        "taric_code": "4f1f6997-c8bd-4d3c-926a-e2596f80ad00",
+        "variants": [
+          {
+            "id": "34aa6b87531e1155ce92349c720d2677",
+            "name": "Bless Religious Idols",
+            "description": "Buy Bless Ganesh Murti Showpiece  -  32 cm for Rs.451 online. Bless Ganesh Murti Showpiece  -  32 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9309,
+            "price": 501,
+            "sale": true,
+            "sale_price": 451,
+            "stock_keeping_unit": "SHIE92VMGH3SEEVU",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/2/r/v/gp104-bless-original-imae92hyqbneut9y.jpeg",
+                "filename": "gp104-bless-original-imae92hyqbneut9y.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/2/r/v/gp104-bless-original-imae92hysdxyhhpf.jpeg",
+                "filename": "gp104-bless-original-imae92hysdxyhhpf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Bless"] },
+              { "key": "Model Number", "values": ["GP104G"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Shade", "values": ["Multicolor"] },
+              { "key": "Model Name", "values": ["Ganesh Murti"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturing Defect Only"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Repair not Replace"]
+              },
+              { "key": "Height", "values": ["32 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["8 cm"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Sales Package", "values": ["1 Laxmi Idols"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "1c1fc90bc2cdd6323e7861a118f4f90212fd91e6"
+    },
+    {
+      "product": {
+        "id": "1779cee8c0113558b78edabbe0fef9160305d093",
+        "name": "APS Sleeve for Lenovo A1000",
+        "description": "Dummy description for product APS Sleeve for Lenovo A1000",
+        "manufacturer_id": "620677da511e92f329390454da56e13cf6b63e72",
+        "taric_code": "db810591-9491-44f6-8b26-23784233be13",
+        "variants": [
+          {
+            "id": "1205c84decff43052a639e8935a19d5b",
+            "name": "APS Cases & Covers",
+            "description": "Buy APS Sleeve for Lenovo A1000 only for Rs. 250 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4019,
+            "price": 699,
+            "sale": true,
+            "sale_price": 250,
+            "stock_keeping_unit": "ACCDXZK5FVEADHUF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/sleeve/y/d/q/aps-neoprene-n72013-01-blk-original-imadxqt7b8yar55m.jpeg",
+                "filename": "aps-neoprene-n72013-01-blk-original-imadxqt7b8yar55m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/y/d/q/aps-neoprene-n72013-01-blk-original-imadxqt7b8yar55m.jpeg",
+                "filename": "aps-neoprene-n72013-01-blk-original-imadxqt7b8yar55m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/u/z/b/aps-neoprene-sleeve-fr-tablet-s5000-original-imadxqt7haqn3kzq.jpeg",
+                "filename": "aps-neoprene-sleeve-fr-tablet-s5000-original-imadxqt7haqn3kzq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/sleeve/y/d/q/aps-neoprene-n72013-01-blk-original-imadxqt7hpqtdzqb.jpeg",
+                "filename": "aps-neoprene-n72013-01-blk-original-imadxqt7hpqtdzqb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/y/d/q/aps-neoprene-n72013-01-blk-original-imadxqt7cjw2frnf.jpeg",
+                "filename": "aps-neoprene-n72013-01-blk-original-imadxqt7cjw2frnf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/sleeve/u/z/b/aps-neoprene-sleeve-fr-tablet-s5000-original-imadxqt7gp9g8pcd.jpeg",
+                "filename": "aps-neoprene-sleeve-fr-tablet-s5000-original-imadxqt7gp9g8pcd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["APS"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Designed for", "values": ["Lenovo A1000"] },
+              { "key": "Model ID", "values": ["Neoprene LN1K-01-BLK"] },
+              { "key": "Color", "values": ["Black"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": true,
+      "id": "1779cee8c0113558b78edabbe0fef9160305d093"
+    },
+    {
+      "product": {
+        "id": "e469394db01f3b467db71655b05c5129ef600525",
+        "name": "Fabutex Polyester Maroon Motif Eyelet Door Curtain",
+        "description": "Dummy description for product Fabutex Polyester Maroon Motif Eyelet Door Curtain",
+        "manufacturer_id": "501afaff47479448e9be088f9a323cd3533efc63",
+        "taric_code": "d162ef86-fc57-4052-863a-80b14a699ca8",
+        "variants": [
+          {
+            "id": "7cdd7dafcbc2fba9f3f07609ce74747e",
+            "name": "Curtains",
+            "description": "Buy Fabutex Polyester Maroon Motif Eyelet Door Curtain at Rs. 499 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 6752,
+            "price": 799,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "CRNEDAKFFE2NGEYZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/curtain/e/y/z/cuhon1019pk2-210-fabutex-eyelet-printed-curtain-original-imaecrx8qhfzkg3j.jpeg",
+                "filename": "cuhon1019pk2-210-fabutex-eyelet-printed-curtain-original-imaecrx8qhfzkg3j.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/curtain/e/y/z/cuhon1019pk2-210-fabutex-eyelet-printed-curtain-original-imaecrx8qhfzkg3j.jpeg",
+                "filename": "cuhon1019pk2-210-fabutex-eyelet-printed-curtain-original-imaecrx8qhfzkg3j.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/curtain/n/s/e/cuhon2019pk1-150-fabutex-eyelet-printed-curtain-original-imaed8m5chgghvfz.jpeg",
+                "filename": "cuhon2019pk1-150-fabutex-eyelet-printed-curtain-original-imaed8m5chgghvfz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Transparency", "values": ["Opaque"] },
+              { "key": "Brand", "values": ["Fabutex"] },
+              { "key": "Designed For", "values": ["Door"] },
+              { "key": "Type", "values": ["Eyelet"] },
+              { "key": "Model Name", "values": ["Printed Curtain"] },
+              { "key": "Model ID", "values": ["CUHON1019PK2"] },
+              { "key": "Color", "values": ["Maroon"] },
+              { "key": "Length", "values": ["210 cm"] },
+              {
+                "key": "Wash Care",
+                "values": ["Normal Wash", "Do not use bleach"]
+              },
+              { "key": "Lining", "values": ["No"] },
+              { "key": "Material", "values": ["Polyester"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Sales Package", "values": ["Curtain"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "79ee8c484fcf7952ee8567467ad6e65733fdf11c" }
+      },
+      "active": true,
+      "id": "e469394db01f3b467db71655b05c5129ef600525"
+    },
+    {
+      "product": {
+        "id": "2870b48a8ee09c585ffe8499d01a203c56b03f08",
+        "name": "Welhouse Cotton Hand & Face Towel Set",
+        "description": "Dummy description for product Welhouse Cotton Hand & Face Towel Set",
+        "manufacturer_id": "a5f3a5acba25b4a0e60c9909f158630a570a6020",
+        "taric_code": "11c9207c-ae0d-469c-a5f3-e7837be23cb7",
+        "variants": [
+          {
+            "id": "d6a50203fad654981605a70a7bde52b7",
+            "name": "Welhouse Baby Bath Towels",
+            "description": "Buy Welhouse Cotton Hand & Face Towel Set at Rs. 479 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 7082,
+            "price": 899,
+            "sale": true,
+            "sale_price": 479,
+            "stock_keeping_unit": "BTWEE9APJJHT7ZHA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/z/h/a/mtcoftht15-welhouse-face-hand-towel-1100x1100-imaee94kpszfskwy.jpeg",
+                "filename": "mtcoftht15-welhouse-face-hand-towel-1100x1100-imaee94kpszfskwy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bath-towel/z/h/a/mtcoftht15-welhouse-face-hand-towel-original-imaee94kpszfskwy.jpeg",
+                "filename": "mtcoftht15-welhouse-face-hand-towel-original-imaee94kpszfskwy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Design", "values": ["Self"] },
+              { "key": "Brand", "values": ["Welhouse"] },
+              { "key": "GSM", "values": ["2600"] },
+              { "key": "Type", "values": ["Hand and Face Towel Set"] },
+              { "key": "Model Name", "values": ["Face and Hand towel"] },
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Model ID", "values": ["MTCOFTHT15"] },
+              { "key": "Size", "values": ["Small"] },
+              { "key": "Color", "values": ["Multi"] },
+              { "key": "Length", "values": ["10 inch"] },
+              { "key": "Width", "values": ["12 inch"] },
+              { "key": "Sales Package", "values": ["Face towel", "Hand towel"] }
+            ]
+          },
+          {
+            "id": "2f08200a8e124c2f18d20913887020f6",
+            "name": "Welhouse Baby Bath Towels",
+            "description": "Buy Welhouse Cotton Hand & Face Towel Set at Rs. 479 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 1515,
+            "price": 899,
+            "sale": true,
+            "sale_price": 479,
+            "stock_keeping_unit": "BTWEEAHVWQZZCTUN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bath-towel/t/u/n/mtcoftht12-welhouse-face-hand-towel-1100x1100-imaee945ad3bkc93.jpeg",
+                "filename": "mtcoftht12-welhouse-face-hand-towel-1100x1100-imaee945ad3bkc93.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/t/u/n/mtcoftht12-welhouse-face-hand-towel-original-imaee945ad3bkc93.jpeg",
+                "filename": "mtcoftht12-welhouse-face-hand-towel-original-imaee945ad3bkc93.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Design", "values": ["Self"] },
+              { "key": "Brand", "values": ["Welhouse"] },
+              { "key": "GSM", "values": ["2600"] },
+              { "key": "Type", "values": ["Hand and Face Towel Set"] },
+              { "key": "Model Name", "values": ["Face and Hand towel"] },
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Model ID", "values": ["MTCOFTHT12"] },
+              { "key": "Size", "values": ["Small"] },
+              { "key": "Color", "values": ["Multi"] },
+              { "key": "Length", "values": ["10 inch"] },
+              { "key": "Width", "values": ["12 inch"] },
+              { "key": "Sales Package", "values": ["Hand towel", "Face Towel"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "9b3154da1797fe2092e0decb62843aa80d4be041" }
+      },
+      "active": true,
+      "id": "2870b48a8ee09c585ffe8499d01a203c56b03f08"
+    },
+    {
+      "product": {
+        "id": "1071a17d8843d45270e851fd232d5d99a3d65445",
+        "name": "Karukraft Multicolour Terracotta Parvati Ganesha Showpiece  -  2 cm",
+        "description": "Dummy description for product Karukraft Multicolour Terracotta Parvati Ganesha Showpiece  -  2 cm",
+        "manufacturer_id": "309d88372b0ea39d823c9ff13188631a8f94ae53",
+        "taric_code": "73885b90-198e-4d9e-a150-b6ad859a4d04",
+        "variants": [
+          {
+            "id": "d77ed28eeaee049e749be65d1d0d3f46",
+            "name": "Karukraft Religious Idols",
+            "description": "Buy Karukraft Multicolour Terracotta Parvati Ganesha Showpiece  -  2 cm for Rs.450 online. Karukraft Multicolour Terracotta Parvati Ganesha Showpiece  -  2 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 469,
+            "price": 600,
+            "sale": true,
+            "sale_price": 450,
+            "stock_keeping_unit": "SHIE55R4YXKFTNFR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/n/f/r/kktwh001-karukraft-1100x1100-imae55gymf5yk6vu.jpeg",
+                "filename": "kktwh001-karukraft-1100x1100-imae55gymf5yk6vu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/n/f/r/kktwh001-karukraft-original-imae55gymf5yk6vu.jpeg",
+                "filename": "kktwh001-karukraft-original-imae55gymf5yk6vu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Karukraft"] },
+              { "key": "Model Number", "values": ["KKTWH001"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": ["Multicolour Terracotta Parvati Ganesha"]
+              },
+              { "key": "Material", "values": ["Terracotta"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["400 g"] },
+              { "key": "Height", "values": ["2 cm"] },
+              { "key": "Width", "values": ["18 cm"] },
+              { "key": "Depth", "values": ["38 cm"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Wall Hanging showpiece Figurine"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "1071a17d8843d45270e851fd232d5d99a3d65445"
+    },
+    {
+      "product": {
+        "id": "a061273a23547ee589be577be4f55a310cf3b627",
+        "name": "Designwallas Festive Pack (Set of 2) Notebook Hard Bound",
+        "description": "Dummy description for product Designwallas Festive Pack (Set of 2) Notebook Hard Bound",
+        "manufacturer_id": "ef263a1a7a04b6118cd016a0c113c9825c992f3d",
+        "taric_code": "f9536214-80b7-4386-9316-488addd64b10",
+        "variants": [
+          {
+            "id": "63c19e1306bac1e69ec6f07301a854f7",
+            "name": "Designwallas Office Supplies",
+            "description": "Buy Designwallas Festive Pack (Set of 2) Notebook Hard Bound for Rs.590 online. Designwallas Festive Pack (Set of 2) Notebook Hard Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4843,
+            "price": 590,
+            "sale": false,
+            "sale_price": 590,
+            "stock_keeping_unit": "DIAD4VTRTSM2F4YR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com//image/diary-notebook/4/y/r/designwallas-dwfp13-original-imad4vx87zyvxzyc.jpeg",
+                "filename": "designwallas-dwfp13-original-imad4vx87zyvxzyc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com//image/diary-notebook/4/y/r/designwallas-dwfp13-original-imad4yvd9mhgckye.jpeg",
+                "filename": "designwallas-dwfp13-original-imad4yvd9mhgckye.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Unruled"] },
+              { "key": "Model id", "values": ["DWFP13"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "GSM", "values": ["80"] },
+              { "key": "Cover Type", "values": ["Paper"] },
+              { "key": "No. of Pages", "values": ["144"] },
+              { "key": "Brand Name", "values": ["Designwallas"] },
+              { "key": "Binding", "values": ["Hard Bound"] },
+              {
+                "key": "7c195070-9515-472d-aea4-60db7763a14f",
+                "values": [
+                  "Set of Journals in Various Sizes Wrapped Together in Festive BandPerfect Gift for Any Stationery Lover"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": true,
+      "id": "a061273a23547ee589be577be4f55a310cf3b627"
+    },
+    {
+      "product": {
+        "id": "41d350709f104776a067fe451af7e8369c928870",
+        "name": "Type R G124 110 dB Vehicle Horn",
+        "description": "Dummy description for product Type R G124 110 dB Vehicle Horn",
+        "manufacturer_id": "f6c5185ebe1e9de94fcbeaa2fd50c7b90473815f",
+        "taric_code": "9bdad373-71ae-486e-9c57-67a5e3bf3570",
+        "variants": [
+          {
+            "id": "b2e628126e54980354da29b6d7198fc4",
+            "name": "Vehicle Horns",
+            "description": "Buy Type R G124 110 dB Vehicle Horn for Rs.499 online. Type R G124 110 dB Vehicle Horn at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 927,
+            "price": 800,
+            "sale": true,
+            "sale_price": 499,
+            "stock_keeping_unit": "VHRE5Y7G8CMPZP2M",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/d/f/z/g17-type-r-1100x1100-imae4zpct7yax6wf.jpeg",
+                "filename": "g17-type-r-1100x1100-imae4zpct7yax6wf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/vehicle-horn/d/f/z/g17-type-r-original-imae4zpct7yax6wf.jpeg",
+                "filename": "g17-type-r-original-imae4zpct7yax6wf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Type R"] },
+              { "key": "Vehicle Model Name", "values": ["NA"] },
+              { "key": "Model Number", "values": ["G124"] },
+              { "key": "Type", "values": ["Internal"] },
+              { "key": "Vehicle Brand", "values": ["Universal For Car"] },
+              { "key": "Volume", "values": ["110 dB"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Vehicle Model Year", "values": ["NA"] },
+              { "key": "Sound Type", "values": ["Trumpet"] },
+              { "key": "Frequency Range", "values": ["400 Hz"] },
+              { "key": "Sales Package", "values": ["2 Vehicle Horn"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "36a0af0115d473c3b3771b770a2ed6577c7e31fb" }
+      },
+      "active": true,
+      "id": "41d350709f104776a067fe451af7e8369c928870"
+    },
+    {
+      "product": {
+        "id": "701a9a9d66dcea948e45e3a1b17ba28dcdce37ec",
+        "name": "Fastway Sleeve for Samsung Galaxy Tab 8.9 P7300",
+        "description": "Dummy description for product Fastway Sleeve for Samsung Galaxy Tab 8.9 P7300",
+        "manufacturer_id": "4e53e1a9f0f524c749de14bc24cbdc13996d8bb8",
+        "taric_code": "2e4af375-8af5-4a5e-b071-b9a87ddbcb24",
+        "variants": [
+          {
+            "id": "f980118c57b71384f5c43454fba2cc97",
+            "name": "Fastway Cases & Covers",
+            "description": "Fastway Sleeve for Samsung Galaxy Tab 8.9 P7300 (Purple)\n                         Price: Rs. 299\n\t\t\t\t\n\t\t\t8 Inch Sleeve Flip Case Cover :The Really Smart Cover makes Tablet do things no other cover can. The Smart Cover doesn't just protect Tablet; it keeps it ready to go whenever you are. Magnetic Locks to lock your tablet when not in use and hence making it totally safe. Ultra Slim & lightweight .\n8 Inch Sleeve Flip Case Cover :The Really Smart Cover makes Tablet do things no other cover can. The Smart Cover doesn't just protect Tablet; it keeps it ready to go whenever you are. Magnetic Locks to lock your tablet when not in use and hence making it totally safe. Ultra Slim & lightweight .",
+            "stock_level": 7729,
+            "price": 499,
+            "sale": true,
+            "sale_price": 299,
+            "stock_keeping_unit": "ACCEDQ5CWGUW4VGV",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/sleeve/h/7/j/fastway-plci151-1100x1100-imae7dehcryyxhdz.jpeg",
+                "filename": "fastway-plci151-1100x1100-imae7dehcryyxhdz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/h/7/j/fastway-plci151-original-imae7dehcryyxhdz.jpeg",
+                "filename": "fastway-plci151-original-imae7dehcryyxhdz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/sleeve/h/7/j/fastway-plci151-original-imae7dehgrh3t6np.jpeg",
+                "filename": "fastway-plci151-original-imae7dehgrh3t6np.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Fastway"] },
+              { "key": "Shade", "values": ["Purple"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              {
+                "key": "Designed for",
+                "values": ["Samsung Galaxy Tab 8.9 P7300"]
+              },
+              { "key": "Model ID", "values": ["PLCI85"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Sales Package", "values": ["8 Inch Sleeve Cover"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": false,
+      "id": "701a9a9d66dcea948e45e3a1b17ba28dcdce37ec"
+    },
+    {
+      "product": {
+        "id": "c21b5a53f4f96f876236acb7d845795d5cdc6b46",
+        "name": "Variation White Heart Shape Designer Alloy Jewel Set",
+        "description": "Dummy description for product Variation White Heart Shape Designer Alloy Jewel Set",
+        "manufacturer_id": "5e3cf718d5e54b86907f1c7ddd019130e2364331",
+        "taric_code": "9307b759-0f0d-4590-8021-d04001d3c64f",
+        "variants": [
+          {
+            "id": "e3ec12df9d5a9f562c7723683424b193",
+            "name": "Jewellery Sets",
+            "description": "Variation White Heart Shape Designer Alloy Jewel Set - Buy Variation White Heart Shape Designer Alloy Jewel Set only for Rs. 279 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8349,
+            "price": 599,
+            "sale": false,
+            "sale_price": 279,
+            "stock_keeping_unit": "JWSE2NF5S457GG6A",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/g/6/a/vd14517-variation-original-imae2ngqy44aezmf.jpeg",
+                "filename": "vd14517-variation-original-imae2ngqy44aezmf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/g/6/a/vd14517-variation-original-imae2ngqy44aezmf.jpeg",
+                "filename": "vd14517-variation-original-imae2ngqy44aezmf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Variation"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Model Number", "values": ["VD14517"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Model Name", "values": ["White Heart Shape Designer"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Gold Purity", "values": ["22 K"] },
+              { "key": "Chain/Necklace Length", "values": ["15 inch"] },
+              { "key": "Weight", "values": ["192 g"] },
+              { "key": "Sales Package", "values": ["1 Pendant", "2 Earrings"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "c21b5a53f4f96f876236acb7d845795d5cdc6b46"
+    },
+    {
+      "product": {
+        "id": "cf2b8aa510e6aeccd134cba9b98616f2707c6e5d",
+        "name": "SthriElite Goddess Lakshmi Idol Showpiece  -  4.5 cm",
+        "description": "Dummy description for product SthriElite Goddess Lakshmi Idol Showpiece  -  4.5 cm",
+        "manufacturer_id": "8cc2b72759100efd74fd16512d7881d2c0ead515",
+        "taric_code": "e5007719-4fdd-435b-8a43-cb83030c7f64",
+        "variants": [
+          {
+            "id": "94ab1e687eead470f1d7bdd4741c7d7c",
+            "name": "SthriElite Religious Idols",
+            "description": "Buy SthriElite Goddess Lakshmi Idol Showpiece  -  4.5 cm for Rs.299 online. SthriElite Goddess Lakshmi Idol Showpiece  -  4.5 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 772,
+            "price": 399,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "SHIEAW37Y9S9DSAJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/z/8/n/id-god-049-007-sthrielite-original-imaeavw4ykmyzpha.jpeg",
+                "filename": "id-god-049-007-sthrielite-original-imaeavw4ykmyzpha.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["SthriElite"] },
+              { "key": "Model Number", "values": ["ID-GOD-049-014/"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Material", "values": ["Polyresin"] },
+              { "key": "Model Name", "values": ["Goddess Lakshmi Idol"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Height", "values": ["4.5 cm"] },
+              { "key": "Width", "values": ["4.5 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              { "key": "Sales Package", "values": ["1 Idol"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "cf2b8aa510e6aeccd134cba9b98616f2707c6e5d"
+    },
+    {
+      "product": {
+        "id": "2ff162b9a40bda4e2c64a84c6de0f4da8e6294b7",
+        "name": "Speedwav Tuk Tuk Reverse Gear Safety -Chevrolet Sail UVA 200 dB Vehicle Horn",
+        "description": "Dummy description for product Speedwav Tuk Tuk Reverse Gear Safety -Chevrolet Sail UVA 200 dB Vehicle Horn",
+        "manufacturer_id": "725e3439476ac1c98d4327649857006a5a2e1988",
+        "taric_code": "32af0f62-7267-44b3-8cee-ec5e648a6757",
+        "variants": [
+          {
+            "id": "883868dbbe2e36f722ac64afda832284",
+            "name": "Vehicle Horns",
+            "description": "Speedwav Tuk Tuk Reverse Gear Safety -Chevrolet Sail UVA 200 dB Vehicle Horn\n                         Price: Rs. 278\n\t\t\t\t\n\t\t\tSpeedwav Tuk Tuk Reverse Gear Safety Horn\n\nFeatures :\n\nA high power Electrical Horns Cabinet noted for its high quality and loudness.\nWith mounting bracket and front mounting holes makes fitment easy\nThe Electrical horns cabinet can be used for virtually any application\n Can be attached to car under rear bumper with ease\nStarts at an instantly as soon as the reverse gear is activated.\nSufficiently high sound to draw peoples attention about the car is being reversed.\nAn accessory for car reverse assistance and safety of others.\n\nPackage Contents:\n1 X Speedwav Tuk Tuk Reverse Gear Safety Horn\nSpeedwav Tuk Tuk Reverse Gear Safety Horn\n\nFeatures :\n\nA high power Electrical Horns Cabinet noted for its high quality and loudness.\nWith mounting bracket and front mounting holes makes fitment easy\nThe Electrical horns cabinet can be used for virtually any application\n Can be attached to car under rear bumper with ease\nStarts at an instantly as soon as the reverse gear is activated.\nSufficiently high sound to draw peoples attention about the car is being reversed.\nAn accessory for car reverse assistance and safety of others.\n\nPackage Contents:\n1 X Speedwav Tuk Tuk Reverse Gear Safety Horn",
+            "stock_level": 1803,
+            "price": 500,
+            "sale": true,
+            "sale_price": 278,
+            "stock_keeping_unit": "VHREB3ZY4FDJGJ5E",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/vehicle-horn/q/h/t/tuk-tuk-reverse-gear-safety-ford-ikon-speedwav-1100x1100-imaeb3sycyrefkvf.jpeg",
+                "filename": "tuk-tuk-reverse-gear-safety-ford-ikon-speedwav-1100x1100-imaeb3sycyrefkvf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/q/h/t/tuk-tuk-reverse-gear-safety-ford-ikon-speedwav-original-imaeb3sycyrefkvf.jpeg",
+                "filename": "tuk-tuk-reverse-gear-safety-ford-ikon-speedwav-original-imaeb3sycyrefkvf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/vehicle-horn/j/5/e/tuk-tuk-reverse-gear-safety-chevrolet-sail-uva-speedwav-original-imaeb3sfznchfty3.jpeg",
+                "filename": "tuk-tuk-reverse-gear-safety-chevrolet-sail-uva-speedwav-original-imaeb3sfznchfty3.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Speedwav"] },
+              { "key": "Vehicle Model Name", "values": ["Sail UVA"] },
+              {
+                "key": "Model Number",
+                "values": ["Tuk Tuk Reverse Gear Safety -Chevrolet Sail UVA"]
+              },
+              { "key": "Volume", "values": ["200 dB"] },
+              { "key": "Vehicle Brand", "values": ["Chevrolet"] },
+              { "key": "Type", "values": ["Internal"] },
+              { "key": "Material", "values": ["Plastic", "Metal"] },
+              { "key": "Sound Type", "values": ["Tuk Tuk"] },
+              { "key": "Frequency Range", "values": ["100 Hz"] },
+              { "key": "Sales Package", "values": ["1 Vehicle Horn"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "36a0af0115d473c3b3771b770a2ed6577c7e31fb" }
+      },
+      "active": true,
+      "id": "2ff162b9a40bda4e2c64a84c6de0f4da8e6294b7"
+    },
+    {
+      "product": {
+        "id": "2d0b435e7f95fa2cfc89880102a78bf29d826278",
+        "name": "Fastway Book Cover for LG G Pad 2 7.0.",
+        "description": "Dummy description for product Fastway Book Cover for LG G Pad 2 7.0.",
+        "manufacturer_id": "4e53e1a9f0f524c749de14bc24cbdc13996d8bb8",
+        "taric_code": "d0ec9192-52c8-43c0-82ba-395f8b8a9413",
+        "variants": [
+          {
+            "id": "855e9cf1b2d137b46935e19b4976ce9b",
+            "name": "Fastway Cases & Covers",
+            "description": "Fastway Book Cover for LG G Pad 2 7.0. (Purple)\n                         Price: Rs. 290\n\t\t\t\t\n\t\t\t360 Degree Rotating Flip Folio Synthetic Leather Case designed for 7 inch Tablet. Comes with a great aesthetic design, comfort and protection. Protects your tablet from shocks, scratches, bumps & other damages. Its unique design allows access to Camera (if in the middle of Tablet). 360 Rotating for Portrait or Landscape mode. Comes with Secure Elastic Strap closure. With an extendable stand to support your Tablet PC, comfortable to watch movies, read eBooks or type. Compatible with all 7 inch tablets. So what are you waiting for.. Go ahead and express your style statement!!\n360 Degree Rotating Flip Folio Synthetic Leather Case designed for 7 inch Tablet. Comes with a great aesthetic design, comfort and protection. Protects your tablet from shocks, scratches, bumps & other damages. Its unique design allows access to Camera (if in the middle of Tablet). 360 Rotating for Portrait or Landscape mode. Comes with Secure Elastic Strap closure. With an extendable stand to support your Tablet PC, comfortable to watch movies, read eBooks or type. Compatible with all 7 inch tablets. So what are you waiting for.. Go ahead and express your style statement!!",
+            "stock_level": 1817,
+            "price": 499,
+            "sale": true,
+            "sale_price": 290,
+            "stock_keeping_unit": "ACCECRF7VSPDYQKU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/a/g/h/fastway-8rpl110-1100x1100-imae8gcs4ndjdffw.jpeg",
+                "filename": "fastway-8rpl110-1100x1100-imae8gcs4ndjdffw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/book-cover/a/g/h/fastway-8rpl110-original-imae8gcs4ndjdffw.jpeg",
+                "filename": "fastway-8rpl110-original-imae8gcs4ndjdffw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/9/9/w/fastway-7rpl303-original-imae8xuhzhqzap62.jpeg",
+                "filename": "fastway-7rpl303-original-imae8xuhzhqzap62.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/6/7/h/fastway-7rpl323-original-imae8xuhcuhyyswg.jpeg",
+                "filename": "fastway-7rpl323-original-imae8xuhcuhyyswg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/a/g/h/fastway-8rpl110-original-imae8gcsv7ny3mzx.jpeg",
+                "filename": "fastway-8rpl110-original-imae8gcsv7ny3mzx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/a/g/h/fastway-8rpl110-original-imae8gcsub3gsfhe.jpeg",
+                "filename": "fastway-8rpl110-original-imae8gcsub3gsfhe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Fastway"] },
+              { "key": "Shade", "values": ["Purple"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              { "key": "Designed for", "values": ["LG G Pad 2 7.0."] },
+              { "key": "Model ID", "values": ["7RPL319"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Weight", "values": ["100 g"] },
+              {
+                "key": "Width x Height x Depth",
+                "values": ["125 x 192 x 10 cm"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["7 Inch Rotating Flip Case"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": true,
+      "id": "2d0b435e7f95fa2cfc89880102a78bf29d826278"
+    },
+    {
+      "product": {
+        "id": "6706c6f8cffc26af6c5c75a519cdf46f48266241",
+        "name": "IPP 5 W LED Bulb",
+        "description": "Dummy description for product IPP 5 W LED Bulb",
+        "manufacturer_id": "6ee1b4430b4a3e7789a0eae81935b8b8761f854f",
+        "taric_code": "3ace8f63-0ad9-4981-8a47-7f4c5b34ccc1",
+        "variants": [
+          {
+            "id": "fbf546338bde09c1b450bd0502b76a5e",
+            "name": "IPP Bulbs",
+            "description": "Buy IPP 5 W LED Bulb for Rs.249 online. IPP 5 W LED Bulb at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 518,
+            "price": 500,
+            "sale": true,
+            "sale_price": 249,
+            "stock_keeping_unit": "BLBE9AZKHH8DZMCT",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bulb/v/n/z/1peco7wb22-ipp-1100x1100-imae9akhhs933xxg.jpeg",
+                "filename": "1peco7wb22-ipp-1100x1100-imae9akhhs933xxg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bulb/v/n/z/1peco7wb22-ipp-original-imae9akhhs933xxg.jpeg",
+                "filename": "1peco7wb22-ipp-original-imae9akhhs933xxg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["IPP"] },
+              { "key": "Rated Life", "values": ["5 Years"] },
+              { "key": "Model Number", "values": ["5WPB22"] },
+              { "key": "Shade", "values": ["White"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Bulb Base", "values": ["B22"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Lumen", "values": ["500"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects Only"]
+              },
+              { "key": "Domestic Warranty", "values": ["2 Year"] },
+              { "key": "Power Consumption", "values": ["5 W"] },
+              { "key": "Sales Package", "values": ["1 Bulb"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "31611de385056957a2f1dbe131f6f8a05219fee6" }
+      },
+      "active": true,
+      "id": "6706c6f8cffc26af6c5c75a519cdf46f48266241"
+    },
+    {
+      "product": {
+        "id": "fa673817a0c76c822f06201dc82682f94140fc88",
+        "name": "Handloomhub Polyester Brown Self Design Eyelet Long Door Curtain",
+        "description": "Dummy description for product Handloomhub Polyester Brown Self Design Eyelet Long Door Curtain",
+        "manufacturer_id": "e5711ba1567df8374c3e7073bcd16d0db8636b58",
+        "taric_code": "e16e122b-d9cc-4f13-8928-238e5d3afd83",
+        "variants": [
+          {
+            "id": "63213b68a2952ca06b2134b7fe13276e",
+            "name": "Curtains",
+            "description": "Buy Handloomhub Polyester Brown Self Design Eyelet Long Door Curtain at Rs. 1199 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 7748,
+            "price": 1899,
+            "sale": false,
+            "sale_price": 1199,
+            "stock_keeping_unit": "CRNEE5ZSD8SKMGQB",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/curtain/g/q/b/hh-031-274-handloomhub-eyelet-plain-with-lace-original-imaefxy6gfjnzxhb.jpeg",
+                "filename": "hh-031-274-handloomhub-eyelet-plain-with-lace-original-imaefxy6gfjnzxhb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Handloomhub"] },
+              { "key": "Designed For", "values": ["Long Door"] },
+              { "key": "Type", "values": ["Eyelet"] },
+              { "key": "Model Name", "values": ["Plain With Lace"] },
+              { "key": "Model ID", "values": ["HH-031"] },
+              { "key": "Color", "values": ["Brown"] },
+              { "key": "Length", "values": ["274 cm"] },
+              { "key": "Material", "values": ["Polyester"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 3"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "79ee8c484fcf7952ee8567467ad6e65733fdf11c" }
+      },
+      "active": false,
+      "id": "fa673817a0c76c822f06201dc82682f94140fc88"
+    },
+    {
+      "product": {
+        "id": "5f8d5743e3d102aa772eebdcb75d8abae4cf71b8",
+        "name": "Durian Madison Leatherette 1 Seater Sofa",
+        "description": "Dummy description for product Durian Madison Leatherette 1 Seater Sofa",
+        "manufacturer_id": "fcddc9a07b04195b0843a9a4957fbfa0d5944a38",
+        "taric_code": "6f237f83-6472-4c4b-9de0-56a2af714acc",
+        "variants": [
+          {
+            "id": "f70238d8dffaaeb3b7457fa7968d3ebc",
+            "name": "Sofas & Sectionals",
+            "description": "Buy Durian Madison Leatherette 1 Seater Sofa for Rs.23790 online. Durian Madison Leatherette 1 Seater Sofa at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9419,
+            "price": 36600,
+            "sale": false,
+            "sale_price": 23790,
+            "stock_keeping_unit": "SOFE8HPYHNT7KUXG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/u/x/g/madison-1-plywood-durian-black-black-1100x1100-imae8e4zeyxjbbae.jpeg",
+                "filename": "madison-1-plywood-durian-black-black-1100x1100-imae8e4zeyxjbbae.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/u/x/g/madison-1-plywood-durian-black-black-original-imae8e4zeyxjbbae.jpeg",
+                "filename": "madison-1-plywood-durian-black-black-original-imae8e4zeyxjbbae.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/u/x/g/madison-1-leatherette-durian-black-black-original-imae998yp5nvkwbs.jpeg",
+                "filename": "madison-1-leatherette-durian-black-black-original-imae998yp5nvkwbs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/u/x/g/madison-1-plywood-durian-black-black-original-imae8e4zrkdtwrqx.jpeg",
+                "filename": "madison-1-plywood-durian-black-black-original-imae8e4zrkdtwrqx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/u/x/g/madison-1-plywood-durian-black-black-original-imae8e4zmqpnzrrs.jpeg",
+                "filename": "madison-1-plywood-durian-black-black-original-imae8e4zmqpnzrrs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sofa-sectional/d/h/j/madison-3-plywood-durian-black-black-original-imae8e4zhdzdmbmg.jpeg",
+                "filename": "madison-3-plywood-durian-black-black-original-imae8e4zhdzdmbmg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sofa-sectional/u/x/g/madison-1-plywood-durian-black-black-original-imae8trnpnhrfhcx.jpeg",
+                "filename": "madison-1-plywood-durian-black-black-original-imae8trnpnhrfhcx.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "5888b7ba-8a78-478e-91eb-336bbf4aae91",
+                "values": ["1 Sofa"]
+              },
+              { "key": "Brand", "values": ["Durian"] },
+              { "key": "Orientation", "values": ["NA"] },
+              { "key": "Delivery Condition", "values": ["Knock Down"] },
+              { "key": "Type", "values": ["Sofa"] },
+              { "key": "Style", "values": ["Contemporary and Modern"] },
+              { "key": "Filling Material", "values": ["Foam::Silicone Fiber"] },
+              { "key": "Configuration", "values": ["Straight"] },
+              { "key": "Seating Capacity", "values": ["1 Seater"] },
+              { "key": "Upholstery Type", "values": ["Cushion"] },
+              { "key": "Upholstery Included", "values": ["Yes"] },
+              { "key": "Adjustable Headrest", "values": ["No"] },
+              { "key": "Suitable For", "values": ["Living Room"] },
+              { "key": "Maximum Load Capacity", "values": ["90 kg"] },
+              { "key": "Model Number", "values": ["MADISON/1"] },
+              { "key": "Model Series Name", "values": ["Madison"] },
+              { "key": "Style Code", "values": ["MADISON/1"] },
+              { "key": "Finish Type", "values": ["Matte"] },
+              {
+                "key": "Care Instructions",
+                "values": [
+                  "Clean the upholstery with a Damp Cloth.",
+                  "Do not use wet cloth."
+                ]
+              },
+              {
+                "key": "9be71d44-381a-4286-9227-1f4ed0b131eb",
+                "values": [
+                  "Cancellation NOT allowed for this product after 24 hrs of order booking."
+                ]
+              },
+              {
+                "key": "dd100373-112a-47bc-a85b-51a0a2f54225",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              { "key": "Weight", "values": ["40 kg"] },
+              { "key": "Height", "values": ["980 mm"] },
+              { "key": "Width", "values": ["1050 mm"] },
+              { "key": "Depth", "values": ["1020 mm"] },
+              { "key": "Seat Height", "values": ["560 mm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "For the remaining 4 years from date of expiry of the first year Durian shall only be liable to provide repair service in regard to any malfunction or defect to the goods/materials ,at cost to the customer (including component cost)."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "5 Year Durian Industries Ltd. Company Domestic Warranty"
+                ]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Warranty for first year totally free and free service will continue for the next four years(excluding inputs",
+                  "if any)."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Damage caused to the product due to improper installation by customer,normal wear and tear."
+                ]
+              },
+              { "key": "Upholstery Color", "values": ["Black"] },
+              { "key": "Primary Color", "values": ["Black"] },
+              { "key": "Primary Material", "values": ["Leatherette"] },
+              { "key": "Secondary Material Subtype", "values": ["NA"] },
+              { "key": "Secondary Material", "values": ["Solid Wood"] },
+              { "key": "Finish Color", "values": ["Eerie Black"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Soft touch upholstery",
+                  "superior durability and comfort"
+                ]
+              },
+              { "key": "Origin of Manufacture", "values": ["Domestic"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c4c3422c7b5edcfa8db3ef008d78becc5014214" }
+      },
+      "active": true,
+      "id": "5f8d5743e3d102aa772eebdcb75d8abae4cf71b8"
+    },
+    {
+      "product": {
+        "id": "eb6aafc8ee9974dd61a2ac8c8a0fcb90108419c8",
+        "name": "Furhome Polyester Multicolor Floral Eyelet Window & Door Curtain",
+        "description": "Dummy description for product Furhome Polyester Multicolor Floral Eyelet Window & Door Curtain",
+        "manufacturer_id": "59eb10f4b8248e8612ae7c30d5aaa0a063e96d0e",
+        "taric_code": "7da9bbbd-62b2-46e8-b8c7-306aaae9a275",
+        "variants": [
+          {
+            "id": "fa5bfded02b70ec72cf6c0c9eade8882",
+            "name": "Curtains",
+            "description": "Buy Furhome Polyester Multicolor Floral Eyelet Window & Door Curtain at Rs. 529 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 4993,
+            "price": 799,
+            "sale": true,
+            "sale_price": 529,
+            "stock_keeping_unit": "CRNED63HNKF4ZHDN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/curtain/h/d/n/202-213-furhome-eyelet-to-original-imaebbhcutbhbjaw.jpeg",
+                "filename": "202-213-furhome-eyelet-to-original-imaebbhcutbhbjaw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/curtain/h/d/n/202-213-furhome-eyelet-to-original-imaebbhekgptawfd.jpeg",
+                "filename": "202-213-furhome-eyelet-to-original-imaebbhekgptawfd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Furhome"] },
+              { "key": "Designed For", "values": ["Window and Door"] },
+              { "key": "Type", "values": ["Eyelet"] },
+              { "key": "Model Name", "values": ["To"] },
+              { "key": "Model ID", "values": ["202"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Length", "values": ["213 cm"] },
+              { "key": "Material", "values": ["Polyester"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Sales Package", "values": ["2 Curtains"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "79ee8c484fcf7952ee8567467ad6e65733fdf11c" }
+      },
+      "active": true,
+      "id": "eb6aafc8ee9974dd61a2ac8c8a0fcb90108419c8"
+    },
+    {
+      "product": {
+        "id": "23a3990522c79a5c8b244a6b1f6b52f2726dbe4a",
+        "name": "Milky Way 5 W LED Bulb",
+        "description": "Dummy description for product Milky Way 5 W LED Bulb",
+        "manufacturer_id": "2ecc59890def03cac79cde683a3151c3b08249ad",
+        "taric_code": "9b8c2587-64ca-42e1-b3db-766a3c003c80",
+        "variants": [
+          {
+            "id": "8f3e7065f29a6146ac8f75ff3c0bc73a",
+            "name": "Milky Way Bulbs",
+            "description": "Milky Way 5 W LED Bulb (White, Pack of 3)\n                         Price: Rs. 235\n\t\t\t\t\n\t\t\tReduce Power Expenses Shatter proof Energy Efficient\nReduce Power Expenses Shatter proof Energy Efficient",
+            "stock_level": 7760,
+            "price": 597,
+            "sale": false,
+            "sale_price": 235,
+            "stock_keeping_unit": "BLBEB33S7YRUNBEM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bulb/x/j/y/m111-milky-way-1100x1100-imaeb2zvdesh5vc3.jpeg",
+                "filename": "m111-milky-way-1100x1100-imaeb2zvdesh5vc3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bulb/x/j/y/m111-milky-way-original-imaeb2zvdesh5vc3.jpeg",
+                "filename": "m111-milky-way-original-imaeb2zvdesh5vc3.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Milky Way"] },
+              { "key": "Model Number", "values": ["M112"] },
+              { "key": "Shade", "values": ["Warm White"] },
+              { "key": "Bulb Base", "values": ["B22"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Lumen", "values": ["350"] },
+              { "key": "Domestic Warranty", "values": ["1 Year"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Damaged products are not covered under warranty"]
+              },
+              { "key": "Power Consumption", "values": ["5 W"] },
+              { "key": "Shatter Proof", "values": ["Yes"] },
+              { "key": "Certification", "values": ["ISO and CE Certified"] },
+              { "key": "Energy Saving", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["3Bulb"] },
+              { "key": "Pack of", "values": ["3"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "31611de385056957a2f1dbe131f6f8a05219fee6" }
+      },
+      "active": true,
+      "id": "23a3990522c79a5c8b244a6b1f6b52f2726dbe4a"
+    },
+    {
+      "product": {
+        "id": "7eb33afc235c443d7d32ec332983eea8baf80cf3",
+        "name": "Easy4buy 3510 Very Loud Sound 110 dB Vehicle Horn",
+        "description": "Dummy description for product Easy4buy 3510 Very Loud Sound 110 dB Vehicle Horn",
+        "manufacturer_id": "1eb418258a7929a79a5199022854518d6da1e000",
+        "taric_code": "eddc8b99-2d45-4bb2-bf9c-5eb05cf017de",
+        "variants": [
+          {
+            "id": "f8cdf036ebc3dbb06a08d8697311fee9",
+            "name": "Vehicle Horns",
+            "description": "Buy Easy4buy 3510 Very Loud Sound 110 dB Vehicle Horn for Rs.599 online. Easy4buy 3510 Very Loud Sound 110 dB Vehicle Horn at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3360,
+            "price": 899,
+            "sale": true,
+            "sale_price": 599,
+            "stock_keeping_unit": "VHRE7FUYCK5UHUPQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/u/p/q/3510-very-loud-sound-easy4buy-1100x1100-imae7385h4hpqz9w.jpeg",
+                "filename": "3510-very-loud-sound-easy4buy-1100x1100-imae7385h4hpqz9w.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/vehicle-horn/u/p/q/3510-very-loud-sound-easy4buy-original-imae7385h4hpqz9w.jpeg",
+                "filename": "3510-very-loud-sound-easy4buy-original-imae7385h4hpqz9w.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Easy4buy"] },
+              { "key": "Vehicle Model Name", "values": ["NA"] },
+              { "key": "Model Number", "values": ["3510 Very Loud Sound"] },
+              { "key": "Type", "values": ["External"] },
+              { "key": "Vehicle Brand", "values": ["NA"] },
+              { "key": "Volume", "values": ["110 dB"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Vehicle Model Year", "values": ["NA"] },
+              { "key": "Sound Type", "values": ["Oooga"] },
+              { "key": "Frequency Range", "values": ["490 Hz"] },
+              { "key": "Sales Package", "values": ["2 Horn"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "36a0af0115d473c3b3771b770a2ed6577c7e31fb" }
+      },
+      "active": false,
+      "id": "7eb33afc235c443d7d32ec332983eea8baf80cf3"
+    },
+    {
+      "product": {
+        "id": "de7e0cc922c6a9e731af6d242bcdb5ea6aee3e70",
+        "name": "Elkoha 8 W LED Bulb",
+        "description": "Dummy description for product Elkoha 8 W LED Bulb",
+        "manufacturer_id": "a4716726961bd7a9511cd3472d6525bc7eb28240",
+        "taric_code": "bfeb2fee-8027-40ca-84c2-803cd2349baf",
+        "variants": [
+          {
+            "id": "354aa1786ac7ba8f9e95855319fa2db2",
+            "name": "Elkoha Bulbs",
+            "description": "Buy Elkoha 8 W LED Bulb for Rs.399 online. Elkoha 8 W LED Bulb at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1094,
+            "price": 725,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "BLBE7EZ2EYPFGEEX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bulb/e/e/x/bl02x008a2w7d8501-elkoha-1100x1100-imae7e7dnvvjahca.jpeg",
+                "filename": "bl02x008a2w7d8501-elkoha-1100x1100-imae7e7dnvvjahca.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bulb/e/e/x/bl02x008a2w7d8501-elkoha-original-imae7e7dnvvjahca.jpeg",
+                "filename": "bl02x008a2w7d8501-elkoha-original-imae7e7dnvvjahca.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Elkoha"] },
+              { "key": "Model Number", "values": ["BL02X008A2W7D8501"] },
+              { "key": "Shade", "values": ["Warm White"] },
+              { "key": "Bulb Base", "values": ["E27"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Lumen", "values": ["500"] },
+              { "key": "Domestic Warranty", "values": ["1 Year"] },
+              { "key": "Power Consumption", "values": ["8 W"] },
+              { "key": "Sales Package", "values": ["1 Bulb"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "31611de385056957a2f1dbe131f6f8a05219fee6" }
+      },
+      "active": true,
+      "id": "de7e0cc922c6a9e731af6d242bcdb5ea6aee3e70"
+    },
+    {
+      "product": {
+        "id": "39af263984cbf43dc2dcd65b19188c2a13f4f5ec",
+        "name": "Luigi Bormioli 10405/02",
+        "description": "Dummy description for product Luigi Bormioli 10405/02",
+        "manufacturer_id": "ab94bdfcb443f942e621a4d37a538c2a31e157d1",
+        "taric_code": "df8e23c8-b3dc-4009-82b4-952143cddf9d",
+        "variants": [
+          {
+            "id": "2432372e72a48611990ce38f8a4100e1",
+            "name": "Luigi Bormioli Glasses & Tumblers",
+            "description": "Luigi Bormioli 10405/02 (410 ml, White, Pack of 6)\n                         Price: Rs. 2,257\n\t\t\t\t\n\t\t\tThe unrivalled elegant aesthetic of the Atelier Hiball Tumblers, combined with their glass manufacturing techniques makes them the ideal choice for any suave dinner party. Great for serving juice, soft drinks, cocktails and water, the Atelier Hiballs make an excellent table service accompaniment. The thin and delicate finish of the Claudio Hiball Tumblers ensures their placement as the first choice for both highbrow dinners, and simply for day to day use!\nThe unrivalled elegant aesthetic of the Atelier Hiball Tumblers, combined with their glass manufacturing techniques makes them the ideal choice for any suave dinner party. Great for serving juice, soft drinks, cocktails and water, the Atelier Hiballs make an excellent table service accompaniment. The thin and delicate finish of the Claudio Hiball Tumblers ensures their placement as the first choice for both highbrow dinners, and simply for day to day use!",
+            "stock_level": 9409,
+            "price": 2257,
+            "sale": false,
+            "sale_price": 2257,
+            "stock_keeping_unit": "GLSEEANP3Z43QAUA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/glass/a/u/a/10405-02-luigi-bormioli-original-imaeeadkwuq5apsb.jpeg",
+                "filename": "10405-02-luigi-bormioli-original-imaeeadkwuq5apsb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Luigi Bormioli"] },
+              { "key": "Model Number", "values": ["10405/02"] },
+              { "key": "Type", "values": ["Glass Set"] },
+              { "key": "Capacity", "values": ["410 ml"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Material", "values": ["Glass"] },
+              { "key": "Glass Type", "values": ["Highball Tumbler"] },
+              { "key": "Pack of", "values": ["6"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "701046218facf48bf399ace02023041063906f83" }
+      },
+      "active": false,
+      "id": "39af263984cbf43dc2dcd65b19188c2a13f4f5ec"
+    },
+    {
+      "product": {
+        "id": "f2eb2e27def5b781681aeb442fd03771ec2c0823",
+        "name": "Speedwav Single Pipe Car Air Pressure -Skoda Yeti 200 dB Vehicle Horn",
+        "description": "Dummy description for product Speedwav Single Pipe Car Air Pressure -Skoda Yeti 200 dB Vehicle Horn",
+        "manufacturer_id": "725e3439476ac1c98d4327649857006a5a2e1988",
+        "taric_code": "b15e45f4-a3bc-4e85-8887-2ddbc7f0e3b7",
+        "variants": [
+          {
+            "id": "1bd455167275d5c7c99171d0da6e7cdb",
+            "name": "Vehicle Horns",
+            "description": "Speedwav Single Pipe Car Air Pressure -Skoda Yeti 200 dB Vehicle Horn\n                         Price: Rs. 873\n\t\t\t\t\n\t\t\tTired of low horn sound from your vehicle then switch to Speedwav Single Pipe Air Pressure Horn which will not only get you the side for over taking any vehicle but will also keep you safe whicle riding, but will make your vehicle a head turner whenever you will blow it on the road with its Melodies sound tune\n\nFeatures:\n\nEasy to fit\n\nIncreased life horn\n\nEnhanced horn sound\n\nThree pipe loud horn sound helps you over take lane from any vehicle ahead of you\n\nWith horn installed in vehicle, driving becomes easy and safe on the roads and highways\n\n Must buy for all highway travelers to have a safe and sound journey\n\nNote: Product color may vary as per stock availability\n\n\nPackage Contents:\n\n1 X Speedwav Twin Tone Single Pipe Air Pressure Horn (Single Trumpet Horn Cone , 1 Horn Air Compressor)\nTired of low horn sound from your vehicle then switch to Speedwav Single Pipe Air Pressure Horn which will not only get you the side for over taking any vehicle but will also keep you safe whicle riding, but will make your vehicle a head turner whenever you will blow it on the road with its Melodies sound tune\n\nFeatures:\n\nEasy to fit\n\nIncreased life horn\n\nEnhanced horn sound\n\nThree pipe loud horn sound helps you over take lane from any vehicle ahead of you\n\nWith horn installed in vehicle, driving becomes easy and safe on the roads and highways\n\n Must buy for all highway travelers to have a safe and sound journey\n\nNote: Product color may vary as per stock availability\n\n\nPackage Contents:\n\n1 X Speedwav Twin Tone Single Pipe Air Pressure Horn (Single Trumpet Horn Cone , 1 Horn Air Compressor)",
+            "stock_level": 2807,
+            "price": 1500,
+            "sale": true,
+            "sale_price": 873,
+            "stock_keeping_unit": "VHREB3ZYVVX5ZHGH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/a/v/y/single-pipe-bike-air-pressure-yamaha-fazer-speedwav-1100x1100-imaeb3syhz2w3vnx.jpeg",
+                "filename": "single-pipe-bike-air-pressure-yamaha-fazer-speedwav-1100x1100-imaeb3syhz2w3vnx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/vehicle-horn/a/v/y/single-pipe-bike-air-pressure-yamaha-fazer-speedwav-original-imaeb3syhz2w3vnx.jpeg",
+                "filename": "single-pipe-bike-air-pressure-yamaha-fazer-speedwav-original-imaeb3syhz2w3vnx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/vehicle-horn/h/g/h/single-pipe-car-air-pressure-skoda-yeti-speedwav-original-imaeb3sfhef5vy7a.jpeg",
+                "filename": "single-pipe-car-air-pressure-skoda-yeti-speedwav-original-imaeb3sfhef5vy7a.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Speedwav"] },
+              { "key": "Vehicle Model Name", "values": ["Yeti"] },
+              {
+                "key": "Model Number",
+                "values": ["Single Pipe Car Air Pressure -Skoda Yeti"]
+              },
+              { "key": "Type", "values": ["Internal"] },
+              { "key": "Vehicle Brand", "values": ["Skoda"] },
+              { "key": "Volume", "values": ["200 dB"] },
+              { "key": "Material", "values": ["Plastic", "Metal"] },
+              { "key": "Sound Type", "values": ["Trumpet"] },
+              { "key": "Frequency Range", "values": ["100 Hz"] },
+              { "key": "Sales Package", "values": ["1 Vehicle Horn"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "36a0af0115d473c3b3771b770a2ed6577c7e31fb" }
+      },
+      "active": false,
+      "id": "f2eb2e27def5b781681aeb442fd03771ec2c0823"
+    },
+    {
+      "product": {
+        "id": "8a0d927e22d201cdf95bc8ff3410de66d7adf26f",
+        "name": "Unravel India Lord Ganesha Showpiece  -  10 cm",
+        "description": "Dummy description for product Unravel India Lord Ganesha Showpiece  -  10 cm",
+        "manufacturer_id": "a7b5fa5bf221ab0b31265666c340bdf28bfd4f1c",
+        "taric_code": "7c60b7e6-aad2-4ecc-9429-8e14e2e8d0a9",
+        "variants": [
+          {
+            "id": "4d43c1026e2a70f2c4644fb5eeef2fb7",
+            "name": "Unravel India Religious Idols",
+            "description": "Buy Unravel India Lord Ganesha Showpiece  -  10 cm for Rs.449 online. Unravel India Lord Ganesha Showpiece  -  10 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7307,
+            "price": 599,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "SHIEYZF6VHZ5HTVV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/v/v/c0029-unravel-india-original-imaeysffty2n6mmn.jpeg",
+                "filename": "c0029-unravel-india-original-imaeysffty2n6mmn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Unravel India"] },
+              { "key": "Model Number", "values": ["C0029"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Model Name", "values": ["Lord Ganesha"] },
+              { "key": "Material", "values": ["Terracotta"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Weight", "values": ["500 g"] },
+              { "key": "Height", "values": ["10 cm"] },
+              { "key": "Width", "values": ["7.05 cm"] },
+              { "key": "Depth", "values": ["5 cm"] },
+              { "key": "Sales Package", "values": ["1"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "8a0d927e22d201cdf95bc8ff3410de66d7adf26f"
+    },
+    {
+      "product": {
+        "id": "63acc259ca612455fb48217322b92992d433fb70",
+        "name": "Home Fashion Gallery Polyester Maroon, Brown Plain Eyelet Long Door Curtain",
+        "description": "Dummy description for product Home Fashion Gallery Polyester Maroon, Brown Plain Eyelet Long Door Curtain",
+        "manufacturer_id": "cbd9d395c8c6d601242fcd5d0ccecd98659d91d2",
+        "taric_code": "9b043b67-6385-433d-bb1c-ee21b29a990b",
+        "variants": [
+          {
+            "id": "dedbadf87adb5ddffd30ce0e94746590",
+            "name": "Curtains",
+            "description": "Buy Home Fashion Gallery Polyester Maroon, Brown Plain Eyelet Long Door Curtain at Rs. 1889 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 8600,
+            "price": 3148,
+            "sale": false,
+            "sale_price": 1889,
+            "stock_keeping_unit": "CRNEDDYREZRDKVSY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/curtain/p/f/s/70411-152-4-home-fashion-gallery-eyelet-hfg70411-original-imaedazmjvv3a7wf.jpeg",
+                "filename": "70411-152-4-home-fashion-gallery-eyelet-hfg70411-original-imaedazmjvv3a7wf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Reversible", "values": ["No"] },
+              { "key": "Transparency", "values": ["Opaque"] },
+              { "key": "Brand", "values": ["Home Fashion Gallery"] },
+              { "key": "Designed For", "values": ["Long Door"] },
+              { "key": "Type", "values": ["Eyelet"] },
+              { "key": "Model Name", "values": ["HFG70414"] },
+              { "key": "Model ID", "values": ["70414"] },
+              { "key": "Color", "values": ["Maroon", "Brown"] },
+              { "key": "Length", "values": ["274.32 cm"] },
+              { "key": "Other Dimensions", "values": ["9X4 Feet"] },
+              {
+                "key": "Wash Care",
+                "values": ["Machine Wash", "Natural Dry", "Do not Bleach"]
+              },
+              { "key": "Material", "values": ["Polyester"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 4"]
+              },
+              { "key": "Sales Package", "values": ["Pack of 4 Curtain"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "79ee8c484fcf7952ee8567467ad6e65733fdf11c" }
+      },
+      "active": true,
+      "id": "63acc259ca612455fb48217322b92992d433fb70"
+    },
+    {
+      "product": {
+        "id": "6c3fef7dab9751c83ca63f1746c3edb99871bbe8",
+        "name": "Favourite BikerZ FBZ 6455 110 dB Vehicle Horn",
+        "description": "Dummy description for product Favourite BikerZ FBZ 6455 110 dB Vehicle Horn",
+        "manufacturer_id": "df5c11df263e3cdba2650f99c6f8b72e045e9bf1",
+        "taric_code": "03c5e8ba-ade6-45d0-a4f9-a207c83054a4",
+        "variants": [
+          {
+            "id": "238bb0bc9312c6959c469e6defcce8fe",
+            "name": "Vehicle Horns",
+            "description": "Buy Favourite BikerZ FBZ 6455 110 dB Vehicle Horn for Rs.499 online. Favourite BikerZ FBZ 6455 110 dB Vehicle Horn at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2047,
+            "price": 788,
+            "sale": true,
+            "sale_price": 499,
+            "stock_keeping_unit": "VHREBSGGGYMBXU5E",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/w/g/j/fbz-6474-favourite-bikerz-1100x1100-imaebrdjjnsxzqkf.jpeg",
+                "filename": "fbz-6474-favourite-bikerz-1100x1100-imaebrdjjnsxzqkf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/w/g/j/fbz-6474-favourite-bikerz-original-imaebrdjjnsxzqkf.jpeg",
+                "filename": "fbz-6474-favourite-bikerz-original-imaebrdjjnsxzqkf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Favourite BikerZ"] },
+              {
+                "key": "Vehicle Model Name",
+                "values": ["Pulsar 135 LS DTS-i"]
+              },
+              { "key": "Model Number", "values": ["FBZ 6455"] },
+              { "key": "Type", "values": ["External"] },
+              { "key": "Vehicle Brand", "values": ["Bajaj"] },
+              { "key": "Volume", "values": ["110 dB"] },
+              { "key": "Material", "values": ["Metal"] },
+              { "key": "Sound Type", "values": ["Oooga"] },
+              { "key": "Frequency Range", "values": ["490 Hz"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Sales Package", "values": ["1 Dog Horn"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "36a0af0115d473c3b3771b770a2ed6577c7e31fb" }
+      },
+      "active": true,
+      "id": "6c3fef7dab9751c83ca63f1746c3edb99871bbe8"
+    },
+    {
+      "product": {
+        "id": "831945462a4dd4bd1e92d90b18e3a88cbfbb411c",
+        "name": "Handloomhub Polyester Purple Plain Eyelet Door Curtain",
+        "description": "Dummy description for product Handloomhub Polyester Purple Plain Eyelet Door Curtain",
+        "manufacturer_id": "e5711ba1567df8374c3e7073bcd16d0db8636b58",
+        "taric_code": "f9d367ab-b70e-4f7e-a690-fd6f5a06870e",
+        "variants": [
+          {
+            "id": "05c657deb0a2be0d21034cfb026f06b7",
+            "name": "Curtains",
+            "description": "Buy Handloomhub Polyester Purple Plain Eyelet Door Curtain at Rs. 973 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 9664,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 973,
+            "stock_keeping_unit": "CRNEDX3GCRFHQEB3",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/curtain/p/2/n/hh-0035-213-homesazz-eyelet-plain-with-lace-original-imae3z2gzy2g7bsz.jpeg",
+                "filename": "hh-0035-213-homesazz-eyelet-plain-with-lace-original-imae3z2gzy2g7bsz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/curtain/p/2/n/hh-0035-213-homesazz-eyelet-plain-with-lace-original-imae3z2gzy2g7bsz.jpeg",
+                "filename": "hh-0035-213-homesazz-eyelet-plain-with-lace-original-imae3z2gzy2g7bsz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Handloomhub"] },
+              { "key": "Designed For", "values": ["Door"] },
+              { "key": "Type", "values": ["Eyelet"] },
+              { "key": "Model Name", "values": ["Plain With Lace"] },
+              { "key": "Model ID", "values": ["HH-006"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Length", "values": ["213 cm"] },
+              { "key": "Material", "values": ["Polyester"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "79ee8c484fcf7952ee8567467ad6e65733fdf11c" }
+      },
+      "active": true,
+      "id": "831945462a4dd4bd1e92d90b18e3a88cbfbb411c"
+    },
+    {
+      "product": {
+        "id": "2c5d5c0f2784c01daedfc9a2d10ba145a6f27cec",
+        "name": "Ornate 7 W LED Bulb",
+        "description": "Dummy description for product Ornate 7 W LED Bulb",
+        "manufacturer_id": "d2414db9393509e17309fa9e38720824f2e63f10",
+        "taric_code": "f09b614f-5ff1-4cc9-a245-6b1b74d5cc5c",
+        "variants": [
+          {
+            "id": "3f025b9dc8065fe5a155573e5b21a70d",
+            "name": "Ornate Bulbs",
+            "description": "Buy Ornate 7 W LED Bulb for Rs.209 online. Ornate 7 W LED Bulb at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6078,
+            "price": 375,
+            "sale": false,
+            "sale_price": 209,
+            "stock_keeping_unit": "BLBECSRFVRR7XCZH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bulb/c/z/h/ob-7i-ornate-original-imaecsqgmbcqfqq5.jpeg",
+                "filename": "ob-7i-ornate-original-imaecsqgmbcqfqq5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bulb/c/z/h/ob-7i-ornate-original-imaecsqgmbcqfqq5.jpeg",
+                "filename": "ob-7i-ornate-original-imaecsqgmbcqfqq5.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bulb/p/f/t/1ob7i-ornate-original-imaecsqgevvzpsjh.jpeg",
+                "filename": "1ob7i-ornate-original-imaecsqgevvzpsjh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bulb/c/z/h/ob-7i-ornate-original-imaecsqgmny2jfzp.jpeg",
+                "filename": "ob-7i-ornate-original-imaecsqgmny2jfzp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ornate"] },
+              { "key": "Model Number", "values": ["OB-7I"] },
+              { "key": "Bulb Base", "values": ["B22"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Lumen", "values": ["630"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "18 months from date of invoice or 24 months from date of manufacture",
+                  "whichever is earlier"
+                ]
+              },
+              { "key": "Power Consumption", "values": ["7 W"] },
+              { "key": "Sales Package", "values": ["1 Bulb"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "31611de385056957a2f1dbe131f6f8a05219fee6" }
+      },
+      "active": false,
+      "id": "2c5d5c0f2784c01daedfc9a2d10ba145a6f27cec"
+    },
+    {
+      "product": {
+        "id": "a479a76ba7e9064b6732a7c80c11f87d396ab51e",
+        "name": "Favourite BikerZ FBZ 6480 110 dB Vehicle Horn",
+        "description": "Dummy description for product Favourite BikerZ FBZ 6480 110 dB Vehicle Horn",
+        "manufacturer_id": "df5c11df263e3cdba2650f99c6f8b72e045e9bf1",
+        "taric_code": "e5c973ad-e519-45d7-90c0-2cf741d0646a",
+        "variants": [
+          {
+            "id": "a59dedcf144a2676e83075471b7501c7",
+            "name": "Vehicle Horns",
+            "description": "Favourite BikerZ FBZ 6480 110 dB Vehicle Horn\n                         Price: Rs. 499\n\t\t\t\t\n\t\t\tFavourite BikerZ Dog Horn Features Loud and funny dog horn Works with 12V Current Extra Loud air pump sound Adds fun to your daily ride in crowded traffic conditions Cannon barrel shaped enhances looks of the vehicle Fits easily and firmly with help of the included metal plates. Horns with No Separate Mini Motor FEATURES: 1. Just like Old Time(Vintage) Car \"OOOGA\" Sound 2. Easy Installation on Reverse Side 3. Fixes with 1 Screw Only 4. Overall Smaller Dimension.\nFavourite BikerZ Dog Horn Features Loud and funny dog horn Works with 12V Current Extra Loud air pump sound Adds fun to your daily ride in crowded traffic conditions Cannon barrel shaped enhances looks of the vehicle Fits easily and firmly with help of the included metal plates. Horns with No Separate Mini Motor FEATURES: 1. Just like Old Time(Vintage) Car \"OOOGA\" Sound 2. Easy Installation on Reverse Side 3. Fixes with 1 Screw Only 4. Overall Smaller Dimension.",
+            "stock_level": 6664,
+            "price": 788,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "VHREBSMGYYUBVHHF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/w/g/j/fbz-6474-favourite-bikerz-1100x1100-imaebrdjjnsxzqkf.jpeg",
+                "filename": "fbz-6474-favourite-bikerz-1100x1100-imaebrdjjnsxzqkf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-horn/w/g/j/fbz-6474-favourite-bikerz-original-imaebrdjjnsxzqkf.jpeg",
+                "filename": "fbz-6474-favourite-bikerz-original-imaebrdjjnsxzqkf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Favourite BikerZ"] },
+              { "key": "Vehicle Model Name", "values": ["Splendor NXG"] },
+              { "key": "Model Number", "values": ["FBZ 6480"] },
+              { "key": "Type", "values": ["External"] },
+              { "key": "Vehicle Brand", "values": ["Hero"] },
+              { "key": "Volume", "values": ["110 dB"] },
+              { "key": "Material", "values": ["Metal"] },
+              { "key": "Sound Type", "values": ["Oooga"] },
+              { "key": "Frequency Range", "values": ["490 Hz"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Sales Package", "values": ["1 Dog Horn"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "36a0af0115d473c3b3771b770a2ed6577c7e31fb" }
+      },
+      "active": false,
+      "id": "a479a76ba7e9064b6732a7c80c11f87d396ab51e"
+    },
+    {
+      "product": {
+        "id": "69645a217c8b0b207b2659c68519defc058e5ba8",
+        "name": "Jojo Book Cover for Orange Tahiti",
+        "description": "Dummy description for product Jojo Book Cover for Orange Tahiti",
+        "manufacturer_id": "e8ef4db3b49ca68f0e80fc76cf41a4c6ea3acb33",
+        "taric_code": "3ad1a96a-f443-4bdb-a63b-5b342fb0c3ee",
+        "variants": [
+          {
+            "id": "9dc74cfc656e6259254e824e5ffadd6d",
+            "name": "Jojo Cases & Covers",
+            "description": "Jojo Book Cover for Orange Tahiti (Baby Pink)\n                         Price: Rs. 285\n\t\t\t\t\n\t\t\tProduct Details: The Really Smart Cover makes Tablet do things no other cover can. The Smart Cover doesn't just protect Tablet, it keeps it ready to go whenever you are. Magnetic Locks to lock your tablet when not in use and hence making it totally safe. Ultra Slim & lightweight Design -- only 2.4 mm at thickness and 13.2 gram. Soft high quality outer gives tactile and aesthetic appeal and full protects your latest Tablet whilst the interior adds strength and durability to the case PRODUCT SPECIFICATION - Custom made for the perfect fit - Provides front & back protection for your Tablet & has magnetic locks - Flips back and out of the way like a page in a magazine\nProduct Details: The Really Smart Cover makes Tablet do things no other cover can. The Smart Cover doesn't just protect Tablet, it keeps it ready to go whenever you are. Magnetic Locks to lock your tablet when not in use and hence making it totally safe. Ultra Slim & lightweight Design -- only 2.4 mm at thickness and 13.2 gram. Soft high quality outer gives tactile and aesthetic appeal and full protects your latest Tablet whilst the interior adds strength and durability to the case PRODUCT SPECIFICATION - Custom made for the perfect fit - Provides front & back protection for your Tablet & has magnetic locks - Flips back and out of the way like a page in a magazine",
+            "stock_level": 1827,
+            "price": 590,
+            "sale": true,
+            "sale_price": 285,
+            "stock_keeping_unit": "ACCE9YWXSSSVBKAC",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/book-cover/f/n/g/jojo-jojo296573-1100x1100-imae9zvwyhggg2en.jpeg",
+                "filename": "jojo-jojo296573-1100x1100-imae9zvwyhggg2en.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/book-cover/f/n/g/jojo-jojo296573-original-imae9zvwyhggg2en.jpeg",
+                "filename": "jojo-jojo296573-original-imae9zvwyhggg2en.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jojo"] },
+              { "key": "Shade", "values": ["Baby Pink"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              { "key": "Designed for", "values": ["Orange Tahiti"] },
+              { "key": "Model ID", "values": ["Jojo296639"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Warranty Summary", "values": ["No Warranty"] },
+              { "key": "Weight", "values": ["250 g"] },
+              { "key": "Width x Height x Depth", "values": ["10 x 20 x 2 cm"] },
+              { "key": "Sales Package", "values": ["1 Tablet Cover"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": true,
+      "id": "69645a217c8b0b207b2659c68519defc058e5ba8"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

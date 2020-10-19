@@ -1,0 +1,2820 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "5fd073bb26d670f4558c7aa6c5738b04067a86dc",
+        "name": "D-Link DSL-2750U Wireless N 300 ADSL2+ 4-Port Wi-Fi",
+        "description": "Dummy description for product D-Link DSL-2750U Wireless N 300 ADSL2+ 4-Port Wi-Fi",
+        "manufacturer_id": "4f90a87a8a7b16192f38e47e3af450fc0d891d7a",
+        "taric_code": "490e5310-4944-4241-b82a-62e0de409429",
+        "variants": [
+          {
+            "id": "6c3768639e82ceaeab681e083b897672",
+            "name": "D-Link Routers",
+            "description": "Buy D-Link DSL-2750U Wireless N 300 ADSL2+ 4-Port Wi-Fi only for Rs. 1975 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 73,
+            "price": 3140,
+            "sale": false,
+            "sale_price": 2069,
+            "stock_keeping_unit": "RTRD4KY4UNGYCZFG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com//image/router/z/f/g/d-link-d-link-dsl-2750u-wireless-n-adsl2-4-port-wi-fi-router-400x400-imad4wz6xphaqag9.jpeg",
+                "filename": "d-link-d-link-dsl-2750u-wireless-n-adsl2-4-port-wi-fi-router-400x400-imad4wz6xphaqag9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com//image/router/z/f/g/d-link-d-link-dsl-2750u-wireless-n-adsl2-4-port-wi-fi-router-original-imad4wz6xphaqag9.jpeg",
+                "filename": "d-link-d-link-dsl-2750u-wireless-n-adsl2-4-port-wi-fi-router-original-imad4wz6xphaqag9.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Firewall",
+                "values": [
+                  "Built-in NAT Firewall",
+                  "NAPT",
+                  "SPI (Stateful Packet Inspection)",
+                  "DoS (Denial-of-service) Attack Prevention"
+                ]
+              },
+              {
+                "key": "Encryption",
+                "values": ["64/128 bit WEP", "WPA", "WPA2", "WPS"]
+              },
+              {
+                "key": "Other Security Features",
+                "values": [
+                  "IGMP",
+                  "PVC",
+                  "VLAN Port Mapping (Bridge Mode)",
+                  "Parental Control (URL Blocking",
+                  "Scheduling)",
+                  "Packet Filtering (IP / ICMP / TCP / UDP)"
+                ]
+              },
+              {
+                "key": "In The Box",
+                "values": [
+                  "DSL-2750U Wireless ADSL Router ",
+                  "Power Adapter",
+                  "CD-ROM with User Manual",
+                  "One Micro Splitter",
+                  "One twisted-pair telephone cable used for ADSL connection",
+                  "One straight-through Ethernet cable"
+                ]
+              },
+              { "key": "Brand", "values": ["D-Link"] },
+              {
+                "key": "Model",
+                "values": ["DSL-2750U Wireless N 300 ADSL2+ 4-Port Wi-Fi"]
+              },
+              {
+                "key": "Controls",
+                "values": [
+                  "Factory reset button",
+                  "WPS button",
+                  "Wireless on/off switch (optional)",
+                  "Power on/off switch"
+                ]
+              },
+              {
+                "key": "Installation Features",
+                "values": ["Universal Plug and Play (UPnP) Compliant"]
+              },
+              { "key": "Type", "values": ["Wireless With Modem"] },
+              {
+                "key": "LED Indicator",
+                "values": [
+                  "Power",
+                  "LAN (1 to 4)",
+                  "WLAN",
+                  "WPS",
+                  "USB",
+                  "DSL",
+                  "Internet"
+                ]
+              },
+              { "key": "Part Number", "values": ["DSL-2750U"] },
+              { "key": "Wireless Speed", "values": ["300 Mbps"] },
+              { "key": "DSL Modem Speed", "values": ["24 Mbps"] },
+              { "key": "LAN/WAN", "values": ["10/100"] },
+              { "key": "Power Supply", "values": ["1 A", "External"] },
+              { "key": "Height", "values": ["33 mm"] },
+              { "key": "Width", "values": ["116.8 mm"] },
+              { "key": "Depth", "values": ["162 mm"] },
+              { "key": "Domestic Term", "values": ["3 Year"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Physical Damage and Burnout cases will not be entitled for warranty"
+                ]
+              },
+              { "key": "Service Type", "values": ["Carry In"] },
+              { "key": "Frequency", "values": ["2.484 GHz"] },
+              { "key": "Standard IEEE", "values": ["IEEE 802.11b/g/n"] },
+              { "key": "Number of Antennae", "values": ["2"] },
+              { "key": "USB", "values": ["USB 2.0"] },
+              { "key": "Number of LAN ports", "values": ["4"] },
+              { "key": "Number of USB Ports", "values": ["1"] },
+              { "key": "LAN", "values": ["RJ-45"] },
+              { "key": "Antennae Capacity", "values": ["Built-in MIMO"] },
+              { "key": "Antennae", "values": ["External"] },
+              {
+                "key": "Operating Humidity",
+                "values": ["Operating: 5 % - 95 % Non-condensing"]
+              },
+              {
+                "key": "Temperature",
+                "values": [
+                  "Operating: 0DegC - 40DegC",
+                  "Storage: - 20DegC - 70DegC degree C"
+                ]
+              },
+              {
+                "key": "VPN",
+                "values": ["Multiple PPTP", "IPSec", "L2TP pass-through"]
+              },
+              {
+                "key": "Certification",
+                "values": ["CE Certification", "FCC Certification"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "5fd073bb26d670f4558c7aa6c5738b04067a86dc"
+    },
+    {
+      "product": {
+        "id": "d37f39de77280fc4c3ac094c43af7323f2dcef71",
+        "name": "Etti ESJ17 Plastic Necklace",
+        "description": "Dummy description for product Etti ESJ17 Plastic Necklace",
+        "manufacturer_id": "07d5ea1e11bca31a1cd32c66714547148797232b",
+        "taric_code": "5968c4b5-08dd-46ca-99d6-1b7d073da54c",
+        "variants": [
+          {
+            "id": "1469452a281a76e5a3bb78bd387ce9dd",
+            "name": "Necklaces",
+            "description": "Etti ESJ17 Plastic Necklace - Buy Etti ESJ17 Plastic Necklace only for Rs. 199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2243,
+            "price": 750,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "NKCE7ZNGQGYGX8ES",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/8/e/s/esj17-black-etti-necklace-original-imae7zjzdkw4mwed.jpeg",
+                "filename": "esj17-black-etti-necklace-original-imae7zjzdkw4mwed.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Etti"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["ESJ17_BLACK"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["ESJ17"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Base Material", "values": ["Plastic"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "d37f39de77280fc4c3ac094c43af7323f2dcef71"
+    },
+    {
+      "product": {
+        "id": "2dc416e38744c12eb62a9f3ad2fcbb581f5be01a",
+        "name": "Schneider Stylish Delight 6 One Way Electrical Switch",
+        "description": "Dummy description for product Schneider Stylish Delight 6 One Way Electrical Switch",
+        "manufacturer_id": "3b02612e06c4fedf6feb6696ae79337b9eaf0b73",
+        "taric_code": "abe600e4-88ba-4ac5-b8a2-f9e1569c7c08",
+        "variants": [
+          {
+            "id": "e97d88d922c141155367384a28a30302",
+            "name": "Switches & Dimmers",
+            "description": "Schneider Stylish Delight 6 One Way Electrical Switch (Pack of 1 Number of Switches - 1)\n                         Price: Rs. 103\n\t\t\t\t\n\t\t\tDesigned with perfection, this white colored switch from the latest collection of Schneider is a must have. Constructed out from rich quality material, this switch is highly durable in nature. Further, the stylish design and the durable make of this switch make it an ideal pick against your valuable currency. You can transform the look of your home with this modern switch and earn oodles of compliments from your guests. Moreover, this switch will look great in any home or office because of its low profile design that flows with your walls keeping it from standing out to the eye.\nDesigned with perfection, this white colored switch from the latest collection of Schneider is a must have. Constructed out from rich quality material, this switch is highly durable in nature. Further, the stylish design and the durable make of this switch make it an ideal pick against your valuable currency. You can transform the look of your home with this modern switch and earn oodles of compliments from your guests. Moreover, this switch will look great in any home or office because of its low profile design that flows with your walls keeping it from standing out to the eye.",
+            "stock_level": 2516,
+            "price": 158,
+            "sale": false,
+            "sale_price": 103,
+            "stock_keeping_unit": "SCHE5Z57P455C5XM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/electrical-switch/8/v/e/in8401-16-schneider-original-imae5x9gemjwmb2j.jpeg",
+                "filename": "in8401-16-schneider-original-imae5x9gemjwmb2j.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/electrical-switch/8/v/e/in8401-16-schneider-original-imae5x9gemjwmb2j.jpeg",
+                "filename": "in8401-16-schneider-original-imae5x9gemjwmb2j.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/electrical-switch/5/x/m/in8401-schneider-original-imae5x9gsu2yjzzf.jpeg",
+                "filename": "in8401-schneider-original-imae5x9gsu2yjzzf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/electrical-switch/5/x/m/in8401-schneider-original-imae5x9gcwtn4zj7.jpeg",
+                "filename": "in8401-schneider-original-imae5x9gcwtn4zj7.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Schneider"] },
+              { "key": "Model Number", "values": ["IN8401"] },
+              { "key": "Type", "values": ["One Way"] },
+              { "key": "Shade", "values": ["White"] },
+              { "key": "Number of Switches", "values": ["1"] },
+              { "key": "Model Name", "values": ["Stylish Delight"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Sales Package", "values": ["Switch with Indicator"] },
+              { "key": "Pack of", "values": ["1"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Manufacture Warranty"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Customer needs to call the nearby Authorized Service Center"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Warranty does not cover any damage."]
+              },
+              { "key": "Electric Resistance", "values": ["6 A"] },
+              { "key": "Maximum Current", "values": ["6 A"] },
+              { "key": "Locator Light", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c139de05cb53b7e165aa3b9d9fc88f85d36914af" }
+      },
+      "active": true,
+      "id": "2dc416e38744c12eb62a9f3ad2fcbb581f5be01a"
+    },
+    {
+      "product": {
+        "id": "dd57494a2c17dea65910aa160ce48d93ff4676b3",
+        "name": "Retina Steering Cover For Maruti Swift",
+        "description": "Dummy description for product Retina Steering Cover For Maruti Swift",
+        "manufacturer_id": "c877114a68dc29aaf378ed4fc424bb8637572009",
+        "taric_code": "10bf7f23-e37b-4e26-92a5-e5dc672bb7d6",
+        "variants": [
+          {
+            "id": "fee746d3cf3c8f28605e3e4f06cad745",
+            "name": "Steering Covers",
+            "description": "Buy Retina Steering Cover For Maruti Swift for Rs.299 online. Retina Steering Cover For Maruti Swift at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4916,
+            "price": 599,
+            "sale": true,
+            "sale_price": 299,
+            "stock_keeping_unit": "CSOE7JP6ZHUG9HZR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-steering-cover/h/q/j/csc02394-retina-1100x1100-imae7gy3k3kgbvak.jpeg",
+                "filename": "csc02394-retina-1100x1100-imae7gy3k3kgbvak.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-steering-cover/h/q/j/csc02394-retina-original-imae7gy3k3kgbvak.jpeg",
+                "filename": "csc02394-retina-original-imae7gy3k3kgbvak.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Retina"] },
+              { "key": "Model Number", "values": ["CSC02404"] },
+              { "key": "Shade", "values": ["Grey"] },
+              { "key": "Material", "values": ["Leatherite"] },
+              { "key": "Universal Fit", "values": ["No"] },
+              { "key": "Sales Package", "values": ["1 Car Steering Cover"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "dd57494a2c17dea65910aa160ce48d93ff4676b3"
+    },
+    {
+      "product": {
+        "id": "a4e78b8eb2449aed183e6b8fece8cb0b14976f5d",
+        "name": "Jadoo Collections Black Designer Alloy Necklace",
+        "description": "Dummy description for product Jadoo Collections Black Designer Alloy Necklace",
+        "manufacturer_id": "22580e72e35d8d9413eb219bca1ad1d1832a456a",
+        "taric_code": "3f4e3eac-cadf-4a80-b094-e0fb62b0d962",
+        "variants": [
+          {
+            "id": "12c3d4a6f17889fbb631b6a952212e87",
+            "name": "Necklaces",
+            "description": "Jadoo Collections Black Designer Alloy Necklace - Buy Jadoo Collections Black Designer Alloy Necklace only for Rs. 349 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 463,
+            "price": 599,
+            "sale": false,
+            "sale_price": 349,
+            "stock_keeping_unit": "NKCEAZ6FBHSGCGAN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/g/a/n/n011-jadoo-collections-necklace-original-imaeay3jygtaa7vn.jpeg",
+                "filename": "n011-jadoo-collections-necklace-original-imaeay3jygtaa7vn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/g/a/n/n011-jadoo-collections-necklace-original-imaeay3jygtaa7vn.jpeg",
+                "filename": "n011-jadoo-collections-necklace-original-imaeay3jygtaa7vn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jadoo Collections"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["N011"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Black Designer"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              {
+                "key": "Occasion",
+                "values": [
+                  "Everyday",
+                  "Love",
+                  "Religious",
+                  "Wedding and Engagement",
+                  "Workwear"
+                ]
+              },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "a4e78b8eb2449aed183e6b8fece8cb0b14976f5d"
+    },
+    {
+      "product": {
+        "id": "733aa0231b89736d17320ed8b94d7304fed12f69",
+        "name": "Netgear WN3000RP Universal Wi-Fi Range Extender",
+        "description": "Dummy description for product Netgear WN3000RP Universal Wi-Fi Range Extender",
+        "manufacturer_id": "845b0ae8cb30ad01d06696385a8a8d53703f9bc0",
+        "taric_code": "24da74c3-044d-4d05-831b-0750691495ca",
+        "variants": [
+          {
+            "id": "f25d2701ff23f6749e8e69ca17987993",
+            "name": "Netgear Routers",
+            "description": "Buy Netgear WN3000RP Universal Wi-Fi Range Extender only for Rs. 5402 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1961,
+            "price": 3499,
+            "sale": false,
+            "sale_price": 2140,
+            "stock_keeping_unit": "RTRD6FYYZCZGPCVH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/router/c/v/h/netgear-wn3000rp-400x400-imae34fnhm7wvfqz.jpeg",
+                "filename": "netgear-wn3000rp-400x400-imae34fnhm7wvfqz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/c/v/h/netgear-wn3000rp-original-imae34fnhm7wvfqz.jpeg",
+                "filename": "netgear-wn3000rp-original-imae34fnhm7wvfqz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/c/v/h/netgear-wn3000rp-original-imae34fnhfurujxd.jpeg",
+                "filename": "netgear-wn3000rp-original-imae34fnhfurujxd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/c/v/h/netgear-wn3000rp-original-imae34fnngkdg8ss.jpeg",
+                "filename": "netgear-wn3000rp-original-imae34fnngkdg8ss.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Encryption",
+                "values": ["WPA-PSK", "WPA2-PSK", "128-bit WEP", "64-bit WEP"]
+              },
+              {
+                "key": "Other Security Features",
+                "values": ["Wi-Fi Protected Access"]
+              },
+              {
+                "key": "In The Box",
+                "values": [
+                  "Universal WiFi Range Extender (WN3000RP)",
+                  "Installation Guide"
+                ]
+              },
+              { "key": "Brand", "values": ["Netgear"] },
+              { "key": "Model", "values": ["WN3000RP"] },
+              {
+                "key": "Installation Features",
+                "values": ["Push N Connect using Wi-Fi Protected Setup"]
+              },
+              { "key": "Type", "values": ["Range Extenders/Repeaters"] },
+              {
+                "key": "LED Indicator",
+                "values": ["WPS", "PC to Extender", "Status", "Link Rate"]
+              },
+              {
+                "key": "Supported Software",
+                "values": ["Internet Explorer 5.0", "Firefox 2.0", "Safari 1.4"]
+              },
+              { "key": "Part Number", "values": ["WN3000RP"] },
+              { "key": "Wireless Speed", "values": ["300 Mbps"] },
+              { "key": "LAN/WAN", "values": ["10/100"] },
+              { "key": "Power Supply", "values": ["0.3 A"] },
+              { "key": "Weight", "values": ["245 g"] },
+              { "key": "Height", "values": ["45 mm"] },
+              { "key": "Width", "values": ["112 mm"] },
+              { "key": "Depth", "values": ["74 mm"] },
+              { "key": "Domestic Term", "values": ["2 Years"] },
+              {
+                "key": "Service Type",
+                "values": [
+                  "If There is Any Technical Issue with the Products Kindly Contact the Service Center of the Concerned Brands"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["2 Year Limited Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Physical Damage and Burn Out Cases are not Entitled for Warranty."
+                ]
+              },
+              {
+                "key": "Operating System",
+                "values": [
+                  "Windows 7",
+                  "Windows Vista",
+                  "Windows XP",
+                  "Windows 2000",
+                  "Mac OS",
+                  "UNIX",
+                  "Linux"
+                ]
+              },
+              { "key": "Frequency", "values": ["2.4 GHz"] },
+              { "key": "Standard IEEE", "values": ["IEEE 802.11b/g/n"] },
+              { "key": "Number of Antennae", "values": ["2"] },
+              { "key": "Number of LAN ports", "values": ["1"] },
+              { "key": "Number of USB Ports", "values": ["0"] },
+              { "key": "LAN", "values": ["RJ-45"] },
+              { "key": "Antennae", "values": ["External"] },
+              {
+                "key": "Operating Humidity",
+                "values": ["Operating: 90 % Non-condensing"]
+              },
+              { "key": "Temperature", "values": ["0Deg C - 40Deg C degree C"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Connect iPad",
+                  "Smartphones",
+                  "NETGEAR Green Features",
+                  "Extend Internet Access for Wireless Devices: iPads",
+                  "iPods",
+                  "laptops",
+                  "Smart Phones",
+                  "Game Consoles",
+                  "TV"
+                ]
+              },
+              { "key": "Certification", "values": ["RoHS"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "733aa0231b89736d17320ed8b94d7304fed12f69"
+    },
+    {
+      "product": {
+        "id": "584908045e59fe5afbd8735cebd7be1f351e5baf",
+        "name": "Amantran Jewels Om shaped Silver Zircon Sterling Silver Ring",
+        "description": "Dummy description for product Amantran Jewels Om shaped Silver Zircon Sterling Silver Ring",
+        "manufacturer_id": "fe5b14aebbc2139eb50e39cc9cdac4c79243ad47",
+        "taric_code": "cac1bf16-5eee-4a82-ad9e-b6af79391542",
+        "variants": [
+          {
+            "id": "32e1cfd3ca4262233a8edb17a9a4db45",
+            "name": "Amantran Jewels Om shaped Silver Zircon Sterling...",
+            "description": "Amantran Jewels Om shaped Silver Zircon Sterling Silver Ring Price: Rs. 2,500 Flaunt your feminine side with this pretty ring from the brand Amantran Jewels. Designed beautifully, this sterling silver plated ring is made of silver and embellished with diamonds. The net silver weight in grams is 3. The number of diamonds used is 30.,Specifications of Amantran Jewels Om shaped Silver Zircon Sterling Silver Ring Pearl Features Pearl Type NA General Brand Amantran Jewels Collection Contemporary Model Number S-R-292_.R Precious/Artificial Jewellery Semi Precious Jewellery Type Ring Model Name Om shaped Ideal For Women Occasion Love, Wedding & Engagement Color Silver Silver Features Silver Weight 3 g Diamond Features Diamond Weight 0 carat Diamond Shape Round Diamond Color Grade F Diamond Clarity VS Gold Features Gold Purity NA K Body & Design Features Base Material Silver Gemstone Zircon Plating Sterling Silver Number of Gemstones 0 Ring Size 8 In the Box Sales Package 1 Ring Pack of 1 Additional Features Certification BIS Hallmark",
+            "stock_level": 3355,
+            "price": 2500,
+            "sale": true,
+            "sale_price": 2500,
+            "stock_keeping_unit": "RNGEJ39US9ENJXYF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/ring/p/v/h/s-r-292-r-22-amantran-jewels-ring-1100x1100-imaejfg2h6xzjjcz.jpeg",
+                "filename": "s-r-292-r-22-amantran-jewels-ring-1100x1100-imaejfg2h6xzjjcz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/ring/p/v/h/s-r-292-r-22-amantran-jewels-ring-original-imaejfg2h6xzjjcz.jpeg",
+                "filename": "s-r-292-r-22-amantran-jewels-ring-original-imaejfg2h6xzjjcz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["Amantran Jewels"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Model Number", "values": ["S-R-292_.R"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Type", "values": ["Ring"] },
+              { "key": "Model Name", "values": ["Om shaped"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Love", "Wedding and Engagement"]
+              },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Silver Weight", "values": ["3 g"] },
+              { "key": "Diamond Weight", "values": ["0 carat"] },
+              { "key": "Diamond Shape", "values": ["Round"] },
+              { "key": "Diamond Color Grade", "values": ["F"] },
+              { "key": "Diamond Clarity", "values": ["VS"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Silver"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Plating", "values": ["Sterling Silver"] },
+              { "key": "Number of Gemstones", "values": ["0"] },
+              { "key": "Ring Size", "values": ["8"] },
+              { "key": "Sales Package", "values": ["1 Ring"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["BIS Hallmark"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "5a4d237978016b105394324e71a8759dfad2b533" }
+      },
+      "active": true,
+      "id": "584908045e59fe5afbd8735cebd7be1f351e5baf"
+    },
+    {
+      "product": {
+        "id": "4fdd3dd7429fc96e67951b4438eb83489d1731fc",
+        "name": "ARISE Self Design, Printed Men's Henley Maroon T-Shirt",
+        "description": "Dummy description for product ARISE Self Design, Printed Men's Henley Maroon T-Shirt",
+        "manufacturer_id": "619be5ed6b12fdd0f6cbc0971cae24ac4465ac5a",
+        "taric_code": "11ed0a68-ab7c-4fe5-a334-1b831d6c6b16",
+        "variants": [
+          {
+            "id": "82d6f947064e3dc4301bad7b80e5527d",
+            "name": "ARISE Self Design, Printed Men's Henley Maroon T...",
+            "description": "Key Features of ARISE Self Design, Printed Men's Henley Maroon T-Shirt 100% COTTON SLUB FABRIC PVC PRINT ON FLAP PATCH POCKET SOFT HAND FEEL,ARISE Self Design, Printed Men's Henley Maroon T-Shirt Price: Rs. 699 This Stylish Henley T shirt is made out of 100% cotton SLUB fabric. You will fall in love with the feel of SLUB fabric as it is more comfortable. light weighted and has better drape. The loop on shoulder and PVC print on front pocket placket makes it stand out. Team it up with a pair of denim or chinos to flaunt your casual look.,Specifications of ARISE Self Design, Printed Men's Henley Maroon T-Shirt T-shirt Details Sleeve Half Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100% COTTON SLUB Type Henley Fit Regular General Details Pattern Self Design, Printed Ideal For Men's Occasion Casual Fabric Care MACHINE WASH COLD Additional Details Style Code AR303WINE",
+            "stock_level": 1207,
+            "price": 699,
+            "sale": true,
+            "sale_price": 699,
+            "stock_keeping_unit": "TSHEJQ22W8XPPGGH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/n/b/5/ar303wine-arise-xl-original-imaejpyjnqcwtmfz.jpeg",
+                "filename": "ar303wine-arise-xl-original-imaejpyjnqcwtmfz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/n/b/5/ar303wine-arise-xl-original-imaejpyjnqcwtmfz.jpeg",
+                "filename": "ar303wine-arise-xl-original-imaejpyjnqcwtmfz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/n/b/5/ar303wine-arise-xxl-original-imaejpykzbxhszbw.jpeg",
+                "filename": "ar303wine-arise-xxl-original-imaejpykzbxhszbw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/u/n/e/ar303wine-arise-xxl-original-imaejpykkd9f6jjh.jpeg",
+                "filename": "ar303wine-arise-xxl-original-imaejpykkd9f6jjh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/u/n/e/ar303wine-arise-xxl-original-imaejpyktz8wm8ja.jpeg",
+                "filename": "ar303wine-arise-xxl-original-imaejpyktz8wm8ja.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/n/b/5/ar303wine-arise-xl-original-imaejpyk3sehvpwh.jpeg",
+                "filename": "ar303wine-arise-xl-original-imaejpyk3sehvpwh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Half Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100% COTTON SLUB"] },
+              { "key": "Type", "values": ["Henley"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Self Design", "Printed"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "9d46f001-ccb8-457f-8590-e52f42a1ebc6",
+                "values": ["MACHINE WASH COLD"]
+              },
+              { "key": "Style Code", "values": ["AR303WINE"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8f6ec5e1bd539ca448098e518571b1709e66c28c" }
+      },
+      "active": true,
+      "id": "4fdd3dd7429fc96e67951b4438eb83489d1731fc"
+    },
+    {
+      "product": {
+        "id": "779c2d2665d90feb3813b53446684e28137ef225",
+        "name": "ARISE Self Design, Printed Men's Henley Green T-Shirt",
+        "description": "Dummy description for product ARISE Self Design, Printed Men's Henley Green T-Shirt",
+        "manufacturer_id": "619be5ed6b12fdd0f6cbc0971cae24ac4465ac5a",
+        "taric_code": "a37c6469-fcf9-4fe0-a0bd-69b5929cae32",
+        "variants": [
+          {
+            "id": "8a9ef97cdd595ac6670950b59fcddea0",
+            "name": "ARISE Self Design, Printed Men's Henley Green T-...",
+            "description": "Key Features of ARISE Self Design, Printed Men's Henley Green T-Shirt 100% COTTON SLUB FABRIC PVC PRINT ON FLAP PATCH POCKET SOFT HAND FEEL,ARISE Self Design, Printed Men's Henley Green T-Shirt Price: Rs. 699 This Stylish Henley T shirt is made out of 100% cotton SLUB fabric. You will fall in love with the feel of SLUB fabric as it is more comfortable. light weighted and has better drape. The loop on shoulder and PVC print on front pocket placket makes it stand out. Team it up with a pair of denim or chinos to flaunt your casual look.,Specifications of ARISE Self Design, Printed Men's Henley Green T-Shirt T-shirt Details Sleeve Half Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100% COTTON SLUB Type Henley Fit Regular General Details Pattern Self Design, Printed Ideal For Men's Occasion Casual Fabric Care MACHINE WASH COLD Additional Details Style Code AR303FADEDOLIVE",
+            "stock_level": 3722,
+            "price": 699,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "TSHEJQ2FHCZZMUZB",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/x/5/y/ar303fadedolive-arise-m-original-imaejpykdmcggvvz.jpeg",
+                "filename": "ar303fadedolive-arise-m-original-imaejpykdmcggvvz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/x/5/y/ar303fadedolive-arise-m-original-imaejpyhgkrmrkdx.jpeg",
+                "filename": "ar303fadedolive-arise-m-original-imaejpyhgkrmrkdx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/x/5/y/ar303fadedolive-arise-m-original-imaejpyhzfnc7xhj.jpeg",
+                "filename": "ar303fadedolive-arise-m-original-imaejpyhzfnc7xhj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/x/5/y/ar303fadedolive-arise-m-original-imaejpyhkwggs5ay.jpeg",
+                "filename": "ar303fadedolive-arise-m-original-imaejpyhkwggs5ay.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/x/5/y/ar303fadedolive-arise-m-original-imaejpyh7rgykyyf.jpeg",
+                "filename": "ar303fadedolive-arise-m-original-imaejpyh7rgykyyf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Half Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100% COTTON SLUB"] },
+              { "key": "Type", "values": ["Henley"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Self Design", "Printed"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "52a649e0-1f3d-4bc1-8f3e-49639c9b4fab",
+                "values": ["MACHINE WASH COLD"]
+              },
+              { "key": "Style Code", "values": ["AR303FADEDOLIVE"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8f6ec5e1bd539ca448098e518571b1709e66c28c" }
+      },
+      "active": true,
+      "id": "779c2d2665d90feb3813b53446684e28137ef225"
+    },
+    {
+      "product": {
+        "id": "f12764bc98fef6c19b47e5d9735c106876ae61f2",
+        "name": "Welwear Solid Basic Cap",
+        "description": "Dummy description for product Welwear Solid Basic Cap",
+        "manufacturer_id": "4b95b6c53ed613616325126926dc95b0ebb8a43a",
+        "taric_code": "67275704-4979-4cd5-9be0-62c34931724f",
+        "variants": [
+          {
+            "id": "843865cb5930b5c67ed40f7d510281d6",
+            "name": "Welwear Solid Basic Cap",
+            "description": "Key Features of Welwear Solid Basic Cap Brown Cotton,Welwear Solid Basic Cap Price: Rs. 399 Women's Denim designer fabric cap,Specifications of Welwear Solid Basic Cap General Details Pattern Solid Ideal For Women's Occasion Casual Cap Details Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Basic Additional Details Style Code Denim005 In the Box 1 Cap",
+            "stock_level": 5194,
+            "price": 599,
+            "sale": true,
+            "sale_price": 399,
+            "stock_keeping_unit": "CAPEJZVUAZAEGXZ4",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/cap/x/z/4/denim005-welwear-free-original-imaejzfhuua5mmys.jpeg",
+                "filename": "denim005-welwear-free-original-imaejzfhuua5mmys.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cap/x/z/4/denim005-welwear-free-original-imaejzfhumsvvmtt.jpeg",
+                "filename": "denim005-welwear-free-original-imaejzfhumsvvmtt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Basic"] },
+              { "key": "Style Code", "values": ["Denim005"] },
+              {
+                "key": "66a9ab2b-e490-49b9-b8e9-8d7a85ad383a",
+                "values": ["1 Cap"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "6d8c9a294687f722a5e8c7e35e9ab997adf09be3" }
+      },
+      "active": true,
+      "id": "f12764bc98fef6c19b47e5d9735c106876ae61f2"
+    },
+    {
+      "product": {
+        "id": "5262443d2ed1d77d65461ebd4ffb27fecd31475f",
+        "name": "Clear Face Kesar Chandan Multivitamin Nourishing Skin Cream With Almond Honey Skin Cream",
+        "description": "Dummy description for product Clear Face Kesar Chandan Multivitamin Nourishing Skin Cream With Almond Honey Skin Cream",
+        "manufacturer_id": "ea72240af30848381db35f05f3abc0d7cb17935a",
+        "taric_code": "0a4fa797-32ef-4a28-b8b4-9b8d83ed1fd4",
+        "variants": [
+          {
+            "id": "0e1e3861d54a8a17b7b91f04071a4ca3",
+            "name": "Clear Face Kesar Chandan Multivitamin Nourishing...",
+            "description": "Specifications of Clear Face Kesar Chandan Multivitamin Nourishing Skin Cream With Almond Honey Skin Cream (Set of 2) Combo Set Details Number of Contents in Combo Set 2 Organic Type Natural Combo Set Contents 1 Kesar Chandan Multivitamin Nourishing Skin Cream 800 Gm, 1 Almond Honey Skin Cream 150 Gm Ideal For Women Organic No General Traits Professional Care No Gift Pack No",
+            "stock_level": 970,
+            "price": 339,
+            "sale": true,
+            "sale_price": 274,
+            "stock_keeping_unit": "CBKEGSG7XXSCTME7",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/combo-kit/m/e/7/socm-95-clear-face-kesar-chandan-multivitamin-nourishing-skin-original-imaegdz9d2d6gjew.jpeg",
+                "filename": "socm-95-clear-face-kesar-chandan-multivitamin-nourishing-skin-original-imaegdz9d2d6gjew.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Contents in Combo Set", "values": ["2"] },
+              { "key": "Organic Type", "values": ["Natural"] },
+              {
+                "key": "Combo Set Contents",
+                "values": [
+                  "1 Kesar Chandan Multivitamin Nourishing Skin Cream 800 Gm",
+                  "1 Almond Honey Skin Cream 150 Gm"
+                ]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Organic", "values": ["No"] },
+              { "key": "Professional Care", "values": ["No"] },
+              { "key": "Gift Pack", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ea593a28f246a32ca8aa1f01374d2abee618ac8e" }
+      },
+      "active": true,
+      "id": "5262443d2ed1d77d65461ebd4ffb27fecd31475f"
+    },
+    {
+      "product": {
+        "id": "0198e7f3b99381aa07dc77f722cddb9ba743ff61",
+        "name": "Welwear Checkered Basic Cap",
+        "description": "Dummy description for product Welwear Checkered Basic Cap",
+        "manufacturer_id": "4b95b6c53ed613616325126926dc95b0ebb8a43a",
+        "taric_code": "cc4c7099-f527-42e6-85ca-4e33ed7e7708",
+        "variants": [
+          {
+            "id": "750fe6e6bf4bb6b9566da06ebc7c40da",
+            "name": "Welwear Checkered Basic Cap",
+            "description": "Key Features of Welwear Checkered Basic Cap Brown Cotton,Welwear Checkered Basic Cap Price: Rs. 399 Women Checks cotton sawariya cap,Specifications of Welwear Checkered Basic Cap General Details Pattern Checkered Ideal For Women's Occasion Casual Cap Details Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Basic Additional Details Style Code GLORIA-Brown In the Box 1 Cap",
+            "stock_level": 1399,
+            "price": 599,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "CAPEJZVUJWMHU6Q4",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cap/6/q/4/gloria-brown-welwear-free-original-imaejzfhrcuzgzcg.jpeg",
+                "filename": "gloria-brown-welwear-free-original-imaejzfhrcuzgzcg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cap/6/q/4/gloria-brown-welwear-free-original-imaejzfhxzeyndp2.jpeg",
+                "filename": "gloria-brown-welwear-free-original-imaejzfhxzeyndp2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Checkered"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Basic"] },
+              { "key": "Style Code", "values": ["GLORIA-Brown"] },
+              {
+                "key": "abaa1db5-e29f-464b-9264-3c114629dd7b",
+                "values": ["1 Cap"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "6d8c9a294687f722a5e8c7e35e9ab997adf09be3" }
+      },
+      "active": true,
+      "id": "0198e7f3b99381aa07dc77f722cddb9ba743ff61"
+    },
+    {
+      "product": {
+        "id": "b9d3dffcdc1a55816e70fbbe21e636ce9c6832bc",
+        "name": "Pink Rose Princess Charm Hair Band",
+        "description": "Dummy description for product Pink Rose Princess Charm Hair Band",
+        "manufacturer_id": "cd65d7e7752ec1975f17d52091c9a2516a35133d",
+        "taric_code": "965b283e-ab52-406f-8d18-d8c41af4500a",
+        "variants": [
+          {
+            "id": "c1b3f15de8b4f6c3f42dffec233ebc9a",
+            "name": "Pink Rose Princess Charm Hair Band (Black)",
+            "description": "Key Features of Pink Rose Princess Charm Hair Band Pack of: 1 Material: Alloy,Pink Rose Princess Charm Hair Band (Black) Price: Rs. 479 Beautifully crafted, which combines the attributes of a Pink Rose, which are Passion, Admiration, Grace, elegance, Gratitude and Appreciation. Designed to compliment you…,Specifications of Pink Rose Princess Charm Hair Band (Black) In the Box Number of Contents in Sales Package Pack of 1 Sales Package 1 Hair Band Body & Design Material Alloy",
+            "stock_level": 5829,
+            "price": 1054,
+            "sale": false,
+            "sale_price": 479,
+            "stock_keeping_unit": "HACEJQ7HBH4H4JF8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/hair-accessory/j/f/8/pinkrose-ha-291-1-pink-rose-princess-charm-original-imaejpummzfdz9fa.jpeg",
+                "filename": "pinkrose-ha-291-1-pink-rose-princess-charm-original-imaejpummzfdz9fa.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 Hair Band"] },
+              { "key": "Material", "values": ["Alloy"] }
+            ]
+          },
+          {
+            "id": "c664cc106c1679c951255136b636eb0f",
+            "name": "Pink Rose Princess Charm Hair Band (Pink)",
+            "description": "Key Features of Pink Rose Princess Charm Hair Band Pack of: 1 Material: Alloy,Pink Rose Princess Charm Hair Band (Pink) Price: Rs. 479 Beautifully crafted, which combines the attributes of a Pink Rose, which are Passion, Admiration, Grace, elegance, Gratitude and Appreciation. Designed to compliment you…,Specifications of Pink Rose Princess Charm Hair Band (Pink) In the Box Number of Contents in Sales Package Pack of 1 Sales Package 1 Hair Band Body & Design Material Alloy",
+            "stock_level": 7264,
+            "price": 1054,
+            "sale": false,
+            "sale_price": 479,
+            "stock_keeping_unit": "HACEJQ7HRGNBYCEH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/hair-accessory/c/e/h/pinkrose-ha-297-1-pink-rose-princess-charm-original-imaejpum9mhhstyv.jpeg",
+                "filename": "pinkrose-ha-297-1-pink-rose-princess-charm-original-imaejpum9mhhstyv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hair-accessory/c/e/h/pinkrose-ha-297-1-pink-rose-princess-charm-original-imaejpum9mhhstyv.jpeg",
+                "filename": "pinkrose-ha-297-1-pink-rose-princess-charm-original-imaejpum9mhhstyv.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 Hair Band"] },
+              { "key": "Material", "values": ["Alloy"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a0147273e2bb1a4be5027ccdf77d366f6729075b" }
+      },
+      "active": true,
+      "id": "b9d3dffcdc1a55816e70fbbe21e636ce9c6832bc"
+    },
+    {
+      "product": {
+        "id": "d2d99a6f8c2bbc07e49d98e0ac22972e69ec4db3",
+        "name": "Saar Casual, Party Embellished, Printed Women's Kurti",
+        "description": "Dummy description for product Saar Casual, Party Embellished, Printed Women's Kurti",
+        "manufacturer_id": "5159e4fec64142d77ef176fb3100775eb36e171f",
+        "taric_code": "6244e033-a22e-42a6-9332-8196e76de2fd",
+        "variants": [
+          {
+            "id": "f2890ed090b8a244a7c67ba3cbfa4684",
+            "name": "Saar Casual, Party Embellished, Printed Women's ...",
+            "description": "Key Features of Saar Casual, Party Embellished, Printed Women's Kurti Indo-Western Cotton 3/4 Sleeve Easy To Care,Saar Casual, Party Embellished, Printed Women's Kurti Price: Rs. 800 This Multicolor Coloured 3/4 Sleeve Cotton Made Kurti For Women.This Stylish Kurti Comes From The House Of Saar - By Rajkumar's,Specifications of Saar Casual, Party Embellished, Printed Women's Kurti In The Box 1 Kurti Kurti Details Sleeve 3/4 Sleeve Number of Contents in Sales Package Pack of 1 Region Indo-Western Fabric Cotton Neck Round Neck General Details Pattern Embellished, Printed Occasion Casual, Party Ideal For Women's Fabric Care Hand Wash",
+            "stock_level": 6076,
+            "price": 800,
+            "sale": false,
+            "sale_price": 800,
+            "stock_keeping_unit": "KRTEJQ99SGKUVHF5",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/kurti/h/d/s/srhr-16-saar-s-original-imaejpu5bbewzgj9.jpeg",
+                "filename": "srhr-16-saar-s-original-imaejpu5bbewzgj9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/kurti/h/d/s/srhr-16-saar-s-original-imaejpu5fy72e9hh.jpeg",
+                "filename": "srhr-16-saar-s-original-imaejpu5fy72e9hh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/kurti/h/d/s/srhr-16-saar-s-original-imaejpu5mnxqszsg.jpeg",
+                "filename": "srhr-16-saar-s-original-imaejpu5mnxqszsg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurti/h/d/s/srhr-16-saar-s-original-imaejpu5xtqhwrke.jpeg",
+                "filename": "srhr-16-saar-s-original-imaejpu5xtqhwrke.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/kurti/h/d/s/srhr-16-saar-s-original-imaejpu5hgvewnpx.jpeg",
+                "filename": "srhr-16-saar-s-original-imaejpu5hgvewnpx.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "5e2d1017-d372-437b-be9e-873f19aaf3f0",
+                "values": ["1 Kurti"]
+              },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Region", "values": ["Indo-Western"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Neck", "values": ["Round Neck"] },
+              { "key": "Pattern", "values": ["Embellished", "Printed"] },
+              { "key": "Occasion", "values": ["Casual", "Party"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              {
+                "key": "d93f61d0-bd76-4e60-abc4-ab2dde154146",
+                "values": ["Hand Wash"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "75baef33b03661f8a3c189db0202ce7aa983acd7" }
+      },
+      "active": true,
+      "id": "d2d99a6f8c2bbc07e49d98e0ac22972e69ec4db3"
+    },
+    {
+      "product": {
+        "id": "3b1474a1589c7ab7c1a3d9776770dbd5b4ba4f54",
+        "name": "YGS Keyboard Case for Asus Memo Pad 7in Tab",
+        "description": "Dummy description for product YGS Keyboard Case for Asus Memo Pad 7in Tab",
+        "manufacturer_id": "0cc0d2ce1469b5e84c4d2cc7bc887ecbe8026873",
+        "taric_code": "2c8c843f-c63c-4caf-9907-df7f6f874284",
+        "variants": [
+          {
+            "id": "00e966a5049a262cfc72e6bbf68b80e7",
+            "name": "YGS Keyboard Case for Asus Memo Pad 7in Tab (Pink)",
+            "description": "Key Features of YGS Keyboard Case for Asus Memo Pad 7in Tab Portfolio Folio Case with Magnetic lock for safety Four corner elastic straps to keep the device securely tucked inside With Stand to easily watch movies and do a video chat Made of high grade synthetic leather with durable stitching NOTE-This is a universal case for all 7Inch Android Tablets so it features NO CAMERA CUTS moreover please check compatibity with your Tablet as it works through Micro USB  only.,YGS Keyboard Case for Asus Memo Pad 7in Tab (Pink) Price: Rs. 499 YGS Universal QWERTY keyboard for Android Tablet provides you the dual benefit of protecting your Tab as well as providing you with a full functioning keyboard. Intricate stitching makes the case long lasting and durable. The display stand makes it easier for you to write using the keyboard or watch movies on your Tab. The keyboard itself is similar in functionality to netbook keyboards with full QWERTY layout.NOTE-This is a universal case for all 7Inch Android Tablets so it features NO CAMERA CUTS moreover please check compatibity with your Tablet as it works through Micro USB only.,Specifications of YGS Keyboard Case for Asus Memo Pad 7in Tab (Pink) General Brand YGS Shade Pink Material Artificial Leather Designed for Asus Memo Pad 7in Tab Model ID YGSKB95 Color Pink In the Box Sales Package 1 Keyboard Tablet Cover",
+            "stock_level": 6256,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "ACCEJGH6JVTM4CBH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/keyboard-case/4/p/k/ygs-ygskb100-1100x1100-imaejhyeqrdhzkjf.jpeg",
+                "filename": "ygs-ygskb100-1100x1100-imaejhyeqrdhzkjf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/keyboard-case/4/p/k/ygs-ygskb100-original-imaejhyeqrdhzkjf.jpeg",
+                "filename": "ygs-ygskb100-original-imaejhyeqrdhzkjf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/keyboard-case/4/p/k/ygs-ygskb100-original-imaejhyecffum7mh.jpeg",
+                "filename": "ygs-ygskb100-original-imaejhyecffum7mh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/keyboard-case/4/p/k/ygs-ygskb100-original-imaejhyda9g66hq4.jpeg",
+                "filename": "ygs-ygskb100-original-imaejhyda9g66hq4.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["YGS"] },
+              { "key": "Shade", "values": ["Pink"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              { "key": "Designed for", "values": ["Asus Memo Pad 7in Tab"] },
+              { "key": "Model ID", "values": ["YGSKB95"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Sales Package", "values": ["1 Keyboard Tablet Cover"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "e13987e3aeee75433413d565cb166ff738f4c170" }
+      },
+      "active": false,
+      "id": "3b1474a1589c7ab7c1a3d9776770dbd5b4ba4f54"
+    },
+    {
+      "product": {
+        "id": "1b7757b05a5c67f55aff4883c3cabddddabacc0c",
+        "name": "YGS Keyboard Case for Vizio Vz-706",
+        "description": "Dummy description for product YGS Keyboard Case for Vizio Vz-706",
+        "manufacturer_id": "0cc0d2ce1469b5e84c4d2cc7bc887ecbe8026873",
+        "taric_code": "e293d250-f628-498e-b66f-7718820976fa",
+        "variants": [
+          {
+            "id": "cb803fd3acfcd3e4ed4c73e56aaa77d2",
+            "name": "YGS Keyboard Case for Vizio Vz-706 (Pink)",
+            "description": "Key Features of YGS Keyboard Case for Vizio Vz-706 Portfolio Folio Case with Magnetic lock for safety Four corner elastic straps to keep the device securely tucked inside With Stand to easily watch movies and do a video chat Made of high grade synthetic leather with durable stitching NOTE-This is a universal case for all 7Inch Android Tablets so it features NO CAMERA CUTS moreover please check compatibity with your Tablet as it works through Micro USB  only.,YGS Keyboard Case for Vizio Vz-706 (Pink) Price: Rs. 499 YGS Universal QWERTY keyboard for Android Tablet provides you the dual benefit of protecting your Tab as well as providing you with a full functioning keyboard. Intricate stitching makes the case long lasting and durable. The display stand makes it easier for you to write using the keyboard or watch movies on your Tab. The keyboard itself is similar in functionality to netbook keyboards with full QWERTY layout.NOTE-This is a universal case for all 7Inch Android Tablets so it features NO CAMERA CUTS moreover please check compatibity with your Tablet as it works through Micro USB only.,Specifications of YGS Keyboard Case for Vizio Vz-706 (Pink) General Brand YGS Shade Pink Material Artificial Leather Designed for Vizio Vz-706 Model ID YGSKB117 Color Pink In the Box Sales Package 1 Keyboard Tablet Cover",
+            "stock_level": 2407,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "ACCEJGH5QTFVXQZT",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/keyboard-case/4/p/k/ygs-ygskb100-1100x1100-imaejhyeqrdhzkjf.jpeg",
+                "filename": "ygs-ygskb100-1100x1100-imaejhyeqrdhzkjf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/keyboard-case/4/p/k/ygs-ygskb100-original-imaejhyeqrdhzkjf.jpeg",
+                "filename": "ygs-ygskb100-original-imaejhyeqrdhzkjf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/keyboard-case/4/p/k/ygs-ygskb100-original-imaejhyecffum7mh.jpeg",
+                "filename": "ygs-ygskb100-original-imaejhyecffum7mh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/keyboard-case/4/p/k/ygs-ygskb100-original-imaejhyda9g66hq4.jpeg",
+                "filename": "ygs-ygskb100-original-imaejhyda9g66hq4.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["YGS"] },
+              { "key": "Shade", "values": ["Pink"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              { "key": "Designed for", "values": ["Vizio Vz-706"] },
+              { "key": "Model ID", "values": ["YGSKB117"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Sales Package", "values": ["1 Keyboard Tablet Cover"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "e13987e3aeee75433413d565cb166ff738f4c170" }
+      },
+      "active": true,
+      "id": "1b7757b05a5c67f55aff4883c3cabddddabacc0c"
+    },
+    {
+      "product": {
+        "id": "f8e9ce9541aace663ad431dd9e680a7f667d9eeb",
+        "name": "Crocslite Flip Flops",
+        "description": "Dummy description for product Crocslite Flip Flops",
+        "manufacturer_id": "c465c34cf1a849c394b74b0b4e098a8186736543",
+        "taric_code": "4cae467e-5821-4412-98bb-591a74997f6b",
+        "variants": [
+          {
+            "id": "c457ebc0b295a7b347d010241007730c",
+            "name": "Crocslite Flip Flops",
+            "description": "Key Features of Crocslite Flip Flops Ideal For: Boys, Girls,Specifications of Crocslite Flip Flops General Ideal For Boys, Girls Slipper & Flip Flop Details Type Flip Flops Color Blue",
+            "stock_level": 6802,
+            "price": 499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "SFFEJNR6SC9V3ZQK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/slipper-flip-flop/z/q/k/blue-beachwearcomfortkids-crocslite-32-original-imaej4nagsdk2w85.jpeg",
+                "filename": "blue-beachwearcomfortkids-crocslite-32-original-imaej4nagsdk2w85.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/slipper-flip-flop/z/q/k/blue-beachwearcomfortkids-crocslite-30-original-imaej4nagt5zzvhd.jpeg",
+                "filename": "blue-beachwearcomfortkids-crocslite-30-original-imaej4nagt5zzvhd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/slipper-flip-flop/z/q/k/blue-beachwearcomfortkids-crocslite-30-original-imaej4nasu6vhd9u.jpeg",
+                "filename": "blue-beachwearcomfortkids-crocslite-30-original-imaej4nasu6vhd9u.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Type", "values": ["Flip Flops"] },
+              { "key": "Color", "values": ["Blue"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "01afb097669e36ef6b95b4964f723788959ffb04" }
+      },
+      "active": true,
+      "id": "f8e9ce9541aace663ad431dd9e680a7f667d9eeb"
+    },
+    {
+      "product": {
+        "id": "70483688d1d31baa37ff04b8e68200a984386b67",
+        "name": "Pari & Prince Printed Girl's Jumpsuit",
+        "description": "Dummy description for product Pari & Prince Printed Girl's Jumpsuit",
+        "manufacturer_id": "296e73183237a17a3c1e3e74c5c85323b1bf52cf",
+        "taric_code": "0b62ca49-0e32-4985-93ac-035dd3f03947",
+        "variants": [
+          {
+            "id": "7f78683bf86bc1a8b08c9a9c98921124",
+            "name": "Pari & Prince Printed Girl's Jumpsuit",
+            "description": "Specifications of Pari & Prince Printed Girl's Jumpsuit In The Box 5 Jumpsuit Jumpsuit Details Sleeve Sleeveless Fabric Cotton Neck Round Neck General Details Pattern Printed Ideal For Girl's Color Multicolor Additional Details Product Color May Slightly Vary Due To Photographic Lighting Sources Or Your Monitor Settings. Wash Dark Colors Separately. Fabric Care Gentle Machine Wash In Lukewarm Water, Do Not Bleach, Do Not Iron Directly On Print",
+            "stock_level": 6270,
+            "price": 4099,
+            "sale": false,
+            "sale_price": 1499,
+            "stock_keeping_unit": "JUMEJB3YYZM5HSPR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jumpsuit/d/p/j/pnpjs-nc-n5-pari-prince-8-9-years-original-imaegtgythdz2zs2.jpeg",
+                "filename": "pnpjs-nc-n5-pari-prince-8-9-years-original-imaegtgythdz2zs2.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jumpsuit/d/p/j/pnpjs-nc-n5-pari-prince-8-9-years-original-imaegtgythdz2zs2.jpeg",
+                "filename": "pnpjs-nc-n5-pari-prince-8-9-years-original-imaegtgythdz2zs2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jumpsuit/w/b/z/pnpjs-nc-f-pari-prince-1-2-years-original-imaegqzyfggrhqcx.jpeg",
+                "filename": "pnpjs-nc-f-pari-prince-1-2-years-original-imaegqzyfggrhqcx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jumpsuit/j/2/2/pnpjs-nc-d-pari-prince-1-2-years-original-imaegmsdwspvsn88.jpeg",
+                "filename": "pnpjs-nc-d-pari-prince-1-2-years-original-imaegmsdwspvsn88.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jumpsuit/d/p/j/pnpjs-nc-n5-pari-prince-8-9-years-original-imaegqzyzfqpnabz.jpeg",
+                "filename": "pnpjs-nc-n5-pari-prince-8-9-years-original-imaegqzyzfqpnabz.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "fb6ff052-1b83-45b2-ab6b-fa46fc6dcb2c",
+                "values": ["5 Jumpsuit"]
+              },
+              {
+                "key": "060613d7-880a-4d20-b896-dbd120cf8803",
+                "values": [
+                  "Product Color May Slightly Vary Due To Photographic Lighting Sources Or Your Monitor Settings. Wash Dark Colors Separately."
+                ]
+              },
+              { "key": "Sleeve", "values": ["Sleeveless"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Neck", "values": ["Round Neck"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Girl's"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              {
+                "key": "158775c7-193d-4d70-b897-7b9abdd92b1a",
+                "values": [
+                  "Gentle Machine Wash In Lukewarm Water",
+                  "Do Not Bleach",
+                  "Do Not Iron Directly On Print"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "5f312489f8d2d28d35ba234e5265323dfc59a45e" }
+      },
+      "active": true,
+      "id": "70483688d1d31baa37ff04b8e68200a984386b67"
+    },
+    {
+      "product": {
+        "id": "90ab6ef21d174438ce50cb0de17b8d3365aec837",
+        "name": "Hustler Women's Boy Short Panty",
+        "description": "Dummy description for product Hustler Women's Boy Short Panty",
+        "manufacturer_id": "b99e4593e19d91101f35f0424976a93a5d2a0363",
+        "taric_code": "b1e42d77-1c81-486a-ab0d-7e3d327f05f1",
+        "variants": [
+          {
+            "id": "1c46855089cdab5d18b0ebb4ef3cd474",
+            "name": "Hustler Women's Boy Short Panty (Pack of 1)",
+            "description": "Key Features of Hustler Women's Boy Short Panty Be the subject of his most depraved fantasy. Take him to new heights of pleasure.,Hustler Women's Boy Short Panty (Pack of 1) Price: Rs. 995 When he has sin on his mind, make sure you are up for it in this aptly named Hustler: Bling Booty Short: Slut! Submit to his most depraved fantasies and be the object of his affections. Stir up a storm in the boudoir and get ready to make his wildest fantasies come true! Material: COTTON. Waist 26\" - 29\" 30\" - 33\",Specifications of Hustler Women's Boy Short Panty (Pack of 1) Panty Details Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Boy Short General Details Pattern Printed Ideal For Women's In the Box 1 Panty",
+            "stock_level": 8499,
+            "price": 995,
+            "sale": false,
+            "sale_price": 995,
+            "stock_keeping_unit": "PANEJZWGJD55B2CC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/panty/2/c/c/hsp-10-ml-hustler-l-original-imaejnhgxp3yupqj.jpeg",
+                "filename": "hsp-10-ml-hustler-l-original-imaejnhgxp3yupqj.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Boy Short"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              {
+                "key": "323c82ee-c268-4a53-be91-381faa5343fc",
+                "values": ["1 Panty"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "4cbc5a1f2fb08fc338bbb210aa8ff1824c21152b" }
+      },
+      "active": true,
+      "id": "90ab6ef21d174438ce50cb0de17b8d3365aec837"
+    },
+    {
+      "product": {
+        "id": "3b457e9dddaf6ee6df63de34d19ba66139608317",
+        "name": "Majik Styling Decoration Hair Clip",
+        "description": "Dummy description for product Majik Styling Decoration Hair Clip",
+        "manufacturer_id": "771b898cc60ceb6b79c052c95217c6e2c6fed8a7",
+        "taric_code": "61f2e9c0-3633-4e27-aa39-4cd114b5b0f7",
+        "variants": [
+          {
+            "id": "1be8161a259813bca5d068d5730464e7",
+            "name": "Majik Styling Decoration Hair Clip (Multicolor)",
+            "description": "Key Features of Majik Styling Decoration Hair Clip Pack of: 3,Majik Styling Decoration Hair Clip (Multicolor) Price: Rs. 199 Unique set of 3 flowers used for hair styling and as hair accessories. Can also be used for embellishment of headbands, clothes, scarves and kids accessories. artificial flowers ,easy to use ,Reusable ,Unique ,Gender: Women , girls, baby ,Gives Fashinable look ,Used in Hairstyling.,Specifications of Majik Styling Decoration Hair Clip (Multicolor) In the Box Number of Contents in Sales Package Pack of 3",
+            "stock_level": 6487,
+            "price": 199,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "HACEJQY5FQRZZUGM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/hair-accessory/n/h/f/11021-3-majik-wedding-accessories-1100x1100-imaejpm9fgygkgyv.jpeg",
+                "filename": "11021-3-majik-wedding-accessories-1100x1100-imaejpm9fgygkgyv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hair-accessory/n/h/f/11021-3-majik-wedding-accessories-original-imaejpm9fgygkgyv.jpeg",
+                "filename": "11021-3-majik-wedding-accessories-original-imaejpm9fgygkgyv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/hair-accessory/n/h/f/11021-3-majik-wedding-accessories-original-imaejpm9m2gwxfgg.jpeg",
+                "filename": "11021-3-majik-wedding-accessories-original-imaejpm9m2gwxfgg.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of "]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "519da3151a72ee9051bb9402b28dce031e8c1fe3" }
+      },
+      "active": false,
+      "id": "3b457e9dddaf6ee6df63de34d19ba66139608317"
+    },
+    {
+      "product": {
+        "id": "3aa788fb61993650ed8e70e7d1f1aa619ba0d4b8",
+        "name": "CUBA USB OTG Adapter",
+        "description": "Dummy description for product CUBA USB OTG Adapter",
+        "manufacturer_id": "9ee80f97cbee485ce386152b79d1baa6a71d7181",
+        "taric_code": "7c9e008c-f6c7-4466-9546-65a997575080",
+        "variants": [
+          {
+            "id": "317803cc707e02577d013661cf6df70e",
+            "name": "CUBA USB OTG Adapter (Pack of 1)",
+            "description": "Specifications of CUBA USB OTG Adapter (Pack of 1) General Brand CUBA Brand Color White Port Type USB Number of Connectors 1 Compatible Female Connectors Pen Drive Supported OS Android Model Number Q12107 Number of Adapters 1 Compatible Male Connectors Mobile Color Multicolor",
+            "stock_level": 9715,
+            "price": 1999,
+            "sale": true,
+            "sale_price": 199,
+            "stock_keeping_unit": "OTAEJZF5RKHJX6HG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/otg-adapter/z/3/q/q12154-cuba-1100x1100-imaejknsws2zszju.jpeg",
+                "filename": "q12154-cuba-1100x1100-imaejknsws2zszju.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/otg-adapter/z/3/q/q12154-cuba-original-imaejknsws2zszju.jpeg",
+                "filename": "q12154-cuba-original-imaejknsws2zszju.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["CUBA"] },
+              { "key": "Brand Color", "values": ["White"] },
+              { "key": "Port Type", "values": ["USB"] },
+              { "key": "Number of Connectors", "values": ["1"] },
+              {
+                "key": "Compatible Female Connectors",
+                "values": ["Pen Drive"]
+              },
+              { "key": "Supported OS", "values": ["Android"] },
+              { "key": "Model Number", "values": ["Q12107"] },
+              { "key": "Number of Adapters", "values": ["1"] },
+              { "key": "Compatible Male Connectors", "values": ["Mobile"] },
+              { "key": "Color", "values": ["Multicolor"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "669f79c808e0fe1b6046cc7f2737fb3978b00943" }
+      },
+      "active": true,
+      "id": "3aa788fb61993650ed8e70e7d1f1aa619ba0d4b8"
+    },
+    {
+      "product": {
+        "id": "6bccabed41aed7a93911efc7164ee88edd2e844f",
+        "name": "Packy Poda Car Mat Mahindra XUV 500",
+        "description": "Dummy description for product Packy Poda Car Mat Mahindra XUV 500",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "89f9e954-97ae-44bb-84e1-968af86093af",
+        "variants": [
+          {
+            "id": "6089243ae0eb5e94634df3c608d562dc",
+            "name": "Packy Poda Car Mat Mahindra XUV 500 (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Mahindra XUV 500 Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Mahindra XUV 500 (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name XUV 500 Model Number 6255Clear-46 Type Floor Mat Vehicle Brand Mahindra Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 35,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSSCJK4PDGHP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["XUV 500"] },
+              { "key": "Model Number", "values": ["6255Clear-46"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Mahindra"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": false,
+      "id": "6bccabed41aed7a93911efc7164ee88edd2e844f"
+    },
+    {
+      "product": {
+        "id": "fdbc6a31d18854749f6d943684f838fd0f37a296",
+        "name": "Laadli Boutique Cotton Floral Print Multi-purpose Fabric",
+        "description": "Dummy description for product Laadli Boutique Cotton Floral Print Multi-purpose Fabric",
+        "manufacturer_id": "f418e11f59bb8c9b45414805ddba66f7fe3d8606",
+        "taric_code": "debcc34f-2387-40b6-9608-a14af14f609d",
+        "variants": [
+          {
+            "id": "7b0b49ac4eab67779babf1693a2d40c5",
+            "name": "Laadli Boutique Cotton Floral Print Multi-purpos...",
+            "description": "Key Features of Laadli Boutique Cotton Floral Print Multi-purpose Fabric Type: Multi-purpose Fabric Fabric: Cotton Pattern: Floral Print Ideal For: Women's,Specifications of Laadli Boutique Cotton Floral Print Multi-purpose Fabric (Un-stitched) Fabric Details Fabric Cotton Type Multi-purpose Fabric General Details Pattern Floral Print Ideal For Women's Color Light Green, Multicolor Additional Details Style Code COT-FLORAL In the Box 1 meter Fabric",
+            "stock_level": 975,
+            "price": 175,
+            "sale": false,
+            "sale_price": 110,
+            "stock_keeping_unit": "FABEHZJDBFJHYWAJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/w/a/j/cot-floral-laadli-boutique-1000x1000-imaehzd9cb7jnsfq.jpeg",
+                "filename": "cot-floral-laadli-boutique-1000x1000-imaehzd9cb7jnsfq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/w/a/j/cot-floral-laadli-boutique-original-imaehzd9cb7jnsfq.jpeg",
+                "filename": "cot-floral-laadli-boutique-original-imaehzd9cb7jnsfq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Multi-purpose Fabric"] },
+              { "key": "Pattern", "values": ["Floral Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Color", "values": ["Light Green", "Multicolor"] },
+              { "key": "Style Code", "values": ["COT-FLORAL"] },
+              {
+                "key": "06186d25-99d0-4ce6-a567-9bc3e5203bb9",
+                "values": ["1 meter Fabric"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "033cf252258ac6b62610db1ec3e92ba2e8c2d6e5" }
+      },
+      "active": true,
+      "id": "fdbc6a31d18854749f6d943684f838fd0f37a296"
+    },
+    {
+      "product": {
+        "id": "03a9302e94181665cd5f792c93487d98d55355c7",
+        "name": "D'steek Abstract Cushions Cover",
+        "description": "Dummy description for product D'steek Abstract Cushions Cover",
+        "manufacturer_id": "b8fc28c574a8c3520e50de26323b209a85a88065",
+        "taric_code": "7b304472-bb1c-4523-b1b8-e52b03d24bb9",
+        "variants": [
+          {
+            "id": "3a22c30f2e55e538a897cef3a5c48e9a",
+            "name": "D'steek Abstract Cushions Cover (Pack of 5, 30.4...",
+            "description": "Key Features of D'steek Abstract Cushions Cover Width 30.48 cm,D'steek Abstract Cushions Cover (Pack of 5, 30.48 cm, Multicolor) Price: Rs. 699 5pcs- 12X12 inch Digitally Printed Cushion Cover in polyester fabric,Cushion cover has Quilted from Front and Back,Specifications of D'steek Abstract Cushions Cover (Pack of 5, 30.48 cm, Multicolor) General Closure Zipper Brand D'steek Suitable For Cushions Design Code DSCH216 Type Square Material Polyester Style Code DSCH216 Pattern Abstract Color Multicolor Dimensions Width 12 inch / 30 cm Additional Features Reversible No In the Box Number of Contents in Sales Package Pack of 5",
+            "stock_level": 1703,
+            "price": 1699,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "CPCEHZRGZ7KXYQXA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cushion-pillow-cover/q/x/a/dsch216-dsch216-d-steek-1100x1100-imaehzhfxzw853r4.jpeg",
+                "filename": "dsch216-dsch216-d-steek-1100x1100-imaehzhfxzw853r4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cushion-pillow-cover/q/x/a/dsch216-dsch216-d-steek-original-imaehzhfxzw853r4.jpeg",
+                "filename": "dsch216-dsch216-d-steek-original-imaehzhfxzw853r4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cushion-pillow-cover/q/x/a/dsch216-dsch216-d-steek-original-imaehzhfrsnx7vqw.jpeg",
+                "filename": "dsch216-dsch216-d-steek-original-imaehzhfrsnx7vqw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Closure", "values": ["Zipper"] },
+              { "key": "Brand", "values": ["D'steek"] },
+              { "key": "Suitable For", "values": ["Cushions"] },
+              { "key": "Design Code", "values": ["DSCH216"] },
+              { "key": "Type", "values": ["Square"] },
+              { "key": "Material", "values": ["Polyester"] },
+              { "key": "Style Code", "values": ["DSCH216"] },
+              { "key": "Pattern", "values": ["Abstract"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Width", "values": ["12 inch / 30 cm"] },
+              { "key": "Reversible", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 5"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "0ffd8d4887ec0fd7a5fa5804d39c105646d5000a" }
+      },
+      "active": false,
+      "id": "03a9302e94181665cd5f792c93487d98d55355c7"
+    },
+    {
+      "product": {
+        "id": "b0f015425700589e71959d90e0887a891c822b15",
+        "name": "Packy Poda Car Mat Maruti Baleno",
+        "description": "Dummy description for product Packy Poda Car Mat Maruti Baleno",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "d2511975-3c7b-4d42-859c-665fa4279bb1",
+        "variants": [
+          {
+            "id": "e6b55439a411192327611b07d86a9b6f",
+            "name": "Packy Poda Car Mat Maruti Baleno (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Maruti Baleno Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Maruti Baleno (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Baleno Model Number 6255Clear-10 Type Floor Mat Vehicle Brand Maruti Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 9397,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSS9JCJEZWCA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Baleno"] },
+              { "key": "Model Number", "values": ["6255Clear-10"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Maruti"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "b0f015425700589e71959d90e0887a891c822b15"
+    },
+    {
+      "product": {
+        "id": "50d78999a2cc17ac7dce67e48da3450e965830fe",
+        "name": "Packy Poda Car Mat Mahindra Xylo",
+        "description": "Dummy description for product Packy Poda Car Mat Mahindra Xylo",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "cd612660-8eb5-4448-a616-53e8b791b807",
+        "variants": [
+          {
+            "id": "3eec948f888589d6c2ec0f16d14294af",
+            "name": "Packy Poda Car Mat Mahindra Xylo (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Mahindra Xylo Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Mahindra Xylo (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Xylo Model Number 9355M-04 Vehicle Brand Mahindra Type Floor Mat Material PVC Model Name NA Color Clear In the box Sales Package 5 Floor mat",
+            "stock_level": 2948,
+            "price": 2000,
+            "sale": true,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHZVWXUFJN78Y",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/7/8/y/9355m-04-packy-poda-na-original-imaegujywvbfzup7.jpeg",
+                "filename": "9355m-04-packy-poda-na-original-imaegujywvbfzup7.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/7/8/y/9355m-04-packy-poda-na-original-imaegujywvbfzup7.jpeg",
+                "filename": "9355m-04-packy-poda-na-original-imaegujywvbfzup7.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/7/8/y/9355m-04-packy-poda-na-original-imaegujyfjpf9csy.jpeg",
+                "filename": "9355m-04-packy-poda-na-original-imaegujyfjpf9csy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/7/8/y/9355m-04-packy-poda-na-original-imaegujytbzwwtjs.jpeg",
+                "filename": "9355m-04-packy-poda-na-original-imaegujytbzwwtjs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/7/8/y/9355m-04-packy-poda-na-original-imaegujyk8kz4akf.jpeg",
+                "filename": "9355m-04-packy-poda-na-original-imaegujyk8kz4akf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Xylo"] },
+              { "key": "Model Number", "values": ["9355M-04"] },
+              { "key": "Vehicle Brand", "values": ["Mahindra"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mat"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "50d78999a2cc17ac7dce67e48da3450e965830fe"
+    },
+    {
+      "product": {
+        "id": "4b3c102e5a5e5e97ca6f9f8c37694e7955c3728e",
+        "name": "Packy Poda Car Mat Honda Brio",
+        "description": "Dummy description for product Packy Poda Car Mat Honda Brio",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "7ebe0d8d-db82-48c9-a133-f77ad15d5fc5",
+        "variants": [
+          {
+            "id": "c5f8b62a67192effbe7cebe5ab0c28af",
+            "name": "Packy Poda Car Mat Honda Brio (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Honda Brio Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Honda Brio (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Brio Model Number 6255Clear-22 Type Floor Mat Vehicle Brand Honda Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 3597,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSSAM5WKZS3V",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Brio"] },
+              { "key": "Model Number", "values": ["6255Clear-22"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Honda"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "4b3c102e5a5e5e97ca6f9f8c37694e7955c3728e"
+    },
+    {
+      "product": {
+        "id": "f729df1b104841aceeab949cb637820026f6f4a4",
+        "name": "Packy Poda Car Mat Nissan Terrano",
+        "description": "Dummy description for product Packy Poda Car Mat Nissan Terrano",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "802dc38f-d872-4843-8714-4e469c03be42",
+        "variants": [
+          {
+            "id": "312c74f70964f9511972e7359e7564e8",
+            "name": "Packy Poda Car Mat Nissan Terrano (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Nissan Terrano Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Nissan Terrano (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Terrano Model Number 6255Clear-43 Type Floor Mat Vehicle Brand Nissan Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 3675,
+            "price": 2000,
+            "sale": true,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSSCUCMVN7SP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Terrano"] },
+              { "key": "Model Number", "values": ["6255Clear-43"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Nissan"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          },
+          {
+            "id": "acbcf30ea2d8814519f4ae0a3b67e135",
+            "name": "Packy Poda Car Mat Nissan Terrano (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Nissan Terrano Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Nissan Terrano (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Terrano Model Number 6255Clear-44 Type Floor Mat Vehicle Brand Nissan Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 7769,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSSCRG2GD659",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Terrano"] },
+              { "key": "Model Number", "values": ["6255Clear-44"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Nissan"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "f729df1b104841aceeab949cb637820026f6f4a4"
+    },
+    {
+      "product": {
+        "id": "684b2d185dda12954d92edf1d1a17dbe40113464",
+        "name": "Packy Poda Car Mat Hyundai i10 Active",
+        "description": "Dummy description for product Packy Poda Car Mat Hyundai i10 Active",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "ffdfcc52-32f4-4abd-9433-8f4fc5c5ad4c",
+        "variants": [
+          {
+            "id": "a514c2a02adfd6ef70e47b1b91299ed6",
+            "name": "Packy Poda Car Mat Hyundai i10 Active (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Hyundai i10 Active Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Hyundai i10 Active (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name i10 Active Model Number 6255Clear-12 Type Floor Mat Vehicle Brand Hyundai Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 8385,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSS9P7YWR7J8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["i10 Active"] },
+              { "key": "Model Number", "values": ["6255Clear-12"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Hyundai"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "684b2d185dda12954d92edf1d1a17dbe40113464"
+    },
+    {
+      "product": {
+        "id": "a59cbd2f5ec07d82179afa5ff934d22e3a398dfe",
+        "name": "Packy Poda Car Mat Tata Indica",
+        "description": "Dummy description for product Packy Poda Car Mat Tata Indica",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "9cdf3dfe-5183-4471-85df-5ff1051e39b4",
+        "variants": [
+          {
+            "id": "468f13baf15a333eb48446dae34db199",
+            "name": "Packy Poda Car Mat Tata Indica (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Tata Indica Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Tata Indica (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Indica Model Number 6255Clear-39 Type Floor Mat Vehicle Brand Tata Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 8638,
+            "price": 2000,
+            "sale": true,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSSBYJGD7HGM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Indica"] },
+              { "key": "Model Number", "values": ["6255Clear-39"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Tata"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "a59cbd2f5ec07d82179afa5ff934d22e3a398dfe"
+    },
+    {
+      "product": {
+        "id": "93b84874943cd5fb085e7335fff3ec7621cafc43",
+        "name": "Zingalalaa LP-50 50 lm LED Corded Portable Projector",
+        "description": "Dummy description for product Zingalalaa LP-50 50 lm LED Corded Portable Projector",
+        "manufacturer_id": "b30ceb704bfeacb634c06c801a473351e499015c",
+        "taric_code": "e8a10a5a-98d2-4741-bb97-7c20b68ec4a8",
+        "variants": [
+          {
+            "id": "60a7313ea1e0ee8d845a0a6dec6117cc",
+            "name": "Zingalalaa LP-50 50 lm LED Corded Portable Proje...",
+            "description": "Specifications of Zingalalaa LP-50 50 lm LED Corded Portable Projector (Multicolor) Performance Features Aspect Ratio 16:09 Color Support 2 Milion Throw Ratio 1.45 3D Support No General Brand Zingalalaa Resolution Native - 480 x 320 Pixel Pixel, Maximum - 1092 x 1080 Pixel Pixel Keystone Correction Automatic Model Number LP-50 Brightness 50 lm Signal Type Pal Projection Distance .5-3.5 m Technology Used BrilliantColor Supported File Format jpeg, BMP, PNG, WMA, MP3, MP4, MPEG1, MPEG2, MPEG4, RMVB, H264, MOV, FLV, DivX, AVI Projection Screen Size .25-2.5 m Color Multicolor Warranty Covered in Warranty Warranty of the product is limited to manufacturing defects only. Warranty Summary 3 Months Replacement Warranty Warranty Service Type Repair / Replacement Not Covered in Warranty Warranty does not cover any external damage Dimensions Weight 550 g Height 8.8 cm Width 11 cm Depth 4 cm Connectivity Features Wireless Network Connectivity No Audio Input/Output 3.5 mm Jack Macintosh Compatibility No VGA Port Yes HDMI Port Yes Memory Card Supported Micro SD Power Features Power Source Corded Audio Features Audio Type Mono Number of Speakers 2 Speaker Output 1 W Lens Features Zoom Type 1.15x Lamp Type 16W LED LAMP Display Technology LED Lamp Life 2000 hours Additional Features Remote Control Yes Mountable Yes In the Box 1 Projector, Power cord | Remote | AV Cable | User Manual",
+            "stock_level": 8128,
+            "price": 6250,
+            "sale": false,
+            "sale_price": 3480,
+            "stock_keeping_unit": "PPJEAJTT86WKA5G9",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/portable-projector/5/g/9/lp-50-zingalalaa-1100x1100-imaeaje8tbw4bptg.jpeg",
+                "filename": "lp-50-zingalalaa-1100x1100-imaeaje8tbw4bptg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/portable-projector/5/g/9/lp-50-zingalalaa-original-imaeaje8tbw4bptg.jpeg",
+                "filename": "lp-50-zingalalaa-original-imaeaje8tbw4bptg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/portable-projector/5/g/9/lp-50-zingalalaa-original-imaeaje8b46yh257.jpeg",
+                "filename": "lp-50-zingalalaa-original-imaeaje8b46yh257.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Aspect Ratio", "values": ["16:09"] },
+              { "key": "Color Support", "values": ["2 Milion"] },
+              { "key": "Throw Ratio", "values": ["1.45"] },
+              { "key": "3D Support", "values": ["No"] },
+              { "key": "Brand", "values": ["Zingalalaa"] },
+              {
+                "key": "Resolution",
+                "values": [
+                  "Native - 480 x 320 Pixel Pixel",
+                  "Maximum - 1092 x 1080 Pixel Pixel"
+                ]
+              },
+              { "key": "Keystone Correction", "values": ["Automatic"] },
+              { "key": "Model Number", "values": ["LP-50"] },
+              { "key": "Brightness", "values": ["50 lm"] },
+              { "key": "Signal Type", "values": ["Pal"] },
+              { "key": "Projection Distance", "values": [".5-3.5 m"] },
+              { "key": "Technology Used", "values": ["BrilliantColor"] },
+              {
+                "key": "Supported File Format",
+                "values": [
+                  "jpeg",
+                  "BMP",
+                  "PNG",
+                  "WMA",
+                  "MP3",
+                  "MP4",
+                  "MPEG1",
+                  "MPEG2",
+                  "MPEG4",
+                  "RMVB",
+                  "H264",
+                  "MOV",
+                  "FLV",
+                  "DivX",
+                  "AVI"
+                ]
+              },
+              { "key": "Projection Screen Size", "values": [".25-2.5 m"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["3 Months Replacement Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Repair / Replacement"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Warranty does not cover any external damage"]
+              },
+              { "key": "Weight", "values": ["550 g"] },
+              { "key": "Height", "values": ["8.8 cm"] },
+              { "key": "Width", "values": ["11 cm"] },
+              { "key": "Depth", "values": ["4 cm"] },
+              { "key": "Wireless Network Connectivity", "values": ["No"] },
+              { "key": "Audio Input/Output", "values": ["3.5 mm Jack"] },
+              { "key": "Macintosh Compatibility", "values": ["No"] },
+              { "key": "VGA Port", "values": ["Yes"] },
+              { "key": "HDMI Port", "values": ["Yes"] },
+              { "key": "Memory Card Supported", "values": ["Micro SD"] },
+              { "key": "Power Source", "values": ["Corded"] },
+              { "key": "Audio Type", "values": ["Mono"] },
+              { "key": "Number of Speakers", "values": ["2"] },
+              { "key": "Speaker Output", "values": ["1 W"] },
+              { "key": "Zoom Type", "values": ["1.15x"] },
+              { "key": "Lamp Type", "values": ["16W LED LAMP"] },
+              { "key": "Display Technology", "values": ["LED"] },
+              { "key": "Lamp Life", "values": ["2000 hours"] },
+              { "key": "Remote Control", "values": ["Yes"] },
+              { "key": "Mountable", "values": ["Yes"] },
+              {
+                "key": "da5b3a3c-392e-40f1-a2c7-07b84d2939b3",
+                "values": [
+                  "1 Projector",
+                  "Power cord | Remote | AV Cable | User Manual"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "b4ce52899cc2f9c26582168bfceb950a30e34674" }
+      },
+      "active": true,
+      "id": "93b84874943cd5fb085e7335fff3ec7621cafc43"
+    },
+    {
+      "product": {
+        "id": "c72995fed4b6e12ce65771101446816d9dfb51a4",
+        "name": "Laadli Bouitique Cotton Floral Print Multi-purpose Fabric",
+        "description": "Dummy description for product Laadli Bouitique Cotton Floral Print Multi-purpose Fabric",
+        "manufacturer_id": "f9cf11e8bac3eebad607b0873daf3c360b534334",
+        "taric_code": "230ba758-3395-4c71-9895-6c7f82c0d11a",
+        "variants": [
+          {
+            "id": "bcd422e5d21e93a4dfb5a167026b2d77",
+            "name": "Laadli Bouitique Cotton Floral Print Multi-purpo...",
+            "description": "Key Features of Laadli Bouitique Cotton Floral Print Multi-purpose Fabric Type: Multi-purpose Fabric Fabric: Cotton Pattern: Floral Print Ideal For: Women's,Specifications of Laadli Bouitique Cotton Floral Print Multi-purpose Fabric (Un-stitched) Fabric Details Fabric Cotton Type Multi-purpose Fabric General Details Pattern Floral Print Ideal For Women's Color Beige In the Box 1 meter Fabric Additional Details Style Code COT-FLORAL",
+            "stock_level": 5316,
+            "price": 175,
+            "sale": true,
+            "sale_price": 110,
+            "stock_keeping_unit": "FABEHZJADZCW6FXT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/f/x/t/cot-floral-laadli-bouitique-original-imaehzd4kyf6dagb.jpeg",
+                "filename": "cot-floral-laadli-bouitique-original-imaehzd4kyf6dagb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/f/x/t/cot-floral-laadli-bouitique-original-imaehzd4kyf6dagb.jpeg",
+                "filename": "cot-floral-laadli-bouitique-original-imaehzd4kyf6dagb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Multi-purpose Fabric"] },
+              { "key": "Pattern", "values": ["Floral Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Color", "values": ["Beige"] },
+              {
+                "key": "73f5eada-dfd3-4453-81dd-bdfbd4d263f4",
+                "values": ["1 meter Fabric"]
+              },
+              { "key": "Style Code", "values": ["COT-FLORAL"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2248118d8eefbdb890c709a0f60638f816c76e6c" }
+      },
+      "active": true,
+      "id": "c72995fed4b6e12ce65771101446816d9dfb51a4"
+    },
+    {
+      "product": {
+        "id": "57dba8bd0734baec1aa466a79649260d1d320c02",
+        "name": "Packy Poda Car Mat Hyundai Grand i10",
+        "description": "Dummy description for product Packy Poda Car Mat Hyundai Grand i10",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "079e5238-4934-4ff8-8652-ce3ac6ded84f",
+        "variants": [
+          {
+            "id": "3625cf7d7ac6f7bae566c331e924d092",
+            "name": "Packy Poda Car Mat Hyundai Grand i10 (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Hyundai Grand i10 Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Hyundai Grand i10 (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Grand i10 Model Number 6255Clear-13 Type Floor Mat Vehicle Brand Hyundai Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 6957,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSS9UZJZYMZD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Grand i10"] },
+              { "key": "Model Number", "values": ["6255Clear-13"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Hyundai"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "57dba8bd0734baec1aa466a79649260d1d320c02"
+    },
+    {
+      "product": {
+        "id": "e19350f1e2009eff503c233be43744592e88758a",
+        "name": "Packy Poda Car Mat Maruti BRZ",
+        "description": "Dummy description for product Packy Poda Car Mat Maruti BRZ",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "2bfce8a3-b4cc-4515-a30d-03f5544f2624",
+        "variants": [
+          {
+            "id": "2bf9942912df68d401901afcd0caa056",
+            "name": "Packy Poda Car Mat Maruti BRZ (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Maruti BRZ Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Maruti BRZ (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name BRZ Model Number 6255Clear-09 Type Floor Mat Vehicle Brand Maruti Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 3380,
+            "price": 2000,
+            "sale": true,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSS9SQ6PV34N",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["BRZ"] },
+              { "key": "Model Number", "values": ["6255Clear-09"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Maruti"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "e19350f1e2009eff503c233be43744592e88758a"
+    },
+    {
+      "product": {
+        "id": "a3b7f1aca8e1de6201fc29f0c885432f80145a1f",
+        "name": "Very Me Full Sleeve Solid Women's Jacket",
+        "description": "Dummy description for product Very Me Full Sleeve Solid Women's Jacket",
+        "manufacturer_id": "b5ea21d8bd845774998c7035fced9dea4e0e82db",
+        "taric_code": "d7e13dec-b9a2-487a-84b2-8fa61d96ff86",
+        "variants": [
+          {
+            "id": "8cbd0be66a963370f5970de00603d734",
+            "name": "Very Me Full Sleeve Solid Women's Jacket",
+            "description": "Specifications of Very Me Full Sleeve Solid Women's Jacket Jacket Details Lining Polyester Hooded No Closure Button Sleeve Full Sleeve Reversible No Fabric Faux Silk Pockets 2 Front Slip pockets Cuff Floral Lined Cuffs General Details Pattern Solid Ideal For Women's Fabric Care Machine Wash in Cold Water. Dry in Shade , Iron at low Temperature, Can be Dry Cleaned, Additional Details Other Details Pin Tucks Look Style Code WFSJ2516 In the Box 1 Jacket",
+            "stock_level": 1703,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "JCKEH9EN9UNA5VKW",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/7/b/p/wfsj2516-very-me-xs-original-imaeh84awzddm8bw.jpeg",
+                "filename": "wfsj2516-very-me-xs-original-imaeh84awzddm8bw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jacket/7/b/p/wfsj2516-very-me-xs-original-imaeh84awzddm8bw.jpeg",
+                "filename": "wfsj2516-very-me-xs-original-imaeh84awzddm8bw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/a/n/t/wfsj2516-very-me-s-original-imaeh84bpfhnb4xg.jpeg",
+                "filename": "wfsj2516-very-me-s-original-imaeh84bpfhnb4xg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/v/z/x/wfsj2516-very-me-xl-original-imaeh84bxpapyuas.jpeg",
+                "filename": "wfsj2516-very-me-xl-original-imaeh84bxpapyuas.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/7/b/p/wfsj2516-very-me-xs-original-imaeh84ch6ggvz6z.jpeg",
+                "filename": "wfsj2516-very-me-xs-original-imaeh84ch6ggvz6z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/m/d/r/wfsj2516-very-me-5xl-original-imaeh84c9hfffayh.jpeg",
+                "filename": "wfsj2516-very-me-5xl-original-imaeh84c9hfffayh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Lining", "values": ["Polyester"] },
+              { "key": "Hooded", "values": ["No"] },
+              { "key": "Closure", "values": ["Button"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Reversible", "values": ["No"] },
+              { "key": "Fabric", "values": ["Faux Silk"] },
+              { "key": "Pockets", "values": ["2 Front Slip pockets"] },
+              { "key": "Cuff", "values": ["Floral Lined Cuffs"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              {
+                "key": "33890210-fca1-4a43-810d-79aad8c9746f",
+                "values": [
+                  "Machine Wash in Cold Water. Dry in Shade ",
+                  "Iron at low Temperature",
+                  "Can be Dry Cleaned,"
+                ]
+              },
+              { "key": "Other Details", "values": ["Pin Tucks Look"] },
+              { "key": "Style Code", "values": ["WFSJ2516"] },
+              {
+                "key": "2a00ff9d-f26a-402e-a082-9e2216fa9394",
+                "values": ["1 Jacket"]
+              }
+            ]
+          },
+          {
+            "id": "c55eef2f6ee04db0e16b1d7b1dc66ea2",
+            "name": "Very Me Full Sleeve Solid Women's Jacket",
+            "description": "Specifications of Very Me Full Sleeve Solid Women's Jacket Jacket Details Lining Polyester Hooded No Closure Button Sleeve Full Sleeve Reversible No Fabric Faux Silk Pockets 2 Front Slip pockets Cuff Floral Lined Cuffs General Details Pattern Solid Ideal For Women's Fabric Care Machine Wash in Cold Water. Dry in Shade , Iron at low Temperature, Can be Dry Cleaned, Additional Details Other Details Pin Tucks Look Style Code WFSJ2514 In the Box 1 Jacket",
+            "stock_level": 4596,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "JCKEH9EMRAAEPJBD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jacket/g/j/7/wfsj2514-very-me-xl-original-imaeh842jufghrg3.jpeg",
+                "filename": "wfsj2514-very-me-xl-original-imaeh842jufghrg3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/g/j/7/wfsj2514-very-me-xl-original-imaeh842jufghrg3.jpeg",
+                "filename": "wfsj2514-very-me-xl-original-imaeh842jufghrg3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jacket/j/b/d/wfsj2514-very-me-5xl-original-imaeh843gda6yrsu.jpeg",
+                "filename": "wfsj2514-very-me-5xl-original-imaeh843gda6yrsu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/z/3/x/wfsj2514-very-me-xs-original-imaeh843n9c5frps.jpeg",
+                "filename": "wfsj2514-very-me-xs-original-imaeh843n9c5frps.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/f/y/y/wfsj2514-very-me-4xl-original-imaeh844yzvrqdu8.jpeg",
+                "filename": "wfsj2514-very-me-4xl-original-imaeh844yzvrqdu8.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/6/g/x/wfsj2512-very-me-4xl-original-imaeh82zsh2fzxfx.jpeg",
+                "filename": "wfsj2512-very-me-4xl-original-imaeh82zsh2fzxfx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Lining", "values": ["Polyester"] },
+              { "key": "Hooded", "values": ["No"] },
+              { "key": "Closure", "values": ["Button"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Reversible", "values": ["No"] },
+              { "key": "Fabric", "values": ["Faux Silk"] },
+              { "key": "Pockets", "values": ["2 Front Slip pockets"] },
+              { "key": "Cuff", "values": ["Floral Lined Cuffs"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              {
+                "key": "cf43327e-acff-4115-98bc-96fbaf306aff",
+                "values": [
+                  "Machine Wash in Cold Water. Dry in Shade ",
+                  "Iron at low Temperature",
+                  "Can be Dry Cleaned,"
+                ]
+              },
+              { "key": "Other Details", "values": ["Pin Tucks Look"] },
+              { "key": "Style Code", "values": ["WFSJ2514"] },
+              {
+                "key": "a8675239-9d8b-4b3a-ae7b-50936bbcb2cf",
+                "values": ["1 Jacket"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "dbf9de18159392b30289985bc35c2680eeb2997e" }
+      },
+      "active": true,
+      "id": "a3b7f1aca8e1de6201fc29f0c885432f80145a1f"
+    },
+    {
+      "product": {
+        "id": "384e3b581380ffdd79796055f1dcedadf83f9ce9",
+        "name": "Packy Poda Car Mat Mahindra TUV 300",
+        "description": "Dummy description for product Packy Poda Car Mat Mahindra TUV 300",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "dc75a6b9-9175-4a0d-b722-a1162a5a8514",
+        "variants": [
+          {
+            "id": "44fac8c844b8b2216cc77e73ec73a65f",
+            "name": "Packy Poda Car Mat Mahindra TUV 300 (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Mahindra TUV 300 Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Mahindra TUV 300 (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name TUV 300 Model Number 6255Clear-50 Type Floor Mat Vehicle Brand Mahindra Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 2671,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSSCVTZ3DB72",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["TUV 300"] },
+              { "key": "Model Number", "values": ["6255Clear-50"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Mahindra"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "384e3b581380ffdd79796055f1dcedadf83f9ce9"
+    },
+    {
+      "product": {
+        "id": "dc05d79def67a08748429373d947065768c2bd34",
+        "name": "Packy Poda Car Mat Maruti Alto",
+        "description": "Dummy description for product Packy Poda Car Mat Maruti Alto",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "cca52fa3-2071-4763-a6b8-883b7190f2cd",
+        "variants": [
+          {
+            "id": "3641fd0f1fae592cbde7f8c05fd5df2a",
+            "name": "Packy Poda Car Mat Maruti Alto (Clear)",
+            "description": "Specifications of Packy Poda Car Mat Maruti Alto (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Alto Model Number 6255Clear-11 Type Floor Mat Vehicle Brand Maruti Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 7619,
+            "price": 2000,
+            "sale": true,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSS9CHAE2BZZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yngmknheg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Alto"] },
+              { "key": "Model Number", "values": ["6255Clear-11"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Maruti"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "dc05d79def67a08748429373d947065768c2bd34"
+    },
+    {
+      "product": {
+        "id": "fffb6175cce04a41f5f265be21fa1675672b2617",
+        "name": "Playhood Tree House",
+        "description": "Dummy description for product Playhood Tree House",
+        "manufacturer_id": "0347edbe206de8c2947db5bbc6545fb37f7c0e97",
+        "taric_code": "61557572-6c39-43d7-be3d-8665882623c5",
+        "variants": [
+          {
+            "id": "236e8b5270f6017388531841adfb001c",
+            "name": "Playhood Tree House (Green, Brown)",
+            "description": "Specifications of Playhood Tree House (Green, Brown) General Ideal for Boys, Girls Type Tents & Camping Sets Character Tree House Assembly Required Yes Important Note The color of some product parts may vary from what is shown in the image Box Dimensions Weight 500 g Body Features Material Fabric Additional Features Important Note The color of some product parts may vary from what is shown in the image",
+            "stock_level": 1045,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "OTYEHVKHHEBGWEH8",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/outdoor-toy/e/h/8/playhood-tree-house-original-imaehss3ewunhpch.jpeg",
+                "filename": "playhood-tree-house-original-imaehss3ewunhpch.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/outdoor-toy/e/h/8/playhood-tree-house-original-imaehss9ddkpcknj.jpeg",
+                "filename": "playhood-tree-house-original-imaehss9ddkpcknj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal for", "values": ["Boys", "Girls"] },
+              { "key": "Type", "values": ["Tents and Camping Sets"] },
+              { "key": "Character", "values": ["Tree House"] },
+              { "key": "Assembly Required", "values": ["Yes"] },
+              {
+                "key": "7b2affbe-ac73-4b2b-a232-2e416b59479c",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              { "key": "Weight", "values": ["500 g"] },
+              { "key": "Material", "values": ["Fabric"] },
+              {
+                "key": "Important Note",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "17083e77d784f25abfa6508c2a5fd4b2de7ec3a2" }
+      },
+      "active": true,
+      "id": "fffb6175cce04a41f5f265be21fa1675672b2617"
+    },
+    {
+      "product": {
+        "id": "3f42e22b923790d729431923ca7716dbb65e4980",
+        "name": "Intex 5 Feet Swimming Pool With Hand Pump",
+        "description": "Dummy description for product Intex 5 Feet Swimming Pool With Hand Pump",
+        "manufacturer_id": "4b97909d3f1564de14f42c89cf091a4b7f0d719f",
+        "taric_code": "dd703b04-bfc3-4df5-aa49-45cb3be7872d",
+        "variants": [
+          {
+            "id": "c35fcd401f4cb1b19a8f01c60d0f6360",
+            "name": "Intex 5 Feet Swimming Pool With Hand Pump (Multi...",
+            "description": "Specifications of Intex 5 Feet Swimming Pool With Hand Pump (Multicolor) Product Dimensions Other Dimensions 5 Feet Diameter General Ideal for Boys, Girls Type Inflatables Important Note The color of some product parts may vary from what is shown in the image In the Box 1 5 Feet Pool, 1 Pump Additional Features Important Note The color of some product parts may vary from what is shown in the image",
+            "stock_level": 1275,
+            "price": 1980,
+            "sale": false,
+            "sale_price": 775,
+            "stock_keeping_unit": "OTYEHZR7MXR4PBCZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/outdoor-toy/b/c/z/intex-5-feet-swimming-pool-with-hand-pump-1100x1100-imaehv8fgmc2sbag.jpeg",
+                "filename": "intex-5-feet-swimming-pool-with-hand-pump-1100x1100-imaehv8fgmc2sbag.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/outdoor-toy/b/c/z/intex-5-feet-swimming-pool-with-hand-pump-original-imaehv8fgmc2sbag.jpeg",
+                "filename": "intex-5-feet-swimming-pool-with-hand-pump-original-imaehv8fgmc2sbag.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/outdoor-toy/b/c/z/intex-5-feet-swimming-pool-with-hand-pump-original-imaehv7vmguz8h95.jpeg",
+                "filename": "intex-5-feet-swimming-pool-with-hand-pump-original-imaehv7vmguz8h95.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Other Dimensions", "values": ["5 Feet Diameter"] },
+              { "key": "Ideal for", "values": ["Boys", "Girls"] },
+              { "key": "Type", "values": ["Inflatables"] },
+              {
+                "key": "801e13f0-e8c3-4ec8-8841-22e7a2689c46",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              {
+                "key": "6b1bd442-bedd-4ee6-845c-d0bc2e7c478e",
+                "values": ["1 5 Feet Pool", "1 Pump"]
+              },
+              {
+                "key": "Important Note",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3c76ebcd478590426ad0cab0daa75e958e084459" }
+      },
+      "active": true,
+      "id": "3f42e22b923790d729431923ca7716dbb65e4980"
+    },
+    {
+      "product": {
+        "id": "97b23e8f3d2abca9b0bcf85994d8b529bcf25be8",
+        "name": "Packy Poda Car Mat Hyundai Santro Xing",
+        "description": "Dummy description for product Packy Poda Car Mat Hyundai Santro Xing",
+        "manufacturer_id": "aa2f0343f2e14c3599d45faea4bbf36589f062ef",
+        "taric_code": "6e9a19b5-2aee-4b67-9d06-44e883b624bf",
+        "variants": [
+          {
+            "id": "1d424362d9f05369737dee6d21db51d1",
+            "name": "Packy Poda Car Mat Hyundai Santro Xing (Clear)",
+            "description": "Key Features of Packy Poda Car Mat Hyundai Santro Xing Type: Floor Mat Material: PVC Color: Clear,Specifications of Packy Poda Car Mat Hyundai Santro Xing (Clear) General Brand Packy Poda Model Year 2015 Vehicle Model Name Santro Xing Model Number 6255Clear-17 Type Floor Mat Vehicle Brand Hyundai Model Name NA Material PVC Color Clear In the box Sales Package 5 Floor mats",
+            "stock_level": 1519,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1402,
+            "stock_keeping_unit": "CRTEHSS9BDYRCEFC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/r/z/q/6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg",
+                "filename": "6255clear-48-packy-poda-na-original-imaehh3y5vvtzfaj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/f/r/b/6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg",
+                "filename": "6255clear-45-packy-poda-na-original-imaehh3yhhu8e8mz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/h/p/6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg",
+                "filename": "6255clear-46-packy-poda-na-original-imaehh3yzsuqwtfe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Packy Poda"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Santro Xing"] },
+              { "key": "Model Number", "values": ["6255Clear-17"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Hyundai"] },
+              { "key": "Model Name", "values": ["NA"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["5 Floor mats"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "810792066af024016a48fbb086c4ef354b82ae70" }
+      },
+      "active": true,
+      "id": "97b23e8f3d2abca9b0bcf85994d8b529bcf25be8"
+    },
+    {
+      "product": {
+        "id": "a97146a1009d92dc4d50a5c288e6dceaab6a13a3",
+        "name": "BASRA uepgrn Green Changing Table",
+        "description": "Dummy description for product BASRA uepgrn Green Changing Table",
+        "manufacturer_id": "4e66a98ce2869e406b3af86a58e8d76923fcfc11",
+        "taric_code": "e5d1a6c9-fe48-49ae-bad0-ede186fc2ce3",
+        "variants": [
+          {
+            "id": "70461caa9038cfa34d109ea056d57f5a",
+            "name": "BASRA uepgrn Green Changing Table",
+            "description": "Specifications of BASRA uepgrn Green Changing Table General Brand BASRA Model Number tab-pgrn01 Shade green Model Name uepgrn Color Green Body and Design Features Changing Pad Included No Safety Strap Included No Material Plastic Wheels Included No Dimensions Weight 3.5 kg Height 21 cm Width 12 cm Depth 12 cm In the Box changing table Additional Features Other Features easily to use",
+            "stock_level": 7813,
+            "price": 2499,
+            "sale": true,
+            "sale_price": 1099,
+            "stock_keeping_unit": "DSEEHETVWRX9FZDT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/changing-table/z/d/t/tab-pgrn01-basra-1100x1100-imaehe7cyk8tpc9y.jpeg",
+                "filename": "tab-pgrn01-basra-1100x1100-imaehe7cyk8tpc9y.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/changing-table/z/d/t/tab-pgrn01-basra-original-imaehe7cyk8tpc9y.jpeg",
+                "filename": "tab-pgrn01-basra-original-imaehe7cyk8tpc9y.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["BASRA"] },
+              { "key": "Model Number", "values": ["tab-pgrn01"] },
+              { "key": "Shade", "values": ["green"] },
+              { "key": "Model Name", "values": ["uepgrn"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Changing Pad Included", "values": ["No"] },
+              { "key": "Safety Strap Included", "values": ["No"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Wheels Included", "values": ["No"] },
+              { "key": "Weight", "values": ["3.5 kg"] },
+              { "key": "Height", "values": ["21 cm"] },
+              { "key": "Width", "values": ["12 cm"] },
+              { "key": "Depth", "values": ["12 cm"] },
+              {
+                "key": "52b67143-23df-4b00-9be8-f1c7c8c90fa9",
+                "values": ["changing table"]
+              },
+              { "key": "Other Features", "values": ["easily to use"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2ce682d7b4a075ad9920f151b526506d7eb76672" }
+      },
+      "active": true,
+      "id": "a97146a1009d92dc4d50a5c288e6dceaab6a13a3"
+    },
+    {
+      "product": {
+        "id": "af7fef36dfa2c211aec839d805f3e0ce7cff6bdf",
+        "name": "Smart Choice Furniture Wooden Standard Shoe Rack",
+        "description": "Dummy description for product Smart Choice Furniture Wooden Standard Shoe Rack",
+        "manufacturer_id": "1db52167bcc8f8e424c169cffdfe78531bb3c08f",
+        "taric_code": "1d1b72a7-47af-4127-8603-0890a75a1a8d",
+        "variants": [
+          {
+            "id": "aef6257f55a51967c9e4a52f36d5c906",
+            "name": "Smart Choice Furniture Wooden Standard Shoe Rack",
+            "description": "Specifications of Smart Choice Furniture Wooden Standard Shoe Rack General Brand Smart Choice Furniture Model Number JISR02 Type Standard Shoe Rack Material Wooden Dimensions Weight 8 kg Height 100 cm Width 90 cm Disclaimer - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting, pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting, pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart, or the Seller delivering the product, will not take up any type of civil work, such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine, wiping the surface with a cloth will help clear the surface of dust particles Body & Design Features Wall Mount Support No In the Box 1 Shoe Rack Additional Features Care Instructions Wipe with a Clean Cloth, Do not keep this exposed to Sunlight Delivery Condition Pre-assembled",
+            "stock_level": 4230,
+            "price": 34168,
+            "sale": false,
+            "sale_price": 25499,
+            "stock_keeping_unit": "SHKEHCGRHFFCFYKK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shoe-rack/y/k/k/jisr02-smart-choice-furniture-1100x1100-imaehbfabh26pavg.jpeg",
+                "filename": "jisr02-smart-choice-furniture-1100x1100-imaehbfabh26pavg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe-rack/y/k/k/jisr02-smart-choice-furniture-original-imaehbfabh26pavg.jpeg",
+                "filename": "jisr02-smart-choice-furniture-original-imaehbfabh26pavg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe-rack/y/k/k/jisr02-smart-choice-furniture-original-imaehbfanbdtjbja.jpeg",
+                "filename": "jisr02-smart-choice-furniture-original-imaehbfanbdtjbja.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe-rack/y/k/k/jisr02-smart-choice-furniture-original-imaehbfahhxztssx.jpeg",
+                "filename": "jisr02-smart-choice-furniture-original-imaehbfahhxztssx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe-rack/y/k/k/jisr02-smart-choice-furniture-original-imaehbfaft6vzcnu.jpeg",
+                "filename": "jisr02-smart-choice-furniture-original-imaehbfaft6vzcnu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe-rack/y/k/k/jisr02-smart-choice-furniture-original-imaehbfamvjppxyj.jpeg",
+                "filename": "jisr02-smart-choice-furniture-original-imaehbfamvjppxyj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Smart Choice Furniture"] },
+              { "key": "Model Number", "values": ["JISR02"] },
+              { "key": "Type", "values": ["Standard Shoe Rack"] },
+              { "key": "Material", "values": ["Wooden"] },
+              { "key": "Weight", "values": ["8 kg"] },
+              { "key": "Height", "values": ["100 cm"] },
+              { "key": "Width", "values": ["90 cm"] },
+              {
+                "key": "d70333e0-0806-4308-b82e-3a402af7a638",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              { "key": "Wall Mount Support", "values": ["No"] },
+              {
+                "key": "1be7ab03-0d1c-4410-b6c3-23be7c784bc3",
+                "values": ["1 Shoe Rack"]
+              },
+              {
+                "key": "Care Instructions",
+                "values": [
+                  "Wipe with a Clean Cloth",
+                  "Do not keep this exposed to Sunlight"
+                ]
+              },
+              { "key": "Delivery Condition", "values": ["Pre-assembled"] }
+            ]
+          },
+          {
+            "id": "2b8362aa1b77e9e315d6e683a320c674",
+            "name": "Smart Choice Furniture Wooden Standard Shoe Rack",
+            "description": "Specifications of Smart Choice Furniture Wooden Standard Shoe Rack General Brand Smart Choice Furniture Model Number JISR03 Type Standard Shoe Rack Material Wooden Dimensions Weight 8 kg Height 90 cm Width 65 cm Disclaimer - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting, pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting, pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart, or the Seller delivering the product, will not take up any type of civil work, such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine, wiping the surface with a cloth will help clear the surface of dust particles Body & Design Features Wall Mount Support No In the Box 1 Shoe Rack Additional Features Care Instructions Wipe with a Clean Cloth, Do not keep this exposed to Sunlight Delivery Condition Pre-assembled",
+            "stock_level": 2194,
+            "price": 24922,
+            "sale": false,
+            "sale_price": 18599,
+            "stock_keeping_unit": "SHKEHCGRNFGTNGNZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shoe-rack/g/n/z/jisr03-smart-choice-furniture-1100x1100-imaehbf99xnxfxfv.jpeg",
+                "filename": "jisr03-smart-choice-furniture-1100x1100-imaehbf99xnxfxfv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe-rack/g/n/z/jisr03-smart-choice-furniture-original-imaehbf99xnxfxfv.jpeg",
+                "filename": "jisr03-smart-choice-furniture-original-imaehbf99xnxfxfv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe-rack/g/n/z/jisr03-smart-choice-furniture-original-imaehbf9k4py2afw.jpeg",
+                "filename": "jisr03-smart-choice-furniture-original-imaehbf9k4py2afw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe-rack/g/n/z/jisr03-smart-choice-furniture-original-imaehbf9ymjenmjs.jpeg",
+                "filename": "jisr03-smart-choice-furniture-original-imaehbf9ymjenmjs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe-rack/g/n/z/jisr03-smart-choice-furniture-original-imaehbf9mwgnbfuy.jpeg",
+                "filename": "jisr03-smart-choice-furniture-original-imaehbf9mwgnbfuy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe-rack/g/n/z/jisr03-smart-choice-furniture-original-imaehbf9mv6y37ar.jpeg",
+                "filename": "jisr03-smart-choice-furniture-original-imaehbf9mv6y37ar.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Smart Choice Furniture"] },
+              { "key": "Model Number", "values": ["JISR03"] },
+              { "key": "Type", "values": ["Standard Shoe Rack"] },
+              { "key": "Material", "values": ["Wooden"] },
+              { "key": "Weight", "values": ["8 kg"] },
+              { "key": "Height", "values": ["90 cm"] },
+              { "key": "Width", "values": ["65 cm"] },
+              {
+                "key": "17b8b509-c822-4b7d-bc2e-bcba47bb9d02",
+                "values": [
+                  "- The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through...View More - The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting",
+                  "pixel quality and color settings - Please check the product's dimensions to ensure the product will fit in the desired location. Also",
+                  "check if the product will fit through the entrance(s) and door(s) of the premises - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels - Flipkart",
+                  "or the Seller delivering the product",
+                  "will not take up any type of civil work",
+                  "such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required - In case the product appears to lack shine",
+                  "wiping the surface with a cloth will help clear the surface of dust particles"
+                ]
+              },
+              { "key": "Wall Mount Support", "values": ["No"] },
+              {
+                "key": "d26695b9-565c-43db-8fd4-196841d4de64",
+                "values": ["1 Shoe Rack"]
+              },
+              {
+                "key": "Care Instructions",
+                "values": [
+                  "Wipe with a Clean Cloth",
+                  "Do not keep this exposed to Sunlight"
+                ]
+              },
+              { "key": "Delivery Condition", "values": ["Pre-assembled"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2b60667649bff3492af95b53abfdc594d4df2c10" }
+      },
+      "active": true,
+      "id": "af7fef36dfa2c211aec839d805f3e0ce7cff6bdf"
+    },
+    {
+      "product": {
+        "id": "813e9efa1a77547c9d7b7c0d4ee7dc9ed0cde151",
+        "name": "Playhood CB01",
+        "description": "Dummy description for product Playhood CB01",
+        "manufacturer_id": "0347edbe206de8c2947db5bbc6545fb37f7c0e97",
+        "taric_code": "d8cb1691-7db5-4cea-9c5c-2e9a5bee7fbe",
+        "variants": [
+          {
+            "id": "462282acb11c0dcde0cc1f468c4f6a85",
+            "name": "Playhood CB01 (Blue)",
+            "description": "Specifications of Playhood CB01 (Blue) Important Note The color of some product parts may vary from what is shown in the image General Ideal for Boys, Girls Type Tents & Camping Sets Character Chhota Bheem Additional Features Important Note The color of some product parts may vary from what is shown in the image Other Features role play",
+            "stock_level": 2510,
+            "price": 989,
+            "sale": false,
+            "sale_price": 949,
+            "stock_keeping_unit": "OTYEHQ3FPHGKV36X",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/outdoor-toy/3/6/x/playhood-cb01-original-imaehm6p4pek2vcc.jpeg",
+                "filename": "playhood-cb01-original-imaehm6p4pek2vcc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/outdoor-toy/3/6/x/playhood-cb01-original-imaehm6p4pek2vcc.jpeg",
+                "filename": "playhood-cb01-original-imaehm6p4pek2vcc.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "e89401ba-2bd5-4d66-b869-c0f8ed6e5411",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              { "key": "Ideal for", "values": ["Boys", "Girls"] },
+              { "key": "Type", "values": ["Tents and Camping Sets"] },
+              { "key": "Character", "values": ["Chhota Bheem"] },
+              {
+                "key": "Important Note",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              { "key": "Other Features", "values": ["role play"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "17083e77d784f25abfa6508c2a5fd4b2de7ec3a2" }
+      },
+      "active": true,
+      "id": "813e9efa1a77547c9d7b7c0d4ee7dc9ed0cde151"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

@@ -1,0 +1,21 @@
+{
+  "resource_list": [
+    { "entity": "organization" },
+    { "entity": "contact_point" },
+    { "entity": "address" },
+    { "entity": "contact_point_type" },
+    { "entity": "country" },
+    { "entity": "product" },
+    { "entity": "product_prototype" },
+    { "entity": "product_category" },
+    { "entity": "manufacturer" },
+    { "entity": "price_group" },
+    { "entity": "tax" },
+    { "entity": "tax_type" },
+    { "entity": "locale" },
+    { "entity": "timezone" },
+    { "entity": "command" },
+    { "entity": "fulfillment_courier" }
+  ],
+  "mutation": "mutation{deleteResources(input:{listOfResources: ${resource_list} }) {deleteStatus, error{code, message} }}"
+}

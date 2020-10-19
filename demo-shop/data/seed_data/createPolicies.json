@@ -1,0 +1,7 @@
+{
+  "yaml_file_paths":[
+    "./data/seed_data/createPolicies.yml"
+  ],
+  "mutation": "mutation createPolicies($var: createPoliciesInput!){ createPolicies(input : $var){ details {id}, error{code, message} } }",
+  "queryVariables": "listOfPolicies"
+}

@@ -1,0 +1,3235 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "75c593fa08b6423de8f52ff3c6556b4d9b05c717",
+        "name": "Pepe Jeans Wayfarer Sunglasses",
+        "description": "Dummy description for product Pepe Jeans Wayfarer Sunglasses",
+        "manufacturer_id": "8284b2a93fb686a4913453c6453384da3ad04f44",
+        "taric_code": "ca3fd83b-3f8d-4cfb-97be-3179bcf94ab3",
+        "variants": [
+          {
+            "id": "0914795a3f263433344a413efa9cb275",
+            "name": "Pepe Jeans Wayfarer Sunglasses",
+            "description": "Specifications of Pepe Jeans Wayfarer Sunglasses General Style Wayfarer Style Code PJ7242C3 Ideal For Men, Women Usage Style Dimensions Size This product is sold as M by the Brand Features & Functions Lens Color Green Frame material Polycarbonate Lens Material Polycarbonate Frame Type Full-frame Frame Color Transparent",
+            "stock_level": 6254,
+            "price": 1699,
+            "sale": false,
+            "sale_price": 1359,
+            "stock_keeping_unit": "SGLEJ56EJCFSKJTY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/j/t/y/pj7242c3-pepe-jeans-m-1100x1100-imaej3hhw4hebyap.jpeg",
+                "filename": "pj7242c3-pepe-jeans-m-1100x1100-imaej3hhw4hebyap.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/j/t/y/pj7242c3-pepe-jeans-m-original-imaej3hhw4hebyap.jpeg",
+                "filename": "pj7242c3-pepe-jeans-m-original-imaej3hhw4hebyap.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/j/t/y/pj7242c3-pepe-jeans-m-original-imaej3hhhf8kezah.jpeg",
+                "filename": "pj7242c3-pepe-jeans-m-original-imaej3hhhf8kezah.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/v/2/z/pj7243c4-pepe-jeans-m-original-imaej3hkfyhhdvvq.jpeg",
+                "filename": "pj7243c4-pepe-jeans-m-original-imaej3hkfyhhdvvq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/j/t/y/pj7242c3-pepe-jeans-m-original-imaej3hhsmxgzfbp.jpeg",
+                "filename": "pj7242c3-pepe-jeans-m-original-imaej3hhsmxgzfbp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/j/t/y/pj7242c3-pepe-jeans-m-original-imaej3hhhgh6ns3w.jpeg",
+                "filename": "pj7242c3-pepe-jeans-m-original-imaej3hhhgh6ns3w.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Wayfarer"] },
+              { "key": "Style Code", "values": ["PJ7242C3"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Usage", "values": ["Style"] },
+              {
+                "key": "Size",
+                "values": ["This product is sold as M by the Brand"]
+              },
+              { "key": "Lens Color", "values": ["Green"] },
+              { "key": "Frame material", "values": ["Polycarbonate"] },
+              { "key": "Lens Material", "values": ["Polycarbonate"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["Transparent"] }
+            ]
+          },
+          {
+            "id": "d3a86f6fee39106821c091d2fe8420db",
+            "name": "Pepe Jeans Wayfarer Sunglasses",
+            "description": "Key Features of Pepe Jeans Wayfarer Sunglasses Face Type - Square Frame Type - Full-frame,Specifications of Pepe Jeans Wayfarer Sunglasses General Style Wayfarer Style Code PJ7243C4 Ideal For Men, Women Usage Style Dimensions Size This product is sold as M by the Brand Features & Functions Lens Color Yellow Frame material Polycarbonate Lens Material Polycarbonate Frame Type Full-frame Frame Color Blue",
+            "stock_level": 6463,
+            "price": 2199,
+            "sale": true,
+            "sale_price": 1759,
+            "stock_keeping_unit": "SGLEJ56EENJEMV2Z",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/v/2/z/pj7243c4-pepe-jeans-m-1100x1100-imaej3hkngfxvsdw.jpeg",
+                "filename": "pj7243c4-pepe-jeans-m-1100x1100-imaej3hkngfxvsdw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/v/2/z/pj7243c4-pepe-jeans-m-original-imaej3hkngfxvsdw.jpeg",
+                "filename": "pj7243c4-pepe-jeans-m-original-imaej3hkngfxvsdw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/v/2/z/pj7243c4-pepe-jeans-m-original-imaej3hksykhhy7w.jpeg",
+                "filename": "pj7243c4-pepe-jeans-m-original-imaej3hksykhhy7w.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/v/2/z/pj7243c4-pepe-jeans-m-original-imaej3hkfyhhdvvq.jpeg",
+                "filename": "pj7243c4-pepe-jeans-m-original-imaej3hkfyhhdvvq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/v/2/z/pj7243c4-pepe-jeans-m-original-imaej3hkshdtftgh.jpeg",
+                "filename": "pj7243c4-pepe-jeans-m-original-imaej3hkshdtftgh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/v/2/z/pj7243c4-pepe-jeans-m-original-imaej3hkjvx47hj8.jpeg",
+                "filename": "pj7243c4-pepe-jeans-m-original-imaej3hkjvx47hj8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Wayfarer"] },
+              { "key": "Style Code", "values": ["PJ7243C4"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Usage", "values": ["Style"] },
+              {
+                "key": "Size",
+                "values": ["This product is sold as M by the Brand"]
+              },
+              { "key": "Lens Color", "values": ["Yellow"] },
+              { "key": "Frame material", "values": ["Polycarbonate"] },
+              { "key": "Lens Material", "values": ["Polycarbonate"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["Blue"] }
+            ]
+          }
+        ],
+        "category": { "id": "addcb05a8b8572ce0eedc47d8cad03bb0eaf5a71" }
+      },
+      "active": true,
+      "id": "75c593fa08b6423de8f52ff3c6556b4d9b05c717"
+    },
+    {
+      "product": {
+        "id": "5332de7881675c1f62c19e7dc27626f6533484e8",
+        "name": "Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 17 MA897LLA 85 Adapter",
+        "description": "Dummy description for product Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 17 MA897LLA 85 Adapter",
+        "manufacturer_id": "f134944b3ee1f472b0884ff04da76799f43227ac",
+        "taric_code": "0e5b0a0a-a632-47e7-8e41-8b140de209c5",
+        "variants": [
+          {
+            "id": "d7fded8e211b3033e424fb450b97caec",
+            "name": "Hako 85W Magsafe Laptop Charger For APPLE MacBoo...",
+            "description": "Key Features of Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 17 MA897LLA 85 Adapter Designed For: APPLE MacBook Pro 17\" MB133LL/A MAGSAFE,Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 17 MA897LLA 85 Adapter Price: Rs. 1,849 Hako laptop adapters come with high quality certification and are compatible with respective brands, all adapters are equipped with protection circuit to protect the laptop all adapters come with 1year warranty.,Specifications of Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 17 MA897LLA 85 Adapter General Brand Hako Designed For APPLE MacBook Pro 17\" MB133LL/A MAGSAFE Sales Package 1 Laptop Adapter Model Name APPLE MacBook Pro 17\" MB133LL/A MAGSAFE Model Id 85W Magsafe Laptop Charger For APPLE MacBook Pro 17 MA897LLA Power Power Consumption (W) 85 W Warranty Covered in Warranty Manufacturing Defects Only Warranty Summary 1 Year Warranty Warranty Service Type To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier Not Covered in Warranty Any Physcal Damage will not be covered under warranty",
+            "stock_level": 9212,
+            "price": 2499,
+            "sale": true,
+            "sale_price": 1849,
+            "stock_keeping_unit": "ACCEJ6TFUBHAYTM8",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/a/n/3/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt2ydpyxgxm.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt2ydpyxgxm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/t/m/e/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt245ybvns6.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt245ybvns6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/x/h/t/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt2gda3dxhz.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt2gda3dxhz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/m/y/d/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-mb471ja-original-imaegwt2xw7zqcdy.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-mb471ja-original-imaegwt2xw7zqcdy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/z/u/6/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-17-a1150-original-imaej3kefgkd2qme.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-17-a1150-original-imaej3kefgkd2qme.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Hako"] },
+              {
+                "key": "Designed For",
+                "values": ["APPLE MacBook Pro 17\\\" MB133LL/A MAGSAFE"]
+              },
+              { "key": "Sales Package", "values": ["1 Laptop Adapter"] },
+              {
+                "key": "Model Name",
+                "values": ["APPLE MacBook Pro 17\\\" MB133LL/A MAGSAFE"]
+              },
+              {
+                "key": "Model Id",
+                "values": [
+                  "85W Magsafe Laptop Charger For APPLE MacBook Pro 17 MA897LLA"
+                ]
+              },
+              { "key": "Power Consumption (W)", "values": ["85 W"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects Only"]
+              },
+              { "key": "Warranty Summary", "values": ["1 Year Warranty"] },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Any Physcal Damage will not be covered under warranty"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "77e13cf4e8f5b8e6a799f837ac87d11e66a84275" }
+      },
+      "active": true,
+      "id": "5332de7881675c1f62c19e7dc27626f6533484e8"
+    },
+    {
+      "product": {
+        "id": "0646333fbac0d51536998c9323d37c8f23f66560",
+        "name": "Mikado Aviator Sunglasses",
+        "description": "Dummy description for product Mikado Aviator Sunglasses",
+        "manufacturer_id": "ff794a62b77a39a377bfd25d17f00aea3d674813",
+        "taric_code": "115b55d4-14c7-42e8-88aa-c02383b8ca7f",
+        "variants": [
+          {
+            "id": "6c7251fa2b6ea429cde8f61d21076004",
+            "name": "Mikado Aviator Sunglasses",
+            "description": "Key Features of Mikado Aviator Sunglasses Face Type - Round Frame Type - Full-frame,Specifications of Mikado Aviator Sunglasses General Style Aviator Style Code King style3 Ideal For Men, Women Usage Eye Protection, Style Dimensions Size This product is sold as Free Size by the Brand Features & Functions Lens Color Green Frame material Metal Lens Material Glass Frame Type Full-frame Frame Color Golden",
+            "stock_level": 8325,
+            "price": 699,
+            "sale": false,
+            "sale_price": 179,
+            "stock_keeping_unit": "SGLEJJA6TVC2KYUH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/y/u/h/king-style3-mikado-free-size-original-imaejgxakukb4hfw.jpeg",
+                "filename": "king-style3-mikado-free-size-original-imaejgxakukb4hfw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/y/u/h/king-style3-mikado-free-size-original-imaejgt7grt5hbu3.jpeg",
+                "filename": "king-style3-mikado-free-size-original-imaejgt7grt5hbu3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/y/u/h/king-style3-mikado-free-size-original-imaejgt73zbxkmhu.jpeg",
+                "filename": "king-style3-mikado-free-size-original-imaejgt73zbxkmhu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Aviator"] },
+              { "key": "Style Code", "values": ["King style3"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Usage", "values": ["Eye Protection", "Style"] },
+              {
+                "key": "Size",
+                "values": ["This product is sold as Free Size by the Brand"]
+              },
+              { "key": "Lens Color", "values": ["Green"] },
+              { "key": "Frame material", "values": ["Metal"] },
+              { "key": "Lens Material", "values": ["Glass"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["Golden"] }
+            ]
+          }
+        ],
+        "category": { "id": "addcb05a8b8572ce0eedc47d8cad03bb0eaf5a71" }
+      },
+      "active": true,
+      "id": "0646333fbac0d51536998c9323d37c8f23f66560"
+    },
+    {
+      "product": {
+        "id": "f7247fdb475aea9945b9225ef792fe829b246ab3",
+        "name": "Damemoda Wayfarer Sunglasses",
+        "description": "Dummy description for product Damemoda Wayfarer Sunglasses",
+        "manufacturer_id": "1b9936a96bb75690abc4c998fcb0d9d464ada05b",
+        "taric_code": "a9cd3c4e-f542-4ad6-825c-e51080381fd8",
+        "variants": [
+          {
+            "id": "5721f50e8841fd534b5765359365445a",
+            "name": "Damemoda Wayfarer Sunglasses",
+            "description": "Specifications of Damemoda Wayfarer Sunglasses General Style Wayfarer Style Code DGCM100003 Ideal For Boys, Men, Women, Girls Usage Style, Driving, Biking, Eye Protection Dimensions Size The product measurement specified by the Brand is FREE mm Features & Functions Lens Color Brown, Grey Lens Material Mineral Glass Frame material Polycarbonate Frame Type Full-frame Frame Color black",
+            "stock_level": 8684,
+            "price": 1145,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "SGLEJFUHZSTHYJZF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/j/z/f/dgcm100003-damemoda-free-1100x1100-imaegmv79h2azzv9.jpeg",
+                "filename": "dgcm100003-damemoda-free-1100x1100-imaegmv79h2azzv9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/j/z/f/dgcm100003-damemoda-free-original-imaegmv79h2azzv9.jpeg",
+                "filename": "dgcm100003-damemoda-free-original-imaegmv79h2azzv9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/j/z/f/dgcm100003-damemoda-free-original-imaehwkpeuubzmua.jpeg",
+                "filename": "dgcm100003-damemoda-free-original-imaehwkpeuubzmua.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/j/z/f/dgcm100003-damemoda-free-original-imaehwkphmq97gzq.jpeg",
+                "filename": "dgcm100003-damemoda-free-original-imaehwkphmq97gzq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/j/z/f/dgcm100003-damemoda-free-original-imaegy9r8yp93xhd.jpeg",
+                "filename": "dgcm100003-damemoda-free-original-imaegy9r8yp93xhd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Wayfarer"] },
+              { "key": "Style Code", "values": ["DGCM100003"] },
+              {
+                "key": "Ideal For",
+                "values": ["Boys", "Men", "Women", "Girls"]
+              },
+              {
+                "key": "Usage",
+                "values": ["Style", "Driving", "Biking", "Eye Protection"]
+              },
+              {
+                "key": "Size",
+                "values": [
+                  "The product measurement specified by the Brand is FREE mm"
+                ]
+              },
+              { "key": "Lens Color", "values": ["Brown", "Grey"] },
+              { "key": "Lens Material", "values": ["Mineral Glass"] },
+              { "key": "Frame material", "values": ["Polycarbonate"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["black"] }
+            ]
+          },
+          {
+            "id": "1ec8fe9d0a1910b96c62785899a2613f",
+            "name": "Damemoda Wayfarer Sunglasses",
+            "description": "Key Features of Damemoda Wayfarer Sunglasses Face Type - Heart, Square, Round, Oval Frame Type - Full-frame,Specifications of Damemoda Wayfarer Sunglasses General Style Wayfarer Style Code DACM100003 Ideal For Boys, Men, Girls, Women Usage Driving, Style, Biking, Eye Protection Dimensions Size The product measurement specified by the Brand is FREE mm Features & Functions Lens Color Brown, Grey Frame material Polycarbonate Lens Material Mineral Glass Frame Type Full-frame Frame Color BLACK",
+            "stock_level": 4437,
+            "price": 999,
+            "sale": true,
+            "sale_price": 269,
+            "stock_keeping_unit": "SGLEJFM3XXXGKXDA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/x/d/a/dacm100003-damemoda-free-1100x1100-imaegmv79h2azzv9.jpeg",
+                "filename": "dacm100003-damemoda-free-1100x1100-imaegmv79h2azzv9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/x/d/a/dacm100003-damemoda-free-original-imaegmv79h2azzv9.jpeg",
+                "filename": "dacm100003-damemoda-free-original-imaegmv79h2azzv9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/x/d/a/dacm100003-damemoda-free-original-imaehwkpeuubzmua.jpeg",
+                "filename": "dacm100003-damemoda-free-original-imaehwkpeuubzmua.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/x/d/a/dacm100003-damemoda-free-original-imaehwkphmq97gzq.jpeg",
+                "filename": "dacm100003-damemoda-free-original-imaehwkphmq97gzq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/x/d/a/dacm100003-damemoda-free-original-imaegy9r8yp93xhd.jpeg",
+                "filename": "dacm100003-damemoda-free-original-imaegy9r8yp93xhd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Wayfarer"] },
+              { "key": "Style Code", "values": ["DACM100003"] },
+              {
+                "key": "Ideal For",
+                "values": ["Boys", "Men", "Girls", "Women"]
+              },
+              {
+                "key": "Usage",
+                "values": ["Driving", "Style", "Biking", "Eye Protection"]
+              },
+              {
+                "key": "Size",
+                "values": [
+                  "The product measurement specified by the Brand is FREE mm"
+                ]
+              },
+              { "key": "Lens Color", "values": ["Brown", "Grey"] },
+              { "key": "Frame material", "values": ["Polycarbonate"] },
+              { "key": "Lens Material", "values": ["Mineral Glass"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["BLACK"] }
+            ]
+          }
+        ],
+        "category": { "id": "addcb05a8b8572ce0eedc47d8cad03bb0eaf5a71" }
+      },
+      "active": false,
+      "id": "f7247fdb475aea9945b9225ef792fe829b246ab3"
+    },
+    {
+      "product": {
+        "id": "d0b2a7d531c9e6c6fb621f4327194f3d78a87881",
+        "name": "SG Ecolite Batting Gloves (Boys, White)",
+        "description": "Dummy description for product SG Ecolite Batting Gloves (Boys, White)",
+        "manufacturer_id": "3d71aee9bc2cbe17c42ba0a378dd2f8b5cea260c",
+        "taric_code": "aa111abd-264c-469c-a807-c1129b8ad5cf",
+        "variants": [
+          {
+            "id": "2e5f78a0e22663adb2be86834f7d63f1",
+            "name": "SG Ecolite Batting Gloves (Boys, White)",
+            "description": "Key Features of SG Ecolite Batting Gloves (Boys, White) Type: Batting Gloves Orientation: Right Ideal For: Boys Sport Type: Cricket,Specifications of SG Ecolite Batting Gloves (Boys, White) General Sport Type Cricket Right Hand Gloves Yes Type Batting Gloves Left Hand Gloves No Ideal For Boys Color White",
+            "stock_level": 5018,
+            "price": 429,
+            "sale": false,
+            "sale_price": 400,
+            "stock_keeping_unit": "SGEEJJ7AV4SFEM2B",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sport-glove/m/2/b/right-handed-right-200-sg-5-batting-gloves-ecolite-boys-1100x1100-imaejgf8t9spk9ca.jpeg",
+                "filename": "right-handed-right-200-sg-5-batting-gloves-ecolite-boys-1100x1100-imaejgf8t9spk9ca.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sport-glove/m/2/b/right-handed-right-200-sg-5-batting-gloves-ecolite-boys-original-imaejgf8t9spk9ca.jpeg",
+                "filename": "right-handed-right-200-sg-5-batting-gloves-ecolite-boys-original-imaejgf8t9spk9ca.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sport Type", "values": ["Cricket"] },
+              { "key": "Right Hand Gloves", "values": ["Yes"] },
+              { "key": "Type", "values": ["Batting Gloves"] },
+              { "key": "Left Hand Gloves", "values": ["No"] },
+              { "key": "Ideal For", "values": ["Boys"] },
+              { "key": "Color", "values": ["White"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6129a3dd7c5fbbb71ea465d4526595845e50b1e0" }
+      },
+      "active": true,
+      "id": "d0b2a7d531c9e6c6fb621f4327194f3d78a87881"
+    },
+    {
+      "product": {
+        "id": "ca45f231bacfe7f3a59324066a6f9458b6bbf8a2",
+        "name": "Ravetech 7\" Mp5 Mirror monitor, car rear view camera Combo",
+        "description": "Dummy description for product Ravetech 7\" Mp5 Mirror monitor, car rear view camera Combo",
+        "manufacturer_id": "82c1a1019c78fbeb0d4f77d1bb8ca3f1c9ef6274",
+        "taric_code": "b2e15598-1cea-4f66-ad56-791076a6e35a",
+        "variants": [
+          {
+            "id": "d5be97e54159b52cacf95b651db26e45",
+            "name": "Ravetech 7\\\" Mp5 Mirror monitor, car rear view ca...",
+            "description": "Key Features of Ravetech 7\" Mp5 Mirror monitor, car rear view camera Combo 2 Video Inputs Mirror Mount Auto Reverse Function Usb/Sd/Mmc Slot,Ravetech 7\" Mp5 Mirror monitor, car rear view camera Combo Price: Rs. 4,495 7\" Mp5 Mirror Monitor Can Be Used Independently For Viewing Movies/Video Songs & Playing Audio Songs Through Usb And Memory Card. It Can Also Be Connected To A Rear View Camera. It Has Built-In Speaker For Audio Output. It Can Also Be Connected To The Car Speakers By Fm Transmitter As Well As Audio Wiring Cables. It Has A Crisp And Sharp Led Display With Wide View Angle Of 160 Degrees.,Specifications of Ravetech 7\" Mp5 Mirror monitor, car rear view camera Combo General Brand Ravetech Vehicle Model Name NA Primary Product Type Car Media Player Weight 1 kg Model Number RT-302-7 Vehicle Brand Universal Warranty Covered in Warranty Warranty of the product is limited to manufacturing defects only. Service Type Customer Needs To Contact The Customer Care No/Mail Id And Report About The Malfunction. Then After Confirmation From The Seller, The Product Has To Be Sent To The Sellers Address For Repair/Service Along With The Photo Copy Of The Invoice And Warranty Card. Warranty Summary 1 Year Company Domestic Warranty Not Covered in Warranty REMOTE CONTROL, WIRE SOCKET, MOUNTING ACCESSORIES IS NOT COVERED UNDER WARRANTY. ANY WARRANTY CLAIM DUE TO PHYSICAL DAMAGE, WATER SEEPAGE, BURNT WIRING OR ANY CONSEQUENTIAL LOSS TO OTHER PARTS WOULD NOT BE ENTERTAINED. Warranty does not cover any external accessories (such as battery, cable, carryin...View More REMOTE CONTROL, WIRE SOCKET, MOUNTING ACCESSORIES IS NOT COVERED UNDER WARRANTY. ANY WARRANTY CLAIM DUE TO PHYSICAL DAMAGE, WATER SEEPAGE, BURNT WIRING OR ANY CONSEQUENTIAL LOSS TO OTHER PARTS WOULD NOT BE ENTERTAINED. Warranty does not cover any external accessories (such as battery, cable, carryin...View More. In the Box 7\" Mp5 Mirror monitor, car rear view camera",
+            "stock_level": 4348,
+            "price": 8470,
+            "sale": false,
+            "sale_price": 4495,
+            "stock_keeping_unit": "AVCEFURSJBG924HG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/automotive-combo/4/h/g/rt-302-7-ravetech-1100x1100-imaefkq2uz7gasjx.jpeg",
+                "filename": "rt-302-7-ravetech-1100x1100-imaefkq2uz7gasjx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/automotive-combo/4/h/g/rt-302-7-ravetech-original-imaefkq2uz7gasjx.jpeg",
+                "filename": "rt-302-7-ravetech-original-imaefkq2uz7gasjx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ravetech"] },
+              { "key": "Vehicle Model Name", "values": ["NA"] },
+              { "key": "Primary Product Type", "values": ["Car Media Player"] },
+              { "key": "Weight", "values": ["1 kg"] },
+              { "key": "Model Number", "values": ["RT-302-7"] },
+              { "key": "Vehicle Brand", "values": ["Universal"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Customer Needs To Contact The Customer Care No/Mail Id And Report About The Malfunction. Then After Confirmation From The Seller",
+                  "The Product Has To Be Sent To The Sellers Address For Repair/Service Along With The Photo Copy Of The Invoice And Warranty Card."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Company Domestic Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "REMOTE CONTROL",
+                  "WIRE SOCKET",
+                  "MOUNTING ACCESSORIES IS NOT COVERED UNDER WARRANTY. ANY WARRANTY CLAIM DUE TO PHYSICAL DAMAGE",
+                  "WATER SEEPAGE",
+                  "BURNT WIRING OR ANY CONSEQUENTIAL LOSS TO OTHER PARTS WOULD NOT BE ENTERTAINED. Warranty does not cover any external accessories (such as battery",
+                  "cable",
+                  "carryin...View More REMOTE CONTROL",
+                  "WIRE SOCKET",
+                  "MOUNTING ACCESSORIES IS NOT COVERED UNDER WARRANTY. ANY WARRANTY CLAIM DUE TO PHYSICAL DAMAGE",
+                  "WATER SEEPAGE",
+                  "BURNT WIRING OR ANY CONSEQUENTIAL LOSS TO OTHER PARTS WOULD NOT BE ENTERTAINED. Warranty does not cover any external accessories (such as battery",
+                  "cable",
+                  "carryin...View More."
+                ]
+              },
+              {
+                "key": "0470b867-3c90-4279-84e5-e11cd6dd1b89",
+                "values": ["7\\\" Mp5 Mirror monitor", "car rear view camera"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "89ed6e33b244d6d97345494b6d02f74854687ee4" }
+      },
+      "active": true,
+      "id": "ca45f231bacfe7f3a59324066a6f9458b6bbf8a2"
+    },
+    {
+      "product": {
+        "id": "a5a7cd7dfb3cbe8827d9c53ef0719e76778495d7",
+        "name": "AdroitZ 1 White & Blue Two Wheeler Cover, 2 Beige Arm sleeves Combo",
+        "description": "Dummy description for product AdroitZ 1 White & Blue Two Wheeler Cover, 2 Beige Arm sleeves Combo",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "9dd63eeb-bcea-48b4-89fc-e5f352ad81be",
+        "variants": [
+          {
+            "id": "be5370b05503757766d8cae326ce7d65",
+            "name": "AdroitZ 1 White & Blue Two Wheeler Cover, 2 Beig...",
+            "description": "Key Features of AdroitZ 1 White & Blue Two Wheeler Cover, 2 Beige Arm sleeves Combo all products : 100% New Brand stylish look easy to use Easy to Wash Durable Bike body cover : Dual Mirror Pockets Very Economical Dust Resistant Water Resistant UV Rays Protection Arm sleeves : 100% Breathable Stretchable Very soft material 6 MONTHS QUALITY ASSURANCE For Outdoor Activities UV ray Protection Easily wearable bike body cover : Protection against sun damage to bike 's paint and leather Special mirror pockets,AdroitZ 1 White & Blue Two Wheeler Cover, 2 Beige Arm sleeves Combo Price: Rs. 399 White & Blue Bike Body Cover:- AdroitZ Presents to you Bike covers which are indispensable products of service that protect your bike from dust and scratches. Bike covers help prolong the beauty of the bike while protecting it from the harsh weather conditions. A must have product for a real bike lover who wants to keep their bike in new like condition. Beige Arm sleeves:- These ARM SLEEVES are made from the fabric used for making swimming costumes and other highly comfortable sports costumes. This material is specially imported for long lasting strength of the fabric, soothing feel to the skin and air flow in the summers. The material even being thick, lets the air flow uninterrupted. These ADROITZ ARM SLEEVES are specially designed to protect exposed skin from harmful rays, the arm sleeves (sold by the pair) offer a comfortable stretch fit with lightweight, heavy nylon Lycra. Note: this is a universal product kindly check your exact specification before ordering.,Specifications of AdroitZ 1 White & Blue Two Wheeler Cover, 2 Beige Arm sleeves Combo General Brand AdroitZ Vehicle Model Name Discover 125 DTS-i Primary Product Type Bike Body Cover Model Number bgearmslvWthblubbc-10 Vehicle Brand Bajaj Vehicle Model Year 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016 Secondary Product Type Arm Sleeves In the Box 1 White & Blue Two Wheeler Cover, 2 Beige Arm sleeves",
+            "stock_level": 9314,
+            "price": 629,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "AVCEJCJSV7YSUEGN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/automotive-combo/u/c/g/bgearmslvwthblubbc-99-adroitz-original-imaej2gzq2qyfuzs.jpeg",
+                "filename": "bgearmslvwthblubbc-99-adroitz-original-imaej2gzq2qyfuzs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/automotive-combo/u/c/g/bgearmslvwthblubbc-99-adroitz-original-imaej2gzq2qyfuzs.jpeg",
+                "filename": "bgearmslvwthblubbc-99-adroitz-original-imaej2gzq2qyfuzs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Vehicle Model Name", "values": ["Discover 125 DTS-i"] },
+              { "key": "Primary Product Type", "values": ["Bike Body Cover"] },
+              { "key": "Model Number", "values": ["bgearmslvWthblubbc-10"] },
+              { "key": "Vehicle Brand", "values": ["Bajaj"] },
+              {
+                "key": "Vehicle Model Year",
+                "values": [
+                  "2005",
+                  "2006",
+                  "2007",
+                  "2008",
+                  "2009",
+                  "2010",
+                  "2011",
+                  "2012",
+                  "2013",
+                  "2014",
+                  "2015",
+                  "2016"
+                ]
+              },
+              { "key": "Secondary Product Type", "values": ["Arm Sleeves"] },
+              {
+                "key": "d5f2b8c8-0f48-488e-bd76-8ecf75a8063a",
+                "values": [
+                  "1 White and Blue Two Wheeler Cover",
+                  "2 Beige Arm sleeves"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "89ed6e33b244d6d97345494b6d02f74854687ee4" }
+      },
+      "active": true,
+      "id": "a5a7cd7dfb3cbe8827d9c53ef0719e76778495d7"
+    },
+    {
+      "product": {
+        "id": "f979aae4936814a7f713f3f4fe3f2865dfbdd50d",
+        "name": "HH Oval Sunglasses",
+        "description": "Dummy description for product HH Oval Sunglasses",
+        "manufacturer_id": "1ec98f066d72d944ac68c6f5ca29efb127f02659",
+        "taric_code": "11ec7ba1-bd9c-40f7-8be2-968848e34b8a",
+        "variants": [
+          {
+            "id": "3b3d38823e8b24611e216bfc76084331",
+            "name": "HH Oval Sunglasses",
+            "description": "Key Features of HH Oval Sunglasses Face Type - Oval Frame Type - Full-frame,Specifications of HH Oval Sunglasses General Style Oval Style Code Ovalblk Ideal For Women, Girls Usage Style Dimensions Size This product is sold as Medium by the Brand Features & Functions Lens Color Black Lens Material CR 39 Frame material Plastic Frame Type Full-frame Frame Color Black",
+            "stock_level": 2930,
+            "price": 999,
+            "sale": true,
+            "sale_price": 299,
+            "stock_keeping_unit": "SGLEJJ6HEU8GVW4W",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/w/4/w/ovalblk-hh-medium-original-imaejg28urdqdr5c.jpeg",
+                "filename": "ovalblk-hh-medium-original-imaejg28urdqdr5c.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/w/4/w/ovalblk-hh-medium-original-imaejg28urdqdr5c.jpeg",
+                "filename": "ovalblk-hh-medium-original-imaejg28urdqdr5c.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/w/4/w/ovalblk-hh-medium-original-imaejg29xstzaa9c.jpeg",
+                "filename": "ovalblk-hh-medium-original-imaejg29xstzaa9c.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/w/4/w/ovalblk-hh-medium-original-imaejg29fm3rvxq5.jpeg",
+                "filename": "ovalblk-hh-medium-original-imaejg29fm3rvxq5.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/w/4/w/ovalblk-hh-medium-original-imaejg29zn9zrwmr.jpeg",
+                "filename": "ovalblk-hh-medium-original-imaejg29zn9zrwmr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/u/g/x/cateyeblk-hh-medium-original-imaegjnfwevzex9w.jpeg",
+                "filename": "cateyeblk-hh-medium-original-imaegjnfwevzex9w.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Oval"] },
+              { "key": "Style Code", "values": ["Ovalblk"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Usage", "values": ["Style"] },
+              {
+                "key": "Size",
+                "values": ["This product is sold as Medium by the Brand"]
+              },
+              { "key": "Lens Color", "values": ["Black"] },
+              { "key": "Lens Material", "values": ["CR 39"] },
+              { "key": "Frame material", "values": ["Plastic"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["Black"] }
+            ]
+          }
+        ],
+        "category": { "id": "addcb05a8b8572ce0eedc47d8cad03bb0eaf5a71" }
+      },
+      "active": true,
+      "id": "f979aae4936814a7f713f3f4fe3f2865dfbdd50d"
+    },
+    {
+      "product": {
+        "id": "a1de25ce6af3826be96f90845ce895170d6ac1d0",
+        "name": "CLYMB Men Sandals",
+        "description": "Dummy description for product CLYMB Men Sandals",
+        "manufacturer_id": "c2566b920a92bf6d0105851b1763bae89f3e327f",
+        "taric_code": "994de940-6347-4689-b73d-c8d2c81a31e0",
+        "variants": [
+          {
+            "id": "1dd73550fceded0e90113d2546dfb70b",
+            "name": "CLYMB Men Sandals",
+            "description": "Key Features of CLYMB Men Sandals Occasion: Casual Material: Synthetic Leather Color: Blue, Grey Heel Height: 0,Specifications of CLYMB Men Sandals General Ideal For Men Occasion Casual Sandal Details Weight 350 g (per single Sandal) - Weight of the product may vary depending on size. Heel Height 0 inch Outer Material Synthetic Leather Color BLUE",
+            "stock_level": 1906,
+            "price": 499,
+            "sale": false,
+            "sale_price": 225,
+            "stock_keeping_unit": "SNDEJCVWQNZUSVFY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/h/7/m/blue-grey-pu-1002-jabra-9-original-imaejcd9hgbyasg5.jpeg",
+                "filename": "blue-grey-pu-1002-jabra-9-original-imaejcd9hgbyasg5.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/h/7/m/blue-grey-pu-1002-jabra-9-original-imaejcd9hgbyasg5.jpeg",
+                "filename": "blue-grey-pu-1002-jabra-9-original-imaejcd9hgbyasg5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/h/7/m/blue-grey-pu-1002-jabra-9-original-imaejcd9dtbsp7fh.jpeg",
+                "filename": "blue-grey-pu-1002-jabra-9-original-imaejcd9dtbsp7fh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/e/u/z/blue-grey-pu-1002-jabra-10-original-imaejcd9u8hfprp7.jpeg",
+                "filename": "blue-grey-pu-1002-jabra-10-original-imaejcd9u8hfprp7.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/h/7/m/blue-grey-pu-1002-jabra-9-original-imaejcdacj5ggtkq.jpeg",
+                "filename": "blue-grey-pu-1002-jabra-9-original-imaejcdacj5ggtkq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/v/u/4/blue-grey-pu-1002-jabra-8-original-imaejcda6tydnduj.jpeg",
+                "filename": "blue-grey-pu-1002-jabra-8-original-imaejcda6tydnduj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "Weight",
+                "values": [
+                  "350 g (per single Sandal) - Weight of the product may vary depending on size."
+                ]
+              },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              { "key": "Outer Material", "values": ["Synthetic Leather"] },
+              { "key": "Color", "values": ["BLUE"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "5c7d31864728a3da874cd14d4f27d491e07ac7c3" }
+      },
+      "active": true,
+      "id": "a1de25ce6af3826be96f90845ce895170d6ac1d0"
+    },
+    {
+      "product": {
+        "id": "b2beb36a5c1b38a9cff2b9a2ffb50be25b786b0a",
+        "name": "Fabpoppy Women's Multicolor Capri",
+        "description": "Dummy description for product Fabpoppy Women's Multicolor Capri",
+        "manufacturer_id": "4e585c746d2770dd471fa8649725945720140ea8",
+        "taric_code": "f5d7df86-0111-4a73-9611-5d9f9f91f11c",
+        "variants": [
+          {
+            "id": "d54f88ea30607043b29f98165c4ee8ee",
+            "name": "Fabpoppy Women's Multicolor Capri",
+            "description": "Specifications of Fabpoppy Women's Multicolor Capri Capri Details Number of Contents in Sales Package Pack of 1 Fabric Cotton Fit Regular General Details Pattern Printed Ideal For Women's",
+            "stock_level": 4351,
+            "price": 899,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "CPIEJCN3ASM9ZRXE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/capri/r/x/k/f3646-fabpoppy-m-original-imaejchh9kwha5wk.jpeg",
+                "filename": "f3646-fabpoppy-m-original-imaejchh9kwha5wk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/capri/r/x/k/f3646-fabpoppy-m-original-imaejchh9kwha5wk.jpeg",
+                "filename": "f3646-fabpoppy-m-original-imaejchh9kwha5wk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/capri/z/b/b/f3646-fabpoppy-xxl-original-imaejchhgahwrtg8.jpeg",
+                "filename": "f3646-fabpoppy-xxl-original-imaejchhgahwrtg8.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/capri/z/b/b/f3646-fabpoppy-xl-original-imaejchhucbaawcw.jpeg",
+                "filename": "f3646-fabpoppy-xl-original-imaejchhucbaawcw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/capri/z/b/b/f3646-fabpoppy-xxl-original-imaejchhxgbutg8y.jpeg",
+                "filename": "f3646-fabpoppy-xxl-original-imaejchhxgbutg8y.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Women's"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c2aace79d76f811698cc228471e2bd9ef4a7fa48" }
+      },
+      "active": true,
+      "id": "b2beb36a5c1b38a9cff2b9a2ffb50be25b786b0a"
+    },
+    {
+      "product": {
+        "id": "c12b5354d1568577dc2331d07da36efcffee744c",
+        "name": "Columbus Men Sandals",
+        "description": "Dummy description for product Columbus Men Sandals",
+        "manufacturer_id": "8deebdc99dda13c2be0c8035d834da15162e9104",
+        "taric_code": "668fd456-3a02-4ba2-a983-f9109ce18516",
+        "variants": [
+          {
+            "id": "41ccaa21635564baca848551c309c80d",
+            "name": "Columbus Men Sandals",
+            "description": "Key Features of Columbus Men Sandals Brand-Columbus Comfortable Slippers Lightweight Stylish Design,Columbus Men Sandals Price: Rs. 499 Columbus-2511 D.Grey,Specifications of Columbus Men Sandals General Ideal For Men Occasion Casual Sandal Details Sole Material PU Closure Slip On Weight 150 g (per single Sandal) - Weight of the product may vary depending on size. Heel Height 0.2 inch Outer Material Suede Color D.Grey Additional Details Care Instructions Wash in Lukewarm Water, Do Not Bleach",
+            "stock_level": 9820,
+            "price": 499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "SNDEGAJFFK2KKKRF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/k/r/f/d-grey-columbus-2511-columbus-7-original-imaefrzuwj6rng8p.jpeg",
+                "filename": "d-grey-columbus-2511-columbus-7-original-imaefrzuwj6rng8p.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/k/r/f/d-grey-columbus-2511-columbus-7-original-imaefrzuwj6rng8p.jpeg",
+                "filename": "d-grey-columbus-2511-columbus-7-original-imaefrzuwj6rng8p.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/d/z/x/d-grey-columbus-2511-columbus-10-original-imaefrzugsyjhghr.jpeg",
+                "filename": "d-grey-columbus-2511-columbus-10-original-imaefrzugsyjhghr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/n/f/f/d-grey-columbus-2511-columbus-9-original-imaefrzugmurntcn.jpeg",
+                "filename": "d-grey-columbus-2511-columbus-9-original-imaefrzugmurntcn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/d/z/x/d-grey-columbus-2511-columbus-10-original-imaefrzuqdkgju5q.jpeg",
+                "filename": "d-grey-columbus-2511-columbus-10-original-imaefrzuqdkgju5q.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/n/f/f/d-grey-columbus-2511-columbus-9-original-imaefrzuzvvhn2mt.jpeg",
+                "filename": "d-grey-columbus-2511-columbus-9-original-imaefrzuzvvhn2mt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sole Material", "values": ["PU"] },
+              { "key": "Closure", "values": ["Slip On"] },
+              {
+                "key": "Weight",
+                "values": [
+                  "150 g (per single Sandal) - Weight of the product may vary depending on size."
+                ]
+              },
+              { "key": "Heel Height", "values": ["0.2 inch"] },
+              { "key": "Outer Material", "values": ["Suede"] },
+              { "key": "Color", "values": ["D.Grey"] },
+              {
+                "key": "Care Instructions",
+                "values": ["Wash in Lukewarm Water", "Do Not Bleach"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "c0cc37427e4598fc8bb387841e7e8391dd25070c" }
+      },
+      "active": true,
+      "id": "c12b5354d1568577dc2331d07da36efcffee744c"
+    },
+    {
+      "product": {
+        "id": "aa673cc3bdda9e5d4f236ae7fdc51f1efd7380e1",
+        "name": "Hako 60W Magsafe Laptop Charger For APPLE MacBook 13 MA701BA 60 Adapter",
+        "description": "Dummy description for product Hako 60W Magsafe Laptop Charger For APPLE MacBook 13 MA701BA 60 Adapter",
+        "manufacturer_id": "f134944b3ee1f472b0884ff04da76799f43227ac",
+        "taric_code": "6cdbe269-c437-4e47-88c7-14e7ea5016ab",
+        "variants": [
+          {
+            "id": "3e7d6eb69f390cb8c120ee6eb8d6feb3",
+            "name": "Hako 60W Magsafe Laptop Charger For APPLE MacBoo...",
+            "description": "Key Features of Hako 60W Magsafe Laptop Charger For APPLE MacBook 13 MA701BA 60 Adapter Designed For: APPLE MacBook 13\" MA701J/A MAGSAFE,Hako 60W Magsafe Laptop Charger For APPLE MacBook 13 MA701BA 60 Adapter Price: Rs. 1,799 Hako laptop adapters come with high quality certification and are compatible with respective brands, all adapters are equipped with protection circuit to protect the laptop all adapters come with 1year warranty.,Specifications of Hako 60W Magsafe Laptop Charger For APPLE MacBook 13 MA701BA 60 Adapter General Brand Hako Designed For APPLE MacBook 13\" MA701J/A MAGSAFE Sales Package 1 Laptop Adapter Model Name APPLE MacBook 13\" MA701J/A MAGSAFE Model Id 60W Magsafe Laptop Charger For APPLE MacBook 13 MA701BA Power Power Consumption (W) 60 W Warranty Covered in Warranty Manufacturing Defects Only Warranty Summary 1 Year Warranty Warranty Service Type To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier Not Covered in Warranty Any Physcal Damage will not be covered under warranty",
+            "stock_level": 7696,
+            "price": 2399,
+            "sale": false,
+            "sale_price": 1799,
+            "stock_keeping_unit": "ACCEJ6TEQMU55MFW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/u/f/7/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/u/f/7/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/w/m/x/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2vgqgn4zf.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2vgqgn4zf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/w/m/x/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2ecxhezyz.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2ecxhezyz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/q/p/f/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb467cha-original-imaegwt2b9nhzuhu.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb467cha-original-imaegwt2b9nhzuhu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/4/h/q/hako-60w-magsafe-laptop-charger-for-apple-macbook-pro-13-original-imaegwt2mrwu9aka.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-pro-13-original-imaegwt2mrwu9aka.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Hako"] },
+              {
+                "key": "Designed For",
+                "values": ["APPLE MacBook 13\\\" MA701J/A MAGSAFE"]
+              },
+              { "key": "Sales Package", "values": ["1 Laptop Adapter"] },
+              {
+                "key": "Model Name",
+                "values": ["APPLE MacBook 13\\\" MA701J/A MAGSAFE"]
+              },
+              {
+                "key": "Model Id",
+                "values": [
+                  "60W Magsafe Laptop Charger For APPLE MacBook 13 MA701BA"
+                ]
+              },
+              { "key": "Power Consumption (W)", "values": ["60 W"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects Only"]
+              },
+              { "key": "Warranty Summary", "values": ["1 Year Warranty"] },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Any Physcal Damage will not be covered under warranty"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "77e13cf4e8f5b8e6a799f837ac87d11e66a84275" }
+      },
+      "active": true,
+      "id": "aa673cc3bdda9e5d4f236ae7fdc51f1efd7380e1"
+    },
+    {
+      "product": {
+        "id": "a3ffc21350c1bf6abd48ab927df57270afb4e0eb",
+        "name": "Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 15 MC371ZPA 85 Adapter",
+        "description": "Dummy description for product Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 15 MC371ZPA 85 Adapter",
+        "manufacturer_id": "f134944b3ee1f472b0884ff04da76799f43227ac",
+        "taric_code": "3e67a368-e5f6-408b-92e2-f42af0164dec",
+        "variants": [
+          {
+            "id": "e5005b4a2d809bbb2f5944a8fa1ba0db",
+            "name": "Hako 85W Magsafe Laptop Charger For APPLE MacBoo...",
+            "description": "Key Features of Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 15 MC371ZPA 85 Adapter Designed For: APPLE MacBook Pro 15\" MC372CH/A MAGSAFE,Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 15 MC371ZPA 85 Adapter Price: Rs. 1,849 Hako laptop adapters come with high quality certification and are compatible with respective brands, all adapters are equipped with protection circuit to protect the laptop all adapters come with 1year warranty.,Specifications of Hako 85W Magsafe Laptop Charger For APPLE MacBook Pro 15 MC371ZPA 85 Adapter General Brand Hako Designed For APPLE MacBook Pro 15\" MC372CH/A MAGSAFE Sales Package 1 Laptop Adapter Model Name APPLE MacBook Pro 15\" MC372CH/A MAGSAFE Model Id 85W Magsafe Laptop Charger For APPLE MacBook Pro 15 MC371ZPA Power Power Consumption (W) 85 W Warranty Covered in Warranty Manufacturing Defects Only Warranty Summary 1 Year Warranty Warranty Service Type To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier Not Covered in Warranty Any Physcal Damage will not be covered under warranty",
+            "stock_level": 8307,
+            "price": 2499,
+            "sale": false,
+            "sale_price": 1849,
+            "stock_keeping_unit": "ACCEJ6TERMX32VGN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/a/n/3/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt2ydpyxgxm.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt2ydpyxgxm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/t/m/e/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt245ybvns6.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt245ybvns6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/x/h/t/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt2gda3dxhz.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-original-imaegwt2gda3dxhz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/m/y/d/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-mb471ja-original-imaegwt2xw7zqcdy.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-15-mb471ja-original-imaegwt2xw7zqcdy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/z/u/6/hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-17-a1150-original-imaej3kefgkd2qme.jpeg",
+                "filename": "hako-85w-magsafe-laptop-charger-for-apple-macbook-pro-17-a1150-original-imaej3kefgkd2qme.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Hako"] },
+              {
+                "key": "Designed For",
+                "values": ["APPLE MacBook Pro 15\\\" MC372CH/A MAGSAFE"]
+              },
+              { "key": "Sales Package", "values": ["1 Laptop Adapter"] },
+              {
+                "key": "Model Name",
+                "values": ["APPLE MacBook Pro 15\\\" MC372CH/A MAGSAFE"]
+              },
+              {
+                "key": "Model Id",
+                "values": [
+                  "85W Magsafe Laptop Charger For APPLE MacBook Pro 15 MC371ZPA"
+                ]
+              },
+              { "key": "Power Consumption (W)", "values": ["85 W"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects Only"]
+              },
+              { "key": "Warranty Summary", "values": ["1 Year Warranty"] },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Any Physcal Damage will not be covered under warranty"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "77e13cf4e8f5b8e6a799f837ac87d11e66a84275" }
+      },
+      "active": true,
+      "id": "a3ffc21350c1bf6abd48ab927df57270afb4e0eb"
+    },
+    {
+      "product": {
+        "id": "b4bc28b5aaf63d39fb68405db7b1c73cf1a053fc",
+        "name": "Autokartindia Full Sleeve Solid Men's Jacket",
+        "description": "Dummy description for product Autokartindia Full Sleeve Solid Men's Jacket",
+        "manufacturer_id": "89f40982df9bb114a79f7d8a40db4c3d644a55f0",
+        "taric_code": "65ef5ced-fd75-4cba-98cf-eebfd3d2a375",
+        "variants": [
+          {
+            "id": "5872efb011f6b4517fe4660aaa0a96ca",
+            "name": "Autokartindia Full Sleeve Solid Men's Jacket",
+            "description": "Key Features of Autokartindia Full Sleeve Solid Men's Jacket Suitable For: Western Wear Jacket Type: NA,Specifications of Autokartindia Full Sleeve Solid Men's Jacket Jacket Details Sleeve Full Sleeve Fabric Leather General Details Pattern Solid Ideal For Men's Additional Details Style Code LEJK000008Black",
+            "stock_level": 3827,
+            "price": 5999,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "JCKEJFPDVWBKHPFY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jacket/p/f/y/lejk000008black-autokartindia-50-original-imaejemk6veygaxz.jpeg",
+                "filename": "lejk000008black-autokartindia-50-original-imaejemk6veygaxz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/h/j/r/lejk000008black-autokartindia-36-original-imaejemkqdzvguyr.jpeg",
+                "filename": "lejk000008black-autokartindia-36-original-imaejemkqdzvguyr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/p/f/y/lejk000008black-autokartindia-40-original-imaejemkg5gf4b7h.jpeg",
+                "filename": "lejk000008black-autokartindia-40-original-imaejemkg5gf4b7h.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Fabric", "values": ["Leather"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["LEJK000008Black"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "4d84e49f7a968563be766e621b826e3c4997fd15" }
+      },
+      "active": true,
+      "id": "b4bc28b5aaf63d39fb68405db7b1c73cf1a053fc"
+    },
+    {
+      "product": {
+        "id": "f08b88bba170868cd8001e8d35bfab9ed4102111",
+        "name": "Look-Kool Unisex Wayfarer Sunglasses",
+        "description": "Dummy description for product Look-Kool Unisex Wayfarer Sunglasses",
+        "manufacturer_id": "51a56745db71c7cb69b614e9b789bd7a5540a51d",
+        "taric_code": "d8fce2c6-7d62-490b-be82-b45dbfa9b111",
+        "variants": [
+          {
+            "id": "ab5ecf1f7cca368004990283dc47931e",
+            "name": "Look-Kool Unisex Wayfarer Sunglasses",
+            "description": "Key Features of Look-Kool Unisex Wayfarer Sunglasses Frame Size : Medium II Lens Width (in mm): 51 Bridge Length (in mm):18 Temple Length (in mm): 145 II Lens Color: Brown Frame color & Temple Color: Brown & Orange Ideal for: Men & Women The product comes with a zippered hard case and a cleaning cloth to clean the lenses.,Look-Kool Unisex Wayfarer Sunglasses Price: Rs. 299 Presenting the Trendy and super cool clubmaster wayfarer from Look-Kool. These fashionable sunglasses are never out of fashion and are extremely stylish and casual. A must have for sunglasses lovers!! Disclaimer: Product colour may slightly vary due to photographic lighting sources or your monitor Settings.,Specifications of Look-Kool Unisex Wayfarer Sunglasses General Case Zippered Hard Case Style Wayfarer Style Code LK0001641 Ideal For Men, Women, Boys, Girls Usage Style, Eye Protection, Driving, Biking Dimensions Sunglass Weight 30 g Size The product measurement specified by the Brand is One Size Fits All mm Features & Functions Lens Polarization Yes Lens Color Brown Lens Gradient Double Gradient Lens Material Glass Frame material Plastic Frame Type Full-frame UV Protection 1 Frame Color Brown, Orange Lens Mirror Finish No In the Box Sales Package 1 Clubmaster Sunglass, 1 Zippered Hard Case, 1 Cleaning Cloth",
+            "stock_level": 1200,
+            "price": 699,
+            "sale": false,
+            "sale_price": 269,
+            "stock_keeping_unit": "SGLEJJ6QZDYMJ7EY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaeh28gzgdkhxzx.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaeh28gzgdkhxzx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaehw8gwvtzb5jc.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaehw8gwvtzb5jc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaehw8gcpg4v2hh.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaehw8gcpg4v2hh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaeh28gny69avrn.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaeh28gny69avrn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaehw8hhfaw5zma.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaehw8hhfaw5zma.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaeh28gsmfy25vy.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaeh28gsmfy25vy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaeh28gbueyqqez.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaeh28gbueyqqez.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaehw8hsfnm8aem.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaehw8hsfnm8aem.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaeh28gcphgx5z9.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaeh28gcphgx5z9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaehw8hnehtr4cg.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaehw8hnehtr4cg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaeh9ydpwzgtg6b.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaeh9ydpwzgtg6b.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/7/e/y/lk0001641-look-kool-one-size-fits-all-original-imaehw8hqzwzwuhz.jpeg",
+                "filename": "lk0001641-look-kool-one-size-fits-all-original-imaehw8hqzwzwuhz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Case", "values": ["Zippered Hard Case"] },
+              { "key": "Style", "values": ["Wayfarer"] },
+              { "key": "Style Code", "values": ["LK0001641"] },
+              {
+                "key": "Ideal For",
+                "values": ["Men", "Women", "Boys", "Girls"]
+              },
+              {
+                "key": "Usage",
+                "values": ["Style", "Eye Protection", "Driving", "Biking"]
+              },
+              { "key": "Sunglass Weight", "values": ["30 g"] },
+              {
+                "key": "Size",
+                "values": [
+                  "The product measurement specified by the Brand is One Size Fits All mm"
+                ]
+              },
+              { "key": "Lens Polarization", "values": ["Yes"] },
+              { "key": "Lens Color", "values": ["Brown"] },
+              { "key": "Lens Gradient", "values": ["Double Gradient"] },
+              { "key": "Lens Material", "values": ["Glass"] },
+              { "key": "Frame material", "values": ["Plastic"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "UV Protection", "values": ["1"] },
+              { "key": "Frame Color", "values": ["Brown", "Orange"] },
+              { "key": "Lens Mirror Finish", "values": ["No"] },
+              {
+                "key": "Sales Package",
+                "values": [
+                  "1 Clubmaster Sunglass",
+                  "1 Zippered Hard Case",
+                  "1 Cleaning Cloth"
+                ]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "addcb05a8b8572ce0eedc47d8cad03bb0eaf5a71" }
+      },
+      "active": false,
+      "id": "f08b88bba170868cd8001e8d35bfab9ed4102111"
+    },
+    {
+      "product": {
+        "id": "5133cc0efaeed38d831c2b9eb164f3f0275202cf",
+        "name": "Spinn Men Sandals",
+        "description": "Dummy description for product Spinn Men Sandals",
+        "manufacturer_id": "415a986d0a02bdb76414e36c6671257ed3214549",
+        "taric_code": "843453d9-6277-4bf5-965b-8bd1b4f43810",
+        "variants": [
+          {
+            "id": "1397f3ee3562de5d9fd73cfc4657c807",
+            "name": "Spinn Men Sandals",
+            "description": "Key Features of Spinn Men Sandals Leight Weight Sporty sandal,Spinn Men Sandals Price: Rs. 699 You will definitely earn maximum style points from fashion lovers when you team these ‘Stricker’ sports sandals by Spinn. Featuring a synthetic leather upper, these lightweight sandals for men have an EVA (ethylene-vinyl acetate) outsole for impact resistance.,Specifications of Spinn Men Sandals General Ideal For Men Occasion Casual Sandal Details Sole Material Eva Closure Velcro Number of Contents in Sales Package Pack of 1 Weight 214 g (per single Sandal) - Weight of the product may vary depending on size. Inner Material Fabric Lining Heel Height 1 inch Outer Material Synthetic Leather Insole Material Eva Color OLIVE/YELLOW Additional Details Other Details Soft Textured Eva Footbed Care Instructions Clean with Brush or wet cloth In the Box 1 Pair of Sandals",
+            "stock_level": 1702,
+            "price": 999,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "SNDEJH4DBHFK4N7B",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/m/3/z/olive-yellow-sflp-001-spinn-10-original-imaejftdh2t7kkwt.jpeg",
+                "filename": "olive-yellow-sflp-001-spinn-10-original-imaejftdh2t7kkwt.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/m/3/z/olive-yellow-sflp-001-spinn-10-original-imaejftdh2t7kkwt.jpeg",
+                "filename": "olive-yellow-sflp-001-spinn-10-original-imaejftdh2t7kkwt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/m/3/z/olive-yellow-sflp-001-spinn-10-original-imaejftds7ymxjfw.jpeg",
+                "filename": "olive-yellow-sflp-001-spinn-10-original-imaejftds7ymxjfw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/s/n/x/olive-yellow-sflp-001-spinn-9-original-imaejftdvccyrx4q.jpeg",
+                "filename": "olive-yellow-sflp-001-spinn-9-original-imaejftdvccyrx4q.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/s/n/x/olive-yellow-sflp-001-spinn-9-original-imaejftdef9g3kch.jpeg",
+                "filename": "olive-yellow-sflp-001-spinn-9-original-imaejftdef9g3kch.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/m/3/z/olive-yellow-sflp-001-spinn-10-original-imaejftdpbbhf7gj.jpeg",
+                "filename": "olive-yellow-sflp-001-spinn-10-original-imaejftdpbbhf7gj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sole Material", "values": ["Eva"] },
+              { "key": "Closure", "values": ["Velcro"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Weight",
+                "values": [
+                  "214 g (per single Sandal) - Weight of the product may vary depending on size."
+                ]
+              },
+              { "key": "Inner Material", "values": ["Fabric Lining"] },
+              { "key": "Heel Height", "values": ["1 inch"] },
+              { "key": "Outer Material", "values": ["Synthetic Leather"] },
+              { "key": "Insole Material", "values": ["Eva"] },
+              { "key": "Color", "values": ["OLIVE/YELLOW"] },
+              {
+                "key": "Other Details",
+                "values": ["Soft Textured Eva Footbed"]
+              },
+              {
+                "key": "Care Instructions",
+                "values": ["Clean with Brush or wet cloth"]
+              },
+              {
+                "key": "c7ab2716-63db-4fae-9d06-d811602b538c",
+                "values": ["1 Pair of Sandals"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c1ea72950fbb491f1fce23069137eb1fc3ea80c" }
+      },
+      "active": false,
+      "id": "5133cc0efaeed38d831c2b9eb164f3f0275202cf"
+    },
+    {
+      "product": {
+        "id": "aa20f2f7c1ff766de9740440bd0526747d5a468d",
+        "name": "HH Wayfarer Sunglasses",
+        "description": "Dummy description for product HH Wayfarer Sunglasses",
+        "manufacturer_id": "1ec98f066d72d944ac68c6f5ca29efb127f02659",
+        "taric_code": "c9eb86d5-50d6-4eed-97fc-f2880210e813",
+        "variants": [
+          {
+            "id": "c0fec28f5bb2dc3496dadfa910df7a5a",
+            "name": "HH Wayfarer Sunglasses",
+            "description": "Key Features of HH Wayfarer Sunglasses Face Type - Square Frame Type - Full-frame,Specifications of HH Wayfarer Sunglasses General Style Wayfarer Style Code wayferemulti Ideal For Boys, Men Usage Style Dimensions Size This product is sold as Medium by the Brand Features & Functions Lens Color Black Lens Material CR 39 Frame material Plastic Frame Type Full-frame Frame Color Multicolor",
+            "stock_level": 7368,
+            "price": 999,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "SGLEJJ6W6ZAHVPWA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/p/w/a/wayferemulti-hh-medium-original-imaejg26gvygrcr3.jpeg",
+                "filename": "wayferemulti-hh-medium-original-imaejg26gvygrcr3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/p/w/a/wayferemulti-hh-medium-original-imaejg26npjxq9k2.jpeg",
+                "filename": "wayferemulti-hh-medium-original-imaejg26npjxq9k2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/p/w/a/wayferemulti-hh-medium-original-imaejg27wt2fpxxg.jpeg",
+                "filename": "wayferemulti-hh-medium-original-imaejg27wt2fpxxg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/p/w/a/wayferemulti-hh-medium-original-imaejg27fvzm7xh6.jpeg",
+                "filename": "wayferemulti-hh-medium-original-imaejg27fvzm7xh6.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/p/w/a/wayferemulti-hh-medium-original-imaegjnfwevzex9w.jpeg",
+                "filename": "wayferemulti-hh-medium-original-imaegjnfwevzex9w.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Wayfarer"] },
+              { "key": "Style Code", "values": ["wayferemulti"] },
+              { "key": "Ideal For", "values": ["Boys", "Men"] },
+              { "key": "Usage", "values": ["Style"] },
+              {
+                "key": "Size",
+                "values": ["This product is sold as Medium by the Brand"]
+              },
+              { "key": "Lens Color", "values": ["Black"] },
+              { "key": "Lens Material", "values": ["CR 39"] },
+              { "key": "Frame material", "values": ["Plastic"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["Multicolor"] }
+            ]
+          }
+        ],
+        "category": { "id": "addcb05a8b8572ce0eedc47d8cad03bb0eaf5a71" }
+      },
+      "active": true,
+      "id": "aa20f2f7c1ff766de9740440bd0526747d5a468d"
+    },
+    {
+      "product": {
+        "id": "0fe01ac5ddecc7e6fe0bf0d493e7627270aae411",
+        "name": "Aligatorr Aviator Sunglasses",
+        "description": "Dummy description for product Aligatorr Aviator Sunglasses",
+        "manufacturer_id": "fb36043a7e4fe2f2034153fdc549590905c62953",
+        "taric_code": "6fb1dfe8-6749-464e-9907-7d4402ae2008",
+        "variants": [
+          {
+            "id": "691c004c53b0d5138618ad7b8eedeb8d",
+            "name": "Aligatorr Aviator Sunglasses",
+            "description": "Key Features of Aligatorr Aviator Sunglasses Face Type - Square Frame Type - Full-frame,Specifications of Aligatorr Aviator Sunglasses General Style Aviator Style Code 0251 Ideal For Boys, Men, Girls, Women Usage Driving, Style, Biking, Eye Protection Dimensions Size This product is sold as L by the Brand Features & Functions Lens Color Multicolor Lens Material CR 39 Frame material Metal Frame Type Full-frame Frame Color Black",
+            "stock_level": 3318,
+            "price": 499,
+            "sale": false,
+            "sale_price": 180,
+            "stock_keeping_unit": "SGLEJCHSWBMHVVNG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/v/n/g/0251-aligatorr-l-original-imaegywyhvdv5nhr.jpeg",
+                "filename": "0251-aligatorr-l-original-imaegywyhvdv5nhr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/v/n/g/0251-aligatorr-l-original-imaegywfzgx8qvyw.jpeg",
+                "filename": "0251-aligatorr-l-original-imaegywfzgx8qvyw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/v/n/g/0251-aligatorr-l-original-imaegywfyuhptzhe.jpeg",
+                "filename": "0251-aligatorr-l-original-imaegywfyuhptzhe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/j/w/q/8596-aligatorr-m-original-imaej9dhnavkqqvr.jpeg",
+                "filename": "8596-aligatorr-m-original-imaej9dhnavkqqvr.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Aviator"] },
+              { "key": "Style Code", "values": ["0251"] },
+              {
+                "key": "Ideal For",
+                "values": ["Boys", "Men", "Girls", "Women"]
+              },
+              {
+                "key": "Usage",
+                "values": ["Driving", "Style", "Biking", "Eye Protection"]
+              },
+              {
+                "key": "Size",
+                "values": ["This product is sold as L by the Brand"]
+              },
+              { "key": "Lens Color", "values": ["Multicolor"] },
+              { "key": "Lens Material", "values": ["CR 39"] },
+              { "key": "Frame material", "values": ["Metal"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["Black"] }
+            ]
+          }
+        ],
+        "category": { "id": "addcb05a8b8572ce0eedc47d8cad03bb0eaf5a71" }
+      },
+      "active": true,
+      "id": "0fe01ac5ddecc7e6fe0bf0d493e7627270aae411"
+    },
+    {
+      "product": {
+        "id": "939a8412dbfe2ae1429eb9d17db97d40cc3a808d",
+        "name": "HH Aviator Sunglasses",
+        "description": "Dummy description for product HH Aviator Sunglasses",
+        "manufacturer_id": "1ec98f066d72d944ac68c6f5ca29efb127f02659",
+        "taric_code": "fd2ceeb0-63f2-4c18-ad1b-1e391017b800",
+        "variants": [
+          {
+            "id": "abe21585e2ff37fd29ccb6cc409cf4eb",
+            "name": "HH Aviator Sunglasses",
+            "description": "Key Features of HH Aviator Sunglasses Face Type - Square Frame Type - Full-frame,Specifications of HH Aviator Sunglasses General Style Aviator Style Code AVTRSLVR Ideal For Men, Boys Usage Style Dimensions Size This product is sold as Medium by the Brand Features & Functions Lens Color Silver Lens Material CR 39 Frame material Stainless steel Frame Type Full-frame Frame Color Silver",
+            "stock_level": 7603,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 349,
+            "stock_keeping_unit": "SGLEJJ7HNYDPKZ5P",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/z/5/p/avtrslvr-hh-medium-original-imaejg2yashu9mmm.jpeg",
+                "filename": "avtrslvr-hh-medium-original-imaejg2yashu9mmm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/z/5/p/avtrslvr-hh-medium-original-imaejg2yuhttvnjn.jpeg",
+                "filename": "avtrslvr-hh-medium-original-imaejg2yuhttvnjn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/z/5/p/avtrslvr-hh-medium-original-imaejg2yz48hymh7.jpeg",
+                "filename": "avtrslvr-hh-medium-original-imaejg2yz48hymh7.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sunglass/z/5/p/avtrslvr-hh-medium-original-imaejg2f6hvhrjxa.jpeg",
+                "filename": "avtrslvr-hh-medium-original-imaejg2f6hvhrjxa.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sunglass/9/y/d/wayfarerblk-hh-medium-original-imaegjnfwevzex9w.jpeg",
+                "filename": "wayfarerblk-hh-medium-original-imaegjnfwevzex9w.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Style", "values": ["Aviator"] },
+              { "key": "Style Code", "values": ["AVTRSLVR"] },
+              { "key": "Ideal For", "values": ["Men", "Boys"] },
+              { "key": "Usage", "values": ["Style"] },
+              {
+                "key": "Size",
+                "values": ["This product is sold as Medium by the Brand"]
+              },
+              { "key": "Lens Color", "values": ["Silver"] },
+              { "key": "Lens Material", "values": ["CR 39"] },
+              { "key": "Frame material", "values": ["Stainless steel"] },
+              { "key": "Frame Type", "values": ["Full-frame"] },
+              { "key": "Frame Color", "values": ["Silver"] }
+            ]
+          }
+        ],
+        "category": { "id": "addcb05a8b8572ce0eedc47d8cad03bb0eaf5a71" }
+      },
+      "active": true,
+      "id": "939a8412dbfe2ae1429eb9d17db97d40cc3a808d"
+    },
+    {
+      "product": {
+        "id": "79ab3293a1a0d9545f6ec81013c5b9cc4d8021f9",
+        "name": "Hako 60W Magsafe Laptop Charger For APPLE MacBook Pro13 MB990XA 60 Adapter",
+        "description": "Dummy description for product Hako 60W Magsafe Laptop Charger For APPLE MacBook Pro13 MB990XA 60 Adapter",
+        "manufacturer_id": "f134944b3ee1f472b0884ff04da76799f43227ac",
+        "taric_code": "9b9d6167-09a0-48d0-bd3b-b6f02a621657",
+        "variants": [
+          {
+            "id": "8e961e4fd248c9496ca54808d2d2b25f",
+            "name": "Hako 60W Magsafe Laptop Charger For APPLE MacBoo...",
+            "description": "Key Features of Hako 60W Magsafe Laptop Charger For APPLE MacBook Pro13 MB990XA 60 Adapter Designed For: APPLE MacBook Pro13\" MB991X/A MAGSAFE,Hako 60W Magsafe Laptop Charger For APPLE MacBook Pro13 MB990XA 60 Adapter Price: Rs. 1,799 Hako laptop adapters come with high quality certification and are compatible with respective brands, all adapters are equipped with protection circuit to protect the laptop all adapters come with 1year warranty.,Specifications of Hako 60W Magsafe Laptop Charger For APPLE MacBook Pro13 MB990XA 60 Adapter General Brand Hako Designed For APPLE MacBook Pro13\" MB991X/A MAGSAFE Sales Package 1 Laptop Adapter Model Name APPLE MacBook Pro13\" MB991X/A MAGSAFE Model Id 60W Magsafe Laptop Charger For APPLE MacBook Pro13 MB990XA Power Power Consumption (W) 60 W Warranty Covered in Warranty Manufacturing Defects Only Warranty Summary 1 Year Warranty Warranty Service Type To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier Not Covered in Warranty Any Physcal Damage will not be covered under warranty",
+            "stock_level": 9364,
+            "price": 2399,
+            "sale": false,
+            "sale_price": 1799,
+            "stock_keeping_unit": "ACCEJ6TES5HRPFTG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/u/f/7/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/u/f/7/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/w/m/x/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2vgqgn4zf.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2vgqgn4zf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/w/m/x/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2ecxhezyz.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2ecxhezyz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/q/p/f/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb467cha-original-imaegwt2b9nhzuhu.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb467cha-original-imaegwt2b9nhzuhu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/4/h/q/hako-60w-magsafe-laptop-charger-for-apple-macbook-pro-13-original-imaegwt2mrwu9aka.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-pro-13-original-imaegwt2mrwu9aka.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Hako"] },
+              {
+                "key": "Designed For",
+                "values": ["APPLE MacBook Pro13\\\" MB991X/A MAGSAFE"]
+              },
+              { "key": "Sales Package", "values": ["1 Laptop Adapter"] },
+              {
+                "key": "Model Name",
+                "values": ["APPLE MacBook Pro13\\\" MB991X/A MAGSAFE"]
+              },
+              {
+                "key": "Model Id",
+                "values": [
+                  "60W Magsafe Laptop Charger For APPLE MacBook Pro13 MB990XA"
+                ]
+              },
+              { "key": "Power Consumption (W)", "values": ["60 W"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects Only"]
+              },
+              { "key": "Warranty Summary", "values": ["1 Year Warranty"] },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Any Physcal Damage will not be covered under warranty"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "77e13cf4e8f5b8e6a799f837ac87d11e66a84275" }
+      },
+      "active": true,
+      "id": "79ab3293a1a0d9545f6ec81013c5b9cc4d8021f9"
+    },
+    {
+      "product": {
+        "id": "fea1aa5fb2b0a000cf04a3938cd7fc631d2b8440",
+        "name": "WOAP Alloy Jewel Set",
+        "description": "Dummy description for product WOAP Alloy Jewel Set",
+        "manufacturer_id": "7f006fc05a6881ddb48c517b919336b1879aac7a",
+        "taric_code": "701707c6-b8cd-4aaa-913a-7ba2447647e7",
+        "variants": [
+          {
+            "id": "5f9de58ab6d41b566214cd9a5ea54074",
+            "name": "WOAP Alloy Jewel Set (Blue)",
+            "description": "Key Features of WOAP Alloy Jewel Set Blue Designer Necklace,WOAP Alloy Jewel Set (Blue) Price: Rs. 1,299 These Hand crafted Jewellery Made of Beads/Stones/Glass/Metal. Which makes you different In Crowed. Also suitable with Indian as well as western outfit.Each product of ours is exclusively manufactured for every single customer to ensure exclusivity.,Specifications of WOAP Alloy Jewel Set (Blue) Pearl Features Pearl Type NA General Base Material Alloy Brand WOAP Gemstone NA Model Number GHN-2317 Precious/Artificial Jewellery Fashion Jewellery Plating NA Type Earring & Necklace Set Ideal For Women, Girls Occasion Wedding & Engagement Color Blue Silver Features Silver Weight NA g Diamond Features Diamond Weight NA carat Diamond Shape NA Diamond Color Grade NA Diamond Clarity NA Gold Features Gold Purity NA K In the Box Sales Package 1Necklace,1 Earring set Additional Features Other Features Silver polish with Blue beads Certification NA",
+            "stock_level": 5092,
+            "price": 1399,
+            "sale": false,
+            "sale_price": 1299,
+            "stock_keeping_unit": "JWSEJFMHQEMPZPGK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/p/g/k/ghn-2317-woap-original-imaejepfpyhcbver.jpeg",
+                "filename": "ghn-2317-woap-original-imaejepfpyhcbver.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/h/t/q/ghn-2334-woap-original-imaejep5hygb558z.jpeg",
+                "filename": "ghn-2334-woap-original-imaejep5hygb558z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["WOAP"] },
+              { "key": "Gemstone", "values": ["NA"] },
+              { "key": "Model Number", "values": ["GHN-2317"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["NA"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Silver Weight", "values": ["NA g"] },
+              { "key": "Diamond Weight", "values": ["NA carat"] },
+              { "key": "Diamond Shape", "values": ["NA"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Sales Package", "values": ["1Necklace,1 Earring set"] },
+              {
+                "key": "Other Features",
+                "values": ["Silver polish with Blue beads"]
+              },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "03864aabd7de11655d1c5ebc31297424203de1e9" }
+      },
+      "active": true,
+      "id": "fea1aa5fb2b0a000cf04a3938cd7fc631d2b8440"
+    },
+    {
+      "product": {
+        "id": "b739c24beeb0ff024bae27019b2dd905bc0e8cef",
+        "name": "Bento Cute",
+        "description": "Dummy description for product Bento Cute",
+        "manufacturer_id": "61e7e2e0dc04eeae940a6d58ce10788d756c41f7",
+        "taric_code": "00ccabe3-079a-432d-a985-e219e62bf1bb",
+        "variants": [
+          {
+            "id": "fe9baf8cd3e790df95fe54b95d6d190e",
+            "name": "Bento Cute",
+            "description": "Key Features of Bento Cute Min Age: 3 yrs Type: Tool Kits & Gadgets Skillset: Sensory Development,Specifications of Bento Cute General Age Group 3 - 6 Years Ideal for Boys Type Tool Kits & Gadgets Character kaleidescope Important Note The color of some product parts may vary from what is shown in the image In the Box 4pcs of Kalediscope",
+            "stock_level": 7056,
+            "price": 399,
+            "sale": false,
+            "sale_price": 143,
+            "stock_keeping_unit": "RPTEJNTG86BGZWAT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/role-play-toy/w/a/t/bento-cute-original-imaejgv7t2ubxemj.jpeg",
+                "filename": "bento-cute-original-imaejgv7t2ubxemj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Age Group", "values": ["3 - 6 Years"] },
+              { "key": "Ideal for", "values": ["Boys"] },
+              { "key": "Type", "values": ["Tool Kits and Gadgets"] },
+              { "key": "Character", "values": ["kaleidescope"] },
+              {
+                "key": "a3c603e8-6f61-4257-8c32-5c1392a878fb",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              {
+                "key": "fbf65d08-476b-4552-aa97-82adbba6b446",
+                "values": ["4pcs of Kalediscope"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "2738a1182995b4323b8bd95a7ee2c36ec33d4a06" }
+      },
+      "active": true,
+      "id": "b739c24beeb0ff024bae27019b2dd905bc0e8cef"
+    },
+    {
+      "product": {
+        "id": "daba7f0fb448b084172023139803277530bd6c81",
+        "name": "Chambor Orosa Lipstick 4.5 g",
+        "description": "Dummy description for product Chambor Orosa Lipstick 4.5 g",
+        "manufacturer_id": "786fd81483a0cfe4e17c810bdf07a35381461334",
+        "taric_code": "9475aec2-d105-4665-b45c-bc374887b200",
+        "variants": [
+          {
+            "id": "f7516ba0b11ae27195e7ef0ee0a35d28",
+            "name": "Chambor Orosa Lipstick 4.5 g (Shade -522)",
+            "description": "Key Features of Chambor Orosa Lipstick 4.5 g Finish: Matte Form: Cream Organic,Chambor Orosa Lipstick 4.5 g (Shade -522) Price: Rs. 995 A Lipstick that rejuvenates, moisturizes and smoothens the lips. 1. Its Triple Firming Action restores volume and firmness while keeping your lips super soft and nourished. 2. Packed with antioxidants and vitamins, it visibly reduces lip creases with every application. 3. No animal ingredient. 4.Dermatologically tested.,Specifications of Chambor Orosa Lipstick 4.5 g (Shade -522) Lipstick Traits Quantity 4.5 g Shade Shade -522 Finish Matte Organic Yes",
+            "stock_level": 6868,
+            "price": 995,
+            "sale": false,
+            "sale_price": 995,
+            "stock_keeping_unit": "LSKEJNHFS2RT4WQF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/lipstick/w/q/f/chambor-4-5-orosa-lipstick-original-imaejmgf4vgesnfb.jpeg",
+                "filename": "chambor-4-5-orosa-lipstick-original-imaejmgf4vgesnfb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Quantity", "values": ["4.5 g"] },
+              { "key": "Shade", "values": ["Shade -522"] },
+              { "key": "Finish", "values": ["Matte"] },
+              { "key": "Organic", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "29008a1cd9a43fc13a906902a82947b2c96a02ff" }
+      },
+      "active": true,
+      "id": "daba7f0fb448b084172023139803277530bd6c81"
+    },
+    {
+      "product": {
+        "id": "19c4997d8a0a5efe14c1a064093be4eca94fc073",
+        "name": "3kFactory Baby Shower Cap- Purple",
+        "description": "Dummy description for product 3kFactory Baby Shower Cap- Purple",
+        "manufacturer_id": "2f59597f601f18284c7288707c5b10a8e96a2436",
+        "taric_code": "c90b005d-b6f6-49c8-bf00-d27615a8806c",
+        "variants": [
+          {
+            "id": "750f964cf8e6a16412aaf2b0d0350d0a",
+            "name": "3kFactory Baby Shower Cap- Purple",
+            "description": "Key Features of 3kFactory Baby Shower Cap- Purple Easy Bathing for your kids !! These Caps ensure you shampoo your baby’s head without the worries of soap getting into their eyes.Easy, comfortable and flexible to use Makes bath time less of a drama and more fun Protects your baby or toddler's eyes from shampoo and water  Helps get your baby used to having his or her hair washed...................Material: EVA foam   Colour: Purple......................Features & Specifications:   For head circumference 40cm or over Outer diameter: 26cm  Inner [head size] diameter: 13cm,3kFactory Baby Shower Cap- Purple Price: Rs. 174 Light weight Portable Adjustable size Manufactured of Soft material,Specifications of 3kFactory Baby Shower Cap- Purple FAQs What is shower cap? Shower cap General Traits Shape Round Brand 3kFactory Type Baby Bath Shower Cap Model Name Baby Shower Cap- Purple Ideal For Baby Girls, Baby Boys Model ID 14 Number of Shower Caps per Pack 1 Color Purple In the Box 1 Cap",
+            "stock_level": 755,
+            "price": 399,
+            "sale": false,
+            "sale_price": 174,
+            "stock_keeping_unit": "SCPEJMZDRNQEVVNT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shower-cap/v/n/t/14-3kfactory-baby-shower-cap-purple-1100x1100-imaejenfnf4vgkgy.jpeg",
+                "filename": "14-3kfactory-baby-shower-cap-purple-1100x1100-imaejenfnf4vgkgy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shower-cap/v/n/t/14-3kfactory-baby-shower-cap-purple-original-imaejenfnf4vgkgy.jpeg",
+                "filename": "14-3kfactory-baby-shower-cap-purple-original-imaejenfnf4vgkgy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shower-cap/v/n/t/14-3kfactory-baby-shower-cap-purple-original-imaejenfd7hvjsxx.jpeg",
+                "filename": "14-3kfactory-baby-shower-cap-purple-original-imaejenfd7hvjsxx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "What is shower cap?", "values": ["Shower cap"] },
+              { "key": "Shape", "values": ["Round"] },
+              { "key": "Brand", "values": ["3kFactory"] },
+              { "key": "Type", "values": ["Baby Bath Shower Cap"] },
+              { "key": "Model Name", "values": ["Baby Shower Cap- Purple"] },
+              { "key": "Ideal For", "values": ["Baby Girls", "Baby Boys"] },
+              { "key": "Model ID", "values": ["14"] },
+              { "key": "Number of Shower Caps per Pack", "values": ["1"] },
+              { "key": "Color", "values": ["Purple"] },
+              {
+                "key": "94148743-fabe-42f2-8795-15cbeb16f4bd",
+                "values": ["1 Cap"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "76b49e0506e2dfd8bb00e6fb8e233d300cc689dd" }
+      },
+      "active": true,
+      "id": "19c4997d8a0a5efe14c1a064093be4eca94fc073"
+    },
+    {
+      "product": {
+        "id": "1056be41bfc816889c474675fb3eb8498150ffc5",
+        "name": "Bajya Handicrafts Decorative Stylo 30 inch Glass Hookah",
+        "description": "Dummy description for product Bajya Handicrafts Decorative Stylo 30 inch Glass Hookah",
+        "manufacturer_id": "88088228892d01aa71fac9682dd35d5cca40e7ae",
+        "taric_code": "b506d709-3837-4c71-89cc-deb3341602a3",
+        "variants": [
+          {
+            "id": "d530c8a7d64e3db4089a90c616259c96",
+            "name": "Bajya Handicrafts Decorative Stylo 30 inch Glass...",
+            "description": "Key Features of Bajya Handicrafts Decorative Stylo 30 inch Glass Hookah Number of Pipe Openings: 1 Color: Blue Base Material: Glass Origin of Style: Egyptian,Bajya Handicrafts Decorative Stylo 30 inch Glass Hookah (Blue) Price: Rs. 499 Decorative Stylo 30 inch Glass, Iron Hookah,Specifications of Bajya Handicrafts Decorative Stylo 30 inch Glass Hookah (Blue) Tray Features Tray Diameter 4 inch Wind Cover Features Wind Cover Length 3 inch General Number of Pipe Openings 1 Brand Bajya Material Glass Model Name Handicrafts Decorative Stylo Origin of Style Egyptian Pack of 1 Color Blue Bowl and Funnel Features Bowl Height 3 inch Bowl Material Glass Dimensions Height 30 inch Base Features Base Material Glass Base Height 4 inch Pipe Features Pipe Material Rubber Washable Yes Pipe Length 20 inch Pipe Adapter Material Rubber Pipe Style Textured Additional Features Portable Yes Rotatable Yes In the Box Sales Package 1 Hookah Set Pack of 1",
+            "stock_level": 6388,
+            "price": 999,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "HKHED633F9Y9PGVR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/hookah/g/v/r/hk1010-bajya-1100x1100-imaecsuswdqya5n3.jpeg",
+                "filename": "hk1010-bajya-1100x1100-imaecsuswdqya5n3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hookah/g/v/r/hk1010-bajya-original-imaecsuswdqya5n3.jpeg",
+                "filename": "hk1010-bajya-original-imaecsuswdqya5n3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/hookah/g/v/r/hk1010-bajya-original-imaecsutg3qkedmf.jpeg",
+                "filename": "hk1010-bajya-original-imaecsutg3qkedmf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hookah/g/v/r/hk1010-bajya-original-imaecsutzvy6eayh.jpeg",
+                "filename": "hk1010-bajya-original-imaecsutzvy6eayh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hookah/g/v/r/hk1010-bajya-original-imaecsuxmvnathg9.jpeg",
+                "filename": "hk1010-bajya-original-imaecsuxmvnathg9.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Tray Diameter", "values": ["4 inch"] },
+              { "key": "Wind Cover Length", "values": ["3 inch"] },
+              { "key": "Number of Pipe Openings", "values": ["1"] },
+              { "key": "Brand", "values": ["Bajya"] },
+              { "key": "Material", "values": ["Glass"] },
+              {
+                "key": "Model Name",
+                "values": ["Handicrafts Decorative Stylo"]
+              },
+              { "key": "Origin of Style", "values": ["Egyptian"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Bowl Height", "values": ["3 inch"] },
+              { "key": "Bowl Material", "values": ["Glass"] },
+              { "key": "Height", "values": ["30 inch"] },
+              { "key": "Base Material", "values": ["Glass"] },
+              { "key": "Base Height", "values": ["4 inch"] },
+              { "key": "Pipe Material", "values": ["Rubber"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Pipe Length", "values": ["20 inch"] },
+              { "key": "Pipe Adapter Material", "values": ["Rubber"] },
+              { "key": "Pipe Style", "values": ["Textured"] },
+              { "key": "Portable", "values": ["Yes"] },
+              { "key": "Rotatable", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 Hookah Set"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "039617b59a088b749c6e0cb8a641f011dbb5f0cd" }
+      },
+      "active": true,
+      "id": "1056be41bfc816889c474675fb3eb8498150ffc5"
+    },
+    {
+      "product": {
+        "id": "41b19804811a68d51d5ce0e329cc89ac490e2de1",
+        "name": "Pawtec  Battery - Powerful Backup- For S4 Mini I9195 B500AE",
+        "description": "Dummy description for product Pawtec  Battery - Powerful Backup- For S4 Mini I9195 B500AE",
+        "manufacturer_id": "c3aa68d9f28688df62112cc3d93901b97e792105",
+        "taric_code": "9f99fada-b373-4f7d-a823-74893b839885",
+        "variants": [
+          {
+            "id": "219dad7a926283a511bd5043fa92b4c3",
+            "name": "Pawtec  Battery - Powerful Backup- For S4 Mini I...",
+            "description": "Key Features of Pawtec  Battery - Powerful Backup- For S4 Mini I9195 B500AE Durable Material High Capacity Short Circuit Free,Pawtec  Battery - Powerful Backup- For S4 Mini I9195 B500AE (Black, Silver) Price: Rs. 249 A spare or replacement battery for your Samsung identical to the orginal.,Specifications of Pawtec  Battery - Powerful Backup- For S4 Mini I9195 B500AE (Black, Silver) Power Power Input AC 3.8 V Warranty Covered in Warranty Warranty of the product is limited to manufacturing defect only Warranty Summary 1 Month Domestic Brand Warranty Warranty Service Type Customer needs to call the nearby authorized service center Not Covered in Warranty warranty dose not cover any external damage General Features Brand Pawtec Battery Capacity 1900 mAh Number of Charging Cycles 1000 Model ID Powerful Backup- For S4 Mini I9195 B500AE In Sales Package Battery Color Black, Silver",
+            "stock_level": 9279,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "ACCEJNF6ZRPRFFHV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/battery/lithium-ion/h/7/s/pawtec-powerful-backup-for-s4-mini-i9192-b500ae-original-imaegbvvzfjjdhng.jpeg",
+                "filename": "pawtec-powerful-backup-for-s4-mini-i9192-b500ae-original-imaegbvvzfjjdhng.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/battery/lithium-ion/h/7/s/pawtec-powerful-backup-for-s4-mini-i9192-b500ae-original-imaegbvvrmjbceah.jpeg",
+                "filename": "pawtec-powerful-backup-for-s4-mini-i9192-b500ae-original-imaegbvvrmjbceah.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Power Input AC", "values": ["3.8 V"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defect only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Month Domestic Brand Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Customer needs to call the nearby authorized service center"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["warranty dose not cover any external damage"]
+              },
+              { "key": "Brand", "values": ["Pawtec"] },
+              { "key": "Battery Capacity", "values": ["1900 mAh"] },
+              { "key": "Number of Charging Cycles", "values": ["1000"] },
+              {
+                "key": "Model ID",
+                "values": ["Powerful Backup- For S4 Mini I9195 B500AE"]
+              },
+              { "key": "In Sales Package", "values": ["Battery"] },
+              { "key": "Color", "values": ["Black", "Silver"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff272658209b80ade6f404a2941b4b26cd9c950e" }
+      },
+      "active": true,
+      "id": "41b19804811a68d51d5ce0e329cc89ac490e2de1"
+    },
+    {
+      "product": {
+        "id": "45476fa0d077610a093f81c6b79b5a5b01948c63",
+        "name": "Hako 60W Magsafe1 Laptop Charger For APPLE MacBook Pro 13\" MB990 MAGSAFE 60 Adapter",
+        "description": "Dummy description for product Hako 60W Magsafe1 Laptop Charger For APPLE MacBook Pro 13\" MB990 MAGSAFE 60 Adapter",
+        "manufacturer_id": "f134944b3ee1f472b0884ff04da76799f43227ac",
+        "taric_code": "0732981b-0ac5-401f-8822-0dcb65428af3",
+        "variants": [
+          {
+            "id": "82f424a90d630acc188fcf267160a1fe",
+            "name": "Hako 60W Magsafe1 Laptop Charger For APPLE MacBo...",
+            "description": "Key Features of Hako 60W Magsafe1 Laptop Charger For APPLE MacBook Pro 13\" MB990 MAGSAFE 60 Adapter Designed For: APPLE MacBook Pro 13\" MB990 MAGSAFE,Hako 60W Magsafe1 Laptop Charger For APPLE MacBook Pro 13\" MB990 MAGSAFE 60 Adapter Price: Rs. 1,799 Hako laptop adapters come with high quality certification and are compatible with respective brands, all adapters are equipped with protection circuit to protect the laptop all adapters come with 1year warranty.,Specifications of Hako 60W Magsafe1 Laptop Charger For APPLE MacBook Pro 13\" MB990 MAGSAFE 60 Adapter General Brand Hako Designed For APPLE MacBook Pro 13\" MB990 MAGSAFE Sales Package 1 Laptop Adapter Model Name APPLE MacBook Pro 13\" MB990 MAGSAFE Model Id 60W Magsafe1 Laptop Charger For APPLE MacBook Pro 13\" MB990 MAGSAFE Power Power Consumption (W) 60 W Warranty Covered in Warranty Manufacturing Defects Only Warranty Summary 1 Year Warranty Warranty Service Type To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier Not Covered in Warranty Any Physcal Damage will not be covered under warranty",
+            "stock_level": 2060,
+            "price": 2399,
+            "sale": false,
+            "sale_price": 1799,
+            "stock_keeping_unit": "ACCEJ6TESY7AFT5W",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/u/f/7/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/u/f/7/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb402ja-original-imaegwt2ahrtmf7f.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/w/m/x/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2vgqgn4zf.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2vgqgn4zf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/w/m/x/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2ecxhezyz.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mc226lla-original-imaegwt2ecxhezyz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/q/p/f/hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb467cha-original-imaegwt2b9nhzuhu.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-13-mb467cha-original-imaegwt2b9nhzuhu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/4/h/q/hako-60w-magsafe-laptop-charger-for-apple-macbook-pro-13-original-imaegwt2mrwu9aka.jpeg",
+                "filename": "hako-60w-magsafe-laptop-charger-for-apple-macbook-pro-13-original-imaegwt2mrwu9aka.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Hako"] },
+              {
+                "key": "Designed For",
+                "values": ["APPLE MacBook Pro 13\\\" MB990 MAGSAFE"]
+              },
+              { "key": "Sales Package", "values": ["1 Laptop Adapter"] },
+              {
+                "key": "Model Name",
+                "values": ["APPLE MacBook Pro 13\\\" MB990 MAGSAFE"]
+              },
+              {
+                "key": "Model Id",
+                "values": [
+                  "60W Magsafe1 Laptop Charger For APPLE MacBook Pro 13\\\" MB990 MAGSAFE"
+                ]
+              },
+              { "key": "Power Consumption (W)", "values": ["60 W"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects Only"]
+              },
+              { "key": "Warranty Summary", "values": ["1 Year Warranty"] },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "To Claim a Warranty Customer needs to contact seller.. Then he will be guided to the nearest service center.. If the service center is not available in in his area then he needs to courier the product to seller and we will replace the product and send via courier"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Any Physcal Damage will not be covered under warranty"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "77e13cf4e8f5b8e6a799f837ac87d11e66a84275" }
+      },
+      "active": true,
+      "id": "45476fa0d077610a093f81c6b79b5a5b01948c63"
+    },
+    {
+      "product": {
+        "id": "f5b5cb9f0d4854b78c9cf81a998216f5dde42579",
+        "name": "Point Fit Solid Women's V-neck T-Shirt",
+        "description": "Dummy description for product Point Fit Solid Women's V-neck T-Shirt",
+        "manufacturer_id": "2c945fda245b9c5cf2c72880d210aed5c1b2d8b6",
+        "taric_code": "aa5912e5-d2ff-40b4-828a-898f191d662f",
+        "variants": [
+          {
+            "id": "3ba96b1f9d9284d9b3270bc910875a5f",
+            "name": "Point Fit Solid Women's V-neck T-Shirt",
+            "description": "Key Features of Point Fit Solid Women's V-neck T-Shirt Fit: Slim Fit Suitable For: Western Wear Sleeve: Short Sleeve Fabric: Cotton,Point Fit Solid Women's V-neck T-Shirt Price: Rs. 399 Point Fit T-Shirt for Women, suitable for Casual Wear,Specifications of Point Fit Solid Women's V-neck T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric Cotton Type V-neck Fit Regular General Details Pattern Solid Ideal For Women's Occasion Casual Additional Details Style Code PFT1006-M",
+            "stock_level": 2691,
+            "price": 999,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "TSHEGWMXSW5PUJWN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/9/y/y/pft1006-m-point-fit-l-original-imaegvpupszjyjyr.jpeg",
+                "filename": "pft1006-m-point-fit-l-original-imaegvpupszjyjyr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/9/y/y/pft1006-m-point-fit-l-original-imaegvpupszjyjyr.jpeg",
+                "filename": "pft1006-m-point-fit-l-original-imaegvpupszjyjyr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/d/d/j/pft1006-m-point-fit-xl-original-imaegvpukkf8w8va.jpeg",
+                "filename": "pft1006-m-point-fit-xl-original-imaegvpukkf8w8va.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/d/d/j/pft1006-m-point-fit-xl-original-imaegvpur9axewzg.jpeg",
+                "filename": "pft1006-m-point-fit-xl-original-imaegvpur9axewzg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/d/d/j/pft1006-m-point-fit-xl-original-imaegvpuy3zuzfss.jpeg",
+                "filename": "pft1006-m-point-fit-xl-original-imaegvpuy3zuzfss.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["V-neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Style Code", "values": ["PFT1006-M"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "386654a92908c49617577703d20ac30a87d2f133" }
+      },
+      "active": true,
+      "id": "f5b5cb9f0d4854b78c9cf81a998216f5dde42579"
+    },
+    {
+      "product": {
+        "id": "c987652605d86a07ffa896ff28cac0b0afabdb91",
+        "name": "Saba Garments Baby Girl's Gathered Dress",
+        "description": "Dummy description for product Saba Garments Baby Girl's Gathered Dress",
+        "manufacturer_id": "82ce8e8381ec34604ddada6a132ea170f4c87235",
+        "taric_code": "14227a57-aded-40fb-a944-a83f80e63e91",
+        "variants": [
+          {
+            "id": "49f7763dc9c7ece284a1ae27166f8c6c",
+            "name": "Saba Garments Baby Girl's Gathered Dress",
+            "description": "Key Features of Saba Garments Baby Girl's Gathered Dress Rainbow sequece pink party wear gaither gown,Saba Garments Baby Girl's Gathered Dress Price: Rs. 2,750 Tissue net, Cancan net, Cottion lining, stone work.,Specifications of Saba Garments Baby Girl's Gathered Dress Dimensions Length Maxi/Full Length General Details Pattern Solid Ideal For Baby Girl's Occasion Party Dress Details Sleeve Sleeveless Belt Included Yes Number of Contents in Sales Package Pack of 1 Fabric Satin Type Gathered Fabric Care Wash With Similar Colors, Use Detergent For Colors. Additional Details Other Details NA",
+            "stock_level": 3801,
+            "price": 3550,
+            "sale": true,
+            "sale_price": 2750,
+            "stock_keeping_unit": "DREEGWVHWR36YPBY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/dress/p/b/y/sgb-psgown39-saba-garments-7-8-years-original-imaeg82w8gv3wpgu.jpeg",
+                "filename": "sgb-psgown39-saba-garments-7-8-years-original-imaeg82w8gv3wpgu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/dress/z/z/d/sgb-psgown39-saba-garments-3-4-years-original-imaeg82wvq3zyqxk.jpeg",
+                "filename": "sgb-psgown39-saba-garments-3-4-years-original-imaeg82wvq3zyqxk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/dress/p/b/y/sgb-psgown39-saba-garments-7-8-years-original-imaeg82x2xp7pcfu.jpeg",
+                "filename": "sgb-psgown39-saba-garments-7-8-years-original-imaeg82x2xp7pcfu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dress/z/z/d/sgb-psgown39-saba-garments-3-4-years-original-imaeg82xybkhdpjb.jpeg",
+                "filename": "sgb-psgown39-saba-garments-3-4-years-original-imaeg82xybkhdpjb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Length", "values": ["Maxi/Full Length"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Baby Girl's"] },
+              { "key": "Occasion", "values": ["Party"] },
+              { "key": "Sleeve", "values": ["Sleeveless"] },
+              { "key": "Belt Included", "values": ["Yes"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Satin"] },
+              { "key": "Type", "values": ["Gathered"] },
+              {
+                "key": "45388985-9917-419c-8b7f-7c76fc0b60e4",
+                "values": [
+                  "Wash With Similar Colors",
+                  "Use Detergent For Colors."
+                ]
+              },
+              { "key": "Other Details", "values": ["NA"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "d8e68c3a68c534ceed1bbcba6dfb1eac51eaa736" }
+      },
+      "active": true,
+      "id": "c987652605d86a07ffa896ff28cac0b0afabdb91"
+    },
+    {
+      "product": {
+        "id": "b18e02d6d72f1c4396cff51a1fa6e6350122b7dc",
+        "name": "Value Bay VBCMF05 Ceramic Mug",
+        "description": "Dummy description for product Value Bay VBCMF05 Ceramic Mug",
+        "manufacturer_id": "5063b24231d67e1fd73f7c671c15ea4e22c21fd2",
+        "taric_code": "e69a69ff-2d19-417e-a7da-bd7f886557da",
+        "variants": [
+          {
+            "id": "9605afb4ccd2e28a685f35a93db13a59",
+            "name": "Value Bay VBCMF05 Ceramic Mug (3.5 ml)",
+            "description": "Key Features of Value Bay VBCMF05 Ceramic Mug Pack of 1,Specifications of Value Bay VBCMF05 Ceramic Mug (3.5 ml) General Mug Capacity 3.5 ml Material Ceramic Microwave Safe Yes",
+            "stock_level": 2162,
+            "price": 699,
+            "sale": true,
+            "sale_price": 299,
+            "stock_keeping_unit": "MUGEGWT5RGJJHSGN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/mug/s/g/n/1-value-bay-vbcmf05-original-imaegwnhzmhhekxe.jpeg",
+                "filename": "1-value-bay-vbcmf05-original-imaegwnhzmhhekxe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mug Capacity", "values": ["3.5 ml"] },
+              { "key": "Material", "values": ["Ceramic"] },
+              { "key": "Microwave Safe", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "960daae05faf292dadc8ce5bdddfbe7073199450" }
+      },
+      "active": true,
+      "id": "b18e02d6d72f1c4396cff51a1fa6e6350122b7dc"
+    },
+    {
+      "product": {
+        "id": "d79e721a653ca6a7f86e73049bd212979f501329",
+        "name": "Pack N Buy 4 Compartments Plastic Stationary Holder",
+        "description": "Dummy description for product Pack N Buy 4 Compartments Plastic Stationary Holder",
+        "manufacturer_id": "76958e918a23f90ad870153759e2781ebe980d47",
+        "taric_code": "76780217-b48b-4c08-b596-92e4b60cc6c1",
+        "variants": [
+          {
+            "id": "2a750f81b4cdb0aa9f8dc77d8a982b8e",
+            "name": "Pack N Buy 4 Compartments Plastic Stationary Hol...",
+            "description": "Pack N Buy 4 Compartments Plastic Stationary Holder (Black) Price: Rs. 725 From the house of PackNBUY brings to you Keyboard stationary set which contains - A stapler, a hole punch, a keyboard brush (to keep your real keyboard clean) and even a paperclip dispenser under the Enter key. It is small and neat that you will be able to fit it perfectly in any bag or pencil case. This stationery set is perfect for office, school or home desk.,Specifications of Pack N Buy 4 Compartments Plastic Stationary Holder (Black) General Model Name Keyboard Style Desk Stationary Set Body Features Body Material Plastic Number of Compartments 4 Compartments",
+            "stock_level": 6904,
+            "price": 850,
+            "sale": true,
+            "sale_price": 652,
+            "stock_keeping_unit": "DKOEGVQFA2Y6ZBE8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/desk-organizer/b/e/8/pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-1100x1100-imaegujaxw6vtbcb.jpeg",
+                "filename": "pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-1100x1100-imaegujaxw6vtbcb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/desk-organizer/b/e/8/pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-original-imaegujaxw6vtbcb.jpeg",
+                "filename": "pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-original-imaegujaxw6vtbcb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/desk-organizer/b/e/8/pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-original-imaegujbqhzxzgvg.jpeg",
+                "filename": "pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-original-imaegujbqhzxzgvg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/desk-organizer/b/e/8/pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-original-imaegujbydtw773h.jpeg",
+                "filename": "pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-original-imaegujbydtw773h.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/desk-organizer/b/e/8/pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-original-imaegvmxgp4cgc6n.jpeg",
+                "filename": "pack-n-buy-stationary-holder-keyboard-style-desk-stationary-set-original-imaegvmxgp4cgc6n.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Model Name",
+                "values": ["Keyboard Style Desk Stationary Set"]
+              },
+              { "key": "Body Material", "values": ["Plastic"] },
+              { "key": "Number of Compartments", "values": ["4 Compartments"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "06cc90d1ef641430317c17ade39de93687cb5dd7" }
+      },
+      "active": true,
+      "id": "d79e721a653ca6a7f86e73049bd212979f501329"
+    },
+    {
+      "product": {
+        "id": "0e1b30c8fe3982d9d3cef1bd152f0c90a4fde8b8",
+        "name": "Cm Treder kdp37 Motorbike LED Bulb",
+        "description": "Dummy description for product Cm Treder kdp37 Motorbike LED Bulb",
+        "manufacturer_id": "9aef945f6559231d3646487585e1998ce9ab0f2f",
+        "taric_code": "03724f48-a448-4834-a433-d056f3de730d",
+        "variants": [
+          {
+            "id": "8fc17467f7f06cc8c91c1467fda28fe6",
+            "name": "Cm Treder kdp37 Motorbike LED Bulb (Headlight)",
+            "description": "Key Features of Cm Treder kdp37 Motorbike LED Bulb Brightness: 900 lm Color Temperature: 8000 K Color: Red Operating Wattage: 9 W,Specifications of Cm Treder kdp37 Motorbike LED Bulb (Headlight) In the Box Sales Package 1 Vehicle Light Bulb General Brand Cm Treder Model Number kdp37 Type LED Vehicle Type Motorbike Used For Headlight Vehicle Brand Suzuki Vehicle Model Name Access SE Color Red Light Features Brightness 900 lm Color Temperature 8000 K Power Features Operating Wattage 9 W Operating Voltage 12 V",
+            "stock_level": 1154,
+            "price": 499,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "VLBEHHWFMGCMEM4K",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-light-bulb/v/n/h/cm-h4-led-light-108-cm-treder-1100x1100-imaehgz26jvb49yh.jpeg",
+                "filename": "cm-h4-led-light-108-cm-treder-1100x1100-imaehgz26jvb49yh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-light-bulb/v/n/h/cm-h4-led-light-108-cm-treder-original-imaehgz26jvb49yh.jpeg",
+                "filename": "cm-h4-led-light-108-cm-treder-original-imaehgz26jvb49yh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1 Vehicle Light Bulb"] },
+              { "key": "Brand", "values": ["Cm Treder"] },
+              { "key": "Model Number", "values": ["kdp37"] },
+              { "key": "Type", "values": ["LED"] },
+              { "key": "Vehicle Type", "values": ["Motorbike"] },
+              { "key": "Used For", "values": ["Headlight"] },
+              { "key": "Vehicle Brand", "values": ["Suzuki"] },
+              { "key": "Vehicle Model Name", "values": ["Access SE"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Brightness", "values": ["900 lm"] },
+              { "key": "Color Temperature", "values": ["8000 K"] },
+              { "key": "Operating Wattage", "values": ["9 W"] },
+              { "key": "Operating Voltage", "values": ["12 V"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6e76052346d8f364504898445a94ec17d6389ce5" }
+      },
+      "active": true,
+      "id": "0e1b30c8fe3982d9d3cef1bd152f0c90a4fde8b8"
+    },
+    {
+      "product": {
+        "id": "b8d1c73fb780b6dd60c4c618536c273500adbe15",
+        "name": "Imlee Mojaris",
+        "description": "Dummy description for product Imlee Mojaris",
+        "manufacturer_id": "30bf1b6494183ded6273faf62aed92814e5c686f",
+        "taric_code": "f53a9af8-6c2b-449d-87a8-e628d314c8dd",
+        "variants": [
+          {
+            "id": "d2908eead6ef1a4013fa6e1b82e59e46",
+            "name": "Imlee Mojaris",
+            "description": "Specifications of Imlee Mojaris General Ideal For Women Occasion Ethnic Shoe Details Color Pink Outer Material Fabric, Leather Heel Height 0 inch Number of Contents in Sales Package Pack of 1 In the Box 2 Shoes",
+            "stock_level": 4051,
+            "price": 1600,
+            "sale": true,
+            "sale_price": 1600,
+            "stock_keeping_unit": "SHOEFECFE5BHMYZA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/h/k/pink-cr-18-ae-imlee-40-original-imaefd68ftmn77h9.jpeg",
+                "filename": "pink-cr-18-ae-imlee-40-original-imaefd68ftmn77h9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/8/h/k/pink-cr-18-ae-imlee-40-original-imaefd68ftmn77h9.jpeg",
+                "filename": "pink-cr-18-ae-imlee-40-original-imaefd68ftmn77h9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/h/k/pink-cr-18-ae-imlee-39-original-imaefd689a3uu6ue.jpeg",
+                "filename": "pink-cr-18-ae-imlee-39-original-imaefd689a3uu6ue.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/h/k/pink-cr-18-ae-imlee-40-original-imaefd68nxk62fse.jpeg",
+                "filename": "pink-cr-18-ae-imlee-40-original-imaefd68nxk62fse.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/g/h/u/pink-cr-18-ae-imlee-38-original-imaefd68zfgbqr4w.jpeg",
+                "filename": "pink-cr-18-ae-imlee-38-original-imaefd68zfgbqr4w.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/h/k/pink-cr-18-ae-imlee-37-original-imaefd68ktvxtqsv.jpeg",
+                "filename": "pink-cr-18-ae-imlee-37-original-imaefd68ktvxtqsv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Ethnic"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Outer Material", "values": ["Fabric", "Leather"] },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "b3653157-5682-4579-91cf-368423141982",
+                "values": ["2 Shoes"]
+              }
+            ]
+          },
+          {
+            "id": "f83f188e2c8f51f766de0932b353c4dc",
+            "name": "Imlee Mojaris",
+            "description": "Specifications of Imlee Mojaris General Ideal For Women Occasion Ethnic Shoe Details Color Blue, Yellow Outer Material Fabric, Leather Heel Height 0 inch Number of Contents in Sales Package Pack of 1 In the Box 2 Shoes",
+            "stock_level": 7571,
+            "price": 1600,
+            "sale": false,
+            "sale_price": 1600,
+            "stock_keeping_unit": "SHOEFECFFYBYP9QR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-39-original-imaefd68pzahj9z6.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-39-original-imaefd68pzahj9z6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-39-original-imaefd68geg99ub3.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-39-original-imaefd68geg99ub3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-37-original-imaefd689fayufax.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-37-original-imaefd689fayufax.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-39-original-imaefd688hdghax4.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-39-original-imaefd688hdghax4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-41-original-imaefd68ztxqwhca.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-41-original-imaefd68ztxqwhca.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Ethnic"] },
+              { "key": "Color", "values": ["Blue", "Yellow"] },
+              { "key": "Outer Material", "values": ["Fabric", "Leather"] },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "c7fce01a-b37b-4ea6-a4ec-abbf0ab259a1",
+                "values": ["2 Shoes"]
+              }
+            ]
+          },
+          {
+            "id": "b6eca29fa2f4301562547e536839ab01",
+            "name": "Imlee Mojaris",
+            "description": "Key Features of Imlee Mojaris Material: Fabric, Leather Occasion: Ethnic Color: Blue, Yellow Heel Height: 0,Specifications of Imlee Mojaris General Ideal For Women Occasion Ethnic Shoe Details Number of Contents in Sales Package Pack of 1 Heel Height 0 inch Outer Material Fabric, Leather Color Blue, Yellow In the Box 2 Shoes",
+            "stock_level": 6138,
+            "price": 1600,
+            "sale": true,
+            "sale_price": 1600,
+            "stock_keeping_unit": "SHOEFECF6S3UPXZB",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-39-original-imaefd68pzahj9z6.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-39-original-imaefd68pzahj9z6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-39-original-imaefd68geg99ub3.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-39-original-imaefd68geg99ub3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-37-original-imaefd689fayufax.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-37-original-imaefd689fayufax.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-39-original-imaefd688hdghax4.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-39-original-imaefd688hdghax4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/a/t/6/blue-yellow-cr-17-ae-imlee-41-original-imaefd68ztxqwhca.jpeg",
+                "filename": "blue-yellow-cr-17-ae-imlee-41-original-imaefd68ztxqwhca.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Ethnic"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              { "key": "Outer Material", "values": ["Fabric", "Leather"] },
+              { "key": "Color", "values": ["Blue", "Yellow"] },
+              {
+                "key": "5420c0e0-8d41-45f0-8931-ccd3a6568a1c",
+                "values": ["2 Shoes"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "12c9205bfb3ad089d555c924b0e8950e57a5a508" }
+      },
+      "active": true,
+      "id": "b8d1c73fb780b6dd60c4c618536c273500adbe15"
+    },
+    {
+      "product": {
+        "id": "f566c597d9bff047bbea8b248bc8c8f10656b14c",
+        "name": "CEAT 3.00-18 Secura Sport Tube Tyre",
+        "description": "Dummy description for product CEAT 3.00-18 Secura Sport Tube Tyre",
+        "manufacturer_id": "722930a3eeb55a33b0552b23fec96ec7af3d6960",
+        "taric_code": "f79990db-1b70-43a6-9dbd-68588ebfa35d",
+        "variants": [
+          {
+            "id": "e432411ae07c82f9c27b084b6bfe3b5f",
+            "name": "CEAT 3.00-18 Secura Sport Tube Tyre",
+            "description": "CEAT 3.00-18 Secura Sport Tube Tyre Price: Rs. 1,900 Please verify the compatibility of the tyre with your vehicle,Specifications of CEAT 3.00-18 Secura Sport Tube Tyre In The Box Number of Two Wheeler Tyre 1 Sales Package 1 Two Wheeler Tyre With Tube General Brand CEAT Used For Dual Sport Positioning Rear Vehicle Model Name Heat, Glamour, Cd Dawn, Passion, Passion +, Caliber, Wind, Passion X Pro, Glamour PGM Fi, Achiever, CD 100, Unicorn, Shine, Twister, Zeus, Slingshot, Flame 125, Star, Star Sport, Max R, Victor, Fiero, YBR 125, Gladiator, Alba, Libero G5, YBR 110, RX 135, Stallio, Freedom Model Number 3.00-18 Secura Sport Design Type Tube Vehicle Brand Suzuki, Hero Honda, Hero, Honda, Yamaha, LML Material Rubber Construction Type Bias Size 3.00-18 Important Note Please refer to the size specification before you make your purchase, because tyre sizes vary with vehicle models. Warranty Covered in Warranty Manufacturing Defects only Service Type Provided By Nearest Authorized Service Center Of Manufacturer Warranty Summary Manufacturer's Warranty Not Covered in Warranty Defects due to improper usage and other conditions as stipulated by the manufacturer Dimensions Diameter 11.399999999999999 inch Weight 3.5 kg Width 4 inch",
+            "stock_level": 2356,
+            "price": 2850,
+            "sale": false,
+            "sale_price": 1710,
+            "stock_keeping_unit": "TWTEHH2BQ29FYNGV",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/two-wheeler-tyre/n/g/v/3-00-18-secura-sport-ceat-3-00-18-1100x1100-imaeh4zynw9sthzd.jpeg",
+                "filename": "3-00-18-secura-sport-ceat-3-00-18-1100x1100-imaeh4zynw9sthzd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/two-wheeler-tyre/n/g/v/3-00-18-secura-sport-ceat-3-00-18-original-imaeh4zynw9sthzd.jpeg",
+                "filename": "3-00-18-secura-sport-ceat-3-00-18-original-imaeh4zynw9sthzd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Two Wheeler Tyre", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Two Wheeler Tyre With Tube"]
+              },
+              { "key": "Brand", "values": ["CEAT"] },
+              { "key": "Used For", "values": ["Dual Sport"] },
+              { "key": "Positioning", "values": ["Rear"] },
+              {
+                "key": "Vehicle Model Name",
+                "values": [
+                  "Heat",
+                  "Glamour",
+                  "Cd Dawn",
+                  "Passion",
+                  "Passion +",
+                  "Caliber",
+                  "Wind",
+                  "Passion X Pro",
+                  "Glamour PGM Fi",
+                  "Achiever",
+                  "CD 100",
+                  "Unicorn",
+                  "Shine",
+                  "Twister",
+                  "Zeus",
+                  "Slingshot",
+                  "Flame 125",
+                  "Star",
+                  "Star Sport",
+                  "Max R",
+                  "Victor",
+                  "Fiero",
+                  "YBR 125",
+                  "Gladiator",
+                  "Alba",
+                  "Libero G5",
+                  "YBR 110",
+                  "RX 135",
+                  "Stallio",
+                  "Freedom"
+                ]
+              },
+              { "key": "Model Number", "values": ["3.00-18 Secura Sport"] },
+              { "key": "Design Type", "values": ["Tube"] },
+              {
+                "key": "Vehicle Brand",
+                "values": [
+                  "Suzuki",
+                  "Hero Honda",
+                  "Hero",
+                  "Honda",
+                  "Yamaha",
+                  "LML"
+                ]
+              },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Construction Type", "values": ["Bias"] },
+              { "key": "Size", "values": ["3.00-18"] },
+              {
+                "key": "27af5e9b-ea56-4287-838c-029be9b3992f",
+                "values": [
+                  "Please refer to the size specification before you make your purchase",
+                  "because tyre sizes vary with vehicle models."
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects only"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Provided By Nearest Authorized Service Center Of Manufacturer"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturer's Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to improper usage and other conditions as stipulated by the manufacturer"
+                ]
+              },
+              { "key": "Diameter", "values": ["11.399999999999999 inch"] },
+              { "key": "Weight", "values": ["3.5 kg"] },
+              { "key": "Width", "values": ["4 inch"] }
+            ]
+          }
+        ],
+        "category": { "id": "9803c778673ae3ff1706659dae9c54c0d93599ca" }
+      },
+      "active": true,
+      "id": "f566c597d9bff047bbea8b248bc8c8f10656b14c"
+    },
+    {
+      "product": {
+        "id": "7f8854c91d9b3a0e36be5ba37042ea132bfffaf6",
+        "name": "HIMMLISCH STMPL17610 Scooter H4 3Bright Light Bulb White-Mahindra Duro DZ Motorbike LED Bulb",
+        "description": "Dummy description for product HIMMLISCH STMPL17610 Scooter H4 3Bright Light Bulb White-Mahindra Duro DZ Motorbike LED Bulb",
+        "manufacturer_id": "83c4ca8d75a1ef9057ae9942646f08d932204940",
+        "taric_code": "e65e015f-4d7a-4d15-8aa8-27e5a1ab2db7",
+        "variants": [
+          {
+            "id": "ed73177833c7434a9e4662dfc531969c",
+            "name": "HIMMLISCH STMPL17610 Scooter H4 3Bright Light Bu...",
+            "description": "Key Features of HIMMLISCH STMPL17610 Scooter H4 3Bright Light Bulb White-Mahindra Duro DZ Motorbike LED Bulb Brightness: 200 lm Color Temperature: 6000 K Color: White Operating Wattage: 35 W,Specifications of HIMMLISCH STMPL17610 Scooter H4 3Bright Light Bulb White-Mahindra Duro DZ Motorbike LED Bulb (Headlight Pack of 1) In the Box Pack of 1 Sales Package 1 Vehicle Light Bulb General Brand HIMMLISCH Model Number STMPL17610 Scooter H4 3Bright Light Bulb White-Mahindra Duro DZ Type LED Vehicle Type Motorbike Used For Headlight Vehicle Brand Mahindra Vehicle Model Name Duro DZ Color White Light Features Brightness 200 lm Color Temperature 6000 K Power Features Operating Wattage 35 W Operating Voltage 12 V",
+            "stock_level": 9476,
+            "price": 1699,
+            "sale": false,
+            "sale_price": 498,
+            "stock_keeping_unit": "VLBEGWN3KPSAD4Y7",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/vehicle-light-bulb/r/j/k/17610-scooter-h4-3led-light-bulb-white-mahindra-duro-dz-1100x1100-imaegq4fccvnr8xy.jpeg",
+                "filename": "17610-scooter-h4-3led-light-bulb-white-mahindra-duro-dz-1100x1100-imaegq4fccvnr8xy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/vehicle-light-bulb/r/j/k/17610-scooter-h4-3led-light-bulb-white-mahindra-duro-dz-original-imaegq4fccvnr8xy.jpeg",
+                "filename": "17610-scooter-h4-3led-light-bulb-white-mahindra-duro-dz-original-imaegq4fccvnr8xy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Sales Package", "values": ["1 Vehicle Light Bulb"] },
+              { "key": "Brand", "values": ["HIMMLISCH"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "STMPL17610 Scooter H4 3Bright Light Bulb White-Mahindra Duro DZ"
+                ]
+              },
+              { "key": "Type", "values": ["LED"] },
+              { "key": "Vehicle Type", "values": ["Motorbike"] },
+              { "key": "Used For", "values": ["Headlight"] },
+              { "key": "Vehicle Brand", "values": ["Mahindra"] },
+              { "key": "Vehicle Model Name", "values": ["Duro DZ"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Brightness", "values": ["200 lm"] },
+              { "key": "Color Temperature", "values": ["6000 K"] },
+              { "key": "Operating Wattage", "values": ["35 W"] },
+              { "key": "Operating Voltage", "values": ["12 V"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6e76052346d8f364504898445a94ec17d6389ce5" }
+      },
+      "active": true,
+      "id": "7f8854c91d9b3a0e36be5ba37042ea132bfffaf6"
+    },
+    {
+      "product": {
+        "id": "aa3a24ddcf3e8f0402326e82404e26af011754dd",
+        "name": "CEAT 4.00-8 Buland Tube Tyre",
+        "description": "Dummy description for product CEAT 4.00-8 Buland Tube Tyre",
+        "manufacturer_id": "722930a3eeb55a33b0552b23fec96ec7af3d6960",
+        "taric_code": "b9ae6648-def4-4f86-b9e0-dc659f5d25d5",
+        "variants": [
+          {
+            "id": "689bf5e7f46174685838db2bd6a208bd",
+            "name": "CEAT 4.00-8 Buland Tube Tyre",
+            "description": "CEAT 4.00-8 Buland Tube Tyre Price: Rs. 1,330 Please verify the compatibility of the tyre with your vehicle,Specifications of CEAT 4.00-8 Buland Tube Tyre In The Box Number of Two Wheeler Tyre 1 Sales Package 1 Two Wheeler Tyre Without Tube General Brand CEAT Used For Dual Sport Positioning Front & Rear Vehicle Model Name Auto Rickshaw Model Number 4.00-8 Buland Design Type Tube Vehicle Brand BajaJ, TVS Material Rubber Construction Type Bias Size 4.00-8 Important Note Please refer to the size specification before you make your purchase, because tyre sizes vary with vehicle models. Warranty Covered in Warranty Manufacturing Defects only Service Type Provided By Nearest Authorized Service Center Of Manufacturer Warranty Summary Manufacturer's Warranty Not Covered in Warranty Defects due to improper usage and other conditions as stipulated by the manufacturer Dimensions Diameter 15.24 inch Weight 4 kg Width 5 inch",
+            "stock_level": 6690,
+            "price": 1995,
+            "sale": false,
+            "sale_price": 1197,
+            "stock_keeping_unit": "TWTEHH2BJ8AZYFNN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/two-wheeler-tyre/y/k/q/4-00-8-76-eauto-raja-ceat-4-00-8-original-imaeh4zyt45gf3gv.jpeg",
+                "filename": "4-00-8-76-eauto-raja-ceat-4-00-8-original-imaeh4zyt45gf3gv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/two-wheeler-tyre/y/k/q/4-00-8-76-eauto-raja-ceat-4-00-8-original-imaeh4zyt45gf3gv.jpeg",
+                "filename": "4-00-8-76-eauto-raja-ceat-4-00-8-original-imaeh4zyt45gf3gv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Two Wheeler Tyre", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Two Wheeler Tyre Without Tube"]
+              },
+              { "key": "Brand", "values": ["CEAT"] },
+              { "key": "Used For", "values": ["Dual Sport"] },
+              { "key": "Positioning", "values": ["Front and Rear"] },
+              { "key": "Vehicle Model Name", "values": ["Auto Rickshaw"] },
+              { "key": "Model Number", "values": ["4.00-8 Buland"] },
+              { "key": "Design Type", "values": ["Tube"] },
+              { "key": "Vehicle Brand", "values": ["BajaJ", "TVS"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Construction Type", "values": ["Bias"] },
+              { "key": "Size", "values": ["4.00-8"] },
+              {
+                "key": "14b7e9f5-f8a4-493b-b67c-32d8463e25e7",
+                "values": [
+                  "Please refer to the size specification before you make your purchase",
+                  "because tyre sizes vary with vehicle models."
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects only"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Provided By Nearest Authorized Service Center Of Manufacturer"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturer's Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to improper usage and other conditions as stipulated by the manufacturer"
+                ]
+              },
+              { "key": "Diameter", "values": ["15.24 inch"] },
+              { "key": "Weight", "values": ["4 kg"] },
+              { "key": "Width", "values": ["5 inch"] }
+            ]
+          }
+        ],
+        "category": { "id": "9803c778673ae3ff1706659dae9c54c0d93599ca" }
+      },
+      "active": true,
+      "id": "aa3a24ddcf3e8f0402326e82404e26af011754dd"
+    },
+    {
+      "product": {
+        "id": "ea25f179ac25d0ab390c044b12d8049e2fee73de",
+        "name": "Cm Treder cm h4 light 100 Motorbike LED Bulb",
+        "description": "Dummy description for product Cm Treder cm h4 light 100 Motorbike LED Bulb",
+        "manufacturer_id": "9aef945f6559231d3646487585e1998ce9ab0f2f",
+        "taric_code": "1f92a724-8eeb-4979-bc3a-79c8d6b1118b",
+        "variants": [
+          {
+            "id": "2f57a10f8174968119fc817ac63ce8a5",
+            "name": "Cm Treder cm h4 light 100 Motorbike LED Bulb (He...",
+            "description": "Key Features of Cm Treder cm h4 light 100 Motorbike LED Bulb Brightness: 900 lm Color Temperature: 8000 K Color: Red Operating Wattage: 9 W,Specifications of Cm Treder cm h4 light 100 Motorbike LED Bulb (Headlight) In the Box Sales Package 1 Vehicle Light Bulb General Brand Cm Treder Model Number cm h4 light 100 Type LED Vehicle Type Motorbike Used For Headlight Vehicle Brand Suzuki Vehicle Model Name Hayate Color Red Light Features Brightness 900 lm Color Temperature 8000 K Power Features Operating Wattage 9 W Operating Voltage 12 V",
+            "stock_level": 7777,
+            "price": 499,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "VLBEHHW6ZWDUZNAJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-light-bulb/v/n/h/cm-h4-led-light-108-cm-treder-1100x1100-imaehgz26jvb49yh.jpeg",
+                "filename": "cm-h4-led-light-108-cm-treder-1100x1100-imaehgz26jvb49yh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/vehicle-light-bulb/v/n/h/cm-h4-led-light-108-cm-treder-original-imaehgz26jvb49yh.jpeg",
+                "filename": "cm-h4-led-light-108-cm-treder-original-imaehgz26jvb49yh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1 Vehicle Light Bulb"] },
+              { "key": "Brand", "values": ["Cm Treder"] },
+              { "key": "Model Number", "values": ["cm h4 light 100"] },
+              { "key": "Type", "values": ["LED"] },
+              { "key": "Vehicle Type", "values": ["Motorbike"] },
+              { "key": "Used For", "values": ["Headlight"] },
+              { "key": "Vehicle Brand", "values": ["Suzuki"] },
+              { "key": "Vehicle Model Name", "values": ["Hayate"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Brightness", "values": ["900 lm"] },
+              { "key": "Color Temperature", "values": ["8000 K"] },
+              { "key": "Operating Wattage", "values": ["9 W"] },
+              { "key": "Operating Voltage", "values": ["12 V"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6e76052346d8f364504898445a94ec17d6389ce5" }
+      },
+      "active": true,
+      "id": "ea25f179ac25d0ab390c044b12d8049e2fee73de"
+    },
+    {
+      "product": {
+        "id": "1535dd8f959cd783f48b54e268e1822519d65dec",
+        "name": "CEAT 2.75-18 Secura M86 Tube Tyre",
+        "description": "Dummy description for product CEAT 2.75-18 Secura M86 Tube Tyre",
+        "manufacturer_id": "722930a3eeb55a33b0552b23fec96ec7af3d6960",
+        "taric_code": "4e9f53a4-42a4-4079-86e2-d616e41393db",
+        "variants": [
+          {
+            "id": "1313ead994b271308675173d620e1203",
+            "name": "CEAT 2.75-18 Secura M86 Tube Tyre",
+            "description": "CEAT 2.75-18 Secura M86 Tube Tyre Price: Rs. 1,750 Please verify the compatibility of the tyre with your vehicle,Specifications of CEAT 2.75-18 Secura M86 Tube Tyre In The Box Number of Two Wheeler Tyre 1 Sales Package 1 Two Wheeler Tyre With Tube General Brand CEAT Used For Dual Sport Positioning Rear Vehicle Model Name Cd Delux, Super Splednor, Splendor Nxg, Splendor +, Boxer AT, CD Dawn, Caliber, Wind, Achiever, Glamour, Shine, CB Shine, Max 100, Centra, Crux Model Number 2.75-18 Secura M86 Design Type Tube Vehicle Brand Hero, Hero Honda, Bajaj, Honda, TVS, Yamaha, LML Material Rubber Construction Type Bias Size 2.75-18 Important Note Please refer to the size specification before you make your purchase, because tyre sizes vary with vehicle models. Warranty Covered in Warranty Manufacturing Defects only Service Type Provided By Nearest Authorized Service Center Of Manufacturer Warranty Summary Manufacturer's Warranty Not Covered in Warranty Defects due to improper usage and other conditions as stipulated by the manufacturer Dimensions Diameter 10.56 inch Weight 3 kg Width 4 inch",
+            "stock_level": 2930,
+            "price": 2625,
+            "sale": false,
+            "sale_price": 1575,
+            "stock_keeping_unit": "TWTEHH2BCPWGZT7R",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/two-wheeler-tyre/h/u/k/3-00-18-secura-m86-ceat-3-00-18-1100x1100-imaeh4zyee9wd3yb.jpeg",
+                "filename": "3-00-18-secura-m86-ceat-3-00-18-1100x1100-imaeh4zyee9wd3yb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/two-wheeler-tyre/h/u/k/3-00-18-secura-m86-ceat-3-00-18-original-imaeh4zyee9wd3yb.jpeg",
+                "filename": "3-00-18-secura-m86-ceat-3-00-18-original-imaeh4zyee9wd3yb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Two Wheeler Tyre", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Two Wheeler Tyre With Tube"]
+              },
+              { "key": "Brand", "values": ["CEAT"] },
+              { "key": "Used For", "values": ["Dual Sport"] },
+              { "key": "Positioning", "values": ["Rear"] },
+              {
+                "key": "Vehicle Model Name",
+                "values": [
+                  "Cd Delux",
+                  "Super Splednor",
+                  "Splendor Nxg",
+                  "Splendor +",
+                  "Boxer AT",
+                  "CD Dawn",
+                  "Caliber",
+                  "Wind",
+                  "Achiever",
+                  "Glamour",
+                  "Shine",
+                  "CB Shine",
+                  "Max 100",
+                  "Centra",
+                  "Crux"
+                ]
+              },
+              { "key": "Model Number", "values": ["2.75-18 Secura M86"] },
+              { "key": "Design Type", "values": ["Tube"] },
+              {
+                "key": "Vehicle Brand",
+                "values": [
+                  "Hero",
+                  "Hero Honda",
+                  "Bajaj",
+                  "Honda",
+                  "TVS",
+                  "Yamaha",
+                  "LML"
+                ]
+              },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Construction Type", "values": ["Bias"] },
+              { "key": "Size", "values": ["2.75-18"] },
+              {
+                "key": "c145d6a2-811c-4336-8839-a5353bb39cdb",
+                "values": [
+                  "Please refer to the size specification before you make your purchase",
+                  "because tyre sizes vary with vehicle models."
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects only"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Provided By Nearest Authorized Service Center Of Manufacturer"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturer's Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to improper usage and other conditions as stipulated by the manufacturer"
+                ]
+              },
+              { "key": "Diameter", "values": ["10.56 inch"] },
+              { "key": "Weight", "values": ["3 kg"] },
+              { "key": "Width", "values": ["4 inch"] }
+            ]
+          }
+        ],
+        "category": { "id": "9803c778673ae3ff1706659dae9c54c0d93599ca" }
+      },
+      "active": true,
+      "id": "1535dd8f959cd783f48b54e268e1822519d65dec"
+    },
+    {
+      "product": {
+        "id": "70115b7a042586afa2f00a25f829728798dd72a3",
+        "name": "CEAT 3.50-19 Milaze TT Tube Tyre",
+        "description": "Dummy description for product CEAT 3.50-19 Milaze TT Tube Tyre",
+        "manufacturer_id": "722930a3eeb55a33b0552b23fec96ec7af3d6960",
+        "taric_code": "9635e139-f3fb-4d34-baaf-939794e95da7",
+        "variants": [
+          {
+            "id": "376907425cff7cf6c960950988f3c27b",
+            "name": "CEAT 3.50-19 Milaze TT Tube Tyre",
+            "description": "CEAT 3.50-19 Milaze TT Tube Tyre Price: Rs. 2,250 Please verify the compatibility of the tyre with your vehicle,Specifications of CEAT 3.50-19 Milaze TT Tube Tyre In The Box Number of Two Wheeler Tyre 1 Sales Package 1 Two Wheeler Tyre With Tube General Brand CEAT Used For Dual Sport Positioning Rear Vehicle Model Name Bullet 500cc, Bullet, Bullet 350, Blade Model Number 3.50-19 Milaze TT Design Type Tube Vehicle Brand Royal Enfield, Bajaj Material Rubber Construction Type Bias Size 3.50-19 Important Note Please refer to the size specification before you make your purchase, because tyre sizes vary with vehicle models. Warranty Covered in Warranty Manufacturing Defects only Service Type Provided By Nearest Authorized Service Center Of Manufacturer Warranty Summary Manufacturer's Warranty Not Covered in Warranty Defects due to improper usage and other conditions as stipulated by the manufacturer Dimensions Diameter 13.32 inch Weight 3.5 kg Width 5 inch",
+            "stock_level": 7080,
+            "price": 3375,
+            "sale": false,
+            "sale_price": 2025,
+            "stock_keeping_unit": "TWTEHH2BCWXHVTHF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/two-wheeler-tyre/h/n/c/3-25-19-milaze-tt-ceat-3-25-19-1100x1100-imaeh4zyr9bn5jn5.jpeg",
+                "filename": "3-25-19-milaze-tt-ceat-3-25-19-1100x1100-imaeh4zyr9bn5jn5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/two-wheeler-tyre/h/n/c/3-25-19-milaze-tt-ceat-3-25-19-original-imaeh4zyr9bn5jn5.jpeg",
+                "filename": "3-25-19-milaze-tt-ceat-3-25-19-original-imaeh4zyr9bn5jn5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Two Wheeler Tyre", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Two Wheeler Tyre With Tube"]
+              },
+              { "key": "Brand", "values": ["CEAT"] },
+              { "key": "Used For", "values": ["Dual Sport"] },
+              { "key": "Positioning", "values": ["Rear"] },
+              {
+                "key": "Vehicle Model Name",
+                "values": ["Bullet 500cc", "Bullet", "Bullet 350", "Blade"]
+              },
+              { "key": "Model Number", "values": ["3.50-19 Milaze TT"] },
+              { "key": "Design Type", "values": ["Tube"] },
+              { "key": "Vehicle Brand", "values": ["Royal Enfield", "Bajaj"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Construction Type", "values": ["Bias"] },
+              { "key": "Size", "values": ["3.50-19"] },
+              {
+                "key": "ca5c045c-7a16-44aa-b5c9-4d654c9accc2",
+                "values": [
+                  "Please refer to the size specification before you make your purchase",
+                  "because tyre sizes vary with vehicle models."
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects only"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Provided By Nearest Authorized Service Center Of Manufacturer"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturer's Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to improper usage and other conditions as stipulated by the manufacturer"
+                ]
+              },
+              { "key": "Diameter", "values": ["13.32 inch"] },
+              { "key": "Weight", "values": ["3.5 kg"] },
+              { "key": "Width", "values": ["5 inch"] }
+            ]
+          }
+        ],
+        "category": { "id": "9803c778673ae3ff1706659dae9c54c0d93599ca" }
+      },
+      "active": true,
+      "id": "70115b7a042586afa2f00a25f829728798dd72a3"
+    },
+    {
+      "product": {
+        "id": "800c3eb573a0a70721e00db72f17a54907fc94b1",
+        "name": "CEAT 100/90-17 Milaze TT Tube Tyre",
+        "description": "Dummy description for product CEAT 100/90-17 Milaze TT Tube Tyre",
+        "manufacturer_id": "722930a3eeb55a33b0552b23fec96ec7af3d6960",
+        "taric_code": "8264a1c5-207e-436d-81e9-16f076689e59",
+        "variants": [
+          {
+            "id": "5d90d0d49d5a341d439065a7816b2781",
+            "name": "CEAT 100/90-17 Milaze TT Tube Tyre",
+            "description": "CEAT 100/90-17 Milaze TT Tube Tyre Price: Rs. 2,180 Please verify the compatibility of the tyre with your vehicle,Specifications of CEAT 100/90-17 Milaze TT Tube Tyre In The Box Number of Two Wheeler Tyre 1 Sales Package 1 Two Wheeler Tyre With Tube General Brand CEAT Used For Dual Sport Positioning Rear Vehicle Model Name Pulsar 150, Pulsar 180, CBF Stunner, Flame, Apache, SZ150 Model Number 100/90-17 Milaze TT Design Type Tube Vehicle Brand Bajaj, Honda, TVS, Yamaha Material Rubber Construction Type Bias Size 100/90-17 Important Note Please refer to the size specification before you make your purchase, because tyre sizes vary with vehicle models. Warranty Covered in Warranty Manufacturing Defects only Service Type Provided By Nearest Authorized Service Center Of Manufacturer Warranty Summary Manufacturer's Warranty Not Covered in Warranty Defects due to improper usage and other conditions as stipulated by the manufacturer Dimensions Diameter 60 cm Weight 4 kg Width 100 mm",
+            "stock_level": 1635,
+            "price": 3270,
+            "sale": false,
+            "sale_price": 1962,
+            "stock_keeping_unit": "TWTEHH2B5EZ4PK6U",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/two-wheeler-tyre/h/n/c/3-25-19-milaze-tt-ceat-3-25-19-1100x1100-imaeh4zyr9bn5jn5.jpeg",
+                "filename": "3-25-19-milaze-tt-ceat-3-25-19-1100x1100-imaeh4zyr9bn5jn5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/two-wheeler-tyre/h/n/c/3-25-19-milaze-tt-ceat-3-25-19-original-imaeh4zyr9bn5jn5.jpeg",
+                "filename": "3-25-19-milaze-tt-ceat-3-25-19-original-imaeh4zyr9bn5jn5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Two Wheeler Tyre", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Two Wheeler Tyre With Tube"]
+              },
+              { "key": "Brand", "values": ["CEAT"] },
+              { "key": "Used For", "values": ["Dual Sport"] },
+              { "key": "Positioning", "values": ["Rear"] },
+              {
+                "key": "Vehicle Model Name",
+                "values": [
+                  "Pulsar 150",
+                  "Pulsar 180",
+                  "CBF Stunner",
+                  "Flame",
+                  "Apache",
+                  "SZ150"
+                ]
+              },
+              { "key": "Model Number", "values": ["100/90-17 Milaze TT"] },
+              { "key": "Design Type", "values": ["Tube"] },
+              {
+                "key": "Vehicle Brand",
+                "values": ["Bajaj", "Honda", "TVS", "Yamaha"]
+              },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Construction Type", "values": ["Bias"] },
+              { "key": "Size", "values": ["100/90-17"] },
+              {
+                "key": "0680535e-a1cc-434c-9945-b4fdc3033ec2",
+                "values": [
+                  "Please refer to the size specification before you make your purchase",
+                  "because tyre sizes vary with vehicle models."
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects only"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Provided By Nearest Authorized Service Center Of Manufacturer"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturer's Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to improper usage and other conditions as stipulated by the manufacturer"
+                ]
+              },
+              { "key": "Diameter", "values": ["60 cm"] },
+              { "key": "Weight", "values": ["4 kg"] },
+              { "key": "Width", "values": ["100 mm"] }
+            ]
+          }
+        ],
+        "category": { "id": "9803c778673ae3ff1706659dae9c54c0d93599ca" }
+      },
+      "active": true,
+      "id": "800c3eb573a0a70721e00db72f17a54907fc94b1"
+    },
+    {
+      "product": {
+        "id": "3453224cb02510696f869e5408a12f84d64ac5ff",
+        "name": "D'Panache Mojaris",
+        "description": "Dummy description for product D'Panache Mojaris",
+        "manufacturer_id": "9628b84f01f823028ec8787f4cf76786020e423e",
+        "taric_code": "a6c4add1-29ca-4687-96f2-fa06eda0da6a",
+        "variants": [
+          {
+            "id": "c23afd60ce804590439a433210b5f0b6",
+            "name": "D'Panache Mojaris",
+            "description": "Specifications of D'Panache Mojaris General Ideal For Women Occasion Ethnic Shoe Details Color Multicolor Outer Material Genuine Leather Heel Height 0 inch Number of Contents in Sales Package Pack of 1 In the Box 80 Mojaris",
+            "stock_level": 3187,
+            "price": 999,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "SHOEFG8PSSYNGA9B",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-43-original-imaefdzehxtndyeb.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-43-original-imaefdzehxtndyeb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-35-original-imaefdzeh6ctwnth.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-35-original-imaefdzeh6ctwnth.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-36-original-imaefdzev9bgebnc.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-36-original-imaefdzev9bgebnc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-40-original-imaefdzepsw7pnyp.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-40-original-imaefdzepsw7pnyp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-39-original-imaefdzehcsxh4rp.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-39-original-imaefdzehcsxh4rp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-41-original-imaefdzemyzwxhh2.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-41-original-imaefdzemyzwxhh2.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-39-original-imaefdzewjnbgjgh.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-39-original-imaefdzewjnbgjgh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-40-original-imaefdzecjzxeyxe.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-40-original-imaefdzecjzxeyxe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-43-original-imaefdzeertgzg2n.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-43-original-imaefdzeertgzg2n.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/z/g/c/multicolor-dp-211-multi-20-d-panache-36-original-imaefdzeaekgfxzk.jpeg",
+                "filename": "multicolor-dp-211-multi-20-d-panache-36-original-imaefdzeaekgfxzk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Ethnic"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Outer Material", "values": ["Genuine Leather"] },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "06063ad1-bc0d-4824-b5dd-e924b6cf9617",
+                "values": ["80 Mojaris"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "12c9205bfb3ad089d555c924b0e8950e57a5a508" }
+      },
+      "active": true,
+      "id": "3453224cb02510696f869e5408a12f84d64ac5ff"
+    },
+    {
+      "product": {
+        "id": "5e3cd7c57c0e57e1a61a213b2b21993ae5962301",
+        "name": "CEAT 3.50-10 Milaze TT Tube Tyre",
+        "description": "Dummy description for product CEAT 3.50-10 Milaze TT Tube Tyre",
+        "manufacturer_id": "722930a3eeb55a33b0552b23fec96ec7af3d6960",
+        "taric_code": "b85274cc-bbfc-4f28-9901-bf0da32480d1",
+        "variants": [
+          {
+            "id": "dc079733ec11340f5ee61640028ec3e5",
+            "name": "CEAT 3.50-10 Milaze TT Tube Tyre",
+            "description": "CEAT 3.50-10 Milaze TT Tube Tyre Price: Rs. 1,200 Please verify the compatibility of the tyre with your vehicle,Specifications of CEAT 3.50-10 Milaze TT Tube Tyre In The Box Number of Two Wheeler Tyre 1 Sales Package 1 Two Wheeler Tyre Without Tube General Brand CEAT Used For Dual Sport Positioning Front & Rear Vehicle Model Name Pleasure, Chetak, Legend, Saffire, Wave, Spectra, Flyte, Duro, Duro DZ, LML Vespa, Rodeo, LML NV, Star Euro, 4s, Edge Model Number 3.50-10 Milaze TT Design Type Tube Vehicle Brand Hero, Hero Honda, Bajaj, TVS, Mahindra, Vespa, BSA Material Rubber Construction Type Bias Size 3.50-10 Important Note Please refer to the size specification before you make your purchase, because tyre sizes vary with vehicle models. Warranty Covered in Warranty Manufacturing Defects only Service Type Provided By Nearest Authorized Service Center Of Manufacturer Warranty Summary Manufacturer's Warranty Not Covered in Warranty Defects due to improper usage and other conditions as stipulated by the manufacturer Dimensions Diameter 13.32 inch Weight 2 kg Width 3 inch",
+            "stock_level": 3147,
+            "price": 1800,
+            "sale": true,
+            "sale_price": 1080,
+            "stock_keeping_unit": "TWTEHH2BXEHVZD7E",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/two-wheeler-tyre/d/7/e/3-50-10-milaze-tt-ceat-3-50-10-original-imaeh4zy4eq97ypn.jpeg",
+                "filename": "3-50-10-milaze-tt-ceat-3-50-10-original-imaeh4zy4eq97ypn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Two Wheeler Tyre", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Two Wheeler Tyre Without Tube"]
+              },
+              { "key": "Brand", "values": ["CEAT"] },
+              { "key": "Used For", "values": ["Dual Sport"] },
+              { "key": "Positioning", "values": ["Front and Rear"] },
+              {
+                "key": "Vehicle Model Name",
+                "values": [
+                  "Pleasure",
+                  "Chetak",
+                  "Legend",
+                  "Saffire",
+                  "Wave",
+                  "Spectra",
+                  "Flyte",
+                  "Duro",
+                  "Duro DZ",
+                  "LML Vespa",
+                  "Rodeo",
+                  "LML NV",
+                  "Star Euro",
+                  "4s",
+                  "Edge"
+                ]
+              },
+              { "key": "Model Number", "values": ["3.50-10 Milaze TT"] },
+              { "key": "Design Type", "values": ["Tube"] },
+              {
+                "key": "Vehicle Brand",
+                "values": [
+                  "Hero",
+                  "Hero Honda",
+                  "Bajaj",
+                  "TVS",
+                  "Mahindra",
+                  "Vespa",
+                  "BSA"
+                ]
+              },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Construction Type", "values": ["Bias"] },
+              { "key": "Size", "values": ["3.50-10"] },
+              {
+                "key": "e5a9a683-1d03-486e-acc9-b89260f5e466",
+                "values": [
+                  "Please refer to the size specification before you make your purchase",
+                  "because tyre sizes vary with vehicle models."
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects only"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Provided By Nearest Authorized Service Center Of Manufacturer"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturer's Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to improper usage and other conditions as stipulated by the manufacturer"
+                ]
+              },
+              { "key": "Diameter", "values": ["13.32 inch"] },
+              { "key": "Weight", "values": ["2 kg"] },
+              { "key": "Width", "values": ["3 inch"] }
+            ]
+          }
+        ],
+        "category": { "id": "9803c778673ae3ff1706659dae9c54c0d93599ca" }
+      },
+      "active": true,
+      "id": "5e3cd7c57c0e57e1a61a213b2b21993ae5962301"
+    },
+    {
+      "product": {
+        "id": "fb954b9ef41517193f1f726cd5bd6e3964a232a3",
+        "name": "CEAT 140/70-17 Zoom XL TL Tube Less Tyre",
+        "description": "Dummy description for product CEAT 140/70-17 Zoom XL TL Tube Less Tyre",
+        "manufacturer_id": "722930a3eeb55a33b0552b23fec96ec7af3d6960",
+        "taric_code": "42d50cd0-ea18-4d7b-a03c-7ce4b4a529a4",
+        "variants": [
+          {
+            "id": "44657839114df24d778ac22748bbdcb5",
+            "name": "CEAT 140/70-17 Zoom XL TL Tube Less Tyre",
+            "description": "CEAT 140/70-17 Zoom XL TL Tube Less Tyre Price: Rs. 3,100 Please verify the compatibility of the tyre with your vehicle,Specifications of CEAT 140/70-17 Zoom XL TL Tube Less Tyre In The Box Number of Two Wheeler Tyre 1 Sales Package 1 Two Wheeler Tyre General Brand CEAT Used For Dual Sport Positioning Rear Vehicle Model Name FZ S, FZ 16, CBR, Fazer, CBR 250, Gixxer, Gixxer SF, CBR 250R, Ninja, SOFTAIL, HX 250R, TNT 25 Model Number 140/70-17 Zoom XL TL Design Type Tube Less Vehicle Brand Yamaha, Honda, Suzuki, Harley Davidson, Hero, Benelli Material Rubber Construction Type Bias Size 140/70-17 Important Note Please refer to the size specification before you make your purchase, because tyre sizes vary with vehicle models. Warranty Covered in Warranty Manufacturing Defects only Service Type Provided By Nearest Authorized Service Center Of Manufacturer Warranty Summary Manufacturer's Warranty Not Covered in Warranty Defects due to improper usage and other conditions as stipulated by the manufacturer Dimensions Diameter 60 cm Weight 4 kg Width 140 mm",
+            "stock_level": 9411,
+            "price": 4650,
+            "sale": false,
+            "sale_price": 2790,
+            "stock_keeping_unit": "TWTEHH2B5SJAKDBD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/two-wheeler-tyre/p/z/t/100-90-17-zoom-xl-tl-rr-ceat-100-90-17-1100x1100-imaeh4zyze4zdsnz.jpeg",
+                "filename": "100-90-17-zoom-xl-tl-rr-ceat-100-90-17-1100x1100-imaeh4zyze4zdsnz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/two-wheeler-tyre/p/z/t/100-90-17-zoom-xl-tl-rr-ceat-100-90-17-original-imaeh4zyze4zdsnz.jpeg",
+                "filename": "100-90-17-zoom-xl-tl-rr-ceat-100-90-17-original-imaeh4zyze4zdsnz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Two Wheeler Tyre", "values": ["1"] },
+              { "key": "Sales Package", "values": ["1 Two Wheeler Tyre"] },
+              { "key": "Brand", "values": ["CEAT"] },
+              { "key": "Used For", "values": ["Dual Sport"] },
+              { "key": "Positioning", "values": ["Rear"] },
+              {
+                "key": "Vehicle Model Name",
+                "values": [
+                  "FZ S",
+                  "FZ 16",
+                  "CBR",
+                  "Fazer",
+                  "CBR 250",
+                  "Gixxer",
+                  "Gixxer SF",
+                  "CBR 250R",
+                  "Ninja",
+                  "SOFTAIL",
+                  "HX 250R",
+                  "TNT 25"
+                ]
+              },
+              { "key": "Model Number", "values": ["140/70-17 Zoom XL TL"] },
+              { "key": "Design Type", "values": ["Tube Less"] },
+              {
+                "key": "Vehicle Brand",
+                "values": [
+                  "Yamaha",
+                  "Honda",
+                  "Suzuki",
+                  "Harley Davidson",
+                  "Hero",
+                  "Benelli"
+                ]
+              },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Construction Type", "values": ["Bias"] },
+              { "key": "Size", "values": ["140/70-17"] },
+              {
+                "key": "380ed6f1-8bc3-4d26-9276-a431b844ce40",
+                "values": [
+                  "Please refer to the size specification before you make your purchase",
+                  "because tyre sizes vary with vehicle models."
+                ]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects only"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Provided By Nearest Authorized Service Center Of Manufacturer"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturer's Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to improper usage and other conditions as stipulated by the manufacturer"
+                ]
+              },
+              { "key": "Diameter", "values": ["60 cm"] },
+              { "key": "Weight", "values": ["4 kg"] },
+              { "key": "Width", "values": ["140 mm"] }
+            ]
+          }
+        ],
+        "category": { "id": "9803c778673ae3ff1706659dae9c54c0d93599ca" }
+      },
+      "active": true,
+      "id": "fb954b9ef41517193f1f726cd5bd6e3964a232a3"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

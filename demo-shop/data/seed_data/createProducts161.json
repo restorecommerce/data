@@ -1,0 +1,3077 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "4e0342541dd049b9c0586b7df116113eea5fe31c",
+        "name": "Jerry's Jppb11584 XL Pet Bed",
+        "description": "Dummy description for product Jerry's Jppb11584 XL Pet Bed",
+        "manufacturer_id": "4dc42aa04c6a34468161aaaf18050e4f4cdbdce7",
+        "taric_code": "6de7c8b6-e4e3-4962-956f-ec3f774e90c8",
+        "variants": [
+          {
+            "id": "b0f3903cabb78765a9468ef1c7d0193b",
+            "name": "Pet Furniture",
+            "description": "Jerry's Jppb11584 XL Pet Bed (Red, Black)\n                         Price: Rs. 1,796\n\t\t\t\t\n\t\t\tHigh Quality Velvet Fabric with high life cycle, Silk Cotton/Polyfil used inside the bed makes the bed extremely soft and comfortable for the pets, very durable. The Bed is one of our highest selling products due to its unique design , dimensions and its softness. USP's of the product are : # Washable # Suitable for all Weathers # Highly Durable # Easy to carry # Highly Comfortable # REVERSIBLE\nHigh Quality Velvet Fabric with high life cycle, Silk Cotton/Polyfil used inside the bed makes the bed extremely soft and comfortable for the pets, very durable. The Bed is one of our highest selling products due to its unique design , dimensions and its softness. USP's of the product are : # Washable # Suitable for all Weathers # Highly Durable # Easy to carry # Highly Comfortable # REVERSIBLE",
+            "stock_level": 3902,
+            "price": 4004,
+            "sale": false,
+            "sale_price": 1796,
+            "stock_keeping_unit": "PEBED5CDEVZWJN4D",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/j/2/g/jppb11582-jerry-s-m-1100x1100-imaed57xjkdhzu6u.jpeg",
+                "filename": "jppb11582-jerry-s-m-1100x1100-imaed57xjkdhzu6u.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/j/2/g/jppb11582-jerry-s-m-original-imaed57xjkdhzu6u.jpeg",
+                "filename": "jppb11582-jerry-s-m-original-imaed57xjkdhzu6u.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/k/v/2/jppb11581-jerry-s-s-original-imaed57xzpcjs69g.jpeg",
+                "filename": "jppb11581-jerry-s-s-original-imaed57xzpcjs69g.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/k/v/2/jppb11581-jerry-s-s-original-imaed57xfezv5nmk.jpeg",
+                "filename": "jppb11581-jerry-s-s-original-imaed57xfezv5nmk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/k/v/2/jppb11581-jerry-s-s-original-imaed57xazzuwuge.jpeg",
+                "filename": "jppb11581-jerry-s-s-original-imaed57xazzuwuge.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "e5e810b6-6ec2-45bc-b3b8-f79d8a74b080",
+                "values": ["1 Pet Bed"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand", "values": ["Jerry's"] },
+              { "key": "Brand Color", "values": ["Red", "Black"] },
+              { "key": "Model Number", "values": ["Jppb11584"] },
+              { "key": "Material", "values": ["Fabric", "Polyfil"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Size", "values": ["XL"] },
+              { "key": "Color", "values": ["Red", "Black"] },
+              { "key": "Bed Type", "values": ["Bolster"] },
+              { "key": "Height", "values": ["54 cm"] },
+              { "key": "Width", "values": ["63 cm"] },
+              { "key": "Depth", "values": ["20 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": false,
+      "id": "4e0342541dd049b9c0586b7df116113eea5fe31c"
+    },
+    {
+      "product": {
+        "id": "220827886f3326fed826c613eb422fa710ce7e64",
+        "name": "Techone+ Flexible SE122103-GREEN USB Led Light",
+        "description": "Dummy description for product Techone+ Flexible SE122103-GREEN USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "2e34a9c1-e620-4ccf-bca7-970cd761fc5a",
+        "variants": [
+          {
+            "id": "e426290a8f57e82680275bb91df91ad1",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Flexible SE122103-GREEN USB Led Light (Green)\n                         Price: Rs. 449\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 3325,
+            "price": 699,
+            "sale": true,
+            "sale_price": 449,
+            "stock_keeping_unit": "USGEDDUFGZ6TVAZU",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/z/u/se122103-green-techone-1100x1100-imaecpkzts4zkgnw.jpeg",
+                "filename": "se122103-green-techone-1100x1100-imaecpkzts4zkgnw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/a/z/u/se122103-green-techone-original-imaecpkzts4zkgnw.jpeg",
+                "filename": "se122103-green-techone-original-imaecpkzts4zkgnw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/z/u/se122103-green-techone-original-imaecpkzbvc32haz.jpeg",
+                "filename": "se122103-green-techone-original-imaecpkzbvc32haz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/6/c/8/se122101-green-techone-original-imae9rvba6rtg7hv.jpeg",
+                "filename": "se122101-green-techone-original-imae9rvba6rtg7hv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Flexible"] },
+              { "key": "Model ID", "values": ["SE122103-GREEN"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Weight", "values": ["300 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 8"]
+              },
+              { "key": "Sales Package", "values": ["8 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "220827886f3326fed826c613eb422fa710ce7e64"
+    },
+    {
+      "product": {
+        "id": "38a6d79619ce3e4f9f691359631ec7cc6f00e289",
+        "name": "Sitech 4 Port High Speed 3.0 USB USB Hub",
+        "description": "Dummy description for product Sitech 4 Port High Speed 3.0 USB USB Hub",
+        "manufacturer_id": "ee231e2331a5e86ee4c8bff37c5e3612079f0538",
+        "taric_code": "d927dd84-669e-42e0-bd07-1d9176b1173e",
+        "variants": [
+          {
+            "id": "3ead8a9b1e41dd34421de951c43575e3",
+            "name": "Sitech USB Gadgets",
+            "description": "Buy Sitech 4 Port High Speed 3.0 USB USB Hub for Rs.220 online. Sitech 4 Port High Speed 3.0 USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4354,
+            "price": 300,
+            "sale": false,
+            "sale_price": 220,
+            "stock_keeping_unit": "USGEDHJ8KEWQQGWP",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/g/w/p/high-speed-3-0-sitech-1100x1100-imaedh7kncz62wdb.jpeg",
+                "filename": "high-speed-3-0-sitech-1100x1100-imaedh7kncz62wdb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/g/w/p/high-speed-3-0-sitech-original-imaedh7kncz62wdb.jpeg",
+                "filename": "high-speed-3-0-sitech-original-imaedh7kncz62wdb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Sitech"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              {
+                "key": "System Requirements",
+                "values": ["USB Port 2.0 and Above"]
+              },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["4 Port"] },
+              { "key": "Model ID", "values": ["High Speed 3.0"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Sales Package", "values": ["USB Gadget"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "38a6d79619ce3e4f9f691359631ec7cc6f00e289"
+    },
+    {
+      "product": {
+        "id": "f6fb21d34d58f968da7d2626c87b1d1d1df12a6f",
+        "name": "Himtek light led 1 USB Led Light",
+        "description": "Dummy description for product Himtek light led 1 USB Led Light",
+        "manufacturer_id": "30f3e6f5d1082955bf2d1ef449cab767bb457bde",
+        "taric_code": "e88f3eef-b59a-494e-b7e7-b6cd1371200a",
+        "variants": [
+          {
+            "id": "fc9a650d545a50c72556bed0df59efa1",
+            "name": "Himtek USB Gadgets",
+            "description": "Buy Himtek light led 1 USB Led Light for Rs.119 online. Himtek light led 1 USB Led Light at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1857,
+            "price": 299,
+            "sale": false,
+            "sale_price": 119,
+            "stock_keeping_unit": "USGEDMYNBNACWGHG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/u/g/j/laptop-gj-0099-bloomy-original-imae7v6mpyfzaqkg.jpeg",
+                "filename": "laptop-gj-0099-bloomy-original-imae7v6mpyfzaqkg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/u/g/j/laptop-gj-0099-bloomy-original-imae7v6mpyfzaqkg.jpeg",
+                "filename": "laptop-gj-0099-bloomy-original-imae7v6mpyfzaqkg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/y/r/t/v-7-himtek-original-imaeasgyvytchkk6.jpeg",
+                "filename": "v-7-himtek-original-imaeasgyvytchkk6.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/q/k/c/lmp-01-vipar-original-imae7fzggsmuppwr.jpeg",
+                "filename": "lmp-01-vipar-original-imae7fzggsmuppwr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/q/6/v-8-himtek-original-imaed5cqqysuezvb.jpeg",
+                "filename": "v-8-himtek-original-imaed5cqqysuezvb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/j/g/e/v-3-himtek-original-imaebs9npnat4g3j.jpeg",
+                "filename": "v-3-himtek-original-imaebs9npnat4g3j.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Himtek"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "Model Name", "values": ["light"] },
+              { "key": "Material", "values": ["flexible"] },
+              { "key": "System Requirements", "values": ["usb port"] },
+              { "key": "Model ID", "values": ["led 1"] },
+              {
+                "key": "Color",
+                "values": [
+                  "black",
+                  "green",
+                  "orange",
+                  "pink",
+                  "white",
+                  "yellow"
+                ]
+              },
+              { "key": "Sales Package", "values": ["1 usb light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "f6fb21d34d58f968da7d2626c87b1d1d1df12a6f"
+    },
+    {
+      "product": {
+        "id": "9b6f4deccd0510b5c04649176daf0d7e0c39c6ae",
+        "name": "RRP Born To Have Lxs-001 USB Led Light",
+        "description": "Dummy description for product RRP Born To Have Lxs-001 USB Led Light",
+        "manufacturer_id": "c317ac1045beb5bdb8bbe0d764a7e64aafeb2307",
+        "taric_code": "8c28d771-be8b-4960-91e3-a38d88db229e",
+        "variants": [
+          {
+            "id": "812bfd40e47dfde2ff5326e899b42577",
+            "name": "RRP USB Gadgets",
+            "description": "RRP Born To Have Lxs-001 USB Led Light (Purple)\n                         Price: Rs. 99\n\t\t\t\t\n\t\t\tPortable USB Led light from Portronics is a battery free USB Light that is perfect to be used with Laptops, adapters and Power Banks. It is very compact in size and flexible hence can fit into any position based on use and utility. The Power consumption is very limited but is able to light the whole area around.\nPortable USB Led light from Portronics is a battery free USB Light that is perfect to be used with Laptops, adapters and Power Banks. It is very compact in size and flexible hence can fit into any position based on use and utility. The Power consumption is very limited but is able to light the whole area around.",
+            "stock_level": 9340,
+            "price": 399,
+            "sale": true,
+            "sale_price": 99,
+            "stock_keeping_unit": "USGEDSGQYHMHBZGH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/g/h/lxs-001-rrp-1100x1100-imaedsev277kdrug.jpeg",
+                "filename": "lxs-001-rrp-1100x1100-imaedsev277kdrug.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/g/h/lxs-001-rrp-original-imaedsev277kdrug.jpeg",
+                "filename": "lxs-001-rrp-original-imaedsev277kdrug.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/g/h/lxs-001-rrp-original-imaedsf6fwemrdak.jpeg",
+                "filename": "lxs-001-rrp-original-imaedsf6fwemrdak.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/g/h/lxs-001-rrp-original-imaedsfazuestutz.jpeg",
+                "filename": "lxs-001-rrp-original-imaedsfazuestutz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/g/h/lxs-001-rrp-original-imaedsfbpnjntu7g.jpeg",
+                "filename": "lxs-001-rrp-original-imaedsfbpnjntu7g.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Lamp Adjustment", "values": ["Flexible"] },
+              { "key": "Brand", "values": ["RRP"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Control Features", "values": ["Stick"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["Born To Have"] },
+              { "key": "Model ID", "values": ["Lxs-001"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Number of Bulbs", "values": ["1"] },
+              { "key": "Covered in Warranty", "values": ["NA"] },
+              { "key": "Warranty Summary", "values": ["NA"] },
+              { "key": "Warranty Service Type", "values": ["NA"] },
+              { "key": "Not Covered in Warranty", "values": ["NA"] },
+              { "key": "Diameter", "values": ["0 cm"] },
+              { "key": "Weight", "values": ["18 g"] },
+              {
+                "key": "Other Dimensions",
+                "values": [
+                  "Weight",
+                  "Length",
+                  "Height",
+                  "Depth",
+                  "Diameter",
+                  "Width"
+                ]
+              },
+              { "key": "Height", "values": ["16.8 cm"] },
+              { "key": "Width", "values": ["1.8 cm"] },
+              { "key": "Depth", "values": ["9 cm"] },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Charging Time", "values": ["0 min"] },
+              { "key": "Rechargeable", "values": ["Yes"] },
+              { "key": "Input Power", "values": ["3 W"] },
+              { "key": "Output Power", "values": ["0 W"] },
+              { "key": "Powered by", "values": ["USB"] },
+              { "key": "Power Cord Length", "values": ["0 m"] },
+              { "key": "Battery Type", "values": ["1"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["USB Gadget"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "9b6f4deccd0510b5c04649176daf0d7e0c39c6ae"
+    },
+    {
+      "product": {
+        "id": "2edf14f48e886b3329ee1f3245e2c0007447bf81",
+        "name": "KLIQVIK SIX PORT USB HUB FOR I PHONE 4 MOBILES TR-256 USB USB Hub",
+        "description": "Dummy description for product KLIQVIK SIX PORT USB HUB FOR I PHONE 4 MOBILES TR-256 USB USB Hub",
+        "manufacturer_id": "a74322ce9573a9d7c84456b90167b91be8ba20b3",
+        "taric_code": "46417fb4-7915-4f80-8531-6c458847ff30",
+        "variants": [
+          {
+            "id": "01089dc3618a0ab7304d784ef400b83d",
+            "name": "KLIQVIK USB Gadgets",
+            "description": "Buy KLIQVIK SIX PORT USB HUB FOR I PHONE 4 MOBILES TR-256 USB USB Hub for Rs.1099 online. KLIQVIK SIX PORT USB HUB FOR I PHONE 4 MOBILES TR-256 USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1851,
+            "price": 1499,
+            "sale": true,
+            "sale_price": 1099,
+            "stock_keeping_unit": "USGEDZF2Y87ECZHK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/h/j/tr-259-kliqvik-1100x1100-imaednyehnerxjhe.jpeg",
+                "filename": "tr-259-kliqvik-1100x1100-imaednyehnerxjhe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/h/j/tr-259-kliqvik-original-imaednyehnerxjhe.jpeg",
+                "filename": "tr-259-kliqvik-original-imaednyehnerxjhe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["KLIQVIK"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              {
+                "key": "Model Name",
+                "values": ["SIX PORT USB HUB FOR I PHONE 4 MOBILES"]
+              },
+              { "key": "Material", "values": ["PLASTIC"] },
+              { "key": "System Requirements", "values": ["USB PORT 2.0"] },
+              { "key": "Model ID", "values": ["TR-256"] },
+              { "key": "Color", "values": ["WHITE"] },
+              { "key": "Sales Package", "values": ["ONE USB HUB"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "2edf14f48e886b3329ee1f3245e2c0007447bf81"
+    },
+    {
+      "product": {
+        "id": "5948ff13093b779f8ed5d765bea5f018243fe13e",
+        "name": "KLIQVIK SIX PORT USB HUB FOR SAMSUNG MOBILES TR-252 USB USB Hub",
+        "description": "Dummy description for product KLIQVIK SIX PORT USB HUB FOR SAMSUNG MOBILES TR-252 USB USB Hub",
+        "manufacturer_id": "a74322ce9573a9d7c84456b90167b91be8ba20b3",
+        "taric_code": "b0157ffd-ad5d-43c3-88e3-961c13a15a04",
+        "variants": [
+          {
+            "id": "de47d0cc0c4875fb97530f66d934c894",
+            "name": "KLIQVIK USB Gadgets",
+            "description": "Buy KLIQVIK SIX PORT USB HUB FOR SAMSUNG MOBILES TR-252 USB USB Hub for Rs.1099 online. KLIQVIK SIX PORT USB HUB FOR SAMSUNG MOBILES TR-252 USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3152,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 1099,
+            "stock_keeping_unit": "USGEDZF2UQ38HTJ5",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/h/j/tr-259-kliqvik-1100x1100-imaednyehnerxjhe.jpeg",
+                "filename": "tr-259-kliqvik-1100x1100-imaednyehnerxjhe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/h/j/tr-259-kliqvik-original-imaednyehnerxjhe.jpeg",
+                "filename": "tr-259-kliqvik-original-imaednyehnerxjhe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["KLIQVIK"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              {
+                "key": "Model Name",
+                "values": ["SIX PORT USB HUB FOR SAMSUNG MOBILES"]
+              },
+              { "key": "Material", "values": ["PLASTIC"] },
+              { "key": "System Requirements", "values": ["USB PORT 2.0"] },
+              { "key": "Model ID", "values": ["TR-252"] },
+              { "key": "Color", "values": ["WHITE"] },
+              { "key": "Sales Package", "values": ["ONE USB HUB"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "5948ff13093b779f8ed5d765bea5f018243fe13e"
+    },
+    {
+      "product": {
+        "id": "de6e8e891e276bd6befba0628b9154ff6f4afa86",
+        "name": "ShopFloor.XYZ USB Light with 13 LED UL001 USB Laptop Accessory",
+        "description": "Dummy description for product ShopFloor.XYZ USB Light with 13 LED UL001 USB Laptop Accessory",
+        "manufacturer_id": "81f993ff46bbb295e0d2c501cc28d21fcf858f69",
+        "taric_code": "a8211186-5065-438c-943a-b878f1bc4393",
+        "variants": [
+          {
+            "id": "045fe208e15ded785d7bdd4c9e7a488c",
+            "name": "ShopFloor.XYZ USB Gadgets",
+            "description": "Buy ShopFloor.XYZ USB Light with 13 LED UL001 USB Laptop Accessory for Rs.249 online. ShopFloor.XYZ USB Light with 13 LED UL001 USB Laptop Accessory at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7326,
+            "price": 399,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "USGEDZEKBZKVYEZC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/e/z/c/ul001-shopfloor-xyz-1100x1100-imaedz9yj3vayakx.jpeg",
+                "filename": "ul001-shopfloor-xyz-1100x1100-imaedz9yj3vayakx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/e/z/c/ul001-shopfloor-xyz-original-imaedz9yj3vayakx.jpeg",
+                "filename": "ul001-shopfloor-xyz-original-imaedz9yj3vayakx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["ShopFloor.XYZ"] },
+              { "key": "Type", "values": ["Laptop Accessory"] },
+              { "key": "System Requirements", "values": ["USB Port"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["USB Light with 13 LED"] },
+              { "key": "Model ID", "values": ["UL001"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Sales Package", "values": ["1 USB Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "de6e8e891e276bd6befba0628b9154ff6f4afa86"
+    },
+    {
+      "product": {
+        "id": "7ba472be904cefd15566b695809c892c7f8959c7",
+        "name": "Iconnect World External Adapter 7.1 Channel Audio Output + Mic Input USB Sound Card",
+        "description": "Dummy description for product Iconnect World External Adapter 7.1 Channel Audio Output + Mic Input USB Sound Card",
+        "manufacturer_id": "a9f9f4fcfbfb05fdbcc79db766f6656cb7cbbbf1",
+        "taric_code": "69d83be4-1262-4e1c-9abf-49db7fea0d11",
+        "variants": [
+          {
+            "id": "970494ef201975134a6e5bef5ed45bd1",
+            "name": "Iconnect World USB Gadgets",
+            "description": "Buy Iconnect World External Adapter 7.1 Channel Audio Output + Mic Input USB Sound Card for Rs.549 online. Iconnect World External Adapter 7.1 Channel Audio Output + Mic Input USB Sound Card at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4294,
+            "price": 1200,
+            "sale": false,
+            "sale_price": 549,
+            "stock_keeping_unit": "USGEDZX5ERUQRW8B",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/4/h/high-definition-iconnect-world-1100x1100-imaecnj8z226qzdm.jpeg",
+                "filename": "high-definition-iconnect-world-1100x1100-imaecnj8z226qzdm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/x/4/h/high-definition-iconnect-world-original-imaecnj8z226qzdm.jpeg",
+                "filename": "high-definition-iconnect-world-original-imaecnj8z226qzdm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/4/h/high-definition-iconnect-world-original-imaedzseybvvptvv.jpeg",
+                "filename": "high-definition-iconnect-world-original-imaedzseybvvptvv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/4/h/high-definition-iconnect-world-original-imaecnj74udq7yza.jpeg",
+                "filename": "high-definition-iconnect-world-original-imaecnj74udq7yza.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/4/h/high-definition-iconnect-world-original-imaecnj7ngceby3a.jpeg",
+                "filename": "high-definition-iconnect-world-original-imaecnj7ngceby3a.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/x/4/h/high-definition-iconnect-world-original-imaecnj7saahyrrr.jpeg",
+                "filename": "high-definition-iconnect-world-original-imaecnj7saahyrrr.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Iconnect World"] },
+              { "key": "Type", "values": ["Sound Card"] },
+              {
+                "key": "Model Name",
+                "values": ["External Adapter 7.1 Channel"]
+              },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["USB Port 2.0"] },
+              { "key": "Model ID", "values": ["Audio Output + Mic Input"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["External Sound Card"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "7ba472be904cefd15566b695809c892c7f8959c7"
+    },
+    {
+      "product": {
+        "id": "cd6a09523b90523613c90671330369ea5c9897b8",
+        "name": "Memore Portable and Flexible Lamp MMULL-Green USB Led Light",
+        "description": "Dummy description for product Memore Portable and Flexible Lamp MMULL-Green USB Led Light",
+        "manufacturer_id": "f92c940b45dd298c6b90dae54fd2613c263124d3",
+        "taric_code": "1d52244b-5047-44b2-97a0-86a1ed78067d",
+        "variants": [
+          {
+            "id": "adccaac2cf469e23b9aba95e067fcb8f",
+            "name": "Memore USB Gadgets",
+            "description": "Memore Portable and Flexible Lamp MMULL-Green USB Led Light (Green)\n                         Price: Rs. 195\n\t\t\t\t\n\t\t\t1. 100% Brand New And High Quality. 2. Perfect Fit For Reading. 3. Light Weight And Durable Cover. 4. Portable And Multiple Choice Of Color. 5. Flexible And Easy Clean. 6. Rated Voltage: 5v 7. Rated Power: 1.2w 8. Size: 170*18.5*9mm 9. Can Be Use On Any Where,Powered By Any Devices With Usb Port 10. Ultra Bright With Low Power Consumption 11. Unique Bendable Design,Also Has Light Weight 12. Material: Silicone\n1. 100% Brand New And High Quality. 2. Perfect Fit For Reading. 3. Light Weight And Durable Cover. 4. Portable And Multiple Choice Of Color. 5. Flexible And Easy Clean. 6. Rated Voltage: 5v 7. Rated Power: 1.2w 8. Size: 170*18.5*9mm 9. Can Be Use On Any Where,Powered By Any Devices With Usb Port 10. Ultra Bright With Low Power Consumption 11. Unique Bendable Design,Also Has Light Weight 12. Material: Silicone",
+            "stock_level": 1215,
+            "price": 499,
+            "sale": false,
+            "sale_price": 195,
+            "stock_keeping_unit": "USGEE5RFHDHCRFSU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/s/u/mmull-green-memore-1100x1100-imaedg7zgjrbbv4g.jpeg",
+                "filename": "mmull-green-memore-1100x1100-imaedg7zgjrbbv4g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/f/s/u/mmull-green-memore-original-imaedg7zgjrbbv4g.jpeg",
+                "filename": "mmull-green-memore-original-imaedg7zgjrbbv4g.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Lamp Adjustment", "values": ["Flexible"] },
+              { "key": "Brand", "values": ["Memore"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["Usb Port 1.0"] },
+              { "key": "Material", "values": ["Silicon"] },
+              { "key": "Model Name", "values": ["Portable and Flexible Lamp"] },
+              { "key": "Model ID", "values": ["MMULL-Green"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Weight", "values": ["77 g"] },
+              { "key": "Height", "values": ["12.7 cm"] },
+              { "key": "Width", "values": ["2.5 cm"] },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              { "key": "Sales Package", "values": ["1 USB Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "cd6a09523b90523613c90671330369ea5c9897b8"
+    },
+    {
+      "product": {
+        "id": "d5cade149bf70d4fd17ff0b947159d93b10f872a",
+        "name": "Techone+ Portable SE122101-ORANGE USB Led Light",
+        "description": "Dummy description for product Techone+ Portable SE122101-ORANGE USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "2add0492-5235-4784-b89d-38aa08376959",
+        "variants": [
+          {
+            "id": "866ffe76754dbc8106c3c3f095191e26",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Portable SE122101-ORANGE USB Led Light (Orange)\n                         Price: Rs. 149\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 9362,
+            "price": 299,
+            "sale": false,
+            "sale_price": 149,
+            "stock_keeping_unit": "USGEDDUFVYWDWFYT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/7/g/flexible-iconnect-world-1100x1100-imae74uyrffzydeh.jpeg",
+                "filename": "flexible-iconnect-world-1100x1100-imae74uyrffzydeh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/y/t/se122101-orange-techone-original-imae74uyrffzydeh.jpeg",
+                "filename": "se122101-orange-techone-original-imae74uyrffzydeh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/g/g/6/se122104-orange-techone-original-imaecpkzkhyrzhbx.jpeg",
+                "filename": "se122104-orange-techone-original-imaecpkzkhyrzhbx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/y/t/se122101-orange-techone-original-imaecpkz9tcpawju.jpeg",
+                "filename": "se122101-orange-techone-original-imaecpkz9tcpawju.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "Model Name", "values": ["Portable"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Model ID", "values": ["SE122101-ORANGE"] },
+              { "key": "Color", "values": ["Orange"] },
+              { "key": "Weight", "values": ["75 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Sales Package", "values": ["2 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "d5cade149bf70d4fd17ff0b947159d93b10f872a"
+    },
+    {
+      "product": {
+        "id": "3df3c2c217bc5a3d08c5b6256829b52c1e20dfd8",
+        "name": "Casotec Plexible LED Light 275014 Led Light USB Led Light",
+        "description": "Dummy description for product Casotec Plexible LED Light 275014 Led Light USB Led Light",
+        "manufacturer_id": "fc59e55749445ec61dfd6918eece94d95463910b",
+        "taric_code": "61153601-2c87-411b-a857-bfead3289348",
+        "variants": [
+          {
+            "id": "138810a065ef64a878e88eadb50ccc5f",
+            "name": "Casotec USB Gadgets",
+            "description": "Casotec Plexible LED Light 275014 Led Light USB Led Light (Green)\n                         Price: Rs. 149\n\t\t\t\t\n\t\t\tCasotec USB LED Light is perfect for reading, working, travelling and much more Ideal for night reading, emergency lighting and so on Small and portable, convenient to carry. The LED emits white light which is suitable for eyes. Light up your notebook any where you wish. Directly plug the USB LED light into the USB port on your notebook, PC or power bank. Gently adjust the flexible neck light to position as you wish. Specification: Rated voltage: DC 5V Power: 1.2W Size: 170mm x 16mm x 9mm Specifics LED Type : LED USB light Width : 5.3 cm Height : 1.6 cm Length : 24.8 cm Weight : 86gm\nCasotec USB LED Light is perfect for reading, working, travelling and much more Ideal for night reading, emergency lighting and so on Small and portable, convenient to carry. The LED emits white light which is suitable for eyes. Light up your notebook any where you wish. Directly plug the USB LED light into the USB port on your notebook, PC or power bank. Gently adjust the flexible neck light to position as you wish. Specification: Rated voltage: DC 5V Power: 1.2W Size: 170mm x 16mm x 9mm Specifics LED Type : LED USB light Width : 5.3 cm Height : 1.6 cm Length : 24.8 cm Weight : 86gm",
+            "stock_level": 9289,
+            "price": 499,
+            "sale": false,
+            "sale_price": 149,
+            "stock_keeping_unit": "USGEB59M4HDG7HZN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/h/z/n/275014-led-light-casotec-1100x1100-imaeb4r6x8pggqzf.jpeg",
+                "filename": "275014-led-light-casotec-1100x1100-imaeb4r6x8pggqzf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/h/z/n/275014-led-light-casotec-original-imaeb4r6x8pggqzf.jpeg",
+                "filename": "275014-led-light-casotec-original-imaeb4r6x8pggqzf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/h/z/n/275014-led-light-casotec-original-imaeb4r6ezyxmtvz.jpeg",
+                "filename": "275014-led-light-casotec-original-imaeb4r6ezyxmtvz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/h/z/n/275014-led-light-casotec-original-imaeb4r6pzs9vnf8.jpeg",
+                "filename": "275014-led-light-casotec-original-imaeb4r6pzs9vnf8.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/h/z/n/275014-led-light-casotec-original-imaeb4r64xtagwzf.jpeg",
+                "filename": "275014-led-light-casotec-original-imaeb4r64xtagwzf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/h/z/n/275014-led-light-casotec-original-imaeb4r62pyjkfbm.jpeg",
+                "filename": "275014-led-light-casotec-original-imaeb4r62pyjkfbm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Casotec"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port V2.4"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["Plexible LED Light"] },
+              { "key": "Model ID", "values": ["275014 Led Light"] },
+              { "key": "Color", "values": ["Green"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Manufacturing Defects Only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["3 Months Replacement Warranty"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 LED Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "3df3c2c217bc5a3d08c5b6256829b52c1e20dfd8"
+    },
+    {
+      "product": {
+        "id": "d29a54b0bf6689018407341ef0389ef138099611",
+        "name": "Techone+ Portable Power Bank, and Laptops_4 set USB Led Light",
+        "description": "Dummy description for product Techone+ Portable Power Bank, and Laptops_4 set USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "6bbad37c-eda8-48eb-bf65-daacb9b6dddd",
+        "variants": [
+          {
+            "id": "608876c74a7ef31432d8307a2ebe119f",
+            "name": "Techone+ USB Gadgets",
+            "description": "Buy Techone+ Portable Power Bank, and Laptops_4 set USB Led Light for Rs.189 online. Techone+ Portable Power Bank, and Laptops_4 set USB Led Light at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9044,
+            "price": 499,
+            "sale": false,
+            "sale_price": 189,
+            "stock_keeping_unit": "USGEE5MZJ2GZUXET",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/e/t/power-bank-and-laptops-4-set-techone-1100x1100-imaee4pkcuhftugq.jpeg",
+                "filename": "power-bank-and-laptops-4-set-techone-1100x1100-imaee4pkcuhftugq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/x/e/t/power-bank-and-laptops-4-set-techone-original-imaee4pkcuhftugq.jpeg",
+                "filename": "power-bank-and-laptops-4-set-techone-original-imaee4pkcuhftugq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/e/t/power-bank-and-laptops-4-set-techone-original-imaee4pkreqnzpbd.jpeg",
+                "filename": "power-bank-and-laptops-4-set-techone-original-imaee4pkreqnzpbd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "Model Name", "values": ["Portable"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              {
+                "key": "Model ID",
+                "values": ["Power Bank", "and Laptops_4 set"]
+              },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Weight", "values": ["150 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 4"]
+              },
+              { "key": "Sales Package", "values": ["4 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "d29a54b0bf6689018407341ef0389ef138099611"
+    },
+    {
+      "product": {
+        "id": "fe8057680094902704c1505e2beee3ada674a69d",
+        "name": "Epresent Mfan 1 Fan USB USB Fan",
+        "description": "Dummy description for product Epresent Mfan 1 Fan USB USB Fan",
+        "manufacturer_id": "52faf3ccedb476186274e9b0a281123facc7d3a1",
+        "taric_code": "27555717-af58-4b57-9207-1ac72d2d8d5c",
+        "variants": [
+          {
+            "id": "e86daf9ebcdfc5c5dd088cdb7f8f8db6",
+            "name": "Epresent USB Gadgets",
+            "description": "Buy Epresent Mfan 1 Fan USB USB Fan for Rs.219 online. Epresent Mfan 1 Fan USB USB Fan at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6863,
+            "price": 269,
+            "sale": false,
+            "sale_price": 219,
+            "stock_keeping_unit": "USGEB3HTYWCYT2HY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/2/h/y/1-fan-epresent-1100x1100-imaeb2pkhypymfhu.jpeg",
+                "filename": "1-fan-epresent-1100x1100-imaeb2pkhypymfhu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/2/h/y/1-fan-epresent-original-imaeb2pkhypymfhu.jpeg",
+                "filename": "1-fan-epresent-original-imaeb2pkhypymfhu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/2/h/y/1-fan-epresent-original-imaeb2ppr6g6sthx.jpeg",
+                "filename": "1-fan-epresent-original-imaeb2ppr6g6sthx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Epresent"] },
+              { "key": "Type", "values": ["USB Fan"] },
+              { "key": "System Requirements", "values": ["USB Port"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Mfan"] },
+              { "key": "Model ID", "values": ["1 Fan"] },
+              { "key": "Color", "values": ["Blue"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Customer needs to call Epresent and the company will have the Mini Usb Fan replaced"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty does not cover any damage done by the customer."
+                ]
+              },
+              {
+                "key": "af1d8101-b876-4606-b4a2-a3e9584fc19b",
+                "values": [
+                  "• Mini Fan ",
+                  "Usb Fan ",
+                  "Portable Fan • The Fan Angle Can Be Adjusted Freely",
+                  "Easily and Comfortably. • It Can Be Used Immediately After Connecting With The Computer Or Power Bank. • Mini and Small",
+                  "Portable To Take A Long. • Color: Blue / White / Pink / Green / Black"
+                ]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 USB Mini Fan"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "fe8057680094902704c1505e2beee3ada674a69d"
+    },
+    {
+      "product": {
+        "id": "cb09c5861a9e8b884c9df486adfa4a25c45c2c17",
+        "name": "Task Logistics Audio Receiver H-366 USB Bluetooth",
+        "description": "Dummy description for product Task Logistics Audio Receiver H-366 USB Bluetooth",
+        "manufacturer_id": "7b25ffd5ffabe4bd97d7bbcb5290960e1629e93e",
+        "taric_code": "626cb537-be12-4056-8aaf-0eb95f0d70f4",
+        "variants": [
+          {
+            "id": "2c475daafe597ed93c1e27fcaa38d8cc",
+            "name": "Task Logistics USB Gadgets",
+            "description": "Buy Task Logistics Audio Receiver H-366 USB Bluetooth for Rs.1200 online. Task Logistics Audio Receiver H-366 USB Bluetooth at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3050,
+            "price": 1500,
+            "sale": false,
+            "sale_price": 1200,
+            "stock_keeping_unit": "USGEE5NQT9HEQQBE",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/q/b/e/h-366-task-logistics-1100x1100-imaee4rnuch2znsx.jpeg",
+                "filename": "h-366-task-logistics-1100x1100-imaee4rnuch2znsx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/q/b/e/h-366-task-logistics-original-imaee4rnuch2znsx.jpeg",
+                "filename": "h-366-task-logistics-original-imaee4rnuch2znsx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Task Logistics"] },
+              { "key": "Type", "values": ["Bluetooth"] },
+              { "key": "Model Name", "values": ["Audio Receiver"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["1"] },
+              { "key": "Model ID", "values": ["H-366"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["3 cables"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "cb09c5861a9e8b884c9df486adfa4a25c45c2c17"
+    },
+    {
+      "product": {
+        "id": "564f772d3c8adacabeeb2f20a5ae2d8b1e550a75",
+        "name": "Love Bright Jewelry Sterling Silver Cubic Zirconia, Sapphire Rhodium Bracelet",
+        "description": "Dummy description for product Love Bright Jewelry Sterling Silver Cubic Zirconia, Sapphire Rhodium Bracelet",
+        "manufacturer_id": "7fd56c8155c0c8972fa5da4f874daf5b7e6d5917",
+        "taric_code": "052fdc91-f6c8-4f50-8387-7a01ea2b0c97",
+        "variants": [
+          {
+            "id": "2178acf27d66b0ba57a7a1af8827a84e",
+            "name": "Bracelets",
+            "description": "Love Bright Jewelry Sterling Silver Cubic Zirconia, Sapphire Rhodium Bracelet\n                         Price: Rs. 24,580\n\t\t\t\t\n\t\t\tFeminine rosy created pink sapphires alternate with brilliant-cut round CZ between sleek S links. This striking bracelet is made in 925 sterling silver and has a total gem weight (TGW) of 1.00 ct.\nFeminine rosy created pink sapphires alternate with brilliant-cut round CZ between sleek S links. This striking bracelet is made in 925 sterling silver and has a total gem weight (TGW) of 1.00 ct.",
+            "stock_level": 7074,
+            "price": 49999,
+            "sale": false,
+            "sale_price": 24580,
+            "stock_keeping_unit": "BBAEDUQPZF7SKG2J",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/g/2/j/ubragrd155100czps-7-love-bright-jewelry-1-1100x1100-imaedp8j9d6hhykh.jpeg",
+                "filename": "ubragrd155100czps-7-love-bright-jewelry-1-1100x1100-imaedp8j9d6hhykh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/g/2/j/ubragrd155100czps-7-love-bright-jewelry-1-original-imaedp8j9d6hhykh.jpeg",
+                "filename": "ubragrd155100czps-7-love-bright-jewelry-1-original-imaedp8j9d6hhykh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Silver Purity", "values": ["S 925"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Love Bright Jewelry"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Model Number", "values": ["UBRAGRD155100CZPS"] },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Bangle Size", "values": ["2-2"] },
+              { "key": "Model Name", "values": ["Tennis"] },
+              {
+                "key": "Occasion",
+                "values": [
+                  "Everyday",
+                  "Workwear",
+                  "Wedding and Engagement",
+                  "Love"
+                ]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Diameter", "values": ["7 inch"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] },
+              { "key": "Gemstone", "values": ["Cubic Zirconia", "Sapphire"] },
+              { "key": "Plating", "values": ["Rhodium"] },
+              { "key": "Certification", "values": ["Brand Certification"] },
+              { "key": "Sales Package", "values": ["1 Bracelet"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "bb3896a689823b0ec844360b323a2d1f",
+            "name": "Bracelets",
+            "description": "Love Bright Jewelry Sterling Silver Cubic Zirconia, Sapphire Rhodium Bracelet\n                         Price: Rs. 36,356\n\t\t\t\t\n\t\t\tFeminine rosy created pink sapphires alternate with brilliant-cut round CZ between sleek S links. This striking bracelet is made in 925 sterling silver and has a total gem weight (TGW) of 5.00 ct.\nFeminine rosy created pink sapphires alternate with brilliant-cut round CZ between sleek S links. This striking bracelet is made in 925 sterling silver and has a total gem weight (TGW) of 5.00 ct.",
+            "stock_level": 7545,
+            "price": 49999,
+            "sale": true,
+            "sale_price": 36356,
+            "stock_keeping_unit": "BBAEDUQZTHS9EUDF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/u/d/f/ubragrd155500czps-7-love-bright-jewelry-1-1100x1100-imaedp8jjzxz4zgc.jpeg",
+                "filename": "ubragrd155500czps-7-love-bright-jewelry-1-1100x1100-imaedp8jjzxz4zgc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/u/d/f/ubragrd155500czps-7-love-bright-jewelry-1-original-imaedp8jjzxz4zgc.jpeg",
+                "filename": "ubragrd155500czps-7-love-bright-jewelry-1-original-imaedp8jjzxz4zgc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Silver Purity", "values": ["S 925"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Love Bright Jewelry"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Model Number", "values": ["UBRAGRD155500CZPS"] },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Bangle Size", "values": ["2-2"] },
+              { "key": "Model Name", "values": ["Tennis"] },
+              {
+                "key": "Occasion",
+                "values": [
+                  "Everyday",
+                  "Workwear",
+                  "Wedding and Engagement",
+                  "Love"
+                ]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Diameter", "values": ["7 inch"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] },
+              { "key": "Gemstone", "values": ["Cubic Zirconia", "Sapphire"] },
+              { "key": "Plating", "values": ["Rhodium"] },
+              { "key": "Certification", "values": ["Brand Certification"] },
+              { "key": "Sales Package", "values": ["1 Bracelet"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "268b579de32142849447bd448d13319a",
+            "name": "Bracelets",
+            "description": "Love Bright Jewelry Sterling Silver Cubic Zirconia, Sapphire Rhodium Bracelet - Buy Love Bright Jewelry Sterling Silver Cubic Zirconia, Sapphire Rhodium Bracelet only for Rs. 33284 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8047,
+            "price": 49999,
+            "sale": false,
+            "sale_price": 33284,
+            "stock_keeping_unit": "BBAEDUQN27S2S8KW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/8/k/w/ubragrd155400czs-7-love-bright-jewelry-1-1100x1100-imaedp8jyymddfzg.jpeg",
+                "filename": "ubragrd155400czs-7-love-bright-jewelry-1-1100x1100-imaedp8jyymddfzg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/8/k/w/ubragrd155400czs-7-love-bright-jewelry-1-original-imaedp8jyymddfzg.jpeg",
+                "filename": "ubragrd155400czs-7-love-bright-jewelry-1-original-imaedp8jyymddfzg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Love Bright Jewelry"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["UBRAGRD155400CZS"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Model Name", "values": ["Tennis"] },
+              { "key": "Bangle Size", "values": ["2-2"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              {
+                "key": "Occasion",
+                "values": [
+                  "Everyday",
+                  "Workwear",
+                  "Wedding and Engagement",
+                  "Love"
+                ]
+              },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Silver Purity", "values": ["S 925"] },
+              { "key": "Diameter", "values": ["7 inch"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] },
+              { "key": "Gemstone", "values": ["Cubic Zirconia", "Sapphire"] },
+              { "key": "Plating", "values": ["Rhodium"] },
+              { "key": "Sales Package", "values": ["1 Bracelet"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["Brand Certification"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": false,
+      "id": "564f772d3c8adacabeeb2f20a5ae2d8b1e550a75"
+    },
+    {
+      "product": {
+        "id": "1205be014e544b696b8a129c36ea4e519593fa5a",
+        "name": "Techone+ Portable SE122103-ORANGE USB Led Light",
+        "description": "Dummy description for product Techone+ Portable SE122103-ORANGE USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "9144a0fb-1491-4f12-9494-9f07f34f8595",
+        "variants": [
+          {
+            "id": "586e538922f391306040e430610c8a62",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Portable SE122103-ORANGE USB Led Light (Orange)\n                         Price: Rs. 449\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 2595,
+            "price": 699,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "USGEDDUFS7BGDFRH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/6/t/4/bt001-bt-1100x1100-imae74uyrffzydeh.jpeg",
+                "filename": "bt001-bt-1100x1100-imae74uyrffzydeh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/7/g/flexible-iconnect-world-original-imae74uyrffzydeh.jpeg",
+                "filename": "flexible-iconnect-world-original-imae74uyrffzydeh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/g/g/6/se122104-orange-techone-original-imaecpkzkhyrzhbx.jpeg",
+                "filename": "se122104-orange-techone-original-imaecpkzkhyrzhbx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/y/t/se122101-orange-techone-original-imaecpkz9tcpawju.jpeg",
+                "filename": "se122101-orange-techone-original-imaecpkz9tcpawju.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "Model Name", "values": ["Portable"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Model ID", "values": ["SE122103-ORANGE"] },
+              { "key": "Color", "values": ["Orange"] },
+              { "key": "Weight", "values": ["300 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 8"]
+              },
+              { "key": "Sales Package", "values": ["8 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "1205be014e544b696b8a129c36ea4e519593fa5a"
+    },
+    {
+      "product": {
+        "id": "be56ccfd131bd14121a39ea020f72fdb408465d7",
+        "name": "Techone+ Flexible SE122103-BLUE USB Led Light",
+        "description": "Dummy description for product Techone+ Flexible SE122103-BLUE USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "840fa6e0-0d52-4b20-9f03-7bffd106381f",
+        "variants": [
+          {
+            "id": "8430f2b9b5c3f05df09006ab2472a1a5",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Flexible SE122103-BLUE USB Led Light (Blue)\n                         Price: Rs. 449\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 4885,
+            "price": 699,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "USGEDDUFWRC4DM9G",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/b/f/f/se122101-blue-techone-original-imaecpkzbgtrg8t8.jpeg",
+                "filename": "se122101-blue-techone-original-imaecpkzbgtrg8t8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/b/f/f/se122101-blue-techone-original-imaecpkzbgtrg8t8.jpeg",
+                "filename": "se122101-blue-techone-original-imaecpkzbgtrg8t8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/r/q/light-v-1-himtek-original-imae7fpd7tszrcwp.jpeg",
+                "filename": "light-v-1-himtek-original-imae7fpd7tszrcwp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/b/f/f/se122101-blue-techone-original-imaecpkz3vazhaz6.jpeg",
+                "filename": "se122101-blue-techone-original-imaecpkz3vazhaz6.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Flexible"] },
+              { "key": "Model ID", "values": ["SE122103-BLUE"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Weight", "values": ["300 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 8"]
+              },
+              { "key": "Sales Package", "values": ["8 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "be56ccfd131bd14121a39ea020f72fdb408465d7"
+    },
+    {
+      "product": {
+        "id": "b2194e2da11c2575af04f05231ffd6b3c709f3ed",
+        "name": "LUV LUV MP3 PLAYER MP3 RED PLAYER USB Sound Card",
+        "description": "Dummy description for product LUV LUV MP3 PLAYER MP3 RED PLAYER USB Sound Card",
+        "manufacturer_id": "36b56961939eeff7675c74f1b8fa3cf4e8c755b4",
+        "taric_code": "90984f69-18b4-4ad7-aead-0fdf3f3d9a01",
+        "variants": [
+          {
+            "id": "82466269245f199d7f850509307a497b",
+            "name": "LUV USB Gadgets",
+            "description": "Buy LUV LUV MP3 PLAYER MP3 RED PLAYER USB Sound Card for Rs.249 online. LUV LUV MP3 PLAYER MP3 RED PLAYER USB Sound Card at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5017,
+            "price": 999,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "USGEE6Y3HQ4GY58T",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/5/8/t/mp3-red-player-luv-1100x1100-imaee5uxbjf5syg6.jpeg",
+                "filename": "mp3-red-player-luv-1100x1100-imaee5uxbjf5syg6.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/5/8/t/mp3-red-player-luv-original-imaee5uxbjf5syg6.jpeg",
+                "filename": "mp3-red-player-luv-original-imaee5uxbjf5syg6.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["LUV"] },
+              { "key": "Type", "values": ["Sound Card"] },
+              { "key": "Model Name", "values": ["LUV MP3 PLAYER"] },
+              { "key": "Material", "values": ["PLASTIC"] },
+              { "key": "System Requirements", "values": ["USB PORT"] },
+              { "key": "Model ID", "values": ["MP3 RED PLAYER"] },
+              { "key": "Color", "values": ["RED"] },
+              { "key": "Sales Package", "values": ["1 MP3 PLAYER"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "b2194e2da11c2575af04f05231ffd6b3c709f3ed"
+    },
+    {
+      "product": {
+        "id": "b08af06026042d9bef3f088763d0a7aba3f6b193",
+        "name": "Casotec USB Fan 275030 Portable Fan USB USB Fan",
+        "description": "Dummy description for product Casotec USB Fan 275030 Portable Fan USB USB Fan",
+        "manufacturer_id": "fc59e55749445ec61dfd6918eece94d95463910b",
+        "taric_code": "0b7628e0-b05d-45e2-8d4a-88eafa69187b",
+        "variants": [
+          {
+            "id": "5ea9bf5da403ab3b98a74063e518cccf",
+            "name": "Casotec USB Gadgets",
+            "description": "Buy Casotec USB Fan 275030 Portable Fan USB USB Fan for Rs.699 online. Casotec USB Fan 275030 Portable Fan USB USB Fan at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4856,
+            "price": 999,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "USGEBZ7UHGHM4F7T",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/7/t/275030-portable-fan-casotec-1100x1100-imaebyywpdgha92a.jpeg",
+                "filename": "275030-portable-fan-casotec-1100x1100-imaebyywpdgha92a.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/f/7/t/275030-portable-fan-casotec-original-imaebyywpdgha92a.jpeg",
+                "filename": "275030-portable-fan-casotec-original-imaebyywpdgha92a.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Casotec"] },
+              { "key": "Type", "values": ["USB Fan"] },
+              { "key": "Model Name", "values": ["USB Fan"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Model ID", "values": ["275030 Portable Fan"] },
+              { "key": "Color", "values": ["Orange"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Manufacturing Defects Only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["3 Months Replacement Warranty"]
+              },
+              { "key": "Rechargeable", "values": ["Yes"] },
+              { "key": "Battery Type", "values": ["1"] },
+              { "key": "Power Cord Length", "values": ["0.6 m"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["1 FAN", "Battry", "Rechargeble Cord"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "b08af06026042d9bef3f088763d0a7aba3f6b193"
+    },
+    {
+      "product": {
+        "id": "c1f1309ccd79d0b7e91b167bd3e2ea18ef26b717",
+        "name": "Rock Rocket Desktop Charger 6950290687051 USB USB Hub",
+        "description": "Dummy description for product Rock Rocket Desktop Charger 6950290687051 USB USB Hub",
+        "manufacturer_id": "e9aa75a3430c88d2993ebf457ccfdc5e67821da5",
+        "taric_code": "1b05d131-7de3-4d9f-9e01-03cb789c2a15",
+        "variants": [
+          {
+            "id": "4f708bc74c4d29b2967dc38a1f5ae6d5",
+            "name": "Rock USB Gadgets",
+            "description": "Buy Rock Rocket Desktop Charger 6950290687051 USB USB Hub for Rs.2999 online. Rock Rocket Desktop Charger 6950290687051 USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2697,
+            "price": 3199,
+            "sale": false,
+            "sale_price": 2999,
+            "stock_keeping_unit": "USGECXHFRRHFGRG2",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/r/g/2/6950290687051-rock-1100x1100-imaecv8xfnpakuat.jpeg",
+                "filename": "6950290687051-rock-1100x1100-imaecv8xfnpakuat.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/r/g/2/6950290687051-rock-original-imaecv8xfnpakuat.jpeg",
+                "filename": "6950290687051-rock-original-imaecv8xfnpakuat.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Rock"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              { "key": "System Requirements", "values": ["5.0V/8A"] },
+              { "key": "Material", "values": ["PC + Fireproof ABS"] },
+              { "key": "Model Name", "values": ["Rocket Desktop Charger"] },
+              { "key": "Model ID", "values": ["6950290687051"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["Rocket Desktop Charger"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "c1f1309ccd79d0b7e91b167bd3e2ea18ef26b717"
+    },
+    {
+      "product": {
+        "id": "0d39378019868bce9944e41c05ad188426cf0fa6",
+        "name": "Mydress Mystyle Bulb Led USB Led Light",
+        "description": "Dummy description for product Mydress Mystyle Bulb Led USB Led Light",
+        "manufacturer_id": "3445e8ecd4f47df8b3514caa4961e2817ad784a7",
+        "taric_code": "c42686b9-cb62-463b-9ad0-ae55555b9e83",
+        "variants": [
+          {
+            "id": "4a01370e20c5de2f131c278f44b8cf1b",
+            "name": "Mydress Mystyle USB Gadgets",
+            "description": "Mydress Mystyle Bulb Led USB Led Light (White)\n                         Price: Rs. 75\n\t\t\t\t\n\t\t\tUSB LED Bulb Lamp Mini USB Light - High power LED, could reach range about 15 meters - As long as there is a USB connector can be used - Can connect the computer with USB, such as mobile power supply, the output of the equipment - Perfect for camping, hiking, hunting, fishing, mountaineering or diving at nights - Need to be powered by USB Devices such as power bank Tablet PC E-BOOK Smart phone etc - Powered by USB - Wattage: 1W - Input voltage: DC 4.9V- 5.5V - Luminous flux: 60-80LM - Color Temperature: 5000-6000K - Size: approx.6.5cmx3.5cm -\nUSB LED Bulb Lamp Mini USB Light - High power LED, could reach range about 15 meters - As long as there is a USB connector can be used - Can connect the computer with USB, such as mobile power supply, the output of the equipment - Perfect for camping, hiking, hunting, fishing, mountaineering or diving at nights - Need to be powered by USB Devices such as power bank Tablet PC E-BOOK Smart phone etc - Powered by USB - Wattage: 1W - Input voltage: DC 4.9V- 5.5V - Luminous flux: 60-80LM - Color Temperature: 5000-6000K - Size: approx.6.5cmx3.5cm -",
+            "stock_level": 5338,
+            "price": 999,
+            "sale": true,
+            "sale_price": 75,
+            "stock_keeping_unit": "USGEBZZ3Y567FZKP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/k/p/led-mydress-mystyle-1100x1100-imaebntzt8ndypec.jpeg",
+                "filename": "led-mydress-mystyle-1100x1100-imaebntzt8ndypec.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/k/p/led-mydress-mystyle-original-imaebntzt8ndypec.jpeg",
+                "filename": "led-mydress-mystyle-original-imaebntzt8ndypec.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/k/p/led-mydress-mystyle-original-imaebntzaczeehqj.jpeg",
+                "filename": "led-mydress-mystyle-original-imaebntzaczeehqj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Mydress Mystyle"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Material", "values": ["Plastic", "Metal"] },
+              { "key": "Model Name", "values": ["Bulb"] },
+              { "key": "Model ID", "values": ["Led"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Number of Bulbs", "values": ["1"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Month Manufacturing Warranty"]
+              },
+              { "key": "Warranty Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Damaged Piece Will Not Be Repaired/Covered Under Seller Warranty"
+                ]
+              },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              { "key": "Input Power", "values": ["5 W"] },
+              { "key": "Power Requirement", "values": ["DC 4.9V- 5.5V"] },
+              { "key": "Powered by", "values": ["USB"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["USB LED Bulb"] }
+            ]
+          },
+          {
+            "id": "0d0b6ee7c7a93d397c0f0dc20cae4b20",
+            "name": "Mydress Mystyle USB Gadgets",
+            "description": "Mydress Mystyle Bulb Led USB Led Light (Red)\n                         Price: Rs. 85\n\t\t\t\t\n\t\t\tUSB LED Bulb Lamp Mini USB Light - High power LED, could reach range about 15 meters - As long as there is a USB connector can be used - Can connect the computer with USB, such as mobile power supply, the output of the equipment - Perfect for camping, hiking, hunting, fishing, mountaineering or diving at nights - Need to be powered by USB Devices such as power bank Tablet PC E-BOOK Smart phone etc - Powered by USB - Wattage: 1W - Input voltage: DC 4.9V- 5.5V - Luminous flux: 60-80LM - Color Temperature: 5000-6000K - Size: approx.6.5cmx3.5cm -\nUSB LED Bulb Lamp Mini USB Light - High power LED, could reach range about 15 meters - As long as there is a USB connector can be used - Can connect the computer with USB, such as mobile power supply, the output of the equipment - Perfect for camping, hiking, hunting, fishing, mountaineering or diving at nights - Need to be powered by USB Devices such as power bank Tablet PC E-BOOK Smart phone etc - Powered by USB - Wattage: 1W - Input voltage: DC 4.9V- 5.5V - Luminous flux: 60-80LM - Color Temperature: 5000-6000K - Size: approx.6.5cmx3.5cm -",
+            "stock_level": 1108,
+            "price": 999,
+            "sale": false,
+            "sale_price": 85,
+            "stock_keeping_unit": "USGEBHHGHGUYVCZ8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/c/z/8/led-my-dress-my-style-1100x1100-imaebgyhdfggwrrb.jpeg",
+                "filename": "led-my-dress-my-style-1100x1100-imaebgyhdfggwrrb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/c/z/8/led-my-dress-my-style-original-imaebgyhdfggwrrb.jpeg",
+                "filename": "led-my-dress-my-style-original-imaebgyhdfggwrrb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/c/z/8/led-my-dress-my-style-original-imaebgyhqwjhcgzj.jpeg",
+                "filename": "led-my-dress-my-style-original-imaebgyhqwjhcgzj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Mydress Mystyle"] },
+              { "key": "Light Color", "values": ["Milky White"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Material", "values": ["Plastic", "Metal"] },
+              { "key": "Model Name", "values": ["Bulb"] },
+              { "key": "Model ID", "values": ["Led"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Number of Bulbs", "values": ["1"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Month Manufacturing Warranty"]
+              },
+              { "key": "Warranty Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Damaged Piece Will Not Be Repaired/Covered Under Warranty"
+                ]
+              },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              { "key": "Input Power", "values": ["5 W"] },
+              { "key": "Powered by", "values": ["USB"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 LED Bulb"] }
+            ]
+          },
+          {
+            "id": "3a1950381659338a42668002f594a596",
+            "name": "Mydress Mystyle USB Gadgets",
+            "description": "Mydress Mystyle Bulb Led USB Led Light (Red, Green)\n                         Price: Rs. 149\n\t\t\t\t\n\t\t\tUSB LED Bulb Lamp Mini USB Light - High power LED, could reach range about 15 meters - As long as there is a USB connector can be used - Can connect the computer with USB, such as mobile power supply, the output of the equipment - Perfect for camping, hiking, hunting, fishing, mountaineering or diving at nights - Need to be powered by USB Devices such as power bank Tablet PC E-BOOK Smart phone etc - Powered by USB - Wattage: 1W - Input voltage: DC 4.9V- 5.5V - Luminous flux: 60-80LM - Color Temperature: 5000-6000K - Size: approx.6.5cmx3.5cm\nUSB LED Bulb Lamp Mini USB Light - High power LED, could reach range about 15 meters - As long as there is a USB connector can be used - Can connect the computer with USB, such as mobile power supply, the output of the equipment - Perfect for camping, hiking, hunting, fishing, mountaineering or diving at nights - Need to be powered by USB Devices such as power bank Tablet PC E-BOOK Smart phone etc - Powered by USB - Wattage: 1W - Input voltage: DC 4.9V- 5.5V - Luminous flux: 60-80LM - Color Temperature: 5000-6000K - Size: approx.6.5cmx3.5cm",
+            "stock_level": 643,
+            "price": 1199,
+            "sale": true,
+            "sale_price": 149,
+            "stock_keeping_unit": "USGEBZZ3SVFAFF5E",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/f/5/e/led-mydress-mystyle-1100x1100-imaebnn8upwbz9yb.jpeg",
+                "filename": "led-mydress-mystyle-1100x1100-imaebnn8upwbz9yb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/f/5/e/led-mydress-mystyle-original-imaebnn8upwbz9yb.jpeg",
+                "filename": "led-mydress-mystyle-original-imaebnn8upwbz9yb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/c/z/8/led-my-dress-my-style-original-imaebgyhqwjhcgzj.jpeg",
+                "filename": "led-my-dress-my-style-original-imaebgyhqwjhcgzj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/mobile-accessories-combo/r/n/y/2-novel-hybrid-car-charger-with-usb-led-bulb-original-imaebgyvtxhmjymk.jpeg",
+                "filename": "2-novel-hybrid-car-charger-with-usb-led-bulb-original-imaebgyvtxhmjymk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Mydress Mystyle"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "Model Name", "values": ["Bulb"] },
+              { "key": "Material", "values": ["Plastic", "Metal"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Model ID", "values": ["Led"] },
+              { "key": "Number of Bulbs", "values": ["1"] },
+              { "key": "Color", "values": ["Red", "Green"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Month Manufacturing Warranty"]
+              },
+              { "key": "Warranty Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Damaged Piece Will Not Be Repaired/Covered Under Warranty"
+                ]
+              },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Input Power", "values": ["5 W"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              { "key": "Powered by", "values": ["USB"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Sales Package", "values": ["2 USB Led Bulb"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "0d39378019868bce9944e41c05ad188426cf0fa6"
+    },
+    {
+      "product": {
+        "id": "888fcbdb86e64c16cd71c98468c44ff6a2bb8639",
+        "name": "Mr Plus 2827 2.1 Home Theatre System",
+        "description": "Dummy description for product Mr Plus 2827 2.1 Home Theatre System",
+        "manufacturer_id": "3cab84a3d2d0e3e051c69ed231a6334e8cac15c6",
+        "taric_code": "8a6f83dc-7d6a-45c4-8926-64d834511c71",
+        "variants": [
+          {
+            "id": "30637f342bc01bd684aace19eb5171a0",
+            "name": "Mr Plus Home Theaters",
+            "description": "Buy Mr Plus 2827 2.1 Home Theatre System for Rs.3990 online. Mr Plus 2827 2.1 Home Theatre System at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5169,
+            "price": 4990,
+            "sale": false,
+            "sale_price": 3990,
+            "stock_keeping_unit": "HTHEDB2HKFRSWAVS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/home-theatre-system/a/v/s/2827-mr-plus-1100x1100-imaedayzzxv6hzyg.jpeg",
+                "filename": "2827-mr-plus-1100x1100-imaedayzzxv6hzyg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/home-theatre-system/a/v/s/2827-mr-plus-original-imaedayzzxv6hzyg.jpeg",
+                "filename": "2827-mr-plus-original-imaedayzzxv6hzyg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/home-theatre-system/a/v/s/2827-mr-plus-original-imae6uhczgpxnsrb.jpeg",
+                "filename": "2827-mr-plus-original-imae6uhczgpxnsrb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Mr Plus"] },
+              {
+                "key": "Player Type",
+                "values": [
+                  "Tv",
+                  "Phone",
+                  "Dvd",
+                  "Pc",
+                  "I Phone",
+                  "Laptop",
+                  "Bluetooth Android Mobile"
+                ]
+              },
+              { "key": "Channel", "values": ["2.1"] },
+              {
+                "key": "Supported Device",
+                "values": [
+                  "iPhone",
+                  "PC",
+                  "Laptop",
+                  "MP4 Player",
+                  "Gaming Console",
+                  "MP3 Player",
+                  "Music System",
+                  "iPod",
+                  "TV"
+                ]
+              },
+              { "key": "Model Number", "values": ["2827"] },
+              { "key": "Speaker Type", "values": ["Home Cinema"] },
+              { "key": "Enclosure Type", "values": ["Home Theatre"] },
+              { "key": "Technology Used", "values": ["Mr Plus"] },
+              {
+                "key": "324e5c47-4015-4ab8-a041-fb493daaca45",
+                "values": ["1"]
+              },
+              { "key": "Subwoofer Height", "values": ["203 mm"] },
+              { "key": "Center Speaker Height", "values": ["325 mm"] },
+              { "key": "Surround Speaker Height", "values": ["120 mm"] },
+              { "key": "Center Speaker Weight", "values": ["3 kg"] },
+              { "key": "Front Speaker Weight", "values": ["3 kg"] },
+              { "key": "Front Speaker Depth", "values": ["50 mm"] },
+              { "key": "Subwoofer Weight", "values": ["1 kg"] },
+              { "key": "Surround Speaker Depth", "values": ["800 mm"] },
+              { "key": "Front Speaker Width", "values": ["180 mm"] },
+              { "key": "Subwoofer Depth", "values": ["40 mm"] },
+              { "key": "Subwoofer Width", "values": ["25 mm"] },
+              { "key": "Center Speaker Depth", "values": ["50 mm"] },
+              { "key": "Center Speaker Width", "values": ["470 mm"] },
+              { "key": "Front Speaker Height", "values": ["325 mm"] },
+              { "key": "Surround Speaker Width", "values": ["250 mm"] },
+              { "key": "Surround Speaker Weight", "values": ["1 kg"] },
+              { "key": "Number of HDMI Ports", "values": ["3"] },
+              { "key": "Number of USB Ports", "values": ["1"] },
+              { "key": "Digital Amplifier", "values": ["No"] },
+              { "key": "Amplifier Output", "values": ["60 W"] },
+              { "key": "Power Requirement", "values": ["220-240v"] },
+              { "key": "Power Consumption", "values": ["140 W"] },
+              { "key": "Total Number of Speakers", "values": ["2"] },
+              { "key": "Number of Centre Spreakers", "values": ["1"] },
+              { "key": "Signal To Noise Ratio", "values": ["25 dB"] },
+              { "key": "Number of Surround Speakers", "values": ["2"] },
+              { "key": "Number of Subwoofers", "values": ["2"] },
+              {
+                "key": "Audio Formats",
+                "values": [
+                  "Mp3",
+                  "Mp4",
+                  "Usb",
+                  "Fm",
+                  "Remote",
+                  "Sd",
+                  "Bluethoot"
+                ]
+              },
+              { "key": "Number of Front Speakers", "values": ["2"] },
+              { "key": "Dolby Digital", "values": ["No"] },
+              { "key": "Maximum Frequency Response", "values": ["10000 Hz"] },
+              { "key": "Minimum Frequency Response", "values": ["20 Hz"] },
+              { "key": "Video Formats", "values": ["2"] },
+              {
+                "key": "Drive Type",
+                "values": ["Dvd", "Sd", "Usb", "Blutoot"]
+              },
+              { "key": "3D Compatibility", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3cd63a52196712a5bfffd889db8c7ba793daf85c" }
+      },
+      "active": false,
+      "id": "888fcbdb86e64c16cd71c98468c44ff6a2bb8639"
+    },
+    {
+      "product": {
+        "id": "68a1f8b5f31da3bb197bbef20f6d555545df66ba",
+        "name": "ShadowFax Table Air Fan Cooler USB USB Fan",
+        "description": "Dummy description for product ShadowFax Table Air Fan Cooler USB USB Fan",
+        "manufacturer_id": "df40c6795ac255ef35d93faaa3a6eb4d0a082ea9",
+        "taric_code": "655eabac-5961-4978-ae03-0db02ef2538d",
+        "variants": [
+          {
+            "id": "ba7ff85874d8141d3bb530d439570e42",
+            "name": "ShadowFax USB Gadgets",
+            "description": "Buy ShadowFax Table Air Fan Cooler USB USB Fan for Rs.799 online. ShadowFax Table Air Fan Cooler USB USB Fan at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6917,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 799,
+            "stock_keeping_unit": "USGEE5ZTTUZDK6Z8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/6/z/8/fan-cooler-shadowfax-1100x1100-imaebxuddnzqadgw.jpeg",
+                "filename": "fan-cooler-shadowfax-1100x1100-imaebxuddnzqadgw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/6/z/8/fan-cooler-shadowfax-original-imaebxuddnzqadgw.jpeg",
+                "filename": "fan-cooler-shadowfax-original-imaebxuddnzqadgw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/6/z/8/fan-cooler-shadowfax-original-imaebxudy59vkdha.jpeg",
+                "filename": "fan-cooler-shadowfax-original-imaebxudy59vkdha.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/6/z/8/fan-cooler-shadowfax-original-imaebxudgsyc2eyh.jpeg",
+                "filename": "fan-cooler-shadowfax-original-imaebxudgsyc2eyh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/6/z/8/fan-cooler-shadowfax-original-imaebxudnwazghmk.jpeg",
+                "filename": "fan-cooler-shadowfax-original-imaebxudnwazghmk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/w/f/n/fan-cooler-shadowfax-original-imaebxudbgwxze32.jpeg",
+                "filename": "fan-cooler-shadowfax-original-imaebxudbgwxze32.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["ShadowFax"] },
+              { "key": "Type", "values": ["USB Fan"] },
+              { "key": "System Requirements", "values": ["v2.0"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Table Air"] },
+              { "key": "Model ID", "values": ["Fan Cooler"] },
+              { "key": "Color", "values": ["Blue"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Seal Packing With Orginal Packing Without any defect"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "Replacement by brand on manufacturing defect only Warranty Not covered if Item Used",
+                  "Without Original Packing",
+                  "Physically Damaged"
+                ]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Replacement By Brand"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty Not covered if Item Used",
+                  "Without Original Packing",
+                  "Physically Damaged"
+                ]
+              },
+              { "key": "Weight", "values": ["70 g"] },
+              { "key": "Height", "values": ["10.5 cm"] },
+              { "key": "Width", "values": ["14 cm"] },
+              { "key": "Depth", "values": ["11.5 cm"] },
+              { "key": "Powered by", "values": ["USB"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": [
+                  "Handheld Mini Air Conditioner Fan USB Portable Cooler"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "68a1f8b5f31da3bb197bbef20f6d555545df66ba"
+    },
+    {
+      "product": {
+        "id": "8203cf3c0cc8da22b465faefdd8a4b3dfb7da9c8",
+        "name": "Tapawire Flexible Portable Lamp H08 USB Led Light",
+        "description": "Dummy description for product Tapawire Flexible Portable Lamp H08 USB Led Light",
+        "manufacturer_id": "17e1091f1baef6e9ed647fe5c1c276c8bacabef7",
+        "taric_code": "cec996fb-c049-4c4d-add2-c26fac60b6cb",
+        "variants": [
+          {
+            "id": "1f3d12e3632fcf529e81009cdaad2021",
+            "name": "Tapawire USB Gadgets",
+            "description": "Buy Tapawire Flexible Portable Lamp H08 USB Led Light for Rs.249 online. Tapawire Flexible Portable Lamp H08 USB Led Light at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7100,
+            "price": 299,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "USGEDRRVZCFYRADJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/d/j/h08-tapawire-1100x1100-imaedrzm5hvgkrgm.jpeg",
+                "filename": "h08-tapawire-1100x1100-imaedrzm5hvgkrgm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/d/j/h08-tapawire-original-imaedrzm5hvgkrgm.jpeg",
+                "filename": "h08-tapawire-original-imaedrzm5hvgkrgm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/d/j/h08-tapawire-original-imaedrzmg6xmxdyq.jpeg",
+                "filename": "h08-tapawire-original-imaedrzmg6xmxdyq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/d/j/h08-tapawire-original-imaedrzmh4gbhmx2.jpeg",
+                "filename": "h08-tapawire-original-imaedrzmh4gbhmx2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Tapawire"] },
+              { "key": "Type", "values": ["Led Light"] },
+              {
+                "key": "System Requirements",
+                "values": ["USB Port v1.0 and above"]
+              },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Flexible Portable Lamp"] },
+              { "key": "Model ID", "values": ["H08"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Sales Package", "values": ["1 USB LED Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "8203cf3c0cc8da22b465faefdd8a4b3dfb7da9c8"
+    },
+    {
+      "product": {
+        "id": "2866700204add729196cf1b9b4957772160b2ef7",
+        "name": "Finger's iPhone 5 5s Ipad Data Sync USB USB Charger",
+        "description": "Dummy description for product Finger's iPhone 5 5s Ipad Data Sync USB USB Charger",
+        "manufacturer_id": "72ccffb64e4f38252accac646e075e968acb5296",
+        "taric_code": "64b6d09b-c218-4e1f-85fa-231a02438351",
+        "variants": [
+          {
+            "id": "5dfde003664ed7fe5020582ccbb8cd4b",
+            "name": "Finger's USB Gadgets",
+            "description": "Finger's iPhone 5 5s Ipad Data Sync USB USB Charger (White)\n                         Price: Rs. 199\n\t\t\t\t\n\t\t\tThis USB cable is the perfect solution for all your data transfer needs. Extra long 2 meters USB Cable also allows high data transfer speeds, quick synchronization. You can easily connect your mobile phone to your computer to transfer files such as phone numbers, pictures, music, videos, games & updates. This cable is compatible with huge range of handsets and other devices. Extra Long 3 Meter 3M MICRO USB CHARGER SYNC CABLE Excellent for: Iphone 5 Iphone5s iphone5c Ipad mini Ipad Touch Sales Package Content 1 x 1 metre Micro USB cable in White -\nThis USB cable is the perfect solution for all your data transfer needs. Extra long 2 meters USB Cable also allows high data transfer speeds, quick synchronization. You can easily connect your mobile phone to your computer to transfer files such as phone numbers, pictures, music, videos, games & updates. This cable is compatible with huge range of handsets and other devices. Extra Long 3 Meter 3M MICRO USB CHARGER SYNC CABLE Excellent for: Iphone 5 Iphone5s iphone5c Ipad mini Ipad Touch Sales Package Content 1 x 1 metre Micro USB cable in White -",
+            "stock_level": 6856,
+            "price": 399,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "USGEE6MV4XNTHFCE",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/c/e/data-sync-finger-s-1100x1100-imaee5snhg25nnts.jpeg",
+                "filename": "data-sync-finger-s-1100x1100-imaee5snhg25nnts.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/f/c/e/data-sync-finger-s-original-imaee5snhg25nnts.jpeg",
+                "filename": "data-sync-finger-s-original-imaee5snhg25nnts.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Finger's"] },
+              { "key": "Type", "values": ["USB Charger"] },
+              { "key": "Model Name", "values": ["iPhone 5 5s Ipad"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["USB Port"] },
+              { "key": "Model ID", "values": ["Data Sync"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Weight", "values": ["50 g"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defect"]
+              },
+              { "key": "Warranty Service Type", "values": ["Replacement"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["USB Charging Cable"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "2866700204add729196cf1b9b4957772160b2ef7"
+    },
+    {
+      "product": {
+        "id": "600a5d375faa092251c7f4b13cad9a3a38c1e781",
+        "name": "Finger's USB Fan Cum Power bank Black New USB USB Fan",
+        "description": "Dummy description for product Finger's USB Fan Cum Power bank Black New USB USB Fan",
+        "manufacturer_id": "72ccffb64e4f38252accac646e075e968acb5296",
+        "taric_code": "acefe78c-1230-4955-bf71-726f9cbe308e",
+        "variants": [
+          {
+            "id": "3e477b9e33f50cd064a1633fa8b17c96",
+            "name": "Finger's USB Gadgets",
+            "description": "Buy Finger's USB Fan Cum Power bank Black New USB USB Fan for Rs.849 online. Finger's USB Fan Cum Power bank Black New USB USB Fan at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1418,
+            "price": 999,
+            "sale": false,
+            "sale_price": 849,
+            "stock_keeping_unit": "USGEE4P5BUGKHE2M",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/e/2/m/new-finger-s-original-imaee3tfafpkmycb.jpeg",
+                "filename": "new-finger-s-original-imaee3tfafpkmycb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/e/2/m/new-finger-s-original-imaee3t5xfm6cggb.jpeg",
+                "filename": "new-finger-s-original-imaee3t5xfm6cggb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/e/2/m/new-finger-s-original-imaee3t5t2gu96vu.jpeg",
+                "filename": "new-finger-s-original-imaee3t5t2gu96vu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Finger's"] },
+              {
+                "key": "Control Features",
+                "values": [
+                  "Push on/off button",
+                  "Adjust wind level",
+                  "Rechargeable battery"
+                ]
+              },
+              { "key": "Type", "values": ["USB Fan"] },
+              { "key": "System Requirements", "values": ["USB Port"] },
+              { "key": "Material", "values": ["Plastic"] },
+              {
+                "key": "Model Name",
+                "values": ["USB Fan Cum Power bank Black"]
+              },
+              { "key": "Model ID", "values": ["New"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defect"]
+              },
+              { "key": "Warranty Summary", "values": ["1 Month"] },
+              { "key": "Warranty Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Physical Damaged By customer And Voltage Fluctutaions"
+                ]
+              },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Rechargeable", "values": ["Yes"] },
+              { "key": "Output Power", "values": ["5 W"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["1 USB Cable", "1 USB Fan Cum Power Bank"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "600a5d375faa092251c7f4b13cad9a3a38c1e781"
+    },
+    {
+      "product": {
+        "id": "6dc3eed1101c93e758e1b360cb0eefded404e654",
+        "name": "Techone+ Flexible SE122014-VIOLET USB Led Light",
+        "description": "Dummy description for product Techone+ Flexible SE122014-VIOLET USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "e17476c0-247c-4b23-8a2e-3ff2b30958f9",
+        "variants": [
+          {
+            "id": "6559f71b7ac410a799776a97f379a014",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Flexible SE122014-VIOLET USB Led Light (Violet)\n                         Price: Rs. 949\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 2348,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 949,
+            "stock_keeping_unit": "USGEDDUFPQBYH6GY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/y/c/w/se122101-violet-techone-1100x1100-imaecpkzxc7dgyyw.jpeg",
+                "filename": "se122101-violet-techone-1100x1100-imaecpkzxc7dgyyw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/y/c/w/se122101-violet-techone-original-imaecpkzxc7dgyyw.jpeg",
+                "filename": "se122101-violet-techone-original-imaecpkzxc7dgyyw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/r/y/4/se122013-violet-techone-original-imaecpkz9bfwtgmr.jpeg",
+                "filename": "se122013-violet-techone-original-imaecpkz9bfwtgmr.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "Model Name", "values": ["Flexible"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Model ID", "values": ["SE122014-VIOLET"] },
+              { "key": "Color", "values": ["Violet"] },
+              { "key": "Weight", "values": ["750 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 20"]
+              },
+              { "key": "Sales Package", "values": ["20 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "6dc3eed1101c93e758e1b360cb0eefded404e654"
+    },
+    {
+      "product": {
+        "id": "79e72c657cce601aab5a9f62d4c3d70936d803ee",
+        "name": "Techone+ Portable SE122104-ORANGE USB Led Light",
+        "description": "Dummy description for product Techone+ Portable SE122104-ORANGE USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "5b2bac38-6b8d-4074-a77e-79c053114332",
+        "variants": [
+          {
+            "id": "6537442a598d7de863f7c96e8e4fefbf",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Portable SE122104-ORANGE USB Led Light (Orange)\n                         Price: Rs. 949\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 8555,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 949,
+            "stock_keeping_unit": "USGEDDUFDCYFSGG6",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/6/t/4/bt001-bt-1100x1100-imae74uyrffzydeh.jpeg",
+                "filename": "bt001-bt-1100x1100-imae74uyrffzydeh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/6/t/4/bt001-bt-original-imae74uyrffzydeh.jpeg",
+                "filename": "bt001-bt-original-imae74uyrffzydeh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/g/g/6/se122104-orange-techone-original-imaecpkzkhyrzhbx.jpeg",
+                "filename": "se122104-orange-techone-original-imaecpkzkhyrzhbx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/y/t/se122101-orange-techone-original-imaecpkz9tcpawju.jpeg",
+                "filename": "se122101-orange-techone-original-imaecpkz9tcpawju.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Portable"] },
+              { "key": "Model ID", "values": ["SE122104-ORANGE"] },
+              { "key": "Color", "values": ["Orange"] },
+              { "key": "Weight", "values": ["750 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 20"]
+              },
+              { "key": "Sales Package", "values": ["20 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "79e72c657cce601aab5a9f62d4c3d70936d803ee"
+    },
+    {
+      "product": {
+        "id": "78f652d437b53cc2459f76c08d87c0617af5d4e4",
+        "name": "Memore Portable MMULL-Pink USB Led Light",
+        "description": "Dummy description for product Memore Portable MMULL-Pink USB Led Light",
+        "manufacturer_id": "f92c940b45dd298c6b90dae54fd2613c263124d3",
+        "taric_code": "7aafb445-dfb4-42a1-a6eb-84dac2089abc",
+        "variants": [
+          {
+            "id": "8a589971a22b71e9aa36ce3133ff147d",
+            "name": "Memore USB Gadgets",
+            "description": "Memore Portable MMULL-Pink USB Led Light (Pink)\n                         Price: Rs. 199\n\t\t\t\t\n\t\t\t1. 100% Brand New And High Quality. 2. Perfect Fit For Reading. 3. Light Weight And Durable Cover. 4. Portable And Multiple Choice Of Color. 5. Flexible And Easy Clean. 6. Rated Voltage: 5v 7. Rated Power: 1.2w 8. Size: 170*18.5*9mm 9. Can Be Use On Any Where,Powered By Any Devices With Usb Port 10. Ultra Bright With Low Power Consumption 11. Unique Bendable Design,Also Has Light Weight 12. Material: Silicone\n1. 100% Brand New And High Quality. 2. Perfect Fit For Reading. 3. Light Weight And Durable Cover. 4. Portable And Multiple Choice Of Color. 5. Flexible And Easy Clean. 6. Rated Voltage: 5v 7. Rated Power: 1.2w 8. Size: 170*18.5*9mm 9. Can Be Use On Any Where,Powered By Any Devices With Usb Port 10. Ultra Bright With Low Power Consumption 11. Unique Bendable Design,Also Has Light Weight 12. Material: Silicone",
+            "stock_level": 7173,
+            "price": 499,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "USGEE3GCYYWX5ECP",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/e/c/p/mmull-pink-memore-1100x1100-imaedxwfnhdvur5g.jpeg",
+                "filename": "mmull-pink-memore-1100x1100-imaedxwfnhdvur5g.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/e/c/p/mmull-pink-memore-original-imaedxwfnhdvur5g.jpeg",
+                "filename": "mmull-pink-memore-original-imaedxwfnhdvur5g.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Lamp Adjustment", "values": ["Flexible"] },
+              { "key": "Brand", "values": ["Memore"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "Model Name", "values": ["Portable"] },
+              { "key": "Material", "values": ["Silicon"] },
+              { "key": "System Requirements", "values": ["Usb Port 1.0"] },
+              { "key": "Model ID", "values": ["MMULL-Pink"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Weight", "values": ["77 g"] },
+              { "key": "Height", "values": ["12.7 cm"] },
+              { "key": "Width", "values": ["2.5 cm"] },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              { "key": "Sales Package", "values": ["1 USB Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "78f652d437b53cc2459f76c08d87c0617af5d4e4"
+    },
+    {
+      "product": {
+        "id": "fadba080849df082c8324a296d7b62d9d3857f6b",
+        "name": "Iconnect World 7.1 Virtual Channel 3D Audio Adapter USB Sound Card",
+        "description": "Dummy description for product Iconnect World 7.1 Virtual Channel 3D Audio Adapter USB Sound Card",
+        "manufacturer_id": "a9f9f4fcfbfb05fdbcc79db766f6656cb7cbbbf1",
+        "taric_code": "ef4e70f3-d920-4212-bfaa-000398622856",
+        "variants": [
+          {
+            "id": "90bb50ab902abd45333512499da3dc07",
+            "name": "Iconnect World USB Gadgets",
+            "description": "Buy Iconnect World 7.1 Virtual Channel 3D Audio Adapter USB Sound Card for Rs.509 online. Iconnect World 7.1 Virtual Channel 3D Audio Adapter USB Sound Card at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9856,
+            "price": 1200,
+            "sale": true,
+            "sale_price": 509,
+            "stock_keeping_unit": "USGEDZUWZ9SFHSXZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/4/h/high-definition-iconnect-world-1100x1100-imaecnj7ngceby3a.jpeg",
+                "filename": "high-definition-iconnect-world-1100x1100-imaecnj7ngceby3a.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/f/u/virtual-3d-sound-iconnect-world-original-imaecnj7ngceby3a.jpeg",
+                "filename": "virtual-3d-sound-iconnect-world-original-imaecnj7ngceby3a.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/f/u/virtual-3d-sound-iconnect-world-original-imaecnj7saahyrrr.jpeg",
+                "filename": "virtual-3d-sound-iconnect-world-original-imaecnj7saahyrrr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/f/u/virtual-3d-sound-iconnect-world-original-imaecnj74udq7yza.jpeg",
+                "filename": "virtual-3d-sound-iconnect-world-original-imaecnj74udq7yza.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/f/u/virtual-3d-sound-iconnect-world-original-imaedzseybvvptvv.jpeg",
+                "filename": "virtual-3d-sound-iconnect-world-original-imaedzseybvvptvv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/f/u/virtual-3d-sound-iconnect-world-original-imaecnj8z226qzdm.jpeg",
+                "filename": "virtual-3d-sound-iconnect-world-original-imaecnj8z226qzdm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Iconnect World"] },
+              { "key": "Type", "values": ["Sound Card"] },
+              { "key": "System Requirements", "values": ["USB Port 2.0"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["7.1 Virtual Channel"] },
+              { "key": "Model ID", "values": ["3D Audio Adapter"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["External Sound Card"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "fadba080849df082c8324a296d7b62d9d3857f6b"
+    },
+    {
+      "product": {
+        "id": "fcd87b1c03fb86e108cf34d1d028731055e51341",
+        "name": "Iconnect World Premium Quality External Audio Adapter With Mic 1 Year Warranty 7.1 Channel USB Sound Card",
+        "description": "Dummy description for product Iconnect World Premium Quality External Audio Adapter With Mic 1 Year Warranty 7.1 Channel USB Sound Card",
+        "manufacturer_id": "a9f9f4fcfbfb05fdbcc79db766f6656cb7cbbbf1",
+        "taric_code": "35ced6fb-c9e0-43ff-8d39-8d0a81d4d8c2",
+        "variants": [
+          {
+            "id": "f2f7e8d4e3cc588a1769e5158262d768",
+            "name": "Iconnect World USB Gadgets",
+            "description": "Buy Iconnect World Premium Quality External Audio Adapter With Mic 1 Year Warranty 7.1 Channel USB Sound Card for Rs.649 online. Iconnect World Premium Quality External Audio Adapter With Mic 1 Year Warranty 7.1 Channel USB Sound Card at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7555,
+            "price": 900,
+            "sale": true,
+            "sale_price": 649,
+            "stock_keeping_unit": "USGEDNR8U6ZAETKA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/n/w/z/audio-adapter-iconnect-world-1100x1100-imaecmj7vunzmvuv.jpeg",
+                "filename": "audio-adapter-iconnect-world-1100x1100-imaecmj7vunzmvuv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/t/k/a/7-1-channel-iconnect-world-original-imaecmj7vunzmvuv.jpeg",
+                "filename": "7-1-channel-iconnect-world-original-imaecmj7vunzmvuv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/t/k/a/7-1-channel-iconnect-world-original-imaecmj7zx8amyev.jpeg",
+                "filename": "7-1-channel-iconnect-world-original-imaecmj7zx8amyev.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/t/k/a/7-1-channel-iconnect-world-original-imaecmj8vn8rng4b.jpeg",
+                "filename": "7-1-channel-iconnect-world-original-imaecmj8vn8rng4b.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/t/k/a/7-1-channel-iconnect-world-original-imaecmj8deww8vsk.jpeg",
+                "filename": "7-1-channel-iconnect-world-original-imaecmj8deww8vsk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Iconnect World"] },
+              { "key": "Type", "values": ["Sound Card"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "Premium Quality External Audio Adapter With Mic 1 Year Warranty"
+                ]
+              },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["USB Port 2.0"] },
+              { "key": "Model ID", "values": ["7.1 Channel"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["External Sound Card"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "fcd87b1c03fb86e108cf34d1d028731055e51341"
+    },
+    {
+      "product": {
+        "id": "48467f981e8f68fbb8df0fe2a8ef6eefaa953627",
+        "name": "Generix HDMI Female To Female Coupler Jointer Adapter Extender Gender Changer gx-hdmi-coupler USB HDMI Connector",
+        "description": "Dummy description for product Generix HDMI Female To Female Coupler Jointer Adapter Extender Gender Changer gx-hdmi-coupler USB HDMI Connector",
+        "manufacturer_id": "0f74d93aa91f1e0b2be225dcd0ef1a2a8aa6c3d0",
+        "taric_code": "a3534971-c5eb-4272-89ec-6288c66732fe",
+        "variants": [
+          {
+            "id": "41dccf212ff447cd7213a2b1e669e406",
+            "name": "Generix USB Gadgets",
+            "description": "Buy Generix HDMI Female To Female Coupler Jointer Adapter Extender Gender Changer gx-hdmi-coupler USB HDMI Connector for Rs.166 online. Generix HDMI Female To Female Coupler Jointer Adapter Extender Gender Changer gx-hdmi-coupler USB HDMI Connector at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7903,
+            "price": 299,
+            "sale": false,
+            "sale_price": 166,
+            "stock_keeping_unit": "USGECN4WHY7M9MZJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/m/z/j/gx-hdmi-coupler-generix-original-imaecmnendbgwpar.jpeg",
+                "filename": "gx-hdmi-coupler-generix-original-imaecmnendbgwpar.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/m/z/j/gx-hdmi-coupler-generix-original-imaecmnendbgwpar.jpeg",
+                "filename": "gx-hdmi-coupler-generix-original-imaecmnendbgwpar.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Generix"] },
+              { "key": "Type", "values": ["HDMI Connector"] },
+              {
+                "key": "System Requirements",
+                "values": [
+                  "Connects 2 Male Cables Together Or Make A Male To Female Extension Cable"
+                ]
+              },
+              { "key": "Material", "values": ["Plastic"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "HDMI Female To Female Coupler Jointer Adapter Extender Gender Changer"
+                ]
+              },
+              { "key": "Model ID", "values": ["gx-hdmi-coupler"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 Hdmi Jointer"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "48467f981e8f68fbb8df0fe2a8ef6eefaa953627"
+    },
+    {
+      "product": {
+        "id": "ec19f07407538c4ff7be60aa2d2d62a2f4c89178",
+        "name": "Orico Compact Retractable USB 3.0 C3H4-BK USB USB Hub",
+        "description": "Dummy description for product Orico Compact Retractable USB 3.0 C3H4-BK USB USB Hub",
+        "manufacturer_id": "e69fcafd80ae311a4bd14b5625b5427ba7ed7a8c",
+        "taric_code": "16b65800-ebf6-4350-9efe-aa249a1f071e",
+        "variants": [
+          {
+            "id": "d1e4e409ecba3a8cfa28caf6652f77e1",
+            "name": "Orico USB Gadgets",
+            "description": "Buy Orico Compact Retractable USB 3.0 C3H4-BK USB USB Hub for Rs.1490 online. Orico Compact Retractable USB 3.0 C3H4-BK USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7139,
+            "price": 1490,
+            "sale": false,
+            "sale_price": 1490,
+            "stock_keeping_unit": "USGEBYHXYYGCSW7D",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/w/7/d/c3h4-bk-orico-1100x1100-imaebwzpyvffx5sp.jpeg",
+                "filename": "c3h4-bk-orico-1100x1100-imaebwzpyvffx5sp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/w/7/d/c3h4-bk-orico-original-imaebwzpyvffx5sp.jpeg",
+                "filename": "c3h4-bk-orico-original-imaebwzpyvffx5sp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/w/7/d/c3h4-bk-orico-original-imaebwzpeqjw6xvg.jpeg",
+                "filename": "c3h4-bk-orico-original-imaebwzpeqjw6xvg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/w/7/d/c3h4-bk-orico-original-imaebwzpyje7k9jc.jpeg",
+                "filename": "c3h4-bk-orico-original-imaebwzpyje7k9jc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/w/7/d/c3h4-bk-orico-original-imaebwzpjsyn5jkm.jpeg",
+                "filename": "c3h4-bk-orico-original-imaebwzpjsyn5jkm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/w/7/d/c3h4-bk-orico-original-imaebwzpuezzb37z.jpeg",
+                "filename": "c3h4-bk-orico-original-imaebwzpuezzb37z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Orico"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              {
+                "key": "Model Name",
+                "values": ["Compact Retractable USB 3.0"]
+              },
+              { "key": "Material", "values": ["Plastic"] },
+              {
+                "key": "System Requirements",
+                "values": [
+                  "USB 2 or USB 3 Port",
+                  "Windows 7 or Higher",
+                  "Mac Compatible"
+                ]
+              },
+              { "key": "Model ID", "values": ["C3H4-BK"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Weight", "values": ["90 g"] },
+              { "key": "Height", "values": ["1.4 cm"] },
+              { "key": "Width", "values": ["8 cm"] },
+              { "key": "Depth", "values": ["8 cm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Technical Malfunction"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["3 Months Limited Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Customer Carry In"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Physical Damage", "Cut Cable"]
+              },
+              { "key": "Power Cord Length", "values": ["0.3 m"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["USB Hub"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "ec19f07407538c4ff7be60aa2d2d62a2f4c89178"
+    },
+    {
+      "product": {
+        "id": "9018608d3a596bc02d36d81c8f96c963f164a006",
+        "name": "BlueStone Yellow Gold Diamond 14 Bracelet",
+        "description": "Dummy description for product BlueStone Yellow Gold Diamond 14 Bracelet",
+        "manufacturer_id": "a42393853fa979386a04ce70a62dd93d154c0a9b",
+        "taric_code": "a870788a-9fcc-48e0-84ab-e1f4902b378a",
+        "variants": [
+          {
+            "id": "76c100b718933ac4387097067d536519",
+            "name": "Bracelets",
+            "description": "BlueStone Yellow Gold Diamond 14 Bracelet\n                         Price: Rs. 26,653\n\t\t\t\t\n\t\t\t\"Any Stones (including Diamonds) would be verified by either one of the two international gem testing laboratories, i.e. either from SGL or HKD\"\n\"Any Stones (including Diamonds) would be verified by either one of the two international gem testing laboratories, i.e. either from SGL or HKD\"",
+            "stock_level": 2773,
+            "price": 33659,
+            "sale": true,
+            "sale_price": 26653,
+            "stock_keeping_unit": "BBAEB73MMMQHYYHF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/c/z/y/3105-vs-h-14-6-bluestone-1-1100x1100-imae9be4t3bqnvkh.jpeg",
+                "filename": "3105-vs-h-14-6-bluestone-1-1100x1100-imae9be4t3bqnvkh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/c/z/y/3105-vs-h-14-6-bluestone-1-original-imae9be4t3bqnvkh.jpeg",
+                "filename": "3105-vs-h-14-6-bluestone-1-original-imae9be4t3bqnvkh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/c/z/y/3105-vs-h-14-6-bluestone-1-original-imae9be46kaeewnh.jpeg",
+                "filename": "3105-vs-h-14-6-bluestone-1-original-imae9be46kaeewnh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/k/3/z/3105-vvs-f-14-6-5-bluestone-1-original-imae9be4wgqbhkky.jpeg",
+                "filename": "3105-vvs-f-14-6-5-bluestone-1-original-imae9be4wgqbhkky.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/k/3/z/3105-vvs-f-14-6-5-bluestone-1-original-imae9be493xbu7fs.jpeg",
+                "filename": "3105-vvs-f-14-6-5-bluestone-1-original-imae9be493xbu7fs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/w/w/a/3105-vvs-f-18-6-bluestone-1-original-imae9be4d5aknggz.jpeg",
+                "filename": "3105-vvs-f-18-6-bluestone-1-original-imae9be4d5aknggz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Collection", "values": ["Temple"] },
+              { "key": "Brand", "values": ["BlueStone"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Precious Jewellery"]
+              },
+              { "key": "Model Number", "values": ["3105_VS_H_14"] },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Model Name", "values": ["The Fall in Love Openable"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Yellow"] },
+              {
+                "key": "Diamond Weight",
+                "values": ["0.030999999999999993 carat"]
+              },
+              { "key": "Number of Diamonds", "values": ["6"] },
+              { "key": "Diamond Shape", "values": ["Round"] },
+              { "key": "Diamond Color Grade", "values": ["H"] },
+              {
+                "key": "Natural/Synthetic Diamond",
+                "values": ["Natural Diamonds"]
+              },
+              { "key": "Diamond Clarity", "values": ["VS"] },
+              { "key": "Diamond Color", "values": ["White"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["10 Days Return Policy"]
+              },
+              { "key": "Diameter", "values": ["8 inch"] },
+              { "key": "Weight", "values": ["14.6907172841 g"] },
+              { "key": "Gold Purity", "values": ["14 K"] },
+              { "key": "Gold Weight", "values": ["11.011887963074999 g"] },
+              { "key": "Gold Color", "values": ["Yellow Gold"] },
+              { "key": "Base Material", "values": ["Yellow Gold"] },
+              { "key": "Gemstone", "values": ["Diamond"] },
+              { "key": "Plating", "values": ["NA"] },
+              { "key": "Number of Gemstones", "values": ["6"] },
+              {
+                "key": "Certification",
+                "values": ["BIS Hallmark", "HKD", "SGL"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "551ca190fbbf710d7b3028ba58ba5bdd",
+            "name": "Bracelets",
+            "description": "BlueStone Yellow Gold Diamond 14 Bracelet\n                         Price: Rs. 25,905\n\t\t\t\t\n\t\t\t\"Any Stones (including Diamonds) would be verified by either one of the two international gem testing laboratories, i.e. either from SGL or HKD\"\n\"Any Stones (including Diamonds) would be verified by either one of the two international gem testing laboratories, i.e. either from SGL or HKD\"",
+            "stock_level": 5036,
+            "price": 32520,
+            "sale": false,
+            "sale_price": 25905,
+            "stock_keeping_unit": "BBAEB73MVHDCZAV5",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/c/z/y/3105-vs-h-14-6-bluestone-1-1100x1100-imae9be4t3bqnvkh.jpeg",
+                "filename": "3105-vs-h-14-6-bluestone-1-1100x1100-imae9be4t3bqnvkh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/c/z/y/3105-vs-h-14-6-bluestone-1-original-imae9be4t3bqnvkh.jpeg",
+                "filename": "3105-vs-h-14-6-bluestone-1-original-imae9be4t3bqnvkh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/c/z/y/3105-vs-h-14-6-bluestone-1-original-imae9be46kaeewnh.jpeg",
+                "filename": "3105-vs-h-14-6-bluestone-1-original-imae9be46kaeewnh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/k/3/z/3105-vvs-f-14-6-5-bluestone-1-original-imae9be4wgqbhkky.jpeg",
+                "filename": "3105-vvs-f-14-6-5-bluestone-1-original-imae9be4wgqbhkky.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/k/3/z/3105-vvs-f-14-6-5-bluestone-1-original-imae9be493xbu7fs.jpeg",
+                "filename": "3105-vvs-f-14-6-5-bluestone-1-original-imae9be493xbu7fs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/w/w/a/3105-vvs-f-18-6-bluestone-1-original-imae9be4d5aknggz.jpeg",
+                "filename": "3105-vvs-f-18-6-bluestone-1-original-imae9be4d5aknggz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Collection", "values": ["Temple"] },
+              { "key": "Brand", "values": ["BlueStone"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Precious Jewellery"]
+              },
+              { "key": "Model Number", "values": ["3105_VVS_F_14"] },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Model Name", "values": ["The Fall in Love Openable"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Yellow"] },
+              {
+                "key": "Diamond Weight",
+                "values": ["0.030999999999999993 carat"]
+              },
+              { "key": "Number of Diamonds", "values": ["6"] },
+              { "key": "Diamond Shape", "values": ["Round"] },
+              { "key": "Diamond Color Grade", "values": ["F"] },
+              {
+                "key": "Natural/Synthetic Diamond",
+                "values": ["Natural Diamonds"]
+              },
+              { "key": "Diamond Clarity", "values": ["VVS"] },
+              { "key": "Diamond Color", "values": ["White"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["10 Days Return Policy"]
+              },
+              { "key": "Diameter", "values": ["7.5 inch"] },
+              { "key": "Weight", "values": ["13.7707172841 g"] },
+              { "key": "Gold Purity", "values": ["14 K"] },
+              { "key": "Gold Weight", "values": ["10.321887963075 g"] },
+              { "key": "Gold Color", "values": ["Yellow Gold"] },
+              { "key": "Base Material", "values": ["Yellow Gold"] },
+              { "key": "Gemstone", "values": ["Diamond"] },
+              { "key": "Plating", "values": ["NA"] },
+              { "key": "Number of Gemstones", "values": ["6"] },
+              {
+                "key": "Certification",
+                "values": ["BIS Hallmark", "HKD", "SGL"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": true,
+      "id": "9018608d3a596bc02d36d81c8f96c963f164a006"
+    },
+    {
+      "product": {
+        "id": "cbecd82f128d2de6001be58866e6efa87569b06c",
+        "name": "KARP Ultra Bright 28 LEDs USB Lights (Black) LED LIGHT-BLK-1 USB Led Light",
+        "description": "Dummy description for product KARP Ultra Bright 28 LEDs USB Lights (Black) LED LIGHT-BLK-1 USB Led Light",
+        "manufacturer_id": "a81f727def45f3d7a22c2680d661f37d505318c2",
+        "taric_code": "104412be-bffb-4da2-9ee4-a8ed31e5cd8a",
+        "variants": [
+          {
+            "id": "3a33564773e24eb29429177f614655ac",
+            "name": "KARP USB Gadgets",
+            "description": "KARP Ultra Bright 28 LEDs USB Lights (Black) LED LIGHT-BLK-1 USB Led Light (Black)\n                         Price: Rs. 599\n\t\t\t\t\n\t\t\tUltra Bright 28 LEDs USB Lights for Notebook Computer Laptop PC lighting Portable mini lamps.Features: New Flexible Bright Mini 28 LED USB Light Computer Lamp for Notebook Computer PC This is New Facial Hair Epicare Epilator Epistick Remover Stick.A useful tool for you. Brand new and high quality. 28 LED, ultra bright. Powered by a PC USB port, needs no batteries and other external power. Flexible and adjustable metal neck. Soft and warm white light. Extremely long service life. Low power consumption. Cute and decent design. Plugged into your PC USB port, it starts to bring you brightness right now. Lightweight, compact, space-saving, easy to carry and handle. An ideal companion for students, travelers, office workers, etc. Ideal for lighting your laptop in the darkness.\nUltra Bright 28 LEDs USB Lights for Notebook Computer Laptop PC lighting Portable mini lamps.Features: New Flexible Bright Mini 28 LED USB Light Computer Lamp for Notebook Computer PC This is New Facial Hair Epicare Epilator Epistick Remover Stick.A useful tool for you. Brand new and high quality. 28 LED, ultra bright. Powered by a PC USB port, needs no batteries and other external power. Flexible and adjustable metal neck. Soft and warm white light. Extremely long service life. Low power consumption. Cute and decent design. Plugged into your PC USB port, it starts to bring you brightness right now. Lightweight, compact, space-saving, easy to carry and handle. An ideal companion for students, travelers, office workers, etc. Ideal for lighting your laptop in the darkness.",
+            "stock_level": 9808,
+            "price": 699,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "USGECNEZHZVKJMJR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/m/j/r/led-light-blk-1-karp-original-imaecpfn7mgmkydh.jpeg",
+                "filename": "led-light-blk-1-karp-original-imaecpfn7mgmkydh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/m/j/r/led-light-blk-1-karp-original-imaecpfn7mgmkydh.jpeg",
+                "filename": "led-light-blk-1-karp-original-imaecpfn7mgmkydh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/w/g/u/led-light-wht-4-karp-original-imaecpfnxhsbtdfu.jpeg",
+                "filename": "led-light-wht-4-karp-original-imaecpfnxhsbtdfu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Lamp Adjustment", "values": ["Flexible"] },
+              { "key": "Brand", "values": ["KARP"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Material", "values": ["Plastic"] },
+              {
+                "key": "Model Name",
+                "values": ["Ultra Bright 28 LEDs USB Lights (Black)"]
+              },
+              { "key": "Model ID", "values": ["LED LIGHT-BLK-1"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Number of Bulbs", "values": ["28"] },
+              { "key": "Powered by", "values": ["USB"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 Black LED LIGHT"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "cbecd82f128d2de6001be58866e6efa87569b06c"
+    },
+    {
+      "product": {
+        "id": "097f92b5ae79f0bceedde5a6f2341bfe67eae513",
+        "name": "Techone+ Flexible SE122102-GREEN USB Led Light",
+        "description": "Dummy description for product Techone+ Flexible SE122102-GREEN USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "ef01f3f8-0571-4380-bd60-4288432169f1",
+        "variants": [
+          {
+            "id": "78b9b21befbb46565de10f77db3bcc71",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Flexible SE122102-GREEN USB Led Light (Green)\n                         Price: Rs. 249\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 3347,
+            "price": 499,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "USGEDDUFVXPVJGZS",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/z/u/se122103-green-techone-1100x1100-imaecpkzts4zkgnw.jpeg",
+                "filename": "se122103-green-techone-1100x1100-imaecpkzts4zkgnw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/a/z/u/se122103-green-techone-original-imaecpkzts4zkgnw.jpeg",
+                "filename": "se122103-green-techone-original-imaecpkzts4zkgnw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/z/u/se122103-green-techone-original-imaecpkzbvc32haz.jpeg",
+                "filename": "se122103-green-techone-original-imaecpkzbvc32haz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/6/c/8/se122101-green-techone-original-imae9rvba6rtg7hv.jpeg",
+                "filename": "se122101-green-techone-original-imae9rvba6rtg7hv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Flexible"] },
+              { "key": "Model ID", "values": ["SE122102-GREEN"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Weight", "values": ["150 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 4"]
+              },
+              { "key": "Sales Package", "values": ["4 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "097f92b5ae79f0bceedde5a6f2341bfe67eae513"
+    },
+    {
+      "product": {
+        "id": "56dec4d773c39d99bdf0af21cbe4c3f9fb8de705",
+        "name": "LG DH313OS 5.1 Home Theatre System",
+        "description": "Dummy description for product LG DH313OS 5.1 Home Theatre System",
+        "manufacturer_id": "42c3cc4a64c7c3c11dce858efe055293d63c1957",
+        "taric_code": "a9f143ad-5a45-452c-9953-08c87923b5a2",
+        "variants": [
+          {
+            "id": "fdb9d53b85041d6b9590fd6e054a86e0",
+            "name": "LG Home Theaters",
+            "description": "Buy LG DH313OS 5.1 Home Theatre System for Rs.7900 online. LG DH313OS 5.1 Home Theatre System at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7542,
+            "price": 8990,
+            "sale": false,
+            "sale_price": 7900,
+            "stock_keeping_unit": "HTHEDJCGQZ2RHXVZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/home-theatre-system/x/v/z/dh313os-lg-1100x1100-imaedgzhhcgmrsmf.jpeg",
+                "filename": "dh313os-lg-1100x1100-imaedgzhhcgmrsmf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/home-theatre-system/x/v/z/dh313os-lg-original-imaedgzhhcgmrsmf.jpeg",
+                "filename": "dh313os-lg-original-imaedgzhhcgmrsmf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "WiFi Capability", "values": ["No"] },
+              { "key": "Brand", "values": ["LG"] },
+              { "key": "Player Type", "values": ["DVD"] },
+              { "key": "Channel", "values": ["5.1"] },
+              { "key": "Supported Device", "values": ["TV", "Music System"] },
+              { "key": "Model Number", "values": ["DH313OS"] },
+              { "key": "Speaker Type", "values": ["Home Cinema"] },
+              { "key": "Enclosure Type", "values": ["Subwoofer:Bass Blast"] },
+              { "key": "Technology Used", "values": ["Bass Blast"] },
+              {
+                "key": "20e42eb4-9c50-4548-87e6-3a1d39995c79",
+                "values": [
+                  "Main unit",
+                  "Remote control",
+                  "Sub woofer",
+                  "Speaker",
+                  "Manual"
+                ]
+              },
+              { "key": "Service Type", "values": ["On-Site Warranty"] },
+              { "key": "Subwoofer Height", "values": ["325 mm"] },
+              { "key": "Center Speaker Height", "values": ["129 mm"] },
+              { "key": "Surround Speaker Height", "values": ["129 mm"] },
+              { "key": "Center Speaker Weight", "values": ["0.37 kg"] },
+              { "key": "Front Speaker Weight", "values": ["0.37 kg"] },
+              { "key": "Front Speaker Depth", "values": ["67 mm"] },
+              { "key": "Subwoofer Weight", "values": ["3.03 kg"] },
+              { "key": "Surround Speaker Depth", "values": ["66 mm"] },
+              { "key": "Front Speaker Width", "values": ["74 mm"] },
+              { "key": "Subwoofer Depth", "values": ["267 mm"] },
+              { "key": "Subwoofer Width", "values": ["156 mm"] },
+              { "key": "Center Speaker Depth", "values": ["67 mm"] },
+              { "key": "Center Speaker Width", "values": ["78 mm"] },
+              { "key": "Front Speaker Height", "values": ["129 mm"] },
+              { "key": "Surround Speaker Width", "values": ["74 mm"] },
+              { "key": "Surround Speaker Weight", "values": ["0.37 kg"] },
+              { "key": "Number of HDMI Ports", "values": ["NA"] },
+              {
+                "key": "Other Connectivity Features",
+                "values": ["Usb", "Cd", "Aux"]
+              },
+              { "key": "Number of Headphone Jacks", "values": ["1"] },
+              { "key": "Number of USB Ports", "values": ["1"] },
+              { "key": "Bluetooth Connectivity", "values": ["No"] },
+              { "key": "DLNA Support", "values": ["No"] },
+              { "key": "Karaoke Capability", "values": ["No"] },
+              { "key": "Digital Amplifier", "values": ["No"] },
+              { "key": "Amplifier Output", "values": ["300 W"] },
+              { "key": "Power Output - Center", "values": ["300 W"] },
+              { "key": "Power Requirement", "values": ["110-240v,50/60Hz"] },
+              { "key": "Power Consumption", "values": ["45 W"] },
+              { "key": "Dolby Digital Type", "values": ["yes"] },
+              { "key": "Total Number of Speakers", "values": ["5"] },
+              { "key": "Number of Centre Spreakers", "values": ["1"] },
+              { "key": "Signal To Noise Ratio", "values": ["80 dB"] },
+              { "key": "Number of Surround Speakers", "values": ["2"] },
+              { "key": "Number of Subwoofers", "values": ["1"] },
+              { "key": "Audio Formats", "values": ["MP3/WMA"] },
+              { "key": "Number of Front Speakers", "values": ["2"] },
+              { "key": "Dolby Digital", "values": ["Yes"] },
+              { "key": "Maximum Frequency Response", "values": ["20000 Hz"] },
+              { "key": "Minimum Frequency Response", "values": ["20 Hz"] },
+              {
+                "key": "Video Formats",
+                "values": ["DVD/VCD/ACD/MP3/JPEG/DivX/WMA Playback"]
+              },
+              { "key": "Drive Type", "values": ["DVD"] },
+              { "key": "3D Compatibility", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3cd63a52196712a5bfffd889db8c7ba793daf85c" }
+      },
+      "active": true,
+      "id": "56dec4d773c39d99bdf0af21cbe4c3f9fb8de705"
+    },
+    {
+      "product": {
+        "id": "1ea0929567b3163082efdff9dfea4e3ce9342a33",
+        "name": "QP360 Kid Fan 01 MLY2015 USB USB Fan",
+        "description": "Dummy description for product QP360 Kid Fan 01 MLY2015 USB USB Fan",
+        "manufacturer_id": "42b45e83ac4b1921e45fcb20c2c9f339b2451914",
+        "taric_code": "221bf0af-603c-4f0a-8013-bec880bb881d",
+        "variants": [
+          {
+            "id": "c612bdfa459e1e2f20d57348336c24be",
+            "name": "QP360 USB Gadgets",
+            "description": "Buy QP360 Kid Fan 01 MLY2015 USB USB Fan for Rs.489 online. QP360 Kid Fan 01 MLY2015 USB USB Fan at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5820,
+            "price": 799,
+            "sale": false,
+            "sale_price": 489,
+            "stock_keeping_unit": "USGEE4CAYEJWVAF5",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/a/f/5/mly2015-qp360-1100x1100-imaee3hzkuybjcrc.jpeg",
+                "filename": "mly2015-qp360-1100x1100-imaee3hzkuybjcrc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/a/f/5/mly2015-qp360-original-imaee3hzkuybjcrc.jpeg",
+                "filename": "mly2015-qp360-original-imaee3hzkuybjcrc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/a/f/5/mly2015-qp360-original-imaee3hzhvxnfxyq.jpeg",
+                "filename": "mly2015-qp360-original-imaee3hzhvxnfxyq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["QP360"] },
+              { "key": "Type", "values": ["USB Fan"] },
+              { "key": "System Requirements", "values": ["USB Port"] },
+              { "key": "Material", "values": ["Plasti"] },
+              { "key": "Model Name", "values": ["Kid Fan 01"] },
+              { "key": "Model ID", "values": ["MLY2015"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Sales Package", "values": ["Mini Fan", "USB Cable"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "1ea0929567b3163082efdff9dfea4e3ce9342a33"
+    },
+    {
+      "product": {
+        "id": "2c609b6415c31fdd16ea3d9536de99c595ee088d",
+        "name": "Techone+ Portable Power Bank, and Laptops_2 set USB Led Light",
+        "description": "Dummy description for product Techone+ Portable Power Bank, and Laptops_2 set USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "a4f94ac9-0d3d-4906-991c-7c5836b23bc9",
+        "variants": [
+          {
+            "id": "fc009e0b404034e5ea065ba980917f33",
+            "name": "Techone+ USB Gadgets",
+            "description": "Buy Techone+ Portable Power Bank, and Laptops_2 set USB Led Light for Rs.138 online. Techone+ Portable Power Bank, and Laptops_2 set USB Led Light at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3366,
+            "price": 299,
+            "sale": false,
+            "sale_price": 138,
+            "stock_keeping_unit": "USGEE5MZ6CAMSUYT",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/e/t/power-bank-and-laptops-4-set-techone-1100x1100-imaee4pkcuhftugq.jpeg",
+                "filename": "power-bank-and-laptops-4-set-techone-1100x1100-imaee4pkcuhftugq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/x/e/t/power-bank-and-laptops-4-set-techone-original-imaee4pkcuhftugq.jpeg",
+                "filename": "power-bank-and-laptops-4-set-techone-original-imaee4pkcuhftugq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/x/e/t/power-bank-and-laptops-4-set-techone-original-imaee4pkreqnzpbd.jpeg",
+                "filename": "power-bank-and-laptops-4-set-techone-original-imaee4pkreqnzpbd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Portable"] },
+              {
+                "key": "Model ID",
+                "values": ["Power Bank", "and Laptops_2 set"]
+              },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Weight", "values": ["75 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Sales Package", "values": ["2 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "2c609b6415c31fdd16ea3d9536de99c595ee088d"
+    },
+    {
+      "product": {
+        "id": "8e0d11aca08296fc68ff2c0128877f3182fb9ade",
+        "name": "frontech jil 0821 jil - 0821 USB USB Hub",
+        "description": "Dummy description for product frontech jil 0821 jil - 0821 USB USB Hub",
+        "manufacturer_id": "731287d405abf3a72b4ac3d1e33237a786b63820",
+        "taric_code": "cff1cb5a-5582-42a1-9223-0f36ff4af1e3",
+        "variants": [
+          {
+            "id": "21ada3014c07b40d31fba20f17d01de2",
+            "name": "frontech USB Gadgets",
+            "description": "Buy frontech jil 0821 jil - 0821 USB USB Hub for Rs.115 online. frontech jil 0821 jil - 0821 USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7368,
+            "price": 175,
+            "sale": false,
+            "sale_price": 115,
+            "stock_keeping_unit": "USGEE5V4XBZRADYK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/d/y/k/jil-0821-frontech-1100x1100-imaee5zgzpdkub75.jpeg",
+                "filename": "jil-0821-frontech-1100x1100-imaee5zgzpdkub75.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/d/y/k/jil-0821-frontech-original-imaee5zgzpdkub75.jpeg",
+                "filename": "jil-0821-frontech-original-imaee5zgzpdkub75.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["frontech"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              {
+                "key": "System Requirements",
+                "values": ["xp", "7", "8", "10"]
+              },
+              { "key": "Material", "values": ["plastic"] },
+              { "key": "Model Name", "values": ["jil 0821"] },
+              { "key": "Model ID", "values": ["jil - 0821"] },
+              { "key": "Color", "values": ["black"] },
+              { "key": "Sales Package", "values": ["usb gadget"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "8e0d11aca08296fc68ff2c0128877f3182fb9ade"
+    },
+    {
+      "product": {
+        "id": "1ca5fbecbb73085892b39a87e618edb1d9c75c07",
+        "name": "Techone+ Portable SE122102-WHITE USB Led Light",
+        "description": "Dummy description for product Techone+ Portable SE122102-WHITE USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "90622c77-5527-47cb-af14-89f28739997b",
+        "variants": [
+          {
+            "id": "ed8ea9297d23defa67bc09ba573b1938",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Portable SE122102-WHITE USB Led Light (White)\n                         Price: Rs. 249\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 5087,
+            "price": 499,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "USGEDDUFPJG7A5GG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/3/3/s/led-w-03-bt-original-imae6tapggafx8kg.jpeg",
+                "filename": "led-w-03-bt-original-imae6tapggafx8kg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/3/3/s/led-w-03-bt-original-imae6tapggafx8kg.jpeg",
+                "filename": "led-w-03-bt-original-imae6tapggafx8kg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/mobile-accessories-combo/t/2/r/2-tbz-premium-leather-window-flip-cover-case-for-samsung-galaxy-original-imae6ue6yhpqqgaq.jpeg",
+                "filename": "2-tbz-premium-leather-window-flip-cover-case-for-samsung-galaxy-original-imae6ue6yhpqqgaq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/6/h/z/se122103-white-techone-original-imae7ycgzvthzfwf.jpeg",
+                "filename": "se122103-white-techone-original-imae7ycgzvthzfwf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Portable"] },
+              { "key": "Model ID", "values": ["SE122102-WHITE"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Weight", "values": ["150 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 4"]
+              },
+              { "key": "Sales Package", "values": ["4 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "1ca5fbecbb73085892b39a87e618edb1d9c75c07"
+    },
+    {
+      "product": {
+        "id": "c7dc5024200e7fc432efd95f563514b090da2ce1",
+        "name": "Orico Aluminium 4 Port USB 3.0 M3H4-SV USB USB Hub",
+        "description": "Dummy description for product Orico Aluminium 4 Port USB 3.0 M3H4-SV USB USB Hub",
+        "manufacturer_id": "e69fcafd80ae311a4bd14b5625b5427ba7ed7a8c",
+        "taric_code": "cc8fb234-7bae-4dce-9749-ff25b107314e",
+        "variants": [
+          {
+            "id": "068cf7ab2110f3e23d88cebfe5a43e3d",
+            "name": "Orico USB Gadgets",
+            "description": "Buy Orico Aluminium 4 Port USB 3.0 M3H4-SV USB USB Hub for Rs.1990 online. Orico Aluminium 4 Port USB 3.0 M3H4-SV USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6462,
+            "price": 2490,
+            "sale": false,
+            "sale_price": 1990,
+            "stock_keeping_unit": "USGEBXU8B5DHWFYZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/f/y/z/m3h4-sv-orico-1100x1100-imaebxf6tagvgbnw.jpeg",
+                "filename": "m3h4-sv-orico-1100x1100-imaebxf6tagvgbnw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/y/z/m3h4-sv-orico-original-imaebxf6tagvgbnw.jpeg",
+                "filename": "m3h4-sv-orico-original-imaebxf6tagvgbnw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/f/y/z/m3h4-sv-orico-original-imaebxf7pvvemsmh.jpeg",
+                "filename": "m3h4-sv-orico-original-imaebxf7pvvemsmh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/y/z/m3h4-sv-orico-original-imaebxf7tpxavyxu.jpeg",
+                "filename": "m3h4-sv-orico-original-imaebxf7tpxavyxu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/y/z/m3h4-sv-orico-original-imaebxf7nazawf5m.jpeg",
+                "filename": "m3h4-sv-orico-original-imaebxf7nazawf5m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/f/y/z/m3h4-sv-orico-original-imaebxf9c4x5hhcf.jpeg",
+                "filename": "m3h4-sv-orico-original-imaebxf9c4x5hhcf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Orico"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              {
+                "key": "System Requirements",
+                "values": ["Windows 7 or Higher", "Mac OSX"]
+              },
+              { "key": "Material", "values": ["Aluminium / Plastic"] },
+              { "key": "Model Name", "values": ["Aluminium 4 Port USB 3.0"] },
+              { "key": "Model ID", "values": ["M3H4-SV"] },
+              { "key": "Color", "values": ["Silver"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Technical Defects / Malfunctions"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Customer Carry In"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Physical Damage", "Broken / Cut Cable"]
+              },
+              { "key": "Weight", "values": ["95 g"] },
+              { "key": "Height", "values": ["6.5 cm"] },
+              { "key": "Width", "values": ["9.3 cm"] },
+              { "key": "Depth", "values": ["6.5 cm"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              { "key": "Power Requirement", "values": ["USB Powered"] },
+              { "key": "Powered by", "values": ["USB"] },
+              { "key": "Power Cord Length", "values": ["1 m"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["USB Hub", "USB 3.0 Cable"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "c7dc5024200e7fc432efd95f563514b090da2ce1"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

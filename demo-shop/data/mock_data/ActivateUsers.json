@@ -1,0 +1,10 @@
+{
+  "resource_list": [
+    "255f94aa15664d58baa4bf7a06a85681",
+    "355f94aa15664d58baa4bf7a06a85681",
+    "455f94aa15664d58baa4bf7a06a85681",
+    "555f94aa15664d58baa4bf7a06a85681",
+    "655f94aa15664d58baa4bf7a06a85681"
+  ],
+  "mutation": "mutation{activateUsers(input:{listOfUserIDs: ${resource_list} }) {status, error{code, message} }}"
+}

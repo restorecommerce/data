@@ -1,0 +1,4 @@
+{
+  "upload_file_paths": ["./data/mock_data/createCommands.yml", "./data/mock_data/createOrganizations.yml", "./data/mock_data/createPolicies.yml"],
+  "mutation": "mutation($file: Upload!) { uploadFile(input: { fileUpload: $file, bucket: \"usercontent\" }) { status, Bucket, Key, error{code, message} }}"
+}

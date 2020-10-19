@@ -1,0 +1,16 @@
+{
+  "resource_list": [
+    { "entity": "organization" },
+    { "entity": "contact_point" },
+    { "entity": "address" },
+    { "entity": "contact_point_type" },
+    { "entity": "country" },
+    { "entity": "tax" },
+    { "entity": "tax_type" },
+    { "entity": "product" },
+    { "entity": "locale" },
+    { "entity": "timezone" },
+    { "entity": "command" }
+  ],
+  "mutation": "mutation{deleteResources(input:{listOfResources: ${resource_list} }) {deleteStatus, error{code, message} }}"
+}

@@ -1,0 +1,226 @@
+{
+  "resource_list": [
+    {
+      "id": "56cc6048bfe74a83a1025b6af841aa9e",
+      "rate": 0.07,
+      "type_id": "7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant": "Reduced rate",
+      "country_id": "6995abdf8eaa4781803fca6c8cf2128b",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "2dd5fc11bb61469e838f7f15fb5ad8f4",
+      "rate": 0.19,
+      "type_id": "7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant": "Standard rate",
+      "country_id": "6995abdf8eaa4781803fca6c8cf2128b",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "f761799673964c17a93712b81c0fb1a6",
+      "rate": 0.025,
+      "type_id": "7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant": "Reduced rate",
+      "country_id": "a7218c7890c9430da3f3d6fc3cd08e68",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "6fa7df6b0f104a9f9d86cfb0e231ee73",
+      "rate": 0.038,
+      "type_id": "7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant": "Reduced rate",
+      "country_id": "a7218c7890c9430da3f3d6fc3cd08e68",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "cd106fd4648748ee827bff732b89f1b7",
+      "rate": 0.08,
+      "country_id": "a7218c7890c9430da3f3d6fc3cd08e68",
+      "type_id": "7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant": "Standard rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "1a61b96b2f3f415c8dd0e6e9a1a6001b",
+      "country_id": "551a0829c4be4351a879a1602c647697",
+      "rate": 0.06,
+      "type_id":"7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant":"Reduced rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "d2de17beae8f4804a0aeef09b1b33cf5",
+      "country_id": "551a0829c4be4351a879a1602c647697",
+      "rate": 0.12,
+      "type_id":"7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant":"Reduced rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "260ed207a7404b99a2b5fab4ae0d51ac",
+      "country_id":"551a0829c4be4351a879a1602c647697",
+      "rate":0.21,
+      "type_id":"7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant":"Standard rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "1256b21216f14e5586362fb874d41a9c",
+      "country_id":"551a0829c4be4351a879a1602c647697",
+      "rate":0.12,
+      "type_id":"7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant":"Parking rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "72fd59dfa4d34ebe8b1322fe13908cee",
+      "country_id":"61609eef8f064fd2b47248e1cf193752",
+      "rate":0.021,
+      "type_id":"7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant":"Super reduced rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id":"7d86fa5542324663aa113529552c8140",
+      "country_id":"61609eef8f064fd2b47248e1cf193752",
+      "rate":0.055,
+      "type_id":"7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant":"Reduced rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id":"f265a78c1e544e94bd75fd5bc0833c54",
+      "country_id":"61609eef8f064fd2b47248e1cf193752",
+      "rate":0.1,
+      "type_id":"7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant":"Reduced rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "8bf2622498654aa3941a6afcec35b438",
+      "country_id":"61609eef8f064fd2b47248e1cf193752",
+      "rate":0.2,
+      "type_id":"7c15fc6a5ca441f8bc350bc5e0b54071",
+      "variant":"Standard rate",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    }
+  ],
+  "mutation": "mutation{createTaxes(input:{listOfTaxes: ${resource_list} }) {details {id}, error{code, message} }}"
+}

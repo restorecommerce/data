@@ -1,0 +1,3079 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "1b49aa9d30c7cf6b23443909f32f7d29dfc07415",
+        "name": "JJC LH-RBA  Lens Hood",
+        "description": "Dummy description for product JJC LH-RBA  Lens Hood",
+        "manufacturer_id": "a154c7b03f47778772f359bfc6d228024e3309f9",
+        "taric_code": "59b27720-b787-4e13-a420-d6ad47ef1039",
+        "variants": [
+          {
+            "id": "b2be9de5f877b637a5f4ca2a247ce036",
+            "name": "JJC Lens Hoods",
+            "description": "Buy JJC LH-RBA  Lens Hood only for Rs. 899 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1058,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "ACCED842XBW54EAP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/e/a/p/jjc-lh-rba-1100x1100-imaed7wttpqhwyss.jpeg",
+                "filename": "jjc-lh-rba-1100x1100-imaed7wttpqhwyss.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/e/a/p/jjc-lh-rba-original-imaed7wttpqhwyss.jpeg",
+                "filename": "jjc-lh-rba-original-imaed7wttpqhwyss.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/e/a/p/jjc-lh-rba-original-imaed7wtsvs8u5gd.jpeg",
+                "filename": "jjc-lh-rba-original-imaed7wtsvs8u5gd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/e/a/p/jjc-lh-rba-original-imaed7wtvdbmfyhv.jpeg",
+                "filename": "jjc-lh-rba-original-imaed7wtvdbmfyhv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Screw-in"] },
+              { "key": "Shape", "values": ["Round"] },
+              { "key": "Brand", "values": ["JJC"] },
+              {
+                "key": "Designed For",
+                "values": ["Pentax Smc P-Da 18-55mm F3.5-5.6 Lens"]
+              },
+              { "key": "Model Number", "values": ["LH-RBA"] },
+              { "key": "Filter Thread Size", "values": ["52 mm"] },
+              { "key": "Material", "values": ["Abs Impact Resistant Plastic"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Covered In Warranty",
+                "values": ["Manufacture Defect Only"]
+              },
+              { "key": "Warranty Summary", "values": ["1"] },
+              {
+                "key": "Not Covered In Warranty",
+                "values": ["Physical Damage"]
+              },
+              { "key": "Weight", "values": ["150 g"] },
+              {
+                "key": "c9e7307d-8663-46b8-bc77-cdd08ace0a7a",
+                "values": ["Pentax Smc P-Da 18-55mm F3.5-5.6 Lens"]
+              },
+              { "key": "Sales Package", "values": ["Lens Hood", "Manual"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "1b49aa9d30c7cf6b23443909f32f7d29dfc07415"
+    },
+    {
+      "product": {
+        "id": "d0080fc72275566a55271432314d3f16794cde9e",
+        "name": "Tyfy ET-65E  Lens Hood",
+        "description": "Dummy description for product Tyfy ET-65E  Lens Hood",
+        "manufacturer_id": "53ec7bca04fdaba5c739b85edac1e504ebc51b44",
+        "taric_code": "ec150206-04ab-4270-8e10-5a523f16cbd2",
+        "variants": [
+          {
+            "id": "86ff209cfb1e647143522b7b606d1dea",
+            "name": "Tyfy Lens Hoods",
+            "description": "Buy Tyfy ET-65E  Lens Hood only for Rs. 295 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 611,
+            "price": 295,
+            "sale": false,
+            "sale_price": 295,
+            "stock_keeping_unit": "ACCEBGTK6A83CXAQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/x/a/q/tyfy-et-65e-original-imaebfvdrzvnfwhf.jpeg",
+                "filename": "tyfy-et-65e-original-imaebfvdrzvnfwhf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/x/a/q/tyfy-et-65e-original-imaebfvdrzvnfwhf.jpeg",
+                "filename": "tyfy-et-65e-original-imaebfvdrzvnfwhf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/x/a/q/tyfy-et-65e-original-imaebfvdagt3em3g.jpeg",
+                "filename": "tyfy-et-65e-original-imaebfvdagt3em3g.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Bayonet"] },
+              { "key": "Brand", "values": ["Tyfy"] },
+              { "key": "Shape", "values": ["Round"] },
+              { "key": "Designed For", "values": ["Canon Camera"] },
+              { "key": "Model Number", "values": ["ET-65E"] },
+              { "key": "Filter Thread Size", "values": ["58 mm"] },
+              { "key": "Model Name", "values": ["Tyfy Et-65e Lens Hood"] },
+              { "key": "Material", "values": ["ABS"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Covered In Warranty",
+                "values": ["Manufacturing Defect Only"]
+              },
+              { "key": "Service Type", "values": ["Repair Or Replacement"] },
+              { "key": "Warranty Summary", "values": ["10 days"] },
+              {
+                "key": "Not Covered In Warranty",
+                "values": ["Physical Damage"]
+              },
+              { "key": "Sales Package", "values": ["Lens Hood"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "d0080fc72275566a55271432314d3f16794cde9e"
+    },
+    {
+      "product": {
+        "id": "feb92f9040b87c7521623a1ee5061225071cd704",
+        "name": "Jerry's Jppb11552 M Pet Bed",
+        "description": "Dummy description for product Jerry's Jppb11552 M Pet Bed",
+        "manufacturer_id": "49f6580b962e955f9a1b4c455235c6df178854ab",
+        "taric_code": "35b58651-bfab-43a2-bd49-519efefffa89",
+        "variants": [
+          {
+            "id": "aa2cb3b4e2f8380a7d9c8df5db7339b4",
+            "name": "Pet Furniture",
+            "description": "Jerry's Jppb11552 M Pet Bed (Red, Blue)\n                        \n\t\t\t\t\n\t\t\tHigh Quality Velvet Fabric with high life cycle, Soft foam for maximum comfort for the pets, Special Resin material used at the bottom to avoid damage to the bed at the bottom in a long run which makes the bed very durable. USPs of the Product are: # Washable # Suitable for all Weathers # Highly Durable # Easy to carry # Highly Comfortable\nHigh Quality Velvet Fabric with high life cycle, Soft foam for maximum comfort for the pets, Special Resin material used at the bottom to avoid damage to the bed at the bottom in a long run which makes the bed very durable. USPs of the Product are: # Washable # Suitable for all Weathers # Highly Durable # Easy to carry # Highly Comfortable",
+            "stock_level": 3227,
+            "price": 3140,
+            "sale": false,
+            "sale_price": 1390,
+            "stock_keeping_unit": "PEBED5CDE9ESV8PQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/8/p/q/jppb11552-jerry-s-m-1100x1100-imaed57xvhskxht5.jpeg",
+                "filename": "jppb11552-jerry-s-m-1100x1100-imaed57xvhskxht5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/8/p/q/jppb11552-jerry-s-m-original-imaed57xvhskxht5.jpeg",
+                "filename": "jppb11552-jerry-s-m-original-imaed57xvhskxht5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/w/x/f/jppb11551-jerry-s-s-original-imaed57x7dyhzthe.jpeg",
+                "filename": "jppb11551-jerry-s-s-original-imaed57x7dyhzthe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/8/p/q/jppb11552-jerry-s-m-original-imaed57xbvrtxrwk.jpeg",
+                "filename": "jppb11552-jerry-s-m-original-imaed57xbvrtxrwk.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "635f9152-2f56-4644-a1f2-37b4b5f2dc30",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand Color", "values": ["Red", "Blue"] },
+              { "key": "Brand", "values": ["Jerry's"] },
+              { "key": "Model Number", "values": ["Jppb11552"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Material", "values": ["Fabric", "Foam", "Polyfil"] },
+              { "key": "Bed Type", "values": ["Bolster"] },
+              { "key": "Color", "values": ["Red", "Blue"] },
+              { "key": "Size", "values": ["M"] },
+              { "key": "Height", "values": ["71 cm"] },
+              { "key": "Width", "values": ["71 cm"] },
+              { "key": "Depth", "values": ["21 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "feb92f9040b87c7521623a1ee5061225071cd704"
+    },
+    {
+      "product": {
+        "id": "edc588eb1b542df18dee2a6030cb69dfe31a9045",
+        "name": "DeStudio Medium Wall Sticker",
+        "description": "Dummy description for product DeStudio Medium Wall Sticker",
+        "manufacturer_id": "6f7d928ae3c2d32a261b37afb9485a1f38c32267",
+        "taric_code": "20eed2d0-4b76-45d5-be84-106af5fd6806",
+        "variants": [
+          {
+            "id": "a5dfdee14ee28029f56b034a2ac51c05",
+            "name": "DeStudio Wall Decals & Stickers",
+            "description": "Buy DeStudio Medium Wall Sticker for Rs.599 online. DeStudio Medium Wall Sticker at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8000,
+            "price": 1598,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "STIEYZ5RVDHZGEXR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sticker/y/e/j/ds-592-8-destudio-150-floral-circle-decorative-size-mega-mega-original-imaeytn7tudgazvu.jpeg",
+                "filename": "ds-592-8-destudio-150-floral-circle-decorative-size-mega-mega-original-imaeytn7tudgazvu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sticker/y/e/j/ds-592-8-destudio-150-floral-circle-decorative-size-mega-mega-original-imaeytn7tudgazvu.jpeg",
+                "filename": "ds-592-8-destudio-150-floral-circle-decorative-size-mega-mega-original-imaeytn7tudgazvu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sticker/q/q/m/ds-2751-8-destudio-150-destudio-true-beauty-one-wall-stickers-original-imaeytn6akzsh3tk.jpeg",
+                "filename": "ds-2751-8-destudio-150-destudio-true-beauty-one-wall-stickers-original-imaeytn6akzsh3tk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sticker/g/k/r/ds-4002-s-pnk-destudio-60-a-bird-dosn-t-sing-wall-decal-small-original-imaeytttzdtddj2y.jpeg",
+                "filename": "ds-4002-s-pnk-destudio-60-a-bird-dosn-t-sing-wall-decal-small-original-imaeytttzdtddj2y.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Sales Package",
+                "values": ["One Wall Sticker with Installation Manual"]
+              },
+              { "key": "Brand", "values": ["DeStudio"] },
+              { "key": "Shape", "values": ["Rectangular"] },
+              { "key": "Type", "values": ["Wall"] },
+              { "key": "Number of Stickers", "values": ["1"] },
+              { "key": "Size in Number", "values": ["75 cm"] },
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Size", "values": ["Medium"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3e8274000cce4cb3967a677a6d42aca939412c7a" }
+      },
+      "active": true,
+      "id": "edc588eb1b542df18dee2a6030cb69dfe31a9045"
+    },
+    {
+      "product": {
+        "id": "51206ad37dec93ebbbd4a683ea2f6cbc447eb8cc",
+        "name": "Petshop7 PS7DB0056 M Pet Bed",
+        "description": "Dummy description for product Petshop7 PS7DB0056 M Pet Bed",
+        "manufacturer_id": "2e6ac773a57f9c7900979a2c04e2f6894660dd28",
+        "taric_code": "25e5ba63-e914-4d21-8b70-e2608d68388a",
+        "variants": [
+          {
+            "id": "7924d5339691bc7ced0c9fc71b80683f",
+            "name": "Pet Furniture",
+            "description": "Buy Petshop7 PS7DB0056 M Pet Bed for Rs.1299 online. Petshop7 PS7DB0056 M Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 571,
+            "price": 2000,
+            "sale": true,
+            "sale_price": 1299,
+            "stock_keeping_unit": "PEBEDKJYZY57TBXN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/x/r/c/ps7db0057-petshop7-s-original-imaedkhvqrbeqsbz.jpeg",
+                "filename": "ps7db0057-petshop7-s-original-imaedkhvqrbeqsbz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/x/r/c/ps7db0057-petshop7-s-original-imaedkhvqrbeqsbz.jpeg",
+                "filename": "ps7db0057-petshop7-s-original-imaedkhvqrbeqsbz.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "ca1665e3-12d5-4700-aec1-1ac74b3c31ab",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand", "values": ["Petshop7"] },
+              { "key": "Brand Color", "values": ["Light Purple"] },
+              { "key": "Model Number", "values": ["PS7DB0056"] },
+              { "key": "Material", "values": ["Velvet", "Foam"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Size", "values": ["M"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Bed Type", "values": ["Cot"] },
+              { "key": "Height", "values": ["16.5 cm"] },
+              { "key": "Width", "values": ["71 cm"] },
+              { "key": "Depth", "values": ["19 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "51206ad37dec93ebbbd4a683ea2f6cbc447eb8cc"
+    },
+    {
+      "product": {
+        "id": "95de64e2fb721afb5d8defe2b70209cfe0394bbc",
+        "name": "Petshop7 PS7DB0060 S Pet Bed",
+        "description": "Dummy description for product Petshop7 PS7DB0060 S Pet Bed",
+        "manufacturer_id": "f2fa7e4dfb95d46283299520b42219bfcedf3767",
+        "taric_code": "20609138-3651-45e9-9226-bbbab1e3a44a",
+        "variants": [
+          {
+            "id": "aa176be6bdf7abf01f317730374fbe6d",
+            "name": "Pet Furniture",
+            "description": "Buy Petshop7 PS7DB0060 S Pet Bed for Rs.999 online. Petshop7 PS7DB0060 S Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2078,
+            "price": 1700,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "PEBEDKJYPEKYADZP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/g/u/f/ps7db0059-petshop7-m-original-imaedkhwvqfzkpk2.jpeg",
+                "filename": "ps7db0059-petshop7-m-original-imaedkhwvqfzkpk2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/g/u/f/ps7db0059-petshop7-m-original-imaedkhwvqfzkpk2.jpeg",
+                "filename": "ps7db0059-petshop7-m-original-imaedkhwvqfzkpk2.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "372aa314-0b43-4659-b3d1-8190b4bf7cfa",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand Color", "values": ["Glossy Blue"] },
+              { "key": "Brand", "values": ["Petshop7"] },
+              { "key": "Model Number", "values": ["PS7DB0060"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Material", "values": ["Velvet", "Foam"] },
+              { "key": "Bed Type", "values": ["Cot"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Size", "values": ["S"] },
+              { "key": "Height", "values": ["16.5 cm"] },
+              { "key": "Width", "values": ["58 cm"] },
+              { "key": "Depth", "values": ["19 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "95de64e2fb721afb5d8defe2b70209cfe0394bbc"
+    },
+    {
+      "product": {
+        "id": "4f633b945129899a7300930a04312aa39fb58a39",
+        "name": "Petshop7 PS7BED000401 L Pet Bed",
+        "description": "Dummy description for product Petshop7 PS7BED000401 L Pet Bed",
+        "manufacturer_id": "c20bd5074dd9152f0c6f9e44c1ac366b2337742b",
+        "taric_code": "07dd606f-da47-40d1-bf12-718aa5bc03b6",
+        "variants": [
+          {
+            "id": "3acc2d5effc36498f9aa271bb5a7aa4f",
+            "name": "Pet Furniture",
+            "description": "Buy Petshop7 PS7BED000401 L Pet Bed for Rs.1699 online. Petshop7 PS7BED000401 L Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5639,
+            "price": 2399,
+            "sale": false,
+            "sale_price": 1699,
+            "stock_keeping_unit": "PEBEBG4ZTGMHGSJM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/s/j/m/ps7bed000401-petshop7-l-1100x1100-imaebgysmrvk53nz.jpeg",
+                "filename": "ps7bed000401-petshop7-l-1100x1100-imaebgysmrvk53nz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/s/j/m/ps7bed000401-petshop7-l-original-imaebgysmrvk53nz.jpeg",
+                "filename": "ps7bed000401-petshop7-l-original-imaebgysmrvk53nz.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "27d93ed3-923b-4d17-9a23-3af2d7329635",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand Color", "values": ["Yellow"] },
+              { "key": "Brand", "values": ["Petshop7"] },
+              { "key": "Model Number", "values": ["PS7BED000401"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Material", "values": ["Foam Basket"] },
+              { "key": "Bed Type", "values": ["Enclosed"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Size", "values": ["L"] },
+              { "key": "Height", "values": ["10 cm"] },
+              { "key": "Width", "values": ["60 cm"] },
+              { "key": "Depth", "values": ["7.6 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "4f633b945129899a7300930a04312aa39fb58a39"
+    },
+    {
+      "product": {
+        "id": "f120230d0b87138367f9017ae39ed7eb0627bf4b",
+        "name": "Pet Club51 PC277 S Pet Bed",
+        "description": "Dummy description for product Pet Club51 PC277 S Pet Bed",
+        "manufacturer_id": "1bc597ec8ba26c5cb6ec148ba93a295e80195af9",
+        "taric_code": "84eb5c3a-74fa-459c-967f-92c7a88a3594",
+        "variants": [
+          {
+            "id": "0e81b60a005d4606327d3bcda64d7ce1",
+            "name": "Pet Furniture",
+            "description": "Buy Pet Club51 PC277 S Pet Bed for Rs.1149 online. Pet Club51 PC277 S Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1405,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 1149,
+            "stock_keeping_unit": "PEBEDMZDCGYNPHTG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/4/e/5/pc279-pet-club51-l-original-imaeczqfkyhch8yx.jpeg",
+                "filename": "pc279-pet-club51-l-original-imaeczqfkyhch8yx.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "13c069ea-3d8e-4dc4-bcac-594bd59ece8a",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand Color", "values": ["Multicolor"] },
+              { "key": "Brand", "values": ["Pet Club51"] },
+              { "key": "Model Number", "values": ["PC277"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Material", "values": ["Velvet"] },
+              { "key": "Bed Type", "values": ["Bolster"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Size", "values": ["S"] },
+              { "key": "Height", "values": ["19 cm"] },
+              { "key": "Width", "values": ["53.3 cm"] },
+              { "key": "Depth", "values": ["16 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": false,
+      "id": "f120230d0b87138367f9017ae39ed7eb0627bf4b"
+    },
+    {
+      "product": {
+        "id": "6f0b0661a9e259dff39ed4fa9c31d812933feb26",
+        "name": "Scrap Wood Birdhouse Sb-Blue-1 Bird House",
+        "description": "Dummy description for product Scrap Wood Birdhouse Sb-Blue-1 Bird House",
+        "manufacturer_id": "d2861b977988a7faf6f180befb0c9ab00dd22d84",
+        "taric_code": "4d02c627-f16a-4b40-8b9b-5aaf84295da0",
+        "variants": [
+          {
+            "id": "da35b6ceecbd0c625498e18523d43f98",
+            "name": "Pet Furniture",
+            "description": "Buy Scrap Wood Birdhouse Sb-Blue-1 Bird House for Rs.299 online. Scrap Wood Birdhouse Sb-Blue-1 Bird House at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8640,
+            "price": 899,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "BRHEDHAUZJJNTB4B",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bird-house/b/4/b/sb-blue-1-scrap-wood-birdhouse-1100x1100-imaedg5cugjgeyjb.jpeg",
+                "filename": "sb-blue-1-scrap-wood-birdhouse-1100x1100-imaedg5cugjgeyjb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bird-house/b/4/b/sb-blue-1-scrap-wood-birdhouse-original-imaedg5cugjgeyjb.jpeg",
+                "filename": "sb-blue-1-scrap-wood-birdhouse-original-imaedg5cugjgeyjb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bird-house/b/4/b/sb-blue-1-scrap-wood-birdhouse-original-imaedg5dgfjb25hf.jpeg",
+                "filename": "sb-blue-1-scrap-wood-birdhouse-original-imaedg5dgfjb25hf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bird-house/b/4/b/sb-blue-1-scrap-wood-birdhouse-original-imaedg5dk5hmk5sh.jpeg",
+                "filename": "sb-blue-1-scrap-wood-birdhouse-original-imaedg5dk5hmk5sh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bird-house/b/4/b/sb-blue-1-scrap-wood-birdhouse-original-imaedg5dapy3hczg.jpeg",
+                "filename": "sb-blue-1-scrap-wood-birdhouse-original-imaedg5dapy3hczg.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "928a63ae-ac63-4598-bffb-f8a758d15fb5",
+                "values": ["1 Bird house"]
+              },
+              {
+                "key": "Mount Type",
+                "values": ["Wall Mounting", "Tree Mounting", "Free Standing"]
+              },
+              { "key": "Brand", "values": ["Scrap Wood Birdhouse"] },
+              { "key": "Model Number", "values": ["Sb-Blue-1"] },
+              { "key": "Handcrafted", "values": ["Yes"] },
+              { "key": "Entrance Hole Size", "values": ["3.81 cm"] },
+              { "key": "Material", "values": ["Wood"] },
+              { "key": "Number of Condos", "values": ["1"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Weight", "values": ["0.15 kg"] },
+              { "key": "Length", "values": ["17.78 cm"] },
+              { "key": "Width", "values": ["12.7 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "6f0b0661a9e259dff39ed4fa9c31d812933feb26"
+    },
+    {
+      "product": {
+        "id": "e7eec9e1b62a794f8dbfcb2b599c6e50e924cd73",
+        "name": "JJC LH-73BII  Lens Hood",
+        "description": "Dummy description for product JJC LH-73BII  Lens Hood",
+        "manufacturer_id": "a154c7b03f47778772f359bfc6d228024e3309f9",
+        "taric_code": "0f3a36fd-e06a-4cba-baa5-1cc95698bead",
+        "variants": [
+          {
+            "id": "f2575a925eefda3d30269cfed0274c00",
+            "name": "JJC Lens Hoods",
+            "description": "Buy JJC LH-73BII  Lens Hood only for Rs. 899 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4594,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "ACCED842RZMYKZVZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/z/v/z/jjc-lh-73bii-1100x1100-imaed7wt3axdvhnb.jpeg",
+                "filename": "jjc-lh-73bii-1100x1100-imaed7wt3axdvhnb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/z/v/z/jjc-lh-73bii-original-imaed7wt3axdvhnb.jpeg",
+                "filename": "jjc-lh-73bii-original-imaed7wt3axdvhnb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/z/v/z/jjc-lh-73bii-original-imaed7wt4jdgeha3.jpeg",
+                "filename": "jjc-lh-73bii-original-imaed7wt4jdgeha3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/z/v/z/jjc-lh-73bii-original-imaed7wtnfnzzwkr.jpeg",
+                "filename": "jjc-lh-73bii-original-imaed7wtnfnzzwkr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/z/v/z/jjc-lh-73bii-original-imaed7wtqdrzstkg.jpeg",
+                "filename": "jjc-lh-73bii-original-imaed7wtqdrzstkg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/z/v/z/jjc-lh-73bii-original-imaed7wtpvf7wpm7.jpeg",
+                "filename": "jjc-lh-73bii-original-imaed7wtpvf7wpm7.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Screw-in"] },
+              { "key": "Shape", "values": ["Round"] },
+              { "key": "Brand", "values": ["JJC"] },
+              {
+                "key": "Designed For",
+                "values": [
+                  "Canon Ef-S 17-85 F/4-5.6 Is Usm Slr Lens",
+                  "Canon Ef-S 18-135mm F/3.5-5.6 Is",
+                  "Canon Ef-S 18-135mm F/3.5-5.6 Is Stm"
+                ]
+              },
+              { "key": "Model Number", "values": ["LH-73BII"] },
+              { "key": "Filter Thread Size", "values": ["72 mm"] },
+              { "key": "Material", "values": ["Abs Impact Resistant Plastic"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Covered In Warranty",
+                "values": ["Manufacture Defect Only"]
+              },
+              { "key": "Warranty Summary", "values": ["1"] },
+              {
+                "key": "Not Covered In Warranty",
+                "values": ["Physical Damage"]
+              },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Other Dimensions", "values": ["14.1 X 10.4 X 5.8 Cm"] },
+              { "key": "Sales Package", "values": ["Lens Hood", "Manual"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "e7eec9e1b62a794f8dbfcb2b599c6e50e924cd73"
+    },
+    {
+      "product": {
+        "id": "773c9f58c657518c19e4dbaf80f2ca41ea53be93",
+        "name": "Specimen Men's Solid Casual Shirt",
+        "description": "Dummy description for product Specimen Men's Solid Casual Shirt",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "71343b3b-f4e9-4c61-84c7-e90eaed7f5c1",
+        "variants": [
+          {
+            "id": "2e6957b9a65ae2f3cbbd611028c1da3a",
+            "name": "Specimen Casual & Party Wear Shirts",
+            "description": "Specimen Men's Solid Casual Shirt - Buy Blue Specimen Men's Solid Casual Shirt For Only Rs. 2299 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 8468,
+            "price": 2299,
+            "sale": false,
+            "sale_price": 2299,
+            "stock_keeping_unit": "SHTECB92WG7ZCPBV",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/m/q/2/ss-aw15-ts-fp-0009-blue-specimen-44-original-imaebwzhhfu6qdfq.jpeg",
+                "filename": "ss-aw15-ts-fp-0009-blue-specimen-44-original-imaebwzhhfu6qdfq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/m/q/2/ss-aw15-ts-fp-0009-blue-specimen-44-original-imaebwzhhfu6qdfq.jpeg",
+                "filename": "ss-aw15-ts-fp-0009-blue-specimen-44-original-imaebwzhhfu6qdfq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/h/g/9/ss-aw15-ts-fp-0009-blue-specimen-42-original-imaebwzhwxzhauby.jpeg",
+                "filename": "ss-aw15-ts-fp-0009-blue-specimen-42-original-imaebwzhwxzhauby.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/m/q/2/ss-aw15-ts-fp-0009-blue-specimen-40-original-imaebwzgfkaacbun.jpeg",
+                "filename": "ss-aw15-ts-fp-0009-blue-specimen-40-original-imaebwzgfkaacbun.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/m/q/2/ss-aw15-ts-fp-0009-blue-specimen-46-original-imaebwzgvnfag257.jpeg",
+                "filename": "ss-aw15-ts-fp-0009-blue-specimen-46-original-imaebwzgvnfag257.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/m/q/2/ss-aw15-ts-fp-0009-blue-specimen-46-original-imaebwzgscwyacxh.jpeg",
+                "filename": "ss-aw15-ts-fp-0009-blue-specimen-46-original-imaebwzgscwyacxh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Collar", "values": ["Club Collar"] },
+              { "key": "Fabric", "values": ["Pure Cotton"] },
+              { "key": "Pockets", "values": ["Velt Pocket"] },
+              { "key": "Placket", "values": ["Pleated Concealed Placket"] },
+              { "key": "Fit", "values": ["Slim"] },
+              { "key": "Other Details", "values": ["Contrast Cuff"] },
+              { "key": "Style Code", "values": ["SS-AW15-TS-FP-0009 BLUE"] },
+              {
+                "key": "c0e7d13c-3651-4760-9e22-0b0eb4da87b2",
+                "values": ["Shirt"]
+              },
+              {
+                "key": "9aec5393-b392-46ae-a1e8-5507188ecff4",
+                "values": [
+                  "Hand wash or Dry-clean",
+                  "Wash dark colors separately",
+                  "Do not tumble dry",
+                  "Warm Iron do not iron on print or embellishments"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "4e084a3605c17669374a461bb0f8b40f",
+            "name": "Specimen Casual & Party Wear Shirts",
+            "description": "Specimen Men's Solid Casual Shirt\n                         Price: Rs. 1,999\n\t\t\t\t\n\t\t\tPut that jacket aside, the Kingston can hold his own on the dancefloor and with the ladies at the bar. This clubwear shirt says suave, self-made, and sexy! \nWe would stick to the conventional look with this flamboyant and dapper party shirt – black pants and black leather belt to bring out the contrast. This one makes a great suit shirt and is also apt for a dinner jacket look.\nPut that jacket aside, the Kingston can hold his own on the dancefloor and with the ladies at the bar. This clubwear shirt says suave, self-made, and sexy! \nWe would stick to the conventional look with this flamboyant and dapper party shirt – black pants and black leather belt to bring out the contrast. This one makes a great suit shirt and is also apt for a dinner jacket look.",
+            "stock_level": 7048,
+            "price": 1999,
+            "sale": true,
+            "sale_price": 1999,
+            "stock_keeping_unit": "SHTECQYNKGZNNBRP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/7/n/w/ss-aw15-ts-fp-0017-white-specimen-39-original-imaebwp7hgkjhprw.jpeg",
+                "filename": "ss-aw15-ts-fp-0017-white-specimen-39-original-imaebwp7hgkjhprw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/u/s/h/ss-aw15-ts-fp-0017-white-specimen-44-original-imaeck2hkzfvucgt.jpeg",
+                "filename": "ss-aw15-ts-fp-0017-white-specimen-44-original-imaeck2hkzfvucgt.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/u/s/h/ss-aw15-ts-fp-0017-white-specimen-42-original-imaebwp7yehqbupr.jpeg",
+                "filename": "ss-aw15-ts-fp-0017-white-specimen-42-original-imaebwp7yehqbupr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/u/s/h/ss-aw15-ts-fp-0017-white-specimen-42-original-imaebwp7zgmuzxhz.jpeg",
+                "filename": "ss-aw15-ts-fp-0017-white-specimen-42-original-imaebwp7zgmuzxhz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/7/n/w/ss-aw15-ts-fp-0017-white-specimen-46-original-imaebwp8hmg49aq8.jpeg",
+                "filename": "ss-aw15-ts-fp-0017-white-specimen-46-original-imaebwp8hmg49aq8.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/u/s/h/ss-aw15-ts-fp-0017-white-specimen-42-original-imaebwp82rmzwf45.jpeg",
+                "filename": "ss-aw15-ts-fp-0017-white-specimen-42-original-imaebwp82rmzwf45.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton Blend"] },
+              { "key": "Collar", "values": ["Point Collar"] },
+              { "key": "Fit", "values": ["Slim"] },
+              { "key": "Placket", "values": ["Concealed Contrast Placket"] },
+              {
+                "key": "e6ad25b9-5dc3-46cb-95bb-f5f22b99b6d6",
+                "values": [
+                  "Hand wash or Dry-clean",
+                  "Wash dark colors separately",
+                  "Do not tumble dry",
+                  "Warm Iron do not iron on print or embellishments"
+                ]
+              },
+              {
+                "key": "f8d75eca-f160-4e70-9c87-1d01687551eb",
+                "values": ["Shirt"]
+              },
+              { "key": "Other Details", "values": ["Contrast Collar Band"] },
+              { "key": "Style Code", "values": ["SS-AW15-TS-FP-0017 WHITE"] }
+            ]
+          },
+          {
+            "id": "aa298c2d5ff90d0fe4b0cc6f33fa6aa7",
+            "name": "Specimen Casual & Party Wear Shirts",
+            "description": "Specimen Men's Solid Casual Shirt - Buy White Specimen Men's Solid Casual Shirt For Only Rs. 1899 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 8952,
+            "price": 1899,
+            "sale": false,
+            "sale_price": 1899,
+            "stock_keeping_unit": "SHTECB929QZSW22R",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/2/2/r/ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm78b6mjapq.jpeg",
+                "filename": "ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm78b6mjapq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/2/2/r/ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm7w2b3357z.jpeg",
+                "filename": "ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm7w2b3357z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/2/2/r/ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm7z4ucdjhz.jpeg",
+                "filename": "ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm7z4ucdjhz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/2/2/r/ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm85x9k4fmv.jpeg",
+                "filename": "ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm85x9k4fmv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/2/2/r/ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm87u6ku8qb.jpeg",
+                "filename": "ss-aw15-ts-fd-5003-white-specimen-46-original-imaebvm87u6ku8qb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Collar", "values": ["Band Collar"] },
+              { "key": "Fabric", "values": ["Pure Cotton"] },
+              { "key": "Placket", "values": ["American Placket"] },
+              { "key": "Fit", "values": ["Slim"] },
+              {
+                "key": "Other Details",
+                "values": ["Contrast Piping On Collar", "Cuff and Placket"]
+              },
+              { "key": "Style Code", "values": ["SS-AW15-TS-FD-5003 WHITE"] },
+              {
+                "key": "e768e25b-6aad-47a8-9525-9fac1295645a",
+                "values": ["Shirt"]
+              },
+              {
+                "key": "ed8c5a79-ce80-4032-9880-9f483f347ce1",
+                "values": [
+                  "Hand wash or Dry-clean",
+                  "Wash dark colors separately",
+                  "Do not tumble dry",
+                  "Warm Iron do not iron on print or embellishments"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "8270f1067fe91a737df6baa04f9b3799",
+            "name": "Specimen Casual & Party Wear Shirts",
+            "description": "Specimen Men's Solid Casual Shirt - Buy White Specimen Men's Solid Casual Shirt For Only Rs. 1799 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 3178,
+            "price": 1799,
+            "sale": false,
+            "sale_price": 1799,
+            "stock_keeping_unit": "SHTECQYNSR6MAR8W",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/f/5/d/ss-aw15-ts-cd-10007-white-specimen-44-original-imaecgx6shb8zby5.jpeg",
+                "filename": "ss-aw15-ts-cd-10007-white-specimen-44-original-imaecgx6shb8zby5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/f/5/d/ss-aw15-ts-cd-10007-white-specimen-42-original-imaebvj9f2zhvup9.jpeg",
+                "filename": "ss-aw15-ts-cd-10007-white-specimen-42-original-imaebvj9f2zhvup9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/f/5/d/ss-aw15-ts-cd-10007-white-specimen-42-original-imaebvj9stq7hznq.jpeg",
+                "filename": "ss-aw15-ts-cd-10007-white-specimen-42-original-imaebvj9stq7hznq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/f/5/d/ss-aw15-ts-cd-10007-white-specimen-44-original-imaebvj9uvf3cqvb.jpeg",
+                "filename": "ss-aw15-ts-cd-10007-white-specimen-44-original-imaebvj9uvf3cqvb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/f/5/d/ss-aw15-ts-cd-10007-white-specimen-44-original-imaebvjajtztyyhu.jpeg",
+                "filename": "ss-aw15-ts-cd-10007-white-specimen-44-original-imaebvjajtztyyhu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Collar", "values": ["Semi Cutaway Collar"] },
+              { "key": "Fabric", "values": ["Pure Cotton"] },
+              { "key": "Pockets", "values": ["Chest Pocket"] },
+              { "key": "Fit", "values": ["Slim"] },
+              { "key": "Other Details", "values": ["Cut-and-sew contrast"] },
+              { "key": "Style Code", "values": ["SS-AW15-TS-CD-10007 WHITE"] },
+              {
+                "key": "b2ed6d2e-d824-4be0-bcaf-d66accf9f7b6",
+                "values": ["Shirt"]
+              },
+              {
+                "key": "889ab507-ac90-47fb-85ee-c3ad37a90a4b",
+                "values": [
+                  "Hand wash or Dry-clean",
+                  "Wash dark colors separately",
+                  "Do not tumble dry",
+                  "Warm Iron do not iron on print or embellishments"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "006d542822da8ba7e417c63cb264d967eedf441e" }
+      },
+      "active": true,
+      "id": "773c9f58c657518c19e4dbaf80f2ca41ea53be93"
+    },
+    {
+      "product": {
+        "id": "de20930142d768fc2e7aed3b1aeb5a94b364cd56",
+        "name": "Specimen Men's Solid Formal Shirt",
+        "description": "Dummy description for product Specimen Men's Solid Formal Shirt",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "bea8f12d-dfc4-49cb-bfd4-6f1ebb1d3abb",
+        "variants": [
+          {
+            "id": "c45ea9a00c15de05b93ee2e3ce4031d3",
+            "name": "Specimen Formal Shirts",
+            "description": "Specimen Men's Solid Formal Shirt\n                         Price: Rs. 2,499\n\t\t\t\t\n\t\t\tSmooth moves and strategic decisions define the Ambassador, an understated business shirt for high impact. \nWe can think of 1001 ways to dress up this sharp white shirt: Black suspenders, grey tie, bright blue suit, black striped tie, or smart mustard chinos. Carry a brown satchel to complete the look.\nSmooth moves and strategic decisions define the Ambassador, an understated business shirt for high impact. \nWe can think of 1001 ways to dress up this sharp white shirt: Black suspenders, grey tie, bright blue suit, black striped tie, or smart mustard chinos. Carry a brown satchel to complete the look.",
+            "stock_level": 1670,
+            "price": 2499,
+            "sale": false,
+            "sale_price": 2499,
+            "stock_keeping_unit": "SHTECB92TJRTSMUS",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/x/v/t/ss-aw15-ts-fp-0012-white-specimen-46-original-imaebwzpymegydxy.jpeg",
+                "filename": "ss-aw15-ts-fp-0012-white-specimen-46-original-imaebwzpymegydxy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/x/v/t/ss-aw15-ts-fp-0012-white-specimen-39-original-imaebwzptzhpg6d2.jpeg",
+                "filename": "ss-aw15-ts-fp-0012-white-specimen-39-original-imaebwzptzhpg6d2.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/x/v/t/ss-aw15-ts-fp-0012-white-specimen-46-original-imaebwzpfqqfcycv.jpeg",
+                "filename": "ss-aw15-ts-fp-0012-white-specimen-46-original-imaebwzpfqqfcycv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/x/v/t/ss-aw15-ts-fp-0012-white-specimen-39-original-imaebwzqfsf3mrgy.jpeg",
+                "filename": "ss-aw15-ts-fp-0012-white-specimen-39-original-imaebwzqfsf3mrgy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/x/v/t/ss-aw15-ts-fp-0012-white-specimen-39-original-imaebwzqs25s8hr8.jpeg",
+                "filename": "ss-aw15-ts-fp-0012-white-specimen-39-original-imaebwzqs25s8hr8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Occasion", "values": ["Formal"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Pure Cotton"] },
+              { "key": "Collar", "values": ["Point Collar"] },
+              { "key": "Fit", "values": ["Slim"] },
+              { "key": "Placket", "values": ["Concealed Placket"] },
+              {
+                "key": "42067fe7-8a3e-4f53-a111-6fe29ca53d4d",
+                "values": [
+                  "Hand wash or Dry-clean",
+                  "Wash dark colors separately",
+                  "Do not tumble dry",
+                  "Warm Iron do not iron on print or embellishments"
+                ]
+              },
+              {
+                "key": "6354fc82-8f6f-4394-a5f6-d8e95be97a39",
+                "values": ["Shirt"]
+              },
+              { "key": "Other Details", "values": ["French Cuff"] },
+              { "key": "Style Code", "values": ["SS-AW15-TS-FP-0012 WHITE"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6680cdbb3a6ee2ff368415fa1a016249a076556f" }
+      },
+      "active": true,
+      "id": "de20930142d768fc2e7aed3b1aeb5a94b364cd56"
+    },
+    {
+      "product": {
+        "id": "0feb7169b60ac2947c1d0df5bd6264c89732bbc6",
+        "name": "Mr Button Men's Solid Casual Linen Shirt",
+        "description": "Dummy description for product Mr Button Men's Solid Casual Linen Shirt",
+        "manufacturer_id": "1ccbd5018002dea0c5d616df128e0ee4116be0bf",
+        "taric_code": "e1527789-d069-4275-82b8-6911abc841a4",
+        "variants": [
+          {
+            "id": "e9c1be2045da3c89a6e5a2252ce701df",
+            "name": "Mr Button Casual & Party Wear Shirts",
+            "description": "Mr Button Men's Solid Casual Linen Shirt - Buy Black Mr Button Men's Solid Casual Linen Shirt For Only Rs. 2499 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 9491,
+            "price": 2499,
+            "sale": false,
+            "sale_price": 1999,
+            "stock_keeping_unit": "SHTE6G4TGVVDGGQH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/f/n/c/06shr026-mr-button-l-original-imae6bgyhz6n58zw.jpeg",
+                "filename": "06shr026-mr-button-l-original-imae6bgyhz6n58zw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/f/n/c/06shr026-mr-button-s-original-imae6bgyp3fumgvx.jpeg",
+                "filename": "06shr026-mr-button-s-original-imae6bgyp3fumgvx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/f/n/c/06shr026-mr-button-l-original-imae6bgygn8qt5kq.jpeg",
+                "filename": "06shr026-mr-button-l-original-imae6bgygn8qt5kq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/f/n/c/06shr026-mr-button-s-original-imae6bgygf2cvezk.jpeg",
+                "filename": "06shr026-mr-button-s-original-imae6bgygf2cvezk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/f/n/c/06shr026-mr-button-s-original-imae6bgyvznwh5rc.jpeg",
+                "filename": "06shr026-mr-button-s-original-imae6bgyvznwh5rc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim Fit"] },
+              { "key": "Fabric", "values": ["Linen"] },
+              { "key": "Collar", "values": ["Club Collar"] },
+              { "key": "Fit", "values": ["Slim"] },
+              { "key": "Style Code", "values": ["06SHR026"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "006d542822da8ba7e417c63cb264d967eedf441e" }
+      },
+      "active": true,
+      "id": "0feb7169b60ac2947c1d0df5bd6264c89732bbc6"
+    },
+    {
+      "product": {
+        "id": "0551f5ce5c0f658e91a4ed143e6cffac8cfdb2d3",
+        "name": "Wall1ders Small PVC Vinyl Sticker",
+        "description": "Dummy description for product Wall1ders Small PVC Vinyl Sticker",
+        "manufacturer_id": "5df00c83b6ef68848ba6953f9de89bc3ec5845f4",
+        "taric_code": "89f82d52-a764-42de-8a72-dd3428e207dc",
+        "variants": [
+          {
+            "id": "89511be54cc219d96cb65310c52ff4b2",
+            "name": "Wall1ders Wall Decals & Stickers",
+            "description": "Wall1ders Small PVC Vinyl Sticker (Pack of 1)\n                         Price: Rs. 239\n\t\t\t\t\n\t\t\tWall Decal is a vinyl sticker that is affixed to a wall or other smooth surface for decoration and informational purposes, as a quick and easy way to personalise and transform your home. This is recently been added to interior decorators portfolios for \"Do-It-Yourself\" home decorating option.\n\nDecals can be used on windows, walls or tiles as branding, advertising, or decoration. They may also serve as a tool to inform people that there is a glass door or window.\n\nWall1ders use only the highest quality premium self-adhesive vinyl for our products and well detailed shape cut to ensure you receive the quality product as good as you expect. \n\nSizes are rounded to the nearest inch and are based on proportional higher side dimensions. Colors may vary by monitor type and setting.\nWall Decal is a vinyl sticker that is affixed to a wall or other smooth surface for decoration and informational purposes, as a quick and easy way to personalise and transform your home. This is recently been added to interior decorators portfolios for \"Do-It-Yourself\" home decorating option.\n\nDecals can be used on windows, walls or tiles as branding, advertising, or decoration. They may also serve as a tool to inform people that there is a glass door or window.\n\nWall1ders use only the highest quality premium self-adhesive vinyl for our products and well detailed shape cut to ensure you receive the quality product as good as you expect. \n\nSizes are rounded to the nearest inch and are based on proportional higher side dimensions. Colors may vary by monitor type and setting.",
+            "stock_level": 7420,
+            "price": 899,
+            "sale": false,
+            "sale_price": 239,
+            "stock_keeping_unit": "STIEA4CNPADJXBRY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sticker/p/a/z/42blacktwobirds-wall1ders-42-two-birds-extra-large-1100x1100-imaea7gysyanfhv3.jpeg",
+                "filename": "42blacktwobirds-wall1ders-42-two-birds-extra-large-1100x1100-imaea7gysyanfhv3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sticker/p/a/z/42blacktwobirds-wall1ders-42-two-birds-extra-large-original-imaea7gysyanfhv3.jpeg",
+                "filename": "42blacktwobirds-wall1ders-42-two-birds-extra-large-original-imaea7gysyanfhv3.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["One Wall Sticker with Installation Manual"]
+              },
+              { "key": "Ideal Use", "values": ["Wall", "Glass"] },
+              { "key": "Scratch-resistant", "values": ["No"] },
+              { "key": "Shape", "values": ["Rectangular"] },
+              { "key": "Brand", "values": ["Wall1ders"] },
+              { "key": "Laminated", "values": ["No"] },
+              { "key": "Type", "values": ["PVC Vinyl"] },
+              { "key": "Size in Number", "values": ["24 inch"] },
+              { "key": "Number of Stickers", "values": ["1"] },
+              { "key": "Material", "values": ["Vinyl"] },
+              { "key": "Size", "values": ["Small"] }
+            ]
+          },
+          {
+            "id": "9931272725cdb20c3b20b31b41943349",
+            "name": "Wall1ders Wall Decals & Stickers",
+            "description": "Buy Wall1ders Small PVC Vinyl Sticker for Rs.239 online. Wall1ders Small PVC Vinyl Sticker at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2599,
+            "price": 899,
+            "sale": false,
+            "sale_price": 239,
+            "stock_keeping_unit": "STIEA4CNVSHJGDF8",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sticker/z/u/r/42bluehulk-wall1ders-42-hulk-extra-large-1100x1100-imaea7gyzy7jhc4y.jpeg",
+                "filename": "42bluehulk-wall1ders-42-hulk-extra-large-1100x1100-imaea7gyzy7jhc4y.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sticker/z/u/r/42bluehulk-wall1ders-42-hulk-extra-large-original-imaea7gyzy7jhc4y.jpeg",
+                "filename": "42bluehulk-wall1ders-42-hulk-extra-large-original-imaea7gyzy7jhc4y.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["One Wall Sticker with Installation Manual"]
+              },
+              { "key": "Ideal Use", "values": ["Wall", "Glass"] },
+              { "key": "Scratch-resistant", "values": ["No"] },
+              { "key": "Shape", "values": ["Rectangular"] },
+              { "key": "Brand", "values": ["Wall1ders"] },
+              { "key": "Laminated", "values": ["No"] },
+              { "key": "Type", "values": ["PVC Vinyl"] },
+              { "key": "Size in Number", "values": ["24 inch"] },
+              { "key": "Number of Stickers", "values": ["1"] },
+              { "key": "Material", "values": ["Vinyl"] },
+              { "key": "Size", "values": ["Small"] }
+            ]
+          },
+          {
+            "id": "3055d44dfc4043981b1ca75e592f4592",
+            "name": "Wall1ders Wall Decals & Stickers",
+            "description": "Buy Wall1ders Small PVC Vinyl Sticker for Rs.239 online. Wall1ders Small PVC Vinyl Sticker at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5194,
+            "price": 899,
+            "sale": true,
+            "sale_price": 239,
+            "stock_keeping_unit": "STIEA4CNGFSU64ZG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sticker/7/r/e/60whitehulk-wall1ders-60-hulk-extra-large-1100x1100-imaea7gyemmdjzua.jpeg",
+                "filename": "60whitehulk-wall1ders-60-hulk-extra-large-1100x1100-imaea7gyemmdjzua.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sticker/7/r/e/60whitehulk-wall1ders-60-hulk-extra-large-original-imaea7gyemmdjzua.jpeg",
+                "filename": "60whitehulk-wall1ders-60-hulk-extra-large-original-imaea7gyemmdjzua.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["One Wall Sticker with Installation Manual"]
+              },
+              { "key": "Ideal Use", "values": ["Wall", "Glass"] },
+              { "key": "Scratch-resistant", "values": ["No"] },
+              { "key": "Shape", "values": ["Rectangular"] },
+              { "key": "Brand", "values": ["Wall1ders"] },
+              { "key": "Laminated", "values": ["No"] },
+              { "key": "Type", "values": ["PVC Vinyl"] },
+              { "key": "Size in Number", "values": ["24 inch"] },
+              { "key": "Number of Stickers", "values": ["1"] },
+              { "key": "Material", "values": ["Vinyl"] },
+              { "key": "Size", "values": ["Small"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3e8274000cce4cb3967a677a6d42aca939412c7a" }
+      },
+      "active": true,
+      "id": "0551f5ce5c0f658e91a4ed143e6cffac8cfdb2d3"
+    },
+    {
+      "product": {
+        "id": "c5f63190f32efee1e8b69afce4ec40e4817f2151",
+        "name": "Saviour HPSAV F SS1 Y Freedom Hdpe Yellow Construction Helmet",
+        "description": "Dummy description for product Saviour HPSAV F SS1 Y Freedom Hdpe Yellow Construction Helmet",
+        "manufacturer_id": "5fb97695e58d6db6ac4539af9c490d9daf02a27e",
+        "taric_code": "4b991693-92d3-4aa5-a12e-86debe5c806b",
+        "variants": [
+          {
+            "id": "2603950236b68c2ce54b61c6f6b10e31",
+            "name": "Safety Helmets",
+            "description": "Saviour HPSAV F SS1 Y Freedom Hdpe Yellow Construction Helmet (Size - M)\n                         Price: Rs. 328\n\t\t\t\t\n\t\t\tSaviour Freedom Industrial Helmet made from HDPEPolymer with inside 8 point Textile Nylon suspension and 15 Ventilation ports on front, top and back having Ratchet type Harness adjustment. Provided with adjustable Chin strap and optional Chin Cup and has high absorption and washable Sweatband.\nSaviour Freedom Industrial Helmet made from HDPEPolymer with inside 8 point Textile Nylon suspension and 15 Ventilation ports on front, top and back having Ratchet type Harness adjustment. Provided with adjustable Chin strap and optional Chin Cup and has high absorption and washable Sweatband.",
+            "stock_level": 8349,
+            "price": 393,
+            "sale": false,
+            "sale_price": 328,
+            "stock_keeping_unit": "SHMECRRMGX8UMEHJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/safety-helmet/e/h/j/hpsav-f-ss1-y-saviour-m-1100x1100-imaecqq5ufxjmgzf.jpeg",
+                "filename": "hpsav-f-ss1-y-saviour-m-1100x1100-imaecqq5ufxjmgzf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/safety-helmet/e/h/j/hpsav-f-ss1-y-saviour-m-original-imaecqq5ufxjmgzf.jpeg",
+                "filename": "hpsav-f-ss1-y-saviour-m-original-imaecqq5ufxjmgzf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Saviour"] },
+              { "key": "Model Number", "values": ["HPSAV F SS1 Y"] },
+              { "key": "Protects", "values": ["Head", "Neck", "Ears"] },
+              { "key": "Design Type", "values": ["Half Face"] },
+              { "key": "Type", "values": ["Construction Helmet"] },
+              { "key": "Model Name", "values": ["Freedom Hdpe Yellow"] },
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Certification", "values": ["IS"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Size", "values": ["M"] },
+              { "key": "Strap Type", "values": ["Nylon Chin Strap"] },
+              {
+                "key": "Shell Material",
+                "values": ["Ratchet Type Harness Adjusment"]
+              },
+              { "key": "Suspension Type", "values": ["8"] },
+              { "key": "Number of Vents", "values": ["15"] },
+              {
+                "key": "e20c25e0-af4d-4d96-8cc3-2796cbfeeed8",
+                "values": ["1 Safety Helmet"]
+              },
+              { "key": "Diameter", "values": ["15 cm"] },
+              { "key": "Weight", "values": ["300 g"] },
+              { "key": "Height", "values": ["15 cm"] },
+              {
+                "key": "Other Dimensions",
+                "values": ["Compliance : IS 2925:1984"]
+              },
+              { "key": "Width", "values": ["15 cm"] },
+              { "key": "Depth", "values": ["6 cm"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year India Warrenty"]
+              },
+              {
+                "key": "Other Welding Helmet Feaures",
+                "values": ["Sensitivity Control"]
+              },
+              { "key": "Auto On/Off", "values": ["No"] },
+              { "key": "Digital Display", "values": ["No"] },
+              { "key": "Number of Arc Sensors", "values": ["8"] },
+              { "key": "Operating Modes", "values": ["Weld", "Cut", "Grind"] },
+              { "key": "Replaceable Parts", "values": ["Washable Sweatbands"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Helmet Made Of High Impact",
+                  "Pin-Lock Fittings With High Absorption",
+                  "Washable Sweatband",
+                  "Nylon Chin Strap With Special Structure Brim Design"
+                ]
+              },
+              { "key": "Noise reduction", "values": ["No"] },
+              { "key": "UV Protection", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "aa0b1ab84c125c6556ea6a2c4ac03d1116862b50" }
+      },
+      "active": false,
+      "id": "c5f63190f32efee1e8b69afce4ec40e4817f2151"
+    },
+    {
+      "product": {
+        "id": "1ca1773f1d91179a7b480b0c7c9dd57117a9741f",
+        "name": "Casotec Plexible LED Light 275011 Led Light USB Led Light",
+        "description": "Dummy description for product Casotec Plexible LED Light 275011 Led Light USB Led Light",
+        "manufacturer_id": "fc59e55749445ec61dfd6918eece94d95463910b",
+        "taric_code": "ef2d165f-6de0-4a11-a20d-27abff88f9c2",
+        "variants": [
+          {
+            "id": "508d76218b37779405d4a0aa0d8af0b3",
+            "name": "Casotec USB Gadgets",
+            "description": "Buy Casotec Plexible LED Light 275011 Led Light USB Led Light for Rs.149 online. Casotec Plexible LED Light 275011 Led Light USB Led Light at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2670,
+            "price": 499,
+            "sale": true,
+            "sale_price": 149,
+            "stock_keeping_unit": "USGEB59MJGZ2ZMEH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/m/e/h/275011-led-light-casotec-1100x1100-imaeb4r6jnf2dcxy.jpeg",
+                "filename": "275011-led-light-casotec-1100x1100-imaeb4r6jnf2dcxy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/m/e/h/275011-led-light-casotec-original-imaeb4r6jnf2dcxy.jpeg",
+                "filename": "275011-led-light-casotec-original-imaeb4r6jnf2dcxy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/m/e/h/275011-led-light-casotec-original-imaeb4r68wzgjhdf.jpeg",
+                "filename": "275011-led-light-casotec-original-imaeb4r68wzgjhdf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/m/e/h/275011-led-light-casotec-original-imaeb4r6vts9rvyq.jpeg",
+                "filename": "275011-led-light-casotec-original-imaeb4r6vts9rvyq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/m/e/h/275011-led-light-casotec-original-imaeb4r6djkzf9hz.jpeg",
+                "filename": "275011-led-light-casotec-original-imaeb4r6djkzf9hz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/m/e/h/275011-led-light-casotec-original-imaeb4r6bd8eymfh.jpeg",
+                "filename": "275011-led-light-casotec-original-imaeb4r6bd8eymfh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Casotec"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port V2.1"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["Plexible LED Light"] },
+              { "key": "Model ID", "values": ["275011 Led Light"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Manufacturing Defects Only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["3 Months Replacement Warranty"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 LED Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "1ca1773f1d91179a7b480b0c7c9dd57117a9741f"
+    },
+    {
+      "product": {
+        "id": "51043ffdb5ac721ece4741dd0cded461746766cc",
+        "name": "Techone+ Portable SE122101-WHITE USB Led Light",
+        "description": "Dummy description for product Techone+ Portable SE122101-WHITE USB Led Light",
+        "manufacturer_id": "12d9aea01a3b72952cfc49d4325a3de10aa7204a",
+        "taric_code": "be0dfdee-870b-46f0-ad18-5f49afae9fc3",
+        "variants": [
+          {
+            "id": "758625519998932d38bbb8373531fde7",
+            "name": "Techone+ USB Gadgets",
+            "description": "Techone+ Portable SE122101-WHITE USB Led Light (White)\n                         Price: Rs. 149\n\t\t\t\t\n\t\t\tUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.\nUsable with Power Bank, Laptop, USB Port Adaptor, USB Multi Pin Board & USB Port Device.",
+            "stock_level": 9464,
+            "price": 299,
+            "sale": false,
+            "sale_price": 149,
+            "stock_keeping_unit": "USGEDDUFASHHQGEY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/3/3/s/led-w-03-bt-original-imae6tapggafx8kg.jpeg",
+                "filename": "led-w-03-bt-original-imae6tapggafx8kg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/3/3/s/led-w-03-bt-original-imae6tapggafx8kg.jpeg",
+                "filename": "led-w-03-bt-original-imae6tapggafx8kg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/mobile-accessories-combo/t/2/r/2-tbz-premium-leather-window-flip-cover-case-for-samsung-galaxy-original-imae6ue6yhpqqgaq.jpeg",
+                "filename": "2-tbz-premium-leather-window-flip-cover-case-for-samsung-galaxy-original-imae6ue6yhpqqgaq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/6/h/z/se122103-white-techone-original-imae7ycgzvthzfwf.jpeg",
+                "filename": "se122103-white-techone-original-imae7ycgzvthzfwf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Techone+"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["5V 1.2W"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Portable"] },
+              { "key": "Model ID", "values": ["SE122101-WHITE"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Weight", "values": ["75 g"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Sales Package", "values": ["2 Usb Led Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "51043ffdb5ac721ece4741dd0cded461746766cc"
+    },
+    {
+      "product": {
+        "id": "38cbe2f323f916c7df67741a341a96b461659a76",
+        "name": "DGB Flexi Touch X-11 USB Led Light",
+        "description": "Dummy description for product DGB Flexi Touch X-11 USB Led Light",
+        "manufacturer_id": "e5178cb3b9c7aee681fd03e7f46ffea9de436f74",
+        "taric_code": "5abc98b4-5234-4ccb-861d-8fee53ad2b2e",
+        "variants": [
+          {
+            "id": "9f5030ba55bfba18053d4356bb1081ca",
+            "name": "DGB USB Gadgets",
+            "description": "DGB Flexi Touch X-11 USB Led Light (White)\n                         Price: Rs. 259\n\t\t\t\t\n\t\t\tDGB USB Flexible Touch Light -powered LED light that achieves less power consumption and longer life. It operates on USB power so does not need an AC adapter or batteries. It automatically lights up when plugged into a computer's USB port or even your mobile power bank, so is very easy to use. Although compact in design, it is a high-power LED with a 1.2 W light source, achieving high luminance of 400 lux up to 25 cm below the lamp. Glowing with maximum luminance immediately after being plugged in, the light is perfect for reading or working on a computer in dark locations. Best companion for students and professionals who work in dark dim light or the ones who need to travel often.\n\nFeatures :\n1. Portable & Bendable Silicone\n2. 6 Super Bright LED Lamp.\n3. 360 Degree Flexible. Incorporates a flexible arm to enable adjustment to any desired angle \n4. High-power LED with 1.2 W light source \n5. Lights up at maximum luminance immediately after plugging into a USB port \n6. Compact design offers easy portability. \n7. Touch to on / off.\n\n\n1. Portable USB LED Flexible Lamp 5V 1.2W USB Ultra Bright LED Light Lamp For Power Bank Computer Laptop Tablet PC Chargers Low Power Consumption .\n2. Powered by any Devices with USB Port. Ultra Bright with Low Power Consumption. Rated voltage: 5V. Rated Power: 1.2W. Size: 169*18*9mm.Material: Silicone.\nDGB USB Flexible Touch Light -powered LED light that achieves less power consumption and longer life. It operates on USB power so does not need an AC adapter or batteries. It automatically lights up when plugged into a computer's USB port or even your mobile power bank, so is very easy to use. Although compact in design, it is a high-power LED with a 1.2 W light source, achieving high luminance of 400 lux up to 25 cm below the lamp. Glowing with maximum luminance immediately after being plugged in, the light is perfect for reading or working on a computer in dark locations. Best companion for students and professionals who work in dark dim light or the ones who need to travel often.\n\nFeatures :\n1. Portable & Bendable Silicone\n2. 6 Super Bright LED Lamp.\n3. 360 Degree Flexible. Incorporates a flexible arm to enable adjustment to any desired angle \n4. High-power LED with 1.2 W light source \n5. Lights up at maximum luminance immediately after plugging into a USB port \n6. Compact design offers easy portability. \n7. Touch to on / off.\n\n\n1. Portable USB LED Flexible Lamp 5V 1.2W USB Ultra Bright LED Light Lamp For Power Bank Computer Laptop Tablet PC Chargers Low Power Consumption .\n2. Powered by any Devices with USB Port. Ultra Bright with Low Power Consumption. Rated voltage: 5V. Rated Power: 1.2W. Size: 169*18*9mm.Material: Silicone.",
+            "stock_level": 4726,
+            "price": 329,
+            "sale": false,
+            "sale_price": 259,
+            "stock_keeping_unit": "USGEDX24UXPEEZEH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/e/h/x-11-dgb-1100x1100-imaedp4qxjfhrwpf.jpeg",
+                "filename": "x-11-dgb-1100x1100-imaedp4qxjfhrwpf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/e/h/x-11-dgb-original-imaedp4qxjfhrwpf.jpeg",
+                "filename": "x-11-dgb-original-imaedp4qxjfhrwpf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["DGB"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Flexi Touch"] },
+              { "key": "Model ID", "values": ["X-11"] },
+              { "key": "Color", "values": ["White"] },
+              {
+                "key": "Sales Package",
+                "values": ["DGB USB Flexible Touch Light"]
+              }
+            ]
+          },
+          {
+            "id": "ce2d63ccd73cb5f23e72673afb50ece3",
+            "name": "DGB USB Gadgets",
+            "description": "DGB Flexi Touch X-11 USB Led Light (Black)\n                         Price: Rs. 259\n\t\t\t\t\n\t\t\tDGB USB Flexible Touch Light -powered LED light that achieves less power consumption and longer life. It operates on USB power so does not need an AC adapter or batteries. It automatically lights up when plugged into a computer's USB port or even your mobile power bank, so is very easy to use. Although compact in design, it is a high-power LED with a 1.2 W light source, achieving high luminance of 400 lux up to 25 cm below the lamp. Glowing with maximum luminance immediately after being plugged in, the light is perfect for reading or working on a computer in dark locations. Best companion for students and professionals who work in dark dim light or the ones who need to travel often.\n\nFeatures :\n1. Portable & Bendable Silicone\n2. 6 Super Bright LED Lamp.\n3. 360 Degree Flexible. Incorporates a flexible arm to enable adjustment to any desired angle \n4. High-power LED with 1.2 W light source \n5. Lights up at maximum luminance immediately after plugging into a USB port \n6. Compact design offers easy portability. \n7. Touch to on / off.\n\n\n1. Portable USB LED Flexible Lamp 5V 1.2W USB Ultra Bright LED Light Lamp For Power Bank Computer Laptop Tablet PC Chargers Low Power Consumption .\n2. Powered by any Devices with USB Port. Ultra Bright with Low Power Consumption. Rated voltage: 5V. Rated Power: 1.2W. Size: 169*18*9mm.Material: Silicone.\nDGB USB Flexible Touch Light -powered LED light that achieves less power consumption and longer life. It operates on USB power so does not need an AC adapter or batteries. It automatically lights up when plugged into a computer's USB port or even your mobile power bank, so is very easy to use. Although compact in design, it is a high-power LED with a 1.2 W light source, achieving high luminance of 400 lux up to 25 cm below the lamp. Glowing with maximum luminance immediately after being plugged in, the light is perfect for reading or working on a computer in dark locations. Best companion for students and professionals who work in dark dim light or the ones who need to travel often.\n\nFeatures :\n1. Portable & Bendable Silicone\n2. 6 Super Bright LED Lamp.\n3. 360 Degree Flexible. Incorporates a flexible arm to enable adjustment to any desired angle \n4. High-power LED with 1.2 W light source \n5. Lights up at maximum luminance immediately after plugging into a USB port \n6. Compact design offers easy portability. \n7. Touch to on / off.\n\n\n1. Portable USB LED Flexible Lamp 5V 1.2W USB Ultra Bright LED Light Lamp For Power Bank Computer Laptop Tablet PC Chargers Low Power Consumption .\n2. Powered by any Devices with USB Port. Ultra Bright with Low Power Consumption. Rated voltage: 5V. Rated Power: 1.2W. Size: 169*18*9mm.Material: Silicone.",
+            "stock_level": 2460,
+            "price": 329,
+            "sale": false,
+            "sale_price": 259,
+            "stock_keeping_unit": "USGEDX249AJ5XFKT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/u/t/e/mmull-black-memore-1100x1100-imaedg7zybhzpvk4.jpeg",
+                "filename": "mmull-black-memore-1100x1100-imaedg7zybhzpvk4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/u/t/e/mmull-black-memore-original-imaedg7zybhzpvk4.jpeg",
+                "filename": "mmull-black-memore-original-imaedg7zybhzpvk4.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/f/k/t/x-11-dgb-original-imaedp4kyzrzbhv5.jpeg",
+                "filename": "x-11-dgb-original-imaedp4kyzrzbhv5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["DGB"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Flexi Touch"] },
+              { "key": "Model ID", "values": ["X-11"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Sales Package",
+                "values": ["DGB USB Flexible Touch Light"]
+              }
+            ]
+          },
+          {
+            "id": "2713970de5f4d8631c9a1585f1901f96",
+            "name": "DGB USB Gadgets",
+            "description": "DGB Flexi Touch X-11 USB Led Light (Pink)\n                         Price: Rs. 259\n\t\t\t\t\n\t\t\tDGB USB Flexible Touch Light -powered LED light that achieves less power consumption and longer life. It operates on USB power so does not need an AC adapter or batteries. It automatically lights up when plugged into a computer's USB port or even your mobile power bank, so is very easy to use. Although compact in design, it is a high-power LED with a 1.2 W light source, achieving high luminance of 400 lux up to 25 cm below the lamp. Glowing with maximum luminance immediately after being plugged in, the light is perfect for reading or working on a computer in dark locations. Best companion for students and professionals who work in dark dim light or the ones who need to travel often.\n\nFeatures :\n1. Portable & Bendable Silicone\n2. 6 Super Bright LED Lamp.\n3. 360 Degree Flexible. Incorporates a flexible arm to enable adjustment to any desired angle \n4. High-power LED with 1.2 W light source \n5. Lights up at maximum luminance immediately after plugging into a USB port \n6. Compact design offers easy portability. \n7. Touch to on / off.\n\n\n1. Portable USB LED Flexible Lamp 5V 1.2W USB Ultra Bright LED Light Lamp For Power Bank Computer Laptop Tablet PC Chargers Low Power Consumption .\n2. Powered by any Devices with USB Port. Ultra Bright with Low Power Consumption. Rated voltage: 5V. Rated Power: 1.2W. Size: 169*18*9mm.Material: Silicone.\nDGB USB Flexible Touch Light -powered LED light that achieves less power consumption and longer life. It operates on USB power so does not need an AC adapter or batteries. It automatically lights up when plugged into a computer's USB port or even your mobile power bank, so is very easy to use. Although compact in design, it is a high-power LED with a 1.2 W light source, achieving high luminance of 400 lux up to 25 cm below the lamp. Glowing with maximum luminance immediately after being plugged in, the light is perfect for reading or working on a computer in dark locations. Best companion for students and professionals who work in dark dim light or the ones who need to travel often.\n\nFeatures :\n1. Portable & Bendable Silicone\n2. 6 Super Bright LED Lamp.\n3. 360 Degree Flexible. Incorporates a flexible arm to enable adjustment to any desired angle \n4. High-power LED with 1.2 W light source \n5. Lights up at maximum luminance immediately after plugging into a USB port \n6. Compact design offers easy portability. \n7. Touch to on / off.\n\n\n1. Portable USB LED Flexible Lamp 5V 1.2W USB Ultra Bright LED Light Lamp For Power Bank Computer Laptop Tablet PC Chargers Low Power Consumption .\n2. Powered by any Devices with USB Port. Ultra Bright with Low Power Consumption. Rated voltage: 5V. Rated Power: 1.2W. Size: 169*18*9mm.Material: Silicone.",
+            "stock_level": 2797,
+            "price": 329,
+            "sale": false,
+            "sale_price": 259,
+            "stock_keeping_unit": "USGEDX24YE8JV76H",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/7/6/h/x-11-dgb-1100x1100-imaedq4bqtpuyawk.jpeg",
+                "filename": "x-11-dgb-1100x1100-imaedq4bqtpuyawk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/7/6/h/x-11-dgb-original-imaedq4bqtpuyawk.jpeg",
+                "filename": "x-11-dgb-original-imaedq4bqtpuyawk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["DGB"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Flexi Touch"] },
+              { "key": "Model ID", "values": ["X-11"] },
+              { "key": "Color", "values": ["Pink"] },
+              {
+                "key": "Sales Package",
+                "values": ["DGB USB Flexible Touch Light"]
+              }
+            ]
+          },
+          {
+            "id": "7bca9f1644c05ea60b282ec89cffd070",
+            "name": "DGB USB Gadgets",
+            "description": "DGB Flexi Touch X-11 USB Led Light (Orange)\n                         Price: Rs. 259\n\t\t\t\t\n\t\t\tDGB USB Flexible Touch Light -powered LED light that achieves less power consumption and longer life. It operates on USB power so does not need an AC adapter or batteries. It automatically lights up when plugged into a computer's USB port or even your mobile power bank, so is very easy to use. Although compact in design, it is a high-power LED with a 1.2 W light source, achieving high luminance of 400 lux up to 25 cm below the lamp. Glowing with maximum luminance immediately after being plugged in, the light is perfect for reading or working on a computer in dark locations. Best companion for students and professionals who work in dark dim light or the ones who need to travel often.\n\nFeatures :\n1. Portable & Bendable Silicone\n2. 6 Super Bright LED Lamp.\n3. 360 Degree Flexible. Incorporates a flexible arm to enable adjustment to any desired angle \n4. High-power LED with 1.2 W light source \n5. Lights up at maximum luminance immediately after plugging into a USB port \n6. Compact design offers easy portability. \n7. Touch to on / off.\n\n\n1. Portable USB LED Flexible Lamp 5V 1.2W USB Ultra Bright LED Light Lamp For Power Bank Computer Laptop Tablet PC Chargers Low Power Consumption .\n2. Powered by any Devices with USB Port. Ultra Bright with Low Power Consumption. Rated voltage: 5V. Rated Power: 1.2W. Size: 169*18*9mm.Material: Silicone.\nDGB USB Flexible Touch Light -powered LED light that achieves less power consumption and longer life. It operates on USB power so does not need an AC adapter or batteries. It automatically lights up when plugged into a computer's USB port or even your mobile power bank, so is very easy to use. Although compact in design, it is a high-power LED with a 1.2 W light source, achieving high luminance of 400 lux up to 25 cm below the lamp. Glowing with maximum luminance immediately after being plugged in, the light is perfect for reading or working on a computer in dark locations. Best companion for students and professionals who work in dark dim light or the ones who need to travel often.\n\nFeatures :\n1. Portable & Bendable Silicone\n2. 6 Super Bright LED Lamp.\n3. 360 Degree Flexible. Incorporates a flexible arm to enable adjustment to any desired angle \n4. High-power LED with 1.2 W light source \n5. Lights up at maximum luminance immediately after plugging into a USB port \n6. Compact design offers easy portability. \n7. Touch to on / off.\n\n\n1. Portable USB LED Flexible Lamp 5V 1.2W USB Ultra Bright LED Light Lamp For Power Bank Computer Laptop Tablet PC Chargers Low Power Consumption .\n2. Powered by any Devices with USB Port. Ultra Bright with Low Power Consumption. Rated voltage: 5V. Rated Power: 1.2W. Size: 169*18*9mm.Material: Silicone.",
+            "stock_level": 7518,
+            "price": 329,
+            "sale": false,
+            "sale_price": 259,
+            "stock_keeping_unit": "USGEDX24BCNC63FE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/3/f/e/x-11-dgb-1100x1100-imaedp4ukffgmgvm.jpeg",
+                "filename": "x-11-dgb-1100x1100-imaedp4ukffgmgvm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/3/f/e/x-11-dgb-original-imaedp4ukffgmgvm.jpeg",
+                "filename": "x-11-dgb-original-imaedp4ukffgmgvm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["DGB"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Flexi Touch"] },
+              { "key": "Model ID", "values": ["X-11"] },
+              { "key": "Color", "values": ["Orange"] },
+              {
+                "key": "Sales Package",
+                "values": ["DGB USB Flexible Touch Light"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "38cbe2f323f916c7df67741a341a96b461659a76"
+    },
+    {
+      "product": {
+        "id": "8c581900d8ac30f3855b05002c65e3f01263aa51",
+        "name": "Casotec Lightning 272017A USB USB Cable",
+        "description": "Dummy description for product Casotec Lightning 272017A USB USB Cable",
+        "manufacturer_id": "fc59e55749445ec61dfd6918eece94d95463910b",
+        "taric_code": "60b360f0-5189-4bbc-a6fa-6a179d6e21ba",
+        "variants": [
+          {
+            "id": "952a100cf3a5bdf2d655e9cdca0e9dd5",
+            "name": "Casotec USB Gadgets",
+            "description": "Casotec Lightning 272017A USB USB Cable (Purple)\n                         Price: Rs. 299\n\t\t\t\t\n\t\t\tCasotec 2in1 Retractable Universal Cable ensuring complete charger and sync compatibility with your devices. Connect the 8 pin connector or micro USB connector to your iOS or Android devices and connect the USB side into a wall charger adapter or USB hub to charger or your computer to sync data. Its retractable design makes this cable ideal for stowing in a purse or a bag. Simply pull both ends of the cable and slowly release and the cable will store neatly in its housing without getting tangled.\nCasotec 2in1 Retractable Universal Cable ensuring complete charger and sync compatibility with your devices. Connect the 8 pin connector or micro USB connector to your iOS or Android devices and connect the USB side into a wall charger adapter or USB hub to charger or your computer to sync data. Its retractable design makes this cable ideal for stowing in a purse or a bag. Simply pull both ends of the cable and slowly release and the cable will store neatly in its housing without getting tangled.",
+            "stock_level": 590,
+            "price": 999,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "USGEBZ79Q4U6ZC6W",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/c/6/w/272017a-casotec-1100x1100-imaebz79vqmgh59v.jpeg",
+                "filename": "272017a-casotec-1100x1100-imaebz79vqmgh59v.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/c/6/w/272017a-casotec-original-imaebz79vqmgh59v.jpeg",
+                "filename": "272017a-casotec-original-imaebz79vqmgh59v.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/c/6/w/272017a-casotec-original-imaebz79hvywy6mh.jpeg",
+                "filename": "272017a-casotec-original-imaebz79hvywy6mh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/c/6/w/272017a-casotec-original-imaebz79sgyedgwa.jpeg",
+                "filename": "272017a-casotec-original-imaebz79sgyedgwa.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/c/6/w/272017a-casotec-original-imaebz79rgztxmre.jpeg",
+                "filename": "272017a-casotec-original-imaebz79rgztxmre.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/c/6/w/272017a-casotec-original-imaebz79hpmhu8fz.jpeg",
+                "filename": "272017a-casotec-original-imaebz79hpmhu8fz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Casotec"] },
+              { "key": "Type", "values": ["USB Cable"] },
+              { "key": "System Requirements", "values": ["USB Port v2.0"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["Lightning"] },
+              { "key": "Model ID", "values": ["272017A"] },
+              { "key": "Color", "values": ["Purple"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty Of The Product Is Limited To Manufacturing Defects Only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["3 Months Replacement Warranty"]
+              },
+              { "key": "Powered by", "values": ["USB"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 PC Cable"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "8c581900d8ac30f3855b05002c65e3f01263aa51"
+    },
+    {
+      "product": {
+        "id": "068fa5205de3b85ecd16892c3392ec204e5773e2",
+        "name": "Omax EW-60C for CANON EF-S 18-55mm F/3.5-5.6 Lens  Lens Hood",
+        "description": "Dummy description for product Omax EW-60C for CANON EF-S 18-55mm F/3.5-5.6 Lens  Lens Hood",
+        "manufacturer_id": "1a8fda9dc2d2b7a36302d4b0aee0c3460212b0da",
+        "taric_code": "593dd3e1-c8e5-4bdb-8151-21f52df2317e",
+        "variants": [
+          {
+            "id": "4069978315af976d763f31cba66ae8ef",
+            "name": "Omax Lens Hoods",
+            "description": "Buy Omax EW-60C for CANON EF-S 18-55mm F/3.5-5.6 Lens  Lens Hood only for Rs. 295 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2171,
+            "price": 495,
+            "sale": true,
+            "sale_price": 270,
+            "stock_keeping_unit": "ACCE7W6P6NGHMGVG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/h/6/f/omax-ew-60c-et-60-for-canon-18-55mm-lens-ew-60c-et-60-55-250mm-1100x1100-imae7sunc328guwp.jpeg",
+                "filename": "omax-ew-60c-et-60-for-canon-18-55mm-lens-ew-60c-et-60-55-250mm-1100x1100-imae7sunc328guwp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/h/6/f/omax-ew-60c-et-60-for-canon-18-55mm-lens-ew-60c-et-60-55-250mm-original-imae7sunc328guwp.jpeg",
+                "filename": "omax-ew-60c-et-60-for-canon-18-55mm-lens-ew-60c-et-60-55-250mm-original-imae7sunc328guwp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/g/v/g/omax-ew-60c-for-canon-ef-s-18-55mm-f-3-5-5-6-lens-original-imae7sungwapwjdz.jpeg",
+                "filename": "omax-ew-60c-for-canon-ef-s-18-55mm-f-3-5-5-6-lens-original-imae7sungwapwjdz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Bayonet"] },
+              { "key": "Shape", "values": ["Round"] },
+              { "key": "Brand", "values": ["Omax"] },
+              {
+                "key": "Designed For",
+                "values": [
+                  "Canon Ef-S 18-55mm Is F/3.5-5.6 Iii",
+                  "Canon Ef 28-80mm F/3.5-5.6 V Usm",
+                  "Canon Ef 28-90mm F/4-5.6 Ii Usm"
+                ]
+              },
+              {
+                "key": "Model Number",
+                "values": ["EW-60C for CANON EF-S 18-55mm F/3.5-5.6 Lens"]
+              },
+              { "key": "Filter Thread Size", "values": ["58 mm"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["EW-60c"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["Lens Hood"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "068fa5205de3b85ecd16892c3392ec204e5773e2"
+    },
+    {
+      "product": {
+        "id": "9096e9e8f3d6af163c767443b67047109e2e286f",
+        "name": "JJC LH-65II  Lens Hood",
+        "description": "Dummy description for product JJC LH-65II  Lens Hood",
+        "manufacturer_id": "a154c7b03f47778772f359bfc6d228024e3309f9",
+        "taric_code": "ed05fd11-f263-4720-85eb-c877d2445a13",
+        "variants": [
+          {
+            "id": "b10c4f53153b62e5e3bfd3314a89c66a",
+            "name": "JJC Lens Hoods",
+            "description": "Buy JJC LH-65II  Lens Hood only for Rs. 700 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8534,
+            "price": 1150,
+            "sale": true,
+            "sale_price": 975,
+            "stock_keeping_unit": "ACCDDQFZFWF5SNSK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/n/s/k/jjc-lh-65ii-400x400-imaddqjcee7fzemz.jpeg",
+                "filename": "jjc-lh-65ii-400x400-imaddqjcee7fzemz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/n/s/k/jjc-lh-65ii-original-imaddqjcee7fzemz.jpeg",
+                "filename": "jjc-lh-65ii-original-imaddqjcee7fzemz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/n/s/k/jjc-lh-65ii-original-imaddqjckf5ndb9z.jpeg",
+                "filename": "jjc-lh-65ii-original-imaddqjckf5ndb9z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/n/s/k/jjc-lh-65ii-original-imaddqjcfsr9frwz.jpeg",
+                "filename": "jjc-lh-65ii-original-imaddqjcfsr9frwz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["JJC"] },
+              { "key": "Model Number", "values": ["LH-65II"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "9096e9e8f3d6af163c767443b67047109e2e286f"
+    },
+    {
+      "product": {
+        "id": "32ddc0c9833ee11e00774dde97971b41483f0d66",
+        "name": "Petshop7 PS7DB0057 S Pet Bed",
+        "description": "Dummy description for product Petshop7 PS7DB0057 S Pet Bed",
+        "manufacturer_id": "62e3c7ab36e95801477d1d71b4a21456ffb50fcb",
+        "taric_code": "2a79b29c-b3b4-4eee-bcef-f46dbe172625",
+        "variants": [
+          {
+            "id": "c8910a49e35560587be746e9179d635e",
+            "name": "Pet Furniture",
+            "description": "Buy Petshop7 PS7DB0057 S Pet Bed for Rs.999 online. Petshop7 PS7DB0057 S Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 868,
+            "price": 1700,
+            "sale": true,
+            "sale_price": 999,
+            "stock_keeping_unit": "PEBEDKJYF8DSEXRC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/x/r/c/ps7db0057-petshop7-s-original-imaedkhvqrbeqsbz.jpeg",
+                "filename": "ps7db0057-petshop7-s-original-imaedkhvqrbeqsbz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/x/r/c/ps7db0057-petshop7-s-original-imaedkhvqrbeqsbz.jpeg",
+                "filename": "ps7db0057-petshop7-s-original-imaedkhvqrbeqsbz.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "a1f5f670-d198-44a3-af09-d50e9a198446",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand Color", "values": ["Light Purple"] },
+              { "key": "Brand", "values": ["Petshop7"] },
+              { "key": "Model Number", "values": ["PS7DB0057"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Material", "values": ["Velvet", "Foam"] },
+              { "key": "Bed Type", "values": ["Cot"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Size", "values": ["S"] },
+              { "key": "Height", "values": ["16.5 cm"] },
+              { "key": "Width", "values": ["58 cm"] },
+              { "key": "Depth", "values": ["19 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "32ddc0c9833ee11e00774dde97971b41483f0d66"
+    },
+    {
+      "product": {
+        "id": "4f94c099ed6da1ad847db4a982447c45030ab46e",
+        "name": "RoQ Mini YK-688 USB USB Fan",
+        "description": "Dummy description for product RoQ Mini YK-688 USB USB Fan",
+        "manufacturer_id": "d33479e525af018abfcae297437e7c516f950b54",
+        "taric_code": "1de140e7-8908-4d42-a952-da6294616fc7",
+        "variants": [
+          {
+            "id": "7eebdc7906147bb014dfd5ca88ad41df",
+            "name": "RoQ USB Gadgets",
+            "description": "Buy RoQ Mini YK-688 USB USB Fan for Rs.499 online. RoQ Mini YK-688 USB USB Fan at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1247,
+            "price": 999,
+            "sale": true,
+            "sale_price": 499,
+            "stock_keeping_unit": "USGEAEGUVASNAZ63",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/z/6/3/yk-688-roq-1100x1100-imaeae55qfsjvu5p.jpeg",
+                "filename": "yk-688-roq-1100x1100-imaeae55qfsjvu5p.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/z/6/3/yk-688-roq-original-imaeae55qfsjvu5p.jpeg",
+                "filename": "yk-688-roq-original-imaeae55qfsjvu5p.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["RoQ"] },
+              { "key": "Type", "values": ["USB Fan"] },
+              { "key": "Model Name", "values": ["Mini"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["USB Port v1.1"] },
+              { "key": "Model ID", "values": ["YK-688"] },
+              { "key": "Color", "values": ["Blue"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Customer needs to contact customer support"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Physical Damage"]
+              },
+              { "key": "Rechargeable", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["USB Fan"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "4f94c099ed6da1ad847db4a982447c45030ab46e"
+    },
+    {
+      "product": {
+        "id": "5c2f25a919c955f1ffa600ce5bc3aa3614c763dc",
+        "name": "Petshop7 PS7BED000417 M Pet Bed",
+        "description": "Dummy description for product Petshop7 PS7BED000417 M Pet Bed",
+        "manufacturer_id": "2e6ac773a57f9c7900979a2c04e2f6894660dd28",
+        "taric_code": "80d5fa96-f6ba-40e9-a439-04715ab096ef",
+        "variants": [
+          {
+            "id": "7430723d34783efb2f47326eeb8f5190",
+            "name": "Pet Furniture",
+            "description": "Buy Petshop7 PS7BED000417 M Pet Bed for Rs.1699 online. Petshop7 PS7BED000417 M Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4944,
+            "price": 2599,
+            "sale": true,
+            "sale_price": 1699,
+            "stock_keeping_unit": "PEBEBG4ZXFUZ2NAV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/n/a/v/ps7bed000417-petshop7-m-original-imaebgz7vczh4jcb.jpeg",
+                "filename": "ps7bed000417-petshop7-m-original-imaebgz7vczh4jcb.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "5311ef29-3073-446e-b0b6-0963e8fbdbc6",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand", "values": ["Petshop7"] },
+              { "key": "Brand Color", "values": ["Blue"] },
+              { "key": "Model Number", "values": ["PS7BED000417"] },
+              { "key": "Material", "values": ["Foam Basket"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Size", "values": ["M"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Bed Type", "values": ["Enclosed"] },
+              { "key": "Height", "values": ["19 cm"] },
+              { "key": "Width", "values": ["71 cm"] },
+              { "key": "Depth", "values": ["16.5 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "5c2f25a919c955f1ffa600ce5bc3aa3614c763dc"
+    },
+    {
+      "product": {
+        "id": "5f4a61f7e19e68ecaee799ce3bff5203c47b84f7",
+        "name": "JJC ET-83C  Lens Hood",
+        "description": "Dummy description for product JJC ET-83C  Lens Hood",
+        "manufacturer_id": "a154c7b03f47778772f359bfc6d228024e3309f9",
+        "taric_code": "82548515-60a0-4885-a3c2-55b366f23364",
+        "variants": [
+          {
+            "id": "def47bae27ba3ce0fd5c5dc6de465281",
+            "name": "JJC Lens Hoods",
+            "description": "Buy JJC ET-83C  Lens Hood only for Rs. 2540 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7254,
+            "price": 2540,
+            "sale": true,
+            "sale_price": 2540,
+            "stock_keeping_unit": "ACCDVPEXHMS5EGCX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/g/c/x/jjc-et-83c-original-imadvrgspcbzgmhx.jpeg",
+                "filename": "jjc-et-83c-original-imadvrgspcbzgmhx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/g/c/x/jjc-et-83c-original-imadvrgspcbzgmhx.jpeg",
+                "filename": "jjc-et-83c-original-imadvrgspcbzgmhx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/g/c/x/jjc-et-83c-original-imadvrgsxkhum4kr.jpeg",
+                "filename": "jjc-et-83c-original-imadvrgsxkhum4kr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/g/c/x/jjc-et-83c-original-imadvrgsz2ymgkrg.jpeg",
+                "filename": "jjc-et-83c-original-imadvrgsz2ymgkrg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Bayonet"] },
+              { "key": "Brand", "values": ["JJC"] },
+              { "key": "Shape", "values": ["Round"] },
+              {
+                "key": "Designed For",
+                "values": ["CANON EF 100-400mm f/4.5-5.6L IS USM"]
+              },
+              { "key": "Model Number", "values": ["ET-83C"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["Lens Hood"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "5f4a61f7e19e68ecaee799ce3bff5203c47b84f7"
+    },
+    {
+      "product": {
+        "id": "944b0dd92ff8c2dc4d6b08e7fe38e9ecf4ff6e3b",
+        "name": "Iconnect World Sound 7.1 Channel Hi Speed External Audio Card Adapter USB Sound Card",
+        "description": "Dummy description for product Iconnect World Sound 7.1 Channel Hi Speed External Audio Card Adapter USB Sound Card",
+        "manufacturer_id": "a9f9f4fcfbfb05fdbcc79db766f6656cb7cbbbf1",
+        "taric_code": "8a95d095-d73c-489d-9a84-0133bb4f13fe",
+        "variants": [
+          {
+            "id": "8b91b42e0ede79acd65180162ec0eef5",
+            "name": "Iconnect World USB Gadgets",
+            "description": "Buy Iconnect World Sound 7.1 Channel Hi Speed External Audio Card Adapter USB Sound Card for Rs.519 online. Iconnect World Sound 7.1 Channel Hi Speed External Audio Card Adapter USB Sound Card at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9466,
+            "price": 1200,
+            "sale": true,
+            "sale_price": 519,
+            "stock_keeping_unit": "USGEDZUWG5Y26SAZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/w/8/b/audio-output-mic-input-iconnect-world-1100x1100-imaecnj74udq7yza.jpeg",
+                "filename": "audio-output-mic-input-iconnect-world-1100x1100-imaecnj74udq7yza.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/w/8/b/audio-output-mic-input-iconnect-world-original-imaecnj74udq7yza.jpeg",
+                "filename": "audio-output-mic-input-iconnect-world-original-imaecnj74udq7yza.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/w/8/b/audio-output-mic-input-iconnect-world-original-imaedzseybvvptvv.jpeg",
+                "filename": "audio-output-mic-input-iconnect-world-original-imaedzseybvvptvv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/w/8/b/audio-output-mic-input-iconnect-world-original-imaecnj8z226qzdm.jpeg",
+                "filename": "audio-output-mic-input-iconnect-world-original-imaecnj8z226qzdm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/w/8/b/audio-output-mic-input-iconnect-world-original-imaecnj7saahyrrr.jpeg",
+                "filename": "audio-output-mic-input-iconnect-world-original-imaecnj7saahyrrr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/w/8/b/audio-output-mic-input-iconnect-world-original-imaecnj7ngceby3a.jpeg",
+                "filename": "audio-output-mic-input-iconnect-world-original-imaecnj7ngceby3a.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Iconnect World"] },
+              { "key": "Type", "values": ["Sound Card"] },
+              { "key": "System Requirements", "values": ["USB 2.0"] },
+              { "key": "Material", "values": ["Plastic"] },
+              {
+                "key": "Model Name",
+                "values": ["Sound 7.1 Channel Hi Speed External"]
+              },
+              { "key": "Model ID", "values": ["Audio Card Adapter"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["External Sound Card"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "944b0dd92ff8c2dc4d6b08e7fe38e9ecf4ff6e3b"
+    },
+    {
+      "product": {
+        "id": "70b389045d32b0d77bfced1e181cdf5b53f35b91",
+        "name": "Stuffcool Troop Type C USB USB Hub",
+        "description": "Dummy description for product Stuffcool Troop Type C USB USB Hub",
+        "manufacturer_id": "c5aafddf88c2a08eb3232be0b6d2ab2db244f7da",
+        "taric_code": "e2f5b6d1-b8e6-4aa0-ae5a-60901311162f",
+        "variants": [
+          {
+            "id": "a5867fc74244b27f8cd4f1296f8c001d",
+            "name": "Stuffcool USB Gadgets",
+            "description": "Buy Stuffcool Troop Type C USB USB Hub for Rs.1898 online. Stuffcool Troop Type C USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 534,
+            "price": 1898,
+            "sale": true,
+            "sale_price": 1898,
+            "stock_keeping_unit": "USGEE2GJUPSEKRHY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/r/h/y/type-c-stuffcool-1100x1100-imaeeffth7avr39m.jpeg",
+                "filename": "type-c-stuffcool-1100x1100-imaeeffth7avr39m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/r/h/y/type-c-stuffcool-original-imaeeffth7avr39m.jpeg",
+                "filename": "type-c-stuffcool-original-imaeeffth7avr39m.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/r/h/y/type-c-stuffcool-original-imaeefft7zqgkzcg.jpeg",
+                "filename": "type-c-stuffcool-original-imaeefft7zqgkzcg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/r/h/y/type-c-stuffcool-original-imaeefft5ydnmjrb.jpeg",
+                "filename": "type-c-stuffcool-original-imaeefft5ydnmjrb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/r/h/y/type-c-stuffcool-original-imaeefftz6rnygzv.jpeg",
+                "filename": "type-c-stuffcool-original-imaeefftz6rnygzv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/r/h/y/type-c-stuffcool-original-imaeefft35dzeuwy.jpeg",
+                "filename": "type-c-stuffcool-original-imaeefft35dzeuwy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Stuffcool"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              { "key": "System Requirements", "values": ["4 Port USB 3.0"] },
+              { "key": "Material", "values": ["ABS Material"] },
+              { "key": "Model Name", "values": ["Troop"] },
+              { "key": "Model ID", "values": ["Type C"] },
+              { "key": "Color", "values": ["Silver"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["6 Months Manufacturing Warranty"]
+              },
+              { "key": "Sales Package", "values": ["1 USB Gadget"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "70b389045d32b0d77bfced1e181cdf5b53f35b91"
+    },
+    {
+      "product": {
+        "id": "11fe5ab69186b7a905ae10e0fa8d98b062fe41d1",
+        "name": "Crystle Crystle01 CRSTL - LED Light USB Led Light",
+        "description": "Dummy description for product Crystle Crystle01 CRSTL - LED Light USB Led Light",
+        "manufacturer_id": "b856aa0ff52d7e4f97c752b72b2c36f6f61b37f1",
+        "taric_code": "853762c8-b9cc-45e0-b071-6307875fec2f",
+        "variants": [
+          {
+            "id": "6709de6012de48e0f266dcc2f9072575",
+            "name": "Crystle USB Gadgets",
+            "description": "Buy Crystle Crystle01 CRSTL - LED Light USB Led Light for Rs.169 online. Crystle Crystle01 CRSTL - LED Light USB Led Light at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8150,
+            "price": 300,
+            "sale": false,
+            "sale_price": 169,
+            "stock_keeping_unit": "USGEDJH2SZAZAYC2",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/y/c/2/crstl-led-light-crystle-1100x1100-imaed6nqxhtzx7qf.jpeg",
+                "filename": "crstl-led-light-crystle-1100x1100-imaed6nqxhtzx7qf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/y/c/2/crstl-led-light-crystle-original-imaed6nqxhtzx7qf.jpeg",
+                "filename": "crstl-led-light-crystle-original-imaed6nqxhtzx7qf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/y/c/2/crstl-led-light-crystle-original-imaed6nqtdcefg7m.jpeg",
+                "filename": "crstl-led-light-crystle-original-imaed6nqtdcefg7m.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/y/c/2/crstl-led-light-crystle-original-imaed6nqjhfpwwgj.jpeg",
+                "filename": "crstl-led-light-crystle-original-imaed6nqjhfpwwgj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Crystle"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "Model Name", "values": ["Crystle01"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["USB Port V2.16"] },
+              { "key": "Model ID", "values": ["CRSTL - LED Light"] },
+              { "key": "Color", "values": ["Orange", "Pink"] },
+              { "key": "Sales Package", "values": ["USB LED Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "11fe5ab69186b7a905ae10e0fa8d98b062fe41d1"
+    },
+    {
+      "product": {
+        "id": "e4592c539c7338d29ca1d83b56f2cf6884f56592",
+        "name": "Petshop7 PS7BED000427 S Pet Bed",
+        "description": "Dummy description for product Petshop7 PS7BED000427 S Pet Bed",
+        "manufacturer_id": "14a0093c33b45b6a30a93a13c949caaa2921d6ed",
+        "taric_code": "c1ca766f-c482-4f1a-9fd1-d5868fdccb4f",
+        "variants": [
+          {
+            "id": "e45755f0d3cdd19c749c8be2d3ed5851",
+            "name": "Pet Furniture",
+            "description": "Buy Petshop7 PS7BED000427 S Pet Bed for Rs.1299 online. Petshop7 PS7BED000427 S Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8487,
+            "price": 2099,
+            "sale": false,
+            "sale_price": 1299,
+            "stock_keeping_unit": "PEBEBG4ZTGYXZSRG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/s/r/g/ps7bed000427-petshop7-s-original-imaebgzdxtk6w8hy.jpeg",
+                "filename": "ps7bed000427-petshop7-s-original-imaebgzdxtk6w8hy.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "de98ba3e-8009-4c4a-b3a8-edb1b1fcfd4b",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand Color", "values": ["Blue"] },
+              { "key": "Brand", "values": ["Petshop7"] },
+              { "key": "Model Number", "values": ["PS7BED000427"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Material", "values": ["Foam Basket"] },
+              { "key": "Bed Type", "values": ["Enclosed"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Size", "values": ["S"] },
+              { "key": "Height", "values": ["19 cm"] },
+              { "key": "Width", "values": ["58 cm"] },
+              { "key": "Depth", "values": ["16.5 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "e4592c539c7338d29ca1d83b56f2cf6884f56592"
+    },
+    {
+      "product": {
+        "id": "2c0b738aae470458b09641178e8f4a56756e3c62",
+        "name": "Fonokase SU100 SU100 USB USB Charger",
+        "description": "Dummy description for product Fonokase SU100 SU100 USB USB Charger",
+        "manufacturer_id": "e77c4f20381db97cecdcd0dee71da4cabb7a6eac",
+        "taric_code": "1253d8fd-b14f-4586-b16d-a8a1b55bcb7d",
+        "variants": [
+          {
+            "id": "d86f260ff28af531443f822c11746521",
+            "name": "Fonokase USB Gadgets",
+            "description": "Buy Fonokase SU100 SU100 USB USB Charger for Rs.480 online. Fonokase SU100 SU100 USB USB Charger at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3431,
+            "price": 599,
+            "sale": false,
+            "sale_price": 480,
+            "stock_keeping_unit": "USGEE39ZKAU9DDA3",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/d/a/3/su100-fonokase-original-imaee3y2gpjxsep4.jpeg",
+                "filename": "su100-fonokase-original-imaee3y2gpjxsep4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/d/a/3/su100-fonokase-original-imaee3y2b8x5kttj.jpeg",
+                "filename": "su100-fonokase-original-imaee3y2b8x5kttj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Fonokase"] },
+              { "key": "Type", "values": ["USB Charger"] },
+              { "key": "Model Name", "values": ["SU100"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["Dual USB 2.1Amp"] },
+              { "key": "Model ID", "values": ["SU100"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Width", "values": ["2 cm"] },
+              { "key": "Depth", "values": ["5 cm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["06 Months warranty for any technical defect"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["06 Months warranty for any technical defect"]
+              },
+              { "key": "Warranty Service Type", "values": ["On-site"] },
+              { "key": "Powered by", "values": ["USB"] },
+              { "key": "Sales Package", "values": ["USB Gadget"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "2c0b738aae470458b09641178e8f4a56756e3c62"
+    },
+    {
+      "product": {
+        "id": "c5234e532a5185ebe26365ffffa60202e921d319",
+        "name": "Iconnect World 3D Dual 7.1 Virtual Channel Audio Adapter USB Sound Card",
+        "description": "Dummy description for product Iconnect World 3D Dual 7.1 Virtual Channel Audio Adapter USB Sound Card",
+        "manufacturer_id": "a9f9f4fcfbfb05fdbcc79db766f6656cb7cbbbf1",
+        "taric_code": "5dbe51e3-7773-44df-a502-6b07cfec19e3",
+        "variants": [
+          {
+            "id": "bb7e45891813df61c0202068670eb852",
+            "name": "Iconnect World USB Gadgets",
+            "description": "Iconnect World 3D Dual 7.1 Virtual Channel Audio Adapter USB Sound Card (Black)\n                         Price: Rs. 449\n\t\t\t\t\n\t\t\t\"1.Dual headphone and microphone interfaces.\n\n2.Two little LED lights to display working stations.\n\n3.The microphone recording function.\n\n4.Karaoke function.\n\n5.Dynamic rotating sound field.\n\n6.Multichannel technology to realize the 7.1 channel of dynamic sound.\n\n7.Speaker and headphone mode switch function freedom.\n\n8.Simulation speaker position free adjustment function.\n\n9.Sound Mixer function.\n\n10.Output level adjustment.\n\n11.Put analog signal (microphone and CD, MP3, TV, radio line signal etc) into digital signals and preserve function.\n\n12.Real USB Plug & Play.\n\n13.Drive 2CH speakers Directly & support 3D positional sound and virtual 5.1 CH sound track.\n\n14.Use USB port power Directly.\n\n15.External power adapter NO NEED.\n\n16. Support the common speakers or headset, with two pairs of microphone holes.\n\n17. Function keys: Microphone mute, speaker, mute, volume, volume down.\n\n18.Speaker and headphone mode switch function freedom.\n\n19.Simulation speaker position free adjustment function.\n\n20. volume adjust buttons, convenient to control volume.\n\n21.Double mute switch button: the microphone mute buttons and sound output mute buttons.\n\n22.Lovable with special appearance.\"\n\"1.Dual headphone and microphone interfaces.\n\n2.Two little LED lights to display working stations.\n\n3.The microphone recording function.\n\n4.Karaoke function.\n\n5.Dynamic rotating sound field.\n\n6.Multichannel technology to realize the 7.1 channel of dynamic sound.\n\n7.Speaker and headphone mode switch function freedom.\n\n8.Simulation speaker position free adjustment function.\n\n9.Sound Mixer function.\n\n10.Output level adjustment.\n\n11.Put analog signal (microphone and CD, MP3, TV, radio line signal etc) into digital signals and preserve function.\n\n12.Real USB Plug & Play.\n\n13.Drive 2CH speakers Directly & support 3D positional sound and virtual 5.1 CH sound track.\n\n14.Use USB port power Directly.\n\n15.External power adapter NO NEED.\n\n16. Support the common speakers or headset, with two pairs of microphone holes.\n\n17. Function keys: Microphone mute, speaker, mute, volume, volume down.\n\n18.Speaker and headphone mode switch function freedom.\n\n19.Simulation speaker position free adjustment function.\n\n20. volume adjust buttons, convenient to control volume.\n\n21.Double mute switch button: the microphone mute buttons and sound output mute buttons.\n\n22.Lovable with special appearance.\"",
+            "stock_level": 5321,
+            "price": 700,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "USGEDZYR9XGUFNWZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/n/w/z/audio-adapter-iconnect-world-1100x1100-imaecmj8zkbbmhvn.jpeg",
+                "filename": "audio-adapter-iconnect-world-1100x1100-imaecmj8zkbbmhvn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/n/w/z/audio-adapter-iconnect-world-original-imaecmj8zkbbmhvn.jpeg",
+                "filename": "audio-adapter-iconnect-world-original-imaecmj8zkbbmhvn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/n/w/z/audio-adapter-iconnect-world-original-imaecmj8deww8vsk.jpeg",
+                "filename": "audio-adapter-iconnect-world-original-imaecmj8deww8vsk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/n/w/z/audio-adapter-iconnect-world-original-imaecmj8vn8rng4b.jpeg",
+                "filename": "audio-adapter-iconnect-world-original-imaecmj8vn8rng4b.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/n/w/z/audio-adapter-iconnect-world-original-imaecmj7zx8amyev.jpeg",
+                "filename": "audio-adapter-iconnect-world-original-imaecmj7zx8amyev.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/n/w/z/audio-adapter-iconnect-world-original-imaecmj7vunzmvuv.jpeg",
+                "filename": "audio-adapter-iconnect-world-original-imaecmj7vunzmvuv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Iconnect World"] },
+              { "key": "Type", "values": ["Sound Card"] },
+              { "key": "System Requirements", "values": ["USB Port 2.0"] },
+              { "key": "Material", "values": ["Plastic"] },
+              {
+                "key": "Model Name",
+                "values": ["3D Dual 7.1 Virtual Channel"]
+              },
+              { "key": "Model ID", "values": ["Audio Adapter"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["External Sound Card"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "c5234e532a5185ebe26365ffffa60202e921d319"
+    },
+    {
+      "product": {
+        "id": "e09de099a43de427eab13536f7e0e39b2c39043e",
+        "name": "JJC LH-J40B  Lens Hood",
+        "description": "Dummy description for product JJC LH-J40B  Lens Hood",
+        "manufacturer_id": "a154c7b03f47778772f359bfc6d228024e3309f9",
+        "taric_code": "81881955-eb8c-41c5-ada4-4a18720f1332",
+        "variants": [
+          {
+            "id": "6a24d184e1585a1afe564250545c4428",
+            "name": "JJC Lens Hoods",
+            "description": "Buy JJC LH-J40B  Lens Hood only for Rs. 2250 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6528,
+            "price": 2250,
+            "sale": true,
+            "sale_price": 2250,
+            "stock_keeping_unit": "ACCDVFK6JVHVTSHM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/s/h/m/jjc-lh-j40b-original-imadvfhfnvtwqz7k.jpeg",
+                "filename": "jjc-lh-j40b-original-imadvfhfnvtwqz7k.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/s/h/m/jjc-lh-j40b-original-imadvfhfr2j7nrs8.jpeg",
+                "filename": "jjc-lh-j40b-original-imadvfhfr2j7nrs8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Bayonet"] },
+              { "key": "Brand", "values": ["JJC"] },
+              { "key": "Shape", "values": ["Round"] },
+              {
+                "key": "Designed For",
+                "values": ["Olympus M.ZUIKO DIGITAL 45mm 1:1.8"]
+              },
+              { "key": "Model Number", "values": ["LH-J40B"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["Lens Hood"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "e09de099a43de427eab13536f7e0e39b2c39043e"
+    },
+    {
+      "product": {
+        "id": "4f58f28ff5fb3f3dca0e3fe88458de073f933897",
+        "name": "Omax Bayonet HB-69 & LH-37 For Nikon 18-55mm & 55-200mm Combo  Lens Hood",
+        "description": "Dummy description for product Omax Bayonet HB-69 & LH-37 For Nikon 18-55mm & 55-200mm Combo  Lens Hood",
+        "manufacturer_id": "1a8fda9dc2d2b7a36302d4b0aee0c3460212b0da",
+        "taric_code": "709a6ef3-df69-4cc8-b34f-16c0e3100792",
+        "variants": [
+          {
+            "id": "080fa1437696615296915de122733e64",
+            "name": "Omax Lens Hoods",
+            "description": "Buy Omax Bayonet HB-69 & LH-37 For Nikon 18-55mm & 55-200mm Combo  Lens Hood only for Rs. 1045 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7930,
+            "price": 1450,
+            "sale": false,
+            "sale_price": 1045,
+            "stock_keeping_unit": "ACCEC8AVAB6YAB3D",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/b/3/d/omax-bayonet-hb-69-lh-37-for-nikon-18-55mm-55-200mm-combo-1100x1100-imaec2czzzhfkhcn.jpeg",
+                "filename": "omax-bayonet-hb-69-lh-37-for-nikon-18-55mm-55-200mm-combo-1100x1100-imaec2czzzhfkhcn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/b/3/d/omax-bayonet-hb-69-lh-37-for-nikon-18-55mm-55-200mm-combo-original-imaec2czzzhfkhcn.jpeg",
+                "filename": "omax-bayonet-hb-69-lh-37-for-nikon-18-55mm-55-200mm-combo-original-imaec2czzzhfkhcn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/d/f/x/omax-bayonet-lh-37-for-nikkon-55-200mm-vr-ii-original-imaee83tgksfeej8.jpeg",
+                "filename": "omax-bayonet-lh-37-for-nikkon-55-200mm-vr-ii-original-imaee83tgksfeej8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/b/3/d/omax-bayonet-hb-69-lh-37-for-nikon-18-55mm-55-200mm-combo-original-imaedp5ddzvguzgf.jpeg",
+                "filename": "omax-bayonet-hb-69-lh-37-for-nikon-18-55mm-55-200mm-combo-original-imaedp5ddzvguzgf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Bayonet"] },
+              { "key": "Brand", "values": ["Omax"] },
+              { "key": "Shape", "values": ["Round"] },
+              {
+                "key": "Designed For",
+                "values": ["Nikon 18-55mm", "Nikon55-200mm Vr Ii"]
+              },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Bayonet HB-69 and LH-37 For Nikon 18-55mm and 55-200mm Combo"
+                ]
+              },
+              { "key": "Filter Thread Size", "values": ["52 mm"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["2 Lens Hood"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "4f58f28ff5fb3f3dca0e3fe88458de073f933897"
+    },
+    {
+      "product": {
+        "id": "977a1a9bec1bd2bbc04fd83831e31a3b354928d0",
+        "name": "Memore Portable and Flexible MMULL-White USB Led Light",
+        "description": "Dummy description for product Memore Portable and Flexible MMULL-White USB Led Light",
+        "manufacturer_id": "f92c940b45dd298c6b90dae54fd2613c263124d3",
+        "taric_code": "9e93ecfb-0bd1-4c42-a166-225bfcb7b4d7",
+        "variants": [
+          {
+            "id": "4354b7418ee0fab2fd9f8eb493556529",
+            "name": "Memore USB Gadgets",
+            "description": "Memore Portable and Flexible MMULL-White USB Led Light (White)\n                         Price: Rs. 195\n\t\t\t\t\n\t\t\t1. 100% Brand New And High Quality. 2. Perfect Fit For Reading. 3. Light Weight And Durable Cover. 4. Portable And Multiple Choice Of Color. 5. Flexible And Easy Clean. 6. Rated Voltage: 5v 7. Rated Power: 1.2w 8. Size: 170*18.5*9mm 9. Can Be Use On Any Where,Powered By Any Devices With Usb Port 10. Ultra Bright With Low Power Consumption 11. Unique Bendable Design,Also Has Light Weight 12. Material: Silicone\n1. 100% Brand New And High Quality. 2. Perfect Fit For Reading. 3. Light Weight And Durable Cover. 4. Portable And Multiple Choice Of Color. 5. Flexible And Easy Clean. 6. Rated Voltage: 5v 7. Rated Power: 1.2w 8. Size: 170*18.5*9mm 9. Can Be Use On Any Where,Powered By Any Devices With Usb Port 10. Ultra Bright With Low Power Consumption 11. Unique Bendable Design,Also Has Light Weight 12. Material: Silicone",
+            "stock_level": 7684,
+            "price": 499,
+            "sale": false,
+            "sale_price": 195,
+            "stock_keeping_unit": "USGEE3GGGGYWM8ZZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/8/z/z/mmull-white-memore-original-imae8798wjtyupjn.jpeg",
+                "filename": "mmull-white-memore-original-imae8798wjtyupjn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/8/z/z/mmull-white-memore-original-imae8798wjtyupjn.jpeg",
+                "filename": "mmull-white-memore-original-imae8798wjtyupjn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Lamp Adjustment", "values": ["Flexible"] },
+              { "key": "Brand", "values": ["Memore"] },
+              { "key": "Type", "values": ["Led Light"] },
+              { "key": "System Requirements", "values": ["USB Port v1.0"] },
+              { "key": "Material", "values": ["Silicon"] },
+              { "key": "Model Name", "values": ["Portable and Flexible"] },
+              { "key": "Model ID", "values": ["MMULL-White"] },
+              { "key": "Color", "values": ["White"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Does Not Covered Manufacturer Warranty"]
+              },
+              { "key": "Weight", "values": ["77 g"] },
+              { "key": "Height", "values": ["12.7 cm"] },
+              { "key": "Width", "values": ["2.5 cm"] },
+              { "key": "Depth", "values": ["82 cm"] },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 USB LED Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "977a1a9bec1bd2bbc04fd83831e31a3b354928d0"
+    },
+    {
+      "product": {
+        "id": "8dcf171618f70484073050ae66005e6f3e035e8c",
+        "name": "Speed 3.0 4Port With Switch & Light 4PSW USB USB Hub",
+        "description": "Dummy description for product Speed 3.0 4Port With Switch & Light 4PSW USB USB Hub",
+        "manufacturer_id": "2b91f5fafbbbebc8e9b94d5812fba46055353d00",
+        "taric_code": "ededf1d8-3658-4143-ab54-5f0b99ffef27",
+        "variants": [
+          {
+            "id": "7eeaf042a9373ba520c16e712ec0d73e",
+            "name": "Speed USB Gadgets",
+            "description": "Buy Speed 3.0 4Port With Switch & Light 4PSW USB USB Hub for Rs.699 online. Speed 3.0 4Port With Switch & Light 4PSW USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1669,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "USGECWP8ABWKGGBB",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/g/b/b/4psw-speed-1100x1100-imaecu3vwg97fwng.jpeg",
+                "filename": "4psw-speed-1100x1100-imaecu3vwg97fwng.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/g/b/b/4psw-speed-original-imaecu3vwg97fwng.jpeg",
+                "filename": "4psw-speed-original-imaecu3vwg97fwng.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/g/b/b/4psw-speed-original-imaecu3vxzubbxyg.jpeg",
+                "filename": "4psw-speed-original-imaecu3vxzubbxyg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Speed"] },
+              { "key": "Light Color", "values": ["Blue"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              {
+                "key": "Control Features",
+                "values": ["On Off Switch Each Port"]
+              },
+              {
+                "key": "Model Name",
+                "values": ["3.0 4Port With Switch and Light"]
+              },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "System Requirements", "values": ["Usb Port 1.1"] },
+              { "key": "Model ID", "values": ["4PSW"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Weight", "values": ["50 g"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty Of The Product Is Limited To Manufacturing Defects Only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["One Months Warranty For Manufacturing Defects Only"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Service Centre Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty Does Not Cover Any Damage Due Voltage Fluctuations"
+                ]
+              },
+              { "key": "Inbuilt Battery", "values": ["No"] },
+              { "key": "Input Power", "values": ["5 W"] },
+              { "key": "Rechargeable", "values": ["No"] },
+              { "key": "Power Requirement", "values": ["Usb 5V"] },
+              { "key": "Powered by", "values": ["Usb"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["1 Usb Hub 3.0", "1 Usb Cable 3.0"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "8dcf171618f70484073050ae66005e6f3e035e8c"
+    },
+    {
+      "product": {
+        "id": "6be4961e51d79719eebd4ed90e81ca9d9c43ee7b",
+        "name": "Saviour HPSAV VG Y Vanguard -Yellow Construction Helmet",
+        "description": "Dummy description for product Saviour HPSAV VG Y Vanguard -Yellow Construction Helmet",
+        "manufacturer_id": "5fb97695e58d6db6ac4539af9c490d9daf02a27e",
+        "taric_code": "41ef1b6d-7280-4859-a7c6-66c0e0ee8790",
+        "variants": [
+          {
+            "id": "4694f4fe5709313ab425e97f4a3ea4e0",
+            "name": "Safety Helmets",
+            "description": "Saviour HPSAV VG Y Vanguard -Yellow Construction Helmet (Size - M)\n                         Price: Rs. 173\n\t\t\t\t\n\t\t\tSaviour Vanguard Industrial Helmet made of high impact, Heat and Chemical resistant HDPE polymer with 6-point adjustable and comfortable Head harness in ratchet fittings with high absorption and washable Sweatband. Comes with high tensile Nylon Chin strap with special structure brim design.\nSaviour Vanguard Industrial Helmet made of high impact, Heat and Chemical resistant HDPE polymer with 6-point adjustable and comfortable Head harness in ratchet fittings with high absorption and washable Sweatband. Comes with high tensile Nylon Chin strap with special structure brim design.",
+            "stock_level": 5181,
+            "price": 207,
+            "sale": false,
+            "sale_price": 173,
+            "stock_keeping_unit": "SHMECQWKZVRQJVY7",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/safety-helmet/v/y/7/hpsav-vg-y-saviour-m-1100x1100-imaecqq896eupcqg.jpeg",
+                "filename": "hpsav-vg-y-saviour-m-1100x1100-imaecqq896eupcqg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/safety-helmet/v/y/7/hpsav-vg-y-saviour-m-original-imaecqq896eupcqg.jpeg",
+                "filename": "hpsav-vg-y-saviour-m-original-imaecqq896eupcqg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Strap Type", "values": ["Nylon Chin Strap"] },
+              {
+                "key": "Shell Material",
+                "values": ["Ratchet type Harness Adjusment"]
+              },
+              { "key": "Suspension Type", "values": ["6 POINT"] },
+              { "key": "Number of Vents", "values": ["6"] },
+              { "key": "Brand", "values": ["Saviour"] },
+              { "key": "Protects", "values": ["Head", "Neck", "Ears"] },
+              { "key": "Model Number", "values": ["HPSAV VG Y"] },
+              { "key": "Design Type", "values": ["Half Face"] },
+              { "key": "Type", "values": ["Construction Helmet"] },
+              { "key": "Model Name", "values": ["Vanguard -Yellow"] },
+              { "key": "Certification", "values": ["ISI CE IS"] },
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Size", "values": ["M"] },
+              { "key": "Color", "values": ["Yellow"] },
+              {
+                "key": "17dc8a78-8306-4c5a-b826-124c72ad5d97",
+                "values": ["1 Safety Helmet"]
+              },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Warrenty Of the Products is Limited"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year India Warrenty"]
+              },
+              { "key": "Diameter", "values": ["15 cm"] },
+              { "key": "Weight", "values": ["300 g"] },
+              {
+                "key": "Other Dimensions",
+                "values": [
+                  "Compliance : CE and ISI marked IS 2925:1984 / EN:397"
+                ]
+              },
+              { "key": "Height", "values": ["15 cm"] },
+              { "key": "Width", "values": ["15 cm"] },
+              { "key": "Depth", "values": ["6 cm"] },
+              {
+                "key": "Other Welding Helmet Feaures",
+                "values": ["Sensitivity Control"]
+              },
+              { "key": "Auto On/Off", "values": ["No"] },
+              { "key": "Digital Display", "values": ["No"] },
+              { "key": "Number of Arc Sensors", "values": ["6"] },
+              { "key": "Operating Modes", "values": ["Weld", "CUt", "Grind"] },
+              { "key": "Replaceable Parts", "values": ["Washable Sweatbands"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Helmet made of high impact",
+                  "pin-lock fittings with high absorption",
+                  "washable Sweatband",
+                  "Nylon Chin strap with special structure brim design"
+                ]
+              },
+              { "key": "Noise reduction", "values": ["No"] },
+              { "key": "UV Protection", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "aa0b1ab84c125c6556ea6a2c4ac03d1116862b50" }
+      },
+      "active": true,
+      "id": "6be4961e51d79719eebd4ed90e81ca9d9c43ee7b"
+    },
+    {
+      "product": {
+        "id": "779a515c67cdfaa54106b72a2f965ae8698756c6",
+        "name": "Lal Pet Products Lal1444 S Pet Bed",
+        "description": "Dummy description for product Lal Pet Products Lal1444 S Pet Bed",
+        "manufacturer_id": "79c61a3d7dbfad8c185f6d88ac1bb6de6df66984",
+        "taric_code": "9efee5fd-e5a1-4775-996a-5e3f62e2e2b6",
+        "variants": [
+          {
+            "id": "9e6dfa82b6ec15176d50c329431c47d3",
+            "name": "Pet Furniture",
+            "description": "Buy Lal Pet Products Lal1444 S Pet Bed for Rs.1399 online. Lal Pet Products Lal1444 S Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1446,
+            "price": 1399,
+            "sale": false,
+            "sale_price": 1399,
+            "stock_keeping_unit": "PEBEBQCZYNAHTMRS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/m/r/s/lal1444-lal-pet-products-s-1100x1100-imaebzqkhtr4apcp.jpeg",
+                "filename": "lal1444-lal-pet-products-s-1100x1100-imaebzqkhtr4apcp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/m/r/s/lal1444-lal-pet-products-s-original-imaebzqkhtr4apcp.jpeg",
+                "filename": "lal1444-lal-pet-products-s-original-imaebzqkhtr4apcp.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "2ab14fdb-e730-4339-8bdf-2f4473d61135",
+                "values": ["1 Pet Bed", "1 Cushion"]
+              },
+              { "key": "Pet Type", "values": ["Dog"] },
+              { "key": "Brand", "values": ["Lal Pet Products"] },
+              { "key": "Brand Color", "values": ["Black", "Red"] },
+              { "key": "Model Number", "values": ["Lal1444"] },
+              { "key": "Material", "values": ["Wool", "Ployester"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Size", "values": ["S"] },
+              { "key": "Color", "values": ["Black", "Red"] },
+              { "key": "Bed Type", "values": ["Bolster"] },
+              { "key": "Height", "values": ["19 cm"] },
+              { "key": "Width", "values": ["54 cm"] },
+              { "key": "Depth", "values": ["54 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "779a515c67cdfaa54106b72a2f965ae8698756c6"
+    },
+    {
+      "product": {
+        "id": "6d9385264528af526ef817ee74785f4b10f9a2da",
+        "name": "JJC LH-AB003  Lens Hood",
+        "description": "Dummy description for product JJC LH-AB003  Lens Hood",
+        "manufacturer_id": "a154c7b03f47778772f359bfc6d228024e3309f9",
+        "taric_code": "cc07942b-ebb1-4667-b5d6-6abb125384e9",
+        "variants": [
+          {
+            "id": "eb743cfea13f85dba803ee5180d97a24",
+            "name": "JJC Lens Hoods",
+            "description": "JJC LH-AB003  Lens Hood (62 mm, Black)\n                         Price: Rs. 1,499\n\t\t\t\t\n\t\t\tLens Hood Is One Of The Most Important Accessories For Each Lens You Own. A Lens Hood Provides Multiple Functions: It Shades The Lens From Stray Light, Improving Your Contrast And Image Quality; In Inclement Weather, It Can Assist In Keeping Moisture Or Wind-Blown Debris Off The Lens; And It Protects The Front Barrel From The Inevitable Impacts Against Walls, Door Frames, And Other Real-Life Obstacles.\nLens Hood Is One Of The Most Important Accessories For Each Lens You Own. A Lens Hood Provides Multiple Functions: It Shades The Lens From Stray Light, Improving Your Contrast And Image Quality; In Inclement Weather, It Can Assist In Keeping Moisture Or Wind-Blown Debris Off The Lens; And It Protects The Front Barrel From The Inevitable Impacts Against Walls, Door Frames, And Other Real-Life Obstacles.",
+            "stock_level": 982,
+            "price": 1999,
+            "sale": true,
+            "sale_price": 1499,
+            "stock_keeping_unit": "ACCED8424FVVZB5J",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/b/5/j/jjc-lh-ab003-1100x1100-imaed7wt9yjzpabj.jpeg",
+                "filename": "jjc-lh-ab003-1100x1100-imaed7wt9yjzpabj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/b/5/j/jjc-lh-ab003-original-imaed7wt9yjzpabj.jpeg",
+                "filename": "jjc-lh-ab003-original-imaed7wt9yjzpabj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/b/5/j/jjc-lh-ab003-original-imaed7wt26tkghf4.jpeg",
+                "filename": "jjc-lh-ab003-original-imaed7wt26tkghf4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/b/5/j/jjc-lh-ab003-original-imaed7wtzzpvwssf.jpeg",
+                "filename": "jjc-lh-ab003-original-imaed7wtzzpvwssf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/b/5/j/jjc-lh-ab003-original-imaed7wttezdxnet.jpeg",
+                "filename": "jjc-lh-ab003-original-imaed7wttezdxnet.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/b/5/j/jjc-lh-ab003-original-imaed8fzheyzvfst.jpeg",
+                "filename": "jjc-lh-ab003-original-imaed8fzheyzvfst.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Screw-in"] },
+              { "key": "Shape", "values": ["Round"] },
+              { "key": "Brand", "values": ["JJC"] },
+              {
+                "key": "Designed For",
+                "values": [
+                  "Tamron B003 18-270mm F/3.5-6.3 Di Ii Vc Ld Aspherical (If) Macro Lens",
+                  "Tamron B005 17-50mm F/2.8 Di Xr Vc Ld Aspherical (If) Lens"
+                ]
+              },
+              { "key": "Model Number", "values": ["LH-AB003"] },
+              { "key": "Filter Thread Size", "values": ["62 mm"] },
+              { "key": "Material", "values": ["Abs Impact Resistant Plastic"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Covered In Warranty",
+                "values": ["Manufacture Defect Only"]
+              },
+              { "key": "Warranty Summary", "values": ["1"] },
+              {
+                "key": "Not Covered In Warranty",
+                "values": ["Physical Damage"]
+              },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Other Dimensions", "values": ["13.6x10.3x5.5cm"] },
+              {
+                "key": "4eb8912a-6b35-4e45-b850-62c564625816",
+                "values": [
+                  "Tamron B003 18-270mm F/3.5-6.3 Di Ii Vc Ld Aspherical (If) Macro Lens",
+                  "Tamron B005 17-50mm F/2.8 Di Xr Vc Ld Aspherical (If) Lens"
+                ]
+              },
+              { "key": "Sales Package", "values": ["Lens Hood", "Manual"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "6d9385264528af526ef817ee74785f4b10f9a2da"
+    },
+    {
+      "product": {
+        "id": "ff1c4401aa75f6d1488f4c9349044c2f3120f349",
+        "name": "JJC LH-62  Lens Hood",
+        "description": "Dummy description for product JJC LH-62  Lens Hood",
+        "manufacturer_id": "a154c7b03f47778772f359bfc6d228024e3309f9",
+        "taric_code": "8f9441eb-3e25-41f2-9c72-659993b16931",
+        "variants": [
+          {
+            "id": "143e2dc4ab728e3af5bcbfde3e8f19d5",
+            "name": "JJC Lens Hoods",
+            "description": "Buy JJC LH-62  Lens Hood only for Rs. 600 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8141,
+            "price": 850,
+            "sale": true,
+            "sale_price": 725,
+            "stock_keeping_unit": "ACCDDQFZF97DQHGZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/h/g/z/jjc-lh-62-original-imaddqjbbtjfhefz.jpeg",
+                "filename": "jjc-lh-62-original-imaddqjbbtjfhefz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/lens-hood/h/g/z/jjc-lh-62-original-imaddqjbbtjfhefz.jpeg",
+                "filename": "jjc-lh-62-original-imaddqjbbtjfhefz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/lens-hood/h/g/z/jjc-lh-62-original-imaddqjbhzffuexe.jpeg",
+                "filename": "jjc-lh-62-original-imaddqjbhzffuexe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["JJC"] },
+              { "key": "Model Number", "values": ["LH-62"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "400c6e47e91be92a5e7f75ab0a174dd0525d13a3" }
+      },
+      "active": true,
+      "id": "ff1c4401aa75f6d1488f4c9349044c2f3120f349"
+    },
+    {
+      "product": {
+        "id": "92a1bc4f5fef8c20a73c4edd0c62d85de733e2e2",
+        "name": "SahiBUY Fan With Lamp White HY-8738 USB USB Fan",
+        "description": "Dummy description for product SahiBUY Fan With Lamp White HY-8738 USB USB Fan",
+        "manufacturer_id": "937b17fee50de5953a375e54dbf157d32f19e0bd",
+        "taric_code": "53d65dc9-b580-4706-b47e-8a895a1b2cc3",
+        "variants": [
+          {
+            "id": "0dc1b9b643668cb24b83924a5f8276fc",
+            "name": "SahiBUY USB Gadgets",
+            "description": "SahiBUY Fan With Lamp White HY-8738 USB USB Fan (White)\n                         Price: Rs. 598\n\t\t\t\t\n\t\t\t• Usb Power Cooling And Lighting In One Device For Home Office. • The Led Usb Desk Lamp And Fan Is A Portable And Multi-Directional Light And Fan. • Powered Via Usb It'S A Great Personal Lighting And Cooling Solution For Use With Your Notebook Or Desktop Computer. • For Convenient Use The Lamp And Fan Both Have Individual On/Off Switches And Adjustable Goose-Necks So You Can Use Either Or Both At Just The Angle You Need. • Get Better Lighting And Portable Cooling While You Work At Your Computer With The Led Usb Desk Lamp And Fan. • Energy Saving Lamp Cum Fan. • Adjustable Flexible Neck, Enough To Adjust At Your Comfort. • Soft Fan Blades For Safety Conveniently Powered By Usb/Usb Hub. • Dimension: 8.7x 10.5x 24cm (Lxwxh) Approx. • Weight: 135g Approx • Usb Wire Length: 90cm Long Approx. • In The Box: 1x Usb Fan Cum Table Lamp. • Requires: 3x Aaa Batteries (Not Included)\n• Usb Power Cooling And Lighting In One Device For Home Office. • The Led Usb Desk Lamp And Fan Is A Portable And Multi-Directional Light And Fan. • Powered Via Usb It'S A Great Personal Lighting And Cooling Solution For Use With Your Notebook Or Desktop Computer. • For Convenient Use The Lamp And Fan Both Have Individual On/Off Switches And Adjustable Goose-Necks So You Can Use Either Or Both At Just The Angle You Need. • Get Better Lighting And Portable Cooling While You Work At Your Computer With The Led Usb Desk Lamp And Fan. • Energy Saving Lamp Cum Fan. • Adjustable Flexible Neck, Enough To Adjust At Your Comfort. • Soft Fan Blades For Safety Conveniently Powered By Usb/Usb Hub. • Dimension: 8.7x 10.5x 24cm (Lxwxh) Approx. • Weight: 135g Approx • Usb Wire Length: 90cm Long Approx. • In The Box: 1x Usb Fan Cum Table Lamp. • Requires: 3x Aaa Batteries (Not Included)",
+            "stock_level": 6028,
+            "price": 902,
+            "sale": false,
+            "sale_price": 598,
+            "stock_keeping_unit": "USGECHVGUHTZHTE9",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/t/e/9/hy-8738-sahibuy-original-imaebgwyesrupjsj.jpeg",
+                "filename": "hy-8738-sahibuy-original-imaebgwyesrupjsj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/t/e/9/hy-8738-sahibuy-original-imaebgwfmd9f3yaz.jpeg",
+                "filename": "hy-8738-sahibuy-original-imaebgwfmd9f3yaz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/t/e/9/hy-8738-sahibuy-original-imaebgw3kjz5vnck.jpeg",
+                "filename": "hy-8738-sahibuy-original-imaebgw3kjz5vnck.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["SahiBUY"] },
+              { "key": "Light Color", "values": ["White"] },
+              { "key": "Type", "values": ["USB Fan"] },
+              { "key": "System Requirements", "values": ["USB"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Model Name", "values": ["Fan With Lamp White"] },
+              { "key": "Model ID", "values": ["HY-8738"] },
+              { "key": "Color", "values": ["White"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty Of The Product Is Limited To Manufacturing Defects Only"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Month Warranty Against Manufacturing Defect"]
+              },
+              { "key": "Warranty Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty Does Not Cover Any External Accessories (Such As Battery",
+                  "Cable",
+                  "Carrying Bag)",
+                  "Damage Caused To The Product Due To Improper Installation By Customer",
+                  "Normal Wear And Tear To Magnetic Heads",
+                  "Audio",
+                  "Video",
+                  "Laser Pick-Ups And Tv Picture Tubes",
+                  "Panel",
+                  "Damages Caused To The Product By Accident,...View More Warranty Does Not Cover Any External Accessories (Such As Battery",
+                  "Cable",
+                  "Carrying Bag)",
+                  "Damage Caused To The Product Due To Improper Installation By Customer",
+                  "Normal Wear And Tear To Magnetic Heads",
+                  "Audio",
+                  "Video",
+                  "Laser Pick-Ups And Tv Picture Tubes",
+                  "Panel",
+                  "Damages Caused To The Product By Accident",
+                  "Lightening",
+                  "Ingress Of Water",
+                  "Fire",
+                  "Dropping Or Excessive Shock",
+                  "Any Damage Caused Due To Tampering Of The Product By An Unauthorized Agent",
+                  "Liability For Loss Of Data",
+                  "Recorded Images Or Business Opportunity Loss."
+                ]
+              },
+              { "key": "Weight", "values": ["135 g"] },
+              { "key": "Height", "values": ["24 cm"] },
+              { "key": "Width", "values": ["8.7 cm"] },
+              { "key": "Powered by", "values": ["USB"] },
+              { "key": "Battery Type", "values": ["3 AAA Batteries"] },
+              { "key": "Sales Package", "values": ["1 Usb Fan With Light"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": true,
+      "id": "92a1bc4f5fef8c20a73c4edd0c62d85de733e2e2"
+    },
+    {
+      "product": {
+        "id": "f1e2a3a14a81b21c8e1824ffae3d806ff6a25eb0",
+        "name": "Petshop7 PS7DB0040 L Pet Bed",
+        "description": "Dummy description for product Petshop7 PS7DB0040 L Pet Bed",
+        "manufacturer_id": "49f6580b962e955f9a1b4c455235c6df178854ab",
+        "taric_code": "a6a0f519-bddf-40fc-9ecc-22f0e0a8f948",
+        "variants": [
+          {
+            "id": "4c31d3dcf589b18db1b148d0ba9fd8a4",
+            "name": "Pet Furniture",
+            "description": "Buy Petshop7 PS7DB0040 L Pet Bed for Rs.1299 online. Petshop7 PS7DB0040 L Pet Bed at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5204,
+            "price": 1500,
+            "sale": true,
+            "sale_price": 1299,
+            "stock_keeping_unit": "PEBECX6PZBBZBQCQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pet-bed/j/c/z/ps7db0042-petshop7-s-original-imaecw3ah4dy9yh6.jpeg",
+                "filename": "ps7db0042-petshop7-s-original-imaecw3ah4dy9yh6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pet-bed/j/c/z/ps7db0042-petshop7-s-original-imaecw3ah4dy9yh6.jpeg",
+                "filename": "ps7db0042-petshop7-s-original-imaecw3ah4dy9yh6.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "9b63eed8-3247-4e82-8de3-736d98d0d057",
+                "values": ["1 Matress"]
+              },
+              { "key": "Pet Type", "values": ["Dog", "Cat"] },
+              { "key": "Brand Color", "values": ["Red"] },
+              { "key": "Brand", "values": ["Petshop7"] },
+              { "key": "Model Number", "values": ["PS7DB0040"] },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Material", "values": ["Foam", "Basket", "Cotton"] },
+              { "key": "Bed Type", "values": ["Mat"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Size", "values": ["L"] },
+              { "key": "Height", "values": ["6 cm"] },
+              { "key": "Width", "values": ["76 cm"] },
+              { "key": "Depth", "values": ["5 cm"] }
+            ]
+          }
+        ],
+        "category": { "id": "72af5d97af36c3c3584fb7050cf4300975cd1261" }
+      },
+      "active": true,
+      "id": "f1e2a3a14a81b21c8e1824ffae3d806ff6a25eb0"
+    },
+    {
+      "product": {
+        "id": "c06d6db8884b32908755459b7821dca32bb12fdc",
+        "name": "Black & Decker PW 1300 Electric Pressure Washer",
+        "description": "Dummy description for product Black & Decker PW 1300 Electric Pressure Washer",
+        "manufacturer_id": "503ea78c2c3e82816864c43aafd2ba6277de022a",
+        "taric_code": "85af78de-0817-4da8-939a-eea30ea62e1a",
+        "variants": [
+          {
+            "id": "70e5e8830dcb9ae0f30c516f2db039e3",
+            "name": "Car Pressure Washers",
+            "description": "Buy Black & Decker PW 1300 Electric Pressure Washer for Rs.9990 online. Black & Decker PW 1300 Electric Pressure Washer at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3390,
+            "price": 9990,
+            "sale": true,
+            "sale_price": 9990,
+            "stock_keeping_unit": "CWRE4ZUHAEQGSMGH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-pressure-washer/m/g/h/pw-1300-black-decker-original-imae4zx3fuzyjhvj.jpeg",
+                "filename": "pw-1300-black-decker-original-imae4zx3fuzyjhvj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-pressure-washer/m/g/h/pw-1300-black-decker-original-imae4zx2vbbuutuy.jpeg",
+                "filename": "pw-1300-black-decker-original-imae4zx2vbbuutuy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Portable", "values": ["Yes"] },
+              { "key": "Brand", "values": ["Black and Decker"] },
+              { "key": "Maximum Pressure", "values": ["100 Bar"] },
+              { "key": "Vehicle Model Name", "values": ["Universal For Car"] },
+              { "key": "Model Number", "values": ["PW 1300"] },
+              { "key": "Shade", "values": ["Orange", "Black"] },
+              { "key": "Vehicle Brand", "values": ["Universal For Car"] },
+              { "key": "Type", "values": ["Electric Pressure Washer"] },
+              { "key": "Hose Length", "values": ["3 m"] },
+              { "key": "Vehicle Model Year", "values": ["NA"] },
+              { "key": "Water Flow Rate", "values": ["360 L/h"] },
+              { "key": "Color", "values": ["Orange", "Black"] },
+              { "key": "Motor Power", "values": ["1300 W"] },
+              { "key": "Sales Package", "values": ["1 Car Pressure Washer"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "d823adb7f466a8b1b0d5e04ff1c541076fb41f9d" }
+      },
+      "active": true,
+      "id": "c06d6db8884b32908755459b7821dca32bb12fdc"
+    },
+    {
+      "product": {
+        "id": "0d1083bb78978b82d710a6af65addf7e995322c3",
+        "name": "Orico USB 3.0 Hub with Card Reader H3TS-U3-BK USB USB Hub",
+        "description": "Dummy description for product Orico USB 3.0 Hub with Card Reader H3TS-U3-BK USB USB Hub",
+        "manufacturer_id": "e69fcafd80ae311a4bd14b5625b5427ba7ed7a8c",
+        "taric_code": "231415bb-ba6b-4046-8029-04549f1c267e",
+        "variants": [
+          {
+            "id": "95b0779b1a04ab70d62c72b53090c4b3",
+            "name": "Orico USB Gadgets",
+            "description": "Buy Orico USB 3.0 Hub with Card Reader H3TS-U3-BK USB USB Hub for Rs.1490 online. Orico USB 3.0 Hub with Card Reader H3TS-U3-BK USB USB Hub at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1461,
+            "price": 1990,
+            "sale": false,
+            "sale_price": 1490,
+            "stock_keeping_unit": "USGEBSK8VVGZCHPF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/h/p/f/h33ts-u3-bk-orico-1100x1100-imaeb55psztajhdn.jpeg",
+                "filename": "h33ts-u3-bk-orico-1100x1100-imaeb55psztajhdn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/h/p/f/h33ts-u3-bk-orico-original-imaeb55psztajhdn.jpeg",
+                "filename": "h33ts-u3-bk-orico-original-imaeb55psztajhdn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/h/p/f/h33ts-u3-bk-orico-original-imaeb55pjqtn8wpg.jpeg",
+                "filename": "h33ts-u3-bk-orico-original-imaeb55pjqtn8wpg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/usb-gadget/h/p/f/h33ts-u3-bk-orico-original-imaeb55qg3jyaf7j.jpeg",
+                "filename": "h33ts-u3-bk-orico-original-imaeb55qg3jyaf7j.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/usb-gadget/h/p/f/h3ts-u3-bk-orico-original-imaee95ydtdgf2am.jpeg",
+                "filename": "h3ts-u3-bk-orico-original-imaee95ydtdgf2am.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Orico"] },
+              { "key": "Type", "values": ["USB Hub"] },
+              {
+                "key": "System Requirements",
+                "values": ["USB 3.0 or USB 2.0 Port"]
+              },
+              { "key": "Material", "values": ["Plastic"] },
+              {
+                "key": "Model Name",
+                "values": ["USB 3.0 Hub with Card Reader"]
+              },
+              { "key": "Model ID", "values": ["H3TS-U3-BK"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Covered in Warranty", "values": ["Technical Defects"] },
+              { "key": "Warranty Summary", "values": ["90 Days"] },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Customer Carry in warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Physical Damage"]
+              },
+              { "key": "Weight", "values": ["56 g"] },
+              { "key": "Height", "values": ["1.5 cm"] },
+              { "key": "Width", "values": ["3.9 cm"] },
+              { "key": "Depth", "values": ["10 cm"] },
+              { "key": "Powered by", "values": ["USB"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["USB 3.0 Hub with Card Reader"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ff8348d40bebe7f5c15214c329da7002a7ce78fb" }
+      },
+      "active": false,
+      "id": "0d1083bb78978b82d710a6af65addf7e995322c3"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

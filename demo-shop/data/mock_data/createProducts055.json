@@ -1,0 +1,2550 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "a7c642eebf377f42fc75aed8b05402df7f5abe62",
+        "name": "Dailyware Kadhai 1.5 L",
+        "description": "Dummy description for product Dailyware Kadhai 1.5 L",
+        "manufacturer_id": "f52f8d15d8e2166f6133fb82198c643775cbbcb0",
+        "taric_code": "c1602729-5776-46d4-b856-bd5db0e201bc",
+        "variants": [
+          {
+            "id": "90191149ce2388c516d08c4c320c5320",
+            "name": "Dailyware Woks & Kadhais",
+            "description": "Buy Dailyware Kadhai 1.5 L for Rs.589 online. Dailyware Kadhai 1.5 L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3466,
+            "price": 689,
+            "sale": false,
+            "sale_price": 589,
+            "stock_keeping_unit": "PTPDZYCE2H35GHG4",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/q/k/g/akdd-12-dailyware-original-imadzfyyy4bmffxz.jpeg",
+                "filename": "akdd-12-dailyware-original-imadzfyyy4bmffxz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/q/k/g/akdd-12-dailyware-original-imadzfyyy4bmffxz.jpeg",
+                "filename": "akdd-12-dailyware-original-imadzfyyy4bmffxz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/q/k/g/akdd-12-dailyware-original-imadzfyygcdvpgpg.jpeg",
+                "filename": "akdd-12-dailyware-original-imadzfyygcdvpgpg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Dailyware"] },
+              { "key": "Non-stick", "values": ["No"] },
+              { "key": "Model Number", "values": ["Akdd 10"] },
+              { "key": "Induction Bottom", "values": ["No"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Lid Included", "values": ["No"] },
+              { "key": "Capacity", "values": ["1.5 L"] },
+              { "key": "Handle Features", "values": ["Double Sided Handle"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["1 Kadahi"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["19 cm"] },
+              { "key": "Base Thickness", "values": ["0.29 cm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["2 years warranty on manufacturing defects only."]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "2 years warranty on manufacturing defects only. Accessories are not covered under warranty"
+                ]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Send the product back to the company address"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Accessories are not covered under warranty"]
+              },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Easy in cleaning",
+                  "Durable",
+                  "2.5 stronger than steel"
+                ]
+              },
+              { "key": "Dishwasher Safe", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "a7c642eebf377f42fc75aed8b05402df7f5abe62"
+    },
+    {
+      "product": {
+        "id": "d3f500bb3129e445c4c57fb93a48a92284b6a270",
+        "name": "MCB Exports Decorative Wooden Pot Showpiece  -  34 cm",
+        "description": "Dummy description for product MCB Exports Decorative Wooden Pot Showpiece  -  34 cm",
+        "manufacturer_id": "9a21c26633074583cb8b04af018dc841a5b132a0",
+        "taric_code": "935cb33f-4e1d-465c-8b18-f6494c787b1d",
+        "variants": [
+          {
+            "id": "5d813428d10b98f1c7f8ec95092f5dcb",
+            "name": "MCB Exports Ethnic",
+            "description": "MCB Exports Decorative Wooden Pot Showpiece  -  34 cm (Wooden, Multicolor)\n                         Price: Rs. 2,699\n\t\t\t\t\n\t\t\tWooden Multicolor Decorative Pot, Dimension: 19x19x34 cms\nWooden Multicolor Decorative Pot, Dimension: 19x19x34 cms",
+            "stock_level": 3002,
+            "price": 2999,
+            "sale": false,
+            "sale_price": 2699,
+            "stock_keeping_unit": "SHIEBY82QFGWNYTE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/y/t/e/mcb3054-mcb-exports-original-imaebxwy54rubqxu.jpeg",
+                "filename": "mcb3054-mcb-exports-original-imaebxwy54rubqxu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/y/t/e/mcb3054-mcb-exports-original-imaebxwywg6yrgjc.jpeg",
+                "filename": "mcb3054-mcb-exports-original-imaebxwywg6yrgjc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["MCB Exports"] },
+              { "key": "Model Number", "values": ["MCB3054"] },
+              { "key": "Shade", "values": ["Multicolor"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Model Name", "values": ["Decorative Wooden Pot"] },
+              { "key": "Material", "values": ["Wooden"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["1540 g"] },
+              { "key": "Height", "values": ["34 cm"] },
+              { "key": "Width", "values": ["19 cm"] },
+              { "key": "Sales Package", "values": ["1 Decorative Pot"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e5a0b7972815881a40abff7944473f2b079c776" }
+      },
+      "active": false,
+      "id": "d3f500bb3129e445c4c57fb93a48a92284b6a270"
+    },
+    {
+      "product": {
+        "id": "4dad3c457a1b29f0c03f8c739c6e44344652a0f2",
+        "name": "Vinnis Rolling Starlight Alloy, Enamel Necklace",
+        "description": "Dummy description for product Vinnis Rolling Starlight Alloy, Enamel Necklace",
+        "manufacturer_id": "6b96657dacbce58f26e1ea2a0b9fc0e72897e5a3",
+        "taric_code": "7ab3fe81-d1ac-4fc0-8422-02e22712eda3",
+        "variants": [
+          {
+            "id": "088d3d41acbe1bd2707d6480f01324bb",
+            "name": "Necklaces",
+            "description": "Vinnis Rolling Starlight Alloy, Enamel Necklace - Buy Vinnis Rolling Starlight Alloy, Enamel Necklace only for Rs. 450 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 949,
+            "price": 599,
+            "sale": false,
+            "sale_price": 450,
+            "stock_keeping_unit": "NKCE9336FXG94XTG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/x/t/g/vc1210mltn-vinnis-necklace-original-imae8yfatdvgyvek.jpeg",
+                "filename": "vc1210mltn-vinnis-necklace-original-imae8yfatdvgyvek.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/x/t/g/vc1210mltn-vinnis-necklace-original-imae8yfazt56czhj.jpeg",
+                "filename": "vc1210mltn-vinnis-necklace-original-imae8yfazt56czhj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/x/t/g/vc1210mltn-vinnis-necklace-original-imae8yfaeftq834n.jpeg",
+                "filename": "vc1210mltn-vinnis-necklace-original-imae8yfaeftq834n.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Vinnis"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["VC1210MLTN"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Rolling Starlight"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Chain/Necklace Length", "values": ["10 inch"] },
+              { "key": "Weight", "values": ["80 g"] },
+              { "key": "Base Material", "values": ["Alloy", "Enamel"] },
+              { "key": "Necklace Type", "values": ["Choker"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              { "key": "Chain Type", "values": ["Rope"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "4dad3c457a1b29f0c03f8c739c6e44344652a0f2"
+    },
+    {
+      "product": {
+        "id": "b94c49a699d57db68bb62121061292850547cefa",
+        "name": "Kalash Kadhai 3.5 L",
+        "description": "Dummy description for product Kalash Kadhai 3.5 L",
+        "manufacturer_id": "a341d0bc1c6d018c6e7c6764de267a4a89e10ca6",
+        "taric_code": "bbecc5c2-ece0-4398-88c6-58dce3164e3c",
+        "variants": [
+          {
+            "id": "72cbc043d14ee578c789c9fab3c43cdd",
+            "name": "Kalash Woks & Kadhais",
+            "description": "Buy Kalash Kadhai 3.5 L for Rs.549 online. Kalash Kadhai 3.5 L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3035,
+            "price": 1155,
+            "sale": true,
+            "sale_price": 549,
+            "stock_keeping_unit": "PTPE62XBPSEHCQCR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/6/x/a/copper-kadai-13-kalash-1100x1100-imae63yyjpazjuks.jpeg",
+                "filename": "copper-kadai-13-kalash-1100x1100-imae63yyjpazjuks.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/6/x/a/copper-kadai-13-kalash-original-imae63yyjpazjuks.jpeg",
+                "filename": "copper-kadai-13-kalash-original-imae63yyjpazjuks.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["Curry"] },
+              { "key": "Brand", "values": ["Kalash"] },
+              { "key": "Non-stick", "values": ["No"] },
+              { "key": "Model Number", "values": ["Copper Kadai 14"] },
+              { "key": "Induction Bottom", "values": ["No"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Material", "values": ["Stainless Steel"] },
+              { "key": "Lid Included", "values": ["No"] },
+              { "key": "Capacity", "values": ["3.5 L"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Sales Package", "values": ["1 Kadai"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Weight", "values": ["620 g"] },
+              { "key": "Height", "values": ["9 cm"] },
+              { "key": "Other Dimensions", "values": ["32"] },
+              { "key": "Width", "values": ["28 cm"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Easy to clean",
+                  "heavy material",
+                  "gas compatiable",
+                  "fuel efficent"
+                ]
+              },
+              { "key": "Dishwasher Safe", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "b94c49a699d57db68bb62121061292850547cefa"
+    },
+    {
+      "product": {
+        "id": "1c3eca66cdc4eef14b3c3b9a1544fffb87ab6b1e",
+        "name": "Allure Auto CM 382 Car Mat Nissan Terrano",
+        "description": "Dummy description for product Allure Auto CM 382 Car Mat Nissan Terrano",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "e8278f62-32ad-4cf7-aa6a-c904554457fa",
+        "variants": [
+          {
+            "id": "a914234e437e9b48719b98161fa5431b",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 382 Car Mat Nissan Terrano for Rs.920 online. Allure Auto CM 382 Car Mat Nissan Terrano at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1365,
+            "price": 2800,
+            "sale": false,
+            "sale_price": 920,
+            "stock_keeping_unit": "CRTECN2QX4YHTJJR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/x/6/e/renault-koleos-rubber-mats-beige-allure-auto-cm-384-1100x1100-imaecjxkctf8hr2m.jpeg",
+                "filename": "renault-koleos-rubber-mats-beige-allure-auto-cm-384-1100x1100-imaecjxkctf8hr2m.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/x/6/e/renault-koleos-rubber-mats-beige-allure-auto-cm-384-original-imaecjxkctf8hr2m.jpeg",
+                "filename": "renault-koleos-rubber-mats-beige-allure-auto-cm-384-original-imaecjxkctf8hr2m.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Terrano"] },
+              {
+                "key": "Model Number",
+                "values": ["Nissan Terrano - Rubber Mats ( Beige)"]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Nissan"] },
+              { "key": "Model Name", "values": ["CM 382"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "1c3eca66cdc4eef14b3c3b9a1544fffb87ab6b1e"
+    },
+    {
+      "product": {
+        "id": "3ff27ca71773b11742e8790bbbc999742a1b96ba",
+        "name": "OBS 360 Rotating Supper Vaccum Suction Car Mount Holder Stand yellow",
+        "description": "Dummy description for product OBS 360 Rotating Supper Vaccum Suction Car Mount Holder Stand yellow",
+        "manufacturer_id": "86360654bdeea6bfe1c22b150187caaf7c277222",
+        "taric_code": "421f0a55-cb0a-44d0-bf49-6f7ce2886c89",
+        "variants": [
+          {
+            "id": "a4d9c565a30c9bc2d74426e7e4eb9756",
+            "name": "Car Mobile Holders",
+            "description": "Buy OBS 360 Rotating Supper Vaccum Suction Car Mount Holder Stand yellow for Rs.110 Online. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2156,
+            "price": 550,
+            "sale": false,
+            "sale_price": 110,
+            "stock_keeping_unit": "ACCEA66TZQRT23RN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/mount/3/r/n/obs-360-rotating-supper-vaccum-suction-car-mount-holder-stand-original-imaea45ubuxyhkdz.jpeg",
+                "filename": "obs-360-rotating-supper-vaccum-suction-car-mount-holder-stand-original-imaea45ubuxyhkdz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/mount/3/r/n/obs-360-rotating-supper-vaccum-suction-car-mount-holder-stand-original-imaea45ut2sm3ayf.jpeg",
+                "filename": "obs-360-rotating-supper-vaccum-suction-car-mount-holder-stand-original-imaea45ut2sm3ayf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/mount/3/r/n/obs-360-rotating-supper-vaccum-suction-car-mount-holder-stand-original-imaea45u3vbgddbv.jpeg",
+                "filename": "obs-360-rotating-supper-vaccum-suction-car-mount-holder-stand-original-imaea45u3vbgddbv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Windshield", "Dashboard"] },
+              {
+                "key": "Movement",
+                "values": ["Flexible Neck", "360 Degree Swivel"]
+              },
+              { "key": "Brand", "values": ["OBS"] },
+              { "key": "In The Box", "values": ["Car Mobile Stand"] },
+              {
+                "key": "Model",
+                "values": [
+                  "360 Rotating Supper Vaccum Suction Car Mount Holder Stand yellow"
+                ]
+              },
+              { "key": "Color", "values": ["Yellow"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "59d641c40baab20559dece118072aa17b4a025d2" }
+      },
+      "active": true,
+      "id": "3ff27ca71773b11742e8790bbbc999742a1b96ba"
+    },
+    {
+      "product": {
+        "id": "ab58bd32f008f9370664876a2e9425f825b07246",
+        "name": "3a AUTOCARE Car Mat Maruti Ertiga",
+        "description": "Dummy description for product 3a AUTOCARE Car Mat Maruti Ertiga",
+        "manufacturer_id": "29750a53f1fb25a20676e63192c69a0969889588",
+        "taric_code": "8e52f0cb-8c51-456f-82d8-1fb66427f2da",
+        "variants": [
+          {
+            "id": "1fa7c27ab7186cf204cb71f9d5891557",
+            "name": "Car Mats",
+            "description": "Buy 3a AUTOCARE Car Mat Maruti Ertiga for Rs.2090 online. 3a AUTOCARE Car Mat Maruti Ertiga at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5023,
+            "price": 2500,
+            "sale": false,
+            "sale_price": 2090,
+            "stock_keeping_unit": "CRTEA7HAC5HFBYGY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-1100x1100-imae9zygyuzzjz33.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-1100x1100-imae9zygyuzzjz33.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygyuzzjz33.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygyuzzjz33.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygjzzrj4rr.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygjzzrj4rr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygsgndh4qb.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygsgndh4qb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygmz9wwpsf.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygmz9wwpsf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygzzxww6ya.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygzzxww6ya.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["3a AUTOCARE"] },
+              { "key": "Grommets Included", "values": ["Yes"] },
+              {
+                "key": "Used For",
+                "values": ["Travel with clean car floor and ecofriendly"]
+              },
+              { "key": "Vehicle Model Name", "values": ["Ertiga"] },
+              { "key": "Model Number", "values": ["3A107/Ertiga"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Spiked Sole", "values": ["Yes"] },
+              { "key": "Vehicle Brand", "values": ["Maruti"] },
+              { "key": "Material", "values": ["Microfibre"] },
+              { "key": "Finish", "values": ["Matt"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Sales Package",
+                "values": ["2 Pieces Mats Front", "3 Pieces Mats Rear"]
+              },
+              { "key": "Pack of", "values": ["5"] },
+              { "key": "Weight", "values": ["3.5 kg"] },
+              { "key": "Height", "values": ["66 cm"] },
+              { "key": "Width", "values": ["46 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Any manufacturing Defects"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Any Manufacturing defects"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Customer needs to send the product at company warehouse"
+                ]
+              },
+              { "key": "Not Covered in Warranty", "values": ["Cuts And Burn"] },
+              {
+                "key": "Other Features",
+                "values": ["Antiskid material used in bottom"]
+              },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Technology Used", "values": ["Advanced Fit Edge"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "ab58bd32f008f9370664876a2e9425f825b07246"
+    },
+    {
+      "product": {
+        "id": "5f8701c34c500f992d5e7ef934d256f6dede0916",
+        "name": "Aaradhi Divya Mantra Red Jasper Guru Bead Meditation Mala Stone Necklace",
+        "description": "Dummy description for product Aaradhi Divya Mantra Red Jasper Guru Bead Meditation Mala Stone Necklace",
+        "manufacturer_id": "f9753c3fc109fc1d13f9aeb1382f3addf833642c",
+        "taric_code": "088ce8e9-95de-43ac-8950-a8474dca79c9",
+        "variants": [
+          {
+            "id": "64c20d10d5c56af6763b2ed052bcc821",
+            "name": "Necklaces",
+            "description": "Aaradhi Divya Mantra Red Jasper Guru Bead Meditation Mala Stone Necklace - Buy Aaradhi Divya Mantra Red Jasper Guru Bead Meditation Mala Stone Necklace only for Rs. 999 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7099,
+            "price": 2500,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "NKCEBBYSAMV3GRMV",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/r/m/v/dvym0002082-aaradhi-necklace-1100x1100-imaeban3vzuvp8jb.jpeg",
+                "filename": "dvym0002082-aaradhi-necklace-1100x1100-imaeban3vzuvp8jb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/r/m/v/dvym0002082-aaradhi-necklace-original-imaeban3vzuvp8jb.jpeg",
+                "filename": "dvym0002082-aaradhi-necklace-original-imaeban3vzuvp8jb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Aaradhi"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["DVYM0002082"] },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Model Name",
+                "values": ["Divya Mantra Red Jasper Guru Bead Meditation Mala"]
+              },
+              { "key": "Occasion", "values": ["Religious"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Weight", "values": ["36 g"] },
+              { "key": "Height", "values": ["5 mm"] },
+              { "key": "Width", "values": ["5 mm"] },
+              { "key": "Depth", "values": ["5 mm"] },
+              { "key": "Base Material", "values": ["Stone"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "5f8701c34c500f992d5e7ef934d256f6dede0916"
+    },
+    {
+      "product": {
+        "id": "6d107c131cc03d6d61a5b76dc317b388db97c0ed",
+        "name": "Metallino Kadhai NA L",
+        "description": "Dummy description for product Metallino Kadhai NA L",
+        "manufacturer_id": "f9ce9c118aaef8ebb16a72dc5d7b7f06b45a15ad",
+        "taric_code": "ab4421e8-31ac-4d22-aaaf-40eb21c371e3",
+        "variants": [
+          {
+            "id": "6bc04b3ec1f8d4da2a00f8662f4fbed3",
+            "name": "Metallino Woks & Kadhais",
+            "description": "Buy Metallino Kadhai NA L for Rs.721 online. Metallino Kadhai NA L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5304,
+            "price": 1110,
+            "sale": true,
+            "sale_price": 721,
+            "stock_keeping_unit": "PTPEFMRKEBETGVNM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/v/w/d/am000158-metallino-original-imae2sxqeshpnqyu.jpeg",
+                "filename": "am000158-metallino-original-imae2sxqeshpnqyu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["Metallino"] },
+              { "key": "Non-stick", "values": ["Yes"] },
+              { "key": "Model Number", "values": ["AM000156"] },
+              { "key": "Induction Bottom", "values": ["Yes"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Material", "values": ["PTFE (Non-stick)"] },
+              { "key": "Lid Included", "values": ["Yes"] },
+              { "key": "Capacity", "values": ["NA L"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Kadai With Handles and Sslid"]
+              },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["22 cm"] },
+              { "key": "Weight", "values": ["1250 g"] },
+              { "key": "Dishwasher Safe", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": false,
+      "id": "6d107c131cc03d6d61a5b76dc317b388db97c0ed"
+    },
+    {
+      "product": {
+        "id": "2c450024611aa05be18d160dfd6db5da6026e1c4",
+        "name": "Allure Auto CM 2015 Car Mat HM Ambassador",
+        "description": "Dummy description for product Allure Auto CM 2015 Car Mat HM Ambassador",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "4715edce-5df2-4b61-b2eb-2d0028d425f7",
+        "variants": [
+          {
+            "id": "bd2b34268e437bf471207461d6d724f7",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 2015 Car Mat HM Ambassador for Rs.1599 online. Allure Auto CM 2015 Car Mat HM Ambassador at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2589,
+            "price": 4900,
+            "sale": false,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QUHHGEVPE",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/s/z/2/honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-1100x1100-imaecqmdx5kadmvf.jpeg",
+                "filename": "honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-1100x1100-imaecqmdx5kadmvf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/s/z/2/honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-original-imaecqmdx5kadmvf.jpeg",
+                "filename": "honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-original-imaecqmdx5kadmvf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Ambassador"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Hm Ambassador - Odourless Car Floor Foot Mats 5 Pcs Set ( Grey )"
+                ]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["HM"] },
+              { "key": "Model Name", "values": ["CM 2015"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "2c450024611aa05be18d160dfd6db5da6026e1c4"
+    },
+    {
+      "product": {
+        "id": "687b5fe28b00cf87a83b1fa0d094a50c95093b7c",
+        "name": "Pebbleyard Kadhai 1 L",
+        "description": "Dummy description for product Pebbleyard Kadhai 1 L",
+        "manufacturer_id": "d6a0242e05d2d336262f709c79c9f3e129163a13",
+        "taric_code": "2398bebb-b853-4107-95a2-a5db45e1a9c5",
+        "variants": [
+          {
+            "id": "de736ca56add500637d1cc8a9a3fdbba",
+            "name": "Pebbleyard Woks & Kadhais",
+            "description": "Pebbleyard Kadhai 1 L (Aluminium)\n                         Price: Rs. 1,134\n\t\t\t\t\n\t\t\tDesigned with a wide base, this Kadai has a robust make from high quality aluminum and bakelite handle. This kadai is ideal for cooking a variety of dishes with added ease while the sturdy handles ensure safe, slip-free handling.\nDesigned with a wide base, this Kadai has a robust make from high quality aluminum and bakelite handle. This kadai is ideal for cooking a variety of dishes with added ease while the sturdy handles ensure safe, slip-free handling.",
+            "stock_level": 6191,
+            "price": 1134,
+            "sale": false,
+            "sale_price": 1134,
+            "stock_keeping_unit": "PTPE6TUDYK43Y8NJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/8/n/j/trpb0580-pebbleyard-1100x1100-imae688tw6wddcsr.jpeg",
+                "filename": "trpb0580-pebbleyard-1100x1100-imae688tw6wddcsr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/8/n/j/trpb0580-pebbleyard-original-imae688tw6wddcsr.jpeg",
+                "filename": "trpb0580-pebbleyard-original-imae688tw6wddcsr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/8/n/j/trpb0580-pebbleyard-original-imae688trpjrgyzw.jpeg",
+                "filename": "trpb0580-pebbleyard-original-imae688trpjrgyzw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["Curry"] },
+              { "key": "Non-stick", "values": ["No"] },
+              { "key": "Brand", "values": ["Pebbleyard"] },
+              { "key": "Model Number", "values": ["TRPB0580"] },
+              { "key": "Induction Bottom", "values": ["No"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Capacity", "values": ["1 L"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["1"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["22 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "687b5fe28b00cf87a83b1fa0d094a50c95093b7c"
+    },
+    {
+      "product": {
+        "id": "a7c78a7387b26d29f64f2c56af4b74cc58af7886",
+        "name": "Allure Auto CM 2047 Car Mat Mahindra New Scorpio",
+        "description": "Dummy description for product Allure Auto CM 2047 Car Mat Mahindra New Scorpio",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "df3d1da7-dd72-47d3-b2d1-688b389fdac8",
+        "variants": [
+          {
+            "id": "590acc7400f4b48b5290c3a4bfcf893a",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 2047 Car Mat Mahindra New Scorpio for Rs.1599 online. Allure Auto CM 2047 Car Mat Mahindra New Scorpio at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3689,
+            "price": 4900,
+            "sale": false,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QVAZHBWTJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/s/z/2/honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-1100x1100-imaecqmdx5kadmvf.jpeg",
+                "filename": "honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-1100x1100-imaecqmdx5kadmvf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/s/z/2/honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-original-imaecqmdx5kadmvf.jpeg",
+                "filename": "honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-original-imaecqmdx5kadmvf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["New Scorpio"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Mahindra New Scorpio - Odourless Car Floor Foot Mats 5 Pcs Set ( Grey )"
+                ]
+              },
+              { "key": "Vehicle Brand", "values": ["Mahindra"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 2047"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "a7c78a7387b26d29f64f2c56af4b74cc58af7886"
+    },
+    {
+      "product": {
+        "id": "dcb41b326c8083e764a87b4d233df89641d31a1b",
+        "name": "Black Stallion Jumbo Jet - without lid Kadhai 7.5 L",
+        "description": "Dummy description for product Black Stallion Jumbo Jet - without lid Kadhai 7.5 L",
+        "manufacturer_id": "51c41dc9672c2d4556ff244e7992bc180cb53c0b",
+        "taric_code": "501df48d-a945-40f6-9292-be62d61a5deb",
+        "variants": [
+          {
+            "id": "98cf6daffcec3241eb166e62a50499fa",
+            "name": "Black Stallion Woks & Kadhais",
+            "description": "Buy Black Stallion Jumbo Jet - without lid Kadhai 7.5 L for Rs.1140 online. Black Stallion Jumbo Jet - without lid Kadhai 7.5 L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6899,
+            "price": 1140,
+            "sale": false,
+            "sale_price": 1140,
+            "stock_keeping_unit": "PTPDYVTRGWG2GGHU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/m/g/q/bs001-black-stallion-original-imadyxpafkykseth.jpeg",
+                "filename": "bs001-black-stallion-original-imadyxpafkykseth.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/m/g/q/bs001-black-stallion-original-imadyxpafkykseth.jpeg",
+                "filename": "bs001-black-stallion-original-imadyxpafkykseth.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["Fry"] },
+              { "key": "Brand", "values": ["Black Stallion"] },
+              { "key": "Non-stick", "values": ["No"] },
+              { "key": "Model Number", "values": ["BS006"] },
+              { "key": "Induction Bottom", "values": ["Yes"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Model Name", "values": ["Jumbo Jet - without lid"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Capacity", "values": ["7.5 L"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Sales Package", "values": ["1 Kadahi"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["36 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "dcb41b326c8083e764a87b4d233df89641d31a1b"
+    },
+    {
+      "product": {
+        "id": "e9ee4e7cecf57cc9b34800c1fa4b35749189dcf9",
+        "name": "Aaradhi Divya Mantra Hematite Guru Bead Meditation Mala Stone Necklace",
+        "description": "Dummy description for product Aaradhi Divya Mantra Hematite Guru Bead Meditation Mala Stone Necklace",
+        "manufacturer_id": "f9753c3fc109fc1d13f9aeb1382f3addf833642c",
+        "taric_code": "8f55c019-0ed9-404a-b4fa-9f0ce0bba048",
+        "variants": [
+          {
+            "id": "6f15af5389e0446dcb95e422f11ab8f2",
+            "name": "Necklaces",
+            "description": "Aaradhi Divya Mantra Hematite Guru Bead Meditation Mala Stone Necklace - Buy Aaradhi Divya Mantra Hematite Guru Bead Meditation Mala Stone Necklace only for Rs. 999 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2009,
+            "price": 2500,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "NKCEBBEYX8NWRXHA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/x/h/a/dvym0002114-aaradhi-necklace-1100x1100-imaeban3zvt2xfsx.jpeg",
+                "filename": "dvym0002114-aaradhi-necklace-1100x1100-imaeban3zvt2xfsx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/x/h/a/dvym0002114-aaradhi-necklace-original-imaeban3zvt2xfsx.jpeg",
+                "filename": "dvym0002114-aaradhi-necklace-original-imaeban3zvt2xfsx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Aaradhi"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Model Number", "values": ["DVYM0002114"] },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Model Name",
+                "values": ["Divya Mantra Hematite Guru Bead Meditation Mala"]
+              },
+              { "key": "Occasion", "values": ["Religious"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Weight", "values": ["50 g"] },
+              { "key": "Height", "values": ["10 mm"] },
+              { "key": "Width", "values": ["10 mm"] },
+              { "key": "Depth", "values": ["10 mm"] },
+              { "key": "Base Material", "values": ["Stone"] },
+              { "key": "Gemstone", "values": ["NA"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "e9ee4e7cecf57cc9b34800c1fa4b35749189dcf9"
+    },
+    {
+      "product": {
+        "id": "dbcbf2f0fa520d0af0893edfe04aed7ed8090601",
+        "name": "Allure Auto CM 990 Car Mat Volkswagen Jetta",
+        "description": "Dummy description for product Allure Auto CM 990 Car Mat Volkswagen Jetta",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "3b39717d-5d23-4f4f-ba48-5ee5872fec05",
+        "variants": [
+          {
+            "id": "544e778fb966087f2db6567491d4b08d",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 990 Car Mat Volkswagen Jetta for Rs.1380 online. Allure Auto CM 990 Car Mat Volkswagen Jetta at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 918,
+            "price": 4200,
+            "sale": false,
+            "sale_price": 1380,
+            "stock_keeping_unit": "CRTECN2QY94MSFSY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/m/7/hyundai-elantra-rubber-mats-smoke-transparent-allure-auto-cm-892-1100x1100-imaecjxkgkg2fj6y.jpeg",
+                "filename": "hyundai-elantra-rubber-mats-smoke-transparent-allure-auto-cm-892-1100x1100-imaecjxkgkg2fj6y.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/m/7/hyundai-elantra-rubber-mats-smoke-transparent-allure-auto-cm-892-original-imaecjxkgkg2fj6y.jpeg",
+                "filename": "hyundai-elantra-rubber-mats-smoke-transparent-allure-auto-cm-892-original-imaecjxkgkg2fj6y.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Jetta"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Volkswagen Jetta - Rubber Mats ( Smoke Transparent)"
+                ]
+              },
+              { "key": "Vehicle Brand", "values": ["Volkswagen"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 990"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": false,
+      "id": "dbcbf2f0fa520d0af0893edfe04aed7ed8090601"
+    },
+    {
+      "product": {
+        "id": "fde84040769a01d7e45af3b3af03e4ecceabbab7",
+        "name": "Neopack Car Stand Mobile Holder",
+        "description": "Dummy description for product Neopack Car Stand Mobile Holder",
+        "manufacturer_id": "6587591002ae80789eacb2bc074520ef1de623d7",
+        "taric_code": "2cfc8bb2-3331-4e0b-8ff1-b001aa661e20",
+        "variants": [
+          {
+            "id": "f4d4d9addb8fa41937b85738c0cccbe7",
+            "name": "Car Mobile Holders",
+            "description": "Buy Neopack Car Stand Mobile Holder for Rs.499 Online. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1490,
+            "price": 799,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "ACCEAT6AZZJ6GRSQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/z/s/g/neopack-car-dashboard-mobile-holder-original-imae9zub86zhgh9w.jpeg",
+                "filename": "neopack-car-dashboard-mobile-holder-original-imae9zub86zhgh9w.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-cradle/z/s/g/neopack-car-dashboard-mobile-holder-original-imae9zub86zhgh9w.jpeg",
+                "filename": "neopack-car-dashboard-mobile-holder-original-imae9zub86zhgh9w.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-cradle/z/s/g/neopack-car-dashboard-mobile-holder-original-imae9zubnpywgyhb.jpeg",
+                "filename": "neopack-car-dashboard-mobile-holder-original-imae9zubnpywgyhb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/z/s/g/neopack-car-dashboard-mobile-holder-original-imae9zuazuf4fwxz.jpeg",
+                "filename": "neopack-car-dashboard-mobile-holder-original-imae9zuazuf4fwxz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-cradle/z/s/g/neopack-car-dashboard-mobile-holder-original-imae9zubvgbb6wvm.jpeg",
+                "filename": "neopack-car-dashboard-mobile-holder-original-imae9zubvgbb6wvm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/z/s/g/neopack-car-dashboard-mobile-holder-original-imae9zuav4zzfamu.jpeg",
+                "filename": "neopack-car-dashboard-mobile-holder-original-imae9zuav4zzfamu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Mount Type", "values": ["Windshield", "Dashboard"] },
+              { "key": "Brand", "values": ["Neopack"] },
+              { "key": "In The Box", "values": ["Car Cradle"] },
+              { "key": "Model", "values": ["Car Stand Mobile Holder"] },
+              { "key": "Color", "values": ["Black"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "59d641c40baab20559dece118072aa17b4a025d2" }
+      },
+      "active": false,
+      "id": "fde84040769a01d7e45af3b3af03e4ecceabbab7"
+    },
+    {
+      "product": {
+        "id": "0669d42008d3d61a1ba8ac461ca95e9d3efdd002",
+        "name": "Aaishwarya Track to Vogue Alloy Necklace",
+        "description": "Dummy description for product Aaishwarya Track to Vogue Alloy Necklace",
+        "manufacturer_id": "9cba5720f09099c5cfe8b927884eb75a01971c42",
+        "taric_code": "11de6f84-9494-4b8b-8c84-0541750f1e4e",
+        "variants": [
+          {
+            "id": "9363d2111804f8d9eacc27410592597a",
+            "name": "Necklaces",
+            "description": "Aaishwarya Track to Vogue Alloy Necklace - Buy Aaishwarya Track to Vogue Alloy Necklace only for Rs. 599 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6290,
+            "price": 1799,
+            "sale": true,
+            "sale_price": 599,
+            "stock_keeping_unit": "NKCEBGPNXQFXGSKS",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/s/k/s/ayw615n202-aaishwarya-necklace-original-imaebgfhp9rzdqmr.jpeg",
+                "filename": "ayw615n202-aaishwarya-necklace-original-imaebgfhp9rzdqmr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/s/k/s/ayw615n202-aaishwarya-necklace-original-imaebgfhqgyjujhx.jpeg",
+                "filename": "ayw615n202-aaishwarya-necklace-original-imaebgfhqgyjujhx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Aaishwarya"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["AYW615N202"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Track to Vogue"] },
+              { "key": "Occasion", "values": ["Everyday", "Love"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Chain/Necklace Length", "values": ["24 inch"] },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Necklace Type", "values": ["Choker"] },
+              { "key": "Chain Type", "values": ["Rope"] },
+              { "key": "Sales Package", "values": ["Pack Of 1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "0669d42008d3d61a1ba8ac461ca95e9d3efdd002"
+    },
+    {
+      "product": {
+        "id": "1ec52d1fe57656c9b344d1bbcaff8200fd6960ba",
+        "name": "Accessory Mart TE Car Mat Toyota Etios",
+        "description": "Dummy description for product Accessory Mart TE Car Mat Toyota Etios",
+        "manufacturer_id": "613efa52c95d67fcfcb3f24d0e39a296428372c1",
+        "taric_code": "9883123e-ed0b-44e2-9222-5fe18778008c",
+        "variants": [
+          {
+            "id": "774aefa7b3d77d820e94e85124f10778",
+            "name": "Car Mats",
+            "description": "Buy Accessory Mart TE Car Mat Toyota Etios for Rs.3399 online. Accessory Mart TE Car Mat Toyota Etios at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 578,
+            "price": 5500,
+            "sale": false,
+            "sale_price": 3399,
+            "stock_keeping_unit": "CRTECYY4GFDJFKBD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/5/h/r/15-accessory-mart-rd-1100x1100-imaebzty2b2ngjju.jpeg",
+                "filename": "15-accessory-mart-rd-1100x1100-imaebzty2b2ngjju.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/5/h/r/15-accessory-mart-rd-original-imaebzty2b2ngjju.jpeg",
+                "filename": "15-accessory-mart-rd-original-imaebzty2b2ngjju.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Accessory Mart"] },
+              { "key": "Model Year", "values": ["2015"] },
+              { "key": "Vehicle Model Name", "values": ["Etios"] },
+              { "key": "Model Number", "values": ["10"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Toyota"] },
+              { "key": "Model Name", "values": ["TE"] },
+              { "key": "Material", "values": ["PVC"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Sales Package", "values": ["5 Car Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "1ec52d1fe57656c9b344d1bbcaff8200fd6960ba"
+    },
+    {
+      "product": {
+        "id": "8167235b4e9e06bb81802c4aebb3dfd0fdb306b8",
+        "name": "Peach 3mm Premium Green Pan Kadhai 2.5 L",
+        "description": "Dummy description for product Peach 3mm Premium Green Pan Kadhai 2.5 L",
+        "manufacturer_id": "21fbf96bc58ce73d7c4b167c188961979701b156",
+        "taric_code": "34feb40f-63f6-44ea-8c05-854c203312ef",
+        "variants": [
+          {
+            "id": "866ed1da32db2c41f6844d9d67a3c982",
+            "name": "Peach Woks & Kadhais",
+            "description": "Buy Peach 3mm Premium Green Pan Kadhai 2.5 L for Rs.399 online. Peach 3mm Premium Green Pan Kadhai 2.5 L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6769,
+            "price": 999,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "PTPEB88UTZRHHVXD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/z/u/w/k2-4mmg-peach-original-imaeb4qxz9cd3gmz.jpeg",
+                "filename": "k2-4mmg-peach-original-imaeb4qxz9cd3gmz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/z/u/w/k2-4mmg-peach-original-imaeb4qxz9cd3gmz.jpeg",
+                "filename": "k2-4mmg-peach-original-imaeb4qxz9cd3gmz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cookware-set/d/4/k/pn19a-basil-original-imae9znp58mfmdyg.jpeg",
+                "filename": "pn19a-basil-original-imae9znp58mfmdyg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["Curry"] },
+              { "key": "Brand", "values": ["Peach"] },
+              { "key": "Non-stick", "values": ["Yes"] },
+              { "key": "Model Number", "values": ["K3mmG"] },
+              { "key": "Induction Bottom", "values": ["No"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Model Name", "values": ["3mm Premium Green Pan"] },
+              { "key": "Material", "values": ["PTFE (Non-stick)"] },
+              { "key": "Lid Included", "values": ["Yes"] },
+              { "key": "Capacity", "values": ["2.5 L"] },
+              { "key": "Handle Features", "values": ["Double Sided Handle"] },
+              { "key": "Color", "values": ["Green"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Kadhai", "1 Stainless Steel Lid"]
+              },
+              { "key": "Pack of", "values": ["2"] },
+              { "key": "Diameter", "values": ["9.5 cm"] },
+              { "key": "Weight", "values": ["500 g"] },
+              { "key": "Dishwasher Safe", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "8167235b4e9e06bb81802c4aebb3dfd0fdb306b8"
+    },
+    {
+      "product": {
+        "id": "d93a0b338af2d5d3e6d5e20a642c48214a64f760",
+        "name": "Chefkraft Tri Ply Kadhai 3.2 L",
+        "description": "Dummy description for product Chefkraft Tri Ply Kadhai 3.2 L",
+        "manufacturer_id": "be166efb06b8c300e2bb1d80462ba61e91117871",
+        "taric_code": "26e9a093-23d1-4a1c-8bd9-f3910ef278cc",
+        "variants": [
+          {
+            "id": "049b3897eda0c8eb5e804d1580f47d8a",
+            "name": "Chefkraft Woks & Kadhais",
+            "description": "Buy Chefkraft Tri Ply Kadhai 3.2 L for Rs.934 online. Chefkraft Tri Ply Kadhai 3.2 L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2828,
+            "price": 1245,
+            "sale": false,
+            "sale_price": 934,
+            "stock_keeping_unit": "PTPE2SSXSTFH6HYY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/f/u/b/cktp-301-chefkraft-original-imae2sv7zrvpgzzs.jpeg",
+                "filename": "cktp-301-chefkraft-original-imae2sv7zrvpgzzs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["Chefkraft"] },
+              { "key": "Non-stick", "values": ["No"] },
+              { "key": "Model Number", "values": ["CKTP-303"] },
+              { "key": "Induction Bottom", "values": ["Yes"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Model Name", "values": ["Tri Ply"] },
+              { "key": "Material", "values": ["Stainless Steel"] },
+              { "key": "Lid Included", "values": ["No"] },
+              { "key": "Capacity", "values": ["3.2 L"] },
+              {
+                "key": "Handle Features",
+                "values": ["Heat Resistant phenolic handles"]
+              },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Sales Package", "values": ["1 Kadhai"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["26 cm"] },
+              { "key": "Weight", "values": ["675 g"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["12 Months Warranty against Manufacturing Defects."]
+              },
+              { "key": "Dishwasher Safe", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "d93a0b338af2d5d3e6d5e20a642c48214a64f760"
+    },
+    {
+      "product": {
+        "id": "32e5aeef74457d63ea429bd766801c7320f0518f",
+        "name": "Allure Auto CM 543 Car Mat Tata Nano",
+        "description": "Dummy description for product Allure Auto CM 543 Car Mat Tata Nano",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "a933aa00-d83b-4356-9515-cf5f1f097bec",
+        "variants": [
+          {
+            "id": "af6263b2ad7ce85b9ca4adcf7bd1c69f",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 543 Car Mat Tata Nano for Rs.920 online. Allure Auto CM 543 Car Mat Tata Nano at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6020,
+            "price": 2800,
+            "sale": false,
+            "sale_price": 920,
+            "stock_keeping_unit": "CRTECN2RV7NHG8XK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/8/x/k/tata-nano-rubber-mats-grey-allure-auto-cm-543-1100x1100-imaecjxkgfhnb3hq.jpeg",
+                "filename": "tata-nano-rubber-mats-grey-allure-auto-cm-543-1100x1100-imaecjxkgfhnb3hq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/8/x/k/tata-nano-rubber-mats-grey-allure-auto-cm-543-original-imaecjxkgfhnb3hq.jpeg",
+                "filename": "tata-nano-rubber-mats-grey-allure-auto-cm-543-original-imaecjxkgfhnb3hq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Nano"] },
+              {
+                "key": "Model Number",
+                "values": ["Tata Nano - Rubber Mats ( Grey)"]
+              },
+              { "key": "Vehicle Brand", "values": ["Tata"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 543"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "32e5aeef74457d63ea429bd766801c7320f0518f"
+    },
+    {
+      "product": {
+        "id": "ed2855694816816fefe1783c2912d91b52cb4540",
+        "name": "Twella Creations Twella Magic Stone Necklace",
+        "description": "Dummy description for product Twella Creations Twella Magic Stone Necklace",
+        "manufacturer_id": "76f4f7bd1be8f804b50417105c216baf0329b6cf",
+        "taric_code": "0f0d0be9-a9af-4bd0-9b9f-236547336f9f",
+        "variants": [
+          {
+            "id": "50478c5379163f7cfa5b6edd2e8e5da8",
+            "name": "Necklaces",
+            "description": "Twella Creations Twella Magic Stone Necklace - Buy Twella Creations Twella Magic Stone Necklace only for Rs. 225 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9490,
+            "price": 700,
+            "sale": true,
+            "sale_price": 225,
+            "stock_keeping_unit": "NKCE9HF37STYM5KA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/5/k/a/tc-043-twella-creations-necklace-original-imae9fx7xbm77ujw.jpeg",
+                "filename": "tc-043-twella-creations-necklace-original-imae9fx7xbm77ujw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Twella Creations"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["TC_043"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Twella Magic"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Base Material", "values": ["Stone"] },
+              { "key": "Necklace Type", "values": ["Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "ed2855694816816fefe1783c2912d91b52cb4540"
+    },
+    {
+      "product": {
+        "id": "562b0f0c62da3ed506b063e8db150401b2c77c38",
+        "name": "S C Handicrafts Showpiece  -  18 cm",
+        "description": "Dummy description for product S C Handicrafts Showpiece  -  18 cm",
+        "manufacturer_id": "876112584ebe4fb8ec8269d817f53a9d48aad3cb",
+        "taric_code": "c4549d89-9c06-498b-b454-38ce54b4c51e",
+        "variants": [
+          {
+            "id": "b0a4fb0ea3a26e2f85b7b49af1d32adf",
+            "name": "S C Handicrafts Showpieces",
+            "description": "Buy S C Handicrafts Showpiece  -  18 cm for Rs.595 online. S C Handicrafts Showpiece  -  18 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3979,
+            "price": 695,
+            "sale": true,
+            "sale_price": 595,
+            "stock_keeping_unit": "SHIE2FH7YTVDHFGT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/f/g/t/schrw244-s-c-handicrafts-original-imae2ejucz5gr3gg.jpeg",
+                "filename": "schrw244-s-c-handicrafts-original-imae2ejucz5gr3gg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/f/g/t/schrw244-s-c-handicrafts-original-imae2ejucz5gr3gg.jpeg",
+                "filename": "schrw244-s-c-handicrafts-original-imae2ejucz5gr3gg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["S C Handicrafts"] },
+              { "key": "Model Number", "values": ["SCHRW244"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Material", "values": ["Wooden"] },
+              { "key": "Purpose", "values": ["Show Piece"] },
+              { "key": "Color", "values": ["Brown", "Gold"] },
+              { "key": "Weight", "values": ["230 g"] },
+              { "key": "Height", "values": ["18 cm"] },
+              { "key": "Width", "values": ["13 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": false,
+      "id": "562b0f0c62da3ed506b063e8db150401b2c77c38"
+    },
+    {
+      "product": {
+        "id": "7b71406bf617cfadf8153816b4e9edfc4b63d69e",
+        "name": "Orientel Big Bird Mounth double Cip Car Mount Holder for mobile phone upto 6 inches",
+        "description": "Dummy description for product Orientel Big Bird Mounth double Cip Car Mount Holder for mobile phone upto 6 inches",
+        "manufacturer_id": "b7a27fa52b414d009a288c6b71c7b2f7628a151e",
+        "taric_code": "779598e8-ffc0-41ef-9346-e1b7acc32351",
+        "variants": [
+          {
+            "id": "ac515c5cf064756ad0e9d8d45627b90c",
+            "name": "Car Mobile Holders",
+            "description": "Buy Orientel Big Bird Mounth double Cip Car Mount Holder for mobile phone upto 6 inches for Rs.425 Online. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 655,
+            "price": 999,
+            "sale": false,
+            "sale_price": 425,
+            "stock_keeping_unit": "ACCE74HCBUZZYH2X",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-cradle/h/2/x/orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-1100x1100-imae6eadwjjd9fue.jpeg",
+                "filename": "orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-1100x1100-imae6eadwjjd9fue.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-cradle/h/2/x/orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadwjjd9fue.jpeg",
+                "filename": "orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadwjjd9fue.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-cradle/h/2/x/orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadpkfj57ty.jpeg",
+                "filename": "orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadpkfj57ty.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-cradle/h/2/x/orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadkzexfynu.jpeg",
+                "filename": "orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadkzexfynu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/h/2/x/orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadmymrubzu.jpeg",
+                "filename": "orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadmymrubzu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-cradle/h/2/x/orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadjmv4krts.jpeg",
+                "filename": "orientel-big-bird-mounth-double-cip-car-mount-holder-for-mobile-original-imae6eadjmv4krts.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Orientel"] },
+              { "key": "In The Box", "values": ["Car Cradle"] },
+              {
+                "key": "Model",
+                "values": [
+                  "Big Bird Mounth double Cip Car Mount Holder for mobile phone upto 6 inches"
+                ]
+              },
+              { "key": "Color", "values": ["Black"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "59d641c40baab20559dece118072aa17b4a025d2" }
+      },
+      "active": true,
+      "id": "7b71406bf617cfadf8153816b4e9edfc4b63d69e"
+    },
+    {
+      "product": {
+        "id": "9f1ec0a394dc8e77ba7bd0ec6e81167a832f4712",
+        "name": "Aaradhi Jade Stone Necklace",
+        "description": "Dummy description for product Aaradhi Jade Stone Necklace",
+        "manufacturer_id": "f9753c3fc109fc1d13f9aeb1382f3addf833642c",
+        "taric_code": "ceee282b-2f9f-43ac-9a41-438f4840e7a4",
+        "variants": [
+          {
+            "id": "2e8a8bf755f67e5b03fb65d6c8975849",
+            "name": "Necklaces",
+            "description": "Aaradhi Jade Stone Necklace - Buy Aaradhi Jade Stone Necklace only for Rs. 999 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4027,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "NKCEBGJZGQH6HGDZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/g/d/z/dvym0002785-aaradhi-necklace-1100x1100-imaebgckzhp9rjju.jpeg",
+                "filename": "dvym0002785-aaradhi-necklace-1100x1100-imaebgckzhp9rjju.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/g/d/z/dvym0002785-aaradhi-necklace-original-imaebgckzhp9rjju.jpeg",
+                "filename": "dvym0002785-aaradhi-necklace-original-imaebgckzhp9rjju.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Aaradhi"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Model Number", "values": ["DVYM0002785"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Workwear"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Weight", "values": ["58 g"] },
+              { "key": "Height", "values": ["200 mm"] },
+              { "key": "Width", "values": ["20 mm"] },
+              { "key": "Depth", "values": ["20 mm"] },
+              { "key": "Base Material", "values": ["Stone"] },
+              { "key": "Gemstone", "values": ["Jade"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "c83c7baf87fa83fda4af8c8080c2595f",
+            "name": "Necklaces",
+            "description": "Aaradhi Jade Stone Necklace - Buy Aaradhi Jade Stone Necklace only for Rs. 999 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4141,
+            "price": 3000,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "NKCEBGJZVGCZXMGD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/m/g/d/dvym0002838-aaradhi-necklace-1100x1100-imaebgckhegnnaah.jpeg",
+                "filename": "dvym0002838-aaradhi-necklace-1100x1100-imaebgckhegnnaah.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/m/g/d/dvym0002838-aaradhi-necklace-original-imaebgckhegnnaah.jpeg",
+                "filename": "dvym0002838-aaradhi-necklace-original-imaebgckhegnnaah.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Aaradhi"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Model Number", "values": ["DVYM0002838"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Workwear"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Weight", "values": ["30 g"] },
+              { "key": "Height", "values": ["220 mm"] },
+              { "key": "Width", "values": ["10 mm"] },
+              { "key": "Depth", "values": ["10 mm"] },
+              { "key": "Base Material", "values": ["Stone"] },
+              { "key": "Gemstone", "values": ["Jade"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "9f1ec0a394dc8e77ba7bd0ec6e81167a832f4712"
+    },
+    {
+      "product": {
+        "id": "a5b7757e5aa7779c92eff54afb3af56fa456c521",
+        "name": "Lal Haveli Rajasthani Beautiful Wall Hanging Letter Box With Key Hanger Showpiece  -  47 cm",
+        "description": "Dummy description for product Lal Haveli Rajasthani Beautiful Wall Hanging Letter Box With Key Hanger Showpiece  -  47 cm",
+        "manufacturer_id": "d88e2a8134325f9b8e4ca0c7166ee9c1e9c673dc",
+        "taric_code": "56c677b9-3ee6-4c3c-9746-6cbcc4eeb9a6",
+        "variants": [
+          {
+            "id": "a002b80cfd37ddb68edbef85a59fb4f4",
+            "name": "Lal Haveli Ethnic",
+            "description": "Lal Haveli Rajasthani Beautiful Wall Hanging Letter Box With Key Hanger Showpiece  -  47 cm (Wooden, Multicolor)\n                         Price: Rs. 750\n\t\t\t\t\n\t\t\tThis Handcrafted two magazine Holder along with hooks for holding key chains is made of wood.Its colours and royal design makes it a piece crafted stylishly for you. You can hang in on the backside the door or on the wall for that added style to your decor. Also, you can place it on the study table or near the telephone so that it is convenient for you to get quick hold of important papers and cards. It can also be the best gift for your loved one.\nThis Handcrafted two magazine Holder along with hooks for holding key chains is made of wood.Its colours and royal design makes it a piece crafted stylishly for you. You can hang in on the backside the door or on the wall for that added style to your decor. Also, you can place it on the study table or near the telephone so that it is convenient for you to get quick hold of important papers and cards. It can also be the best gift for your loved one.",
+            "stock_level": 5930,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 750,
+            "stock_keeping_unit": "SHIE9J6PFGP9DZAH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/z/a/h/hnd00391-lal-haveli-original-imae9ehh3mbvtbp8.jpeg",
+                "filename": "hnd00391-lal-haveli-original-imae9ehh3mbvtbp8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/z/a/h/hnd00391-lal-haveli-original-imae9ehh3mbvtbp8.jpeg",
+                "filename": "hnd00391-lal-haveli-original-imae9ehh3mbvtbp8.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/z/a/h/hnd00391-lal-haveli-original-imae9ehhmdykuakh.jpeg",
+                "filename": "hnd00391-lal-haveli-original-imae9ehhmdykuakh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/z/a/h/hnd00391-lal-haveli-original-imae9jh52waby8ew.jpeg",
+                "filename": "hnd00391-lal-haveli-original-imae9jh52waby8ew.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/z/a/h/hnd00391-lal-haveli-original-imae9ehhhgcugp94.jpeg",
+                "filename": "hnd00391-lal-haveli-original-imae9ehhhgcugp94.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/z/a/h/hnd00391-lal-haveli-original-imae9ehhy3qgwv24.jpeg",
+                "filename": "hnd00391-lal-haveli-original-imae9ehhy3qgwv24.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Lal Haveli"] },
+              { "key": "Model Number", "values": ["HND00391"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Material", "values": ["Wooden"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "Rajasthani Beautiful Wall Hanging Letter Box With Key Hanger"
+                ]
+              },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["870 g"] },
+              { "key": "Height", "values": ["47 cm"] },
+              { "key": "Width", "values": ["22.86 cm"] },
+              { "key": "Sales Package", "values": ["1 Letter Box"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e5a0b7972815881a40abff7944473f2b079c776" }
+      },
+      "active": true,
+      "id": "a5b7757e5aa7779c92eff54afb3af56fa456c521"
+    },
+    {
+      "product": {
+        "id": "95675f96eebd56379e3ac22a90db7a7c3e2c43ea",
+        "name": "Trinketbag Talk Of The Town Alloy Necklace",
+        "description": "Dummy description for product Trinketbag Talk Of The Town Alloy Necklace",
+        "manufacturer_id": "10243798003730ea3a78536ab965492eefc1acee",
+        "taric_code": "84f360d8-cd26-44cc-93cb-f8b1340a48ec",
+        "variants": [
+          {
+            "id": "ad33eda6aa46b448340d848dd5a8c59f",
+            "name": "Necklaces",
+            "description": "Trinketbag Talk Of The Town Alloy Necklace - Buy Trinketbag Talk Of The Town Alloy Necklace only for Rs. 0.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2359,
+            "price": 499,
+            "sale": true,
+            "sale_price": 349,
+            "stock_keeping_unit": "NKCDUYA5UMUYYJRH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/j/r/h/trb082-trinketbag-necklace-1100x1100-imaduycy7ekatgqg.jpeg",
+                "filename": "trb082-trinketbag-necklace-1100x1100-imaduycy7ekatgqg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/j/r/h/trb082-trinketbag-necklace-original-imaduycy7ekatgqg.jpeg",
+                "filename": "trb082-trinketbag-necklace-original-imaduycy7ekatgqg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Trinketbag"] },
+              { "key": "Model Number", "values": ["TRB082"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Artificial Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Talk Of The Town"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Everyday", "Special Occasion", "Festive", "Work"]
+              },
+              { "key": "Color", "values": ["Red", "Maroon"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Clasp Type", "values": ["Lobster Claw"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "95675f96eebd56379e3ac22a90db7a7c3e2c43ea"
+    },
+    {
+      "product": {
+        "id": "6297fc94fd5ea4ef7c725d6e023a150f5e74cd64",
+        "name": "Tiedribbons Super Mom Tile Showpiece  -  28 cm",
+        "description": "Dummy description for product Tiedribbons Super Mom Tile Showpiece  -  28 cm",
+        "manufacturer_id": "f643a53cd219daae61bd561f948ebca92232d0a4",
+        "taric_code": "120991bf-7c44-41af-a11f-af8cb2d1ffdf",
+        "variants": [
+          {
+            "id": "b3978d9ec89e379c959429ccfb59fa41",
+            "name": "Tiedribbons Showpieces",
+            "description": "Tiedribbons Super Mom Tile Showpiece  -  28 cm (Ceramic, Multicolor)\n                         Price: Rs. 699\n\t\t\t\t\n\t\t\tWith a bright colour combination and a fantastic look this Tile is indeed an exclusive creation by the brand TiedRibbons. This wonderful show piece will make a fine addition to the prayer room, living room or even in your office. It is easy to maintain the good looks of this tile for years with a simple cloth wipe. The print is high on quality and will retain its brightness for long. It comes with a wooden easel stand and is easy to place on any table or shelf in your room. You can consider this tile as a wonderful gift option for house warming occasions and other festive occasions too. Shop with confidence! Sit back and enjoy shopping while we make sure to deliver this purchase for free right at your doorstep.\nWith a bright colour combination and a fantastic look this Tile is indeed an exclusive creation by the brand TiedRibbons. This wonderful show piece will make a fine addition to the prayer room, living room or even in your office. It is easy to maintain the good looks of this tile for years with a simple cloth wipe. The print is high on quality and will retain its brightness for long. It comes with a wooden easel stand and is easy to place on any table or shelf in your room. You can consider this tile as a wonderful gift option for house warming occasions and other festive occasions too. Shop with confidence! Sit back and enjoy shopping while we make sure to deliver this purchase for free right at your doorstep.",
+            "stock_level": 8056,
+            "price": 1599,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "SHIE6ZSBG6MQDHNX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/h/n/x/mothersdaytile038-tiedribbons-original-imae6zpcjcaynpgq.jpeg",
+                "filename": "mothersdaytile038-tiedribbons-original-imae6zpcjcaynpgq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/5/p/n/mothersdaytile010-tiedribbons-original-imaefhmer5rn7w7w.jpeg",
+                "filename": "mothersdaytile010-tiedribbons-original-imaefhmer5rn7w7w.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/d/w/y/mothersdaytile029-tiedribbons-original-imae6zpcgz3an7ub.jpeg",
+                "filename": "mothersdaytile029-tiedribbons-original-imae6zpcgz3an7ub.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/z/t/b/mothersdaytile001-tiedribbons-original-imaefhmefnk94mam.jpeg",
+                "filename": "mothersdaytile001-tiedribbons-original-imaefhmefnk94mam.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Tiedribbons"] },
+              { "key": "Model Number", "values": ["mothersdaytile038"] },
+              { "key": "Type", "values": ["Ethnic"] },
+              { "key": "Model Name", "values": ["Super Mom Tile"] },
+              { "key": "Material", "values": ["Ceramic"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Height", "values": ["28 cm"] },
+              { "key": "Width", "values": ["20 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "6297fc94fd5ea4ef7c725d6e023a150f5e74cd64"
+    },
+    {
+      "product": {
+        "id": "f66962296ec788b112e374e3828972478a53d4cf",
+        "name": "World-Star Kadhai 1 L",
+        "description": "Dummy description for product World-Star Kadhai 1 L",
+        "manufacturer_id": "db8722c389f09dfe77d62538f52a099884e77b81",
+        "taric_code": "c8e436c7-0499-45e9-94e9-3e33367b97a7",
+        "variants": [
+          {
+            "id": "6051ff6c1e884bf96966ccd649a4e3c4",
+            "name": "World-Star Woks & Kadhais",
+            "description": "Buy World-Star Kadhai 1 L for Rs.423 online. World-Star Kadhai 1 L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6488,
+            "price": 705,
+            "sale": false,
+            "sale_price": 423,
+            "stock_keeping_unit": "PTPEAPCXUNAJKUHZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/u/h/z/worldstar-hard-anodized-deep-kadhai-10-3mm-world-star-1100x1100-imaeapzmexygwnuu.jpeg",
+                "filename": "worldstar-hard-anodized-deep-kadhai-10-3mm-world-star-1100x1100-imaeapzmexygwnuu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/u/h/z/worldstar-hard-anodized-deep-kadhai-10-3mm-world-star-original-imaeapzmexygwnuu.jpeg",
+                "filename": "worldstar-hard-anodized-deep-kadhai-10-3mm-world-star-original-imaeapzmexygwnuu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["Stir Fry"] },
+              { "key": "Brand", "values": ["World-Star"] },
+              { "key": "Non-stick", "values": ["No"] },
+              {
+                "key": "Model Number",
+                "values": ["Worldstar Hard Anodized Deep Kadhai 10 3mm"]
+              },
+              { "key": "Induction Bottom", "values": ["No"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Capacity", "values": ["1 L"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Sales Package",
+                "values": ["Deep Kadhai With Fixed Handle"]
+              },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["18 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": false,
+      "id": "f66962296ec788b112e374e3828972478a53d4cf"
+    },
+    {
+      "product": {
+        "id": "7aedb7bb243b911129df87a7565f06dc50875131",
+        "name": "Vinnis Bella Stone, Metal, Alloy Necklace",
+        "description": "Dummy description for product Vinnis Bella Stone, Metal, Alloy Necklace",
+        "manufacturer_id": "6b96657dacbce58f26e1ea2a0b9fc0e72897e5a3",
+        "taric_code": "f0511820-fa79-419c-98ee-fd7b3c48d167",
+        "variants": [
+          {
+            "id": "db0dfcfafb11779bc48221dbe63cb92b",
+            "name": "Necklaces",
+            "description": "Vinnis Bella Stone, Metal, Alloy Necklace - Buy Vinnis Bella Stone, Metal, Alloy Necklace only for Rs. 220 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3439,
+            "price": 550,
+            "sale": false,
+            "sale_price": 220,
+            "stock_keeping_unit": "NKCDYARBMAARKGFZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/g/f/z/vc1082mltn-vinnis-necklace-original-imadyb5egagsnbk2.jpeg",
+                "filename": "vc1082mltn-vinnis-necklace-original-imadyb5egagsnbk2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/g/f/z/vc1082mltn-vinnis-necklace-original-imadyb5euczfunks.jpeg",
+                "filename": "vc1082mltn-vinnis-necklace-original-imadyb5euczfunks.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/g/f/z/vc1082mltn-vinnis-necklace-original-imadyb5fdynhfmtz.jpeg",
+                "filename": "vc1082mltn-vinnis-necklace-original-imadyb5fdynhfmtz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Vinnis"] },
+              { "key": "Collection", "values": ["Ethnic"] },
+              { "key": "Model Number", "values": ["VC1082MLTN"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Bella"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Chain/Necklace Length", "values": ["12 inch"] },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Base Material", "values": ["Stone", "Metal", "Alloy"] },
+              { "key": "Necklace Type", "values": ["Matinee Necklace"] },
+              { "key": "Chain Type", "values": ["Belcher"] },
+              { "key": "Finish", "values": ["Matte"] },
+              { "key": "Sales Package", "values": ["1 Neclace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "7aedb7bb243b911129df87a7565f06dc50875131"
+    },
+    {
+      "product": {
+        "id": "29ff738ffdf506c21f069278c9c46c70839bbd41",
+        "name": "Allure Auto CM 1995 Car Mat Chevrolet Sail",
+        "description": "Dummy description for product Allure Auto CM 1995 Car Mat Chevrolet Sail",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "ffd72b8e-6737-4d45-b9e3-ea116fd6b410",
+        "variants": [
+          {
+            "id": "5b5575fcc21b5f13fb37cf2d8d35d618",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 1995 Car Mat Chevrolet Sail for Rs.1599 online. Allure Auto CM 1995 Car Mat Chevrolet Sail at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2673,
+            "price": 4900,
+            "sale": false,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QYFYRSXTH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/s/z/2/honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-1100x1100-imaecqmdx5kadmvf.jpeg",
+                "filename": "honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-1100x1100-imaecqmdx5kadmvf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/s/z/2/honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-original-imaecqmdx5kadmvf.jpeg",
+                "filename": "honda-city-odourless-car-floor-foot-mats-5-pcs-set-grey-allure-original-imaecqmdx5kadmvf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Sail"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Chevrolet Sail - Odourless Car Floor Foot Mats 5 Pcs Set ( Grey )"
+                ]
+              },
+              { "key": "Vehicle Brand", "values": ["Chevrolet"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 1995"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "29ff738ffdf506c21f069278c9c46c70839bbd41"
+    },
+    {
+      "product": {
+        "id": "94417601be3ef4932e8e36124ddc20369743b4f2",
+        "name": "Metallino Hard Anodised 1.7L Kadhai 1.7 L",
+        "description": "Dummy description for product Metallino Hard Anodised 1.7L Kadhai 1.7 L",
+        "manufacturer_id": "f9ce9c118aaef8ebb16a72dc5d7b7f06b45a15ad",
+        "taric_code": "e799975c-b758-4705-bf2d-1ddb910e85bc",
+        "variants": [
+          {
+            "id": "6835857e2efce1fd1ce6ef3559a2e744",
+            "name": "Metallino Woks & Kadhais",
+            "description": "Buy Metallino Hard Anodised 1.7L Kadhai 1.7 L for Rs.748 online. Metallino Hard Anodised 1.7L Kadhai 1.7 L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9695,
+            "price": 935,
+            "sale": false,
+            "sale_price": 748,
+            "stock_keeping_unit": "PTPEYPK3HFACCKAM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/p/6/m/am000105-metalliano-original-imae2sxqugwy4xep.jpeg",
+                "filename": "am000105-metalliano-original-imae2sxqugwy4xep.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/p/6/m/am000105-metalliano-original-imae2sxqugwy4xep.jpeg",
+                "filename": "am000105-metalliano-original-imae2sxqugwy4xep.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["Metallino"] },
+              { "key": "Non-stick", "values": ["No"] },
+              { "key": "Model Number", "values": ["AM000103"] },
+              { "key": "Induction Bottom", "values": ["No"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Model Name", "values": ["Hard Anodised 1.7L"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Lid Included", "values": ["Yes"] },
+              { "key": "Capacity", "values": ["1.7 L"] },
+              { "key": "Handle Features", "values": ["Double Sided Handle"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["1 Kadhai With 1 Lid"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["19.5 cm"] },
+              { "key": "Weight", "values": ["1000 g"] },
+              { "key": "Dishwasher Safe", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "94417601be3ef4932e8e36124ddc20369743b4f2"
+    },
+    {
+      "product": {
+        "id": "509ef78a6c920dcf69457a82e92c34f1a6d1c272",
+        "name": "Allure Auto CM 551 Car Mat Tata Zest",
+        "description": "Dummy description for product Allure Auto CM 551 Car Mat Tata Zest",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "635f9071-1bfb-4442-8473-0a4dc194ca65",
+        "variants": [
+          {
+            "id": "d38e811e79d2c6c2bbf46236a828e96b",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 551 Car Mat Tata Zest for Rs.920 online. Allure Auto CM 551 Car Mat Tata Zest at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9878,
+            "price": 2800,
+            "sale": true,
+            "sale_price": 920,
+            "stock_keeping_unit": "CRTECN2QU9FYCMKU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/8/x/k/tata-nano-rubber-mats-grey-allure-auto-cm-543-1100x1100-imaecjxkgfhnb3hq.jpeg",
+                "filename": "tata-nano-rubber-mats-grey-allure-auto-cm-543-1100x1100-imaecjxkgfhnb3hq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/8/x/k/tata-nano-rubber-mats-grey-allure-auto-cm-543-original-imaecjxkgfhnb3hq.jpeg",
+                "filename": "tata-nano-rubber-mats-grey-allure-auto-cm-543-original-imaecjxkgfhnb3hq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Zest"] },
+              {
+                "key": "Model Number",
+                "values": ["Tata Zest - Rubber Mats ( Grey)"]
+              },
+              { "key": "Vehicle Brand", "values": ["Tata"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Model Name", "values": ["CM 551"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "509ef78a6c920dcf69457a82e92c34f1a6d1c272"
+    },
+    {
+      "product": {
+        "id": "2991ca0b7c871539fc0b510e01fe3930862561db",
+        "name": "Capdase Car Headrest Mount",
+        "description": "Dummy description for product Capdase Car Headrest Mount",
+        "manufacturer_id": "7072ece941686a69b685713290a67b64838e6993",
+        "taric_code": "fcb47372-511b-4415-bc1b-eac5f861fb57",
+        "variants": [
+          {
+            "id": "26cd975ab35eebec77c5513212b384e1",
+            "name": "Car Mobile Holders",
+            "description": "Buy Capdase Car Headrest Mount for Rs.1550 Online. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 518,
+            "price": 2099,
+            "sale": false,
+            "sale_price": 1550,
+            "stock_keeping_unit": "ACCEATGZU9QWN3XR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/3/x/r/capdase-car-headrest-mount-1100x1100-imaeasg6rgqxvag2.jpeg",
+                "filename": "capdase-car-headrest-mount-1100x1100-imaeasg6rgqxvag2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/3/x/r/capdase-car-headrest-mount-original-imaeasg6rgqxvag2.jpeg",
+                "filename": "capdase-car-headrest-mount-original-imaeasg6rgqxvag2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-cradle/3/x/r/capdase-car-headrest-mount-original-imaeasg4wpvbzc92.jpeg",
+                "filename": "capdase-car-headrest-mount-original-imaeasg4wpvbzc92.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Capdase"] },
+              { "key": "In The Box", "values": ["Car Cardle"] },
+              { "key": "Model", "values": ["Car Headrest Mount"] },
+              { "key": "Color", "values": ["Black"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "59d641c40baab20559dece118072aa17b4a025d2" }
+      },
+      "active": true,
+      "id": "2991ca0b7c871539fc0b510e01fe3930862561db"
+    },
+    {
+      "product": {
+        "id": "9bdfab8ec4ad8bc17df03c38fdbf048de2a43eed",
+        "name": "Allure Auto CM 762 Car Mat Hyundai Verna",
+        "description": "Dummy description for product Allure Auto CM 762 Car Mat Hyundai Verna",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "b4f3438b-89a5-4398-985c-30406c098584",
+        "variants": [
+          {
+            "id": "66f41f1c9d80dd300f4e80c15b64ff0b",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 762 Car Mat Hyundai Verna for Rs.1380 online. Allure Auto CM 762 Car Mat Hyundai Verna at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2287,
+            "price": 4200,
+            "sale": false,
+            "sale_price": 1380,
+            "stock_keeping_unit": "CRTECN2QXHYSFTHY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/e/k/5/fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-1100x1100-imaecjxkskucjg65.jpeg",
+                "filename": "fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-1100x1100-imaecjxkskucjg65.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/e/k/5/fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-original-imaecjxkskucjg65.jpeg",
+                "filename": "fiat-punto-evo-rubber-mats-transparent-allure-auto-cm-730-original-imaecjxkskucjg65.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Verna"] },
+              {
+                "key": "Model Number",
+                "values": ["Hyundai Verna - Rubber Mats ( Transparent)"]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Hyundai"] },
+              { "key": "Model Name", "values": ["CM 762"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Sales Package", "values": ["Set of 4 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "9bdfab8ec4ad8bc17df03c38fdbf048de2a43eed"
+    },
+    {
+      "product": {
+        "id": "48bb6fd831134583b851986d868de2742247eba9",
+        "name": "Adorelabel Exquisite Gold and Pink Designer Metal Necklace",
+        "description": "Dummy description for product Adorelabel Exquisite Gold and Pink Designer Metal Necklace",
+        "manufacturer_id": "9eaa1c42c777be6b7b6ad3068df9a4654402be4f",
+        "taric_code": "5f1a7e26-8b7d-4832-a30c-957ff492c9c1",
+        "variants": [
+          {
+            "id": "b4329486c1f5633af6bda1f9dce4c012",
+            "name": "Necklaces",
+            "description": "Adorelabel Exquisite Gold and Pink Designer Metal Necklace - Buy Adorelabel Exquisite Gold and Pink Designer Metal Necklace only for Rs. 828 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8443,
+            "price": 2760,
+            "sale": false,
+            "sale_price": 828,
+            "stock_keeping_unit": "NKCE69P8G4ZRAUAF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/u/a/f/aln134-adorelabel-necklace-original-imae699vmfbjjpup.jpeg",
+                "filename": "aln134-adorelabel-necklace-original-imae699vmfbjjpup.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Adorelabel"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["ALN134"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Model Name",
+                "values": ["Exquisite Gold and Pink Designer"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Metal"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "48bb6fd831134583b851986d868de2742247eba9"
+    },
+    {
+      "product": {
+        "id": "603bb4ee39c4f72b711f3ff56492c2dfeb873f1e",
+        "name": "Sumeet Quad Kadhai 2 L",
+        "description": "Dummy description for product Sumeet Quad Kadhai 2 L",
+        "manufacturer_id": "dff1990ab43a5b70033e62c5a3df9c51fd4bc243",
+        "taric_code": "1a43a8e8-c9c6-4d5b-b242-d88b90ed3e30",
+        "variants": [
+          {
+            "id": "907031c8eff5d60cc73ff2a3ee70c2eb",
+            "name": "Sumeet Woks & Kadhais",
+            "description": "Sumeet Quad Kadhai 2 L (Aluminium, Non-stick)\n                         Price: Rs. 759\n\t\t\t\t\n\t\t\tWhether it’s for sautéing or deep frying or just a normal fry this sumeet 4mm Nonstick Kadhai is perfect kitchen companion.\n This kadhai is made with aluminum which is better for cooking as it delivers heat uniformly throughout the surface. Provided with a non-stick coating, which means that it permits the easy removal of food particles from the base of the pan. \nThe khadai has handles on either side, making it easy to handle while making a hot dish.\nSumeet 4mm Nonstick Kadhai Comes with The 3 mm thick glass lid can be used to cover this pan so that the essential nutrients and flavor are preserved, and it allows you to see through the glass.\nWhether it’s for sautéing or deep frying or just a normal fry this sumeet 4mm Nonstick Kadhai is perfect kitchen companion.\n This kadhai is made with aluminum which is better for cooking as it delivers heat uniformly throughout the surface. Provided with a non-stick coating, which means that it permits the easy removal of food particles from the base of the pan. \nThe khadai has handles on either side, making it easy to handle while making a hot dish.\nSumeet 4mm Nonstick Kadhai Comes with The 3 mm thick glass lid can be used to cover this pan so that the essential nutrients and flavor are preserved, and it allows you to see through the glass.",
+            "stock_level": 9433,
+            "price": 1290,
+            "sale": false,
+            "sale_price": 759,
+            "stock_keeping_unit": "PTPE9DXYPQUKBEKF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/e/k/f/s4dkg13-sumeet-1100x1100-imae9ckhxta3tzkg.jpeg",
+                "filename": "s4dkg13-sumeet-1100x1100-imae9ckhxta3tzkg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/e/k/f/s4dkg13-sumeet-original-imae9ckhxta3tzkg.jpeg",
+                "filename": "s4dkg13-sumeet-original-imae9ckhxta3tzkg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Sumeet"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Lid Included", "values": ["Yes"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Design", "values": ["Na"] },
+              { "key": "Pan Type", "values": ["Fry"] },
+              { "key": "Non-stick", "values": ["Yes"] },
+              { "key": "Model Number", "values": ["S4DKG13"] },
+              { "key": "Induction Bottom", "values": ["No"] },
+              { "key": "Model Name", "values": ["Quad"] },
+              { "key": "Capacity", "values": ["2 L"] },
+              { "key": "Handle Features", "values": ["Strong Handle"] },
+              { "key": "Sales Package", "values": ["1 Kadhai With Glass Lid"] },
+              { "key": "Pack of", "values": ["1"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 year Domestic Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Consumer needs to send defective product to company."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Accessories like Handle",
+                  "Knob",
+                  "Lid etc not covered under warranty. Any damage due to not following instructions is also not covered under warranty"
+                ]
+              },
+              { "key": "Diameter", "values": ["22 cm"] },
+              { "key": "Base Thickness", "values": ["4 cm"] },
+              { "key": "Weight", "values": ["1700 g"] },
+              { "key": "Other Dimensions", "values": ["na"] },
+              { "key": "Height", "values": ["9 cm"] },
+              { "key": "Width", "values": ["22 cm"] },
+              { "key": "Depth", "values": ["9 cm"] },
+              {
+                "key": "Other Features",
+                "values": ["Use Minimum Oil Or Butter For Better Results"]
+              },
+              { "key": "Dishwasher Safe", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "603bb4ee39c4f72b711f3ff56492c2dfeb873f1e"
+    },
+    {
+      "product": {
+        "id": "0bd59d569362eca7abd4892c2366cd6070acce35",
+        "name": "Allure Auto CM 1830 Car Mat Toyota Altis",
+        "description": "Dummy description for product Allure Auto CM 1830 Car Mat Toyota Altis",
+        "manufacturer_id": "4b51554c41409760cbf5b1931d8641584dff085a",
+        "taric_code": "02dff954-a8a0-4ee9-8ef5-447af251ab5c",
+        "variants": [
+          {
+            "id": "6b61574ae4b9b8865ee44c0909837948",
+            "name": "Car Mats",
+            "description": "Buy Allure Auto CM 1830 Car Mat Toyota Altis for Rs.1599 online. Allure Auto CM 1830 Car Mat Toyota Altis at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5286,
+            "price": 4900,
+            "sale": false,
+            "sale_price": 1599,
+            "stock_keeping_unit": "CRTECN2QYRZDFBTB",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/w/f/t/maruti-celerio-odourless-car-floor-foot-mats-5-pcs-set-blue-1100x1100-imaecqmdvzhfruzs.jpeg",
+                "filename": "maruti-celerio-odourless-car-floor-foot-mats-5-pcs-set-blue-1100x1100-imaecqmdvzhfruzs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/w/f/t/maruti-celerio-odourless-car-floor-foot-mats-5-pcs-set-blue-original-imaecqmdvzhfruzs.jpeg",
+                "filename": "maruti-celerio-odourless-car-floor-foot-mats-5-pcs-set-blue-original-imaecqmdvzhfruzs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Allure Auto"] },
+              { "key": "Model Year", "values": ["NA"] },
+              { "key": "Vehicle Model Name", "values": ["Altis"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Toyota Altis - Odourless Car Floor Foot Mats 5 Pcs Set ( Blue )"
+                ]
+              },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Vehicle Brand", "values": ["Toyota"] },
+              { "key": "Model Name", "values": ["CM 1830"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Sales Package", "values": ["Set of 5 Car Floor Mats"] },
+              { "key": "Pack of", "values": ["5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "0bd59d569362eca7abd4892c2366cd6070acce35"
+    },
+    {
+      "product": {
+        "id": "e7689534669513598f1295459a4fcb6f6489a7c3",
+        "name": "Voylla Artificial Beaded Plain Alloy Necklace",
+        "description": "Dummy description for product Voylla Artificial Beaded Plain Alloy Necklace",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "7db991f3-1919-4271-9d09-cfb3ecafda62",
+        "variants": [
+          {
+            "id": "20193df34e1eb546a0c977dca338b9e3",
+            "name": "Necklaces",
+            "description": "Voylla Artificial Beaded Plain Alloy Necklace - Buy Voylla Artificial Beaded Plain Alloy Necklace only for Rs. 289 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1232,
+            "price": 449,
+            "sale": false,
+            "sale_price": 289,
+            "stock_keeping_unit": "NKCE9G2B7GUUJ8HR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/8/h/r/8907275323266-voylla-necklace-original-imae9hua7nyzmzd8.jpeg",
+                "filename": "8907275323266-voylla-necklace-original-imae9hua7nyzmzd8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/8/h/r/8907275323266-voylla-necklace-original-imae9hua7nyzmzd8.jpeg",
+                "filename": "8907275323266-voylla-necklace-original-imae9hua7nyzmzd8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["8907275323266"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Artificial Beaded Plain"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday", "Workwear"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Weight", "values": ["80.06 g"] },
+              { "key": "Height", "values": ["508 mm"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The product is covered under 30 days Replacement Guarantee."
+                ]
+              },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["NA"] },
+              { "key": "Finish", "values": ["Plain"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "e7689534669513598f1295459a4fcb6f6489a7c3"
+    },
+    {
+      "product": {
+        "id": "68a201cd646a88c31e3a2a182b73d75726dfe5d7",
+        "name": "Alda Wok Glass Lid Kadhai",
+        "description": "Dummy description for product Alda Wok Glass Lid Kadhai",
+        "manufacturer_id": "1768d5b45918f096f13740a287b1c6fecd17de12",
+        "taric_code": "b7b091b5-4b12-4bbf-9732-bde40981ae4d",
+        "variants": [
+          {
+            "id": "61388c9ac8bc1d7322257068b4aa3480",
+            "name": "Alda Woks & Kadhais",
+            "description": "Buy Alda Wok Glass Lid Kadhai for Rs.1350 online. Alda Wok Glass Lid Kadhai at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 837,
+            "price": 1790,
+            "sale": true,
+            "sale_price": 1350,
+            "stock_keeping_unit": "PTPDVPEXAA854NEY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/n/e/y/cwhpwokl26-alda-1100x1100-imadw9dw7thmxzf2.jpeg",
+                "filename": "cwhpwokl26-alda-1100x1100-imadw9dw7thmxzf2.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/n/e/y/cwhpwokl26-alda-original-imadw9dw7thmxzf2.jpeg",
+                "filename": "cwhpwokl26-alda-original-imadw9dw7thmxzf2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["Fry"] },
+              { "key": "Brand", "values": ["Alda"] },
+              { "key": "Non-stick", "values": ["Yes"] },
+              { "key": "Model Number", "values": ["CWHPWOKL26"] },
+              { "key": "Induction Bottom", "values": ["Yes"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Model Name", "values": ["Wok Glass Lid"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Lid Included", "values": ["Yes"] },
+              { "key": "Color", "values": ["Red", "Grey"] },
+              { "key": "Sales Package", "values": ["1 Kadhai with Lid"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["26 cm"] },
+              { "key": "Base Thickness", "values": ["0.32 cm"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "LEAD Free",
+                  "Easy to Clean with No Chipping",
+                  "Cracking and Staining",
+                  "PFOA",
+                  "High Temperature Paint Out Side"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "68a201cd646a88c31e3a2a182b73d75726dfe5d7"
+    },
+    {
+      "product": {
+        "id": "55ec34d8a2c9acb34b9174a2b48f4d521992a1e2",
+        "name": "3a AUTOCARE Car Mat Hyundai i20",
+        "description": "Dummy description for product 3a AUTOCARE Car Mat Hyundai i20",
+        "manufacturer_id": "29750a53f1fb25a20676e63192c69a0969889588",
+        "taric_code": "43d6e9d1-9e81-4b60-93bc-92239721133c",
+        "variants": [
+          {
+            "id": "3f1a33752f6aec6116235a0cc6baadd2",
+            "name": "Car Mats",
+            "description": "Buy 3a AUTOCARE Car Mat Hyundai i20 for Rs.1490 online. 3a AUTOCARE Car Mat Hyundai i20 at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1904,
+            "price": 2300,
+            "sale": false,
+            "sale_price": 1490,
+            "stock_keeping_unit": "CRTEA7HAEXGZ7HNU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-1100x1100-imae9zygzqpjhhgx.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-1100x1100-imae9zygzqpjhhgx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-original-imae9zygzqpjhhgx.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-original-imae9zygzqpjhhgx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygyuzzjz33.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygyuzzjz33.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghuyayb2m.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghuyayb2m.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygjzzrj4rr.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygjzzrj4rr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyggpfzadfh.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyggpfzadfh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygsgndh4qb.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygsgndh4qb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygmz9wwpsf.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygmz9wwpsf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/g/4/d/3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghhfcbfsf.jpeg",
+                "filename": "3a117-1-mobilio-3a-autocare-mobilio-original-imae9zyghhfcbfsf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-mat/g/9/p/3a114-1-verna-3a-autocare-verna-original-imae9zyggxgrjukw.jpeg",
+                "filename": "3a114-1-verna-3a-autocare-verna-original-imae9zyggxgrjukw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-mat/q/t/w/3a130-vento-3a-autocare-vento-original-imae9zygzzxww6ya.jpeg",
+                "filename": "3a130-vento-3a-autocare-vento-original-imae9zygzzxww6ya.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["3a AUTOCARE"] },
+              { "key": "Grommets Included", "values": ["Yes"] },
+              {
+                "key": "Used For",
+                "values": ["Travel with clean car floor and ecofriendly"]
+              },
+              { "key": "Vehicle Model Name", "values": ["i20"] },
+              { "key": "Model Number", "values": ["3A112/i20"] },
+              { "key": "Type", "values": ["Floor Mat"] },
+              { "key": "Spiked Sole", "values": ["Yes"] },
+              { "key": "Vehicle Brand", "values": ["Hyundai"] },
+              { "key": "Material", "values": ["Microfibre"] },
+              { "key": "Finish", "values": ["Matt"] },
+              { "key": "Color", "values": ["Beige"] },
+              {
+                "key": "Sales Package",
+                "values": ["2 Pieces Mats Front", "3 Pieces Mats Rear"]
+              },
+              { "key": "Pack of", "values": ["5"] },
+              { "key": "Weight", "values": ["3 kg"] },
+              { "key": "Height", "values": ["65 cm"] },
+              { "key": "Width", "values": ["46 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Any manufacturing Defects"]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Any Manufacturing defects"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Customer needs to send the product at company warehouse"
+                ]
+              },
+              { "key": "Not Covered in Warranty", "values": ["Cuts And Burn"] },
+              {
+                "key": "Other Features",
+                "values": ["Antiskid material used in bottom"]
+              },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Technology Used", "values": ["Advanced Fit Edge"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": false,
+      "id": "55ec34d8a2c9acb34b9174a2b48f4d521992a1e2"
+    },
+    {
+      "product": {
+        "id": "4ca8b492e58703ebeb832e1dd9ca8a5145f07584",
+        "name": "Voylla Artificial Classic Glossy Pearl Yellow Gold Plated Metal Necklace",
+        "description": "Dummy description for product Voylla Artificial Classic Glossy Pearl Yellow Gold Plated Metal Necklace",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "252234ee-c1b8-41b5-9f40-cd88689dc717",
+        "variants": [
+          {
+            "id": "88bc09f57de7dc89cdff48f5a1a883a7",
+            "name": "Necklaces",
+            "description": "Voylla Artificial Classic Glossy Pearl Yellow Gold Plated Metal Necklace\n                         Price: Rs. 479\n\t\t\t\t\n\t\t\tDelicate yet classy statement multi strand pearl beaded luxe necklace. It is made of alloy with glaring gold tone. A regal look multistrand necklace you should own now.\nDelicate yet classy statement multi strand pearl beaded luxe necklace. It is made of alloy with glaring gold tone. A regal look multistrand necklace you should own now.",
+            "stock_level": 1291,
+            "price": 539,
+            "sale": false,
+            "sale_price": 479,
+            "stock_keeping_unit": "NKCECHHZSUD4KNZF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/n/z/f/8907275401353-voylla-necklace-original-imaech7y6rmf535v.jpeg",
+                "filename": "8907275401353-voylla-necklace-original-imaech7y6rmf535v.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/n/z/f/8907275401353-voylla-necklace-original-imaech7ygaz8spr8.jpeg",
+                "filename": "8907275401353-voylla-necklace-original-imaech7ygaz8spr8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["Freshwater"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["8907275401353"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Artificial Classic Glossy"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Everyday", "Workwear"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The product is covered under 30 days Replacement Guarantee."
+                ]
+              },
+              { "key": "Weight", "values": ["57.78 g"] },
+              { "key": "Height", "values": ["698.5 mm"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Pearl"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "4ca8b492e58703ebeb832e1dd9ca8a5145f07584"
+    },
+    {
+      "product": {
+        "id": "0d4576625bc86f6d0b9c3e5b1c5e7374418d48a1",
+        "name": "Metallino Hard Anodised WGlass Lid Kadhai 3.5 L",
+        "description": "Dummy description for product Metallino Hard Anodised WGlass Lid Kadhai 3.5 L",
+        "manufacturer_id": "f9ce9c118aaef8ebb16a72dc5d7b7f06b45a15ad",
+        "taric_code": "83d35ebc-4acb-4a84-971f-d0ff94e383a9",
+        "variants": [
+          {
+            "id": "fb733e04ff2d72c59d8513eb574e81a2",
+            "name": "Metallino Woks & Kadhais",
+            "description": "Buy Metallino Hard Anodised WGlass Lid Kadhai 3.5 L for Rs.1132 online. Metallino Hard Anodised WGlass Lid Kadhai 3.5 L at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3632,
+            "price": 1510,
+            "sale": false,
+            "sale_price": 1132,
+            "stock_keeping_unit": "PTPEYW8HNV6G9YYR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pot-pan/j/y/s/haibdkgl4-metallino-original-imaeywfhrkf77phm.jpeg",
+                "filename": "haibdkgl4-metallino-original-imaeywfhrkf77phm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pot-pan/j/y/s/haibdkgl4-metallino-original-imaeywfhrkf77phm.jpeg",
+                "filename": "haibdkgl4-metallino-original-imaeywfhrkf77phm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pan Type", "values": ["Curry"] },
+              { "key": "Non-stick", "values": ["No"] },
+              { "key": "Brand", "values": ["Metallino"] },
+              { "key": "Model Number", "values": ["HADKDGL 6"] },
+              { "key": "Induction Bottom", "values": ["No"] },
+              { "key": "Type", "values": ["Kadhai"] },
+              { "key": "Material", "values": ["Aluminium"] },
+              { "key": "Model Name", "values": ["Hard Anodised WGlass Lid"] },
+              { "key": "Lid Included", "values": ["Yes"] },
+              { "key": "Handle Features", "values": ["Double Sided Handle"] },
+              { "key": "Capacity", "values": ["3.5 L"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Sales Package",
+                "values": [
+                  "1 Deep Kadai",
+                  "1 Glass Lid",
+                  "1 Knob",
+                  "1 instruction card"
+                ]
+              },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Diameter", "values": ["26 cm"] },
+              { "key": "Weight", "values": ["1350 g"] },
+              {
+                "key": "Other Features",
+                "values": ["Non toxic", "nonreactive with foods"]
+              },
+              { "key": "Dishwasher Safe", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "64635b310dc9d809071ebc9370334fc421b9ab4f" }
+      },
+      "active": true,
+      "id": "0d4576625bc86f6d0b9c3e5b1c5e7374418d48a1"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

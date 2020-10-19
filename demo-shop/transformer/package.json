@@ -1,0 +1,27 @@
+{
+  "name": "@restorecommerce/testdata-transform",
+  "version": "0.1.0",
+  "description": "Util for importing test data",
+  "license": "MIT",
+  "keywords": [
+    "restorecommerce",
+    "seed",
+    "data"
+  ],
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "csv-parser": "^2.3.1",
+    "object-hash": "^2.0.0",
+    "prettier": "^1.19.1",
+    "tslint": "^5.15.0",
+    "typescript": "^3.4.1",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.2"
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">= 9.2.0"
+  }
+}

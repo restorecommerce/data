@@ -1,0 +1,229 @@
+{
+  "resource_list": [
+    {
+      "id": "255f94aa15664d58baa4bf7a06a85681",
+      "name": "maria.mustersuper",
+      "first_name": "Maria",
+      "last_name": "Mustersuper",
+      "email": "maria.mustersuper@restorecommerce.io",
+      "password": "rcsuperpw",
+      "default_scope": "ce79782cbd064389aaf66d280d3a6c06",
+      "role_associations": [
+        {
+          "role": "78c2571c1bf8483285ca61633a24a451",
+          "attributes": []
+        }
+      ],
+      "locale_id": "aa2c6c1ac28c4a3cbbafb4da3c1fef7a",
+      "timezone_id": "647ce9aabe574f5d9a6eb4ca755e52ed",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:user.User"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "255f94aa15664d58baa4bf7a06a85681"
+        }
+      ]
+    },
+    {
+      "id": "355f94aa15664d58baa4bf7a06a85681",
+      "name": "manuel.musteradmin",
+      "first_name": "Manuel",
+      "last_name": "Musteradmin",
+      "email": "manuel.musteradmin@restorecommerce.io",
+      "password": "rcadminpw",
+      "default_scope": "ce79782cbd064389aaf66d280d3a6c06",
+      "role_associations": [
+        {
+          "role": "95a9302f65434061a3f33e9197c7af24",
+          "attributes": [
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingEntity",
+              "value": "urn:restorecommerce:acs:model:organization.Organization"
+            },
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingInstance",
+              "value": "ce79782cbd064389aaf66d280d3a6c06"
+            }
+          ]
+        },
+        {
+          "role": "dfcfe667eb614cc1864b3c723297240a",
+          "attributes": [
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingEntity",
+              "value": "urn:restorecommerce:acs:model:organization.Organization"
+            },
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingInstance",
+              "value": "ce79782cbd064389aaf66d280d3a6c06"
+            }
+          ]
+        }
+      ],
+      "locale_id": "aa2c6c1ac28c4a3cbbafb4da3c1fef7a",
+      "timezone_id": "647ce9aabe574f5d9a6eb4ca755e52ed",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:user.User"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "355f94aa15664d58baa4bf7a06a85681"
+        }
+      ]
+    },
+    {
+      "id": "455f94aa15664d58baa4bf7a06a85681",
+      "name": "kurt.kunde",
+      "first_name": "Kurt",
+      "last_name": "Kunde",
+      "email": "kurt.kunde@restorecommerce.io",
+      "password": "rccustomer1pw",
+      "default_scope": "ce79782cbd064389aaf66d280d3a6c06",
+      "role_associations": [
+        {
+          "role": "95a9302f65434061a3f33e9197c7af24",
+          "attributes": [
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingEntity",
+              "value": "urn:restorecommerce:acs:model:organization.Organization"
+            },
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingInstance",
+              "value": "ce79782cbd064389aaf66d280d3a6c06"
+            }
+          ]
+        }
+      ],
+      "locale_id": "aa2c6c1ac28c4a3cbbafb4da3c1fef7a",
+      "timezone_id": "647ce9aabe574f5d9a6eb4ca755e52ed",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:user.User"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "455f94aa15664d58baa4bf7a06a85681"
+        }
+      ]
+    },
+    {
+      "id": "555f94aa15664d58baa4bf7a06a85681",
+      "name": "katrin.kundin",
+      "first_name": "Katrin",
+      "last_name": "Kundin",
+      "email": "katrin.kundin@restorecommerce.io",
+      "password": "rccustomer2pw",
+      "default_scope": "ce79782cbd064389aaf66d280d3a6c06",
+      "role_associations": [
+        {
+          "role": "95a9302f65434061a3f33e9197c7af24",
+          "attributes": [
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingEntity",
+              "value": "urn:restorecommerce:acs:model:organization.Organization"
+            },
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingInstance",
+              "value": "ce79782cbd064389aaf66d280d3a6c06"
+            }
+          ]
+        }
+      ],
+      "locale_id": "aa2c6c1ac28c4a3cbbafb4da3c1fef7a",
+      "timezone_id": "647ce9aabe574f5d9a6eb4ca755e52ed",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:user.User"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "555f94aa15664d58baa4bf7a06a85681"
+        }
+      ]
+    },
+    {
+      "id": "655f94aa15664d58baa4bf7a06a85681",
+      "name": "karl.kunde",
+      "first_name": "Karl",
+      "last_name": "Kunde",
+      "email": "karl.kunde@restorecommerce.io",
+      "password": "rccustomer3pw",
+      "default_scope": "ce79782cbd064389aaf66d280d3a6c06",
+      "role_associations": [
+        {
+          "role": "95a9302f65434061a3f33e9197c7af24",
+          "attributes": [
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingEntity",
+              "value": "urn:restorecommerce:acs:model:organization.Organization"
+            },
+            {
+              "id": "urn:restorecommerce:acs:names:roleScopingInstance",
+              "value": "ce79782cbd064389aaf66d280d3a6c06"
+            }
+          ]
+        }
+      ],
+      "locale_id": "aa2c6c1ac28c4a3cbbafb4da3c1fef7a",
+      "timezone_id": "647ce9aabe574f5d9a6eb4ca755e52ed",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:user.User"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "655f94aa15664d58baa4bf7a06a85681"
+        }
+      ]
+    }
+  ],
+  "mutation": "mutation{createUsers(input:{listOfUsers: ${resource_list} }) {details {id}, error{code, message} }}"
+}

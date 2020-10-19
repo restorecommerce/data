@@ -1,0 +1,2542 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "d51261882b8e749be1bfd4a877a830aad10aca95",
+        "name": "Powell Slim Fit Men's Jeans",
+        "description": "Dummy description for product Powell Slim Fit Men's Jeans",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "d2207d90-b1b2-42ab-86db-9491aa9be71b",
+        "variants": [
+          {
+            "id": "5208f35d7e3fca56a0bf23c3e788f5e0",
+            "name": "Powell Jeans",
+            "description": "Powell Slim Fit Men's Jeans - Buy Blue Powell Slim Fit Men's Jeans For Only Rs. 1599 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 5838,
+            "price": 1599,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "JEAEACG2S5WC48GY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jean/r/p/t/powell-slim-fit-men-s-jeans-blue-7-powell-32-original-imaea3gytcckyu9z.jpeg",
+                "filename": "powell-slim-fit-men-s-jeans-blue-7-powell-32-original-imaea3gytcckyu9z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/r/p/t/powell-slim-fit-men-s-jeans-blue-7-powell-30-original-imaea3gzzxma3agy.jpeg",
+                "filename": "powell-slim-fit-men-s-jeans-blue-7-powell-30-original-imaea3gzzxma3agy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/r/p/t/powell-slim-fit-men-s-jeans-blue-7-powell-34-original-imaea3hy2qz36d68.jpeg",
+                "filename": "powell-slim-fit-men-s-jeans-blue-7-powell-34-original-imaea3hy2qz36d68.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton Blend"] },
+              { "key": "Wash", "values": ["Stone Wash"] },
+              { "key": "Rise", "values": ["Mid Rise"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              {
+                "key": "Style Code",
+                "values": ["Powell Slim Fit Men's Jeans ,Blue 7"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "de78c6c3598a510d46e216d17050f3321b6e455b" }
+      },
+      "active": false,
+      "id": "d51261882b8e749be1bfd4a877a830aad10aca95"
+    },
+    {
+      "product": {
+        "id": "0908ddbb552917a1997f8e96f1771c452b7c9776",
+        "name": "OnlinePearlShop Pearl Alloy Stud Earring",
+        "description": "Dummy description for product OnlinePearlShop Pearl Alloy Stud Earring",
+        "manufacturer_id": "c6de9cd88787cf4de8c7fc43bd20106e7cf8ead9",
+        "taric_code": "052ff296-c67e-4ecb-bb78-c447f26d0c93",
+        "variants": [
+          {
+            "id": "fd6c842077b72363af463b90ecdd4145",
+            "name": "Earrings",
+            "description": "OnlinePearlShop Pearl Alloy Stud Earring - Buy OnlinePearlShop Pearl Alloy Stud Earring only for Rs. 299 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 321,
+            "price": 1200,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "ERGDXGXPRPG6XA8D",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/a/8/d/dsner224-onlinepearlshop-stud-earring-original-imadxgytaybycyyw.jpeg",
+                "filename": "dsner224-onlinepearlshop-stud-earring-original-imadxgytaybycyyw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["Freshwater"] },
+              { "key": "Brand", "values": ["OnlinePearlShop"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["DSNER224"] },
+              { "key": "Type", "values": ["Stud Earring"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Pearl"] },
+              { "key": "Sales Package", "values": ["1 Pair of Earrings"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": false,
+      "id": "0908ddbb552917a1997f8e96f1771c452b7c9776"
+    },
+    {
+      "product": {
+        "id": "dbe2ae4c33c54141badb51abbc73ac8ac843fb8f",
+        "name": "SP Jewellery Black Silver Pearl Alloy Hoop Earring",
+        "description": "Dummy description for product SP Jewellery Black Silver Pearl Alloy Hoop Earring",
+        "manufacturer_id": "4137c79e5c150a0b568eb870c2fa2ca332fb97ba",
+        "taric_code": "4be8809d-65e1-4421-bf45-f13647179821",
+        "variants": [
+          {
+            "id": "7e1c8b4ba95bc4685b44e792ea237a42",
+            "name": "Earrings",
+            "description": "SP Jewellery Black Silver Pearl Alloy Hoop Earring - Buy SP Jewellery Black Silver Pearl Alloy Hoop Earring only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3672,
+            "price": 999,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "ERGEY7SABUMYKSUU",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/s/u/u/sper-19-9-14-25-sp-jewellery-hoop-earring-original-imaeyazzgz6j4m9h.jpeg",
+                "filename": "sper-19-9-14-25-sp-jewellery-hoop-earring-original-imaeyazzgz6j4m9h.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/earring/s/u/u/sper-19-9-14-25-sp-jewellery-hoop-earring-original-imaeyazzgz6j4m9h.jpeg",
+                "filename": "sper-19-9-14-25-sp-jewellery-hoop-earring-original-imaeyazzgz6j4m9h.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Shape", "values": ["Round"] },
+              { "key": "Pearl Type", "values": ["Plastic"] },
+              { "key": "Brand", "values": ["SP Jewellery"] },
+              { "key": "Model Number", "values": ["SPER-19-9-14-25"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Black Silver"] },
+              { "key": "Type", "values": ["Hoop Earring"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Gold", "Black"] },
+              { "key": "Diameter", "values": ["23 mm"] },
+              { "key": "Weight", "values": ["25 g"] },
+              { "key": "Height", "values": ["25 mm"] },
+              { "key": "Width", "values": ["23 mm"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Pearl"] },
+              { "key": "Sales Package", "values": ["1 Earring"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "dbe2ae4c33c54141badb51abbc73ac8ac843fb8f"
+    },
+    {
+      "product": {
+        "id": "ffcad1c706e9805f05c6258ee5fcc9ec34a4ce5e",
+        "name": "Nillkin Amazing H Tempered Glass for Htc Desire 516",
+        "description": "Dummy description for product Nillkin Amazing H Tempered Glass for Htc Desire 516",
+        "manufacturer_id": "ec8b264b2be9bc2478554007847651fa91ecfe91",
+        "taric_code": "2786900c-e4d5-4817-87c5-01f0af48e1b4",
+        "variants": [
+          {
+            "id": "3c5e34dc7e1f1169f4364aa52d65938f",
+            "name": "Nillkin Screen Protectors",
+            "description": "Nillkin Amazing H Tempered Glass for Htc Desire 516\n                         Price: Rs. 599\n\t\t\t\t\n\t\t\tNillkin Tempered Glass for HTC Desire 516\nNillkin Tempered Glass for HTC Desire 516",
+            "stock_level": 3099,
+            "price": 999,
+            "sale": true,
+            "sale_price": 599,
+            "stock_keeping_unit": "ACCECMYMWEKHADVG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/d/v/g/nillkin-htc-desire-516-1100x1100-imaechhpmgt7hzby.jpeg",
+                "filename": "nillkin-htc-desire-516-1100x1100-imaechhpmgt7hzby.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/tempered-glass/d/v/g/nillkin-htc-desire-516-original-imaechhpmgt7hzby.jpeg",
+                "filename": "nillkin-htc-desire-516-original-imaechhpmgt7hzby.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/tempered-glass/d/v/g/nillkin-htc-desire-516-original-imaechhpj3xgrjrn.jpeg",
+                "filename": "nillkin-htc-desire-516-original-imaechhpj3xgrjrn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/tempered-glass/d/v/g/nillkin-htc-desire-516-original-imaechhpaznzmkcy.jpeg",
+                "filename": "nillkin-htc-desire-516-original-imaechhpaznzmkcy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/d/v/g/nillkin-htc-desire-516-original-imaechhp4ks4zcwk.jpeg",
+                "filename": "nillkin-htc-desire-516-original-imaechhp4ks4zcwk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Nillkin"] },
+              { "key": "Designed For", "values": ["Htc Desire 516"] },
+              { "key": "Type", "values": ["Tempered Glass"] },
+              { "key": "Model ID", "values": ["HTC Desire 516"] },
+              { "key": "Color", "values": ["Transparent"] },
+              { "key": "Features", "values": ["Scratch Resistant"] },
+              { "key": "Covered in Warranty", "values": ["Mfr Warranty"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["Manufacturer Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": ["Customer Send Product Back"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Physical Damages"]
+              },
+              { "key": "Number of Layers", "values": ["9"] },
+              { "key": "Other Features", "values": ["Hard Protect"] },
+              { "key": "Removable", "values": ["Yes"] },
+              { "key": "Screen Size", "values": ["20"] },
+              { "key": "Residue-free Removal", "values": ["Yes"] },
+              { "key": "Tint", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["One Screen Guard and Auxiliary Kit"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "ffcad1c706e9805f05c6258ee5fcc9ec34a4ce5e"
+    },
+    {
+      "product": {
+        "id": "1fd3fcfebafb377701e4874d8ed2db53255b8d71",
+        "name": "You2Deal Wood & Iron Handicraft Antique Style Home Decor Cycle Gift Item Showpiece  -  25 cm",
+        "description": "Dummy description for product You2Deal Wood & Iron Handicraft Antique Style Home Decor Cycle Gift Item Showpiece  -  25 cm",
+        "manufacturer_id": "60fe0c6fcb5d46595ad09e15d5ea09c1f596768f",
+        "taric_code": "58d16c26-1329-4c38-a06e-bf4ac30f4fc7",
+        "variants": [
+          {
+            "id": "1610c6ceef452d647a4ba3309f1156da",
+            "name": "You2Deal Showpieces",
+            "description": "You2Deal Wood & Iron Handicraft Antique Style Home Decor Cycle Gift Item Showpiece  -  25 cm (Wooden, Iron, Black)\n                         Price: Rs. 449\n\t\t\t\t\n\t\t\tWooden & Iron Cycle Antique Home Decor Product is a perfect home decor product.\nWooden & Iron Cycle is made from high quality wood and iron.\nCan be give as gift to childrens.\nWooden & Iron Cycle Antique Home Decor Product is a perfect home decor product.\nWooden & Iron Cycle is made from high quality wood and iron.\nCan be give as gift to childrens.",
+            "stock_level": 9095,
+            "price": 1447,
+            "sale": true,
+            "sale_price": 449,
+            "stock_keeping_unit": "SHIEAU6YY2FY4XXX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/x/x/x/iahc00018-you2deal-1100x1100-imaeatzy6ugkmhdf.jpeg",
+                "filename": "iahc00018-you2deal-1100x1100-imaeatzy6ugkmhdf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/x/x/x/iahc00018-you2deal-original-imaeatzy6ugkmhdf.jpeg",
+                "filename": "iahc00018-you2deal-original-imaeatzy6ugkmhdf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["You2Deal"] },
+              { "key": "Model Number", "values": ["IAHC00018"] },
+              { "key": "Type", "values": ["Vehicles"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "Wood and Iron Handicraft Antique Style Home Decor Cycle Gift Item"
+                ]
+              },
+              { "key": "Material", "values": ["Wooden", "Iron"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Height", "values": ["25 cm"] },
+              { "key": "Width", "values": ["5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "1fd3fcfebafb377701e4874d8ed2db53255b8d71"
+    },
+    {
+      "product": {
+        "id": "06b1c7e6516a936cd8817da1c3f99ed0f150b2bb",
+        "name": "Marwar Handmade Iron Bicycle Toy Showpiece  -  20 cm",
+        "description": "Dummy description for product Marwar Handmade Iron Bicycle Toy Showpiece  -  20 cm",
+        "manufacturer_id": "0a9cb1bc0c2ef5b4af8ed3cc4c595f728adeb57d",
+        "taric_code": "ac284f50-ea31-4567-9fc5-ebf558d47c06",
+        "variants": [
+          {
+            "id": "3d0c75e713e9fc2bcc72a6d5519d37de",
+            "name": "Marwar Showpieces",
+            "description": "Buy Marwar Handmade Iron Bicycle Toy Showpiece  -  20 cm for Rs.899 online. Marwar Handmade Iron Bicycle Toy Showpiece  -  20 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3816,
+            "price": 1075,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "SHIE94XF77YFAHZC",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/z/c/ms1008991-marwar-original-imae94hk9gvybgzv.jpeg",
+                "filename": "ms1008991-marwar-original-imae94hk9gvybgzv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/z/c/ms1008991-marwar-original-imae94hkbtffche7.jpeg",
+                "filename": "ms1008991-marwar-original-imae94hkbtffche7.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/z/c/ms1008991-marwar-original-imae94hkxpuuh2u5.jpeg",
+                "filename": "ms1008991-marwar-original-imae94hkxpuuh2u5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Marwar"] },
+              { "key": "Model Number", "values": ["MS1008991"] },
+              { "key": "Type", "values": ["Antique"] },
+              { "key": "Model Name", "values": ["Handmade Iron Bicycle Toy"] },
+              { "key": "Material", "values": ["Iron"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["28 cm"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Handmade Iron Bicycle Toy"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "06b1c7e6516a936cd8817da1c3f99ed0f150b2bb"
+    },
+    {
+      "product": {
+        "id": "8ba0f2dba33cb3bca4ca0cd6f19a895093ee8f14",
+        "name": "Scratchgard Original Armour Shield - N830 Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Scratchgard Original Armour Shield - N830 Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "20ad74ddc361632d73a23d9459a501b373d8774b",
+        "taric_code": "b0a00f78-b713-41cd-b4ac-c879942ed644",
+        "variants": [
+          {
+            "id": "afe5a8ff0ab55a568a0404cb3c73a7f5",
+            "name": "Scratchgard Screen Protectors",
+            "description": "Buy Scratchgard Original Armour Shield - N830 Screen Guard for Nokia Lumia 830 only for Rs. 712 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3953,
+            "price": 712,
+            "sale": false,
+            "sale_price": 712,
+            "stock_keeping_unit": "ACCE4HJZJYY9TWVF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/w/v/f/scratchgard-original-armour-shield-n830-original-imae4hmjrbtrpaaf.jpeg",
+                "filename": "scratchgard-original-armour-shield-n830-original-imae4hmjrbtrpaaf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/w/v/f/scratchgard-original-armour-shield-n830-original-imae4hmjrbtrpaaf.jpeg",
+                "filename": "scratchgard-original-armour-shield-n830-original-imae4hmjrbtrpaaf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Scratchgard"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              {
+                "key": "Model ID",
+                "values": ["Original Armour Shield - N830"]
+              },
+              {
+                "key": "Features",
+                "values": [
+                  "Scratch Resistant",
+                  "Anti Fingerprint",
+                  "Anti Reflection",
+                  "Air-bubble Proof",
+                  "UV Protection",
+                  "Anti Bacterial",
+                  "Washable"
+                ]
+              },
+              { "key": "Color", "values": ["Transparent"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              { "key": "Warranty Summary", "values": ["1 Year"] },
+              { "key": "Warranty Service Type", "values": ["Refund"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["1 Screen Guard", "1 Cleaning Cloth"]
+              },
+              { "key": "Fixing Method", "values": ["Self Adhesive"] },
+              { "key": "Number of Layers", "values": ["2"] },
+              { "key": "Tint", "values": ["No"] },
+              { "key": "Residue-free Removal", "values": ["Yes"] },
+              { "key": "Platform", "values": ["Mobile Phone"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "8ba0f2dba33cb3bca4ca0cd6f19a895093ee8f14"
+    },
+    {
+      "product": {
+        "id": "c282c24438676d988a513e912efcb4e907e5c9aa",
+        "name": "Marwar Bicycle Toy Showpiece  -  20 cm",
+        "description": "Dummy description for product Marwar Bicycle Toy Showpiece  -  20 cm",
+        "manufacturer_id": "0a9cb1bc0c2ef5b4af8ed3cc4c595f728adeb57d",
+        "taric_code": "c8272052-6443-47aa-a259-242bb32253c5",
+        "variants": [
+          {
+            "id": "a11205ee25c48bbb2d9938be5e40e146",
+            "name": "Marwar Showpieces",
+            "description": "Buy Marwar Bicycle Toy Showpiece  -  20 cm for Rs.799 online. Marwar Bicycle Toy Showpiece  -  20 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4085,
+            "price": 1075,
+            "sale": true,
+            "sale_price": 799,
+            "stock_keeping_unit": "SHIE8TFNMRZHATFH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/f/h/ms1008774-marwar-original-imae8tdztvezyufa.jpeg",
+                "filename": "ms1008774-marwar-original-imae8tdztvezyufa.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/t/f/h/ms1008774-marwar-original-imae8teyjbuuuxng.jpeg",
+                "filename": "ms1008774-marwar-original-imae8teyjbuuuxng.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/f/h/ms1008774-marwar-original-imae8tefa7ns3mjf.jpeg",
+                "filename": "ms1008774-marwar-original-imae8tefa7ns3mjf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Marwar"] },
+              { "key": "Model Number", "values": ["MS1008774"] },
+              { "key": "Type", "values": ["Vehicles"] },
+              { "key": "Material", "values": ["Carbon Steel"] },
+              { "key": "Model Name", "values": ["Bicycle Toy"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["26 cm"] },
+              { "key": "Sales Package", "values": ["1"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "c282c24438676d988a513e912efcb4e907e5c9aa"
+    },
+    {
+      "product": {
+        "id": "1d02d21559be13f0efe8adc1f35399deaaa4c588",
+        "name": "Nillkin NKL-1257 Tempered Glass for Nokia Lumia L830",
+        "description": "Dummy description for product Nillkin NKL-1257 Tempered Glass for Nokia Lumia L830",
+        "manufacturer_id": "ec8b264b2be9bc2478554007847651fa91ecfe91",
+        "taric_code": "0ec54696-8f6b-4975-8234-a0f398f9761d",
+        "variants": [
+          {
+            "id": "90ce42ac0c3f405a25d09b3e2b3285ff",
+            "name": "Nillkin Screen Protectors",
+            "description": "Buy Nillkin NKL-1257 Tempered Glass for Nokia Lumia L830 only for Rs. 199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5828,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 340,
+            "stock_keeping_unit": "ACCE6BHRYYVDHNBZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/tempered-glass/n/v/y/nillkin-nkl-tmp-110233-1100x1100-imae6azzm6neyywk.jpeg",
+                "filename": "nillkin-nkl-tmp-110233-1100x1100-imae6azzm6neyywk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/n/v/y/nillkin-nkl-tmp-110233-original-imae6azzm6neyywk.jpeg",
+                "filename": "nillkin-nkl-tmp-110233-original-imae6azzm6neyywk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Nillkin"] },
+              { "key": "Designed For", "values": ["Nokia Lumia L830"] },
+              { "key": "Type", "values": ["Tempered Glass"] },
+              { "key": "Model ID", "values": ["NKL-1257"] },
+              {
+                "key": "Features",
+                "values": [
+                  "Anti Fingerprint",
+                  "Anti Glare",
+                  "Scratch Resistant"
+                ]
+              },
+              { "key": "Residue-free Removal", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "1d02d21559be13f0efe8adc1f35399deaaa4c588"
+    },
+    {
+      "product": {
+        "id": "70420378b9735f4354630d5efb23b8909b0af344",
+        "name": "Digital Marketing NKL-830 Mirror Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Digital Marketing NKL-830 Mirror Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "5e47dd9e38bac0b608762538f5574b0e53359e54",
+        "taric_code": "9c2de688-36a2-41db-a0ae-2b2d2d7d25af",
+        "variants": [
+          {
+            "id": "48f751a2663c049aff12c4da2366ee99",
+            "name": "Digital Marketing Screen Protectors",
+            "description": "Buy Digital Marketing NKL-830 Mirror Screen Guard for Nokia Lumia 830 only for Rs. 110 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3001,
+            "price": 425,
+            "sale": false,
+            "sale_price": 110,
+            "stock_keeping_unit": "ACCE2V5AZJ6UHPFW",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/5/j/8/vmax-sc127-original-imae2uy9zhgtqkes.jpeg",
+                "filename": "vmax-sc127-original-imae2uy9zhgtqkes.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Digital Marketing"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Mirror Screen Guard"] },
+              { "key": "Model ID", "values": ["NKL-830"] },
+              { "key": "Features", "values": ["Scratch Resistant"] },
+              { "key": "Other Features", "values": ["Scratch Resistant"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "70420378b9735f4354630d5efb23b8909b0af344"
+    },
+    {
+      "product": {
+        "id": "80d84517d263e4c668cedea192827ad481be6bc9",
+        "name": "Pearl Paradise Dark Spot Yellow Gold Cubic Zirconia, Pearl Alloy Stud Earring",
+        "description": "Dummy description for product Pearl Paradise Dark Spot Yellow Gold Cubic Zirconia, Pearl Alloy Stud Earring",
+        "manufacturer_id": "635aeb7749cd41431f9f3ce4b480d23aee80fad5",
+        "taric_code": "4bfaf310-dd4f-4600-8c3e-fd2e271047d5",
+        "variants": [
+          {
+            "id": "c1aa2264e1d455a6a0d3ec3ea6d5120f",
+            "name": "Earrings",
+            "description": "Pearl Paradise Dark Spot Yellow Gold Cubic Zirconia, Pearl Alloy Stud Earring - Buy Pearl Paradise Dark Spot Yellow Gold Cubic Zirconia, Pearl Alloy Stud Earring only for Rs. 599 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 478,
+            "price": 999,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "ERGE8JZKE7HJWNSH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/n/s/h/et-gp-prl-3273-pearl-paradise-stud-earring-original-imae8jhhvyxyyad5.jpeg",
+                "filename": "et-gp-prl-3273-pearl-paradise-stud-earring-original-imae8jhhvyxyyad5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/n/s/h/et-gp-prl-3273-pearl-paradise-stud-earring-original-imae8jhhvyxyyad5.jpeg",
+                "filename": "et-gp-prl-3273-pearl-paradise-stud-earring-original-imae8jhhvyxyyad5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/n/s/h/et-gp-prl-3273-pearl-paradise-stud-earring-original-imae8jhhdh58hzd6.jpeg",
+                "filename": "et-gp-prl-3273-pearl-paradise-stud-earring-original-imae8jhhdh58hzd6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/earring/n/s/h/et-gp-prl-3273-pearl-paradise-stud-earring-original-imae8jhh7xh3zhnt.jpeg",
+                "filename": "et-gp-prl-3273-pearl-paradise-stud-earring-original-imae8jhh7xh3zhnt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Pearls", "values": ["2"] },
+              { "key": "Pearl Grade", "values": ["AAA Grade"] },
+              { "key": "Pearl Shape", "values": ["Round"] },
+              { "key": "Pearl Type", "values": ["Freshwater"] },
+              { "key": "Pearl Color", "values": ["Black"] },
+              { "key": "Brand", "values": ["Pearl Paradise"] },
+              { "key": "Model Number", "values": ["ET-GP-PRL-3273"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Stud Earring"] },
+              { "key": "Model Name", "values": ["Dark Spot"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              {
+                "key": "Occasion",
+                "values": [
+                  "Everyday",
+                  "Love",
+                  "Religious",
+                  "Wedding and Engagement",
+                  "Workwear"
+                ]
+              },
+              { "key": "Color", "values": ["Black", "White"] },
+              { "key": "Weight", "values": ["5.5 g"] },
+              { "key": "Height", "values": ["19 mm"] },
+              { "key": "Width", "values": ["9 mm"] },
+              { "key": "Metal Color", "values": ["Yellow"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Cubic Zirconia", "Pearl"] },
+              { "key": "Suitable For", "values": ["Lobe"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              { "key": "Piercing Required", "values": ["Yes"] },
+              {
+                "key": "Earring Back Type",
+                "values": ["Post with Friction Back"]
+              },
+              { "key": "Number of Pairs", "values": ["1"] },
+              { "key": "Semi-precious Stone Shape", "values": ["Round"] },
+              {
+                "key": "Semi-precious Stone Type",
+                "values": ["Cubic Zirconia"]
+              },
+              {
+                "key": "Natural/Synthetic Semi-precious Stone",
+                "values": ["Natural Semi-precious stone"]
+              },
+              { "key": "Sales Package", "values": ["2 Earring"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "80d84517d263e4c668cedea192827ad481be6bc9"
+    },
+    {
+      "product": {
+        "id": "1e597142a3906ea34447cdfa607756584a9a8fe2",
+        "name": "Funcart Party Time  - Food Grade Plastic",
+        "description": "Dummy description for product Funcart Party Time  - Food Grade Plastic",
+        "manufacturer_id": "630771f7a370ac8b032fc24db7a08b82d4d98ae8",
+        "taric_code": "34510524-d37b-4b3f-b8e4-7f47f472936e",
+        "variants": [
+          {
+            "id": "9a0413117aa91c668ba5944770347cc5",
+            "name": "Funcart Baby Spoons & Forks",
+            "description": "Flipkart.com is offering Small Funcart Party Time  - Food Grade Plastic for only for Rs 154 | Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 8602,
+            "price": 206,
+            "sale": false,
+            "sale_price": 154,
+            "stock_keeping_unit": "FDUE6ZHHEEHEHRQD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/feeding-utensil/r/q/d/046frk-100-funcart-fork-party-time-1100x1100-imae6z3cvccwz7ax.jpeg",
+                "filename": "046frk-100-funcart-fork-party-time-1100x1100-imae6z3cvccwz7ax.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/feeding-utensil/r/q/d/046frk-100-funcart-fork-party-time-original-imae6z3cvccwz7ax.jpeg",
+                "filename": "046frk-100-funcart-fork-party-time-original-imae6z3cvccwz7ax.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Funcart"] },
+              { "key": "Suitable For", "values": ["Solids"] },
+              { "key": "Type", "values": ["Fork"] },
+              { "key": "Model Name", "values": ["Party Time"] },
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Capacity", "values": ["100 ml"] },
+              { "key": "Model ID", "values": ["046FRK"] },
+              { "key": "Size", "values": ["Small"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Microwave Safe", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 6"]
+              },
+              { "key": "Sales Package", "values": ["6 Forks"] },
+              { "key": "Material", "values": ["Food Grade Plastic"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "03ef8b933c18308154ceeb60f3de732f56faf90f" }
+      },
+      "active": true,
+      "id": "1e597142a3906ea34447cdfa607756584a9a8fe2"
+    },
+    {
+      "product": {
+        "id": "f5269e6b582b1698e84c96b3370d9c50c922041b",
+        "name": "Nillkin NIMS12 Mirror Screen Guard for Nokia Lumia 530",
+        "description": "Dummy description for product Nillkin NIMS12 Mirror Screen Guard for Nokia Lumia 530",
+        "manufacturer_id": "ec8b264b2be9bc2478554007847651fa91ecfe91",
+        "taric_code": "bc388993-445e-4b06-b95b-d7948910a64b",
+        "variants": [
+          {
+            "id": "d152b6c494a7affc23142070571f9dfa",
+            "name": "Nillkin Screen Protectors",
+            "description": "Buy Nillkin NIMS12 Mirror Screen Guard for Nokia Lumia 530 only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6162,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "ACCEFABMRTNCSHJ8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/mirror-screen-guard/h/j/8/nillkin-nims12-original-imaef9gjyxg5ab4w.jpeg",
+                "filename": "nillkin-nims12-original-imaef9gjyxg5ab4w.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/mirror-screen-guard/h/j/8/nillkin-nims12-original-imaef9gjyxg5ab4w.jpeg",
+                "filename": "nillkin-nims12-original-imaef9gjyxg5ab4w.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Nillkin"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 530"] },
+              { "key": "Type", "values": ["Mirror Screen Guard"] },
+              { "key": "Model ID", "values": ["NIMS12"] },
+              { "key": "Features", "values": ["Scratch Resistant"] },
+              { "key": "Other Features", "values": ["Scratch Resistant"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": false,
+      "id": "f5269e6b582b1698e84c96b3370d9c50c922041b"
+    },
+    {
+      "product": {
+        "id": "dd56d385a3809aba0e955beef7af61a1246d4a1b",
+        "name": "Gadgetshieldz 1358SPFB Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Gadgetshieldz 1358SPFB Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "44f21b6b3e65c60c2bb42e9844a58f79239f9a80",
+        "taric_code": "c2618298-0050-4cce-b0f5-1d33e8792504",
+        "variants": [
+          {
+            "id": "cfb9a6c27ee36e9fb055aba00a6cb975",
+            "name": "Gadgetshieldz Screen Protectors",
+            "description": "Buy Gadgetshieldz 1358SPFB Screen Guard for Nokia Lumia 830 only for Rs. 899 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 604,
+            "price": 899,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "ACCEYSQ9ZP8B9ZE8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/z/e/8/gadgetshieldz-1358spfb-original-imaeytjzez7rjqdf.jpeg",
+                "filename": "gadgetshieldz-1358spfb-original-imaeytjzez7rjqdf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/front-back-protector/z/j/r/gadget-shieldz-1403spfb-original-imads476hhmc7j73.jpeg",
+                "filename": "gadget-shieldz-1403spfb-original-imads476hhmc7j73.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/front-back-protector/7/c/h/gadgetshieldz-1446ipfb-original-imadsb6edrhdmxgs.jpeg",
+                "filename": "gadgetshieldz-1446ipfb-original-imadsb6edrhdmxgs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/front-back-protector/7/c/h/gadgetshieldz-1446ipfb-original-imads476bpsvceh4.jpeg",
+                "filename": "gadgetshieldz-1446ipfb-original-imads476bpsvceh4.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Gadgetshieldz"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["1358SPFB"] },
+              { "key": "Color", "values": ["Clear"] },
+              { "key": "Features", "values": ["Scratch Resistant"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["Replacement warranty within 10 days from delivery"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "If any manufacturing defect is found",
+                  "we would ship a replacement for free. Clear pictures needs to be e-mailed to our customer support to validate a manufacturing defect and process a replacement."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Installation errors",
+                  "wrong selection of products are not covered under warranty under any circumstances. Clear pictures needs to be e-mailed to our customer support to validate a manufacturing defect."
+                ]
+              },
+              { "key": "Fixing Method", "values": ["Adhesive"] },
+              { "key": "Number of Layers", "values": ["2"] },
+              { "key": "Other Features", "values": ["Scratch Resistant"] },
+              { "key": "Residue-free Removal", "values": ["Yes"] },
+              { "key": "Tint", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["Screen Guard"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "dd56d385a3809aba0e955beef7af61a1246d4a1b"
+    },
+    {
+      "product": {
+        "id": "1a425061cca2f4ff762494ed69c5f70ee5d8398a",
+        "name": "Krishna Pearls & Jewellers Pearl Alloy Stud Earring",
+        "description": "Dummy description for product Krishna Pearls & Jewellers Pearl Alloy Stud Earring",
+        "manufacturer_id": "cfd3dc5cf28d0dd0e3f87b1652eaab51c67ed875",
+        "taric_code": "3aec02e5-e28e-49eb-8a4b-020f8e047929",
+        "variants": [
+          {
+            "id": "0f3233b2eaff8992d278e993b1499e53",
+            "name": "Earrings",
+            "description": "Krishna Pearls & Jewellers Pearl Alloy Stud Earring - Buy Krishna Pearls & Jewellers Pearl Alloy Stud Earring only for Rs. 299 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4872,
+            "price": 299,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "ERGDYDU2Z8JHKKRJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/k/r/j/t0007-krishna-pearls-jewellers-stud-earring-original-imadydvydz4kr5h5.jpeg",
+                "filename": "t0007-krishna-pearls-jewellers-stud-earring-original-imadydvydz4kr5h5.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/earring/k/r/j/t0007-krishna-pearls-jewellers-stud-earring-original-imadydvyugvwxbav.jpeg",
+                "filename": "t0007-krishna-pearls-jewellers-stud-earring-original-imadydvyugvwxbav.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/k/r/j/t0007-krishna-pearls-jewellers-stud-earring-original-imadydvyh8cjtpte.jpeg",
+                "filename": "t0007-krishna-pearls-jewellers-stud-earring-original-imadydvyh8cjtpte.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Shape", "values": ["Button"] },
+              { "key": "Pearl Type", "values": ["Freshwater"] },
+              { "key": "Pearl Color", "values": ["White"] },
+              { "key": "Brand", "values": ["Krishna Pearls and Jewellers"] },
+              { "key": "Model Number", "values": ["T0007"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Stud Earring"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Religious"]
+              },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Pearl"] },
+              { "key": "Number of Pairs", "values": ["1"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "1a425061cca2f4ff762494ed69c5f70ee5d8398a"
+    },
+    {
+      "product": {
+        "id": "798014ab9c8f551c714def1ae6b4a2bfff8096b0",
+        "name": "EZ Life Funky 3-Pc Kids Cutlery Set-Pleasing Panda  - Stainless Steel, Food Grade Plastic",
+        "description": "Dummy description for product EZ Life Funky 3-Pc Kids Cutlery Set-Pleasing Panda  - Stainless Steel, Food Grade Plastic",
+        "manufacturer_id": "f5d278ac1335f622feb665c64fd52f541d48f1ad",
+        "taric_code": "47d41795-c33e-44e4-988d-cbceee4abf2b",
+        "variants": [
+          {
+            "id": "fb435889d257c924c7bf77396a555e04",
+            "name": "EZ Life Baby Spoons & Forks",
+            "description": "Flipkart.com is offering EZ Life Funky 3-Pc Kids Cutlery Set-Pleasing Panda  - Stainless Steel, Food Grade Plastic for only for Rs 399 | Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 6566,
+            "price": 500,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "FDUDWG2WAGB5ZRRX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/feeding-utensil/r/r/x/panda-10-ez-life-spoon-fork-knife-funky-3-pc-kids-cutlery-set-original-imadwg8nqvrnyfw7.jpeg",
+                "filename": "panda-10-ez-life-spoon-fork-knife-funky-3-pc-kids-cutlery-set-original-imadwg8nqvrnyfw7.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["EZ Life"] },
+              { "key": "Suitable For", "values": ["Liquids", "Solids"] },
+              { "key": "Type", "values": ["Spoon", "Fork", "Knife"] },
+              {
+                "key": "Model Name",
+                "values": ["Funky 3-Pc Kids Cutlery Set-Pleasing Panda"]
+              },
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Capacity", "values": ["10 ml"] },
+              { "key": "Model ID", "values": ["Panda"] },
+              { "key": "Color", "values": ["Black", "White"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 3"]
+              },
+              { "key": "Sales Package", "values": ["Spoon", "Fork", "Knife"] },
+              {
+                "key": "Material",
+                "values": ["Stainless Steel", "Food Grade Plastic"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "03ef8b933c18308154ceeb60f3de732f56faf90f" }
+      },
+      "active": true,
+      "id": "798014ab9c8f551c714def1ae6b4a2bfff8096b0"
+    },
+    {
+      "product": {
+        "id": "1bd6bb139ab58777310f4155ad83929d7c6ace64",
+        "name": "Total Care TC-L830 Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Total Care TC-L830 Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "20e3b026c1cf1fe50e94cec13e17d0c6911329d3",
+        "taric_code": "506041e7-6d4a-4744-8183-f16f9e33be39",
+        "variants": [
+          {
+            "id": "9ca143ef7e320d95a4c938d4df061437",
+            "name": "Total Care Screen Protectors",
+            "description": "Buy Total Care TC-L830 Screen Guard for Nokia Lumia 830 only for Rs. 175 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7830,
+            "price": 399,
+            "sale": false,
+            "sale_price": 175,
+            "stock_keeping_unit": "ACCEYTXCGP4W36VY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/6/v/y/total-care-tc-l830-original-imaeyvphd3htydgd.jpeg",
+                "filename": "total-care-tc-l830-original-imaeyvphd3htydgd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/6/v/y/total-care-tc-l830-original-imaeyvphd3htydgd.jpeg",
+                "filename": "total-care-tc-l830-original-imaeyvphd3htydgd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Total Care"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["TC-L830"] },
+              { "key": "Features", "values": ["Anti Glare"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty Of The Product Is Limited To Manufacturing Defects Only"
+                ]
+              },
+              { "key": "Warranty Summary", "values": ["30 Days"] },
+              { "key": "Warranty Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty Does Not Cover Any External Accessories (Such As Battery",
+                  "Cable",
+                  "Carrying Bag)",
+                  "Damage Caused To The Product Due To Improper Installation By Customer",
+                  "Normal Wear And Tear To Magnetic Heads",
+                  "Audio",
+                  "Video",
+                  "Laser Pick-Ups And TV Picture Tubes",
+                  "Pane"
+                ]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["Screen Guard"] },
+              { "key": "Number of Layers", "values": ["3"] },
+              { "key": "Other Features", "values": ["Anti-Glare"] },
+              { "key": "Screen Size", "values": ["5 inch"] },
+              { "key": "Tint", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": false,
+      "id": "1bd6bb139ab58777310f4155ad83929d7c6ace64"
+    },
+    {
+      "product": {
+        "id": "50c2a5b51b84e3504cdd010697d3c1400050ace0",
+        "name": "Funcart Frolic Birthday  - Food Grade Plastic",
+        "description": "Dummy description for product Funcart Frolic Birthday  - Food Grade Plastic",
+        "manufacturer_id": "630771f7a370ac8b032fc24db7a08b82d4d98ae8",
+        "taric_code": "2c84d107-ecfa-477d-90b0-14316306ecf4",
+        "variants": [
+          {
+            "id": "29d7a1b4d4f658fc3082905f65e1b009",
+            "name": "Funcart Baby Spoons & Forks",
+            "description": "Flipkart.com is offering Small Funcart Frolic Birthday  - Food Grade Plastic for only for Rs 154 | Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 9132,
+            "price": 206,
+            "sale": false,
+            "sale_price": 154,
+            "stock_keeping_unit": "FDUE6ZHHR9AAKU2B",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/feeding-utensil/u/2/b/ck033frk-100-funcart-fork-frolic-birthday-1100x1100-imae6z3csygnyvvf.jpeg",
+                "filename": "ck033frk-100-funcart-fork-frolic-birthday-1100x1100-imae6z3csygnyvvf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/feeding-utensil/u/2/b/ck033frk-100-funcart-fork-frolic-birthday-original-imae6z3csygnyvvf.jpeg",
+                "filename": "ck033frk-100-funcart-fork-frolic-birthday-original-imae6z3csygnyvvf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Funcart"] },
+              { "key": "Suitable For", "values": ["Solids"] },
+              { "key": "Type", "values": ["Fork"] },
+              { "key": "Model Name", "values": ["Frolic Birthday"] },
+              { "key": "Capacity", "values": ["100 ml"] },
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Model ID", "values": ["CK033FRK"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Size", "values": ["Small"] },
+              { "key": "Microwave Safe", "values": ["No"] },
+              { "key": "Material", "values": ["Food Grade Plastic"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 6"]
+              },
+              { "key": "Sales Package", "values": ["6 Forks"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "03ef8b933c18308154ceeb60f3de732f56faf90f" }
+      },
+      "active": false,
+      "id": "50c2a5b51b84e3504cdd010697d3c1400050ace0"
+    },
+    {
+      "product": {
+        "id": "b15c0e8c5dd304d2638d572e08a7843c325f515e",
+        "name": "Nillkin 654 Tempered Glass for Samsung Galaxy S5 Mini",
+        "description": "Dummy description for product Nillkin 654 Tempered Glass for Samsung Galaxy S5 Mini",
+        "manufacturer_id": "ec8b264b2be9bc2478554007847651fa91ecfe91",
+        "taric_code": "deff688d-d3b4-48bc-9ecc-2aad60c41779",
+        "variants": [
+          {
+            "id": "aff2e05f81dc8539185012cab56493aa",
+            "name": "Nillkin Screen Protectors",
+            "description": "Buy Nillkin 654 Tempered Glass for Samsung Galaxy S5 Mini only for Rs. 585 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9445,
+            "price": 1090,
+            "sale": false,
+            "sale_price": 585,
+            "stock_keeping_unit": "ACCE8ZY8JUNZHSHW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/tempered-glass/s/h/w/nillkin-654-original-imae8zvzhzahwdf4.jpeg",
+                "filename": "nillkin-654-original-imae8zvzhzahwdf4.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/s/h/w/nillkin-654-original-imae8zvzhzahwdf4.jpeg",
+                "filename": "nillkin-654-original-imae8zvzhzahwdf4.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/s/h/w/nillkin-654-original-imae8z3mqz8hqzwy.jpeg",
+                "filename": "nillkin-654-original-imae8z3mqz8hqzwy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/s/h/w/nillkin-654-original-imae8zvpwp2nzfzt.jpeg",
+                "filename": "nillkin-654-original-imae8zvpwp2nzfzt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/s/h/w/nillkin-654-original-imae8zvpht2fggrk.jpeg",
+                "filename": "nillkin-654-original-imae8zvpht2fggrk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/tempered-glass/s/h/w/nillkin-654-original-imae8zvpamhgzrgz.jpeg",
+                "filename": "nillkin-654-original-imae8zvpamhgzrgz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Nillkin"] },
+              { "key": "Designed For", "values": ["Samsung Galaxy S5 Mini"] },
+              { "key": "Type", "values": ["Tempered Glass"] },
+              { "key": "Model ID", "values": ["654"] },
+              {
+                "key": "Features",
+                "values": ["Scratch Resistant", "Anti Fingerprint"]
+              },
+              { "key": "Color", "values": ["Transparent"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["No Warranty Coverage against improper installation"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 Tempered Glass"] },
+              { "key": "Removable", "values": ["Yes"] },
+              { "key": "Tint", "values": ["No"] },
+              { "key": "Residue-free Removal", "values": ["Yes"] },
+              { "key": "Reusable", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": false,
+      "id": "b15c0e8c5dd304d2638d572e08a7843c325f515e"
+    },
+    {
+      "product": {
+        "id": "8c6b51db19da83986980cf96521a462e43c2f9e4",
+        "name": "FliFit SG618 Matte Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product FliFit SG618 Matte Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "4114dfcfd2160afb483ec6628379c17256cceb0d",
+        "taric_code": "31e29eae-cb78-4e4e-9ea4-cc76fe364220",
+        "variants": [
+          {
+            "id": "c2c857dfd0e3ef1d86f7fc51301a24e5",
+            "name": "FliFit Screen Protectors",
+            "description": "Buy FliFit SG618 Matte Screen Guard for Nokia Lumia 830 only for Rs. 85 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9927,
+            "price": 299,
+            "sale": false,
+            "sale_price": 85,
+            "stock_keeping_unit": "ACCE4WJKQGGVYGT4",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/q/c/e/flifit-sc-215-matte-1100x1100-imae2gufssdjqzke.jpeg",
+                "filename": "flifit-sc-215-matte-1100x1100-imae2gufssdjqzke.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/q/c/e/flifit-sc-215-matte-original-imae2gufssdjqzke.jpeg",
+                "filename": "flifit-sc-215-matte-original-imae2gufssdjqzke.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["FliFit"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["SG618 Matte"] },
+              {
+                "key": "Features",
+                "values": [
+                  "Anti Fingerprint",
+                  "Anti Glare",
+                  "Scratch Resistant"
+                ]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["1 Screen Guard", "1 Cleaning Cloth"]
+              },
+              { "key": "Number of Layers", "values": ["3"] },
+              { "key": "Residue-free Removal", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "8c6b51db19da83986980cf96521a462e43c2f9e4"
+    },
+    {
+      "product": {
+        "id": "5b297d1fe634c5da9f868453e0648186541fa06d",
+        "name": "Vatsalya Creation Outstanding Alloy Jewel Set",
+        "description": "Dummy description for product Vatsalya Creation Outstanding Alloy Jewel Set",
+        "manufacturer_id": "7bdfde9c9724d1341f275d30462f44fdc634a715",
+        "taric_code": "f2720de0-bbf8-4393-8d2b-e312bd2dc08e",
+        "variants": [
+          {
+            "id": "3fcc3c6aafc5f50e3bf5591bfa892368",
+            "name": "Jewellery Sets",
+            "description": "Vatsalya Creation Outstanding Alloy Jewel Set - Buy Vatsalya Creation Outstanding Alloy Jewel Set only for Rs. 1050 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2962,
+            "price": 3500,
+            "sale": true,
+            "sale_price": 1050,
+            "stock_keeping_unit": "JWSE8NNC75KBDFSX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/f/s/x/9237-rb-vatsalya-creation-original-imae8n8hcf78v5y2.jpeg",
+                "filename": "9237-rb-vatsalya-creation-original-imae8n8hcf78v5y2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Vatsalya Creation"] },
+              { "key": "Model Number", "values": ["9237 RB"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Model Name", "values": ["Outstanding"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Pink", "Blue"] },
+              {
+                "key": "Sales Package",
+                "values": ["Necklace", "Earings", "Maang Tikka"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "5b297d1fe634c5da9f868453e0648186541fa06d"
+    },
+    {
+      "product": {
+        "id": "6a11ca501ed42bb9c235cd221c6a45899d7245e7",
+        "name": "Clear Shield CS-397 Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Clear Shield CS-397 Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "f8a6eee5ccb55a6edf50e77f1868eabcb71918e7",
+        "taric_code": "6a91df85-c05f-462d-9ffd-1402f3890d4d",
+        "variants": [
+          {
+            "id": "7ab584681b83aa4d9370a9db64b6d9ce",
+            "name": "Clear Shield Screen Protectors",
+            "description": "Buy Clear Shield CS-397 Screen Guard for Nokia Lumia 830 only for Rs. 99 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7074,
+            "price": 275,
+            "sale": true,
+            "sale_price": 99,
+            "stock_keeping_unit": "ACCE24MCBZCRCNBH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/n/b/h/clear-shield-cs-397-1100x1100-imae675eu5k7gwjs.jpeg",
+                "filename": "clear-shield-cs-397-1100x1100-imae675eu5k7gwjs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/n/b/h/clear-shield-cs-397-original-imae675eu5k7gwjs.jpeg",
+                "filename": "clear-shield-cs-397-original-imae675eu5k7gwjs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Clear Shield"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["CS-397"] },
+              { "key": "Features", "values": ["Scratch Resistant"] },
+              { "key": "Other Features", "values": ["Scratch Resistant"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "6a11ca501ed42bb9c235cd221c6a45899d7245e7"
+    },
+    {
+      "product": {
+        "id": "bd9a88bf7aaf2d6179e6272c6598774b433560dd",
+        "name": "Vatsalya Creation Attractive Zinc Jewel Set",
+        "description": "Dummy description for product Vatsalya Creation Attractive Zinc Jewel Set",
+        "manufacturer_id": "7bdfde9c9724d1341f275d30462f44fdc634a715",
+        "taric_code": "cd6f9e37-a9cf-41b7-994f-eb5b54ed5b9c",
+        "variants": [
+          {
+            "id": "4b6a983d68560cb4e58b9729d0a1d63c",
+            "name": "Jewellery Sets",
+            "description": "Vatsalya Creation Attractive Zinc Jewel Set - Buy Vatsalya Creation Attractive Zinc Jewel Set only for Rs. 825 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1796,
+            "price": 2200,
+            "sale": false,
+            "sale_price": 825,
+            "stock_keeping_unit": "JWSE8FGAKEAQKHHA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/h/h/a/2003-blue-vatsalya-creation-1100x1100-imae8yxfpj3dunbb.jpeg",
+                "filename": "2003-blue-vatsalya-creation-1100x1100-imae8yxfpj3dunbb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/h/h/a/2003-blue-vatsalya-creation-original-imae8yxfpj3dunbb.jpeg",
+                "filename": "2003-blue-vatsalya-creation-original-imae8yxfpj3dunbb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Zinc"] },
+              { "key": "Brand", "values": ["Vatsalya Creation"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["2003 Blue"] },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Model Name", "values": ["Attractive"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              {
+                "key": "Sales Package",
+                "values": ["Necklace", "Earings", "Maang Tikka"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "bd9a88bf7aaf2d6179e6272c6598774b433560dd"
+    },
+    {
+      "product": {
+        "id": "f9aabc53445284f595f76cbdcf5723ed17e1c3c9",
+        "name": "Nillkin NKL-1282 Tempered Glass for Sony Xperia T3",
+        "description": "Dummy description for product Nillkin NKL-1282 Tempered Glass for Sony Xperia T3",
+        "manufacturer_id": "ec8b264b2be9bc2478554007847651fa91ecfe91",
+        "taric_code": "b4f4873b-afab-4616-b31a-a9eb074bc8c4",
+        "variants": [
+          {
+            "id": "4bea023fa7ea97f0b498737bb87d5ae2",
+            "name": "Nillkin Screen Protectors",
+            "description": "Buy Nillkin NKL-1282 Tempered Glass for Sony Xperia T3 only for Rs. 539 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4026,
+            "price": 999,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "ACCE6BHRE3QKFRJJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/tempered-glass/n/v/y/nillkin-nkl-tmp-110233-1100x1100-imae6azzm6neyywk.jpeg",
+                "filename": "nillkin-nkl-tmp-110233-1100x1100-imae6azzm6neyywk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/n/v/y/nillkin-nkl-tmp-110233-original-imae6azzm6neyywk.jpeg",
+                "filename": "nillkin-nkl-tmp-110233-original-imae6azzm6neyywk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Nillkin"] },
+              { "key": "Designed For", "values": ["Sony Xperia T3"] },
+              { "key": "Type", "values": ["Tempered Glass"] },
+              { "key": "Model ID", "values": ["NKL-1282"] },
+              {
+                "key": "Features",
+                "values": [
+                  "Anti Fingerprint",
+                  "Anti Glare",
+                  "Scratch Resistant"
+                ]
+              },
+              { "key": "Residue-free Removal", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": false,
+      "id": "f9aabc53445284f595f76cbdcf5723ed17e1c3c9"
+    },
+    {
+      "product": {
+        "id": "4b2eb8859dde7bb669a0d382b301d05f26c2adf8",
+        "name": "Karpine Glass Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Karpine Glass Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "4c9306d48031c52ca5a646d4b9249e164261f84e",
+        "taric_code": "fff55bed-3840-43ea-952d-c75bb9219800",
+        "variants": [
+          {
+            "id": "0b2f12fbf11acb30c17571d9d3e4f86b",
+            "name": "Karpine Screen Protectors",
+            "description": "Buy Karpine Glass Screen Guard for Nokia Lumia 830 only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1244,
+            "price": 999,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "ACCE26U2UDT3WUEN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/a/u/g/karpine-scr10014glass-original-imae26g3zsqrdjvh.jpeg",
+                "filename": "karpine-scr10014glass-original-imae26g3zsqrdjvh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/a/u/g/karpine-scr10014glass-original-imae26g3zsqrdjvh.jpeg",
+                "filename": "karpine-scr10014glass-original-imae26g3zsqrdjvh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/mobile-accessories-combo/z/r/u/2-karpine-moto-e-2nd-gen-3g-screenguard-16gb-micro-sd-original-imadyh2wuwquuqgk.jpeg",
+                "filename": "2-karpine-moto-e-2nd-gen-3g-screenguard-16gb-micro-sd-original-imadyh2wuwquuqgk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Karpine"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["Scr10005Glass"] },
+              {
+                "key": "Features",
+                "values": ["Scratch Resistant", "Anti Fingerprint"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["Screen Guard", "Cleaning Cloth"]
+              },
+              { "key": "Number of Layers", "values": ["2"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Scratch Resistant",
+                  "Anti-Finger Print",
+                  "Anti-Glare"
+                ]
+              },
+              { "key": "Residue-free Removal", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "4b2eb8859dde7bb669a0d382b301d05f26c2adf8"
+    },
+    {
+      "product": {
+        "id": "f03f2f975cde304f0185a96636894f1e0cf1b4da",
+        "name": "Karpine Clear Screen Guard for Nokia lumia 830",
+        "description": "Dummy description for product Karpine Clear Screen Guard for Nokia lumia 830",
+        "manufacturer_id": "4c9306d48031c52ca5a646d4b9249e164261f84e",
+        "taric_code": "78a0bb02-eaf2-42a2-9308-4bd72f6cdba0",
+        "variants": [
+          {
+            "id": "c22755b93d9ed8e57abab11fdb082182",
+            "name": "Karpine Screen Protectors",
+            "description": "Buy Karpine Clear Screen Guard for Nokia lumia 830 only for Rs. 149 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7024,
+            "price": 549,
+            "sale": true,
+            "sale_price": 149,
+            "stock_keeping_unit": "ACCEYYX9Y5K8GGXZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/q/n/t/karpine-scr10751clear-1100x1100-imae6prvj7dr6ytx.jpeg",
+                "filename": "karpine-scr10751clear-1100x1100-imae6prvj7dr6ytx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/q/n/t/karpine-scr10751clear-original-imae6prvj7dr6ytx.jpeg",
+                "filename": "karpine-scr10751clear-original-imae6prvj7dr6ytx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Karpine"] },
+              { "key": "Designed For", "values": ["Nokia lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["Scr10030clear"] },
+              {
+                "key": "Features",
+                "values": [
+                  "Anti Fingerprint",
+                  "Anti Glare",
+                  "Scratch Resistant"
+                ]
+              },
+              { "key": "Color", "values": ["Clear"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["Screen Guard", "Cleaning Cloth"]
+              },
+              { "key": "Number of Layers", "values": ["3"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Scratch Resistant",
+                  "Anti Fingerprint",
+                  "Anti Glare"
+                ]
+              },
+              { "key": "Residue-free Removal", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "f03f2f975cde304f0185a96636894f1e0cf1b4da"
+    },
+    {
+      "product": {
+        "id": "67f1da0243a924d44b4d374c69803f3d6ea13ef4",
+        "name": "Chevron NL830 Protection Ultra Clear Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Chevron NL830 Protection Ultra Clear Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "c37ed729e6b0867e88c8becd5bce7f7dbabc9d22",
+        "taric_code": "f4bb11b0-16a1-4da7-a894-2e702d8376a3",
+        "variants": [
+          {
+            "id": "c02b511108e1789bcc72aa2ca817badd",
+            "name": "Chevron Screen Protectors",
+            "description": "Buy Chevron NL830 Protection Ultra Clear Screen Guard for Nokia Lumia 830 only for Rs. 99 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3453,
+            "price": 249,
+            "sale": false,
+            "sale_price": 99,
+            "stock_keeping_unit": "ACCEYWF8SHVQDXP4",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/c/w/5/chevron-nl930-matte-finish-combo-original-imadynqhghja3rhh.jpeg",
+                "filename": "chevron-nl930-matte-finish-combo-original-imadynqhghja3rhh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Chevron"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["NL830 Protection Ultra Clear"] },
+              {
+                "key": "Features",
+                "values": ["Scratch Resistant", "UV Protection"]
+              },
+              {
+                "key": "Other Features",
+                "values": ["Scratch Resistant", "UV Protection"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "67f1da0243a924d44b4d374c69803f3d6ea13ef4"
+    },
+    {
+      "product": {
+        "id": "631641b8dfa65a05110265b040c9978f82cde7b3",
+        "name": "Ortel Transparent Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Ortel Transparent Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "006aee554bb0bd53bba99e20d61d4355ea9414bb",
+        "taric_code": "e8d95b58-dc7a-4b0d-9580-4fb4cfa450f1",
+        "variants": [
+          {
+            "id": "fc431d71076ce3f7cf48d0cbaa5ce687",
+            "name": "Ortel Screen Protectors",
+            "description": "Buy Ortel Transparent Screen Guard for Nokia Lumia 830 only for Rs. 149 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6074,
+            "price": 490,
+            "sale": false,
+            "sale_price": 149,
+            "stock_keeping_unit": "ACCE2X5HEHGF9XYA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/r/g/s/ortel-moto-g3-1100x1100-imae2zaeghwzfdn6.jpeg",
+                "filename": "ortel-moto-g3-1100x1100-imae2zaeghwzfdn6.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/r/g/s/ortel-moto-g3-original-imae2zaeghwzfdn6.jpeg",
+                "filename": "ortel-moto-g3-original-imae2zaeghwzfdn6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/z/g/6/ortel-huw-honour6pl-1scr-original-imae2zaephsvzhph.jpeg",
+                "filename": "ortel-huw-honour6pl-1scr-original-imae2zaephsvzhph.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ortel"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["OR4Lum830"] },
+              { "key": "Color", "values": ["Transparent"] },
+              {
+                "key": "Features",
+                "values": ["Scratch Resistant", "Anti Fingerprint"]
+              },
+              {
+                "key": "Other Features",
+                "values": ["Scratch Resistant", "Anti Finger Print"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["Screen Guard"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "631641b8dfa65a05110265b040c9978f82cde7b3"
+    },
+    {
+      "product": {
+        "id": "0da2e95b9d9047f5a266e5f8b8e3931123ea375a",
+        "name": "Nillkin G09 Tempered Glass for Samsung Galaxy A3(A300)",
+        "description": "Dummy description for product Nillkin G09 Tempered Glass for Samsung Galaxy A3(A300)",
+        "manufacturer_id": "ec8b264b2be9bc2478554007847651fa91ecfe91",
+        "taric_code": "00242ae5-c624-47c4-8574-989aec0601b4",
+        "variants": [
+          {
+            "id": "2974746679c23e8ce1091d74ce2bc366",
+            "name": "Nillkin Screen Protectors",
+            "description": "Nillkin G09 Tempered Glass for Samsung Galaxy A3(A300)\n                         Price: Rs. 440\n\t\t\t\t\n\t\t\tSelected and used Japan imported AGC glass material and HARVES nanotechnology with excellent defensive performance. It owns super high transmittance and high restoring the original color of screen. It supports anti-glare coating to prevent glare derivative. Used tempered glass, its hardness up to 9H; scratch-resistant flowers and blowout. Its surface used Nanometer thin oil coating which is anti-fingerprint, oil rub resistance and effectively preventing and filtering ultraviolet ray. It also fused the global advanced screen protector process technology. Its thickness is only 0.33mm with precise CNC cutting technology. \n \n Environmental and silicon coating; quicker adsorption and can be reused after cleaning.\n \n \nWhole Set=Main Screen+ Camera X2+ film paste tool(lens wiping cloth+de-dusting film+lens moist wipes+replacement adhesive tape)\nSelected and used Japan imported AGC glass material and HARVES nanotechnology with excellent defensive performance. It owns super high transmittance and high restoring the original color of screen. It supports anti-glare coating to prevent glare derivative. Used tempered glass, its hardness up to 9H; scratch-resistant flowers and blowout. Its surface used Nanometer thin oil coating which is anti-fingerprint, oil rub resistance and effectively preventing and filtering ultraviolet ray. It also fused the global advanced screen protector process technology. Its thickness is only 0.33mm with precise CNC cutting technology. \n \n Environmental and silicon coating; quicker adsorption and can be reused after cleaning.\n \n \nWhole Set=Main Screen+ Camera X2+ film paste tool(lens wiping cloth+de-dusting film+lens moist wipes+replacement adhesive tape)",
+            "stock_level": 698,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 440,
+            "stock_keeping_unit": "ACCE6RHSYPAB8TBH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/tempered-glass/t/b/h/nillkin-g09-1100x1100-imae6j5hhkzgdpqd.jpeg",
+                "filename": "nillkin-g09-1100x1100-imae6j5hhkzgdpqd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/tempered-glass/t/b/h/nillkin-g09-original-imae6j5hhkzgdpqd.jpeg",
+                "filename": "nillkin-g09-original-imae6j5hhkzgdpqd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Nillkin"] },
+              { "key": "Designed For", "values": ["Samsung Galaxy A3(A300)"] },
+              { "key": "Type", "values": ["Tempered Glass"] },
+              { "key": "Model ID", "values": ["G09"] },
+              {
+                "key": "Features",
+                "values": ["Scratch Resistant", "Anti Fingerprint"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "0da2e95b9d9047f5a266e5f8b8e3931123ea375a"
+    },
+    {
+      "product": {
+        "id": "26dab6b1061f26954add512aba972e958bb2dd52",
+        "name": "Casotec Super Clear Screen Protector Screen Guard for Nokia Lumia 830",
+        "description": "Dummy description for product Casotec Super Clear Screen Protector Screen Guard for Nokia Lumia 830",
+        "manufacturer_id": "fc59e55749445ec61dfd6918eece94d95463910b",
+        "taric_code": "dc798077-8abc-4a6a-9bfc-c2cb81a24c81",
+        "variants": [
+          {
+            "id": "5fc0c41f685e729c581abc63b6bf1b85",
+            "name": "Casotec Screen Protectors",
+            "description": "Buy Casotec Super Clear Screen Protector Screen Guard for Nokia Lumia 830 only for Rs. 79 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7106,
+            "price": 199,
+            "sale": false,
+            "sale_price": 79,
+            "stock_keeping_unit": "ACCEYYFYNFKKTZSZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/c/9/a/casotec-2610512-1100x1100-imadz99wy23wt9gr.jpeg",
+                "filename": "casotec-2610512-1100x1100-imadz99wy23wt9gr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/c/9/a/casotec-2610512-original-imadz99wy23wt9gr.jpeg",
+                "filename": "casotec-2610512-original-imadz99wy23wt9gr.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Casotec"] },
+              { "key": "Designed For", "values": ["Nokia Lumia 830"] },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["261727 Super Clear"] },
+              {
+                "key": "Features",
+                "values": [
+                  "Scratch Resistant",
+                  "Anti Fingerprint",
+                  "Air-bubble Proof"
+                ]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["Screen Protector", "Cleaning Cloth"]
+              },
+              { "key": "Fixing Method", "values": ["Hanging with Clips"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Anti-finger Print",
+                  "Scratch Resistant",
+                  "Air-bubble Proof"
+                ]
+              },
+              { "key": "Residue-free Removal", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "26dab6b1061f26954add512aba972e958bb2dd52"
+    },
+    {
+      "product": {
+        "id": "66c0ce55f3630e590d45332cd3afcb46110af97f",
+        "name": "Total Care TCMTZC1FB Matte Front & Back Protector for Sony Xperia Z1 Compact",
+        "description": "Dummy description for product Total Care TCMTZC1FB Matte Front & Back Protector for Sony Xperia Z1 Compact",
+        "manufacturer_id": "20e3b026c1cf1fe50e94cec13e17d0c6911329d3",
+        "taric_code": "bf797ead-66b4-4336-80d3-6d2a5c963a20",
+        "variants": [
+          {
+            "id": "39f2b73a349610e18a3d2ca1eb91a1b3",
+            "name": "Total Care Screen Protectors",
+            "description": "Buy Total Care TCMTZC1FB Matte Front & Back Protector for Sony Xperia Z1 Compact only for Rs. 199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5863,
+            "price": 399,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "ACCE2DCZ8TAFNEAP",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/front-back-protector/e/a/p/total-care-tcmtzc1fb-matte-original-imae2df5gmqjmyhw.jpeg",
+                "filename": "total-care-tcmtzc1fb-matte-original-imae2df5gmqjmyhw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Total Care"] },
+              { "key": "Designed For", "values": ["Sony Xperia Z1 Compact"] },
+              { "key": "Type", "values": ["Front and Back Protector"] },
+              { "key": "Model ID", "values": ["TCMTZC1FB Matte"] },
+              { "key": "Features", "values": ["Anti Glare"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of The Product is Limited to Manufacturing Defects Only"
+                ]
+              },
+              { "key": "Warranty Summary", "values": ["30 Days"] },
+              { "key": "Warranty Service Type", "values": ["Replacement"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty Does Not Cover Any External Accessories (Such As Battery",
+                  "Cable",
+                  "Carrying Bag)",
+                  "Damage Caused To The Product Due To Improper Installation By Customer",
+                  "Normal Wear And Tear To Magnetic Heads",
+                  "Audio",
+                  "Video",
+                  "Laser Pick-Ups And TV Picture Tubes",
+                  "Pane"
+                ]
+              },
+              { "key": "Number of Layers", "values": ["3"] },
+              { "key": "Other Features", "values": ["Anti Glare"] },
+              { "key": "Screen Size", "values": ["4.3 Inch"] },
+              { "key": "Tint", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "66c0ce55f3630e590d45332cd3afcb46110af97f"
+    },
+    {
+      "product": {
+        "id": "ec6460ca2273b8b45763a13bf26ac06b0d37cd20",
+        "name": "Nillkin Z3-84345 Mirror Screen Guard for Blackberry Z3",
+        "description": "Dummy description for product Nillkin Z3-84345 Mirror Screen Guard for Blackberry Z3",
+        "manufacturer_id": "ec8b264b2be9bc2478554007847651fa91ecfe91",
+        "taric_code": "db0d4634-b971-4d8f-b5a8-25b8ee09ac52",
+        "variants": [
+          {
+            "id": "22315c1f2ff963fd776dce0deb0a34b7",
+            "name": "Nillkin Screen Protectors",
+            "description": "Buy Nillkin Z3-84345 Mirror Screen Guard for Blackberry Z3 only for Rs. 598 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8409,
+            "price": 999,
+            "sale": true,
+            "sale_price": 598,
+            "stock_keeping_unit": "ACCDYHPHP4EHDHYC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/mirror-screen-guard/h/b/y/nillkin-g3-84567-original-imadyhzs3ycejh7s.jpeg",
+                "filename": "nillkin-g3-84567-original-imadyhzs3ycejh7s.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/mirror-screen-guard/h/b/y/nillkin-g3-84567-original-imadyhzs3ycejh7s.jpeg",
+                "filename": "nillkin-g3-84567-original-imadyhzs3ycejh7s.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Nillkin"] },
+              { "key": "Designed For", "values": ["Blackberry Z3"] },
+              { "key": "Type", "values": ["Mirror Screen Guard"] },
+              { "key": "Model ID", "values": ["Z3-84345"] },
+              { "key": "Features", "values": ["Scratch Resistant"] },
+              { "key": "Other Features", "values": ["Scratch Resistant"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": false,
+      "id": "ec6460ca2273b8b45763a13bf26ac06b0d37cd20"
+    },
+    {
+      "product": {
+        "id": "396d3fd32684f0498dfe2048b8bd6f33a312a96b",
+        "name": "Nillkin NIMS09 Mirror Screen Guard for LG G3",
+        "description": "Dummy description for product Nillkin NIMS09 Mirror Screen Guard for LG G3",
+        "manufacturer_id": "ec8b264b2be9bc2478554007847651fa91ecfe91",
+        "taric_code": "fa8b9dd8-1f73-4dee-8eb7-e226695ee5f3",
+        "variants": [
+          {
+            "id": "332d1f4f3c00c595e2a2a5fc7807c101",
+            "name": "Nillkin Screen Protectors",
+            "description": "Buy Nillkin NIMS09 Mirror Screen Guard for LG G3 only for Rs. 599 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4122,
+            "price": 999,
+            "sale": true,
+            "sale_price": 598,
+            "stock_keeping_unit": "ACCEFABMA6VHDRTY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/mirror-screen-guard/r/t/y/nillkin-nims09-original-imaef9gjd8dwnrs9.jpeg",
+                "filename": "nillkin-nims09-original-imaef9gjd8dwnrs9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/mirror-screen-guard/r/t/y/nillkin-nims09-original-imaef9gjd8dwnrs9.jpeg",
+                "filename": "nillkin-nims09-original-imaef9gjd8dwnrs9.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Nillkin"] },
+              { "key": "Designed For", "values": ["LG G3"] },
+              { "key": "Type", "values": ["Mirror Screen Guard"] },
+              { "key": "Model ID", "values": ["NIMS09"] },
+              { "key": "Features", "values": ["Scratch Resistant"] },
+              { "key": "Other Features", "values": ["Scratch Resistant"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "74c4d7b72d00ef349017bfac109b2c21db6034dd" }
+      },
+      "active": true,
+      "id": "396d3fd32684f0498dfe2048b8bd6f33a312a96b"
+    },
+    {
+      "product": {
+        "id": "fd4bea61006000d319a7008015cd34a9ccb50535",
+        "name": "Love Baby Cartoon Set of Towels",
+        "description": "Dummy description for product Love Baby Cartoon Set of Towels",
+        "manufacturer_id": "b90060844fab14377ba793e5463ae8619438503d",
+        "taric_code": "f0713183-e800-41e7-8d34-403c495ac199",
+        "variants": [
+          {
+            "id": "389197b67a189c703f3deb9ca6f1f678",
+            "name": "Love Baby Baby Bath Towels",
+            "description": "Buy Love Baby Cartoon Set of Towels at Rs. 425 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 5170,
+            "price": 638,
+            "sale": false,
+            "sale_price": 425,
+            "stock_keeping_unit": "BTWDN9FZJWX4TBMZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bath-towel/b/m/z/1907-love-baby-baby-bath-towel-original-imadp8zhmamp9m4j.jpeg",
+                "filename": "1907-love-baby-baby-bath-towel-original-imadp8zhmamp9m4j.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Material", "values": ["Cartoon"] },
+              { "key": "Brand", "values": ["Love Baby"] },
+              { "key": "Type", "values": ["Set of Towels"] },
+              { "key": "Model Name", "values": ["Baby Bath Towel"] },
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Model ID", "values": ["1907"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Length", "values": ["60.9 cm"] },
+              { "key": "Width", "values": ["91.4 cm"] },
+              { "key": "Sales Package", "values": ["Bath Towel"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "9b3154da1797fe2092e0decb62843aa80d4be041" }
+      },
+      "active": true,
+      "id": "fd4bea61006000d319a7008015cd34a9ccb50535"
+    },
+    {
+      "product": {
+        "id": "3a4ad9d098268b6a09c41f34f12aefe7815afc88",
+        "name": "Jack & Jones Slim Fit Men's Jeans",
+        "description": "Dummy description for product Jack & Jones Slim Fit Men's Jeans",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "96898779-db6e-4133-81c3-2b78d3d91629",
+        "variants": [
+          {
+            "id": "d661f733faf2f88f56ad412b1d8089ac",
+            "name": "Jack & Jones Jeans",
+            "description": "Jack & Jones Slim Fit Men's Jeans - Buy Medium Blue Denim Jack & Jones Slim Fit Men's Jeans For Only Rs. 6495 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 2048,
+            "price": 6495,
+            "sale": false,
+            "sale_price": 3897,
+            "stock_keeping_unit": "JEAEB969SDQ5ZXUQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/s/m/1743745-mediumbluedenim-jack-jones-28-original-imaebaeqcqxufqpd.jpeg",
+                "filename": "1743745-mediumbluedenim-jack-jones-28-original-imaebaeqcqxufqpd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/q/s/m/1743745-mediumbluedenim-jack-jones-28-original-imaebaeqcqxufqpd.jpeg",
+                "filename": "1743745-mediumbluedenim-jack-jones-28-original-imaebaeqcqxufqpd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/s/m/1743745-mediumbluedenim-jack-jones-28-original-imaebaeqftu7sh4z.jpeg",
+                "filename": "1743745-mediumbluedenim-jack-jones-28-original-imaebaeqftu7sh4z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/q/s/m/1743745-mediumbluedenim-jack-jones-28-original-imaebaeqkbbwhyzh.jpeg",
+                "filename": "1743745-mediumbluedenim-jack-jones-28-original-imaebaeqkbbwhyzh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/s/m/1743745-mediumbluedenim-jack-jones-28-original-imaebaeqekfz9thf.jpeg",
+                "filename": "1743745-mediumbluedenim-jack-jones-28-original-imaebaeqekfz9thf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/s/m/1743745-mediumbluedenim-jack-jones-28-original-imaebaeqyajfujgn.jpeg",
+                "filename": "1743745-mediumbluedenim-jack-jones-28-original-imaebaeqyajfujgn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Closure", "values": ["Button"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Rise", "values": ["Mid Rise"] },
+              { "key": "Wash", "values": ["Stone Wash"] },
+              { "key": "Fly", "values": ["Zipper"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              {
+                "key": "5d52421c-7778-48c4-85f4-0078a160897c",
+                "values": ["1 Jean"]
+              },
+              {
+                "key": "70e497ff-4239-4cdb-8eb9-0ca1640b3486",
+                "values": ["Wash Dark Color Seperately"]
+              },
+              { "key": "Style Code", "values": ["1743745-MediumBlueDenim"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "de78c6c3598a510d46e216d17050f3321b6e455b" }
+      },
+      "active": false,
+      "id": "3a4ad9d098268b6a09c41f34f12aefe7815afc88"
+    },
+    {
+      "product": {
+        "id": "f1a71eafa8cb7a734d06bda46c5e559fd31e81bb",
+        "name": "Sassoon Cotton Set of Towels",
+        "description": "Dummy description for product Sassoon Cotton Set of Towels",
+        "manufacturer_id": "9d2916a34ae3429160805b69a68eab704f7b61a7",
+        "taric_code": "a1806ee3-6aa3-4593-ba58-374d555e966b",
+        "variants": [
+          {
+            "id": "9cf39c2fbd06b1a2466c3382ee097371",
+            "name": "Towels",
+            "description": "Buy Sassoon Cotton Set of Towels at Rs. 149 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 2638,
+            "price": 149,
+            "sale": true,
+            "sale_price": 149,
+            "stock_keeping_unit": "BTWDYMY2AY556WZV",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/w/z/v/8908002294057-sassoon-printed-design-no-131-original-imadymvyvknrrudy.jpeg",
+                "filename": "8908002294057-sassoon-printed-design-no-131-original-imadymvyvknrrudy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bath-towel/w/z/v/8908002294057-sassoon-printed-design-no-131-original-imadymvyvknrrudy.jpeg",
+                "filename": "8908002294057-sassoon-printed-design-no-131-original-imadymvyvknrrudy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/u/f/q/twl3060-gajri-salona-bichona-twl3060-gajri-original-imae9db5ggxrtnjg.jpeg",
+                "filename": "twl3060-gajri-salona-bichona-twl3060-gajri-original-imae9db5ggxrtnjg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Design", "values": ["Printed"] },
+              { "key": "Brand", "values": ["Sassoon"] },
+              { "key": "Type", "values": ["Set of Towels"] },
+              { "key": "GSM", "values": ["280"] },
+              { "key": "Model Name", "values": ["Printed Design No 131"] },
+              { "key": "Model ID", "values": ["8908002294057"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Size", "values": ["Small"] },
+              { "key": "Weight", "values": ["114 g"] },
+              { "key": "Length", "values": ["85 cm"] },
+              { "key": "Width", "values": ["50 cm"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["Baby Bath Towels"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a39ea08f6b028740e4f5322fe10295795bbaef53" }
+      },
+      "active": false,
+      "id": "f1a71eafa8cb7a734d06bda46c5e559fd31e81bb"
+    },
+    {
+      "product": {
+        "id": "3677b7397d85d8058f2207521203aae1d11e0e42",
+        "name": "Mark Home Cotton Bath Towel",
+        "description": "Dummy description for product Mark Home Cotton Bath Towel",
+        "manufacturer_id": "2079d91f3d060297de37eaa7b014cfefbbea340f",
+        "taric_code": "3e7d29d2-c904-47d2-a55f-b008ff4a5443",
+        "variants": [
+          {
+            "id": "e024ffb41240b91e86947d06d1fa1c0f",
+            "name": "Towels",
+            "description": "Buy Mark Home Cotton Bath Towel at Rs. 599 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 2628,
+            "price": 799,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "BTWEFZ4V9VFX8FAH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/f/a/h/pbtbeige1-mark-home-pbtbeige1-original-imaefcqaupybsrzn.jpeg",
+                "filename": "pbtbeige1-mark-home-pbtbeige1-original-imaefcqaupybsrzn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bath-towel/f/a/h/pbtbeige1-mark-home-pbtbeige1-original-imaefcqaupybsrzn.jpeg",
+                "filename": "pbtbeige1-mark-home-pbtbeige1-original-imaefcqaupybsrzn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/u/f/q/twl3060-gajri-salona-bichona-twl3060-gajri-original-imae9db5ggxrtnjg.jpeg",
+                "filename": "twl3060-gajri-salona-bichona-twl3060-gajri-original-imae9db5ggxrtnjg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Brand", "values": ["Mark Home"] },
+              { "key": "GSM", "values": ["550"] },
+              { "key": "Type", "values": ["Bath Towel"] },
+              { "key": "Model Name", "values": ["Pbtbeige1"] },
+              { "key": "Model ID", "values": ["Pbtbeige1"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Weight", "values": ["620 g"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["1 Bath Towel"] }
+            ]
+          },
+          {
+            "id": "946ec2dfec8ae7834e113c131c598d36",
+            "name": "Towels",
+            "description": "Buy Mark Home Cotton Bath Towel at Rs. 599 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 282,
+            "price": 799,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "BTWEFZ4VD6THQHVH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/h/v/h/pbtmint4-mark-home-pbtmint4-original-imaefcqanczgzmmz.jpeg",
+                "filename": "pbtmint4-mark-home-pbtmint4-original-imaefcqanczgzmmz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bath-towel/h/v/h/pbtmint4-mark-home-pbtmint4-original-imaefcqanczgzmmz.jpeg",
+                "filename": "pbtmint4-mark-home-pbtmint4-original-imaefcqanczgzmmz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/u/f/q/twl3060-gajri-salona-bichona-twl3060-gajri-original-imae9db5ggxrtnjg.jpeg",
+                "filename": "twl3060-gajri-salona-bichona-twl3060-gajri-original-imae9db5ggxrtnjg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Brand", "values": ["Mark Home"] },
+              { "key": "Type", "values": ["Bath Towel"] },
+              { "key": "GSM", "values": ["550"] },
+              { "key": "Model Name", "values": ["Pbtmint4"] },
+              { "key": "Model ID", "values": ["Pbtmint4"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Weight", "values": ["620 g"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["1 Bath Towel"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a39ea08f6b028740e4f5322fe10295795bbaef53" }
+      },
+      "active": false,
+      "id": "3677b7397d85d8058f2207521203aae1d11e0e42"
+    },
+    {
+      "product": {
+        "id": "02df42de11039309acc30adf9027823825a333bb",
+        "name": "Mintha Cotton Bath Towel",
+        "description": "Dummy description for product Mintha Cotton Bath Towel",
+        "manufacturer_id": "fccb777bdd0253784d51599c9fb20f2ac63c3de7",
+        "taric_code": "05fa847c-6a7b-4dd4-ba42-1c3e068cdc52",
+        "variants": [
+          {
+            "id": "d0a864bdece9a03f9950457c074f30e1",
+            "name": "Towels",
+            "description": "Buy Mintha Cotton Bath Towel at Rs. 499 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 478,
+            "price": 799,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "BTWDZ4SQHYMB8XEX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/x/e/x/rb0001-mintha-terry-original-imaeyn5fhgyqzadd.jpeg",
+                "filename": "rb0001-mintha-terry-original-imaeyn5fhgyqzadd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bath-towel/u/f/q/twl3060-gajri-salona-bichona-twl3060-gajri-original-imae9db5ggxrtnjg.jpeg",
+                "filename": "twl3060-gajri-salona-bichona-twl3060-gajri-original-imae9db5ggxrtnjg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Brand", "values": ["Mintha"] },
+              { "key": "GSM", "values": ["550"] },
+              { "key": "Type", "values": ["Bath Towel"] },
+              { "key": "Model Name", "values": ["Terry"] },
+              { "key": "Model ID", "values": ["RB0001"] },
+              { "key": "Size", "values": ["Regular"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Weight", "values": ["600 g"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a39ea08f6b028740e4f5322fe10295795bbaef53" }
+      },
+      "active": false,
+      "id": "02df42de11039309acc30adf9027823825a333bb"
+    },
+    {
+      "product": {
+        "id": "6916ec72b794a7953fd069d03a3e29b48ca0bf97",
+        "name": "The Fine World Sky Blue Stones On A Silver Base Silver Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Sky Blue Stones On A Silver Base Silver Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "7ae1208a-4709-44cb-b3f6-762ad92b4a84",
+        "variants": [
+          {
+            "id": "7992129e9a08d6bd8b49baa9d828c3fc",
+            "name": "Earrings",
+            "description": "The Fine World Sky Blue Stones On A Silver Base Silver Zircon Metal Drop Earring - Buy The Fine World Sky Blue Stones On A Silver Base Silver Zircon Metal Drop Earring only for Rs. 649 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2489,
+            "price": 715,
+            "sale": true,
+            "sale_price": 649,
+            "stock_keeping_unit": "ERGE8F5R8G5ZNFGX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/f/g/x/e89rj010189sb-1-the-fine-world-drop-earring-1100x1100-imae5p5q7ycug3fn.jpeg",
+                "filename": "e89rj010189sb-1-the-fine-world-drop-earring-1100x1100-imae5p5q7ycug3fn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/f/g/x/e89rj010189sb-1-the-fine-world-drop-earring-original-imae5p5q7ycug3fn.jpeg",
+                "filename": "e89rj010189sb-1-the-fine-world-drop-earring-original-imae5p5q7ycug3fn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Fine World"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["E89RJ010189SB-1"] },
+              { "key": "Plating", "values": ["Silver"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              {
+                "key": "Model Name",
+                "values": ["Sky Blue Stones On A Silver Base"]
+              },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": false,
+      "id": "6916ec72b794a7953fd069d03a3e29b48ca0bf97"
+    },
+    {
+      "product": {
+        "id": "b6f585254184c4dc1b80306da5a4c81f49544364",
+        "name": "The Fine World Silver Studded Brass Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Silver Studded Brass Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "4a770d4e-e41d-4263-bcbc-9be12ba58436",
+        "variants": [
+          {
+            "id": "913d7cfdbfb97fab3e0434271ba2a77f",
+            "name": "Earrings",
+            "description": "The Fine World Silver Studded Brass Zircon Metal Drop Earring - Buy The Fine World Silver Studded Brass Zircon Metal Drop Earring only for Rs. 895 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7415,
+            "price": 985,
+            "sale": true,
+            "sale_price": 895,
+            "stock_keeping_unit": "ERGE8E8NDTPUFFWQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/f/w/q/e76rj010176sb-1-the-fine-world-drop-earring-1100x1100-imae4j8mz7ewxezg.jpeg",
+                "filename": "e76rj010176sb-1-the-fine-world-drop-earring-1100x1100-imae4j8mz7ewxezg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/earring/f/w/q/e76rj010176sb-1-the-fine-world-drop-earring-original-imae4j8mz7ewxezg.jpeg",
+                "filename": "e76rj010176sb-1-the-fine-world-drop-earring-original-imae4j8mz7ewxezg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Fine World"] },
+              { "key": "Model Number", "values": ["E76RJ010176SB-1"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Brass"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Silver Studded"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "b6f585254184c4dc1b80306da5a4c81f49544364"
+    },
+    {
+      "product": {
+        "id": "00fe647e5177f89780b39f4b0509e420b636c527",
+        "name": "The Fine World Style Symbol For Girls Silver  K Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Style Symbol For Girls Silver  K Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "97ecf7be-bdd8-40ea-92da-a3aab7e8ebcc",
+        "variants": [
+          {
+            "id": "9e51f6650501004917cfc7bd371bee81",
+            "name": "Earrings",
+            "description": "The Fine World Style Symbol For Girls Silver  K Zircon Metal Drop Earring - Buy The Fine World Style Symbol For Girls Silver  K Zircon Metal Drop Earring only for Rs. 939 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1543,
+            "price": 1035,
+            "sale": false,
+            "sale_price": 939,
+            "stock_keeping_unit": "ERGE8D2C6PGHPR2V",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/r/2/v/e81rj010181sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qgrthuevj.jpeg",
+                "filename": "e81rj010181sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qgrthuevj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/r/2/v/e81rj010181sb-1-the-fine-world-drop-earring-original-imae5p5qgrthuevj.jpeg",
+                "filename": "e81rj010181sb-1-the-fine-world-drop-earring-original-imae5p5qgrthuevj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["The Fine World"] },
+              { "key": "Model Number", "values": ["E81RJ010181SB-1"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Silver"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Style Symbol For Girls"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          },
+          {
+            "id": "ea769b01b22ded0be80da3ec5d22bdd4",
+            "name": "Earrings",
+            "description": "The Fine World Style Symbol For Girls Silver  K Zircon Metal Drop Earring - Buy The Fine World Style Symbol For Girls Silver  K Zircon Metal Drop Earring only for Rs. 939 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4804,
+            "price": 1035,
+            "sale": true,
+            "sale_price": 939,
+            "stock_keeping_unit": "ERGE8D2CWKG32WHH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/w/h/h/e81rj010181gr-1-the-fine-world-drop-earring-1100x1100-imae5p5qnsqfnthh.jpeg",
+                "filename": "e81rj010181gr-1-the-fine-world-drop-earring-1100x1100-imae5p5qnsqfnthh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/w/h/h/e81rj010181gr-1-the-fine-world-drop-earring-original-imae5p5qnsqfnthh.jpeg",
+                "filename": "e81rj010181gr-1-the-fine-world-drop-earring-original-imae5p5qnsqfnthh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["The Fine World"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["E81RJ010181GR-1"] },
+              { "key": "Plating", "values": ["Silver"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Style Symbol For Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": false,
+      "id": "00fe647e5177f89780b39f4b0509e420b636c527"
+    },
+    {
+      "product": {
+        "id": "b4d9be74bcccc8e2336d740d8c5ade86cbac992c",
+        "name": "The Fine World Studded Onto Crescent Shaped Silver  K Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Studded Onto Crescent Shaped Silver  K Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "94c13490-866e-4a61-946b-f143110e449f",
+        "variants": [
+          {
+            "id": "0e5ee4b62739167c74e615c64a38faa6",
+            "name": "Earrings",
+            "description": "The Fine World Studded Onto Crescent Shaped Silver  K Zircon Metal Drop Earring - Buy The Fine World Studded Onto Crescent Shaped Silver  K Zircon Metal Drop Earring only for Rs. 409 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 64,
+            "price": 449,
+            "sale": false,
+            "sale_price": 409,
+            "stock_keeping_unit": "ERGE86NTSCGHJD2G",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/d/2/g/e107rj0101107pu-1-the-fine-world-drop-earring-1100x1100-imae5p5qmx9jpzf3.jpeg",
+                "filename": "e107rj0101107pu-1-the-fine-world-drop-earring-1100x1100-imae5p5qmx9jpzf3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/earring/d/2/g/e107rj0101107pu-1-the-fine-world-drop-earring-original-imae5p5qmx9jpzf3.jpeg",
+                "filename": "e107rj0101107pu-1-the-fine-world-drop-earring-original-imae5p5qmx9jpzf3.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["The Fine World"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["E107RJ0101107PU-1"] },
+              { "key": "Plating", "values": ["Silver"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              {
+                "key": "Model Name",
+                "values": ["Studded Onto Crescent Shaped"]
+              },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          },
+          {
+            "id": "08b3ac25ca2acfa5afea4d6815ca9f73",
+            "name": "Earrings",
+            "description": "The Fine World Studded Onto Crescent Shaped Silver  K Zircon Metal Drop Earring - Buy The Fine World Studded Onto Crescent Shaped Silver  K Zircon Metal Drop Earring only for Rs. 409 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4982,
+            "price": 449,
+            "sale": false,
+            "sale_price": 409,
+            "stock_keeping_unit": "ERGE86NTHPZJKK65",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/k/6/5/e107rj0101107sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qktndctc8.jpeg",
+                "filename": "e107rj0101107sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qktndctc8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/k/6/5/e107rj0101107sb-1-the-fine-world-drop-earring-original-imae5p5qktndctc8.jpeg",
+                "filename": "e107rj0101107sb-1-the-fine-world-drop-earring-original-imae5p5qktndctc8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["The Fine World"] },
+              { "key": "Model Number", "values": ["E107RJ0101107SB-1"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Silver"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              {
+                "key": "Model Name",
+                "values": ["Studded Onto Crescent Shaped"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "b4d9be74bcccc8e2336d740d8c5ade86cbac992c"
+    },
+    {
+      "product": {
+        "id": "d3b9f9a03e9f19cd8a1a6d61e7dd39b3b7b58180",
+        "name": "The Fine World Cutwork Studded Brass Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Cutwork Studded Brass Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "12a61954-f0f4-4498-8114-2405dbc914a7",
+        "variants": [
+          {
+            "id": "b4deebcfc03f3caabd913de756950036",
+            "name": "Earrings",
+            "description": "The Fine World Cutwork Studded Brass Zircon Metal Drop Earring - Buy The Fine World Cutwork Studded Brass Zircon Metal Drop Earring only for Rs. 915 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8953,
+            "price": 1019,
+            "sale": false,
+            "sale_price": 915,
+            "stock_keeping_unit": "ERGE8E8NHDWAZBF6",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/b/f/6/e5rj01015sb-1-the-fine-world-drop-earring-1100x1100-imae4gfcfbhhzpqe.jpeg",
+                "filename": "e5rj01015sb-1-the-fine-world-drop-earring-1100x1100-imae4gfcfbhhzpqe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/b/f/6/e5rj01015sb-1-the-fine-world-drop-earring-original-imae4gfcfbhhzpqe.jpeg",
+                "filename": "e5rj01015sb-1-the-fine-world-drop-earring-original-imae4gfcfbhhzpqe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Fine World"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["E5RJ01015SB-1"] },
+              { "key": "Plating", "values": ["Brass"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Cutwork Studded"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": false,
+      "id": "d3b9f9a03e9f19cd8a1a6d61e7dd39b3b7b58180"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

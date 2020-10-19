@@ -1,0 +1,3151 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "868d410a398b3a2ddad97bd1ed3efb26cb0a6edd",
+        "name": "Pink Rose Passion Zircon Metal Drop Earring",
+        "description": "Dummy description for product Pink Rose Passion Zircon Metal Drop Earring",
+        "manufacturer_id": "cd65d7e7752ec1975f17d52091c9a2516a35133d",
+        "taric_code": "3cd07320-16ea-4113-b1a5-07c0ca22c21f",
+        "variants": [
+          {
+            "id": "d650f51fbc6dbd3f0ee4767f68e2c1c5",
+            "name": "Earrings",
+            "description": "Pink Rose Passion Zircon Metal Drop Earring - Buy Pink Rose Passion Zircon Metal Drop Earring only for Rs. 379 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6383,
+            "price": 1196,
+            "sale": false,
+            "sale_price": 379,
+            "stock_keeping_unit": "ERGE93UZASHTUYFD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/y/f/d/pinkrose-er-220-pink-rose-drop-earring-original-imae93fyvmzbhz6z.jpeg",
+                "filename": "pinkrose-er-220-pink-rose-drop-earring-original-imae93fyvmzbhz6z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Pink Rose"] },
+              { "key": "Model Number", "values": ["PINKROSE/ER/220"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Passion"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Love"]
+              },
+              { "key": "Color", "values": ["Blue", "White"] },
+              { "key": "Weight", "values": ["20 g"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Number of Pairs", "values": ["1"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "868d410a398b3a2ddad97bd1ed3efb26cb0a6edd"
+    },
+    {
+      "product": {
+        "id": "626402db255e3926824a5a31239172cb4c1b4c8e",
+        "name": "The Fine World Victorian Type Brass Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Victorian Type Brass Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "2256a6ea-9eef-497d-b483-786171a156b7",
+        "variants": [
+          {
+            "id": "ba5773542076b593fc13f9c805dd47b9",
+            "name": "Earrings",
+            "description": "The Fine World Victorian Type Brass Zircon Metal Drop Earring - Buy The Fine World Victorian Type Brass Zircon Metal Drop Earring only for Rs. 915 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3520,
+            "price": 1009,
+            "sale": false,
+            "sale_price": 915,
+            "stock_keeping_unit": "ERGE8D4ZHZRSHVEC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/v/e/c/e45rj010145sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qeuw98dxz.jpeg",
+                "filename": "e45rj010145sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qeuw98dxz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/v/e/c/e45rj010145sb-1-the-fine-world-drop-earring-original-imae5p5qeuw98dxz.jpeg",
+                "filename": "e45rj010145sb-1-the-fine-world-drop-earring-original-imae5p5qeuw98dxz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Fine World"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["E45RJ010145SB-1"] },
+              { "key": "Plating", "values": ["Brass"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Victorian Type"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "626402db255e3926824a5a31239172cb4c1b4c8e"
+    },
+    {
+      "product": {
+        "id": "2e92ba796fb162dff155aadb8f2d7912051108b1",
+        "name": "The Fine World Long Letkan Silver Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Long Letkan Silver Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "9c096d95-0712-4095-9678-21d3d91ed681",
+        "variants": [
+          {
+            "id": "6878d5a8f9d8aaeb5e1fd631b2d52ef3",
+            "name": "Earrings",
+            "description": "The Fine World Long Letkan Silver Zircon Metal Drop Earring - Buy The Fine World Long Letkan Silver Zircon Metal Drop Earring only for Rs. 895 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7657,
+            "price": 985,
+            "sale": true,
+            "sale_price": 895,
+            "stock_keeping_unit": "ERGE8D2CERS7JRYH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/r/y/h/e109rj0101109sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qqypfqtxk.jpeg",
+                "filename": "e109rj0101109sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qqypfqtxk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/r/y/h/e109rj0101109sb-1-the-fine-world-drop-earring-original-imae5p5qqypfqtxk.jpeg",
+                "filename": "e109rj0101109sb-1-the-fine-world-drop-earring-original-imae5p5qqypfqtxk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Fine World"] },
+              { "key": "Model Number", "values": ["E109RJ0101109SB-1"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Silver"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Long Letkan"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "2e92ba796fb162dff155aadb8f2d7912051108b1"
+    },
+    {
+      "product": {
+        "id": "82f69fd6875bed29b6ce72f897affab2c56fbd85",
+        "name": "The Fine World Glitzy Shimmering Stones Silver Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Glitzy Shimmering Stones Silver Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "eafec75f-3e58-4304-a6ae-cc9b045b1320",
+        "variants": [
+          {
+            "id": "f9e05b48152afea607379644c57274ef",
+            "name": "Earrings",
+            "description": "The Fine World Glitzy Shimmering Stones Silver Zircon Metal Drop Earring - Buy The Fine World Glitzy Shimmering Stones Silver Zircon Metal Drop Earring only for Rs. 1049 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2268,
+            "price": 1155,
+            "sale": false,
+            "sale_price": 1049,
+            "stock_keeping_unit": "ERGE8DXEFZFAZSYG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/s/y/g/e21rj010121tu-1-the-fine-world-drop-earring-1100x1100-imae4gz2hhjdpabe.jpeg",
+                "filename": "e21rj010121tu-1-the-fine-world-drop-earring-1100x1100-imae4gz2hhjdpabe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/s/y/g/e21rj010121tu-1-the-fine-world-drop-earring-original-imae4gz2hhjdpabe.jpeg",
+                "filename": "e21rj010121tu-1-the-fine-world-drop-earring-original-imae4gz2hhjdpabe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Fine World"] },
+              { "key": "Model Number", "values": ["E21RJ010121TU-1"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Silver"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Glitzy Shimmering Stones"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "82f69fd6875bed29b6ce72f897affab2c56fbd85"
+    },
+    {
+      "product": {
+        "id": "2ca389faf0e4b791f68906e5252288f46fa24dd8",
+        "name": "The Fine World Coloured Stone Letkan Brass Zircon Metal Drop Earring",
+        "description": "Dummy description for product The Fine World Coloured Stone Letkan Brass Zircon Metal Drop Earring",
+        "manufacturer_id": "50b79e5abfe858c85df09e0bcf9326c3ae478e8d",
+        "taric_code": "778b7321-cb12-49ea-9e05-3cd1e9564f1b",
+        "variants": [
+          {
+            "id": "81db2ee510ec69a9bfc987d5f04e8525",
+            "name": "Earrings",
+            "description": "The Fine World Coloured Stone Letkan Brass Zircon Metal Drop Earring - Buy The Fine World Coloured Stone Letkan Brass Zircon Metal Drop Earring only for Rs. 805 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7175,
+            "price": 885,
+            "sale": false,
+            "sale_price": 805,
+            "stock_keeping_unit": "ERGE8D4ZWMRAXKJ7",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/k/j/7/e50rj010150sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qathbjfwg.jpeg",
+                "filename": "e50rj010150sb-1-the-fine-world-drop-earring-1100x1100-imae5p5qathbjfwg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/k/j/7/e50rj010150sb-1-the-fine-world-drop-earring-original-imae5p5qathbjfwg.jpeg",
+                "filename": "e50rj010150sb-1-the-fine-world-drop-earring-original-imae5p5qathbjfwg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Fine World"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["E50RJ010150SB-1"] },
+              { "key": "Plating", "values": ["Brass"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Coloured Stone Letkan"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["Zircon"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "2ca389faf0e4b791f68906e5252288f46fa24dd8"
+    },
+    {
+      "product": {
+        "id": "2a3914fe67f435a7b0cecbeb62fa3c4b5c5c93f4",
+        "name": "Goddess Women Women's Animal Print Casual Shirt",
+        "description": "Dummy description for product Goddess Women Women's Animal Print Casual Shirt",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "f09b052e-4e9b-44a3-b479-64e838db0219",
+        "variants": [
+          {
+            "id": "d9c9738872e4565f72be1c1ff989ee66",
+            "name": "Goddess Women Shirts",
+            "description": "Goddess Women Women's Animal Print Casual Shirt\n                         Price: Rs. 909\n\t\t\t\t\n\t\t\tCelebration season is shopping season! Start your new year with some fashionable outfits and set the trend that stays! Goddess Women brings you this great looking black and yellow shirt style top which is truly a must have in your casual wear wardrobe. It is made in best quality georgette fabric material and hence is supremely comfortable and skin friendly. Featuring a funky print and 3/4th sleeve pattern, this black top is a total stunner. Combine it with denim or chinos and get ready to rock your casual outings.\nPowered by 99yrs\nCelebration season is shopping season! Start your new year with some fashionable outfits and set the trend that stays! Goddess Women brings you this great looking black and yellow shirt style top which is truly a must have in your casual wear wardrobe. It is made in best quality georgette fabric material and hence is supremely comfortable and skin friendly. Featuring a funky print and 3/4th sleeve pattern, this black top is a total stunner. Combine it with denim or chinos and get ready to rock your casual outings.\nPowered by 99yrs",
+            "stock_level": 11,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 909,
+            "stock_keeping_unit": "SHTE34TJTDDGP8TH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/8/t/h/w14-908-goddess-women-xxl-original-imae33sq5zcusczy.jpeg",
+                "filename": "w14-908-goddess-women-xxl-original-imae33sq5zcusczy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/8/t/h/w14-908-goddess-women-xxl-original-imae33sq5zcusczy.jpeg",
+                "filename": "w14-908-goddess-women-xxl-original-imae33sq5zcusczy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/8/t/h/w14-908-goddess-women-3xl-original-imae33srnceeczyx.jpeg",
+                "filename": "w14-908-goddess-women-3xl-original-imae33srnceeczyx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/8/t/h/w14-908-goddess-women-3xl-original-imae33srg44cft7v.jpeg",
+                "filename": "w14-908-goddess-women-3xl-original-imae33srg44cft7v.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/8/t/h/w14-908-goddess-women-3xl-original-imae33srzrgtkuzu.jpeg",
+                "filename": "w14-908-goddess-women-3xl-original-imae33srzrgtkuzu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/8/t/h/w14-908-goddess-women-xxl-original-imae33sqanz9h6yz.jpeg",
+                "filename": "w14-908-goddess-women-xxl-original-imae33sqanz9h6yz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Animal Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Georgette"] },
+              { "key": "Type", "values": ["Pencil"] },
+              { "key": "Style Code", "values": ["W14_908"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "96f0a9ddb13a34c07e0407473e47ea907c8231b5" }
+      },
+      "active": true,
+      "id": "2a3914fe67f435a7b0cecbeb62fa3c4b5c5c93f4"
+    },
+    {
+      "product": {
+        "id": "d608dbf482d278ce23e92122de11c1a158d61669",
+        "name": "Mask Lifestyle Women's Animal Print Casual Shirt",
+        "description": "Dummy description for product Mask Lifestyle Women's Animal Print Casual Shirt",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "2f5d42a7-406b-4989-a287-33dd9bd0b1e4",
+        "variants": [
+          {
+            "id": "28009be79ea5cdac20aaad254d9fac26",
+            "name": "Mask Lifestyle Shirts",
+            "description": "Mask Lifestyle Women's Animal Print Casual Shirt - Buy Multicolor Mask Lifestyle Women's Animal Print Casual Shirt For Only Rs. 999 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 8014,
+            "price": 999,
+            "sale": false,
+            "sale_price": 475,
+            "stock_keeping_unit": "SHTEB4MHWGHHYZMV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/k/h/r/mls10-mask-lifestyle-xl-original-imaeb84hmrzf7pbz.jpeg",
+                "filename": "mls10-mask-lifestyle-xl-original-imaeb84hmrzf7pbz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/k/h/r/mls10-mask-lifestyle-xl-original-imaeb84hvsha3ngq.jpeg",
+                "filename": "mls10-mask-lifestyle-xl-original-imaeb84hvsha3ngq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/k/h/r/mls10-mask-lifestyle-xl-original-imaeb84heryajswc.jpeg",
+                "filename": "mls10-mask-lifestyle-xl-original-imaeb84heryajswc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/k/h/r/mls10-mask-lifestyle-xl-original-imaeb84husp45rzr.jpeg",
+                "filename": "mls10-mask-lifestyle-xl-original-imaeb84husp45rzr.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "1fde4a08-94fb-473a-a515-561532e0705e",
+                "values": ["15 Days Manufacturers Domestic Warranty"]
+              },
+              { "key": "Pattern", "values": ["Animal Print"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Closure", "values": ["Button"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Polyster"] },
+              { "key": "Fit", "values": ["Slim"] },
+              { "key": "Style Code", "values": ["MLS10"] },
+              {
+                "key": "3b72fc21-54ea-4842-a291-71b6b952c747",
+                "values": ["Normal Wash"]
+              }
+            ]
+          },
+          {
+            "id": "d0c4c57d11dd755c0d5e635229d84113",
+            "name": "Mask Lifestyle Shirts",
+            "description": "Mask Lifestyle Women's Animal Print Casual Shirt - Buy Multicolor Mask Lifestyle Women's Animal Print Casual Shirt For Only Rs. 999 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 5726,
+            "price": 999,
+            "sale": false,
+            "sale_price": 475,
+            "stock_keeping_unit": "SHTEB4MGZCZKGAJR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/b/e/3/mls5-mask-lifestyle-xl-original-imaeb84hw6kxf6fk.jpeg",
+                "filename": "mls5-mask-lifestyle-xl-original-imaeb84hw6kxf6fk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/b/e/3/mls5-mask-lifestyle-xl-original-imaeb84hhpgnffbd.jpeg",
+                "filename": "mls5-mask-lifestyle-xl-original-imaeb84hhpgnffbd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/b/e/3/mls5-mask-lifestyle-xl-original-imaeb84hkrubmkre.jpeg",
+                "filename": "mls5-mask-lifestyle-xl-original-imaeb84hkrubmkre.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/b/e/3/mls5-mask-lifestyle-s-original-imaeb84h8hcwxddm.jpeg",
+                "filename": "mls5-mask-lifestyle-s-original-imaeb84h8hcwxddm.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "bd603025-a311-4bf2-a6cf-a54bbc9d6618",
+                "values": ["15 Days Manufacturers Domestic Warranty"]
+              },
+              { "key": "Pattern", "values": ["Animal Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              { "key": "Closure", "values": ["Button"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Polyster"] },
+              { "key": "Fit", "values": ["Slim"] },
+              {
+                "key": "a6c0dada-8d48-4132-957c-69de351c3c12",
+                "values": ["Normal Wash"]
+              },
+              { "key": "Style Code", "values": ["MLS5"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "96f0a9ddb13a34c07e0407473e47ea907c8231b5" }
+      },
+      "active": false,
+      "id": "d608dbf482d278ce23e92122de11c1a158d61669"
+    },
+    {
+      "product": {
+        "id": "c7909ad2b134d0bcc4d40001462483dcf54f1505",
+        "name": "Trend18 Women's Animal Print Casual Shirt",
+        "description": "Dummy description for product Trend18 Women's Animal Print Casual Shirt",
+        "manufacturer_id": "789edc0b6958c488443713c7b62cd5162517b83b",
+        "taric_code": "f86dabca-c1bb-42ac-8d25-04cd2765cae4",
+        "variants": [
+          {
+            "id": "e0009b47d9bdf2c2aed9c894a77a3a18",
+            "name": "Trend18 Shirts",
+            "description": "Trend18 Women's Animal Print Casual Shirt - Buy Brown, Black Trend18 Women's Animal Print Casual Shirt For Only Rs. 699 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 9859,
+            "price": 699,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "SHTE6Q3KZ8TABHGN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/d/p/z/10003115-trend18-xs-original-imae6q789zkrrbez.jpeg",
+                "filename": "10003115-trend18-xs-original-imae6q789zkrrbez.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/e/7/6/10004487-trend-18-xs-original-imae6q78c43tbwge.jpeg",
+                "filename": "10004487-trend-18-xs-original-imae6q78c43tbwge.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/top/g/r/g/1-1-10003680-trend18-xs-original-imae6q783mg3pavg.jpeg",
+                "filename": "1-1-10003680-trend18-xs-original-imae6q783mg3pavg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Animal Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Regular"] },
+              { "key": "Fabric", "values": ["Polyester"] },
+              { "key": "Type", "values": ["Shirt"] },
+              { "key": "Fit", "values": ["Regular"] },
+              {
+                "key": "a750c3f3-33d6-48ae-873b-b315532a23bc",
+                "values": ["Soft Machine Wash", "Wash With Similar Colors"]
+              },
+              {
+                "key": "9635d4c1-fb1e-402b-914e-3ad6aeccf578",
+                "values": ["Shirt"]
+              },
+              { "key": "Style Code", "values": ["10003115"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "96f0a9ddb13a34c07e0407473e47ea907c8231b5" }
+      },
+      "active": true,
+      "id": "c7909ad2b134d0bcc4d40001462483dcf54f1505"
+    },
+    {
+      "product": {
+        "id": "8306035e609ccf1af104a7a0c7ebd7a73dce0a96",
+        "name": "Love From India Women's Printed Casual Shirt",
+        "description": "Dummy description for product Love From India Women's Printed Casual Shirt",
+        "manufacturer_id": "789edc0b6958c488443713c7b62cd5162517b83b",
+        "taric_code": "dab9c6d4-915a-494e-9dcb-67f691e74607",
+        "variants": [
+          {
+            "id": "6f4b2e10894f6d0742ae6549730ffe37",
+            "name": "Love From India Shirts",
+            "description": "Love From India Women's Printed Casual Shirt - Buy Off White Love From India Women's Printed Casual Shirt For Only Rs. 1990 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 8339,
+            "price": 1990,
+            "sale": false,
+            "sale_price": 1990,
+            "stock_keeping_unit": "SHTEBG6ZGKAWFWKT",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/a/j/s/100397-offwhite-love-from-india-m-original-imaeb2ntxkphzhpe.jpeg",
+                "filename": "100397-offwhite-love-from-india-m-original-imaeb2ntxkphzhpe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/a/j/s/100397-offwhite-love-from-india-m-original-imaeb2ntxkphzhpe.jpeg",
+                "filename": "100397-offwhite-love-from-india-m-original-imaeb2ntxkphzhpe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/a/j/s/100397-offwhite-love-from-india-m-original-imaeb2ntyhhuutcy.jpeg",
+                "filename": "100397-offwhite-love-from-india-m-original-imaeb2ntyhhuutcy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/a/j/s/100397-offwhite-love-from-india-m-original-imaeb2ntb74znsjg.jpeg",
+                "filename": "100397-offwhite-love-from-india-m-original-imaeb2ntb74znsjg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/a/j/s/100397-offwhite-love-from-india-m-original-imaeb2ntxsg2w7xs.jpeg",
+                "filename": "100397-offwhite-love-from-india-m-original-imaeb2ntxsg2w7xs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/a/j/s/100397-offwhite-love-from-india-xl-original-imaeb2ntxknyyavm.jpeg",
+                "filename": "100397-offwhite-love-from-india-xl-original-imaeb2ntxknyyavm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Regular"] },
+              { "key": "Fabric", "values": ["Poly"] },
+              { "key": "Fit", "values": ["Regular"] },
+              {
+                "key": "a1777d0d-65b5-4d0c-a291-393bf1c4a794",
+                "values": ["Shirt"]
+              },
+              { "key": "Style Code", "values": ["100397_OFFWHITE"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "96f0a9ddb13a34c07e0407473e47ea907c8231b5" }
+      },
+      "active": false,
+      "id": "8306035e609ccf1af104a7a0c7ebd7a73dce0a96"
+    },
+    {
+      "product": {
+        "id": "0a403a8ae4743451c227ad097a2e78a9c9ec9013",
+        "name": "The Beach Company Women's Animal Print Casual Shirt",
+        "description": "Dummy description for product The Beach Company Women's Animal Print Casual Shirt",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "32615f69-660b-4f3d-861f-fde09e473a3a",
+        "variants": [
+          {
+            "id": "7a90b15138bd5a4c21ada1871b765fce",
+            "name": "The Beach Company Shirts",
+            "description": "The Beach Company Women's Animal Print Casual Shirt - Buy Multicolor The Beach Company Women's Animal Print Casual Shirt For Only Rs. 900 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 6488,
+            "price": 900,
+            "sale": false,
+            "sale_price": 500,
+            "stock_keeping_unit": "SHTEAVZTJAZMZPFX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/t/p/5/snk-the-beach-company-m-original-imaeavtqqwxwrwcc.jpeg",
+                "filename": "snk-the-beach-company-m-original-imaeavtqqwxwrwcc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/t/p/5/snk-the-beach-company-s-original-imaeavtqschwb6wd.jpeg",
+                "filename": "snk-the-beach-company-s-original-imaeavtqschwb6wd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/t/p/5/snk-the-beach-company-s-original-imaeavtqhbcky4r9.jpeg",
+                "filename": "snk-the-beach-company-s-original-imaeavtqhbcky4r9.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Animal Print"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Closure", "values": ["Button"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Collar", "values": ["Shirt Collar"] },
+              { "key": "Fabric", "values": ["Blended Cotton"] },
+              { "key": "Placket", "values": ["Regular"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Other Details", "values": ["Button Down Placket"] },
+              { "key": "Style Code", "values": ["SNK"] },
+              {
+                "key": "4462df50-0db8-42dd-aad5-af5efeb33668",
+                "values": ["Shirt"]
+              },
+              {
+                "key": "d076a5b6-682e-472a-a2ee-7770120afa49",
+                "values": ["Hand Wash"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "96f0a9ddb13a34c07e0407473e47ea907c8231b5" }
+      },
+      "active": false,
+      "id": "0a403a8ae4743451c227ad097a2e78a9c9ec9013"
+    },
+    {
+      "product": {
+        "id": "49f3e316697a184f4e69e672db00b08201018ab0",
+        "name": "Goddess Women Women's Solid, Self Design Casual Shirt",
+        "description": "Dummy description for product Goddess Women Women's Solid, Self Design Casual Shirt",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "b356c4d3-5c26-4359-bc2d-7ffdd7bb21e1",
+        "variants": [
+          {
+            "id": "1529405110bcb871a37740ec34600da9",
+            "name": "Goddess Women Shirts",
+            "description": "Goddess Women Women's Solid, Self Design Casual Shirt\n                         Price: Rs. 909\n\t\t\t\t\n\t\t\tCelebration season is shopping season! Start your new year with some fashionable outfits and set the trend that stays! Goddess Women brings you this great looking red shirt style top which is truly a must have in your casual wear wardrobe. It is made in best quality georgette fabric material and hence is supremely comfortable and skin friendly. Featuring a funky look and sleeveless pattern, this red top is a total stunner. Combine it with denim or chinos and get ready to rock your casual outings.\nPowered by 99yrs\nCelebration season is shopping season! Start your new year with some fashionable outfits and set the trend that stays! Goddess Women brings you this great looking red shirt style top which is truly a must have in your casual wear wardrobe. It is made in best quality georgette fabric material and hence is supremely comfortable and skin friendly. Featuring a funky look and sleeveless pattern, this red top is a total stunner. Combine it with denim or chinos and get ready to rock your casual outings.\nPowered by 99yrs",
+            "stock_level": 9443,
+            "price": 1299,
+            "sale": true,
+            "sale_price": 909,
+            "stock_keeping_unit": "SHTE34TJVTPCMB2N",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/g/f/a/w14-1004-goddess-women-xxl-original-imae33sqzh5jnemu.jpeg",
+                "filename": "w14-1004-goddess-women-xxl-original-imae33sqzh5jnemu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/g/f/a/w14-1004-goddess-women-xxl-original-imae33sqzh5jnemu.jpeg",
+                "filename": "w14-1004-goddess-women-xxl-original-imae33sqzh5jnemu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/g/f/a/w14-1004-goddess-women-xxl-original-imae9xnvzgsyanta.jpeg",
+                "filename": "w14-1004-goddess-women-xxl-original-imae9xnvzgsyanta.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/g/f/a/w14-1004-goddess-women-xxl-original-imae33sqmgnemude.jpeg",
+                "filename": "w14-1004-goddess-women-xxl-original-imae33sqmgnemude.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/g/f/a/w14-1004-goddess-women-xxl-original-imae33sqzrmzmktm.jpeg",
+                "filename": "w14-1004-goddess-women-xxl-original-imae33sqzrmzmktm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/g/f/a/w14-1004-goddess-women-xl-original-imae33srmutzgzgq.jpeg",
+                "filename": "w14-1004-goddess-women-xl-original-imae33srmutzgzgq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/g/f/a/w14-1004-goddess-women-xl-original-imae33sqkgtqdwt5.jpeg",
+                "filename": "w14-1004-goddess-women-xl-original-imae33sqkgtqdwt5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid", "Self Design"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["Sleeveless"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Georgette"] },
+              { "key": "Type", "values": ["Pencil"] },
+              { "key": "Style Code", "values": ["W14_1004"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "96f0a9ddb13a34c07e0407473e47ea907c8231b5" }
+      },
+      "active": true,
+      "id": "49f3e316697a184f4e69e672db00b08201018ab0"
+    },
+    {
+      "product": {
+        "id": "1831edf8f06854df4e4d6a853df44cd08920835c",
+        "name": "Police Slim Fit Men's Jeans",
+        "description": "Dummy description for product Police Slim Fit Men's Jeans",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "670ddef5-5865-4345-ac4e-c8c82d7b29f8",
+        "variants": [
+          {
+            "id": "f72d5cc09e0ee2a982ae74b10c59281f",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans\n                         Price: Rs. 899\n\t\t\t\t\n\t\t\tCotton Lycra Dnx Washed Semi Slim Fit Jeans By Police.\nCotton Lycra Dnx Washed Semi Slim Fit Jeans By Police.",
+            "stock_level": 7000,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "JEAECSU3VZGGYMNE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jean/a/z/j/1pjo21842-police-38-original-imaecrtz3fn93tna.jpeg",
+                "filename": "1pjo21842-police-38-original-imaecrtz3fn93tna.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/a/z/j/1pjo21842-police-38-original-imaecruyjdw44zng.jpeg",
+                "filename": "1pjo21842-police-38-original-imaecruyjdw44zng.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/v/c/g/1pjo21842-police-36-original-imaecruyqdg9gpyc.jpeg",
+                "filename": "1pjo21842-police-36-original-imaecruyqdg9gpyc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/v/c/g/1pjo21842-police-32-original-imaecruygdgab4fm.jpeg",
+                "filename": "1pjo21842-police-32-original-imaecruygdgab4fm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/v/c/g/1pjo21842-police-32-original-imaecjyydmegq4pp.jpeg",
+                "filename": "1pjo21842-police-32-original-imaecjyydmegq4pp.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO21842"] }
+            ]
+          },
+          {
+            "id": "5c3a010ecce9e9d2c25207f13cd43b25",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans\n                         Price: Rs. 899\n\t\t\t\t\n\t\t\tCotton Lycra Dnx Washed Semi Slim Fit Jeans By Police.\nCotton Lycra Dnx Washed Semi Slim Fit Jeans By Police.",
+            "stock_level": 6386,
+            "price": 1499,
+            "sale": true,
+            "sale_price": 899,
+            "stock_keeping_unit": "JEAECSSZGWZ7GF3N",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/3/n/1pjo22012-police-32-original-imaecru9tewe4k77.jpeg",
+                "filename": "1pjo22012-police-32-original-imaecru9tewe4k77.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/3/n/1pjo22012-police-32-original-imaecruavag5kxa5.jpeg",
+                "filename": "1pjo22012-police-32-original-imaecruavag5kxa5.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/3/n/1pjo22012-police-32-original-imaecrua65xrwt2r.jpeg",
+                "filename": "1pjo22012-police-32-original-imaecrua65xrwt2r.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/f/3/n/1pjo22012-police-32-original-imaecruazyghrnzm.jpeg",
+                "filename": "1pjo22012-police-32-original-imaecruazyghrnzm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/3/n/1pjo22012-police-38-original-imaecrucvavjxua9.jpeg",
+                "filename": "1pjo22012-police-38-original-imaecrucvavjxua9.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO22012"] }
+            ]
+          },
+          {
+            "id": "e240843c928a41ad158239394baec637",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans\n                         Price: Rs. 899\n\t\t\t\t\n\t\t\tCotton Lycra DNX Washed semi slim fit Jeans by Police.\nCotton Lycra DNX Washed semi slim fit Jeans by Police.",
+            "stock_level": 686,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "JEAECSV8MB6SKWTA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqvuvughfd.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqvuvughfd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqvuvughfd.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqvuvughfd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqvrqg4muj.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqvrqg4muj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqnmbf4mhr.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqnmbf4mhr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqdjt9cdsq.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqdjt9cdsq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecrurbdgwvt3v.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecrurbdgwvt3v.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO217162"] }
+            ]
+          },
+          {
+            "id": "0a16acc3c4af3bcdf6f8ec27df3cb89f",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans - Buy Blue Police Slim Fit Men's Jeans For Only Rs. 1499 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 9010,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "JEAECSSZNZH9DTGP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/u/q/1pjo22122-police-32-original-imaecrugkeknuwtg.jpeg",
+                "filename": "1pjo22122-police-32-original-imaecrugkeknuwtg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/f/u/q/1pjo22122-police-32-original-imaecrugkeknuwtg.jpeg",
+                "filename": "1pjo22122-police-32-original-imaecrugkeknuwtg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/u/q/1pjo22122-police-32-original-imaecrugzkf7hsva.jpeg",
+                "filename": "1pjo22122-police-32-original-imaecrugzkf7hsva.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/u/q/1pjo22122-police-32-original-imaecruhhshtn7cg.jpeg",
+                "filename": "1pjo22122-police-32-original-imaecruhhshtn7cg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/f/u/q/1pjo22122-police-38-original-imaecruhzgybcfc4.jpeg",
+                "filename": "1pjo22122-police-38-original-imaecruhzgybcfc4.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/u/q/1pjo22122-police-36-original-imaecruh3ahzjbjm.jpeg",
+                "filename": "1pjo22122-police-36-original-imaecruh3ahzjbjm.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO22122"] }
+            ]
+          },
+          {
+            "id": "7ddccdf1e93b560db51611b67e2efdb9",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans\n                         Price: Rs. 899\n\t\t\t\t\n\t\t\tCotton Lycra DNX Washed semi slim fit Jeans by Police.\nCotton Lycra DNX Washed semi slim fit Jeans by Police.",
+            "stock_level": 1566,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "JEAECSSZWFE7B9EK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jean/u/x/r/1pjo21982-police-34-original-imaecru4eyessymc.jpeg",
+                "filename": "1pjo21982-police-34-original-imaecru4eyessymc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/u/x/r/1pjo21982-police-32-original-imaecru4wxb5wdwg.jpeg",
+                "filename": "1pjo21982-police-32-original-imaecru4wxb5wdwg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/u/x/r/1pjo21982-police-34-original-imaecru4yx2ndqav.jpeg",
+                "filename": "1pjo21982-police-34-original-imaecru4yx2ndqav.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/u/x/r/1pjo21982-police-32-original-imaecru57vkey8zg.jpeg",
+                "filename": "1pjo21982-police-32-original-imaecru57vkey8zg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/u/x/r/1pjo21982-police-38-original-imaecru6ku7ktgjj.jpeg",
+                "filename": "1pjo21982-police-38-original-imaecru6ku7ktgjj.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO21982"] }
+            ]
+          },
+          {
+            "id": "53033aab45d807e76531d824f30fd6a1",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans\n                         Price: Rs. 899\n\t\t\t\t\n\t\t\tCotton Lycra DNX Washed semi slim fit Jeans by Police.\nCotton Lycra DNX Washed semi slim fit Jeans by Police.",
+            "stock_level": 9176,
+            "price": 1499,
+            "sale": true,
+            "sale_price": 899,
+            "stock_keeping_unit": "JEAECSV8QADPGRSY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqvuvughfd.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqvuvughfd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqvuvughfd.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqvuvughfd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqvrqg4muj.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqvrqg4muj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqnmbf4mhr.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqnmbf4mhr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecruqdjt9cdsq.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecruqdjt9cdsq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/q/n/h/1pjo217162-police-38-original-imaecrurbdgwvt3v.jpeg",
+                "filename": "1pjo217162-police-38-original-imaecrurbdgwvt3v.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO217162"] }
+            ]
+          },
+          {
+            "id": "20dd738593ea1dc02911627f785ecd5f",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans\n                         Price: Rs. 899\n\t\t\t\t\n\t\t\tCotton Lycra Dnx Washed Semi Slim Fit Jeans By Police.\nCotton Lycra Dnx Washed Semi Slim Fit Jeans By Police.",
+            "stock_level": 2914,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "JEAECSU3AYH5PAEY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jean/a/z/j/1pjo21842-police-38-original-imaecrtz3fn93tna.jpeg",
+                "filename": "1pjo21842-police-38-original-imaecrtz3fn93tna.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/a/z/j/1pjo21842-police-38-original-imaecruyjdw44zng.jpeg",
+                "filename": "1pjo21842-police-38-original-imaecruyjdw44zng.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/v/c/g/1pjo21842-police-36-original-imaecruyqdg9gpyc.jpeg",
+                "filename": "1pjo21842-police-36-original-imaecruyqdg9gpyc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/v/c/g/1pjo21842-police-32-original-imaecruygdgab4fm.jpeg",
+                "filename": "1pjo21842-police-32-original-imaecruygdgab4fm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/v/c/g/1pjo21842-police-32-original-imaecjyydmegq4pp.jpeg",
+                "filename": "1pjo21842-police-32-original-imaecjyydmegq4pp.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO21842"] }
+            ]
+          },
+          {
+            "id": "3d7fe5bfde5229e6c2f6937aa5ae90b2",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans\n                         Price: Rs. 899\n\t\t\t\t\n\t\t\tCotton Lycra Dnx Washed Semi Slim Fit Jeans By Police.\nCotton Lycra Dnx Washed Semi Slim Fit Jeans By Police.",
+            "stock_level": 9264,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "JEAECSSZXAGXSFUQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/u/q/1pjo22122-police-32-original-imaecrugkeknuwtg.jpeg",
+                "filename": "1pjo22122-police-32-original-imaecrugkeknuwtg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/f/u/q/1pjo22122-police-32-original-imaecrugkeknuwtg.jpeg",
+                "filename": "1pjo22122-police-32-original-imaecrugkeknuwtg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/u/q/1pjo22122-police-32-original-imaecrugzkf7hsva.jpeg",
+                "filename": "1pjo22122-police-32-original-imaecrugzkf7hsva.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/u/q/1pjo22122-police-32-original-imaecruhhshtn7cg.jpeg",
+                "filename": "1pjo22122-police-32-original-imaecruhhshtn7cg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/f/u/q/1pjo22122-police-38-original-imaecruhzgybcfc4.jpeg",
+                "filename": "1pjo22122-police-38-original-imaecruhzgybcfc4.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/f/u/q/1pjo22122-police-36-original-imaecruh3ahzjbjm.jpeg",
+                "filename": "1pjo22122-police-36-original-imaecruh3ahzjbjm.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO22122"] }
+            ]
+          },
+          {
+            "id": "b0e91e2a90f82063db18364ac7a3c6b7",
+            "name": "Police Jeans",
+            "description": "Police Slim Fit Men's Jeans - Buy Blue Police Slim Fit Men's Jeans For Only Rs. 2599 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 1980,
+            "price": 2599,
+            "sale": false,
+            "sale_price": 1299,
+            "stock_keeping_unit": "JEAE9ZVSPGBPMGHC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jean/g/h/c/1pjo219092-police-30-original-imae9zzafunwm9fe.jpeg",
+                "filename": "1pjo219092-police-30-original-imae9zzafunwm9fe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/g/h/c/1pjo219092-police-30-original-imae9zzafunwm9fe.jpeg",
+                "filename": "1pjo219092-police-30-original-imae9zzafunwm9fe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/g/h/c/1pjo219092-police-30-original-imae9zzbjg5h6zpv.jpeg",
+                "filename": "1pjo219092-police-30-original-imae9zzbjg5h6zpv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/g/h/c/1pjo219092-police-30-original-imae9zzbefhqhuf7.jpeg",
+                "filename": "1pjo219092-police-30-original-imae9zzbefhqhuf7.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/g/h/c/1pjo219092-police-30-original-imae9zzcaahg9wgg.jpeg",
+                "filename": "1pjo219092-police-30-original-imae9zzcaahg9wgg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/g/h/c/1pjo219092-police-30-original-imae9zzcya59cytt.jpeg",
+                "filename": "1pjo219092-police-30-original-imae9zzcya59cytt.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Rise", "values": ["Mid Rise"] },
+              { "key": "Wash", "values": ["Raw Washed"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["1PJO219092"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "de78c6c3598a510d46e216d17050f3321b6e455b" }
+      },
+      "active": true,
+      "id": "1831edf8f06854df4e4d6a853df44cd08920835c"
+    },
+    {
+      "product": {
+        "id": "115da1b89c08161e284bf660006d319e92583d2a",
+        "name": "NEVI Elegant Brass, White Gold Crystal, Swarovski Crystal Metal, Crystal, Brass Drop Earring",
+        "description": "Dummy description for product NEVI Elegant Brass, White Gold Crystal, Swarovski Crystal Metal, Crystal, Brass Drop Earring",
+        "manufacturer_id": "67d880b0eeb56cdace776f5cf33efcea9eabb86e",
+        "taric_code": "f0d4e666-cb2e-4826-a0bf-cdaad7d11c73",
+        "variants": [
+          {
+            "id": "0ca04c57f31eb9b91c85c41304502723",
+            "name": "Earrings",
+            "description": "NEVI Elegant Brass, White Gold Crystal, Swarovski Crystal Metal, Crystal, Brass Drop Earring - Buy NEVI Elegant Brass, White Gold Crystal, Swarovski Crystal Metal, Crystal, Brass Drop Earring only for Rs. 999 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8428,
+            "price": 1950,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "ERGEAHENHJPT96SE",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/6/s/e/nevide0178-nevi-drop-earring-1100x1100-imaec4gyuxmw3szb.jpeg",
+                "filename": "nevide0178-nevi-drop-earring-1100x1100-imaec4gyuxmw3szb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/earring/6/s/e/nevide0178-nevi-drop-earring-original-imaec4gyuxmw3szb.jpeg",
+                "filename": "nevide0178-nevi-drop-earring-original-imaec4gyuxmw3szb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/s/g/m/nevie0021-nevi-stud-earring-original-imaebyuqeqhkm4qz.jpeg",
+                "filename": "nevie0021-nevi-stud-earring-original-imaebyuqeqhkm4qz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["NEVI"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["NEVIDE0178"] },
+              { "key": "Plating", "values": ["Brass", "White Gold"] },
+              { "key": "Type", "values": ["Drop Earring"] },
+              { "key": "Model Name", "values": ["Elegant"] },
+              {
+                "key": "Occasion",
+                "values": [
+                  "Everyday",
+                  "Love",
+                  "Religious",
+                  "Wedding and Engagement",
+                  "Workwear"
+                ]
+              },
+              {
+                "key": "Ideal For",
+                "values": ["Baby Girls", "Girls", "Women"]
+              },
+              { "key": "Color", "values": ["Silver"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["6 Months Warranty from Date of Purchase"]
+              },
+              { "key": "Height", "values": ["20 mm"] },
+              { "key": "Width", "values": ["0.5 mm"] },
+              { "key": "Gold Color", "values": ["White Gold"] },
+              {
+                "key": "Base Material",
+                "values": ["Metal", "Crystal", "Brass"]
+              },
+              { "key": "Gemstone", "values": ["Crystal", "Swarovski Crystal"] },
+              { "key": "Piercing Required", "values": ["Yes"] },
+              { "key": "Earring Back Type", "values": ["Screw Back"] },
+              { "key": "Number of Pairs", "values": ["1"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "115da1b89c08161e284bf660006d319e92583d2a"
+    },
+    {
+      "product": {
+        "id": "2a33bbf1b33ebfeb908f298e7da00bca3cd65b13",
+        "name": "Ziveg Platinum Swarovski Crystal Sterling Silver Hoop Earring",
+        "description": "Dummy description for product Ziveg Platinum Swarovski Crystal Sterling Silver Hoop Earring",
+        "manufacturer_id": "a0ae67edcd90a4d2d573814ad6651b437852adc5",
+        "taric_code": "1af8230d-ca0b-486c-853f-80a23e40cfaa",
+        "variants": [
+          {
+            "id": "a2a4b3b5d6d8e706e1d44c1cb76e2c65",
+            "name": "Earrings",
+            "description": "Ziveg Platinum Swarovski Crystal Sterling Silver Hoop Earring - Buy Ziveg Platinum Swarovski Crystal Sterling Silver Hoop Earring only for Rs. 1899 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 957,
+            "price": 3300,
+            "sale": false,
+            "sale_price": 1899,
+            "stock_keeping_unit": "ERGEYTTPYVDBXKQK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/8/y/8/zs0005035-ziveg-1100x1100-imaeytwfybh7fwmz.jpeg",
+                "filename": "zs0005035-ziveg-1100x1100-imaeytwfybh7fwmz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/8/y/8/zs0005035-ziveg-original-imaeytwfybh7fwmz.jpeg",
+                "filename": "zs0005035-ziveg-original-imaeytwfybh7fwmz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Silver Purity", "values": ["S 925"] },
+              { "key": "Silver Weight", "values": ["6 g"] },
+              { "key": "Brand", "values": ["Ziveg"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Model Number", "values": ["ZSE002071"] },
+              { "key": "Plating", "values": ["Platinum"] },
+              { "key": "Type", "values": ["Hoop Earring"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["Pink", "Silver"] },
+              { "key": "Diameter", "values": ["0.8 mm"] },
+              { "key": "Weight", "values": ["6 g"] },
+              { "key": "Height", "values": ["1.5 mm"] },
+              { "key": "Width", "values": ["0.8 mm"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] },
+              { "key": "Gemstone", "values": ["Swarovski Crystal"] },
+              { "key": "Finish", "values": ["Platinum"] },
+              { "key": "Number of Pairs", "values": ["1"] },
+              { "key": "Certification", "values": ["Swarovski Authenticity"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Pair of Earring", "Warranty Card"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": false,
+      "id": "2a33bbf1b33ebfeb908f298e7da00bca3cd65b13"
+    },
+    {
+      "product": {
+        "id": "f832ccf7b750e5dfe4c0b4bc6d236b5522045a1e",
+        "name": "Deben & Hill Love Forever Swarovski Crystal Sterling Silver Hoop Earring",
+        "description": "Dummy description for product Deben & Hill Love Forever Swarovski Crystal Sterling Silver Hoop Earring",
+        "manufacturer_id": "a6946d1a86b480d6992d89526d1d9922d79c1cff",
+        "taric_code": "3edcd2e8-787b-4c3c-a2ee-08f140ccffe0",
+        "variants": [
+          {
+            "id": "ccd9b7cc5ba199c13838dbeefc52e094",
+            "name": "Earrings",
+            "description": "Deben & Hill Love Forever Swarovski Crystal Sterling Silver Hoop Earring - Buy Deben & Hill Love Forever Swarovski Crystal Sterling Silver Hoop Earring only for Rs. 1749 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3916,
+            "price": 3150,
+            "sale": false,
+            "sale_price": 1749,
+            "stock_keeping_unit": "ERGE6Q2JZNHTCTCX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/t/c/x/dhse2023-deben-hill-hoop-earring-1100x1100-imae2yg8dsg3mzkp.jpeg",
+                "filename": "dhse2023-deben-hill-hoop-earring-1100x1100-imae2yg8dsg3mzkp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/t/c/x/dhse2023-deben-hill-hoop-earring-original-imae2yg8dsg3mzkp.jpeg",
+                "filename": "dhse2023-deben-hill-hoop-earring-original-imae2yg8dsg3mzkp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Deben and Hill"] },
+              { "key": "Model Number", "values": ["DHSE2023"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Type", "values": ["Hoop Earring"] },
+              { "key": "Model Name", "values": ["Love Forever"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] },
+              { "key": "Gemstone", "values": ["Swarovski Crystal"] },
+              { "key": "Sales Package", "values": ["1 Pair Of Earring"] },
+              { "key": "Certification", "values": ["Swarovski Authenticity"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "f832ccf7b750e5dfe4c0b4bc6d236b5522045a1e"
+    },
+    {
+      "product": {
+        "id": "e4f470022b9e6d03ae852757bd0d576b087f3a6e",
+        "name": "Ziveg Spring Sparkle Platinum Swarovski Crystal Sterling Silver Hoop Earring",
+        "description": "Dummy description for product Ziveg Spring Sparkle Platinum Swarovski Crystal Sterling Silver Hoop Earring",
+        "manufacturer_id": "a0ae67edcd90a4d2d573814ad6651b437852adc5",
+        "taric_code": "db7768b9-72ef-4259-8c33-e3c49fa6e374",
+        "variants": [
+          {
+            "id": "95e72f1d18a343cc7e4494eb629deeec",
+            "name": "Earrings",
+            "description": "Ziveg Spring Sparkle Platinum Swarovski Crystal Sterling Silver Hoop Earring - Buy Ziveg Spring Sparkle Platinum Swarovski Crystal Sterling Silver Hoop Earring only for Rs. 2399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9691,
+            "price": 4400,
+            "sale": false,
+            "sale_price": 2399,
+            "stock_keeping_unit": "ERGE6JCKEHKQUHFB",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/h/f/b/zse002113-ziveg-hoop-earring-1100x1100-imae6jgfefkcjhzy.jpeg",
+                "filename": "zse002113-ziveg-hoop-earring-1100x1100-imae6jgfefkcjhzy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/earring/h/f/b/zse002113-ziveg-hoop-earring-original-imae6jgfefkcjhzy.jpeg",
+                "filename": "zse002113-ziveg-hoop-earring-original-imae6jgfefkcjhzy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ziveg"] },
+              { "key": "Model Number", "values": ["ZSE002113"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Plating", "values": ["Platinum"] },
+              { "key": "Type", "values": ["Hoop Earring"] },
+              { "key": "Model Name", "values": ["Spring Sparkle"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Silver Purity", "values": ["925 Silver"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] },
+              { "key": "Gemstone", "values": ["Swarovski Crystal"] },
+              {
+                "key": "Sales Package",
+                "values": ["2 Earring", "Warranty Card"]
+              },
+              { "key": "Certification", "values": ["Swarovski Authenticity"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "e4f470022b9e6d03ae852757bd0d576b087f3a6e"
+    },
+    {
+      "product": {
+        "id": "185801f262aa77820bcce311d295d5bd05ce123b",
+        "name": "Meenaz Classy Style Alloy Jewel Set",
+        "description": "Dummy description for product Meenaz Classy Style Alloy Jewel Set",
+        "manufacturer_id": "862798bc3e0cbf0d4689f153946333e47a3c8a7a",
+        "taric_code": "ee2935e2-0989-42c9-af21-1bec4cee1152",
+        "variants": [
+          {
+            "id": "b3f4d497930977958bb91cda740f296c",
+            "name": "Jewellery Sets",
+            "description": "Meenaz Classy Style Alloy Jewel Set (Gold, Silver)\n                         Price: Rs. 499\n\t\t\t\t\n\t\t\tThis Meenaz Classy Style Cubic Zirconia Mangalsutra Piece With Sheer Intricacies Of Design And Flawless Craftsmanship Is A Virtue Of Women'S Devotion Towards Their Other Half.This Pendant Set Has High End Fashion Design Which Has Elegance And Style. That Will Add Radiance To The Natural Beauty Of A Woman. \nThis Meenaz Classy Style Cubic Zirconia Mangalsutra Piece With Sheer Intricacies Of Design And Flawless Craftsmanship Is A Virtue Of Women'S Devotion Towards Their Other Half.This Pendant Set Has High End Fashion Design Which Has Elegance And Style. That Will Add Radiance To The Natural Beauty Of A Woman. ",
+            "stock_level": 4265,
+            "price": 899,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "JWSE7Y7TGZXMFWRK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/w/r/k/mf1501-meenaz-original-imae6wuzsgpzfzpc.jpeg",
+                "filename": "mf1501-meenaz-original-imae6wuzsgpzfzpc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/w/r/k/mf1501-meenaz-original-imae6wuzu33vv9hr.jpeg",
+                "filename": "mf1501-meenaz-original-imae6wuzu33vv9hr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/w/r/k/mf1501-meenaz-original-imae6wuzyphm2rhh.jpeg",
+                "filename": "mf1501-meenaz-original-imae6wuzyphm2rhh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Meenaz"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["Mf1501"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Tanmaniya Set"] },
+              { "key": "Model Name", "values": ["Classy Style"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold", "Silver"] },
+              { "key": "Covered in Warranty", "values": ["NA"] },
+              { "key": "Warranty Service Type", "values": ["NA"] },
+              { "key": "Not Covered in Warranty", "values": ["NA"] },
+              { "key": "Chain/Necklace Length", "values": ["18 inch"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Tanmaniya", "1 Chain", "2 Earring"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "185801f262aa77820bcce311d295d5bd05ce123b"
+    },
+    {
+      "product": {
+        "id": "91e78c1234b165a80eb29b15860761e42589041c",
+        "name": "Ollington St. Collection Baby Reusable Diaper With One Insert",
+        "description": "Dummy description for product Ollington St. Collection Baby Reusable Diaper With One Insert",
+        "manufacturer_id": "73339d4c45b0742549baabca130a76498ccb058a",
+        "taric_code": "34004f3b-6c7a-4ec0-8b0c-5a0bf066e862",
+        "variants": [
+          {
+            "id": "fda0890dba67c93a7c80b0993651caec",
+            "name": "Ollington St. Collection Nappies & Cloth Diapers",
+            "description": "Ollington St. Collection Baby Reusable Diaper With One Insert\n                         Price: Rs. 599\n\t\t\t\t\n\t\t\tForm fitting and reusable Ollington St. diaper and inserts set for your baby.\n\nFeatures:\n-Reusable diapers\n-Snap closure adjusts to fit all sizes\n-Trim, snug and comfortable\n-Keeps your little one stain and irritation free\n-A front panel to insert disposable pad\n-Includes 1 reusable insert\n-Material: Polyester and PU\n-One size diaper\n-Available Colours: Green,Pink,Red,Turquoise Blue,Blue,Dark Blue\n-Sizes: Diaper-23 x 19 cms (Approx.), Insert- 34 x 13 cms (Approx.)\n\nWash Instructions:\n-Wash before first use\n-Wash upto 60 degree Celsius\n-Avoid fabric softener or bleach\n-Tumble dry or line dry\n-Age group: 0 to 36 months\nForm fitting and reusable Ollington St. diaper and inserts set for your baby.\n\nFeatures:\n-Reusable diapers\n-Snap closure adjusts to fit all sizes\n-Trim, snug and comfortable\n-Keeps your little one stain and irritation free\n-A front panel to insert disposable pad\n-Includes 1 reusable insert\n-Material: Polyester and PU\n-One size diaper\n-Available Colours: Green,Pink,Red,Turquoise Blue,Blue,Dark Blue\n-Sizes: Diaper-23 x 19 cms (Approx.), Insert- 34 x 13 cms (Approx.)\n\nWash Instructions:\n-Wash before first use\n-Wash upto 60 degree Celsius\n-Avoid fabric softener or bleach\n-Tumble dry or line dry\n-Age group: 0 to 36 months",
+            "stock_level": 2856,
+            "price": 599,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "NPYEAUJJVHRRKDDG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/nappy/d/d/g/mi-722-1-ollington-st-collection-baby-reusable-diaper-with-one-original-imaeamwkzpbcb77p.jpeg",
+                "filename": "mi-722-1-ollington-st-collection-baby-reusable-diaper-with-one-original-imaeamwkzpbcb77p.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/nappy/d/d/g/mi-722-1-ollington-st-collection-baby-reusable-diaper-with-one-original-imaeamwkzpbcb77p.jpeg",
+                "filename": "mi-722-1-ollington-st-collection-baby-reusable-diaper-with-one-original-imaeamwkzpbcb77p.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/nappy/d/d/g/mi-722-1-ollington-st-collection-baby-reusable-diaper-with-one-original-imaeamwk78tynzry.jpeg",
+                "filename": "mi-722-1-ollington-st-collection-baby-reusable-diaper-with-one-original-imaeamwk78tynzry.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/nappy/d/d/g/mi-722-1-ollington-st-collection-baby-reusable-diaper-with-one-original-imaeamwkzay4hfhf.jpeg",
+                "filename": "mi-722-1-ollington-st-collection-baby-reusable-diaper-with-one-original-imaeamwkzay4hfhf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ollington St. Collection"] },
+              { "key": "Type", "values": ["Cloth Diapers"] },
+              {
+                "key": "Model Name",
+                "values": ["Baby Reusable Diaper With One Insert"]
+              },
+              { "key": "Ideal For", "values": ["Boys", "Girls"] },
+              { "key": "Model ID", "values": ["MI-722"] },
+              { "key": "Size", "values": ["Free Size"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["1 Reusable Diaper"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cdb90d71a49020fe69eb14618d4ad66843d985c6" }
+      },
+      "active": true,
+      "id": "91e78c1234b165a80eb29b15860761e42589041c"
+    },
+    {
+      "product": {
+        "id": "f43df68d14b6bdd64daf941b1cb9260769f7ef09",
+        "name": "Vatsalya Creation Traditional Alloy Jewel Set",
+        "description": "Dummy description for product Vatsalya Creation Traditional Alloy Jewel Set",
+        "manufacturer_id": "7bdfde9c9724d1341f275d30462f44fdc634a715",
+        "taric_code": "9da05a4d-ed66-4970-91bf-188551df0211",
+        "variants": [
+          {
+            "id": "ccb6f176f8af39f7d459b0960cc6bc7e",
+            "name": "Jewellery Sets",
+            "description": "Vatsalya Creation Traditional Alloy Jewel Set - Buy Vatsalya Creation Traditional Alloy Jewel Set only for Rs. 900 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1691,
+            "price": 2850,
+            "sale": false,
+            "sale_price": 900,
+            "stock_keeping_unit": "JWSE7Q2JFBKVSFSK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/f/s/k/4003-rw-vatsalya-creation-original-imae7pzbx6d9wevz.jpeg",
+                "filename": "4003-rw-vatsalya-creation-original-imae7pzbx6d9wevz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/f/s/k/4003-rw-vatsalya-creation-original-imae7pzbx6d9wevz.jpeg",
+                "filename": "4003-rw-vatsalya-creation-original-imae7pzbx6d9wevz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Vatsalya Creation"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["4003 RW"] },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Model Name", "values": ["Traditional"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Certification", "values": ["NA"] },
+              {
+                "key": "Sales Package",
+                "values": ["Necklace", "2 Earrings", "Maang Tikka"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "f43df68d14b6bdd64daf941b1cb9260769f7ef09"
+    },
+    {
+      "product": {
+        "id": "11f75897330893ef04fcf5aa7311d228cd94989d",
+        "name": "Shree Bhawani Art Jewellery Alloy Jewel Set",
+        "description": "Dummy description for product Shree Bhawani Art Jewellery Alloy Jewel Set",
+        "manufacturer_id": "2d998586b5cff5d750710416aff846a2c93edd02",
+        "taric_code": "48a6e2e4-d7db-46f4-97d4-b9de82ab5e99",
+        "variants": [
+          {
+            "id": "76813a5ed7cc20b686fc5bf1e273da00",
+            "name": "Jewellery Sets",
+            "description": "Shree Bhawani Art Jewellery Alloy Jewel Set - Buy Shree Bhawani Art Jewellery Alloy Jewel Set only for Rs. 725 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 492,
+            "price": 1599,
+            "sale": false,
+            "sale_price": 725,
+            "stock_keeping_unit": "JWSEA3VJEGJFVYQF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/q/f/s-492-shree-bhawani-art-jewellery-original-imaea3h8y2q4qxka.jpeg",
+                "filename": "s-492-shree-bhawani-art-jewellery-original-imaea3h8y2q4qxka.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/q/f/s-492-shree-bhawani-art-jewellery-original-imaea3h8y2q4qxka.jpeg",
+                "filename": "s-492-shree-bhawani-art-jewellery-original-imaea3h8y2q4qxka.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Shree Bhawani Art Jewellery"] },
+              { "key": "Model Number", "values": ["S-492"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["White"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "1 Mang Tikka", "2 Earrings"]
+              }
+            ]
+          },
+          {
+            "id": "986010c9dc11c5e8c7a57bd4071ea2c5",
+            "name": "Jewellery Sets",
+            "description": "Shree Bhawani Art Jewellery Alloy Jewel Set - Buy Shree Bhawani Art Jewellery Alloy Jewel Set only for Rs. 750 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7188,
+            "price": 1899,
+            "sale": false,
+            "sale_price": 750,
+            "stock_keeping_unit": "JWSEA3VJDXQ9ZCRH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/c/r/h/s-569-shree-bhawani-art-jewellery-original-imaea3h8qjugpuzc.jpeg",
+                "filename": "s-569-shree-bhawani-art-jewellery-original-imaea3h8qjugpuzc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Shree Bhawani Art Jewellery"] },
+              { "key": "Model Number", "values": ["S-569"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["White"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "1 Mang Tikka", "2 Earrings"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": false,
+      "id": "11f75897330893ef04fcf5aa7311d228cd94989d"
+    },
+    {
+      "product": {
+        "id": "98f6399d6d2e4f720116b49cbae22c1c3475f169",
+        "name": "Vatsalya Creation Classic Alloy Jewel Set",
+        "description": "Dummy description for product Vatsalya Creation Classic Alloy Jewel Set",
+        "manufacturer_id": "7bdfde9c9724d1341f275d30462f44fdc634a715",
+        "taric_code": "b259e446-6649-4b57-9491-075e2ac26ee1",
+        "variants": [
+          {
+            "id": "adbce7a70321c63787529df1e8379ace",
+            "name": "Jewellery Sets",
+            "description": "Vatsalya Creation Classic Alloy Jewel Set - Buy Vatsalya Creation Classic Alloy Jewel Set only for Rs. 700 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6650,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 700,
+            "stock_keeping_unit": "JWSE8JZKJHY9JNYU",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/n/y/u/c1-rw-vatsalya-creation-original-imae8jwn6hk8fhtg.jpeg",
+                "filename": "c1-rw-vatsalya-creation-original-imae8jwn6hk8fhtg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/n/y/u/c1-rw-vatsalya-creation-original-imae8jwn6hk8fhtg.jpeg",
+                "filename": "c1-rw-vatsalya-creation-original-imae8jwn6hk8fhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Vatsalya Creation"] },
+              { "key": "Model Number", "values": ["C1 RW"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Model Name", "values": ["Classic"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["White"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "2 Earings", "1 Maang Tikka"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "98f6399d6d2e4f720116b49cbae22c1c3475f169"
+    },
+    {
+      "product": {
+        "id": "2ebc8db6b4edc4cfd57e76b3b24e02163fadf868",
+        "name": "Vatsalya Creation Elegant Zinc Jewel Set",
+        "description": "Dummy description for product Vatsalya Creation Elegant Zinc Jewel Set",
+        "manufacturer_id": "7bdfde9c9724d1341f275d30462f44fdc634a715",
+        "taric_code": "6e951ccf-a0fa-4487-bd54-3140f7c3bdfb",
+        "variants": [
+          {
+            "id": "714f56e52bc0559e1471572a39882deb",
+            "name": "Jewellery Sets",
+            "description": "Vatsalya Creation Elegant Zinc Jewel Set - Buy Vatsalya Creation Elegant Zinc Jewel Set only for Rs. 800 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7664,
+            "price": 1999,
+            "sale": true,
+            "sale_price": 800,
+            "stock_keeping_unit": "JWSE88HJYUQG2JSC",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/j/s/c/1031-rw-vatsalya-creation-1100x1100-imae87affk3htabh.jpeg",
+                "filename": "1031-rw-vatsalya-creation-1100x1100-imae87affk3htabh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/j/s/c/1031-rw-vatsalya-creation-original-imae87affk3htabh.jpeg",
+                "filename": "1031-rw-vatsalya-creation-original-imae87affk3htabh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Zinc"] },
+              { "key": "Brand", "values": ["Vatsalya Creation"] },
+              { "key": "Model Number", "values": ["1031 Rw"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Model Name", "values": ["Elegant"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["White"] },
+              {
+                "key": "Sales Package",
+                "values": ["Necklace", "Earings", "Maang Tikka"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "2ebc8db6b4edc4cfd57e76b3b24e02163fadf868"
+    },
+    {
+      "product": {
+        "id": "cddcb5b9cfba3d38b39f45d1e518e9c32d120cd7",
+        "name": "Vatsalya Creation Lilly Alloy Jewel Set",
+        "description": "Dummy description for product Vatsalya Creation Lilly Alloy Jewel Set",
+        "manufacturer_id": "7bdfde9c9724d1341f275d30462f44fdc634a715",
+        "taric_code": "4802ce1e-3c66-4f1c-a243-8540b6d4bcf6",
+        "variants": [
+          {
+            "id": "9a574db25f9a44fa281c206ab95a6873",
+            "name": "Jewellery Sets",
+            "description": "Vatsalya Creation Lilly Alloy Jewel Set - Buy Vatsalya Creation Lilly Alloy Jewel Set only for Rs. 775 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1454,
+            "price": 1900,
+            "sale": false,
+            "sale_price": 775,
+            "stock_keeping_unit": "JWSE8GXKATFTFW3S",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/w/3/s/5122-rw-vatsalya-creation-original-imae8grbsjszhupq.jpeg",
+                "filename": "5122-rw-vatsalya-creation-original-imae8grbsjszhupq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Vatsalya Creation"] },
+              { "key": "Model Number", "values": ["5122 RW"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Model Name", "values": ["Lilly"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["White"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "2 Earings", "1 Maang Tikka"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": false,
+      "id": "cddcb5b9cfba3d38b39f45d1e518e9c32d120cd7"
+    },
+    {
+      "product": {
+        "id": "dcc600632db34e3b1d05116308ffb459ef057269",
+        "name": "Maayin Plain Heart - Silver Sterling Silver Sterling Silver Stud Earring",
+        "description": "Dummy description for product Maayin Plain Heart - Silver Sterling Silver Sterling Silver Stud Earring",
+        "manufacturer_id": "7072e456be4cb4b003365beeeff2f8029a589750",
+        "taric_code": "791d7c0b-5dac-48ab-b775-bb8f0c56b095",
+        "variants": [
+          {
+            "id": "10ea0e5628896d5666b965846d4ac019",
+            "name": "Earrings",
+            "description": "Maayin Plain Heart - Silver Sterling Silver Sterling Silver Stud Earring - Buy Maayin Plain Heart - Silver Sterling Silver Sterling Silver Stud Earring only for Rs. 466 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1478,
+            "price": 466,
+            "sale": false,
+            "sale_price": 466,
+            "stock_keeping_unit": "ERGEA5DYQ9KUZNAK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/earring/n/a/k/1th10ms1b6433-maayin-stud-earring-1100x1100-imaea59zu7g7huyk.jpeg",
+                "filename": "1th10ms1b6433-maayin-stud-earring-1100x1100-imaea59zu7g7huyk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/earring/n/a/k/1th10ms1b6433-maayin-stud-earring-original-imaea59zu7g7huyk.jpeg",
+                "filename": "1th10ms1b6433-maayin-stud-earring-original-imaea59zu7g7huyk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Maayin"] },
+              { "key": "Model Number", "values": ["1TH10MS1B6433"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Plating", "values": ["Sterling Silver"] },
+              { "key": "Type", "values": ["Stud Earring"] },
+              { "key": "Model Name", "values": ["Plain Heart - Silver"] },
+              { "key": "Ideal For", "values": ["Baby Girls"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] },
+              { "key": "Number of Pairs", "values": ["1"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": false,
+      "id": "dcc600632db34e3b1d05116308ffb459ef057269"
+    },
+    {
+      "product": {
+        "id": "bd103040f2937b1147281c76838b916779684e72",
+        "name": "Abhooshan Sterling Silver Stud Earring",
+        "description": "Dummy description for product Abhooshan Sterling Silver Stud Earring",
+        "manufacturer_id": "847b14c35583c7d4420fcc06bcc7becf8a6a4ba3",
+        "taric_code": "0765e54c-a518-421b-87d4-c81aeb3ccd7e",
+        "variants": [
+          {
+            "id": "a3f38431b7c71dff0616a02916f081e2",
+            "name": "Earrings",
+            "description": "Abhooshan Sterling Silver Stud Earring - Buy Abhooshan Sterling Silver Stud Earring only for Rs. 299 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6093,
+            "price": 299,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "ERGDZTBPE5Z9963W",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/earring/6/3/w/fer52-abhooshan-stud-earring-1100x1100-imadzv2trjgjex3h.jpeg",
+                "filename": "fer52-abhooshan-stud-earring-1100x1100-imadzv2trjgjex3h.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/earring/6/3/w/fer52-abhooshan-stud-earring-original-imadzv2trjgjex3h.jpeg",
+                "filename": "fer52-abhooshan-stud-earring-original-imadzv2trjgjex3h.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Abhooshan"] },
+              { "key": "Model Number", "values": ["FER52"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Precious Jewellery"]
+              },
+              { "key": "Type", "values": ["Stud Earring"] },
+              { "key": "Ideal For", "values": ["Baby Girls", "Girls"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Silver Purity", "values": ["925 Silver"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "bd103040f2937b1147281c76838b916779684e72"
+    },
+    {
+      "product": {
+        "id": "f6462828e29976b2d0c67404830e1fd77b8713d5",
+        "name": "Pecanz Men's Printed Casual Shirt",
+        "description": "Dummy description for product Pecanz Men's Printed Casual Shirt",
+        "manufacturer_id": "3054e99a1ec77d81d6e87f85831fa24f31001983",
+        "taric_code": "6da8dfe1-a742-4360-a253-ad4e3b1e7fa1",
+        "variants": [
+          {
+            "id": "e226ed99b7b9acbb6a474d4603faa8c7",
+            "name": "Pecanz Casual & Party Wear Shirts",
+            "description": "Pecanz Men's Printed Casual Shirt\n                         Price: Rs. 1,501\n\t\t\t\t\n\t\t\tClub Wear Shirts Which Can Be Wear As Formal And Casual\nClub Wear Shirts Which Can Be Wear As Formal And Casual",
+            "stock_level": 3913,
+            "price": 1595,
+            "sale": false,
+            "sale_price": 1501,
+            "stock_keeping_unit": "SHTEBZU8AGESEXBG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/a/m/z/s-7696-1-pecanz-38-original-imaebz3c3bggbadd.jpeg",
+                "filename": "s-7696-1-pecanz-38-original-imaebz3c3bggbadd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/a/m/z/s-7696-1-pecanz-38-original-imaebz3c3bggbadd.jpeg",
+                "filename": "s-7696-1-pecanz-38-original-imaebz3c3bggbadd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/a/m/z/s-7696-1-pecanz-38-original-imaebz3chnz9pqdm.jpeg",
+                "filename": "s-7696-1-pecanz-38-original-imaebz3chnz9pqdm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/a/m/z/s-7696-1-pecanz-38-original-imaebz3cehf6hhyz.jpeg",
+                "filename": "s-7696-1-pecanz-38-original-imaebz3cehf6hhyz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/a/m/z/s-7696-1-pecanz-38-original-imaebz3c2e7xuump.jpeg",
+                "filename": "s-7696-1-pecanz-38-original-imaebz3c2e7xuump.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/a/m/z/s-7696-1-pecanz-42-original-imaec22vf4ca379y.jpeg",
+                "filename": "s-7696-1-pecanz-42-original-imaec22vf4ca379y.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Closure", "values": ["Button"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Slim"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Collar", "values": ["Chinese Collar"] },
+              { "key": "Fit", "values": ["Slim"] },
+              {
+                "key": "f956488a-79a8-4388-895c-3fa304436c0a",
+                "values": [
+                  "Machine Wash/Hand Wash,Normal Temperature With Like Colours",
+                  "No Clorine Bleech",
+                  "Dry Inside Out In Shade"
+                ]
+              },
+              {
+                "key": "3e45719e-7fb9-4254-8aa1-5a3bb1577617",
+                "values": ["Shirt"]
+              },
+              { "key": "Style Code", "values": ["S-7696-1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "006d542822da8ba7e417c63cb264d967eedf441e" }
+      },
+      "active": true,
+      "id": "f6462828e29976b2d0c67404830e1fd77b8713d5"
+    },
+    {
+      "product": {
+        "id": "1dcafe529038f9f69079f92b115ba9cd2d5240f5",
+        "name": "Pearl Paradise Pearl Paradise \"Kundan necklace\". Brass Jewel Set",
+        "description": "Dummy description for product Pearl Paradise Pearl Paradise \"Kundan necklace\". Brass Jewel Set",
+        "manufacturer_id": "635aeb7749cd41431f9f3ce4b480d23aee80fad5",
+        "taric_code": "7ad7fd3c-a684-4d94-ac02-a9bf0bb7110c",
+        "variants": [
+          {
+            "id": "c19d79b1d3588bfcc21b475b56cd1f87",
+            "name": "Jewellery Sets",
+            "description": "Pearl Paradise Pearl Paradise \"Kundan necklace\". Brass Jewel Set - Buy Pearl Paradise Pearl Paradise \"Kundan necklace\". Brass Jewel Set only for Rs. 2860 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4484,
+            "price": 3898,
+            "sale": false,
+            "sale_price": 2860,
+            "stock_keeping_unit": "JWSE2J29CCGMJFKH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/f/k/h/100022-pearlparadise-original-imae2gxdkfh7b7v5.jpeg",
+                "filename": "100022-pearlparadise-original-imae2gxdkfh7b7v5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/f/k/h/100022-pearlparadise-original-imae2gxduc69nggh.jpeg",
+                "filename": "100022-pearlparadise-original-imae2gxduc69nggh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/f/k/h/100022-pearlparadise-original-imae2gxecraf93a2.jpeg",
+                "filename": "100022-pearlparadise-original-imae2gxecraf93a2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Color", "values": ["NA"] },
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Pearl Paradise"] },
+              { "key": "Gemstone", "values": ["NA"] },
+              { "key": "Model Number", "values": ["100022"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["NA"] },
+              {
+                "key": "Decorative Features",
+                "values": ["Natural Red-Aventurine and Kundan."]
+              },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              {
+                "key": "Model Name",
+                "values": ["Pearl Paradise \\\"Kundan necklace\\\"."]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Silver Purity", "values": ["NA"] },
+              { "key": "Gold Color", "values": ["Yellow Gold"] },
+              { "key": "Chain/Necklace Length", "values": ["16 inch"] },
+              { "key": "Weight", "values": ["111 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "2 Earring", "1 Pair of cushion"]
+              },
+              { "key": "Platinum Purity", "values": ["NA"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "1dcafe529038f9f69079f92b115ba9cd2d5240f5"
+    },
+    {
+      "product": {
+        "id": "58e420cd4854e54b2569593d0c96d92daa5eacec",
+        "name": "Pearl Paradise Silver Jewel Set",
+        "description": "Dummy description for product Pearl Paradise Silver Jewel Set",
+        "manufacturer_id": "635aeb7749cd41431f9f3ce4b480d23aee80fad5",
+        "taric_code": "42bec29e-73fd-4617-aed6-0f504b789641",
+        "variants": [
+          {
+            "id": "1a54ac073c562ddcd3ff80cc63f565a3",
+            "name": "Jewellery Sets",
+            "description": "Pearl Paradise Silver Jewel Set (Multicolor)\n                         Price: Rs. 3,980\n\t\t\t\t\n\t\t\t\"Rainbow of hope\" new bridal necklace. Multicolor stones. Adjustable jardosi gonda. Snake pattern. Anti-allergic gold polish.\n\"Rainbow of hope\" new bridal necklace. Multicolor stones. Adjustable jardosi gonda. Snake pattern. Anti-allergic gold polish.",
+            "stock_level": 9294,
+            "price": 7498,
+            "sale": false,
+            "sale_price": 3980,
+            "stock_keeping_unit": "JWSE2H9PMKGZ5YCS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/c/s/100046-pearl-paradise-original-imae2h3kn8m2yuab.jpeg",
+                "filename": "100046-pearl-paradise-original-imae2h3kn8m2yuab.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/c/s/100046-pearl-paradise-original-imae8jbu3gbcrsdy.jpeg",
+                "filename": "100046-pearl-paradise-original-imae8jbu3gbcrsdy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/c/s/100046-pearl-paradise-original-imae8jbuf2nxqpkm.jpeg",
+                "filename": "100046-pearl-paradise-original-imae8jbuf2nxqpkm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/c/s/100046-pearl-paradise-original-imae2gxecqfh489z.jpeg",
+                "filename": "100046-pearl-paradise-original-imae2gxecqfh489z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/c/s/100046-pearl-paradise-original-imae2xbbnhgq4fs9.jpeg",
+                "filename": "100046-pearl-paradise-original-imae2xbbnhgq4fs9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/c/s/100046-pearl-paradise-original-imae2gxegukh5gkc.jpeg",
+                "filename": "100046-pearl-paradise-original-imae2gxegukh5gkc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/c/s/100046-pearl-paradise-original-imae2gxejk6ymbrt.jpeg",
+                "filename": "100046-pearl-paradise-original-imae2gxejk6ymbrt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Grade", "values": ["AAA Grade"] },
+              { "key": "Pearl Shape", "values": ["Round"] },
+              { "key": "Pearl Type", "values": ["Freshwater"] },
+              { "key": "Pearl Color", "values": ["White"] },
+              { "key": "Emerald Color", "values": ["Green"] },
+              {
+                "key": "Natural/Synthetic Emerald",
+                "values": ["Natural Emerald"]
+              },
+              { "key": "Base Material", "values": ["Silver"] },
+              { "key": "Brand", "values": ["Pearl Paradise"] },
+              {
+                "key": "Gemstone",
+                "values": ["Sapphire", "Emerald", "Ruby", "Pearl", "Coral"]
+              },
+              { "key": "Model Number", "values": ["100046"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              {
+                "key": "Decorative Features",
+                "values": ["Designer necklace. Multicolor stones."]
+              },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Silver Purity", "values": ["NA"] },
+              { "key": "Ruby Color", "values": ["Red"] },
+              { "key": "Natural/Synthetic Ruby", "values": ["Natural Ruby"] },
+              { "key": "Gold Color", "values": ["Yellow Gold"] },
+              {
+                "key": "Natural/Synthetic Sapphire",
+                "values": ["Natural Sapphire"]
+              },
+              { "key": "Sapphire Color", "values": ["Blue"] },
+              { "key": "Chain/Necklace Length", "values": ["14 inch"] },
+              { "key": "Weight", "values": ["48 g"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earring"] },
+              { "key": "Platinum Purity", "values": ["NA"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "58e420cd4854e54b2569593d0c96d92daa5eacec"
+    },
+    {
+      "product": {
+        "id": "44e381ae5951cffca2e1a30c255b9cdf9f6534de",
+        "name": "Vaishali Bindi and Bangles Coloured CZ Stone Brass, Copper Jewel Set",
+        "description": "Dummy description for product Vaishali Bindi and Bangles Coloured CZ Stone Brass, Copper Jewel Set",
+        "manufacturer_id": "2e8c8f81f58b035b6574674b51df269eb9409478",
+        "taric_code": "88f6f870-a071-4231-bf49-fbf54e76d2af",
+        "variants": [
+          {
+            "id": "aad3bc0de2b4a5c3fa3192fbadea0bee",
+            "name": "Jewellery Sets",
+            "description": "Vaishali Bindi and Bangles Coloured CZ Stone Brass, Copper Jewel Set - Buy Vaishali Bindi and Bangles Coloured CZ Stone Brass, Copper Jewel Set only for Rs. 1399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6160,
+            "price": 4499,
+            "sale": false,
+            "sale_price": 1399,
+            "stock_keeping_unit": "JWSE8F4UXF3YUTTK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/t/t/k/vs2154-vaishali-bindi-and-bangles-1100x1100-imae8fazhg39gaeb.jpeg",
+                "filename": "vs2154-vaishali-bindi-and-bangles-1100x1100-imae8fazhg39gaeb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/t/t/k/vs2154-vaishali-bindi-and-bangles-original-imae8fazhg39gaeb.jpeg",
+                "filename": "vs2154-vaishali-bindi-and-bangles-original-imae8fazhg39gaeb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/t/t/k/vs2154-vaishali-bindi-and-bangles-original-imae8fazatswaejf.jpeg",
+                "filename": "vs2154-vaishali-bindi-and-bangles-original-imae8fazatswaejf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Base Material", "values": ["Brass", "Copper"] },
+              { "key": "Brand", "values": ["Vaishali Bindi and Bangles"] },
+              { "key": "Gemstone", "values": ["NA"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["VS2154"] },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Model Name", "values": ["Coloured CZ Stone"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Religious"]
+              },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Pink", "Gold"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "2 Earrings", "1 Maangtikka"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "44e381ae5951cffca2e1a30c255b9cdf9f6534de"
+    },
+    {
+      "product": {
+        "id": "a0af838564af4aac9b25de982d4388a6a3ba725d",
+        "name": "Rega IT Asus U33JC-RX044V U33JC-RX067V 90 90 Adapter",
+        "description": "Dummy description for product Rega IT Asus U33JC-RX044V U33JC-RX067V 90 90 Adapter",
+        "manufacturer_id": "dcbbf9654e301f46ebfa9484b56f14a9d8c69f41",
+        "taric_code": "9c12dc5f-7296-4478-872b-e297d7d5999c",
+        "variants": [
+          {
+            "id": "ddb032cfc07724d88710d3ad70fcc08f",
+            "name": "Rega IT Adapters",
+            "description": "Rega IT Asus U33JC-RX044V U33JC-RX067V 90 90 Adapter (Power Cord Included)\n                         Price: Rs. 699\n\t\t\t\t\n\t\t\tRega IT Replacement Laptop AC Power Adapter/Charger for Asus U33JC-RX044V U33JC-RX067V Laptop enables you to operate your notebook or charge the battery from electrical power outlets. If you are running your computer on AC power with a battery installed, the adapter charges the battery (if needed) and maintains its charge. When the system is off, the AC adapter will charge the battery and then maintain its charge. Made from highest quality parts each Rega IT replacement adapter confirms to specifications similar and guaranteed to meet or exceed your laptop's minimum requirements. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.\nRega IT Replacement Laptop AC Power Adapter/Charger for Asus U33JC-RX044V U33JC-RX067V Laptop enables you to operate your notebook or charge the battery from electrical power outlets. If you are running your computer on AC power with a battery installed, the adapter charges the battery (if needed) and maintains its charge. When the system is off, the AC adapter will charge the battery and then maintain its charge. Made from highest quality parts each Rega IT replacement adapter confirms to specifications similar and guaranteed to meet or exceed your laptop's minimum requirements. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.",
+            "stock_level": 2376,
+            "price": 1399,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "ACCDX3JWUTZPTARY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/m/c/t/rega-it-asus-x58-x58c-x58c-ap006-x58c-ap007a-90-original-imadx3dgdgyp4g3h.jpeg",
+                "filename": "rega-it-asus-x58-x58c-x58c-ap006-x58c-ap007a-90-original-imadx3dgdgyp4g3h.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              { "key": "Brand", "values": ["Rega IT"] },
+              {
+                "key": "Designed For",
+                "values": ["Asus U33JC-RX044V U33JC-RX067V"]
+              },
+              { "key": "Model Name", "values": ["Power Adapter"] },
+              { "key": "Connector Pin Type", "values": ["5.5 x 2.5 mm"] },
+              {
+                "key": "Model Id",
+                "values": ["Asus U33JC-RX044V U33JC-RX067V 90"]
+              },
+              { "key": "Power Input", "values": ["100 - 240 V"] },
+              { "key": "Power Consumption (W)", "values": ["90 W"] },
+              { "key": "Output Current (A)", "values": ["4.74 A"] },
+              { "key": "Output Voltage (V)", "values": ["19 V"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Failure and Manufacturing Defects."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["90 Days Warranty on Manufacturing Defects"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Replacement or Repair Carry in Warranty. Customer needs to Carry in / send it for Replacement or Repairs and the Replaced Product will be sent back to Customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to External Causes",
+                  "Accidental",
+                  "Physical Damage",
+                  "Cut",
+                  "Burnt",
+                  "Misuse and Missing Warranty Stickers or Labels."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": true,
+      "id": "a0af838564af4aac9b25de982d4388a6a3ba725d"
+    },
+    {
+      "product": {
+        "id": "f2bb761a0ceb30697c190647208ca4c71cfa0acd",
+        "name": "Rajrang Animal Cushions Cover",
+        "description": "Dummy description for product Rajrang Animal Cushions Cover",
+        "manufacturer_id": "2a05216728f8bf8a0b85e645a5b6e19796130f36",
+        "taric_code": "43384312-af66-4099-bfa4-a7d3c802490e",
+        "variants": [
+          {
+            "id": "5188dd28a627807407d93549580afb74",
+            "name": "Cushion Covers",
+            "description": "Buy Rajrang Animal Cushions Cover at Rs. 984 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 7706,
+            "price": 2149,
+            "sale": true,
+            "sale_price": 984,
+            "stock_keeping_unit": "CPCE8URTHJE6AK3N",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cushion-pillow-cover/k/3/n/ccs08319-ccs319-rajrang-1100x1100-imae8ukcetx7hejf.jpeg",
+                "filename": "ccs08319-ccs319-rajrang-1100x1100-imae8ukcetx7hejf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cushion-pillow-cover/k/3/n/ccs08319-ccs319-rajrang-original-imae8ukcetx7hejf.jpeg",
+                "filename": "ccs08319-ccs319-rajrang-original-imae8ukcetx7hejf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cushion-pillow-cover/k/3/n/ccs08319-ccs319-rajrang-original-imae8ukcgtgubvcu.jpeg",
+                "filename": "ccs08319-ccs319-rajrang-original-imae8ukcgtgubvcu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cushion-pillow-cover/k/3/n/ccs08319-ccs319-rajrang-original-imae8ukcc9a6ezbz.jpeg",
+                "filename": "ccs08319-ccs319-rajrang-original-imae8ukcc9a6ezbz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cushion-pillow-cover/k/3/n/ccs08319-ccs319-rajrang-original-imae8ukctxq2d6zh.jpeg",
+                "filename": "ccs08319-ccs319-rajrang-original-imae8ukctxq2d6zh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cushion-pillow-cover/k/3/n/ccs08319-ccs319-rajrang-original-imae8ukchmuthrun.jpeg",
+                "filename": "ccs08319-ccs319-rajrang-original-imae8ukchmuthrun.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Rajrang"] },
+              { "key": "Closure", "values": ["Flap"] },
+              { "key": "Suitable For", "values": ["Cushions"] },
+              { "key": "Type", "values": ["Square"] },
+              { "key": "Design Code", "values": ["CCS08319"] },
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Pattern", "values": ["Animal"] },
+              { "key": "Thread Count", "values": ["116"] },
+              { "key": "Style Code", "values": ["CCS319"] },
+              { "key": "Color", "values": ["Brown", "Red"] },
+              { "key": "Height", "values": ["15 inch / 40 cm"] },
+              { "key": "Width", "values": ["15 inch / 40 cm"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 5"]
+              },
+              { "key": "Sales Package", "values": ["5 Cushion Cover"] },
+              {
+                "key": "c4ed1b83-4db6-40e1-b4b2-b3ee6cbabf97",
+                "values": ["Dry Clean"]
+              }
+            ]
+          },
+          {
+            "id": "c5d1a8a8f425f0d2068e01d2a80832fe",
+            "name": "Cushion Covers",
+            "description": "Buy Rajrang Animal Cushions Cover at Rs. 1026 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 9184,
+            "price": 2399,
+            "sale": false,
+            "sale_price": 1026,
+            "stock_keeping_unit": "CPCE8HXCNMHVH2FX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/cushion-pillow-cover/2/f/x/ccs07862-ccs862-rajrang-1100x1100-imae8mf7hfrqwtvm.jpeg",
+                "filename": "ccs07862-ccs862-rajrang-1100x1100-imae8mf7hfrqwtvm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cushion-pillow-cover/2/f/x/ccs07862-ccs862-rajrang-original-imae8mf7hfrqwtvm.jpeg",
+                "filename": "ccs07862-ccs862-rajrang-original-imae8mf7hfrqwtvm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cushion-pillow-cover/2/f/x/ccs07862-ccs862-rajrang-original-imae8mf7ut2zymmg.jpeg",
+                "filename": "ccs07862-ccs862-rajrang-original-imae8mf7ut2zymmg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cushion-pillow-cover/v/w/6/5730605-cd5730605-mesleep-original-imae9b5pkh5gubt6.jpeg",
+                "filename": "5730605-cd5730605-mesleep-original-imae9b5pkh5gubt6.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cushion-pillow-cover/2/f/x/ccs07862-ccs862-rajrang-original-imae8mf7zzajghwg.jpeg",
+                "filename": "ccs07862-ccs862-rajrang-original-imae8mf7zzajghwg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Closure", "values": ["Flap"] },
+              { "key": "Brand", "values": ["Rajrang"] },
+              { "key": "Suitable For", "values": ["Cushions"] },
+              { "key": "Design Code", "values": ["CCS07862"] },
+              { "key": "Type", "values": ["Square"] },
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Style Code", "values": ["CCS862"] },
+              { "key": "Thread Count", "values": ["116"] },
+              { "key": "Pattern", "values": ["Animal"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Height", "values": ["16 inch / 43 cm"] },
+              { "key": "Width", "values": ["16 inch / 43 cm"] },
+              { "key": "Reversible", "values": ["No"] },
+              {
+                "key": "22ffada6-567c-4c42-af56-4986b7f28802",
+                "values": ["Dry Clean"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 5"]
+              },
+              { "key": "Sales Package", "values": ["5 Cushion Cover"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "c7efe48f778cf9891a1ee6bb0115d46bf8ef1b6d" }
+      },
+      "active": true,
+      "id": "f2bb761a0ceb30697c190647208ca4c71cfa0acd"
+    },
+    {
+      "product": {
+        "id": "a716eaa09a93a92a00de982d8ed1f2187991c111",
+        "name": "Lapguard Acer Aspire 7535Gzm-82_90 90 Adapter",
+        "description": "Dummy description for product Lapguard Acer Aspire 7535Gzm-82_90 90 Adapter",
+        "manufacturer_id": "885d9421c0fa3dcbe37d0025d0279b821e596d80",
+        "taric_code": "f655d041-082c-4a99-b2f0-89546f9a3079",
+        "variants": [
+          {
+            "id": "658e86719c7a50758a741da6dd743ff0",
+            "name": "Lapguard Adapters",
+            "description": "Lapguard Acer Aspire 7535Gzm-82_90 90 Adapter (Power Cord Included)\n                         Price: Rs. 949\n\t\t\t\t\n\t\t\tThis Lapguard replacement adapter is designed to provide reliable power and charge to your laptop. Made from highest quality parts each Lapguard replacement adapter conforms to specifications similar to original in its quality. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please note that all images are indicative, actual product label may vary. Before place order the adapter .Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.\nThis Lapguard replacement adapter is designed to provide reliable power and charge to your laptop. Made from highest quality parts each Lapguard replacement adapter conforms to specifications similar to original in its quality. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please note that all images are indicative, actual product label may vary. Before place order the adapter .Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.",
+            "stock_level": 8823,
+            "price": 1999,
+            "sale": false,
+            "sale_price": 949,
+            "stock_keeping_unit": "ACCDXM7XJHDBTH3X",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/4/w/z/lapguard-hp-f4814a-90-original-imady9suvvd3dh6m.jpeg",
+                "filename": "lapguard-hp-f4814a-90-original-imady9suvvd3dh6m.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              { "key": "Brand", "values": ["Lapguard"] },
+              { "key": "Designed For", "values": ["Acer Aspire 7535Gzm-82"] },
+              { "key": "Model Name", "values": ["Acer Aspire 7535Gzm-82"] },
+              { "key": "Connector Pin Type", "values": ["5.5 x 2.5 mm"] },
+              { "key": "Model Id", "values": ["Acer Aspire 7535Gzm-82_90"] },
+              { "key": "Power Consumption (W)", "values": ["90 W"] },
+              { "key": "Output Current (A)", "values": ["4.74 A A"] },
+              { "key": "Output Voltage (V)", "values": ["19 V V"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Manufacturing Defect Only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Manufacture Warranty"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "No Physical Damage ",
+                  "Mishandling or Burnt Out Part."
+                ]
+              },
+              { "key": "Height", "values": ["4.74 mm"] },
+              { "key": "Width", "values": ["19 mm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": true,
+      "id": "a716eaa09a93a92a00de982d8ed1f2187991c111"
+    },
+    {
+      "product": {
+        "id": "32526defb4b6c96c976bd0b59316f145c685b5de",
+        "name": "The Art Jewellery Eternal Ethnic Navratna Brass Jewel Set",
+        "description": "Dummy description for product The Art Jewellery Eternal Ethnic Navratna Brass Jewel Set",
+        "manufacturer_id": "9bcffa7c259fca925b03e9c40584cf9087c8fe23",
+        "taric_code": "9c799fbc-bb73-40c2-ac6d-b8aff5d8b84b",
+        "variants": [
+          {
+            "id": "bfa7877b39c242ed689bca3c80287ca3",
+            "name": "Jewellery Sets",
+            "description": "The Art Jewellery Eternal Ethnic Navratna Brass Jewel Set - Buy The Art Jewellery Eternal Ethnic Navratna Brass Jewel Set only for Rs. 2345 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5289,
+            "price": 4699,
+            "sale": false,
+            "sale_price": 2345,
+            "stock_keeping_unit": "JWSE7N8MJMHXHXV9",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/x/v/9/ps13163mutq-the-art-jewellery-original-imae7k3jmyf7egqm.jpeg",
+                "filename": "ps13163mutq-the-art-jewellery-original-imae7k3jmyf7egqm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/x/v/9/ps13163mutq-the-art-jewellery-original-imae7k3jmyf7egqm.jpeg",
+                "filename": "ps13163mutq-the-art-jewellery-original-imae7k3jmyf7egqm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/x/v/9/ps13163mutq-the-art-jewellery-original-imae7k3jxhffcwyh.jpeg",
+                "filename": "ps13163mutq-the-art-jewellery-original-imae7k3jxhffcwyh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/x/v/9/ps13163mutq-the-art-jewellery-original-imae7k3juh9nc2fs.jpeg",
+                "filename": "ps13163mutq-the-art-jewellery-original-imae7k3juh9nc2fs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/x/v/9/ps13163mutq-the-art-jewellery-original-imae7k3jr5y62ymd.jpeg",
+                "filename": "ps13163mutq-the-art-jewellery-original-imae7k3jr5y62ymd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["The Art Jewellery"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["PS13163MUTQ"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Model Name", "values": ["Eternal Ethnic Navratna"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Certification", "values": ["Brand Certification"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "32526defb4b6c96c976bd0b59316f145c685b5de"
+    },
+    {
+      "product": {
+        "id": "49690160d4900464d5440aff689fa2f5c936ce4f",
+        "name": "Lapguard SONY VAIO VGN-NW270DB_90 90 Adapter",
+        "description": "Dummy description for product Lapguard SONY VAIO VGN-NW270DB_90 90 Adapter",
+        "manufacturer_id": "885d9421c0fa3dcbe37d0025d0279b821e596d80",
+        "taric_code": "37aded5b-a28f-42cf-8573-15aefd20c5c3",
+        "variants": [
+          {
+            "id": "93f45475c82bdee6df73c6e08011b7da",
+            "name": "Lapguard Adapters",
+            "description": "Lapguard SONY VAIO VGN-NW270DB_90 90 Adapter (Power Cord Included)\n                         Price: Rs. 949\n\t\t\t\t\n\t\t\tThis Lapguard replacement adapter is designed to provide reliable power and charge to your laptop. Made from highest quality parts each Lapguard replacement adapter conforms to specifications similar to original in its quality. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please note that all images are indicative, actual product label may vary. Before place order the adapter .Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.\nThis Lapguard replacement adapter is designed to provide reliable power and charge to your laptop. Made from highest quality parts each Lapguard replacement adapter conforms to specifications similar to original in its quality. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please note that all images are indicative, actual product label may vary. Before place order the adapter .Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.",
+            "stock_level": 5784,
+            "price": 1999,
+            "sale": true,
+            "sale_price": 949,
+            "stock_keeping_unit": "ACCDXM7PNZGBNTEA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/t/s/m/lapguard-sony-vaio-vpcsb26fg-90-original-imadxpf5fdvpcffc.jpeg",
+                "filename": "lapguard-sony-vaio-vpcsb26fg-90-original-imadxpf5fdvpcffc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              { "key": "Brand", "values": ["Lapguard"] },
+              { "key": "Designed For", "values": ["SONY VAIO VPC-Z23X9E/B"] },
+              { "key": "Model Name", "values": ["SONY VAIO VGN-NW270DB"] },
+              { "key": "Connector Pin Type", "values": ["6.5 x 4.4 mm"] },
+              { "key": "Model Id", "values": ["SONY VAIO VGN-NW270DB_90"] },
+              { "key": "Power Consumption (W)", "values": ["90 W"] },
+              { "key": "Output Current (A)", "values": ["4.7 A A"] },
+              { "key": "Output Voltage (V)", "values": ["19.5 V V"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Manufacture Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Off Site Warranty - Customer will Need to send the Defected Product to the Nearest Branch of the company and the replaced Product will be sent back to customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "No Physical Damage ",
+                  "Mishandling or Burnt Out Part."
+                ]
+              },
+              { "key": "Height", "values": ["4.7 mm"] },
+              { "key": "Width", "values": ["19.5 mm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": true,
+      "id": "49690160d4900464d5440aff689fa2f5c936ce4f"
+    },
+    {
+      "product": {
+        "id": "4dbf8e8b4f734c0e7e5c0993969abc4f76bca0f3",
+        "name": "Rega IT Sony VGN-Z799DHB VGN-Z799DIB 90 90 Adapter",
+        "description": "Dummy description for product Rega IT Sony VGN-Z799DHB VGN-Z799DIB 90 90 Adapter",
+        "manufacturer_id": "dcbbf9654e301f46ebfa9484b56f14a9d8c69f41",
+        "taric_code": "1ae8abce-9d2b-48d7-a49e-b8a935ab8929",
+        "variants": [
+          {
+            "id": "586585169d76f82207e49dcfedd8575e",
+            "name": "Rega IT Adapters",
+            "description": "Buy Rega IT Sony VGN-Z799DHB VGN-Z799DIB 90 90 Adapter only for Rs. 699 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4652,
+            "price": 1399,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "ACCDX3KYV5FEVMGY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/z/p/p/rega-it-sony-vpcea36fx-vpc-ea36fx-75-original-imadx3dgza5pmgfq.jpeg",
+                "filename": "rega-it-sony-vpcea36fx-vpc-ea36fx-75-original-imadx3dgza5pmgfq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              { "key": "Brand", "values": ["Rega IT"] },
+              {
+                "key": "Designed For",
+                "values": ["Sony VGN-Z799DHB VGN-Z799DIB"]
+              },
+              { "key": "Model Name", "values": ["Power Adapter"] },
+              { "key": "Connector Pin Type", "values": ["6.4 x 4.4 mm"] },
+              {
+                "key": "Model Id",
+                "values": ["Sony VGN-Z799DHB VGN-Z799DIB 90"]
+              },
+              { "key": "Power Input", "values": ["100 - 240 V"] },
+              { "key": "Power Consumption (W)", "values": ["90 W"] },
+              { "key": "Output Current (A)", "values": ["4.7 A"] },
+              { "key": "Output Voltage (V)", "values": ["19.5 V"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Failure and Manufacturing Defects."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["90 Days Warranty on Manufacturing Defects"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Replacement or Repair Carry in Warranty. Customer needs to Carry in / send it for Replacement or Repairs and the Replaced Product will be sent back to Customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to External Causes",
+                  "Accidental",
+                  "Physical Damage",
+                  "Cut",
+                  "Burnt",
+                  "Misuse and Missing Warranty Stickers or Labels."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": false,
+      "id": "4dbf8e8b4f734c0e7e5c0993969abc4f76bca0f3"
+    },
+    {
+      "product": {
+        "id": "7c38316384d93a2647225e6561652f4d98103a3d",
+        "name": "Saga Green Meena Navratna Pendant Traditional Alloy Jewel Set",
+        "description": "Dummy description for product Saga Green Meena Navratna Pendant Traditional Alloy Jewel Set",
+        "manufacturer_id": "536ca0b9670c66d8b90354187309343f6e5445e8",
+        "taric_code": "c4da84f0-2a32-40e8-a51d-1020ccc1086d",
+        "variants": [
+          {
+            "id": "44622ebe6b8ab6b0111f1a0e1ece684b",
+            "name": "Jewellery Sets",
+            "description": "Saga Green Meena Navratna Pendant Traditional Alloy Jewel Set - Buy Saga Green Meena Navratna Pendant Traditional Alloy Jewel Set only for Rs. 3420 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5632,
+            "price": 3800,
+            "sale": false,
+            "sale_price": 3420,
+            "stock_keeping_unit": "JWSE78FFPZBKYKZK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/k/z/k/3008145-saga-original-imae772e2hn3pdgk.jpeg",
+                "filename": "3008145-saga-original-imae772e2hn3pdgk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Saga"] },
+              { "key": "Model Number", "values": ["3008145"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              {
+                "key": "Model Name",
+                "values": ["Green Meena Navratna Pendant Traditional"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Green"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "1 Pair Earrings"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "7c38316384d93a2647225e6561652f4d98103a3d"
+    },
+    {
+      "product": {
+        "id": "b6da698ba00258d28f5f0205e4e1d739d9d040b6",
+        "name": "Lapguard HP COMPAQ PAVILION dv7-1200eo 18.5V 3.5A Thick Pin 65 Adapter",
+        "description": "Dummy description for product Lapguard HP COMPAQ PAVILION dv7-1200eo 18.5V 3.5A Thick Pin 65 Adapter",
+        "manufacturer_id": "885d9421c0fa3dcbe37d0025d0279b821e596d80",
+        "taric_code": "9a4eb06b-69f3-418e-bf63-c8972fa8dd00",
+        "variants": [
+          {
+            "id": "4c74879290972580afa0b2b89fd32464",
+            "name": "Lapguard Adapters",
+            "description": "Lapguard HP COMPAQ PAVILION dv7-1200eo 18.5V 3.5A Thick Pin 65 Adapter (Power Cord Included)\n                         Price: Rs. 899\n\t\t\t\t\n\t\t\tThis Lapguard replacement adapter is designed to provide reliable power and charge to your laptop. Made from highest quality parts each Lapguard replacement adapter conforms to specifications similar to original in its quality. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please note that all images are indicative, actual product label may vary. Before place order the adapter .Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.\nThis Lapguard replacement adapter is designed to provide reliable power and charge to your laptop. Made from highest quality parts each Lapguard replacement adapter conforms to specifications similar to original in its quality. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please note that all images are indicative, actual product label may vary. Before place order the adapter .Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.",
+            "stock_level": 4204,
+            "price": 1999,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "ACCDXQQGRWYGJCKS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/t/y/c/lapguard-hp-compaq-457685-001-18-5v-3-5a-thick-pin-original-imadxqrgb6gqk3yg.jpeg",
+                "filename": "lapguard-hp-compaq-457685-001-18-5v-3-5a-thick-pin-original-imadxqrgb6gqk3yg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Lapguard"] },
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              {
+                "key": "Designed For",
+                "values": ["HP COMPAQ PAVILION dv7-1200eo"]
+              },
+              { "key": "Connector Pin Type", "values": ["7.4 x 5.0 mm"] },
+              {
+                "key": "Model Id",
+                "values": ["HP COMPAQ PAVILION dv7-1200eo 18.5V 3.5A Thick Pin"]
+              },
+              { "key": "Power Consumption (W)", "values": ["65 W"] },
+              { "key": "Output Current (A)", "values": ["3.5 A"] },
+              { "key": "Output Voltage (V)", "values": ["18.5 V"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Manufacturing Defect Only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Manufacture Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Off Site Warranty - Customer will Need to send the Defected Product to the Nearest Branch of the company and the replaced Product will be sent back to customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "No Physical Damage ",
+                  "Mishandling or Burnt Out Part."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": false,
+      "id": "b6da698ba00258d28f5f0205e4e1d739d9d040b6"
+    },
+    {
+      "product": {
+        "id": "7dd930e5e6dd873849fbd978c7ad19327d5076f6",
+        "name": "Lapguard Hp Pavilion zt3140US_90 90 Adapter",
+        "description": "Dummy description for product Lapguard Hp Pavilion zt3140US_90 90 Adapter",
+        "manufacturer_id": "885d9421c0fa3dcbe37d0025d0279b821e596d80",
+        "taric_code": "474d2a52-f230-4517-bb4e-44d72c8b2bb7",
+        "variants": [
+          {
+            "id": "f2e6ba9ee8e8078b23218dfc1255b756",
+            "name": "Lapguard Adapters",
+            "description": "Buy Lapguard Hp Pavilion zt3140US_90 90 Adapter only for Rs. 949 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8310,
+            "price": 1999,
+            "sale": true,
+            "sale_price": 949,
+            "stock_keeping_unit": "ACCDXM7T4CFQW8DV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/z/g/z/lapguard-hp-touchsmart-tx2-1117au-90-original-imady9z62kvcuvyn.jpeg",
+                "filename": "lapguard-hp-touchsmart-tx2-1117au-90-original-imady9z62kvcuvyn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/z/g/z/lapguard-hp-touchsmart-tx2-1117au-90-original-imady9z62kvcuvyn.jpeg",
+                "filename": "lapguard-hp-touchsmart-tx2-1117au-90-original-imady9z62kvcuvyn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Lapguard"] },
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              { "key": "Designed For", "values": ["Hp Pavilion zt3140US"] },
+              { "key": "Model Name", "values": ["Hp Pavilion zt3140US"] },
+              { "key": "Connector Pin Type", "values": ["4.8 x 1.7 mm"] },
+              { "key": "Model Id", "values": ["Hp Pavilion zt3140US_90"] },
+              { "key": "Power Consumption (W)", "values": ["90 W"] },
+              { "key": "Output Current (A)", "values": ["4.74 A A"] },
+              { "key": "Output Voltage (V)", "values": ["19 V V"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Manufacturing Defect Only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Manufacture Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Off Site Warranty - Customer will Need to send the Defected Product to the Nearest Branch of the company and the replaced Product will be sent back to customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "No Physical Damage ",
+                  "Mishandling or Burnt Out Part."
+                ]
+              },
+              { "key": "Height", "values": ["4.74 mm"] },
+              { "key": "Width", "values": ["19 mm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": true,
+      "id": "7dd930e5e6dd873849fbd978c7ad19327d5076f6"
+    },
+    {
+      "product": {
+        "id": "2c98e747431ba9ba7f86dfc064c91d834f88a1fd",
+        "name": "Lapguard Sony VAIO VGN-G2AAPSY_90 90 Adapter",
+        "description": "Dummy description for product Lapguard Sony VAIO VGN-G2AAPSY_90 90 Adapter",
+        "manufacturer_id": "885d9421c0fa3dcbe37d0025d0279b821e596d80",
+        "taric_code": "807c3625-ca46-4450-ac8c-b930a4a3fad0",
+        "variants": [
+          {
+            "id": "f47839d8d6cfec0c1ea0387604454439",
+            "name": "Lapguard Adapters",
+            "description": "Lapguard Sony VAIO VGN-G2AAPSY_90 90 Adapter (Power Cord Included)\n                         Price: Rs. 949\n\t\t\t\t\n\t\t\tThis Lapguard replacement adapter is designed to provide reliable power and charge to your laptop. Made from highest quality parts each Lapguard replacement adapter conforms to specifications similar to original in its quality. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please note that all images are indicative, actual product label may vary. Before place order the adapter .Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.\nThis Lapguard replacement adapter is designed to provide reliable power and charge to your laptop. Made from highest quality parts each Lapguard replacement adapter conforms to specifications similar to original in its quality. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please note that all images are indicative, actual product label may vary. Before place order the adapter .Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.",
+            "stock_level": 6555,
+            "price": 1999,
+            "sale": false,
+            "sale_price": 949,
+            "stock_keeping_unit": "ACCDXM7ZQQVUU8SN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-adapter/t/s/m/lapguard-sony-vaio-vpcsb26fg-90-original-imadxpf5fdvpcffc.jpeg",
+                "filename": "lapguard-sony-vaio-vpcsb26fg-90-original-imadxpf5fdvpcffc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Lapguard"] },
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              { "key": "Designed For", "values": ["SONY VAIO VGN-NS20M/S"] },
+              { "key": "Model Name", "values": ["Sony VAIO VGN-G2AAPSY"] },
+              { "key": "Connector Pin Type", "values": ["6.5 x 4.4 mm"] },
+              { "key": "Model Id", "values": ["Sony VAIO VGN-G2AAPSY_90"] },
+              { "key": "Power Consumption (W)", "values": ["90 W"] },
+              { "key": "Output Current (A)", "values": ["4.7 A A"] },
+              { "key": "Output Voltage (V)", "values": ["19.5 V V"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Manufacture Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Off Site Warranty - Customer will Need to send the Defected Product to the Nearest Branch of the company and the replaced Product will be sent back to customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "No Physical Damage ",
+                  "Mishandling or Burnt Out Part."
+                ]
+              },
+              { "key": "Height", "values": ["4.7 mm"] },
+              { "key": "Width", "values": ["19.5 mm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": true,
+      "id": "2c98e747431ba9ba7f86dfc064c91d834f88a1fd"
+    },
+    {
+      "product": {
+        "id": "3144cf602bf827e48cf4fbd61dc4713b480bbdc9",
+        "name": "Rega IT Hp Pavilion DV1629TN DV1629US 90 Adapter",
+        "description": "Dummy description for product Rega IT Hp Pavilion DV1629TN DV1629US 90 Adapter",
+        "manufacturer_id": "dcbbf9654e301f46ebfa9484b56f14a9d8c69f41",
+        "taric_code": "13706900-2c71-4dcc-ac59-169dbef5398e",
+        "variants": [
+          {
+            "id": "91c4586047596cbea0efc116bd9b12f6",
+            "name": "Rega IT Adapters",
+            "description": "Rega IT Hp Pavilion DV1629TN DV1629US 90 Adapter (Power Cord Included)\n                         Price: Rs. 699\n\t\t\t\t\n\t\t\tRega IT Replacement Laptop AC Power Adapter/Charger for Hp Pavilion DV1629TN DV1629US Laptop enables you to operate your notebook or charge the battery from electrical power outlets. If you are running your computer on AC power with a battery installed, the adapter charges the battery (if needed) and maintains its charge. When the system is off, the AC adapter will charge the battery and then maintain its charge. Made from highest quality parts each Rega IT replacement adapter confirms to specifications similar and guaranteed to meet or exceed your laptop's minimum requirements. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.\nRega IT Replacement Laptop AC Power Adapter/Charger for Hp Pavilion DV1629TN DV1629US Laptop enables you to operate your notebook or charge the battery from electrical power outlets. If you are running your computer on AC power with a battery installed, the adapter charges the battery (if needed) and maintains its charge. When the system is off, the AC adapter will charge the battery and then maintain its charge. Made from highest quality parts each Rega IT replacement adapter confirms to specifications similar and guaranteed to meet or exceed your laptop's minimum requirements. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.",
+            "stock_level": 5876,
+            "price": 1399,
+            "sale": true,
+            "sale_price": 699,
+            "stock_keeping_unit": "ACCDWJFYSJSH6X4Q",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/h/f/x/rega-it-compaq-presario-c571tu-c572tu-90-original-imadwhhfsezmw9yu.jpeg",
+                "filename": "rega-it-compaq-presario-c571tu-c572tu-90-original-imadwhhfsezmw9yu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Rega IT"] },
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              {
+                "key": "Designed For",
+                "values": ["Hp Pavilion DV1629TN DV1629US"]
+              },
+              { "key": "Model Name", "values": ["Power Adapter"] },
+              { "key": "Connector Pin Type", "values": ["4.8 x 1.7 mm"] },
+              {
+                "key": "Model Id",
+                "values": ["Hp Pavilion DV1629TN DV1629US"]
+              },
+              { "key": "Power Input", "values": ["100 - 240 V"] },
+              { "key": "Power Consumption (W)", "values": ["90 W"] },
+              { "key": "Output Current (A)", "values": ["4.74 A"] },
+              { "key": "Output Voltage (V)", "values": ["19 V"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Failure and Manufacturing Defects."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["90 Days Warranty on Manufacturing Defects"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Replacement or Repair Carry in Warranty. Customer needs to Carry in / send it for Replacement or Repairs and the Replaced Product will be sent back to Customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to External Causes",
+                  "Accidental",
+                  "Physical Damage",
+                  "Cut",
+                  "Burnt",
+                  "Misuse and Missing Warranty Stickers or Labels."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": false,
+      "id": "3144cf602bf827e48cf4fbd61dc4713b480bbdc9"
+    },
+    {
+      "product": {
+        "id": "69c7042291e22adcb8e15dae57e9ebdecbbc3e41",
+        "name": "Rega IT Hp Pavilion DV9751XX DV9752EO 65 Adapter",
+        "description": "Dummy description for product Rega IT Hp Pavilion DV9751XX DV9752EO 65 Adapter",
+        "manufacturer_id": "dcbbf9654e301f46ebfa9484b56f14a9d8c69f41",
+        "taric_code": "86387e7b-71c4-4422-ae0d-2cbf94f27b4e",
+        "variants": [
+          {
+            "id": "b8418cc8c1e7877c13738c53549a5f06",
+            "name": "Rega IT Adapters",
+            "description": "Rega IT Hp Pavilion DV9751XX DV9752EO 65 Adapter (Power Cord Included)\n                         Price: Rs. 699\n\t\t\t\t\n\t\t\tRega IT Replacement Laptop AC Power Adapter/Charger for Hp Pavilion DV9751XX DV9752EO Laptop enables you to operate your notebook or charge the battery from electrical power outlets. If you are running your computer on AC power with a battery installed, the adapter charges the battery (if needed) and maintains its charge. When the system is off, the AC adapter will charge the battery and then maintain its charge. Made from highest quality parts each Rega IT replacement adapter confirms to specifications similar and guaranteed to meet or exceed your laptop's minimum requirements. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.\nRega IT Replacement Laptop AC Power Adapter/Charger for Hp Pavilion DV9751XX DV9752EO Laptop enables you to operate your notebook or charge the battery from electrical power outlets. If you are running your computer on AC power with a battery installed, the adapter charges the battery (if needed) and maintains its charge. When the system is off, the AC adapter will charge the battery and then maintain its charge. Made from highest quality parts each Rega IT replacement adapter confirms to specifications similar and guaranteed to meet or exceed your laptop's minimum requirements. Each adapter also passes necessary authentication certifications like CE, ROHS etc. Before leaving the factory, so you can be rest assured for its quality, durability and performance. Please make sure that you are selecting the correct adapter as per you old charger specification. Please compare your old Adapter Power Rating i.e. Volts (V), Amps (A), Watt (W) and Pin / Tip / Connector Size.",
+            "stock_level": 7742,
+            "price": 1399,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "ACCDWJ8US3VAZSH8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-adapter/f/a/q/clublaptop-compaq-presario-c553tu-c554em-18-5v-3-5a-4-8-mm-x-1-7-original-imadwhhf9kzzbtjz.jpeg",
+                "filename": "clublaptop-compaq-presario-c553tu-c554em-18-5v-3-5a-4-8-mm-x-1-7-original-imadwhhf9kzzbtjz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Rega IT"] },
+              { "key": "In The Box", "values": ["1 Adapter"] },
+              {
+                "key": "Designed For",
+                "values": ["Hp Pavilion DV9751XX DV9752EO"]
+              },
+              { "key": "Model Name", "values": ["Power Adapter"] },
+              { "key": "Connector Pin Type", "values": ["4.8 x 1.7 mm"] },
+              {
+                "key": "Model Id",
+                "values": ["Hp Pavilion DV9751XX DV9752EO"]
+              },
+              { "key": "Power Input", "values": ["100 - 240 V"] },
+              { "key": "Power Consumption (W)", "values": ["65 W"] },
+              { "key": "Output Current (A)", "values": ["3.5 A"] },
+              { "key": "Output Voltage (V)", "values": ["18.5 V"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the Product is Limited to Failure and Manufacturing Defects."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["90 Days Warranty on Manufacturing Defects"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Replacement or Repair Carry in Warranty. Customer needs to Carry in / send it for Replacement or Repairs and the Replaced Product will be sent back to Customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Defects due to External Causes",
+                  "Accidental",
+                  "Physical Damage",
+                  "Cut",
+                  "Burnt",
+                  "Misuse and Missing Warranty Stickers or Labels."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "45ca397d42d8dcc75d5744c15271334b323d1b52" }
+      },
+      "active": true,
+      "id": "69c7042291e22adcb8e15dae57e9ebdecbbc3e41"
+    },
+    {
+      "product": {
+        "id": "5fb9e96be353ff44b494b5fdc1582c52edc687d1",
+        "name": "Pilot Crocodile Ball Pen",
+        "description": "Dummy description for product Pilot Crocodile Ball Pen",
+        "manufacturer_id": "6a5979469a0260730a807e8a341e46f7e6448d66",
+        "taric_code": "b0b44cf7-756d-4ad0-b4ae-7b65825ce773",
+        "variants": [
+          {
+            "id": "b62e81fe9c4d3552b6939b16409ecc89",
+            "name": "Pilot Ball Pens",
+            "description": "Flipkart.com: Buy Pilot Crocodile Ball Pen only for Rs. 995 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8563,
+            "price": 995,
+            "sale": false,
+            "sale_price": 995,
+            "stock_keeping_unit": "PENEAHKS3HCS9E3F",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pen/e/3/f/pilot-9000021678-original-imaeags3g5ecgztr.jpeg",
+                "filename": "pilot-9000021678-original-imaeags3g5ecgztr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pen/e/3/f/pilot-9000021678-original-imaeags3g5ecgztr.jpeg",
+                "filename": "pilot-9000021678-original-imaeags3g5ecgztr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pen/h/r/h/pilot-9000021688-original-imae9yjpbpr4qz5c.jpeg",
+                "filename": "pilot-9000021688-original-imae9yjpbpr4qz5c.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Body Material", "values": ["Metal"] },
+              { "key": "Collection", "values": ["Crocodile"] },
+              { "key": "Nib Grade", "values": ["Medium"] },
+              { "key": "Mechanism", "values": ["Twist Mechanism"] },
+              { "key": "Nib Finish", "values": ["Stainless Steel"] },
+              { "key": "Type", "values": ["Ball Pen"] },
+              { "key": "Brand Name", "values": ["Pilot"] },
+              { "key": "Model No", "values": ["9000021678"] },
+              { "key": "Body Color", "values": ["Black"] },
+              { "key": "Packaging", "values": ["Box"] },
+              { "key": "Sales Package", "values": ["1 Pen", "1 Refill"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3b59a834afb65e247a88b1030c4abe7d5689a5b3" }
+      },
+      "active": true,
+      "id": "5fb9e96be353ff44b494b5fdc1582c52edc687d1"
+    },
+    {
+      "product": {
+        "id": "20191f95abb98f995a142d35608d445a9a0f03cc",
+        "name": "Pilot Python Ball Pen",
+        "description": "Dummy description for product Pilot Python Ball Pen",
+        "manufacturer_id": "6a5979469a0260730a807e8a341e46f7e6448d66",
+        "taric_code": "ff7f44c1-edd5-40c3-ab3c-e05b9ec17b45",
+        "variants": [
+          {
+            "id": "f7b2ee15d0f6de8eb3a4e5b3a6d403ea",
+            "name": "Pilot Ball Pens",
+            "description": "Flipkart.com: Buy Pilot Python Ball Pen only for Rs. 995 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6919,
+            "price": 995,
+            "sale": false,
+            "sale_price": 995,
+            "stock_keeping_unit": "PENEAHKSY6WJ9JAG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pen/j/a/g/pilot-9000021676-original-imaeags2cf4ygxcj.jpeg",
+                "filename": "pilot-9000021676-original-imaeags2cf4ygxcj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pen/r/h/x/pilot-9000021681-original-imae9yjhasyhrx9f.jpeg",
+                "filename": "pilot-9000021681-original-imae9yjhasyhrx9f.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Body Material", "values": ["Metal"] },
+              { "key": "Collection", "values": ["Python"] },
+              { "key": "Nib Grade", "values": ["Medium"] },
+              { "key": "Mechanism", "values": ["Twist Mechanism"] },
+              { "key": "Nib Finish", "values": ["Stainless Steel"] },
+              { "key": "Type", "values": ["Ball Pen"] },
+              { "key": "Brand Name", "values": ["Pilot"] },
+              { "key": "Model No", "values": ["9000021676"] },
+              { "key": "Body Color", "values": ["Silver"] },
+              { "key": "Packaging", "values": ["Box"] },
+              { "key": "Sales Package", "values": ["1 Pen", "1 Refill"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3b59a834afb65e247a88b1030c4abe7d5689a5b3" }
+      },
+      "active": true,
+      "id": "20191f95abb98f995a142d35608d445a9a0f03cc"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

@@ -1,0 +1,2960 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "174fafa95300e7edf32881e545a7d9b5aec98545",
+        "name": "classyworld Brass Cufflink",
+        "description": "Dummy description for product classyworld Brass Cufflink",
+        "manufacturer_id": "a7b92985470b66b73e425b1fd7ea092e321aae76",
+        "taric_code": "4e278a02-3828-47f7-8d4a-5f90b098344f",
+        "variants": [
+          {
+            "id": "7afde5070c358f4252f79910a62d1ce2",
+            "name": "classyworld Brass Cufflink (Silver-01)",
+            "description": "Key Features of classyworld Brass Cufflink Ideal For: Men Material: Brass,classyworld Brass Cufflink (Silver-01) Price: Rs. 329 Cufflinks with original Swarovski Crystals.,Specifications of classyworld Brass Cufflink (Silver-01) General Type Cufflink Material Brass Style Code CLASSYSCFLAHEN02 Ideal For Men Color Code Silver-01 Additional Features Classyworld Brass, Rhodium Plated Cufflink In the Box 2 Cufflinks",
+            "stock_level": 9785,
+            "price": 959,
+            "sale": false,
+            "sale_price": 329,
+            "stock_keeping_unit": "CTPEGGFRMMMGZXHF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/cufflink-tie-pin/x/h/f/classyscflahen02-classyworld-cufflink-classyscfl02-original-imaeggbyh5vvttgv.jpeg",
+                "filename": "classyscflahen02-classyworld-cufflink-classyscfl02-original-imaeggbyh5vvttgv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cufflink-tie-pin/x/h/f/classyscflahen02-classyworld-cufflink-classyscfl02-original-imaeggbyfn777ehz.jpeg",
+                "filename": "classyscflahen02-classyworld-cufflink-classyscfl02-original-imaeggbyfn777ehz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cufflink-tie-pin/x/h/f/classyscflahen02-classyworld-cufflink-classyscfl02-original-imaeggbx88kxfxzg.jpeg",
+                "filename": "classyscflahen02-classyworld-cufflink-classyscfl02-original-imaeggbx88kxfxzg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Type", "values": ["Cufflink"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Style Code", "values": ["CLASSYSCFLAHEN02"] },
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Color Code", "values": ["Silver-01"] },
+              {
+                "key": "488a206c-ebc0-4c43-85cc-986215c34e1b",
+                "values": ["Classyworld Brass", "Rhodium Plated Cufflink"]
+              },
+              {
+                "key": "dc2576c2-a17a-4cf6-b036-2c7f49659563",
+                "values": ["2 Cufflinks"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "63b9afdff48137ed06639ef7421923cfe847f1b1" }
+      },
+      "active": true,
+      "id": "174fafa95300e7edf32881e545a7d9b5aec98545"
+    },
+    {
+      "product": {
+        "id": "a23e4b98f1cde71d514bc04e8bc4d6d4f0ef1363",
+        "name": "Ritco lhst2 Faucet Set",
+        "description": "Dummy description for product Ritco lhst2 Faucet Set",
+        "manufacturer_id": "d92febeaf3e3b4a15ffc015dc834ec4bba0e91a1",
+        "taric_code": "1b378ed1-b808-4270-b232-ade065cd34ab",
+        "variants": [
+          {
+            "id": "4fff1f344c66a9263fec3eaea3182d28",
+            "name": "Ritco lhst2 Faucet Set",
+            "description": "Key Features of Ritco lhst2 Faucet Set High Quality Material,Ritco lhst2 Faucet Set Price: Rs. 246 we brings to you multifunctional hardware accessories & tool kit to add convenience of working at your homes as well as offices. Made out of finest quality material these customized spanners are transforming your spaces into a place of comfort and tranquility, and simply serviceable to create a work of art.,Specifications of Ritco lhst2 Faucet Set General Brand Ritco Suitable For Bathroom, Basin, Kitchen, Shower Installation Type Wall Mount Installation Type Model Number lhst2 Material Stainless Steel Finish Chrome Color Silver Dimensions Weight 0.5 kg Height 2 inch Width 2 inch In the Box 1 shower tube",
+            "stock_level": 7802,
+            "price": 393,
+            "sale": false,
+            "sale_price": 246,
+            "stock_keeping_unit": "FSEEHAGG8YHVYGEB",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/faucet-set/g/e/b/lhst2-ritco-1100x1100-imaegbxmg9myzfgg.jpeg",
+                "filename": "lhst2-ritco-1100x1100-imaegbxmg9myzfgg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/faucet-set/g/e/b/lhst2-ritco-original-imaegbxmg9myzfgg.jpeg",
+                "filename": "lhst2-ritco-original-imaegbxmg9myzfgg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ritco"] },
+              {
+                "key": "Suitable For",
+                "values": ["Bathroom", "Basin", "Kitchen", "Shower"]
+              },
+              {
+                "key": "Installation Type",
+                "values": ["Wall Mount Installation Type"]
+              },
+              { "key": "Model Number", "values": ["lhst2"] },
+              { "key": "Material", "values": ["Stainless Steel"] },
+              { "key": "Finish", "values": ["Chrome"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Weight", "values": ["0.5 kg"] },
+              { "key": "Height", "values": ["2 inch"] },
+              { "key": "Width", "values": ["2 inch"] },
+              {
+                "key": "2b5c7543-cd54-4725-81c0-3bff69476684",
+                "values": ["1 shower tube"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "0ef2f68fcc8be35d639dea7e9bbfa84657721e74" }
+      },
+      "active": true,
+      "id": "a23e4b98f1cde71d514bc04e8bc4d6d4f0ef1363"
+    },
+    {
+      "product": {
+        "id": "c62cc3db96723fcbc3f15121662b2f2f931de56b",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Fiat Linea Sun Shade For Fiat Linea",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Fiat Linea Sun Shade For Fiat Linea",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "613cbbb0-d0a5-4a9b-9dcd-d87b46ad31df",
+        "variants": [
+          {
+            "id": "fa07641e58b09875e13540a8073cdca6",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Fiat Linea Sun Shade For Fiat Linea Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Fiat Linea Sun Shade For Fiat Linea (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Fiat Linea Sun Shade For Fiat Linea (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Fiat Linea Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 3032,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGB4EZEJ7ZPV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Fiat Linea"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": false,
+      "id": "c62cc3db96723fcbc3f15121662b2f2f931de56b"
+    },
+    {
+      "product": {
+        "id": "ace70dfb05cd3f8bfb29f74eeb798644af65d5eb",
+        "name": "Starsy Printed Women's Round Neck White T-Shirt",
+        "description": "Dummy description for product Starsy Printed Women's Round Neck White T-Shirt",
+        "manufacturer_id": "d2c3811067b093b6c89cc158c82fc2db4dbdcb1e",
+        "taric_code": "cadbe6d1-12c2-48d1-985f-fdb05199383f",
+        "variants": [
+          {
+            "id": "102f3dfe562d9a7ba951bed87444b20e",
+            "name": "Starsy Printed Women's Round Neck White T-Shirt",
+            "description": "Key Features of Starsy Printed Women's Round Neck White T-Shirt Stylish Starsy women Regular T Shirt,Starsy Printed Women's Round Neck White T-Shirt Price: Rs. 879 Look your absolute best on your next dinner date, by wearing this T-shirt from Starsy. Made from Cotton, this T-shirt features a round neck and will feel soft against your skin. This T-shirt can be teamed up with a pencil skirt and a pair of stilettos to complete your flawless look.,Specifications of Starsy Printed Women's Round Neck White T-Shirt T-shirt Details Sleeve Full Sleeve Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Round Neck Fit Slim General Details Pattern Printed Ideal For Women's Occasion Party Fabric Care Mild Wash do not Bleach Additional Details Style Code TS0143white In the Box 1 T Shirt",
+            "stock_level": 1780,
+            "price": 1099,
+            "sale": true,
+            "sale_price": 879,
+            "stock_keeping_unit": "TSHEGF9WSGKT9KYG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/a/a/9/ts0143white-starsy-xxl-1000x1000-imaegf432hen7c66.jpeg",
+                "filename": "ts0143white-starsy-xxl-1000x1000-imaegf432hen7c66.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/a/a/9/ts0143white-starsy-xxl-original-imaegf432hen7c66.jpeg",
+                "filename": "ts0143white-starsy-xxl-original-imaegf432hen7c66.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/a/a/9/ts0143white-starsy-xxl-original-imaegf43nc4npqng.jpeg",
+                "filename": "ts0143white-starsy-xxl-original-imaegf43nc4npqng.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/a/a/9/ts0143white-starsy-xxl-original-imaegf43gbnqvtyz.jpeg",
+                "filename": "ts0143white-starsy-xxl-original-imaegf43gbnqvtyz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Slim"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Party"] },
+              {
+                "key": "f0d20480-aba5-4497-9a89-a3fa1ca22965",
+                "values": ["Mild Wash do not Bleach"]
+              },
+              { "key": "Style Code", "values": ["TS0143white"] },
+              {
+                "key": "790d411c-1f82-4708-bb0b-dfbd314804f2",
+                "values": ["1 T Shirt"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "6a2c491ce70fdeefdcf5b1430a0369144e799df7" }
+      },
+      "active": false,
+      "id": "ace70dfb05cd3f8bfb29f74eeb798644af65d5eb"
+    },
+    {
+      "product": {
+        "id": "fe137829dd4b9c67dd28b2aee107e5dfff2b52c9",
+        "name": "Ruhi's Creations Cotton Floral King sized Double Bedsheet",
+        "description": "Dummy description for product Ruhi's Creations Cotton Floral King sized Double Bedsheet",
+        "manufacturer_id": "54fc951cfbf8ba03aa8f27af2226a2b27d5992c3",
+        "taric_code": "3a16615f-94e1-4dbd-ab03-20655c638f1b",
+        "variants": [
+          {
+            "id": "25d3649747ee2c6f08248875273e2bd3",
+            "name": "Ruhi's Creations Cotton Floral King sized Double...",
+            "description": "Key Features of Ruhi's Creations Cotton Floral King sized Double Bedsheet Sheet Length: 220 cm Sheet Width: 240 cm,Ruhi's Creations Cotton Floral King sized Double Bedsheet (1 Bedsheet with 2 Pillow Covers, Blue) Price: Rs. 499 Double bed designer bed sheet with two pillow covers (free). Very soft and made of high quality. Give Your Bedroom A Makeover With Cotton Bedsheets From Ruhi's Creations.,Specifications of Ruhi's Creations Cotton Floral King sized Double Bedsheet (1 Bedsheet with 2 Pillow Covers, Blue) General Brand Ruhi's Creations Machine Washable Yes Type Fitted Material Cotton Model Name 100% Cotton Floral Bedsheet (Blue) Ideal For Boys & Girls Model ID 8007 Character Flowers Color Blue Size King Dimensions Flat Sheet Width 94 inch / 240 cm Fitted Sheet Width 240 cm Pillow Cover Width 17 inch / 45 cm Pillow Cover Length 27 inch / 69 cm Weight 800 g Fitted Sheet Depth 240 cm Fitted Sheet Length 220 cm Flat Sheet Depth 240 cm Flat Sheet Length 86 inch / 220 cm In the Box Sales Package 1 Bedsheet with 2 Pillow Covers",
+            "stock_level": 7557,
+            "price": 1399,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "BDSEGJBRY7SRXBCH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bedsheet/b/c/h/8007-ruhi-s-creations-fitted-100-cotton-floral-bedsheet-blue-original-imaeggg5z87evwgm.jpeg",
+                "filename": "8007-ruhi-s-creations-fitted-100-cotton-floral-bedsheet-blue-original-imaeggg5z87evwgm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bedsheet/b/c/h/8007-ruhi-s-creations-fitted-100-cotton-floral-bedsheet-blue-original-imaeggg57dg6b537.jpeg",
+                "filename": "8007-ruhi-s-creations-fitted-100-cotton-floral-bedsheet-blue-original-imaeggg57dg6b537.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ruhi's Creations"] },
+              { "key": "Machine Washable", "values": ["Yes"] },
+              { "key": "Type", "values": ["Fitted"] },
+              { "key": "Material", "values": ["Cotton"] },
+              {
+                "key": "Model Name",
+                "values": ["100% Cotton Floral Bedsheet (Blue)"]
+              },
+              { "key": "Ideal For", "values": ["Boys and Girls"] },
+              { "key": "Model ID", "values": ["8007"] },
+              { "key": "Character", "values": ["Flowers"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Size", "values": ["King"] },
+              { "key": "Flat Sheet Width", "values": ["94 inch / 240 cm"] },
+              { "key": "Fitted Sheet Width", "values": ["240 cm"] },
+              { "key": "Pillow Cover Width", "values": ["17 inch / 45 cm"] },
+              { "key": "Pillow Cover Length", "values": ["27 inch / 69 cm"] },
+              { "key": "Weight", "values": ["800 g"] },
+              { "key": "Fitted Sheet Depth", "values": ["240 cm"] },
+              { "key": "Fitted Sheet Length", "values": ["220 cm"] },
+              { "key": "Flat Sheet Depth", "values": ["240 cm"] },
+              { "key": "Flat Sheet Length", "values": ["86 inch / 220 cm"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Bedsheet with 2 Pillow Covers"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "0ce6e31ba5d3a53ca607d85093c550eec10f5372" }
+      },
+      "active": true,
+      "id": "fe137829dd4b9c67dd28b2aee107e5dfff2b52c9"
+    },
+    {
+      "product": {
+        "id": "e3ff5b4b13ab301401f5275bb5e63e81394ffcf3",
+        "name": "DOLZ Skinny Fit Fit Women's Brown Jeans",
+        "description": "Dummy description for product DOLZ Skinny Fit Fit Women's Brown Jeans",
+        "manufacturer_id": "4b50b1a517dbc7f15eea8ff044e819b90b5431cf",
+        "taric_code": "b174ec8d-a985-450a-a5d1-dc7ba916af01",
+        "variants": [
+          {
+            "id": "cff7bcbd3acd3c289efee2d7d41b1253",
+            "name": "DOLZ Skinny Fit Fit Women's Brown Jeans",
+            "description": "Specifications of DOLZ Skinny Fit Fit Women's Brown Jeans Jeans Details Brand Color Beautiful Brown Closure Button Number of Contents in Sales Package Pack of 1 Brand Fit Skinny Fit Fabric Satin Cotton Stretchable Rise Mid Rise Fly Zipper General Details Pattern Solid Ideal For Women's Additional Details Style Code WRJUFFF_59 Fabric Care Do Not Bleach In the Box 1 Jean",
+            "stock_level": 8897,
+            "price": 1249,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "JEAEG8HFSZZZHJTM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jean/r/q/g/wrjufff-59-dolz-30-original-imaech8dnythcdys.jpeg",
+                "filename": "wrjufff-59-dolz-30-original-imaech8dnythcdys.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/r/q/g/wrjufff-59-dolz-28-original-imaech8dhhsffjzh.jpeg",
+                "filename": "wrjufff-59-dolz-28-original-imaech8dhhsffjzh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/r/q/g/wrjufff-59-dolz-30-original-imaech8dr8nsm7zf.jpeg",
+                "filename": "wrjufff-59-dolz-30-original-imaech8dr8nsm7zf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jean/r/q/g/wrjufff-59-dolz-34-original-imaech8djr93cgb2.jpeg",
+                "filename": "wrjufff-59-dolz-34-original-imaech8djr93cgb2.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jean/r/q/g/wrjufff-59-dolz-30-original-imaech8dgjbxfh7t.jpeg",
+                "filename": "wrjufff-59-dolz-30-original-imaech8dgjbxfh7t.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand Color", "values": ["Beautiful Brown"] },
+              { "key": "Closure", "values": ["Button"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Skinny Fit"] },
+              { "key": "Fabric", "values": ["Satin Cotton Stretchable"] },
+              { "key": "Rise", "values": ["Mid Rise"] },
+              { "key": "Fly", "values": ["Zipper"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Style Code", "values": ["WRJUFFF_59"] },
+              {
+                "key": "2fd8a260-6791-4067-8d83-2df414007d45",
+                "values": ["Do Not Bleach"]
+              },
+              {
+                "key": "5a0548b9-fbd9-4779-96ad-00277b2d2508",
+                "values": ["1 Jean"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "118a8eb28eca8e290940e7fefc7a5387086ed6f1" }
+      },
+      "active": true,
+      "id": "e3ff5b4b13ab301401f5275bb5e63e81394ffcf3"
+    },
+    {
+      "product": {
+        "id": "8fa4a38f584dc959edc91d20ea9bbb9c14a30fee",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Chevrolet Sail type 1 Sun Shade For Chevrolet Sail",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Chevrolet Sail type 1 Sun Shade For Chevrolet Sail",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "2a8b56a1-8bd4-4e1a-a2fe-cb5226aa9d13",
+        "variants": [
+          {
+            "id": "c4775688a676795d9530ee1c30bc973e",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Chevrolet Sail type 1 Sun Shade For Chevrolet Sail Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Chevrolet Sail type 1 Sun Shade For Chevrolet Sail (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Chevrolet Sail type 1 Sun Shade For Chevrolet Sail (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Chevrolet Sail type 1 Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 9025,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGBFNGESYFHT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Chevrolet Sail type 1"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "8fa4a38f584dc959edc91d20ea9bbb9c14a30fee"
+    },
+    {
+      "product": {
+        "id": "383852c15471070eef2a3424bda0ef56aa754e00",
+        "name": "Naaz Tic Tac Toe mini Board Game",
+        "description": "Dummy description for product Naaz Tic Tac Toe mini Board Game",
+        "manufacturer_id": "d6bbdedd9d9ac77c902334d623c9cfc0557b45c6",
+        "taric_code": "9eeff796-d1a1-4341-8244-8f55ac7eadc6",
+        "variants": [
+          {
+            "id": "1dd349c542059b7042db1b21ab81e379",
+            "name": "Naaz Tic Tac Toe mini Board Game",
+            "description": "Key Features of Naaz Tic Tac Toe mini Board Game Min Age: 2 yrs Type: Board Game Accessories,Specifications of Naaz Tic Tac Toe mini Board Game Product Dimensions Important Note The color of some product parts may vary from what is shown in the image Important Note The color of some product parts may vary from what is shown in the image General Age Group 2 - 20 Years Type Board Game Accessories In the Box 1 pc board game",
+            "stock_level": 6591,
+            "price": 299,
+            "sale": false,
+            "sale_price": 149,
+            "stock_keeping_unit": "BDGEGEGCZ5ZDXBX9",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/board-game/b/x/9/naaz-tic-tac-toe-mini-original-imaeg9kyzerkfcaj.jpeg",
+                "filename": "naaz-tic-tac-toe-mini-original-imaeg9kyzerkfcaj.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Important Note",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              {
+                "key": "6144339b-9785-46e4-8ce8-f8db982359aa",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              { "key": "Age Group", "values": ["2 - 20 Years"] },
+              { "key": "Type", "values": ["Board Game Accessories"] },
+              {
+                "key": "86348645-4e58-4411-8ed3-a342b655b906",
+                "values": ["1 pc board game"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "385bf3b098e0f030191a8a039418f7bcef7d7cac" }
+      },
+      "active": true,
+      "id": "383852c15471070eef2a3424bda0ef56aa754e00"
+    },
+    {
+      "product": {
+        "id": "77bc80bd81052c30baf755371caaebd5f4bd4fe3",
+        "name": "My Lil' Berry Girl's Blue Dungaree",
+        "description": "Dummy description for product My Lil' Berry Girl's Blue Dungaree",
+        "manufacturer_id": "2264bc80365ada6356106f5252a76a039c31c675",
+        "taric_code": "2c5a26e6-417c-4270-8c12-03be51dcfcc7",
+        "variants": [
+          {
+            "id": "609d14151096601c5883cfb1d8afc5b4",
+            "name": "My Lil' Berry Girl's Blue Dungaree",
+            "description": "Key Features of My Lil' Berry Girl's Blue Dungaree Fabric: Denim Brand Color: Blue,My Lil' Berry Girl's Blue Dungaree Price: Rs. 1,149 Soft washed denim dungarees with adjustable straps and snap closure at the side. The colorful trim at the waist adds a tinge of color to the dungaree.,Specifications of My Lil' Berry Girl's Blue Dungaree Top Details Number of Contents in Sales Package Pack of 1 Fabric Denim Type Dungaree General Details Pattern Self Design Ideal For Girl's Fabric Care Machine wash In the Box Dungaree",
+            "stock_level": 9235,
+            "price": 1149,
+            "sale": false,
+            "sale_price": 1149,
+            "stock_keeping_unit": "DRPEFZDBMRGECGZG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/k/y/m/lbr37-my-lil-berry-5-6-years-1000x1000-imaefz5uvxnmhuhj.jpeg",
+                "filename": "lbr37-my-lil-berry-5-6-years-1000x1000-imaefz5uvxnmhuhj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/k/y/m/lbr37-my-lil-berry-5-6-years-original-imaefz5uvxnmhuhj.jpeg",
+                "filename": "lbr37-my-lil-berry-5-6-years-original-imaefz5uvxnmhuhj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/k/y/m/lbr37-my-lil-berry-5-6-years-original-imaefz5ursze6hhh.jpeg",
+                "filename": "lbr37-my-lil-berry-5-6-years-original-imaefz5ursze6hhh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/k/y/m/lbr37-my-lil-berry-5-6-years-original-imaefz5utpm8g4cd.jpeg",
+                "filename": "lbr37-my-lil-berry-5-6-years-original-imaefz5utpm8g4cd.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Denim"] },
+              { "key": "Type", "values": ["Dungaree"] },
+              { "key": "Pattern", "values": ["Self Design"] },
+              { "key": "Ideal For", "values": ["Girl's"] },
+              {
+                "key": "9fd44858-51a9-44b5-8a64-8108e6322ad8",
+                "values": ["Machine wash"]
+              },
+              {
+                "key": "bd3fe9ce-78c9-4545-8166-2ff12032490d",
+                "values": ["Dungaree"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "7f147a5cdc57db6c3fbc1d666e7a963d191ad948" }
+      },
+      "active": true,
+      "id": "77bc80bd81052c30baf755371caaebd5f4bd4fe3"
+    },
+    {
+      "product": {
+        "id": "d964e24ebc6fe7034c058a42f9f72663a90fffc0",
+        "name": "Reebok Solid Men's Three Fourths",
+        "description": "Dummy description for product Reebok Solid Men's Three Fourths",
+        "manufacturer_id": "c490afc8180d57ae31611a570360f52964ddf0f7",
+        "taric_code": "1c836f9c-d932-406d-984a-a67bf73c02e5",
+        "variants": [
+          {
+            "id": "26d273652113c03364763b1a9aeec7fd",
+            "name": "Reebok Solid Men's Three Fourths",
+            "description": "Specifications of Reebok Solid Men's Three Fourths General Details Pattern Solid Ideal For Men's Occasion Sports Three Fourth Details Fabric 100% Polyester Fabric Care Machine Wash Cold Additional Details Style Code 945400 In the Box 1 Three Fourths",
+            "stock_level": 8941,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 1299,
+            "stock_keeping_unit": "TFHECQNYAPQ2FCHE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/three-fourth/b/8/z/945400-reebok-xl-1000x1000-imaec39ydueg8qjq.jpeg",
+                "filename": "945400-reebok-xl-1000x1000-imaec39ydueg8qjq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/three-fourth/b/8/z/945400-reebok-xl-original-imaec39ydueg8qjq.jpeg",
+                "filename": "945400-reebok-xl-original-imaec39ydueg8qjq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/three-fourth/b/8/z/945400-reebok-s-original-imaec39yvuqu3jqh.jpeg",
+                "filename": "945400-reebok-s-original-imaec39yvuqu3jqh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/three-fourth/b/8/z/945400-reebok-xl-original-imaec39yyejymgzh.jpeg",
+                "filename": "945400-reebok-xl-original-imaec39yyejymgzh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/three-fourth/b/8/z/945400-reebok-xl-original-imaec39yyakgwnd6.jpeg",
+                "filename": "945400-reebok-xl-original-imaec39yyakgwnd6.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Occasion", "values": ["Sports"] },
+              { "key": "Fabric", "values": ["100% Polyester"] },
+              {
+                "key": "cad7ee2c-0d02-460c-a8c0-f009b42a2099",
+                "values": ["Machine Wash Cold"]
+              },
+              { "key": "Style Code", "values": ["945400"] },
+              {
+                "key": "59ecb740-e356-4f04-8b87-5b0374afd6db",
+                "values": ["1 Three Fourths"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "6ef59d9a10fb79efbc8df1ce06965b38ec3a5a78" }
+      },
+      "active": true,
+      "id": "d964e24ebc6fe7034c058a42f9f72663a90fffc0"
+    },
+    {
+      "product": {
+        "id": "013191a17b142f2bec014c80a5bc2285998c86ab",
+        "name": "Urban Girl Foundation Brush",
+        "description": "Dummy description for product Urban Girl Foundation Brush",
+        "manufacturer_id": "1af37e8c8e30d0b95bb9f48996a5ed82ed3f2b12",
+        "taric_code": "775fe406-b286-41fb-b170-b78d96f706a4",
+        "variants": [
+          {
+            "id": "d40aa413796846eb237d2a4d92ce35ce",
+            "name": "Urban Girl Foundation Brush (Pack of 12)",
+            "description": "Specifications of Urban Girl Foundation Brush (Pack of 12) Brush and Applicator Traits Brush Type Face Pack Brush Number of Pieces per Set 12 Set Content 12 pcs Brush Set-Included: Brushes for powder, blush, foundation, eyeshadow, lip and eyeliner.",
+            "stock_level": 2601,
+            "price": 1999,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "BAREGGF8KXRWMGZK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/brush-applicator/g/z/k/leo01-urban-girl-foundation-brush-1100x1100-imaeggbjsnk9sheg.jpeg",
+                "filename": "leo01-urban-girl-foundation-brush-1100x1100-imaeggbjsnk9sheg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/brush-applicator/g/z/k/leo01-urban-girl-foundation-brush-original-imaeggbjsnk9sheg.jpeg",
+                "filename": "leo01-urban-girl-foundation-brush-original-imaeggbjsnk9sheg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/brush-applicator/g/z/k/leo01-urban-girl-foundation-brush-original-imaeggbjkqyytgae.jpeg",
+                "filename": "leo01-urban-girl-foundation-brush-original-imaeggbjkqyytgae.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/brush-applicator/g/z/k/leo01-urban-girl-foundation-brush-original-imaeggbjq4whwspj.jpeg",
+                "filename": "leo01-urban-girl-foundation-brush-original-imaeggbjq4whwspj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/brush-applicator/g/z/k/leo01-urban-girl-foundation-brush-original-imaeggbjgyjkktqw.jpeg",
+                "filename": "leo01-urban-girl-foundation-brush-original-imaeggbjgyjkktqw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brush Type", "values": ["Face Pack Brush"] },
+              { "key": "Number of Pieces per Set", "values": ["12"] },
+              {
+                "key": "Set Content",
+                "values": [
+                  "12 pcs Brush Set-Included: Brushes for powder",
+                  "blush",
+                  "foundation",
+                  "eyeshadow",
+                  "lip and eyeliner."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "52315daad1acad0c968dc18d8d5214360b2d5e6e" }
+      },
+      "active": false,
+      "id": "013191a17b142f2bec014c80a5bc2285998c86ab"
+    },
+    {
+      "product": {
+        "id": "b7749500a6f966df5e8576fc4ac2f35e8f256627",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Hyundai Verna type 2 Sun Shade For Hyundai Verna",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Hyundai Verna type 2 Sun Shade For Hyundai Verna",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "3bfaad25-ce55-4dec-8909-caf41e3f8708",
+        "variants": [
+          {
+            "id": "4914b6eae5294e259f70be940a86fa41",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Hyundai Verna type 2 Sun Shade For Hyundai Verna Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Hyundai Verna type 2 Sun Shade For Hyundai Verna (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Hyundai Verna type 2 Sun Shade For Hyundai Verna (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Hyundai Verna type 2 Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 5729,
+            "price": 459,
+            "sale": true,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGAVHRHX2GZV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Hyundai Verna type 2"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "b7749500a6f966df5e8576fc4ac2f35e8f256627"
+    },
+    {
+      "product": {
+        "id": "679a527611710ffdd140b7510540390d8c7f5a57",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda Civic Sun Shade For Honda Civic",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda Civic Sun Shade For Honda Civic",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "60112acd-32ec-41fe-85e9-291c3d06244b",
+        "variants": [
+          {
+            "id": "7d49fcb493f3709b4bcb1f142de07f5e",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda Civic Sun Shade For Honda Civic Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda Civic Sun Shade For Honda Civic (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda Civic Sun Shade For Honda Civic (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda Civic Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 3698,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGB4WFMMA3BX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda Civic"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "679a527611710ffdd140b7510540390d8c7f5a57"
+    },
+    {
+      "product": {
+        "id": "d74049c11b4d83d53de0597da5ae2db5cba638c6",
+        "name": "Nivea Sensitive Shaving Cream",
+        "description": "Dummy description for product Nivea Sensitive Shaving Cream",
+        "manufacturer_id": "424bd3d374af537c9bff457e1a1704829ef79c34",
+        "taric_code": "181df3c8-47f7-4f43-a32e-159dc414660a",
+        "variants": [
+          {
+            "id": "306a8525b7d790098dabe98eec2efb46",
+            "name": "Nivea Sensitive Shaving Cream (100 ml)",
+            "description": "Specifications of Nivea Sensitive Shaving Cream (100 ml) Shaving Cream Traits Organic Type Natural Quantity 100 ml Skin Type Sensitive Skin Organic No Ideal For Men Container Type Tub Composition Natural In the Box Shaving Cream",
+            "stock_level": 8608,
+            "price": 460,
+            "sale": false,
+            "sale_price": 400,
+            "stock_keeping_unit": "SCREEMC7DYNN5YHF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shaving-cream/y/h/f/nivea-100-sensitive-shaving-cream-1100x1100-imaeehjzgkzhqsnt.jpeg",
+                "filename": "nivea-100-sensitive-shaving-cream-1100x1100-imaeehjzgkzhqsnt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shaving-cream/y/h/f/nivea-100-sensitive-shaving-cream-original-imaeehjzgkzhqsnt.jpeg",
+                "filename": "nivea-100-sensitive-shaving-cream-original-imaeehjzgkzhqsnt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Organic Type", "values": ["Natural"] },
+              { "key": "Quantity", "values": ["100 ml"] },
+              { "key": "Skin Type", "values": ["Sensitive Skin"] },
+              { "key": "Organic", "values": ["No"] },
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Container Type", "values": ["Tub"] },
+              { "key": "Composition", "values": ["Natural"] },
+              {
+                "key": "62f01941-6c11-4dd7-8a73-8b209a88d4bd",
+                "values": ["Shaving Cream"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c6f73749c147732def459e82ca477ee8c6f20a9" }
+      },
+      "active": true,
+      "id": "d74049c11b4d83d53de0597da5ae2db5cba638c6"
+    },
+    {
+      "product": {
+        "id": "194bcf1e9721de8438eda1940fb773b70038d1a6",
+        "name": "Fisher-Price Baby Girl's Orange Leggings",
+        "description": "Dummy description for product Fisher-Price Baby Girl's Orange Leggings",
+        "manufacturer_id": "53093e5dcba5f2500981b6e680c620db89d04f6c",
+        "taric_code": "c897030a-947e-43a0-826b-852436b84842",
+        "variants": [
+          {
+            "id": "6cf43f97fbbc6c58df29e94a02951dda",
+            "name": "Fisher-Price Baby Girl's Orange Leggings",
+            "description": "Key Features of Fisher-Price Baby Girl's Orange Leggings Orange Leggings,Fisher-Price Baby Girl's Orange Leggings Price: Rs. 359 Dress up your little girl in these comfy leggings from Fisher Price for playtime or a casual day out. Made from soft and breathable fabric, they assure to keep your little one happy and relaxed all day long. Pair with a printed tee or racerback vest to complete the look. Features: • Material: 100% cotton • Colour: Peach • Pattern: Solid • Fit: Regular • Closure: Pullover • Comfortable elastic waistband Washing Instructions: • Machine wash cold • Tumble dry low • Iron on medium heat • Do not bleach • Do not dry clean,Specifications of Fisher-Price Baby Girl's Orange Leggings In The Box 1 Leggings General Details Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Leggings Waistband Elastic Pattern Printed Occasion Casual Ideal For Baby Girl's",
+            "stock_level": 7279,
+            "price": 399,
+            "sale": false,
+            "sale_price": 359,
+            "stock_keeping_unit": "LJGEHFBTFDGHGGWD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/g/u/q/akfgtg1079057-fisher-price-2-3-years-1000x1000-imaehf8jjpzhpehe.jpeg",
+                "filename": "akfgtg1079057-fisher-price-2-3-years-1000x1000-imaehf8jjpzhpehe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/g/u/q/akfgtg1079057-fisher-price-2-3-years-original-imaehf8jjpzhpehe.jpeg",
+                "filename": "akfgtg1079057-fisher-price-2-3-years-original-imaehf8jjpzhpehe.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/g/u/q/akfgtg1079057-fisher-price-2-3-years-original-imaehf8j66efxwty.jpeg",
+                "filename": "akfgtg1079057-fisher-price-2-3-years-original-imaehf8j66efxwty.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "b5f12448-14cc-43c1-b497-b056dc5df1da",
+                "values": ["1 Leggings"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Leggings"] },
+              { "key": "Waistband", "values": ["Elastic"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Baby Girl's"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "51d8833a1163bc07b0552a8abc83a9cb579c8fdb" }
+      },
+      "active": true,
+      "id": "194bcf1e9721de8438eda1940fb773b70038d1a6"
+    },
+    {
+      "product": {
+        "id": "78132e7056e070ffd8347dac4e2e8fc607716889",
+        "name": "Ritco rslpf3 Faucet Set",
+        "description": "Dummy description for product Ritco rslpf3 Faucet Set",
+        "manufacturer_id": "d92febeaf3e3b4a15ffc015dc834ec4bba0e91a1",
+        "taric_code": "90770658-4651-4cac-8b40-efb4a48e4f0f",
+        "variants": [
+          {
+            "id": "16923208ac81950896a3d5fc27ed0617",
+            "name": "Ritco rslpf3 Faucet Set",
+            "description": "Key Features of Ritco rslpf3 Faucet Set High Quality Material,Ritco rslpf3 Faucet Set Price: Rs. 538 we brings to you multifunctional hardware accessories & tool kit to add convenience of working at your homes as well as offices. Made out of finest quality material these customized spanners are transforming your spaces into a place of comfort and tranquility, and simply serviceable to create a work of art.,Specifications of Ritco rslpf3 Faucet Set General Brand Ritco Suitable For Bathroom, Basin, Kitchen, Shower Installation Type Wall Mount Installation Type Model Number rslpf3 Material Brass Finish Chrome Color Silver Dimensions Weight 0.5 kg Height 4 inch Width 4 inch In the Box 1 Flench, 1 faucet",
+            "stock_level": 3641,
+            "price": 860,
+            "sale": false,
+            "sale_price": 538,
+            "stock_keeping_unit": "FSEEHAGGGFHQJKWB",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/faucet-set/k/w/b/rslpf3-ritco-1100x1100-imaegbxmdhghv7fx.jpeg",
+                "filename": "rslpf3-ritco-1100x1100-imaegbxmdhghv7fx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/faucet-set/k/w/b/rslpf3-ritco-original-imaegbxmdhghv7fx.jpeg",
+                "filename": "rslpf3-ritco-original-imaegbxmdhghv7fx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ritco"] },
+              {
+                "key": "Suitable For",
+                "values": ["Bathroom", "Basin", "Kitchen", "Shower"]
+              },
+              {
+                "key": "Installation Type",
+                "values": ["Wall Mount Installation Type"]
+              },
+              { "key": "Model Number", "values": ["rslpf3"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Finish", "values": ["Chrome"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Weight", "values": ["0.5 kg"] },
+              { "key": "Height", "values": ["4 inch"] },
+              { "key": "Width", "values": ["4 inch"] },
+              {
+                "key": "ac32f81b-fd15-4464-83a2-f8f2842e7fce",
+                "values": ["1 Flench", "1 faucet"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "0ef2f68fcc8be35d639dea7e9bbfa84657721e74" }
+      },
+      "active": true,
+      "id": "78132e7056e070ffd8347dac4e2e8fc607716889"
+    },
+    {
+      "product": {
+        "id": "bbcc03adbec4bd1de4fb5ee095219130e775275c",
+        "name": "PEDI SPIN FP-156892",
+        "description": "Dummy description for product PEDI SPIN FP-156892",
+        "manufacturer_id": "d3cec3960eca1c08020884dba5a2364a00f77201",
+        "taric_code": "21665815-d915-4561-a932-5d3a763108fa",
+        "variants": [
+          {
+            "id": "9a979f2e77ddba0669f7d57ff81220cc",
+            "name": "PEDI SPIN FP-156892",
+            "description": "PEDI SPIN FP-156892 Price: Rs. 799 \"Highlights Safe and gentle for delicate skin Smooth your feet anytime, anywhere Dual speeds perfect for rough, dry areas and tough calluses Use on heels, soles and toes Instantly removes dry, rough patches, calluses and dead skin Portable and convenient Ergonomic design Two speeds Power: 4 AA batteries (not included) As someone who likes to look after yourself from head to toe, you just cannot ignore the dry patches on your feet, which can make you conscious. Moreover these rough patches and calluses can cause a lot of pain and be inconvenient for you as well. But you don’t have to go to expensive salons or use myriad products to get rid of these dry patches, dead skin and calluses any more. You have a simple solution in the form of Pedi Spin, which is safe and easy to use. Pedi Spin contains stainless steel microfiles that are strong enough to get rid of the dead skin and calluses with ease. Pedi Spin is the automatic battery operated callus remover that remove dead skin on the foot heel. The precision head has 2 speeds and rotates to gently spin away calluses and rough, dry skin leaving you with super smooth, beautiful feet. Plus it traps the shavings inside, so clean up is easy - just empty when you're done Pedi Spin instantly removes dry and dead skin. Pedi Spin is the easy, painless way to enjoy smooth, soft feet. The stainless micro files quickly remove dead skin, leaving your feet looking and feeling great.\\ Gentle on sensitive skin Ergonomic design Two speeds Requires 4 AA batteries (not included). With 1 filling plate only 1 Finishing head with 1 replacement finishing pad Traps shavings \",Related video of PEDI SPIN FP-156892,Specifications of PEDI SPIN FP-156892 Foot Filer Traits Foot Filer Material Sand Paper Ideal For Women Dual-side Surface No In the Box PEDI SPIN 1, filling pad 4, filling plate 1, finishing head 2",
+            "stock_level": 6187,
+            "price": 899,
+            "sale": false,
+            "sale_price": 799,
+            "stock_keeping_unit": "FFLEGEXHXGFXZAXY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/foot-filer/a/x/y/ps-t6592-pedi-spin-fp-156892-1100x1100-imaechhgzmymcdgh.jpeg",
+                "filename": "ps-t6592-pedi-spin-fp-156892-1100x1100-imaechhgzmymcdgh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/foot-filer/a/x/y/ps-t6592-pedi-spin-fp-156892-original-imaechhgzmymcdgh.jpeg",
+                "filename": "ps-t6592-pedi-spin-fp-156892-original-imaechhgzmymcdgh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/foot-filer/a/x/y/ps-t6592-pedi-spin-fp-156892-original-imaeg57kdaquxpg2.jpeg",
+                "filename": "ps-t6592-pedi-spin-fp-156892-original-imaeg57kdaquxpg2.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/foot-filer/a/x/y/ps-t6592-pedi-spin-fp-156892-original-imaegduc2zcsgecy.jpeg",
+                "filename": "ps-t6592-pedi-spin-fp-156892-original-imaegduc2zcsgecy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/foot-filer/a/x/y/ps-t6592-pedi-spin-fp-156892-original-imaeg57k9ehvvkbh.jpeg",
+                "filename": "ps-t6592-pedi-spin-fp-156892-original-imaeg57k9ehvvkbh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/foot-filer/a/x/y/ps-t6592-pedi-spin-fp-156892-original-imaeg57htbuhbecs.jpeg",
+                "filename": "ps-t6592-pedi-spin-fp-156892-original-imaeg57htbuhbecs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Foot Filer Material", "values": ["Sand Paper"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Dual-side Surface", "values": ["No"] },
+              {
+                "key": "6881bf86-43e4-4aae-80ce-f250db14720f",
+                "values": [
+                  "PEDI SPIN 1",
+                  "filling pad 4",
+                  "filling plate 1",
+                  "finishing head 2"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "29154bfe39e1302f4079b5ded4db81dbc2d71b11" }
+      },
+      "active": true,
+      "id": "bbcc03adbec4bd1de4fb5ee095219130e775275c"
+    },
+    {
+      "product": {
+        "id": "c0e58d3a6fe622afbcb2389f13947f8a68b9386e",
+        "name": "Naaz Manicure Pedicure Kit For Kids and adult Board Game",
+        "description": "Dummy description for product Naaz Manicure Pedicure Kit For Kids and adult Board Game",
+        "manufacturer_id": "d6bbdedd9d9ac77c902334d623c9cfc0557b45c6",
+        "taric_code": "eaec4aca-d80b-4d29-8281-ff289f9cd552",
+        "variants": [
+          {
+            "id": "9be1971cdb68178b28dd86369fbdcda1",
+            "name": "Naaz Manicure Pedicure Kit For Kids and adult Bo...",
+            "description": "Specifications of Naaz Manicure Pedicure Kit For Kids and adult Board Game Product Dimensions Important Note The color of some product parts may vary from what is shown in the image Important Note The color of some product parts may vary from what is shown in the image General Age Group 3 - 10 Years Type Educational Games In the Box 1 pc game kit",
+            "stock_level": 1951,
+            "price": 390,
+            "sale": false,
+            "sale_price": 349,
+            "stock_keeping_unit": "BDGEGEGD6EFK9CRM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/board-game/c/r/m/naaz-manicure-pedicure-kit-for-kids-and-adult-original-imaeg9kymgsqa9h4.jpeg",
+                "filename": "naaz-manicure-pedicure-kit-for-kids-and-adult-original-imaeg9kymgsqa9h4.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Important Note",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              {
+                "key": "39eedfb1-554f-4273-be6a-4e7d3443e671",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              { "key": "Age Group", "values": ["3 - 10 Years"] },
+              { "key": "Type", "values": ["Educational Games"] },
+              {
+                "key": "63a2a637-b102-4d2c-8f8c-3acf44a87218",
+                "values": ["1 pc game kit"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "e5e47ce49228c2e133866451950b9f1489d40843" }
+      },
+      "active": true,
+      "id": "c0e58d3a6fe622afbcb2389f13947f8a68b9386e"
+    },
+    {
+      "product": {
+        "id": "859139ac3428a5014f2d37a8cb60846bdacef0be",
+        "name": "ELLE Girl's Red Romper",
+        "description": "Dummy description for product ELLE Girl's Red Romper",
+        "manufacturer_id": "ecc6e6072288eaa72f48ebfbf49350c3e8a28c8d",
+        "taric_code": "014802dc-39b9-4d5d-b62c-03ae74dcc4ae",
+        "variants": [
+          {
+            "id": "3717f471a727fd93c23382c28fd0a29c",
+            "name": "ELLE Girl's Red Romper",
+            "description": "Specifications of ELLE Girl's Red Romper Top Details Sleeve Sleeveless Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Romper General Details Pattern Polka Print Ideal For Girl's In the Box Romper Fabric Care Wash with Similar Colors, Use Detergent for Colors",
+            "stock_level": 2217,
+            "price": 1099,
+            "sale": false,
+            "sale_price": 1099,
+            "stock_keeping_unit": "DRPEGVJ8EBZRJV7T",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/dungaree-romper/m/p/q/egrp1414pb-elle-8-9-years-1000x1000-imaegtagzjjr7fxh.jpeg",
+                "filename": "egrp1414pb-elle-8-9-years-1000x1000-imaegtagzjjr7fxh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/dungaree-romper/m/p/q/egrp1414pb-elle-8-9-years-original-imaegtagzjjr7fxh.jpeg",
+                "filename": "egrp1414pb-elle-8-9-years-original-imaegtagzjjr7fxh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/dungaree-romper/v/7/t/egrp1414pb-elle-10-11-years-original-imaegtagfzzgfeyx.jpeg",
+                "filename": "egrp1414pb-elle-10-11-years-original-imaegtagfzzgfeyx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/v/7/t/egrp1414pb-elle-10-11-years-original-imaegtag86rxpg6p.jpeg",
+                "filename": "egrp1414pb-elle-10-11-years-original-imaegtag86rxpg6p.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Sleeveless"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Romper"] },
+              { "key": "Pattern", "values": ["Polka Print"] },
+              { "key": "Ideal For", "values": ["Girl's"] },
+              {
+                "key": "4bf1fc64-5137-475f-bad0-4794e4607543",
+                "values": ["Romper"]
+              },
+              {
+                "key": "02574750-5f75-4d0e-97e9-8eaf070644c7",
+                "values": [
+                  "Wash with Similar Colors",
+                  "Use Detergent for Colors"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "b07277cb4e35e8037d774fbf058163d18b8b7db5" }
+      },
+      "active": true,
+      "id": "859139ac3428a5014f2d37a8cb60846bdacef0be"
+    },
+    {
+      "product": {
+        "id": "e3e715582778d77f2353ee1aba51a2c0b89fe3b5",
+        "name": "Ritco rsacf5 Faucet Set",
+        "description": "Dummy description for product Ritco rsacf5 Faucet Set",
+        "manufacturer_id": "d92febeaf3e3b4a15ffc015dc834ec4bba0e91a1",
+        "taric_code": "9349d768-5b55-49b7-ad1c-44b94d1528c2",
+        "variants": [
+          {
+            "id": "8ee9ff4f1856b1ab97ab45d03b78422e",
+            "name": "Ritco rsacf5 Faucet Set",
+            "description": "Key Features of Ritco rsacf5 Faucet Set High Quality Material,Ritco rsacf5 Faucet Set Price: Rs. 449 we brings to you multifunctional hardware accessories & tool kit to add convenience of working at your homes as well as offices. Made out of finest quality material these customized spanners are transforming your spaces into a place of comfort and tranquility, and simply serviceable to create a work of art.,Specifications of Ritco rsacf5 Faucet Set General Brand Ritco Suitable For Bathroom, Basin, Kitchen, Shower Installation Type Wall Mount Installation Type Model Number rsacf5 Material Brass Finish Chrome Color Silver Dimensions Weight 0.5 kg Height 4 inch Width 4 inch In the Box 1 Flench, 1 faucet",
+            "stock_level": 6889,
+            "price": 720,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "FSEEHAGGZGURCPNG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/faucet-set/p/n/g/rsacf5-ritco-1100x1100-imaegbxmcyzrrdvk.jpeg",
+                "filename": "rsacf5-ritco-1100x1100-imaegbxmcyzrrdvk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/faucet-set/p/n/g/rsacf5-ritco-original-imaegbxmcyzrrdvk.jpeg",
+                "filename": "rsacf5-ritco-original-imaegbxmcyzrrdvk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ritco"] },
+              {
+                "key": "Suitable For",
+                "values": ["Bathroom", "Basin", "Kitchen", "Shower"]
+              },
+              {
+                "key": "Installation Type",
+                "values": ["Wall Mount Installation Type"]
+              },
+              { "key": "Model Number", "values": ["rsacf5"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Finish", "values": ["Chrome"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Weight", "values": ["0.5 kg"] },
+              { "key": "Height", "values": ["4 inch"] },
+              { "key": "Width", "values": ["4 inch"] },
+              {
+                "key": "8e4e494d-709d-4af2-9933-c7565f1efd7c",
+                "values": ["1 Flench", "1 faucet"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "0ef2f68fcc8be35d639dea7e9bbfa84657721e74" }
+      },
+      "active": true,
+      "id": "e3e715582778d77f2353ee1aba51a2c0b89fe3b5"
+    },
+    {
+      "product": {
+        "id": "1560d2b906f04bbadd48e0f87a719a6d6e213d36",
+        "name": "Black & Decker SB3220 500 W Hand Blender",
+        "description": "Dummy description for product Black & Decker SB3220 500 W Hand Blender",
+        "manufacturer_id": "503ea78c2c3e82816864c43aafd2ba6277de022a",
+        "taric_code": "aa1ccacf-d178-4797-97cd-230f9734ca4a",
+        "variants": [
+          {
+            "id": "48fcbda4b3315e0d49e61eb92526c362",
+            "name": "Black & Decker SB3220 500 W Hand Blender (White)",
+            "description": "Specifications of Black & Decker SB3220 500 W Hand Blender (White) In The Box Sales Package Hand Blender, Chopper, Whisker , user manual General Brand Black & Decker Model SB3220 Type Hand Blender Color White Power Power Input 220-240 V Power Consumption 500 W Cord length 10 m Frequency 50-60 Hz Warranty Covered In Warranty Labour & Parts Warranty Summary 2 Years Black & Decker warranty Service Type On site service Not Covered In Warranty Breakage General Features Blade Material stainless steel",
+            "stock_level": 1687,
+            "price": 3490,
+            "sale": false,
+            "sale_price": 3490,
+            "stock_keeping_unit": "HBLEGH7H48GDRZQP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/hand-blender/z/q/p/black-decker-sb3220-1100x1100-imaege3frsfy5hmb.jpeg",
+                "filename": "black-decker-sb3220-1100x1100-imaege3frsfy5hmb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/hand-blender/z/q/p/black-decker-sb3220-original-imaege3frsfy5hmb.jpeg",
+                "filename": "black-decker-sb3220-original-imaege3frsfy5hmb.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Sales Package",
+                "values": ["Hand Blender", "Chopper", "Whisker ", "user manual"]
+              },
+              { "key": "Brand", "values": ["Black and Decker"] },
+              { "key": "Model", "values": ["SB3220"] },
+              { "key": "Type", "values": ["Hand Blender"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Power Input", "values": ["220-240 V"] },
+              { "key": "Power Consumption", "values": ["500 W"] },
+              { "key": "Cord length", "values": ["10 m"] },
+              { "key": "Frequency", "values": ["50-60 Hz"] },
+              { "key": "Covered In Warranty", "values": ["Labour and Parts"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["2 Years Black and Decker warranty"]
+              },
+              { "key": "Service Type", "values": ["On site service"] },
+              { "key": "Not Covered In Warranty", "values": ["Breakage"] },
+              { "key": "Blade Material", "values": ["stainless steel"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "81f32c3416023fb5db858387d4371343210f67f4" }
+      },
+      "active": true,
+      "id": "1560d2b906f04bbadd48e0f87a719a6d6e213d36"
+    },
+    {
+      "product": {
+        "id": "9baf371cdd91070dbe37eefc9932bebb5dfad596",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Toyota Liva Sun Shade For Toyota Etios Liva",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Toyota Liva Sun Shade For Toyota Etios Liva",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "5d1b252e-7453-4a43-be35-f4bdb7348be4",
+        "variants": [
+          {
+            "id": "9fd725a44ba20e95b3e6e200c2ade32a",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Toyota Liva Sun Shade For Toyota Etios Liva Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Toyota Liva Sun Shade For Toyota Etios Liva (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Toyota Liva Sun Shade For Toyota Etios Liva (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Toyota Liva Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 5821,
+            "price": 459,
+            "sale": true,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGBFHW7FW2SD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Toyota Liva"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "9baf371cdd91070dbe37eefc9932bebb5dfad596"
+    },
+    {
+      "product": {
+        "id": "7bb46b82091adfd07a15592c21b246977a10f95d",
+        "name": "MIRICHI Printed Women's Polo Neck Red T-Shirt",
+        "description": "Dummy description for product MIRICHI Printed Women's Polo Neck Red T-Shirt",
+        "manufacturer_id": "aafc558e93e82de70dfbc1b50fb8ec0c390df1bb",
+        "taric_code": "0f4ba26a-3ba0-4dfd-bf43-be5495f28994",
+        "variants": [
+          {
+            "id": "60fa181d5dcbef1b313533b6871ef02e",
+            "name": "MIRICHI Printed Women's Polo Neck Red T-Shirt",
+            "description": "Key Features of MIRICHI Printed Women's Polo Neck Red T-Shirt Fit: SLIM FIT Suitable For: Western Wear Sleeve: Short Sleeve Fabric: 100% COTTON Color:Red,Specifications of MIRICHI Printed Women's Polo Neck Red T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100% COTTON Type Polo Neck Fit Slim General Details Pattern Printed Occasion Casual Ideal For Women's Additional Details Style Code RED T-SHIRT",
+            "stock_level": 6913,
+            "price": 499,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "TSHEGGDKSQHW3TB3",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/t/b/3/red-t-shirt-mirichi-m-original-imaeggask6fmyxyw.jpeg",
+                "filename": "red-t-shirt-mirichi-m-original-imaeggask6fmyxyw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/t/b/3/red-t-shirt-mirichi-m-original-imaeggask6fmyxyw.jpeg",
+                "filename": "red-t-shirt-mirichi-m-original-imaeggask6fmyxyw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/t/b/3/red-t-shirt-mirichi-m-original-imaeggatdj4bwv8h.jpeg",
+                "filename": "red-t-shirt-mirichi-m-original-imaeggatdj4bwv8h.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/t/b/3/red-t-shirt-mirichi-m-original-imaeggatmqeuutqh.jpeg",
+                "filename": "red-t-shirt-mirichi-m-original-imaeggatmqeuutqh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/t/b/3/red-t-shirt-mirichi-m-original-imaeggaujzdhwcq7.jpeg",
+                "filename": "red-t-shirt-mirichi-m-original-imaeggaujzdhwcq7.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100% COTTON"] },
+              { "key": "Type", "values": ["Polo Neck"] },
+              { "key": "Fit", "values": ["Slim"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Style Code", "values": ["RED T-SHIRT"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "11e9a1e0357056c378d042572da34b69c5506ad1" }
+      },
+      "active": true,
+      "id": "7bb46b82091adfd07a15592c21b246977a10f95d"
+    },
+    {
+      "product": {
+        "id": "353ba23340a9cd81c41af406760137293926f803",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Volkswagen Polo type 2 Sun Shade For Volkswagen Polo",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Volkswagen Polo type 2 Sun Shade For Volkswagen Polo",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "02380759-87e0-48af-a024-3e5b336301bb",
+        "variants": [
+          {
+            "id": "b8ce6288385a47b4d8d8424479970a57",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Volkswagen Polo type 2 Sun Shade For Volkswagen Polo Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Volkswagen Polo type 2 Sun Shade For Volkswagen Polo (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Volkswagen Polo type 2 Sun Shade For Volkswagen Polo (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Volkswagen Polo type 2 Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 9235,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGB3JXAEBFYW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Volkswagen Polo type 2"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": false,
+      "id": "353ba23340a9cd81c41af406760137293926f803"
+    },
+    {
+      "product": {
+        "id": "8a8e9caec91fb9a217e5b757b565a7c58340bf39",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Wagon-R type 2 Sun Shade For Maruti WagonR",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Wagon-R type 2 Sun Shade For Maruti WagonR",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "5a96e6f5-ed85-41c9-9a4b-91940361c51c",
+        "variants": [
+          {
+            "id": "75ebf2806dfeedc74fb4f07a7cf96019",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Wagon-R type 2 Sun Shade For Maruti WagonR Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Wagon-R type 2 Sun Shade For Maruti WagonR (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Wagon-R type 2 Sun Shade For Maruti WagonR (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Wagon-R type 2 Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 5294,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGATJKZYUZUP",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Wagon-R type 2"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "8a8e9caec91fb9a217e5b757b565a7c58340bf39"
+    },
+    {
+      "product": {
+        "id": "cf8e5c97833915815d953e4d2f5e8fff7c7b1204",
+        "name": "Babyoye Premium Baby Girl's Grey Leggings",
+        "description": "Dummy description for product Babyoye Premium Baby Girl's Grey Leggings",
+        "manufacturer_id": "b020df5b9ac9ac071ae3093c2652bf2d115f785d",
+        "taric_code": "8a6efa39-81bc-42f3-ab13-5395098d65c1",
+        "variants": [
+          {
+            "id": "25ce025c38c55f28fd0ea3bb0200df79",
+            "name": "Babyoye Premium Baby Girl's Grey Leggings",
+            "description": "Specifications of Babyoye Premium Baby Girl's Grey Leggings In The Box 1 Legging General Details Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Leggings Pattern Printed Occasion Casual Ideal For Baby Girl's",
+            "stock_level": 7330,
+            "price": 499,
+            "sale": false,
+            "sale_price": 474,
+            "stock_keeping_unit": "LJGEG6UPBW8GKPRD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/x/v/e/akfgtg1081757-babyoye-premium-18-24-months-1000x1000-imaeg5tmzhxdfuj2.jpeg",
+                "filename": "akfgtg1081757-babyoye-premium-18-24-months-1000x1000-imaeg5tmzhxdfuj2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/x/v/e/akfgtg1081757-babyoye-premium-18-24-months-original-imaeg5tmzhxdfuj2.jpeg",
+                "filename": "akfgtg1081757-babyoye-premium-18-24-months-original-imaeg5tmzhxdfuj2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/e/z/r/akfgtg1081757-babyoye-premium-2-3-years-original-imaeg5tmpbg3fzff.jpeg",
+                "filename": "akfgtg1081757-babyoye-premium-2-3-years-original-imaeg5tmpbg3fzff.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "0502144a-eee1-4aa8-8b81-ca5be4313d99",
+                "values": ["1 Legging"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Leggings"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Baby Girl's"] }
+            ]
+          },
+          {
+            "id": "3392bec18091e72079486752da9f9b34",
+            "name": "Babyoye Premium Baby Girl's Grey Leggings (Pack ...",
+            "description": "Key Features of Babyoye Premium Baby Girl's Grey Leggings Grey Leggings,Babyoye Premium Baby Girl's Grey Leggings (Pack of 2) Price: Rs. 519 The Babyoye Diaper Legging with Front Pocket is a great choice to dress up your little one for playtime or a stroll in the park. Made from soft fabric, these leggings ensure to keep him comfortable and happy all day long. Pair with a basic tee or jhabla to complete the look. Features: • Material: 100% cotton • Colour: White/grey • Pattern: 1-Solid, 1-Striped • Fit: Regular • Closure: Pullover • Comfortable elastic waistband • Kangaroo pockets at front • Pack of 2 Washing Instructions: • Machine wash cold • Tumble dry low • Iron on medium heat • Do not bleach • Do not dry clean,Specifications of Babyoye Premium Baby Girl's Grey Leggings (Pack of 2) In The Box 2 Leggings General Details Number of Contents in Sales Package Pack of 2 Fabric Cotton Type Leggings Pattern Striped Ideal For Baby Girl's Occasion Casual",
+            "stock_level": 9932,
+            "price": 649,
+            "sale": false,
+            "sale_price": 519,
+            "stock_keeping_unit": "LJGEG6UDW2EBZQQ2",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/6/s/d/aklblg1079170-babyoye-premium-18-24-months-1000x1000-imaeg5tmdhgycnzg.jpeg",
+                "filename": "aklblg1079170-babyoye-premium-18-24-months-1000x1000-imaeg5tmdhgycnzg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/6/s/d/aklblg1079170-babyoye-premium-18-24-months-original-imaeg5tmdhgycnzg.jpeg",
+                "filename": "aklblg1079170-babyoye-premium-18-24-months-original-imaeg5tmdhgycnzg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/q/g/x/aklblg1079170-babyoye-premium-18-24-months-original-imaeg5tmxngzwrhz.jpeg",
+                "filename": "aklblg1079170-babyoye-premium-18-24-months-original-imaeg5tmxngzwrhz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/u/p/p/aklblg1079170-babyoye-premium-6-9-months-original-imaeg5tmy2xzfedf.jpeg",
+                "filename": "aklblg1079170-babyoye-premium-6-9-months-original-imaeg5tmy2xzfedf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/u/p/p/aklblg1079170-babyoye-premium-6-9-months-original-imaeg5tmrsyqpf6j.jpeg",
+                "filename": "aklblg1079170-babyoye-premium-6-9-months-original-imaeg5tmrsyqpf6j.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/6/s/d/aklblg1079170-babyoye-premium-18-24-months-original-imaeg5tmwdb68nct.jpeg",
+                "filename": "aklblg1079170-babyoye-premium-18-24-months-original-imaeg5tmwdb68nct.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "d049886f-fa8e-42fb-ba1a-0da2a8243ec8",
+                "values": ["2 Leggings"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Leggings"] },
+              { "key": "Pattern", "values": ["Striped"] },
+              { "key": "Ideal For", "values": ["Baby Girl's"] },
+              { "key": "Occasion", "values": ["Casual"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "123c08ce722b5474c18e0d23004ee63c1355a0c3" }
+      },
+      "active": false,
+      "id": "cf8e5c97833915815d953e4d2f5e8fff7c7b1204"
+    },
+    {
+      "product": {
+        "id": "921e3b4bd64430683dbfc3c82707d24f1d1d1207",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Mahindra Bolero Sun Shade For Mahindra Bolero",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Mahindra Bolero Sun Shade For Mahindra Bolero",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "02be9790-1e7c-44b4-829b-50c041fbb10a",
+        "variants": [
+          {
+            "id": "7e3918ea2a20eea9a8aa81b1ecc4968b",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Mahindra Bolero Sun Shade For Mahindra Bolero Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Mahindra Bolero Sun Shade For Mahindra Bolero (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Mahindra Bolero Sun Shade For Mahindra Bolero (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Mahindra Bolero Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 5837,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGB52W7HYS9U",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Mahindra Bolero"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "921e3b4bd64430683dbfc3c82707d24f1d1d1207"
+    },
+    {
+      "product": {
+        "id": "5ea39ba29914bad42d35e8744af19d397946e39d",
+        "name": "Furnishing Zone Printed Back Cushion",
+        "description": "Dummy description for product Furnishing Zone Printed Back Cushion",
+        "manufacturer_id": "e750e7ccd4d099e228617c6cf66173363ac534d6",
+        "taric_code": "96f0e0e8-41a0-4579-9430-86bd9bd5ba33",
+        "variants": [
+          {
+            "id": "62a1044ba64031b9e40f98a4fb890d9d",
+            "name": "Furnishing Zone Printed Back Cushion (Pack of2, ...",
+            "description": "Key Features of Furnishing Zone Printed Back Cushion Attractive Colours Fiber Filled Great As Decorative Economy Range Machine Washable,Furnishing Zone Printed Back Cushion (Pack of2, Gold) Price: Rs. 295 Soft Fur Cushion For Your Loved Ones (14inch),Beautifully Crafted,Decorative,Washable,Gift Item,Specifications of Furnishing Zone Printed Back Cushion (Pack of2, Gold) General External Material Polyester Velvet Pillow Cover Material Polyester Velvet Brand Furnishing Zone Pillow Cover Design Two Sided Designed Fabric Sweat Absorbent Yes Type Back Cushion Model Name TTFUR-01 Filling Material Microfibre Hand Washable Yes Model ID TT-03 Pillow Design Rectangle Color Gold Dimensions Weight 435 g Length 35.56 cm Width 35.56 cm Depth 10.16 cm In the Box Number of Contents in Sales Package 2 Sales Package 2 Cushions",
+            "stock_level": 2281,
+            "price": 999,
+            "sale": false,
+            "sale_price": 295,
+            "stock_keeping_unit": "PLWEBNRH3G6NA7MY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pillow/7/m/y/tt-03-furnishing-zone-ttfur-01-1100x1100-imaebzzdh3kusdzz.jpeg",
+                "filename": "tt-03-furnishing-zone-ttfur-01-1100x1100-imaebzzdh3kusdzz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pillow/7/m/y/tt-03-furnishing-zone-ttfur-01-original-imaebzzdh3kusdzz.jpeg",
+                "filename": "tt-03-furnishing-zone-ttfur-01-original-imaebzzdh3kusdzz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "External Material", "values": ["Polyester Velvet"] },
+              {
+                "key": "Pillow Cover Material",
+                "values": ["Polyester Velvet"]
+              },
+              { "key": "Brand", "values": ["Furnishing Zone"] },
+              {
+                "key": "Pillow Cover Design",
+                "values": ["Two Sided Designed Fabric"]
+              },
+              { "key": "Sweat Absorbent", "values": ["Yes"] },
+              { "key": "Type", "values": ["Back Cushion"] },
+              { "key": "Model Name", "values": ["TTFUR-01"] },
+              { "key": "Filling Material", "values": ["Microfibre"] },
+              { "key": "Hand Washable", "values": ["Yes"] },
+              { "key": "Model ID", "values": ["TT-03"] },
+              { "key": "Pillow Design", "values": ["Rectangle"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["435 g"] },
+              { "key": "Length", "values": ["35.56 cm"] },
+              { "key": "Width", "values": ["35.56 cm"] },
+              { "key": "Depth", "values": ["10.16 cm"] },
+              { "key": "Number of Contents in Sales Package", "values": ["2"] },
+              { "key": "Sales Package", "values": ["2 Cushions"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "76085011bd1a55ca1f07297d0a7b6a02cf57f7f8" }
+      },
+      "active": true,
+      "id": "5ea39ba29914bad42d35e8744af19d397946e39d"
+    },
+    {
+      "product": {
+        "id": "2ec4b917e9eca3db08ccfda22b9be32f63e33822",
+        "name": "Babyoye Premium Baby Girl's Multicolor Leggings",
+        "description": "Dummy description for product Babyoye Premium Baby Girl's Multicolor Leggings",
+        "manufacturer_id": "b020df5b9ac9ac071ae3093c2652bf2d115f785d",
+        "taric_code": "7231c920-f514-4926-b148-5e5215a67916",
+        "variants": [
+          {
+            "id": "9ec6285cc619688d787d641cb87c10d6",
+            "name": "Babyoye Premium Baby Girl's Multicolor Leggings ...",
+            "description": "Key Features of Babyoye Premium Baby Girl's Multicolor Leggings Multicolor Leggings,Babyoye Premium Baby Girl's Multicolor Leggings (Pack of 2) Price: Rs. 569 The Babyoye Leggings With Lace Bottom are a great choice to dress up your little one for playtime or a stroll in the park. Made from soft fabric, these leggings ensure to keep her comfortable and happy all day long. Pair with a basic tee or jhabla to complete the look. Features: • Material: 100% cotton • Colour: Light yellow/blue • Pattern: Solid • Fit: Regular • Closure: Pullover • Comfortable elastic waistband • Cute lace details at the hem • Pack of 2 Washing Instructions: • Machine wash cold • Tumble dry low • Iron on medium heat • Do not bleach • Do not dry clean,Specifications of Babyoye Premium Baby Girl's Multicolor Leggings (Pack of 2) In The Box 2 Leggings General Details Number of Contents in Sales Package Pack of 2 Fabric Cotton Type Leggings Pattern Solid Occasion Casual Ideal For Baby Girl's",
+            "stock_level": 4355,
+            "price": 599,
+            "sale": false,
+            "sale_price": 569,
+            "stock_keeping_unit": "LJGEG6UCZNNQEGW2",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/e/c/w/aklglg1079184-babyoye-premium-2-3-years-1000x1000-imaeg5tmsucs79ye.jpeg",
+                "filename": "aklglg1079184-babyoye-premium-2-3-years-1000x1000-imaeg5tmsucs79ye.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/e/c/w/aklglg1079184-babyoye-premium-2-3-years-original-imaeg5tmsucs79ye.jpeg",
+                "filename": "aklglg1079184-babyoye-premium-2-3-years-original-imaeg5tmsucs79ye.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/w/d/b/aklglg1079184-babyoye-premium-6-9-months-original-imaeg5tm7tg5fqwz.jpeg",
+                "filename": "aklglg1079184-babyoye-premium-6-9-months-original-imaeg5tm7tg5fqwz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/r/e/b/aklglg1079184-babyoye-premium-3-6-months-original-imaeg5tm7hyh4mrb.jpeg",
+                "filename": "aklglg1079184-babyoye-premium-3-6-months-original-imaeg5tm7hyh4mrb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/e/c/w/aklglg1079184-babyoye-premium-2-3-years-original-imaeg5tmrxcd2ezn.jpeg",
+                "filename": "aklglg1079184-babyoye-premium-2-3-years-original-imaeg5tmrxcd2ezn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/z/u/q/aklglg1079184-babyoye-premium-18-24-months-original-imaeg5tmhy4fcn3j.jpeg",
+                "filename": "aklglg1079184-babyoye-premium-18-24-months-original-imaeg5tmhy4fcn3j.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "aed97392-8805-42a7-883b-775ef4dce0df",
+                "values": ["2 Leggings"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Leggings"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Baby Girl's"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "123c08ce722b5474c18e0d23004ee63c1355a0c3" }
+      },
+      "active": true,
+      "id": "2ec4b917e9eca3db08ccfda22b9be32f63e33822"
+    },
+    {
+      "product": {
+        "id": "48f5082b14a111b30595df6d7d5cb2b285c2d47e",
+        "name": "Arcley ARC INSPIRE CROP Nylon, Polyester Yoga Strap",
+        "description": "Dummy description for product Arcley ARC INSPIRE CROP Nylon, Polyester Yoga Strap",
+        "manufacturer_id": "426a00bab1bc40d56ca395c8414f02c51c420005",
+        "taric_code": "b8dc5076-64a4-42fd-add5-0c33ce34c704",
+        "variants": [
+          {
+            "id": "31af3e525a28eda1a755728129812d41",
+            "name": "Arcley ARC INSPIRE CROP Nylon, Polyester Yoga St...",
+            "description": "Key Features of Arcley ARC INSPIRE CROP Nylon, Polyester Yoga Strap Arc Dry process applied to this gear transports moisture from your skin to the surface of gear to keep you light and dry Odor-free process applied to fabric prevents development of odor causing microbes and adds value to wearer UPF 30+ protection applied to this gear protects your skin from the Sun’s harmful ultraviolet (UV) rays Pocket on front waistband, opening upwards, to carry cellphone or storage without shagging it when you expect exactly the same Solid waistband offers strength and support to waist without a need of elastic and draw cord on waist Silver reflective logo on front right leg to keep wearer visible in low light conditions Flat lock seams to offer good grip on fabric and is value addition for durability Fit: Fitted (fitted gear to compliment your body) 88% Nylon, 12% Spandex for blue body fabric and 92% Polyester, 8% Spandex for black panel 18\" Inseam Proudly made in India,Arcley ARC INSPIRE CROP Nylon, Polyester Yoga Strap (Blue, Black) Price: Rs. 1,687 This Crop is designed to fulfil your all day needs of yoga, indoor and outdoor workout, and usual day wears even for happy hours. Comes in our Arc Style Gear is a sporty gear that you need most all year round for your routine wear needs.,Specifications of Arcley ARC INSPIRE CROP Nylon, Polyester Yoga Strap (Blue, Black) General Brand Arcley Model Number ARC INSPIRE CROP Length 2 cm Material Nylon, Polyester Color Blue, Black In the box Pack of 1 Dimensions Width 28 cm",
+            "stock_level": 5133,
+            "price": 1687,
+            "sale": false,
+            "sale_price": 1687,
+            "stock_keeping_unit": "YSPEGGA5JKZFHP97",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/yoga-strap/p/9/7/arc-inspire-crop-2-arcley-original-imaegg5bqs7xncz9.jpeg",
+                "filename": "arc-inspire-crop-2-arcley-original-imaegg5bqs7xncz9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/yoga-strap/p/9/7/arc-inspire-crop-2-arcley-original-imaegg5cnryvvesh.jpeg",
+                "filename": "arc-inspire-crop-2-arcley-original-imaegg5cnryvvesh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/yoga-strap/p/9/7/arc-inspire-crop-2-arcley-original-imaegg5dbadnszwa.jpeg",
+                "filename": "arc-inspire-crop-2-arcley-original-imaegg5dbadnszwa.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/yoga-strap/p/9/7/arc-inspire-crop-2-arcley-original-imaegg5efsffjdns.jpeg",
+                "filename": "arc-inspire-crop-2-arcley-original-imaegg5efsffjdns.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/yoga-strap/p/9/7/arc-inspire-crop-2-arcley-original-imaegg5eu3vantyq.jpeg",
+                "filename": "arc-inspire-crop-2-arcley-original-imaegg5eu3vantyq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Arcley"] },
+              { "key": "Model Number", "values": ["ARC INSPIRE CROP"] },
+              { "key": "Length", "values": ["2 cm"] },
+              { "key": "Material", "values": ["Nylon", "Polyester"] },
+              { "key": "Color", "values": ["Blue", "Black"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Width", "values": ["28 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6050e7c73299b677cb1ad11eb7a761e6e6c8ecdb" }
+      },
+      "active": true,
+      "id": "48f5082b14a111b30595df6d7d5cb2b285c2d47e"
+    },
+    {
+      "product": {
+        "id": "e0f76f42c3b896729818c6253d7d81d5545f4ae7",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Skoda Rapid Sun Shade For Skoda Rapid",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Skoda Rapid Sun Shade For Skoda Rapid",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "5ac736f4-bb52-4705-8ab4-df8ee9d9786e",
+        "variants": [
+          {
+            "id": "123a1dfd7b17f19c385e37db3ee7e21d",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Skoda Rapid Sun Shade For Skoda Rapid Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Skoda Rapid Sun Shade For Skoda Rapid (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Skoda Rapid Sun Shade For Skoda Rapid (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Skoda Rapid Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 4159,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGB2FP67XG6K",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Skoda Rapid"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "e0f76f42c3b896729818c6253d7d81d5545f4ae7"
+    },
+    {
+      "product": {
+        "id": "7c45bed11b3a4f5df6c5baa429f7b38623a949f1",
+        "name": "NESTWELL HAND BLENDER EGG,LASSI,BUTTER,MILK,JUICE LIQUIDIZING 0 W Hand Blender",
+        "description": "Dummy description for product NESTWELL HAND BLENDER EGG,LASSI,BUTTER,MILK,JUICE LIQUIDIZING 0 W Hand Blender",
+        "manufacturer_id": "fe0bea479b13d08f3aa76122aa2ea44e2303d738",
+        "taric_code": "284dd477-aa77-40b0-a862-27d36100341e",
+        "variants": [
+          {
+            "id": "7368f5698c59c739bf851e29db621af3",
+            "name": "NESTWELL HAND BLENDER EGG,LASSI,BUTTER,MILK,JUIC...",
+            "description": "Key Features of NESTWELL HAND BLENDER EGG,LASSI,BUTTER,MILK,JUICE LIQUIDIZING 0 W Hand Blender 100% ORIGIANL NESTWELL,NESTWELL HAND BLENDER EGG,LASSI,BUTTER,MILK,JUICE LIQUIDIZING 0 W Hand Blender (Blue) Price: Rs. 145 WE ARE AUTHORIZE DEALER OF NESTWELL PRODUCT 100% ORIGINAL GENUINE PRODUCT BEST QUALITY MATERIAL GUARANTEED MADE IN INDIA Nestwell Stainless Steel Hand Blender/Beater Mixer Use for Beater :Beating (Cream,Eggs,etc),Liquidizing(Tomato Soup, Dal etc),Churring(Milk Shake,Lassi Butter Milk etc.) Smoothly rotating gears are enclosed for protection and easy clean-up Non-slip grips on turning knob and contoured handle Non electrical, Handy and easy to operate Sturdy stainless steel Beaters can be removed easily for cleaning Beaters are elevated and continue to work while device rests on bottom of bowl Perfect for eggs, light batters, whipped cream and more Base detaches from top and is dishwasher safe. Product Detail Material : Plastic + Stainless Steel Blades Size : 30 cm x 9 cm.,Specifications of NESTWELL HAND BLENDER EGG,LASSI,BUTTER,MILK,JUICE LIQUIDIZING 0 W Hand Blender (Blue) In The Box Sales Package Hand blender General Brand NESTWELL Model HAND BLENDER EGG,LASSI,BUTTER,MILK,JUICE LIQUIDIZING Type Hand Blender Color Blue Power Power Input 0 V Power Consumption 0 W Warranty Covered In Warranty N/A Service Type N/A Warranty Summary N/A Not Covered In Warranty N/A General Features Blade Material STAINLESS STEEL",
+            "stock_level": 9755,
+            "price": 399,
+            "sale": false,
+            "sale_price": 145,
+            "stock_keeping_unit": "HBLEGGM6MMQMZWK8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/hand-blender/w/k/8/nestwell-hand-blender-hand-blender-egg-lassi-butter-milk-juice-1100x1100-imaeggenxh3grhyt.jpeg",
+                "filename": "nestwell-hand-blender-hand-blender-egg-lassi-butter-milk-juice-1100x1100-imaeggenxh3grhyt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hand-blender/w/k/8/nestwell-hand-blender-hand-blender-egg-lassi-butter-milk-juice-original-imaeggenxh3grhyt.jpeg",
+                "filename": "nestwell-hand-blender-hand-blender-egg-lassi-butter-milk-juice-original-imaeggenxh3grhyt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hand-blender/w/k/8/nestwell-hand-blender-hand-blender-egg-lassi-butter-milk-juice-original-imaeggenzhd3yt9j.jpeg",
+                "filename": "nestwell-hand-blender-hand-blender-egg-lassi-butter-milk-juice-original-imaeggenzhd3yt9j.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["Hand blender"] },
+              { "key": "Brand", "values": ["NESTWELL"] },
+              {
+                "key": "Model",
+                "values": [
+                  "HAND BLENDER EGG,LASSI,BUTTER,MILK,JUICE LIQUIDIZING"
+                ]
+              },
+              { "key": "Type", "values": ["Hand Blender"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Power Input", "values": ["0 V"] },
+              { "key": "Power Consumption", "values": ["0 W"] },
+              { "key": "Covered In Warranty", "values": ["N/A"] },
+              { "key": "Service Type", "values": ["N/A"] },
+              { "key": "Warranty Summary", "values": ["N/A"] },
+              { "key": "Not Covered In Warranty", "values": ["N/A"] },
+              { "key": "Blade Material", "values": ["STAINLESS STEEL"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "473310e96627e7772f51745fb7444f0c07b2048e" }
+      },
+      "active": false,
+      "id": "7c45bed11b3a4f5df6c5baa429f7b38623a949f1"
+    },
+    {
+      "product": {
+        "id": "4ad9c892498dd9fb6e9ff95ff1f10bdcce6e34d8",
+        "name": "Naughty Ninos Girl's Multicolor Romper",
+        "description": "Dummy description for product Naughty Ninos Girl's Multicolor Romper",
+        "manufacturer_id": "fc7818ba84ed2f1569d5d2f0dfc4b367ea3a63cf",
+        "taric_code": "3776ab57-061f-4362-86b2-9061257ca26c",
+        "variants": [
+          {
+            "id": "83a9c4e78ed9501c74af251374f74017",
+            "name": "Naughty Ninos Girl's Multicolor Romper",
+            "description": "Key Features of Naughty Ninos Girl's Multicolor Romper Fabric: Cotton Brand Color: Multi,Naughty Ninos Girl's Multicolor Romper Price: Rs. 899 Naughty Ninos presents this multicoloured Romper, which will make your little one look absolutely trendy and cool. Made of cotton, this jumpsuit for girls are quite comfortable to wear. Featuring regular fit, this jumpsuit are ideal to be worn in summers.,Specifications of Naughty Ninos Girl's Multicolor Romper Top Details Fabric Cotton Type Romper General Details Pattern Printed Ideal For Girl's Fabric Care Wash with Similar Colors, Use Detergent for Colors",
+            "stock_level": 6524,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "DRPEFT39HDTW8EPJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/dungaree-romper/e/9/y/nn00127drs-naughty-ninos-10-11-years-original-imaefsrgb7xaysze.jpeg",
+                "filename": "nn00127drs-naughty-ninos-10-11-years-original-imaefsrgb7xaysze.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/e/9/y/nn00127drs-naughty-ninos-10-11-years-original-imaefsrgb7xaysze.jpeg",
+                "filename": "nn00127drs-naughty-ninos-10-11-years-original-imaefsrgb7xaysze.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/e/9/y/nn00127drs-naughty-ninos-11-12-years-original-imaefsrgumndfeey.jpeg",
+                "filename": "nn00127drs-naughty-ninos-11-12-years-original-imaefsrgumndfeey.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/e/9/y/nn00127drs-naughty-ninos-9-10-years-original-imaefsrgwmmmzmwy.jpeg",
+                "filename": "nn00127drs-naughty-ninos-9-10-years-original-imaefsrgwmmmzmwy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dungaree-romper/e/9/y/nn00127drs-naughty-ninos-10-11-years-original-imaefsrgqd8xhggr.jpeg",
+                "filename": "nn00127drs-naughty-ninos-10-11-years-original-imaefsrgqd8xhggr.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Romper"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Girl's"] },
+              {
+                "key": "2dd38998-2356-4539-8a90-9e8a7535eba6",
+                "values": [
+                  "Wash with Similar Colors",
+                  "Use Detergent for Colors"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "57e820dcdbdd3342879cb76221483de510e9f033" }
+      },
+      "active": true,
+      "id": "4ad9c892498dd9fb6e9ff95ff1f10bdcce6e34d8"
+    },
+    {
+      "product": {
+        "id": "689ae3e3c30422cd1cb9c317b58c1ac70d81a705",
+        "name": "GREENWICH Baby Girl's Black Jeggings",
+        "description": "Dummy description for product GREENWICH Baby Girl's Black Jeggings",
+        "manufacturer_id": "4f54a0a3419a35d3cf0969bc4e52b4e7e6bdded9",
+        "taric_code": "0051925d-eb1e-4243-924d-16ef400191b1",
+        "variants": [
+          {
+            "id": "87f256eeace1a0c2b1f934f061646da5",
+            "name": "GREENWICH Baby Girl's Black Jeggings",
+            "description": "Key Features of GREENWICH Baby Girl's Black Jeggings BLACK Jeggings,GREENWICH Baby Girl's Black Jeggings Price: Rs. 225 THIS IS PREMIUM OUALITY COTTON RICH GIRLS FULL JEGGINGS ,WE USE COTTON/POLYESTER/ELASTANE TO MAKE A FABRIC,AVAILABLE IN PREFERD COLOURS,STRECHED AND COMFORT,ITS DENIM FINISHED PRODUCT,Specifications of GREENWICH Baby Girl's Black Jeggings In The Box 1 JEGGING General Details Number of Contents in Sales Package Pack of 1 Fabric COTTON, POLYESTER, ELASTANE Type Jeggings Pattern Solid Ideal For Baby Girl's Occasion Casual Fabric Care Gentle Machine Wash in Lukewarm Water, Do Not Bleach Additional Details Other Features BIO WASHED PRODUCT",
+            "stock_level": 9535,
+            "price": 225,
+            "sale": false,
+            "sale_price": 225,
+            "stock_keeping_unit": "LJGEHB6FRGN73YZA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/j/h/w/gfj-fk-bla-cor-snow-greenwich-12-18-months-original-imaefrzadwt9k2wf.jpeg",
+                "filename": "gfj-fk-bla-cor-snow-greenwich-12-18-months-original-imaefrzadwt9k2wf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/legging-jegging/j/h/w/gfj-fk-bla-cor-snow-greenwich-12-18-months-original-imaefrzadwt9k2wf.jpeg",
+                "filename": "gfj-fk-bla-cor-snow-greenwich-12-18-months-original-imaefrzadwt9k2wf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/h/u/m/gfj-fk-bla-cor-greenwich-3-4-years-original-imaefrzcz9apc4by.jpeg",
+                "filename": "gfj-fk-bla-cor-greenwich-3-4-years-original-imaefrzcz9apc4by.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/legging-jegging/5/h/h/gfj-fk-navy-turq-bla-greenwich-12-18-months-original-imaefrze35qfjap3.jpeg",
+                "filename": "gfj-fk-navy-turq-bla-greenwich-12-18-months-original-imaefrze35qfjap3.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "59fbe8c4-cf4d-4242-9882-b28711a4b52d",
+                "values": ["1 JEGGING"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              {
+                "key": "Fabric",
+                "values": ["COTTON", "POLYESTER", "ELASTANE"]
+              },
+              { "key": "Type", "values": ["Jeggings"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Baby Girl's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "49e2bb38-e823-48df-bed7-3fb3c58af95a",
+                "values": [
+                  "Gentle Machine Wash in Lukewarm Water",
+                  "Do Not Bleach"
+                ]
+              },
+              { "key": "Other Features", "values": ["BIO WASHED PRODUCT"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "01d0f0a10a70d81ebb71feb63b535b7b6e4ee46e" }
+      },
+      "active": true,
+      "id": "689ae3e3c30422cd1cb9c317b58c1ac70d81a705"
+    },
+    {
+      "product": {
+        "id": "4e102fe7334c322d88a385c714503aaece9571e1",
+        "name": "Foot Candy Women Flats",
+        "description": "Dummy description for product Foot Candy Women Flats",
+        "manufacturer_id": "622dd3945be8f09b71d3b75f70b6c12166faf05e",
+        "taric_code": "c62bfbf9-dc29-4cda-802e-e9db30a62b7b",
+        "variants": [
+          {
+            "id": "dd39440cc9b27a12328d7c378f1ab9b1",
+            "name": "Foot Candy Women Flats",
+            "description": "Key Features of Foot Candy Women Flats Occasion: Party Material: Artificial Leather Color: Beige Heel Height: 0,Foot Candy Women Flats Price: Rs. 1,399 Make a classy impression with this pair of casuals which have been crafted for daily use. Made from high quality durable material the design is such that its easy to slip-on. The sole is offers great grip. These casuals will be your perfect companion with Jeans or any indian/western dress and suit all occasions.,Specifications of Foot Candy Women Flats General Occasion Party Ideal For Women Sandal Details Sole Material TPR Type Flats Heel Height 0 inch Outer Material Artificial Leather Color Beige",
+            "stock_level": 3728,
+            "price": 1999,
+            "sale": false,
+            "sale_price": 1399,
+            "stock_keeping_unit": "SNDEGGTVV3QBHMR2",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/d/j/a/beige-d01671-1-foot-candy-41-original-imaeggmaydh698cs.jpeg",
+                "filename": "beige-d01671-1-foot-candy-41-original-imaeggmaydh698cs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/d/j/a/beige-d01671-1-foot-candy-41-original-imaeggmaydh698cs.jpeg",
+                "filename": "beige-d01671-1-foot-candy-41-original-imaeggmaydh698cs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/d/j/a/beige-d01671-1-foot-candy-39-original-imaeggmaff6vk8hg.jpeg",
+                "filename": "beige-d01671-1-foot-candy-39-original-imaeggmaff6vk8hg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/d/j/a/beige-d01671-1-foot-candy-40-original-imaeggmakaz8yuz9.jpeg",
+                "filename": "beige-d01671-1-foot-candy-40-original-imaeggmakaz8yuz9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/d/j/a/beige-d01671-1-foot-candy-39-original-imaeggmaxfwrtbbz.jpeg",
+                "filename": "beige-d01671-1-foot-candy-39-original-imaeggmaxfwrtbbz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/d/j/a/beige-d01671-1-foot-candy-40-original-imaeggma8jmhnuqs.jpeg",
+                "filename": "beige-d01671-1-foot-candy-40-original-imaeggma8jmhnuqs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Occasion", "values": ["Party"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Sole Material", "values": ["TPR"] },
+              { "key": "Type", "values": ["Flats"] },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              { "key": "Outer Material", "values": ["Artificial Leather"] },
+              { "key": "Color", "values": ["Beige"] }
+            ]
+          },
+          {
+            "id": "8139b0b594a69a50eb80c4a44bce4e55",
+            "name": "Foot Candy Women Flats",
+            "description": "Key Features of Foot Candy Women Flats Occasion: Casual Material: Leather Color: Black Heel Height: 2,Foot Candy Women Flats Price: Rs. 1,499 Make a classy impression with this pair of casuals which have been crafted for daily use. Made from high quality durable material the design is such that its easy to slip-on. The sole is offers great grip. These casuals will be your perfect companion with Jeans or any indian/western dress and suit all occasions.,Specifications of Foot Candy Women Flats General Occasion Casual Ideal For Women Sandal Details Sole Material Rubber Type Flats Heel Height 2 inch Outer Material Leather Color Black",
+            "stock_level": 7520,
+            "price": 2199,
+            "sale": false,
+            "sale_price": 1499,
+            "stock_keeping_unit": "SNDEGGTVUJZ9HB2M",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/p/g/7/black-d012ab299-5-foot-candy-40-original-imaeggmahfjugear.jpeg",
+                "filename": "black-d012ab299-5-foot-candy-40-original-imaeggmahfjugear.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/p/g/7/black-d012ab299-5-foot-candy-40-original-imaeggmahfjugear.jpeg",
+                "filename": "black-d012ab299-5-foot-candy-40-original-imaeggmahfjugear.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/p/g/7/black-d012ab299-5-foot-candy-41-original-imaeggmampf5cuyw.jpeg",
+                "filename": "black-d012ab299-5-foot-candy-41-original-imaeggmampf5cuyw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/p/g/7/black-d012ab299-5-foot-candy-38-original-imaeggmaztzyyhvd.jpeg",
+                "filename": "black-d012ab299-5-foot-candy-38-original-imaeggmaztzyyhvd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sandal/p/g/7/black-d012ab299-5-foot-candy-40-original-imaeggma6d3n4782.jpeg",
+                "filename": "black-d012ab299-5-foot-candy-40-original-imaeggma6d3n4782.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sandal/p/g/7/black-d012ab299-5-foot-candy-38-original-imaeggmakahx8gmu.jpeg",
+                "filename": "black-d012ab299-5-foot-candy-38-original-imaeggmakahx8gmu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Sole Material", "values": ["Rubber"] },
+              { "key": "Type", "values": ["Flats"] },
+              { "key": "Heel Height", "values": ["2 inch"] },
+              { "key": "Outer Material", "values": ["Leather"] },
+              { "key": "Color", "values": ["Black"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "884cdd10c5e77286ed10221c55eaa6b2816a91ef" }
+      },
+      "active": false,
+      "id": "4e102fe7334c322d88a385c714503aaece9571e1"
+    },
+    {
+      "product": {
+        "id": "7d9828ab5c414ea7782a4be74e50983d65bd8820",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda city type 3 Sun Shade For Honda City",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda city type 3 Sun Shade For Honda City",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "80f07545-f101-4712-8684-3c1e075e5f78",
+        "variants": [
+          {
+            "id": "aa5fae0a2616918610dc3a9a0280ba3b",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda city type 3 Sun Shade For Honda City Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda city type 3 Sun Shade For Honda City (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda city type 3 Sun Shade For Honda City (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda city type 3 Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 1400,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGB4ES3XZCKP",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Honda city type 3"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": false,
+      "id": "7d9828ab5c414ea7782a4be74e50983d65bd8820"
+    },
+    {
+      "product": {
+        "id": "9784c6f4713c757ab2ceb0d979a769e95d8c6378",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Ciaz Sun Shade For Maruti Ciaz",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Ciaz Sun Shade For Maruti Ciaz",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "c7064018-5e96-4fd2-9496-694c20d5e2d8",
+        "variants": [
+          {
+            "id": "b3d210be4772994daa3d3a703b271979",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Ciaz Sun Shade For Maruti Ciaz Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Ciaz Sun Shade For Maruti Ciaz (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Ciaz Sun Shade For Maruti Ciaz (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Ciaz Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 747,
+            "price": 459,
+            "sale": true,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGAUR7EGNEQ6",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Maruti Ciaz"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "9784c6f4713c757ab2ceb0d979a769e95d8c6378"
+    },
+    {
+      "product": {
+        "id": "d816ac0c3f29f08c90d4875d1277c420bce09d7c",
+        "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Tata Indica eV2 Sun Shade For Tata Indica",
+        "description": "Dummy description for product AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Tata Indica eV2 Sun Shade For Tata Indica",
+        "manufacturer_id": "3f65826752e4844e11f2352da24dac2dc3c36091",
+        "taric_code": "83a650e6-263e-4aa3-a620-54f586211fc8",
+        "variants": [
+          {
+            "id": "6a10485f37a6798b81369d6dc87dd631",
+            "name": "AdroitZ Exclusive Barbie Doll Sunshade / curtain...",
+            "description": "Key Features of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Tata Indica eV2 Sun Shade For Tata Indica Easy to install and remove Highly Durable Simple to Use Makes car AC system to be more effective,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Tata Indica eV2 Sun Shade For Tata Indica (Side Window) Price: Rs. 199 AdroitZ presents to you Birbie doll sunshade Protects from scorching sunrays and to protect your privacy from peeping tom and also to keep your Car interior Cool, The shades are such a perfect fit. They perform perfectly, giving you protection from the sun. These sunshades create a mesh layer to stops the heat,allowing the car aircondition system to be more effective. Block uv rays. keeps car cool. easy to install and remove. highly durable. Note this is a universal product .kindly check Your specification before ordering.,Specifications of AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) for Tata Indica eV2 Sun Shade For Tata Indica (Side Window) General Brand AdroitZ Attachment Mechanism Suction Cup Model Number Exclusive Barbie Doll Sunshade / curtain (set of 2) for Tata Indica eV2 Placement Position Side Window Color Multicolor Dimensions Weight 120 g Height 20 cm Width 25 cm Depth 1 cm In the Box Sales Package 2 Sun Shade Pack of 2",
+            "stock_level": 576,
+            "price": 459,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SUDEGGATDVCMWGGH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-1100x1100-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yzhm2fkuz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yhqjqwkbn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78yh7txft6g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sun-shade/b/m/d/exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg",
+                "filename": "exclusive-barbie-doll-sunshade-curtain-set-of-2-for-hyundai-i20-original-imaeg78ye7bbnhtg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["AdroitZ"] },
+              { "key": "Attachment Mechanism", "values": ["Suction Cup"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "Exclusive Barbie Doll Sunshade / curtain (set of 2) for Tata Indica eV2"
+                ]
+              },
+              { "key": "Placement Position", "values": ["Side Window"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["120 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["25 cm"] },
+              { "key": "Depth", "values": ["1 cm"] },
+              { "key": "Sales Package", "values": ["2 Sun Shade"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1e78691a5fe06ebc21a48bf378f4c3a6f8552d1a" }
+      },
+      "active": true,
+      "id": "d816ac0c3f29f08c90d4875d1277c420bce09d7c"
+    },
+    {
+      "product": {
+        "id": "cb117cbfc13e0b28485037cbb917009615119088",
+        "name": "Decore Sources Assorted Artificial Plant  with Pot",
+        "description": "Dummy description for product Decore Sources Assorted Artificial Plant  with Pot",
+        "manufacturer_id": "662a0feb4b26fb4454d345d35e676ccf54229ac9",
+        "taric_code": "dae98e71-b3a9-4371-be8e-c5a0d3fe9159",
+        "variants": [
+          {
+            "id": "c234240e96d0fda6d1fd44573c83afdf",
+            "name": "Decore Sources Assorted Artificial Plant  with P...",
+            "description": "Specifications of Decore Sources Assorted Artificial Plant  with Pot (21.5 cm, Pink) In the Box Sales Package 1 Plant, 1 Pot General Brand Decore Sources Model Number DS25B Color Pink Type Assorted Bonsai No Pot Features Pot Included Yes Dimensions Total Height 21.5 cm",
+            "stock_level": 2079,
+            "price": 1150,
+            "sale": false,
+            "sale_price": 515,
+            "stock_keeping_unit": "ARPEEMCAMGADRCGQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/c/g/q/ds25b-decore-sources-original-imaeehntutguzspr.jpeg",
+                "filename": "ds25b-decore-sources-original-imaeehntutguzspr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/c/g/q/ds25b-decore-sources-original-imaeehnu3wg3z36z.jpeg",
+                "filename": "ds25b-decore-sources-original-imaeehnu3wg3z36z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1 Plant", "1 Pot"] },
+              { "key": "Brand", "values": ["Decore Sources"] },
+              { "key": "Model Number", "values": ["DS25B"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Type", "values": ["Assorted"] },
+              { "key": "Bonsai", "values": ["No"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Total Height", "values": ["21.5 cm"] }
+            ]
+          },
+          {
+            "id": "2d2b9382f23fcb2e47875c3cada8de87",
+            "name": "Decore Sources Assorted Artificial Plant  with P...",
+            "description": "Specifications of Decore Sources Assorted Artificial Plant  with Pot (23 cm, Multicolor) In the Box Sales Package 1Pot, 1Plant General Brand Decore Sources Model Number DS34C Color Multicolor Type Assorted Bonsai No Pot Features Pot Included Yes Dimensions Total Height 23 cm",
+            "stock_level": 5405,
+            "price": 1200,
+            "sale": true,
+            "sale_price": 540,
+            "stock_keeping_unit": "ARPEETMFEHACKNA9",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/n/a/9/ds34c-decore-sources-original-imaeetd5zpewvwnv.jpeg",
+                "filename": "ds34c-decore-sources-original-imaeetd5zpewvwnv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/n/a/9/ds34c-decore-sources-original-imaeetd5zpewvwnv.jpeg",
+                "filename": "ds34c-decore-sources-original-imaeetd5zpewvwnv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/n/a/9/ds34c-decore-sources-original-imaeetd5pgqvggkm.jpeg",
+                "filename": "ds34c-decore-sources-original-imaeetd5pgqvggkm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1Pot", "1Plant"] },
+              { "key": "Brand", "values": ["Decore Sources"] },
+              { "key": "Model Number", "values": ["DS34C"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Type", "values": ["Assorted"] },
+              { "key": "Bonsai", "values": ["No"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Total Height", "values": ["23 cm"] }
+            ]
+          },
+          {
+            "id": "c8388e72498815fcd4772115ea9deecd",
+            "name": "Decore Sources Assorted Artificial Plant  with P...",
+            "description": "Specifications of Decore Sources Assorted Artificial Plant  with Pot (17.5 cm, Multicolor) In the Box Sales Package 1Pot, 1Plant General Brand Decore Sources Model Number DS35A Color Multicolor Type Assorted Bonsai No Pot Features Pot Included Yes Dimensions Total Height 17.5 cm",
+            "stock_level": 9859,
+            "price": 1500,
+            "sale": true,
+            "sale_price": 690,
+            "stock_keeping_unit": "ARPEF9YKMZBE6KVM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/k/v/m/ds35a-decore-sources-original-imaef8vwrshbqhdh.jpeg",
+                "filename": "ds35a-decore-sources-original-imaef8vwrshbqhdh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/k/v/m/ds35a-decore-sources-original-imaef8vxt8zx2uux.jpeg",
+                "filename": "ds35a-decore-sources-original-imaef8vxt8zx2uux.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1Pot", "1Plant"] },
+              { "key": "Brand", "values": ["Decore Sources"] },
+              { "key": "Model Number", "values": ["DS35A"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Type", "values": ["Assorted"] },
+              { "key": "Bonsai", "values": ["No"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Total Height", "values": ["17.5 cm"] }
+            ]
+          },
+          {
+            "id": "83853f53933a22fff0063c036f790d6e",
+            "name": "Decore Sources Assorted Artificial Plant  with P...",
+            "description": "Key Features of Decore Sources Assorted Artificial Plant  with Pot Assorted Height: 21.5 cm,Decore Sources Assorted Artificial Plant  with Pot (21.5 cm, White) Price: Rs. 515 Bring home this wonderful artificial plant which comes in matte finish ceramic pot. The natural looking plant will hold its beauty for years and can be conveniently placed anywhere.,Specifications of Decore Sources Assorted Artificial Plant  with Pot (21.5 cm, White) In the Box Sales Package 1 Plant, 1 Pot General Brand Decore Sources Model Number DS25A Color White Type Assorted Bonsai No Pot Features Pot Included Yes Dimensions Total Height 21.5 cm",
+            "stock_level": 4305,
+            "price": 1150,
+            "sale": false,
+            "sale_price": 515,
+            "stock_keeping_unit": "ARPEEMC95HMYAJNH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/j/n/h/ds25a-decore-sources-original-imaeehnnptqynkax.jpeg",
+                "filename": "ds25a-decore-sources-original-imaeehnnptqynkax.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/j/n/h/ds25a-decore-sources-original-imaeehnpgfcnhpyz.jpeg",
+                "filename": "ds25a-decore-sources-original-imaeehnpgfcnhpyz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1 Plant", "1 Pot"] },
+              { "key": "Brand", "values": ["Decore Sources"] },
+              { "key": "Model Number", "values": ["DS25A"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Type", "values": ["Assorted"] },
+              { "key": "Bonsai", "values": ["No"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Total Height", "values": ["21.5 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "df573e515d42a0f4b65581ccb0f669ef8b432f26" }
+      },
+      "active": true,
+      "id": "cb117cbfc13e0b28485037cbb917009615119088"
+    },
+    {
+      "product": {
+        "id": "50a9bbacfedb22f4188b13912b8b429085f3f54d",
+        "name": "Wadhwa creations Car Cover For Innova",
+        "description": "Dummy description for product Wadhwa creations Car Cover For Innova",
+        "manufacturer_id": "4deb8d577970eec42ed1231ad40c6c4e8b9cc294",
+        "taric_code": "9fd55bab-0100-4133-a513-a165f8a0082a",
+        "variants": [
+          {
+            "id": "0e9c3afbac7fcbbf1f380a9fa951c050",
+            "name": "Wadhwa creations Car Cover For Innova",
+            "description": "Wadhwa creations Car Cover For Innova Price: Rs. 998 Wadhwa creations car cover is Durable,Easy to fit and Best quality product.,Specifications of Wadhwa creations Car Cover For Innova In the Box single cover General Brand Wadhwa creations Model Number Innova Shade Silver Universal Fit Yes Material Polyester Color Silver Vehicle Brand Toyota Vehicle Model Name Innova",
+            "stock_level": 8931,
+            "price": 2589,
+            "sale": false,
+            "sale_price": 998,
+            "stock_keeping_unit": "CCVEFX3XNKFEF843",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/car-cover/v/d/5/sail-wadhwa-creations-1100x1100-imaefwzbfkusguu9.jpeg",
+                "filename": "sail-wadhwa-creations-1100x1100-imaefwzbfkusguu9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-cover/v/d/5/sail-wadhwa-creations-original-imaefwzbfkusguu9.jpeg",
+                "filename": "sail-wadhwa-creations-original-imaefwzbfkusguu9.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "95e1a55d-744e-462d-9b82-8b7052c0fea4",
+                "values": ["single cover"]
+              },
+              { "key": "Brand", "values": ["Wadhwa creations"] },
+              { "key": "Model Number", "values": ["Innova"] },
+              { "key": "Shade", "values": ["Silver"] },
+              { "key": "Universal Fit", "values": ["Yes"] },
+              { "key": "Material", "values": ["Polyester"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Vehicle Brand", "values": ["Toyota"] },
+              { "key": "Vehicle Model Name", "values": ["Innova"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1d78daa799de31eea7274ceeb32d65f366befde4" }
+      },
+      "active": true,
+      "id": "50a9bbacfedb22f4188b13912b8b429085f3f54d"
+    },
+    {
+      "product": {
+        "id": "7bfda194e39b459e69293d0de01cc572cca95ebb",
+        "name": "Go Hooked Bonsai Assorted Artificial Plant  with Pot",
+        "description": "Dummy description for product Go Hooked Bonsai Assorted Artificial Plant  with Pot",
+        "manufacturer_id": "26b3462764077d5b3482ce9a71f952701bd826fc",
+        "taric_code": "e32edc9b-dfd3-4ddd-822a-7c6dea1bef6b",
+        "variants": [
+          {
+            "id": "d3e6f9445c409ec3fcfd7eb76ed5a320",
+            "name": "Go Hooked Bonsai Assorted Artificial Plant  with...",
+            "description": "Key Features of Go Hooked Bonsai Assorted Artificial Plant  with Pot Assorted Pack of 1 Height: 17.78 cm,Go Hooked Bonsai Assorted Artificial Plant  with Pot (17.78 cm, White, Yellow) Price: Rs. 339 It is time to upgrade your interiors with none other than these artificial flowers with pot from the house of Go Hooked. Your guests are surely going to be impressed with the flawless interiors of your home. This amazing artificial flowers with pot will surely add an elegant touch to your home decor. These flowers will bring freshness inside your home and a perfect pick for your home decor.,Specifications of Go Hooked Bonsai Assorted Artificial Plant  with Pot (17.78 cm, White, Yellow) General Brand Go Hooked Model Number Af/154 Type Assorted Bonsai Yes Color White, Yellow Pot Features Pot Included Yes Dimensions Total Height 17.78 cm In the Box Sales Package 1 Artificial Plant Pack of 1",
+            "stock_level": 4772,
+            "price": 450,
+            "sale": false,
+            "sale_price": 289,
+            "stock_keeping_unit": "ARPEE3YX9Z4QGJ86",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/j/8/6/af-154-go-hooked-1100x1100-imaee2qrurwcdxcg.jpeg",
+                "filename": "af-154-go-hooked-1100x1100-imaee2qrurwcdxcg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/j/8/6/af-154-go-hooked-original-imaee2qrurwcdxcg.jpeg",
+                "filename": "af-154-go-hooked-original-imaee2qrurwcdxcg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Go Hooked"] },
+              { "key": "Model Number", "values": ["Af/154"] },
+              { "key": "Type", "values": ["Assorted"] },
+              { "key": "Bonsai", "values": ["Yes"] },
+              { "key": "Color", "values": ["White", "Yellow"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Total Height", "values": ["17.78 cm"] },
+              { "key": "Sales Package", "values": ["1 Artificial Plant"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "28372a4202079be922496ce0042950c7",
+            "name": "Go Hooked Bonsai Assorted Artificial Plant  with...",
+            "description": "Specifications of Go Hooked Bonsai Assorted Artificial Plant  with Pot (17.78 cm, Green, Purple) In the Box Sales Package 1 Artificial Plant Pack of 1 General Brand Go Hooked Model Number Af/128 Color Green, Purple Type Assorted Bonsai Yes Pot Features Pot Included Yes Dimensions Total Height 17.78 cm",
+            "stock_level": 5086,
+            "price": 450,
+            "sale": true,
+            "sale_price": 289,
+            "stock_keeping_unit": "ARPEE3YXZJUYZF49",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/f/4/9/af-128-go-hooked-1100x1100-imaee2qrbzdvvgcs.jpeg",
+                "filename": "af-128-go-hooked-1100x1100-imaee2qrbzdvvgcs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/f/4/9/af-128-go-hooked-original-imaee2qrbzdvvgcs.jpeg",
+                "filename": "af-128-go-hooked-original-imaee2qrbzdvvgcs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1 Artificial Plant"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Brand", "values": ["Go Hooked"] },
+              { "key": "Model Number", "values": ["Af/128"] },
+              { "key": "Color", "values": ["Green", "Purple"] },
+              { "key": "Type", "values": ["Assorted"] },
+              { "key": "Bonsai", "values": ["Yes"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Total Height", "values": ["17.78 cm"] }
+            ]
+          },
+          {
+            "id": "8391cd1ec7328cfacbada339df5ade32",
+            "name": "Go Hooked Bonsai Assorted Artificial Plant  with...",
+            "description": "Specifications of Go Hooked Bonsai Assorted Artificial Plant  with Pot (17.78 cm, White, White) In the Box Sales Package 1 Artificial Plant Pack of 1 General Brand Go Hooked Model Number Af/152 Color White, White Type Assorted Bonsai Yes Pot Features Pot Included Yes Dimensions Total Height 17.78 cm",
+            "stock_level": 6412,
+            "price": 450,
+            "sale": false,
+            "sale_price": 289,
+            "stock_keeping_unit": "ARPEE3YXEPFNJGUZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/g/u/z/af-152-go-hooked-1100x1100-imaee2qr7shhdsrf.jpeg",
+                "filename": "af-152-go-hooked-1100x1100-imaee2qr7shhdsrf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/g/u/z/af-152-go-hooked-original-imaee2qr7shhdsrf.jpeg",
+                "filename": "af-152-go-hooked-original-imaee2qr7shhdsrf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1 Artificial Plant"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Brand", "values": ["Go Hooked"] },
+              { "key": "Model Number", "values": ["Af/152"] },
+              { "key": "Color", "values": ["White", "White"] },
+              { "key": "Type", "values": ["Assorted"] },
+              { "key": "Bonsai", "values": ["Yes"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Total Height", "values": ["17.78 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "d8744e5d9d5f8fa4b16a616d7d45745175c9e531" }
+      },
+      "active": false,
+      "id": "7bfda194e39b459e69293d0de01cc572cca95ebb"
+    },
+    {
+      "product": {
+        "id": "bbb283807faa4f405f630117eed05a51e75c78cf",
+        "name": "Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot",
+        "description": "Dummy description for product Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot",
+        "manufacturer_id": "ed7a4875f2ae9bab0fd38116e72e8c4fd012d18e",
+        "taric_code": "9409cd39-1e82-4c69-adb3-7ad5b6c358ff",
+        "variants": [
+          {
+            "id": "3589e80e8f7f3f3a5b65447389b90c2e",
+            "name": "Miracle Retail Bonsai Wild Plant Artificial Plan...",
+            "description": "Key Features of Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot Premium quality soft plastic Artificial Bonsai plant with high quality Wooden pot Can be used for indoor and outdoor purpose Ideal for Home décor & Garden décor Ideal for Side corners Ideal for Centre table,Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot (32 cm, Yellow) Price: Rs. 599 Let Natural Hues Refresh Your Interior Once You Bring This Artificial Bonsai Plant With Wooden pot from The House Of Miracle Retail. Ideal For Beautifying The Side Table, Centre Table And Dining Table, This Decorative Item Requires Minimum Maintenance And Care. Made From Premium Quality Plastic, The Artificial Bonsai Plant Is Completely Non Toxic And Environment Friendly. On The Other Hand, The Base Is Extremely Sturdy Yet Lightweight. Those Who Want To Brighten Up Their Living Space Without Any Dirt Or Mud, Must Opt For This Artificial Bonsai Plant With Wooden Pot. To add colour to your interior landscape, order this Artificial Bonsai Plant from Miracle Retail. It instantly brightens up the place wherever you keep it. It needs minimal care. It Will Make A Great Gifting Option For Friends And Relatives As Well.,Specifications of Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot (32 cm, Yellow) General Brand Miracle Retail Model Number BNSI/03 Stem Material Plastic Bonsai Yes Type Wild Plant Plant Material Plastic Color Yellow Pot Features Pot Material Wood Pot Color Brown Pot Included Yes Pot Size Medium Dimensions Pot Width 10 cm Weight 400 g Total Height 32 cm Pot Height 14 cm Total Width 16 cm Additional Features Suitable For Home Decor, Garden Decor, Office Decor Number of Branches 1 In the Box Sales Package 1 Premium Bonsai Artificial Plant With Wooden Pot Pack of 1",
+            "stock_level": 33,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "ARPEFZT4FGYZZHAZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/h/a/z/bnsi-03-miracle-retail-original-imaefzdynhqnrxfq.jpeg",
+                "filename": "bnsi-03-miracle-retail-original-imaefzdynhqnrxfq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/h/a/z/bnsi-03-miracle-retail-original-imaefzdynhqnrxfq.jpeg",
+                "filename": "bnsi-03-miracle-retail-original-imaefzdynhqnrxfq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/h/a/z/bnsi-03-miracle-retail-original-imaefzc9gabhzntk.jpeg",
+                "filename": "bnsi-03-miracle-retail-original-imaefzc9gabhzntk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/4/x/x/bnsi-04-miracle-retail-original-imaeenzewbp7rghk.jpeg",
+                "filename": "bnsi-04-miracle-retail-original-imaeenzewbp7rghk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Miracle Retail"] },
+              { "key": "Model Number", "values": ["BNSI/03"] },
+              { "key": "Stem Material", "values": ["Plastic"] },
+              { "key": "Bonsai", "values": ["Yes"] },
+              { "key": "Type", "values": ["Wild Plant"] },
+              { "key": "Plant Material", "values": ["Plastic"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Pot Material", "values": ["Wood"] },
+              { "key": "Pot Color", "values": ["Brown"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Pot Size", "values": ["Medium"] },
+              { "key": "Pot Width", "values": ["10 cm"] },
+              { "key": "Weight", "values": ["400 g"] },
+              { "key": "Total Height", "values": ["32 cm"] },
+              { "key": "Pot Height", "values": ["14 cm"] },
+              { "key": "Total Width", "values": ["16 cm"] },
+              {
+                "key": "Suitable For",
+                "values": ["Home Decor", "Garden Decor", "Office Decor"]
+              },
+              { "key": "Number of Branches", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Premium Bonsai Artificial Plant With Wooden Pot"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "4eb07fbdd90009edb15149a7dcf1f0af",
+            "name": "Miracle Retail Bonsai Wild Plant Artificial Plan...",
+            "description": "Key Features of Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot Premium quality soft plastic Artificial plant with high quality pot Can be used for indoor and outdoor purpose Ideal for Home décor & Garden décor Ideal for Side corners Ideal for Centre table,Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot (35 cm, Yellow) Price: Rs. 499 Let Natural Hues Refresh Your Interior Once You Bring This Artificial Bonsai Plant With pot from The House Of Miracle Retail. Ideal For Beautifying The Side Table, Centre Table And Dining Table, This Decorative Item Requires Minimum Maintenance And Care. Made From Premium Quality Plastic, The Artificial Bonsai Plant Is Completely Non Toxic And Environment Friendly. On The Other Hand, The Base Is Extremely Sturdy Yet Lightweight. Those Who Want To Brighten Up Their Living Space Without Any Dirt Or Mud, Must Opt For This Artificial Bonsai Plant With Pot. To add colour to your interior landscape, order this Artificial Bonsai Plant from Miracle Retail. It instantly brightens up the place wherever you keep it. It needs minimal care. It Will Make A Great Gifting Option For Friends And Relatives As Well.,Specifications of Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot (35 cm, Yellow) General Brand Miracle Retail Model Number BNSI/43 Stem Material Plastic Bonsai Yes Type Wild Plant Plant Material Plastic Color Yellow Pot Features Pot Material Plastic Pot Color White Pot Included Yes Pot Size Medium Dimensions Pot Width 8 cm Weight 400 g Total Height 35 cm Pot Height 9 cm Total Width 16 cm Additional Features Suitable For Home Decor, Garden Decor, Office Decor Number of Branches 1 In the Box Sales Package 1 Premium Artificial Bonsai Plant With Pot Pack of 1",
+            "stock_level": 8373,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "ARPEG54NHHJDT9FZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/9/f/z/bnsi-43-miracle-retail-original-imaeg5fvchftpgyh.jpeg",
+                "filename": "bnsi-43-miracle-retail-original-imaeg5fvchftpgyh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/9/f/z/bnsi-43-miracle-retail-original-imaeg5fvvmhe9vf5.jpeg",
+                "filename": "bnsi-43-miracle-retail-original-imaeg5fvvmhe9vf5.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/z/h/w/bnsi-44-miracle-retail-original-imaefzc9ztftmmdy.jpeg",
+                "filename": "bnsi-44-miracle-retail-original-imaefzc9ztftmmdy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Miracle Retail"] },
+              { "key": "Model Number", "values": ["BNSI/43"] },
+              { "key": "Stem Material", "values": ["Plastic"] },
+              { "key": "Bonsai", "values": ["Yes"] },
+              { "key": "Type", "values": ["Wild Plant"] },
+              { "key": "Plant Material", "values": ["Plastic"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Pot Material", "values": ["Plastic"] },
+              { "key": "Pot Color", "values": ["White"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Pot Size", "values": ["Medium"] },
+              { "key": "Pot Width", "values": ["8 cm"] },
+              { "key": "Weight", "values": ["400 g"] },
+              { "key": "Total Height", "values": ["35 cm"] },
+              { "key": "Pot Height", "values": ["9 cm"] },
+              { "key": "Total Width", "values": ["16 cm"] },
+              {
+                "key": "Suitable For",
+                "values": ["Home Decor", "Garden Decor", "Office Decor"]
+              },
+              { "key": "Number of Branches", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Premium Artificial Bonsai Plant With Pot"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "a9d7357a127041e68e48541e9d88db3f",
+            "name": "Miracle Retail Bonsai Wild Plant Artificial Plan...",
+            "description": "Key Features of Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot Premium quality soft plastic Artificial Bonsai plant with high quality Wooden pot Can be used for indoor and outdoor purpose Ideal for Home décor & Garden décor Ideal for Side corners Ideal for Centre table,Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot (32 cm, Pink) Price: Rs. 599 Let Natural Hues Refresh Your Interior Once You Bring This Artificial Bonsai Plant With Wooden pot from The House Of Miracle Retail. Ideal For Beautifying The Side Table, Centre Table And Dining Table, This Decorative Item Requires Minimum Maintenance And Care. Made From Premium Quality Plastic, The Artificial Bonsai Plant Is Completely Non Toxic And Environment Friendly. On The Other Hand, The Base Is Extremely Sturdy Yet Lightweight. Those Who Want To Brighten Up Their Living Space Without Any Dirt Or Mud, Must Opt For This Artificial Bonsai Plant With Wooden Pot. To add colour to your interior landscape, order this Artificial Bonsai Plant from Miracle Retail. It instantly brightens up the place wherever you keep it. It needs minimal care. It Will Make A Great Gifting Option For Friends And Relatives As Well.,Specifications of Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot (32 cm, Pink) General Brand Miracle Retail Model Number BNSI/04 Stem Material Plastic Bonsai Yes Type Wild Plant Plant Material Plastic Color Pink Pot Features Pot Material Wood Pot Color Brown Pot Included Yes Pot Size Medium Dimensions Pot Width 10 cm Weight 400 g Total Height 32 cm Pot Height 14 cm Total Width 16 cm Additional Features Suitable For Home Decor, Garden Decor, Office Decor Number of Branches 1 In the Box Sales Package 1 Premium Bonsai Artificial Plant With Wooden Pot Pack of 1",
+            "stock_level": 4860,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "ARPEFZT4KHXGY4XX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/4/x/x/bnsi-04-miracle-retail-original-imaefzd5chs4wr4u.jpeg",
+                "filename": "bnsi-04-miracle-retail-original-imaefzd5chs4wr4u.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/4/x/x/bnsi-04-miracle-retail-original-imaefzd5chs4wr4u.jpeg",
+                "filename": "bnsi-04-miracle-retail-original-imaefzd5chs4wr4u.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/4/x/x/bnsi-04-miracle-retail-original-imaefzcs4gutph6v.jpeg",
+                "filename": "bnsi-04-miracle-retail-original-imaefzcs4gutph6v.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/4/x/x/bnsi-04-miracle-retail-original-imaeenzewbp7rghk.jpeg",
+                "filename": "bnsi-04-miracle-retail-original-imaeenzewbp7rghk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Miracle Retail"] },
+              { "key": "Model Number", "values": ["BNSI/04"] },
+              { "key": "Stem Material", "values": ["Plastic"] },
+              { "key": "Bonsai", "values": ["Yes"] },
+              { "key": "Type", "values": ["Wild Plant"] },
+              { "key": "Plant Material", "values": ["Plastic"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Pot Material", "values": ["Wood"] },
+              { "key": "Pot Color", "values": ["Brown"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Pot Size", "values": ["Medium"] },
+              { "key": "Pot Width", "values": ["10 cm"] },
+              { "key": "Weight", "values": ["400 g"] },
+              { "key": "Total Height", "values": ["32 cm"] },
+              { "key": "Pot Height", "values": ["14 cm"] },
+              { "key": "Total Width", "values": ["16 cm"] },
+              {
+                "key": "Suitable For",
+                "values": ["Home Decor", "Garden Decor", "Office Decor"]
+              },
+              { "key": "Number of Branches", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Premium Bonsai Artificial Plant With Wooden Pot"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "82d6c10616f7396be4427370a8f48e68",
+            "name": "Miracle Retail Bonsai Wild Plant Artificial Plan...",
+            "description": "Key Features of Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot Premium quality soft plastic Artificial plant with high quality pot Can be used for indoor and outdoor purpose Ideal for Home décor & Garden décor Ideal for Side corners Ideal for Centre table,Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot (35 cm, Blue) Price: Rs. 499 Let Natural Hues Refresh Your Interior Once You Bring This Artificial Bonsai Plant With pot from The House Of Miracle Retail. Ideal For Beautifying The Side Table, Centre Table And Dining Table, This Decorative Item Requires Minimum Maintenance And Care. Made From Premium Quality Plastic, The Artificial Bonsai Plant Is Completely Non Toxic And Environment Friendly. On The Other Hand, The Base Is Extremely Sturdy Yet Lightweight. Those Who Want To Brighten Up Their Living Space Without Any Dirt Or Mud, Must Opt For This Artificial Bonsai Plant With Pot. To add colour to your interior landscape, order this Artificial Bonsai Plant from Miracle Retail. It instantly brightens up the place wherever you keep it. It needs minimal care. It Will Make A Great Gifting Option For Friends And Relatives As Well.,Specifications of Miracle Retail Bonsai Wild Plant Artificial Plant  with Pot (35 cm, Blue) General Brand Miracle Retail Model Number BNSI/45 Stem Material Plastic Bonsai Yes Type Wild Plant Plant Material Plastic Color Blue Pot Features Pot Material Plastic Pot Color White Pot Included Yes Pot Size Medium Dimensions Pot Width 8 cm Weight 400 g Total Height 35 cm Pot Height 9 cm Total Width 16 cm Additional Features Suitable For Home Decor, Garden Decor, Office Decor Number of Branches 1 In the Box Sales Package 1 Premium Artificial Bonsai Plant With Pot Pack of 1",
+            "stock_level": 7610,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "ARPEG55TGY4ZSPNX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/p/n/x/bnsi-45-miracle-retail-original-imaeg527zkggktzx.jpeg",
+                "filename": "bnsi-45-miracle-retail-original-imaeg527zkggktzx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/8/p/t/bnsi-48-miracle-retail-original-imaeg527cg66tyyz.jpeg",
+                "filename": "bnsi-48-miracle-retail-original-imaeg527cg66tyyz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/p/n/x/bnsi-45-miracle-retail-original-imaefzc9ztftmmdy.jpeg",
+                "filename": "bnsi-45-miracle-retail-original-imaefzc9ztftmmdy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Miracle Retail"] },
+              { "key": "Model Number", "values": ["BNSI/45"] },
+              { "key": "Stem Material", "values": ["Plastic"] },
+              { "key": "Bonsai", "values": ["Yes"] },
+              { "key": "Type", "values": ["Wild Plant"] },
+              { "key": "Plant Material", "values": ["Plastic"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Pot Material", "values": ["Plastic"] },
+              { "key": "Pot Color", "values": ["White"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Pot Size", "values": ["Medium"] },
+              { "key": "Pot Width", "values": ["8 cm"] },
+              { "key": "Weight", "values": ["400 g"] },
+              { "key": "Total Height", "values": ["35 cm"] },
+              { "key": "Pot Height", "values": ["9 cm"] },
+              { "key": "Total Width", "values": ["16 cm"] },
+              {
+                "key": "Suitable For",
+                "values": ["Home Decor", "Garden Decor", "Office Decor"]
+              },
+              { "key": "Number of Branches", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Premium Artificial Bonsai Plant With Pot"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "d01b41c1715bf5702872e58c00a333d15a8baa21" }
+      },
+      "active": true,
+      "id": "bbb283807faa4f405f630117eed05a51e75c78cf"
+    },
+    {
+      "product": {
+        "id": "ee934d21f920bce77c0ad4df428cebbe4f90e161",
+        "name": "Mayursflora Bonsai Aloe, Maple, Arecaceae, Palm, Maguey Artificial Plant  with Pot",
+        "description": "Dummy description for product Mayursflora Bonsai Aloe, Maple, Arecaceae, Palm, Maguey Artificial Plant  with Pot",
+        "manufacturer_id": "083396a4957d3119b870aa60e65f8cc6864b0857",
+        "taric_code": "4f13d182-fbac-4747-ad04-56c8c45dad95",
+        "variants": [
+          {
+            "id": "dde89969aecfa2c5245e8059c660b139",
+            "name": "Mayursflora Bonsai Aloe, Maple, Arecaceae, Palm,...",
+            "description": "Specifications of Mayursflora Bonsai Aloe, Maple, Arecaceae, Palm, Maguey Artificial Plant  with Pot (12 cm, Yellow, Green) In the Box Sales Package Flower Plant In Yellow Bucket General Brand Mayursflora Model Number MFGI034 Color Yellow, Green Type Aloe, Maple, Arecaceae, Palm, Maguey Bonsai Yes Pot Features Pot Included Yes Dimensions Total Height 12 cm",
+            "stock_level": 6795,
+            "price": 500,
+            "sale": false,
+            "sale_price": 450,
+            "stock_keeping_unit": "ARPEDWXBWZSBKWV8",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/artificial-plant/w/v/8/mfgi034-mayursflora-original-imaedgyyzq44gchv.jpeg",
+                "filename": "mfgi034-mayursflora-original-imaedgyyzq44gchv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/artificial-plant/w/v/8/mfgi034-mayursflora-original-imaedgyyzq44gchv.jpeg",
+                "filename": "mfgi034-mayursflora-original-imaedgyyzq44gchv.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Sales Package",
+                "values": ["Flower Plant In Yellow Bucket"]
+              },
+              { "key": "Brand", "values": ["Mayursflora"] },
+              { "key": "Model Number", "values": ["MFGI034"] },
+              { "key": "Color", "values": ["Yellow", "Green"] },
+              {
+                "key": "Type",
+                "values": ["Aloe", "Maple", "Arecaceae", "Palm", "Maguey"]
+              },
+              { "key": "Bonsai", "values": ["Yes"] },
+              { "key": "Pot Included", "values": ["Yes"] },
+              { "key": "Total Height", "values": ["12 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "84e2b053418d5460bc5e61397412aa2a800b725f" }
+      },
+      "active": true,
+      "id": "ee934d21f920bce77c0ad4df428cebbe4f90e161"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

@@ -1,0 +1,72 @@
+{
+  "resource_list": [
+    {
+      "id": "6995abdf8eaa4781803fca6c8cf2128b",
+      "name": "Germany",
+      "country_code": "DE",
+      "geographical_name": "Germany",
+      "economic_areas": ["EEA"],
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "a7218c7890c9430da3f3d6fc3cd08e68",
+      "name": "Switzerland",
+      "country_code": "CH",
+      "geographical_name": "Switzerland",
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "551a0829c4be4351a879a1602c647697",
+      "name": "Belgium",
+      "country_code": "BE",
+      "geographical_name": "Belgium",
+      "economic_areas": ["EEA"],
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    },
+    {
+      "id": "61609eef8f064fd2b47248e1cf193752",
+      "name": "France",
+      "country_code": "FR",
+      "geographical_name": "France",
+      "economic_areas": ["EEA"],
+      "owner": [
+        {
+          "id": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          "value": "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          "id": "urn:restorecommerce:acs:names:ownerInstance",
+          "value": "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    }
+  ],
+  "mutation": "mutation{createCountries(input:{listOfCountries: ${resource_list} }) {details {id}, error{code, message} }}"
+}

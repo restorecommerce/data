@@ -1,0 +1,27 @@
+commands:
+  - name: health_check
+    parameters:
+      - field: service
+        description: Name of the service to be checked (not that a microservice may have more than one 'service'),
+        type: string_value
+    description: A microservice health check
+  - name: restore,
+    parameters:
+      - field: data
+        description: "Data object containing a list of objects with restore data"
+        type: array_value
+        properties:
+          - field: entity
+            description: Name of the entity to be restored
+            type: string_value
+          - field: base_offset
+            description: Offset from which messages should be processed (integer; default is 0);
+            type: number_value
+          - field: ignore_offset
+            description: List of topic offsets to be ignored while processing Kafka message
+            type: array_value
+    description: Reprocess Apache Kafka event messages to restore system data.,
+  - name: reset
+    description: Reset system data and state (no parameters)
+  - name: version
+    description: "Returns the NPM package and Node.js version of the implementing service"

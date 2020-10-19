@@ -1,0 +1,23 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createRules.json"
+    },
+	{
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createPolicies.json"
+    },
+	{
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createPolicySets.json"
+    }
+  ]
+}

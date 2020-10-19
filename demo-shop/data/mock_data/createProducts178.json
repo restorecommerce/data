@@ -1,0 +1,2664 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "cbb45eadd9694bee65f77fb4dce38d5605761aa9",
+        "name": "Royal Canin Maxi Starter 1kg Vegetable Dog Food",
+        "description": "Dummy description for product Royal Canin Maxi Starter 1kg Vegetable Dog Food",
+        "manufacturer_id": "c5a896c5139b8872b044f80efc8a3062046fb1be",
+        "taric_code": "4033af97-5bb4-422d-8a2f-8725d7196b68",
+        "variants": [
+          {
+            "id": "b9cb9c703567e1b35f5d2cb6b248598b",
+            "name": "Royal Canin Maxi Starter 1kg Vegetable Dog Food ...",
+            "description": "Specifications of Royal Canin Maxi Starter 1kg Vegetable Dog Food (1 kg Pack of 1) General Pet Type Dog Brand Royal Canin Food Type Dry Suitable For Adult Flavor Vegetable Quantity 1 kg Model Number MPZMAXISTART1 Model Name Maxi Starter 1kg In the Box Pack of 1",
+            "stock_level": 4283,
+            "price": 660,
+            "sale": false,
+            "sale_price": 650,
+            "stock_keeping_unit": "PFDEG3AHQ4SBVDQB",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pet-food/d/q/b/mpzmaxistart1-dog-royal-canin-1-1100x1100-imae6ugrfbhzpk5h.jpeg",
+                "filename": "mpzmaxistart1-dog-royal-canin-1-1100x1100-imae6ugrfbhzpk5h.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pet-food/d/q/b/mpzmaxistart1-dog-royal-canin-1-original-imae6ugrfbhzpk5h.jpeg",
+                "filename": "mpzmaxistart1-dog-royal-canin-1-original-imae6ugrfbhzpk5h.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pet Type", "values": ["Dog"] },
+              { "key": "Brand", "values": ["Royal Canin"] },
+              { "key": "Food Type", "values": ["Dry"] },
+              { "key": "Suitable For", "values": ["Adult"] },
+              { "key": "Flavor", "values": ["Vegetable"] },
+              { "key": "Quantity", "values": ["1 kg"] },
+              { "key": "Model Number", "values": ["MPZMAXISTART1"] },
+              { "key": "Model Name", "values": ["Maxi Starter 1kg"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6e925438383d3b88e00bcc7252e85a05898dfc3b" }
+      },
+      "active": true,
+      "id": "cbb45eadd9694bee65f77fb4dce38d5605761aa9"
+    },
+    {
+      "product": {
+        "id": "a1800623cebbd049336af13c22f03900e606ac87",
+        "name": "Trak N Tell INTELLI7 For Mahindra Bolero Car Tracking System",
+        "description": "Dummy description for product Trak N Tell INTELLI7 For Mahindra Bolero Car Tracking System",
+        "manufacturer_id": "85fe79a48942c915d1d4e9e084b7a83b36bcb845",
+        "taric_code": "cc44ecd7-cdd3-46c2-94c2-a9f0b91882d7",
+        "variants": [
+          {
+            "id": "4c915ff997c9934f1a9d34e95d0580c7",
+            "name": "Trak N Tell INTELLI7 For Mahindra Bolero Car Tra...",
+            "description": "Specifications of Trak N Tell INTELLI7 For Mahindra Bolero Car Tracking System (Black) Interface Display No General Specifications Bluetooth Version 0 Brand Trak N Tell In The Box 1 Track N Tel Model INTELLI7 For Mahindra Bolero Color Black Bluetooth Bluetooth Version Bluetooth v0 Dimensions Weight 0 g Width x Height x Depth 0 x 0 x 0 mm Battery Talktime 0 hr General Features Microphone Type 0 Speakers 0 Speakers",
+            "stock_level": 873,
+            "price": 5999,
+            "sale": false,
+            "sale_price": 5999,
+            "stock_keeping_unit": "ACCEG2WWRHZHD2UC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/w/h/8/trak-n-tell-intelli7-for-tyota-liva-1100x1100-imaeg2sunp8mzdhg.jpeg",
+                "filename": "trak-n-tell-intelli7-for-tyota-liva-1100x1100-imaeg2sunp8mzdhg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/w/h/8/trak-n-tell-intelli7-for-tyota-liva-original-imaeg2sunp8mzdhg.jpeg",
+                "filename": "trak-n-tell-intelli7-for-tyota-liva-original-imaeg2sunp8mzdhg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/w/h/8/trak-n-tell-intelli7-for-tyota-liva-original-imaeg2sum4kgpnkz.jpeg",
+                "filename": "trak-n-tell-intelli7-for-tyota-liva-original-imaeg2sum4kgpnkz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/car-kit/w/h/8/trak-n-tell-intelli7-for-tyota-liva-original-imaeg2suehzhvxse.jpeg",
+                "filename": "trak-n-tell-intelli7-for-tyota-liva-original-imaeg2suehzhvxse.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/w/h/8/trak-n-tell-intelli7-for-tyota-liva-original-imaeg2subkkjzcyy.jpeg",
+                "filename": "trak-n-tell-intelli7-for-tyota-liva-original-imaeg2subkkjzcyy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Display", "values": ["No"] },
+              { "key": "Bluetooth Version", "values": ["0"] },
+              { "key": "Bluetooth Version", "values": ["Bluetooth v0"] },
+              { "key": "Brand", "values": ["Trak N Tell"] },
+              { "key": "In The Box", "values": ["1 Track N Tel"] },
+              { "key": "Model", "values": ["INTELLI7 For Mahindra Bolero"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Weight", "values": ["0 g"] },
+              { "key": "Width x Height x Depth", "values": ["0 x 0 x 0 mm"] },
+              { "key": "Talktime", "values": ["0 hr"] },
+              { "key": "Microphone Type", "values": ["0"] },
+              { "key": "Speakers", "values": ["0 Speakers"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "62ce0af48a172903116b245aeaeefcc8e7594aae" }
+      },
+      "active": true,
+      "id": "a1800623cebbd049336af13c22f03900e606ac87"
+    },
+    {
+      "product": {
+        "id": "472313aaebfca73145c4ee3d690944a6ac18c4e3",
+        "name": "Spycom Wireless 3.5mm Bluetooth Audio Music Receiver with Mic Handsfree Stereo Output Car Kit",
+        "description": "Dummy description for product Spycom Wireless 3.5mm Bluetooth Audio Music Receiver with Mic Handsfree Stereo Output Car Kit",
+        "manufacturer_id": "03638ee7a47df19b8fdfd031e470e71167bacc93",
+        "taric_code": "5c0245e2-7494-4e4b-98af-98416be54aa3",
+        "variants": [
+          {
+            "id": "deda6ef54ed8a95ab3215ce01b7f7178",
+            "name": "Spycom Wireless 3.5mm Bluetooth Audio Music Rece...",
+            "description": "Specifications of Spycom Wireless 3.5mm Bluetooth Audio Music Receiver with Mic Handsfree Stereo Output Car Kit (Black) Interface Display No General Specifications Bluetooth Version 3.0 In The Box Bluetooth 3.5mm Audio Music Receiver, USB Cable, English Manual, 3.5mm Male to Male Connector, Brand Spycom Model Wireless 3.5mm Bluetooth Audio Music Receiver with Mic Handsfree Stereo Output Color Black Bluetooth Bluetooth Version Bluetooth v3.0 Pairing 1 Pairable devices Battery Talktime 2 hr General Features Microphone Type Built in Microphone Speakers 0 Speakers",
+            "stock_level": 8420,
+            "price": 1200,
+            "sale": true,
+            "sale_price": 788,
+            "stock_keeping_unit": "ACCEF8CZKFEXZKFM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/k/f/m/spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-1100x1100-imaef7gjpgpwsy5d.jpeg",
+                "filename": "spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-1100x1100-imaef7gjpgpwsy5d.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/k/f/m/spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-original-imaef7gjpgpwsy5d.jpeg",
+                "filename": "spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-original-imaef7gjpgpwsy5d.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/k/f/m/spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-original-imaef7gjuew2kcf3.jpeg",
+                "filename": "spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-original-imaef7gjuew2kcf3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/k/f/m/spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-original-imaef7gjpgcmyxzg.jpeg",
+                "filename": "spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-original-imaef7gjpgcmyxzg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-kit/k/f/m/spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-original-imaef7gjgkuhzgme.jpeg",
+                "filename": "spycom-wireless-3-5mm-bluetooth-audio-music-receiver-with-mic-original-imaef7gjgkuhzgme.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Display", "values": ["No"] },
+              { "key": "Bluetooth Version", "values": ["3.0"] },
+              { "key": "Bluetooth Version", "values": ["Bluetooth v3.0"] },
+              {
+                "key": "In The Box",
+                "values": [
+                  "Bluetooth 3.5mm Audio Music Receiver",
+                  "USB Cable",
+                  "English Manual",
+                  "3.5mm Male to Male Connector,"
+                ]
+              },
+              { "key": "Brand", "values": ["Spycom"] },
+              {
+                "key": "Model",
+                "values": [
+                  "Wireless 3.5mm Bluetooth Audio Music Receiver with Mic Handsfree Stereo Output"
+                ]
+              },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Pairing", "values": ["1 Pairable devices"] },
+              { "key": "Talktime", "values": ["2 hr"] },
+              { "key": "Microphone Type", "values": ["Built in Microphone"] },
+              { "key": "Speakers", "values": ["0 Speakers"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "62ce0af48a172903116b245aeaeefcc8e7594aae" }
+      },
+      "active": true,
+      "id": "472313aaebfca73145c4ee3d690944a6ac18c4e3"
+    },
+    {
+      "product": {
+        "id": "090b3e1bab6af2094a06f4d8f2f508bae2edb166",
+        "name": "Xtandard Universal Black Helmet Lock",
+        "description": "Dummy description for product Xtandard Universal Black Helmet Lock",
+        "manufacturer_id": "9cf556a52898bb21a5f3b6ea27cb97f9cc4c7cf2",
+        "taric_code": "3804414b-2d28-4505-8176-cb29646f960a",
+        "variants": [
+          {
+            "id": "cd6cc5f458e3714d3fea2e0e1bdda3ba",
+            "name": "Xtandard Universal Black Helmet Lock (Black Pack...",
+            "description": "Specifications of Xtandard Universal Black Helmet Lock (Black Pack of 1) In the Box Pack of 1 General Brand Xtandard Model Number Universal Black Type Number Lock Material Plastic, Brass Color Black Vehicle Brand Universal For Bike Dimensions Length 50 cm Coil Thickness 10 mm Diameter 15 cm Weight 200 g",
+            "stock_level": 2619,
+            "price": 399,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "HLKEEAPBPJZQ5NVC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/helmet-lock/7/b/m/universal-2-xtandard-1100x1100-imaeeakqdgukbbzh.jpeg",
+                "filename": "universal-2-xtandard-1100x1100-imaeeakqdgukbbzh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/helmet-lock/7/b/m/universal-2-xtandard-original-imaeeakqdgukbbzh.jpeg",
+                "filename": "universal-2-xtandard-original-imaeeakqdgukbbzh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Brand", "values": ["Xtandard"] },
+              { "key": "Model Number", "values": ["Universal Black"] },
+              { "key": "Type", "values": ["Number Lock"] },
+              { "key": "Material", "values": ["Plastic", "Brass"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Vehicle Brand", "values": ["Universal For Bike"] },
+              { "key": "Length", "values": ["50 cm"] },
+              { "key": "Coil Thickness", "values": ["10 mm"] },
+              { "key": "Diameter", "values": ["15 cm"] },
+              { "key": "Weight", "values": ["200 g"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6a649c8052cee9f7999ee0ba458cc99cd835e1d6" }
+      },
+      "active": true,
+      "id": "090b3e1bab6af2094a06f4d8f2f508bae2edb166"
+    },
+    {
+      "product": {
+        "id": "be549f33c342985b87aebba74dd205f9c2279a51",
+        "name": "GEMKOLABWELL G-S-725-14",
+        "description": "Dummy description for product GEMKOLABWELL G-S-725-14",
+        "manufacturer_id": "c4a550014837edcae74cc4cc82af36195ce54195",
+        "taric_code": "b4e23289-e4d8-472a-a0ec-4f1a6dd4f71c",
+        "variants": [
+          {
+            "id": "59b3919cfde1c177c6ee1dae6c9f07e2",
+            "name": "GEMKOLABWELL G-S-725-14 (White)",
+            "description": "Specifications of GEMKOLABWELL G-S-725-14 (White) General Type Science & Discovery Age Group 0 - 7 Years Character Gemkolabwell Student School Monocular Junior Medical Microscope Kit With 50 Blank Slides, Cover Slips, 40X-625X Mag Important Note The color of some product parts may vary from what is shown in the image The color of some product parts may vary from what is shown in the image",
+            "stock_level": 8261,
+            "price": 6590,
+            "sale": true,
+            "sale_price": 3345,
+            "stock_keeping_unit": "ETYEFZ5YHWHZ8XAK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/learning-toy/x/a/k/gemkolabwell-g-s-725-14-original-imae839hcrmggjqh.jpeg",
+                "filename": "gemkolabwell-g-s-725-14-original-imae839hcrmggjqh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/learning-toy/x/a/k/gemkolabwell-g-s-725-14-original-imae839hcrmggjqh.jpeg",
+                "filename": "gemkolabwell-g-s-725-14-original-imae839hcrmggjqh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Type", "values": ["Science and Discovery"] },
+              { "key": "Age Group", "values": ["0 - 7 Years"] },
+              {
+                "key": "Character",
+                "values": [
+                  "Gemkolabwell Student School Monocular Junior Medical Microscope Kit With 50 Blank Slides",
+                  "Cover Slips",
+                  "40X-625X Mag"
+                ]
+              },
+              {
+                "key": "df6968fd-54ed-43d5-ba4d-977b8ea61693",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              },
+              {
+                "key": "bb6aaf53-ce90-4708-a766-281b8e072f1b",
+                "values": [
+                  "The color of some product parts may vary from what is shown in the image"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "9da079a527ed68b79da9d72d8974ec5a1a61a07b" }
+      },
+      "active": true,
+      "id": "be549f33c342985b87aebba74dd205f9c2279a51"
+    },
+    {
+      "product": {
+        "id": "9ed03db5a6b1bc05d2b173a5c0b31ee02caeb4ee",
+        "name": "XEBAC For Nokia C7 USB Cable",
+        "description": "Dummy description for product XEBAC For Nokia C7 USB Cable",
+        "manufacturer_id": "023d0c5bd01a84be9c2c45dd477d6d6dee87e7a0",
+        "taric_code": "d2a8198e-8e2f-459b-a795-f8b54288ff76",
+        "variants": [
+          {
+            "id": "51b1f3ab5a71c775869211d0d0337c19",
+            "name": "XEBAC For Nokia C7 USB Cable (White)",
+            "description": "Key Features of XEBAC For Nokia C7 USB Cable High Data Transfer High Speed Charging Best Quality 100% Original,Specifications of XEBAC For Nokia C7 USB Cable (White) In The Box Number of Contents in Sales Package 1 Sales Package 1 DATA CABLE General Brand XEBAC Suitable For For Nokia C7 Cable Length 1 m Model For Nokia C7 Cable Type High Speed Usb & Mobile Charging Cable 1000 Mbps Speed Compatible Devices Mobile Type USB Cable Cable Stranded Flat Part Number XEBAC-CABLE-438 Connector 2 MICRO USB Connector 1 USB Color White Material Other Materials Polycarbonate",
+            "stock_level": 7003,
+            "price": 500,
+            "sale": false,
+            "sale_price": 220,
+            "stock_keeping_unit": "ACCEGYCGPKC3MNY3",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/data-cable/usb-cable/f/h/t/xebac-for-xolo-play-6x-1000-1100x1100-imaefz674ah8cqud.jpeg",
+                "filename": "xebac-for-xolo-play-6x-1000-1100x1100-imaefz674ah8cqud.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/data-cable/usb-cable/f/h/t/xebac-for-xolo-play-6x-1000-original-imaefz674ah8cqud.jpeg",
+                "filename": "xebac-for-xolo-play-6x-1000-original-imaefz674ah8cqud.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["1 DATA CABLE"] },
+              { "key": "Brand", "values": ["XEBAC"] },
+              { "key": "Suitable For", "values": ["For Nokia C7"] },
+              { "key": "Cable Length", "values": ["1 m"] },
+              { "key": "Model", "values": ["For Nokia C7"] },
+              {
+                "key": "Cable Type",
+                "values": [
+                  "High Speed Usb and Mobile Charging Cable 1000 Mbps Speed"
+                ]
+              },
+              { "key": "Compatible Devices", "values": ["Mobile"] },
+              { "key": "Type", "values": ["USB Cable"] },
+              { "key": "Cable", "values": ["Stranded Flat"] },
+              { "key": "Part Number", "values": ["XEBAC-CABLE-438"] },
+              { "key": "Connector 2", "values": ["MICRO USB"] },
+              { "key": "Connector 1", "values": ["USB"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Other Materials", "values": ["Polycarbonate"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2b4d2caa84c52a3acbdfcc60558b4eb1b850d40e" }
+      },
+      "active": true,
+      "id": "9ed03db5a6b1bc05d2b173a5c0b31ee02caeb4ee"
+    },
+    {
+      "product": {
+        "id": "1f671af5c7b9004020f416237ac5aedcc11f71be",
+        "name": "ACCESSOREEZ Premium Locking Device For Hero Splendor Plus Helmet Lock",
+        "description": "Dummy description for product ACCESSOREEZ Premium Locking Device For Hero Splendor Plus Helmet Lock",
+        "manufacturer_id": "3ab4c88436defa98729dddd7b1423fac6f57f61b",
+        "taric_code": "d1f69ef2-983d-4723-9048-63cfc05bcd92",
+        "variants": [
+          {
+            "id": "908489c81f0969cb6b97e771d66f889d",
+            "name": "ACCESSOREEZ Premium Locking Device For Hero Sple...",
+            "description": "Specifications of ACCESSOREEZ Premium Locking Device For Hero Splendor Plus Helmet Lock (Black Pack of 1) In the Box Pack of 1 General Brand ACCESSOREEZ Model Number Premium Locking Device For Hero Splendor Plus Type Helmet Lock Material Plastic Color Black Vehicle Brand Hero Dimensions Length 10 cm Coil Thickness 2 mm Diameter 12 cm Weight 400 g",
+            "stock_level": 1400,
+            "price": 499,
+            "sale": false,
+            "sale_price": 279,
+            "stock_keeping_unit": "HLKEF8NMH6WWMZF7",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/helmet-lock/z/f/7/premium-locking-device-for-hero-splendor-plus-accessoreez-1100x1100-imaef8jxhezjhkzd.jpeg",
+                "filename": "premium-locking-device-for-hero-splendor-plus-accessoreez-1100x1100-imaef8jxhezjhkzd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/helmet-lock/z/f/7/premium-locking-device-for-hero-splendor-plus-accessoreez-original-imaef8jxhezjhkzd.jpeg",
+                "filename": "premium-locking-device-for-hero-splendor-plus-accessoreez-original-imaef8jxhezjhkzd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/helmet-lock/z/f/7/premium-locking-device-for-hero-splendor-plus-accessoreez-original-imaef8jxpcz8yggg.jpeg",
+                "filename": "premium-locking-device-for-hero-splendor-plus-accessoreez-original-imaef8jxpcz8yggg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Brand", "values": ["ACCESSOREEZ"] },
+              {
+                "key": "Model Number",
+                "values": ["Premium Locking Device For Hero Splendor Plus"]
+              },
+              { "key": "Type", "values": ["Helmet Lock"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Vehicle Brand", "values": ["Hero"] },
+              { "key": "Length", "values": ["10 cm"] },
+              { "key": "Coil Thickness", "values": ["2 mm"] },
+              { "key": "Diameter", "values": ["12 cm"] },
+              { "key": "Weight", "values": ["400 g"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6a649c8052cee9f7999ee0ba458cc99cd835e1d6" }
+      },
+      "active": true,
+      "id": "1f671af5c7b9004020f416237ac5aedcc11f71be"
+    },
+    {
+      "product": {
+        "id": "d7c43cca893f0b6307b8576227760a7c6ec78e05",
+        "name": "GOGLE SOURCING GS005 Selfie Stick",
+        "description": "Dummy description for product GOGLE SOURCING GS005 Selfie Stick",
+        "manufacturer_id": "8226fd67bfc7f0192d085a739945043a73174430",
+        "taric_code": "9969f580-911d-4e0f-b2d1-4e05c98a3294",
+        "variants": [
+          {
+            "id": "db021d23681e8e346aa9fa130b123d77",
+            "name": "GOGLE SOURCING GS005 Selfie Stick (Black)",
+            "description": "Specifications of GOGLE SOURCING GS005 Selfie Stick (Black) General Brand GOGLE SOURCING Designed For Mobile Phones Model Number GS005 Load Capacity 160 g Color Black Remote Included Yes Dimensions Weight 200 g Extended Length 1090 mm Folded Length 300 mm In the Box Sales Package 1 Mini Monopod Selfie Stick",
+            "stock_level": 6765,
+            "price": 499,
+            "sale": false,
+            "sale_price": 165,
+            "stock_keeping_unit": "SSKEJ5UHZAZVTC6H",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/selfie-stick/c/6/h/gs005-gogle-sourcing-1100x1100-imaej3keqtepzcyh.jpeg",
+                "filename": "gs005-gogle-sourcing-1100x1100-imaej3keqtepzcyh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/selfie-stick/c/6/h/gs005-gogle-sourcing-original-imaej3keqtepzcyh.jpeg",
+                "filename": "gs005-gogle-sourcing-original-imaej3keqtepzcyh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/selfie-stick/c/6/h/gs005-gogle-sourcing-original-imaej3ke6hsk4yr7.jpeg",
+                "filename": "gs005-gogle-sourcing-original-imaej3ke6hsk4yr7.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["GOGLE SOURCING"] },
+              { "key": "Designed For", "values": ["Mobile Phones"] },
+              { "key": "Model Number", "values": ["GS005"] },
+              { "key": "Load Capacity", "values": ["160 g"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Remote Included", "values": ["Yes"] },
+              { "key": "Weight", "values": ["200 g"] },
+              { "key": "Extended Length", "values": ["1090 mm"] },
+              { "key": "Folded Length", "values": ["300 mm"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Mini Monopod Selfie Stick"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "d6dc52443e5bc970e54818db2d3ea777beb58f0e" }
+      },
+      "active": true,
+      "id": "d7c43cca893f0b6307b8576227760a7c6ec78e05"
+    },
+    {
+      "product": {
+        "id": "ecbfa2daf5bc0620032f2f280e2854a972f8688c",
+        "name": "wallskart Floral & Botanical Wallpaper",
+        "description": "Dummy description for product wallskart Floral & Botanical Wallpaper",
+        "manufacturer_id": "e19aa16a2d97a2240e63b1be2788de878dfeb63b",
+        "taric_code": "5d762085-1f4a-4233-9408-937e76ea916e",
+        "variants": [
+          {
+            "id": "c5c559012b742d9966df82182b90c6da",
+            "name": "wallskart Floral & Botanical Wallpaper (35.56 cm...",
+            "description": "Key Features of wallskart Floral & Botanical Wallpaper Suitable For: Living Room, Bed Room, Kitchen, Office Color: Black Material: Vinyl Paper Type: Vinyl,wallskart Floral & Botanical Wallpaper (35.56 cm X 53.34 cm) Price: Rs. 299 Welcome to the foremost place on the web to find artistic designs of wall decals and wall stickers.Wall decals and wall stickers are self-adhesive vinyl stickers made for applying to a surface.They are a great alternative to wallpaper, paint or stencils and they give you choice. Choose your space, plan the design you`d like to make, and then apply. They are extremely durable and are available in various designs. Its extremely easy to apply them on your walls or any flat,smooth surface,Specifications of wallskart Floral & Botanical Wallpaper (35.56 cm X 53.34 cm) General Brand wallskart Scratch Resistant Yes Shade Black Material Vinyl Color Black Design Wallskart Tinker Bell And Flowers Small Black Wall sticker Suitable For Living Room, Bed Room, Kitchen, Office Theme Floral & Botanical Model Number WKHS0164S Length 35.56 cm Waterproof Yes Width 53.34 cm Paper Type Vinyl Size Small Warranty Covered in Warranty Should Not Be Applied on Freshly Painted Walls. At Least 15 Days after Painting. Should Not Applied On Humid / Wet Surfaces. Not To Be Applied On Textured Surfaces. Not to Be Applied With Paint /Dust Coming Off Surfaces Warranty Summary Wallskart Products come with warranty of 15 Days from the date of purchase and is not transferable. Wallskart warranty covers following: a) any damage to product in transit. b) Any manufacturing defect in product. During the warranty period, Wallskart shall exchange the product free of cost. Wallsk...View More Wallskart Products come with warranty of 15 Days from the date of purchase and is not transferable. Wallskart warranty covers following: a) any damage to product in transit. b) Any manufacturing defect in product. During the warranty period, Wallskart shall exchange the product free of cost. Wallskart Warranty is not valid in the event of following instances: a) Any damage to product due to extreme heat or moisture. b) Mishandling during installation. c) Any damage due to human interference, exposure to fire or accident. Customer agrees that Wallskart reserves the right to correct any issues that were a reason for the return, before any possible refund is issued. Dimensions Weight 250 g Additional Features Other Features Scratch Resistant, Wet Removable Washable Yes In the Box Sales Package 1 wall sticker Pack of 1",
+            "stock_level": 5236,
+            "price": 599,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "WLPEJ5VGMYBYGGX7",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/wallpaper/v/c/m/wkhs0164m-73-66-50-8-wallskart-original-imaej2za9dpgjpek.jpeg",
+                "filename": "wkhs0164m-73-66-50-8-wallskart-original-imaej2za9dpgjpek.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/wallpaper/v/c/m/wkhs0164m-73-66-50-8-wallskart-original-imaej2za9dpgjpek.jpeg",
+                "filename": "wkhs0164m-73-66-50-8-wallskart-original-imaej2za9dpgjpek.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/wallpaper/v/c/m/wkhs0164m-73-66-50-8-wallskart-original-imaej2za7jee9svr.jpeg",
+                "filename": "wkhs0164m-73-66-50-8-wallskart-original-imaej2za7jee9svr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/wallpaper/g/x/7/wkhs0164s-53-34-35-56-wallskart-original-imaej2zaezkscchq.jpeg",
+                "filename": "wkhs0164s-53-34-35-56-wallskart-original-imaej2zaezkscchq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["wallskart"] },
+              { "key": "Scratch Resistant", "values": ["Yes"] },
+              { "key": "Shade", "values": ["Black"] },
+              { "key": "Material", "values": ["Vinyl"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Design",
+                "values": [
+                  "Wallskart Tinker Bell And Flowers Small Black Wall sticker"
+                ]
+              },
+              {
+                "key": "Suitable For",
+                "values": ["Living Room", "Bed Room", "Kitchen", "Office"]
+              },
+              { "key": "Theme", "values": ["Floral and Botanical"] },
+              { "key": "Model Number", "values": ["WKHS0164S"] },
+              { "key": "Length", "values": ["35.56 cm"] },
+              { "key": "Waterproof", "values": ["Yes"] },
+              { "key": "Width", "values": ["53.34 cm"] },
+              { "key": "Paper Type", "values": ["Vinyl"] },
+              { "key": "Size", "values": ["Small"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Should Not Be Applied on Freshly Painted Walls. At Least 15 Days after Painting. Should Not Applied On Humid / Wet Surfaces. Not To Be Applied On Textured Surfaces. Not to Be Applied With Paint /Dust Coming Off Surfaces"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "Wallskart Products come with warranty of 15 Days from the date of purchase and is not transferable. Wallskart warranty covers following: a) any damage to product in transit. b) Any manufacturing defect in product. During the warranty period",
+                  "Wallskart shall exchange the product free of cost. Wallsk...View More Wallskart Products come with warranty of 15 Days from the date of purchase and is not transferable. Wallskart warranty covers following: a) any damage to product in transit. b) Any manufacturing defect in product. During the warranty period",
+                  "Wallskart shall exchange the product free of cost. Wallskart Warranty is not valid in the event of following instances: a) Any damage to product due to extreme heat or moisture. b) Mishandling during installation. c) Any damage due to human interference",
+                  "exposure to fire or accident. Customer agrees that Wallskart reserves the right to correct any issues that were a reason for the return",
+                  "before any possible refund is issued."
+                ]
+              },
+              { "key": "Weight", "values": ["250 g"] },
+              {
+                "key": "Other Features",
+                "values": ["Scratch Resistant", "Wet Removable"]
+              },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 wall sticker"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "51473bdb2e813d3a7f2439e10906fb62cb3baa95" }
+      },
+      "active": true,
+      "id": "ecbfa2daf5bc0620032f2f280e2854a972f8688c"
+    },
+    {
+      "product": {
+        "id": "471d773f041b1d87e934f285041b95cba8de9410",
+        "name": "Smart Wall Guru Decorative Wallpaper",
+        "description": "Dummy description for product Smart Wall Guru Decorative Wallpaper",
+        "manufacturer_id": "266273a46f022506c79c2ab50484d967e203d0e2",
+        "taric_code": "4713200f-b431-4176-8fe3-59edae63f2c7",
+        "variants": [
+          {
+            "id": "39be9627f30be93b57c5f1a69ef3f5ad",
+            "name": "Smart Wall Guru Decorative Wallpaper (58 cm X 70...",
+            "description": "Key Features of Smart Wall Guru Decorative Wallpaper We Showcase A Variety Of Wall Decal Categories Study room Looking Awesome Living room Bath room Attractive Guest room Kitchen Easy to Install Easy to Remove Easy To Clean All Wall Decal are front Matte Finish, water resistant & packaged between two layers.,Smart Wall Guru Decorative Wallpaper (58 cm X 70 cm) Price: Rs. 430 'Smart Wall Guru'' gives u a pure beautiful house with our decoration wall stickers,wall decals & all kind of designs for your home decoration.These stickers are made of self adhesive PVC vinyl and very easy to apply on plane surface. These are the great suppliment of wallpaper,wall color and another decoration method. Thnkss…,Specifications of Smart Wall Guru Decorative Wallpaper (58 cm X 70 cm) General Brand Smart Wall Guru Suitable For Home, Child Bedroom, Bedroom, Ktchen, Bathroom Theme Decorative Model Number WG194BL L Scratch Resistant Yes Shade Brown Length 58 cm Material Vinyl Width 70 cm Size Large Design Decoration Sticker Color Brown In the Box Pack of 1",
+            "stock_level": 2495,
+            "price": 1399,
+            "sale": false,
+            "sale_price": 430,
+            "stock_keeping_unit": "WLPEGHDFJ4UKCRMY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/wallpaper/r/m/y/wg194bl-l-70-58-smart-wall-guru-1100x1100-imaeghrnxqee9ndg.jpeg",
+                "filename": "wg194bl-l-70-58-smart-wall-guru-1100x1100-imaeghrnxqee9ndg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/wallpaper/r/m/y/wg194bl-l-70-58-smart-wall-guru-original-imaeghrnxqee9ndg.jpeg",
+                "filename": "wg194bl-l-70-58-smart-wall-guru-original-imaeghrnxqee9ndg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/wallpaper/r/m/y/wg194bl-l-70-58-smart-wall-guru-original-imaegjuhjyygjczt.jpeg",
+                "filename": "wg194bl-l-70-58-smart-wall-guru-original-imaegjuhjyygjczt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Smart Wall Guru"] },
+              {
+                "key": "Suitable For",
+                "values": [
+                  "Home",
+                  "Child Bedroom",
+                  "Bedroom",
+                  "Ktchen",
+                  "Bathroom"
+                ]
+              },
+              { "key": "Theme", "values": ["Decorative"] },
+              { "key": "Model Number", "values": ["WG194BL L"] },
+              { "key": "Scratch Resistant", "values": ["Yes"] },
+              { "key": "Shade", "values": ["Brown"] },
+              { "key": "Length", "values": ["58 cm"] },
+              { "key": "Material", "values": ["Vinyl"] },
+              { "key": "Width", "values": ["70 cm"] },
+              { "key": "Size", "values": ["Large"] },
+              { "key": "Design", "values": ["Decoration Sticker"] },
+              { "key": "Color", "values": ["Brown"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1882d6611b0e267ef69288c501c8022fe1842224" }
+      },
+      "active": true,
+      "id": "471d773f041b1d87e934f285041b95cba8de9410"
+    },
+    {
+      "product": {
+        "id": "42d8b82877fe530838a07cabffa650f81e3aa116",
+        "name": "signature VM-49 UNIVERSAL HANDSFREE Headphones",
+        "description": "Dummy description for product signature VM-49 UNIVERSAL HANDSFREE Headphones",
+        "manufacturer_id": "f69512a168eddd9b0da41dde7883c42303314197",
+        "taric_code": "50e8c9ab-ff19-44c4-9438-3f7a8de8982f",
+        "variants": [
+          {
+            "id": "ad11f2b9175347217b2f5c7d9f4fa294",
+            "name": "signature VM-49 UNIVERSAL HANDSFREE Headphones (...",
+            "description": "Key Features of signature VM-49 UNIVERSAL HANDSFREE Headphones Design: Canalphone Flatwire,Specifications of signature VM-49 UNIVERSAL HANDSFREE Headphones (Green, In the Ear) General Headset Design Canalphone Brand signature Compatible Devices Mobile Headphone Type In the Ear Model ID VM-49 In Sales Package 1 Headphone Color Green Performance Features Noise Cancellation No Bluetooth Bluetooth No Warranty Covered in Warranty Yes Warranty Summary 1 Year Warranty from Signature Not Covered in Warranty Warranty does not covered Connectivity Headphone Jack 3.5 mm Additional Features Flatwire Yes",
+            "stock_level": 1748,
+            "price": 799,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "ACCEJTEDZAEE8FZY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/headphone/universal-handsfree/f/z/y/signature-vm-49-1100x1100-imaejrxy9rffhffj.jpeg",
+                "filename": "signature-vm-49-1100x1100-imaejrxy9rffhffj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/headphone/universal-handsfree/f/z/y/signature-vm-49-original-imaejrxy9rffhffj.jpeg",
+                "filename": "signature-vm-49-original-imaejrxy9rffhffj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Headset Design", "values": ["Canalphone"] },
+              { "key": "Brand", "values": ["signature"] },
+              { "key": "Compatible Devices", "values": ["Mobile"] },
+              { "key": "Headphone Type", "values": ["In the Ear"] },
+              { "key": "Model ID", "values": ["VM-49"] },
+              { "key": "In Sales Package", "values": ["1 Headphone"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Noise Cancellation", "values": ["No"] },
+              { "key": "Bluetooth", "values": ["No"] },
+              { "key": "Covered in Warranty", "values": ["Yes"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Warranty from Signature"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Warranty does not covered"]
+              },
+              { "key": "Headphone Jack", "values": ["3.5 mm"] },
+              { "key": "Flatwire", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "d84ddab4864343f57deac18545cb1a4113f91a08" }
+      },
+      "active": true,
+      "id": "42d8b82877fe530838a07cabffa650f81e3aa116"
+    },
+    {
+      "product": {
+        "id": "0da55497598d4cb40fbc4908a689287711fbd09c",
+        "name": "LIME Women's Full Coverage Bra",
+        "description": "Dummy description for product LIME Women's Full Coverage Bra",
+        "manufacturer_id": "941a22bd98e0f8dae43db837914e271de336a830",
+        "taric_code": "2299869f-a262-4454-955b-61ed0c7740ba",
+        "variants": [
+          {
+            "id": "fff900ee973c8300ef0df4e53957435d",
+            "name": "LIME Women's Full Coverage Bra",
+            "description": "Key Features of LIME Women's Full Coverage Bra Suitable For: Fusion Wear Straps: Regular Wire Support: Wirefree,Specifications of LIME Women's Full Coverage Bra General Details Brand Color White Age Group NA - NA month color White Pattern Printed Ideal For Women's Bra Details Wire Support Wirefree Detachable Straps No Straps Regular Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Full Coverage Bra",
+            "stock_level": 5249,
+            "price": 399,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "BRAEJNETWZRKGQBT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bra/a/4/j/bra-010-lime-38-original-imaejgwyhkegfemj.jpeg",
+                "filename": "bra-010-lime-38-original-imaejgwyhkegfemj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bra/a/4/j/bra-010-lime-38-original-imaejgwyhkegfemj.jpeg",
+                "filename": "bra-010-lime-38-original-imaejgwyhkegfemj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bra/a/4/j/bra-010-lime-36-original-imaejgwyegfcxgub.jpeg",
+                "filename": "bra-010-lime-36-original-imaejgwyegfcxgub.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand Color", "values": ["White"] },
+              { "key": "Age Group", "values": ["NA - NA month"] },
+              { "key": "color", "values": ["White"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Wire Support", "values": ["Wirefree"] },
+              { "key": "Detachable Straps", "values": ["No"] },
+              { "key": "Straps", "values": ["Regular"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Full Coverage Bra"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "83ad115fa984f4c74482b19163f003ab58c515ee" }
+      },
+      "active": false,
+      "id": "0da55497598d4cb40fbc4908a689287711fbd09c"
+    },
+    {
+      "product": {
+        "id": "f03bc3bb601104053aabfaf15989fea5fcd9ed01",
+        "name": "SHIMZA by SHIMZA - Women's Bra Women's Full Coverage Bra",
+        "description": "Dummy description for product SHIMZA by SHIMZA - Women's Bra Women's Full Coverage Bra",
+        "manufacturer_id": "5d949dcb1adfc502a9afbbb2bf008d120e1b4be7",
+        "taric_code": "afffa81b-fb45-4dc8-8384-b3d4e4fd3750",
+        "variants": [
+          {
+            "id": "3181fe33f9a5085d045ecd1a6d37a175",
+            "name": "SHIMZA by SHIMZA - Women's Bra Women's Full Cove...",
+            "description": "Key Features of SHIMZA by SHIMZA - Women's Bra Women's Full Coverage Bra Rich Quality Easy To Carry Comfort Fit Solid Pattern,SHIMZA by SHIMZA - Women's Bra Women's Full Coverage Bra Price: Rs. 333 Look Smart And Feel Comfortable With Unique & Stylish Bra From SHIMZA House, SHIMZA Bra Adapts To All Figures And Cup Sizes, It Is Skin Friendly And Lightweight, Convenient And Comfortable Also Allowing Freedom Of Movement, Its Seamless Design Ensures Perfect Fit With Welt Free Band Leaving No Marks On Skin, Its Flexible Fabric Is So Comfortable That Can Be Worn While Sleeping. The Fabric Is Moisture Resistant And Dries Off Quickly. This Non-Wired Bra Gives You Comfort As Well As The Looks. The Ruching At The Centre Ensures A Perfect Fit. When Worn With Low Back Tops, The Triangular Racer Back Is Sure To Grab Eyeballs. Featuring Eye-Catching Designs, This Bra Will Become Your Instant Favorite. You Can Wear This Bra Underneath Your Bridal Dress Or Under A Loose T-Shirt.,Specifications of SHIMZA by SHIMZA - Women's Bra Women's Full Coverage Bra General Details Brand Color Maroon Age Group NA - NA month color Maroon Pattern Solid Occasion Casual, Beach Wear, Lounge Wear, Sports Ideal For Women's Bra Details Wire Support Wirefree Other Bra Details Comfort Fit Detachable Straps No Straps Regular Number of Contents in Sales Package Pack of 1 Fabric COTTON N POLY Seam Type Seamed Type Full Coverage Bra Design Unique Design On Front Side In the Box 1 Bra Additional Details Easy To Carry Fabric Care Gentle Machine Wash in Lukewarm Water, Do Not Bleach",
+            "stock_level": 7483,
+            "price": 499,
+            "sale": true,
+            "sale_price": 333,
+            "stock_keeping_unit": "BRAEJTH5VRZPMG9J",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bra/g/9/j/shim-00049-36-shimza-36-original-imaegy4myxfhpy5a.jpeg",
+                "filename": "shim-00049-36-shimza-36-original-imaegy4myxfhpy5a.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bra/g/9/j/shim-00049-36-shimza-36-original-imaegy4myxfhpy5a.jpeg",
+                "filename": "shim-00049-36-shimza-36-original-imaegy4myxfhpy5a.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bra/g/9/j/shim-00049-36-shimza-36-original-imaegy4ngakn34y3.jpeg",
+                "filename": "shim-00049-36-shimza-36-original-imaegy4ngakn34y3.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand Color", "values": ["Maroon"] },
+              { "key": "Age Group", "values": ["NA - NA month"] },
+              { "key": "color", "values": ["Maroon"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              {
+                "key": "Occasion",
+                "values": ["Casual", "Beach Wear", "Lounge Wear", "Sports"]
+              },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Wire Support", "values": ["Wirefree"] },
+              { "key": "Other Bra Details", "values": ["Comfort Fit"] },
+              { "key": "Detachable Straps", "values": ["No"] },
+              { "key": "Straps", "values": ["Regular"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["COTTON N POLY"] },
+              { "key": "Seam Type", "values": ["Seamed"] },
+              { "key": "Type", "values": ["Full Coverage Bra"] },
+              { "key": "Design", "values": ["Unique Design On Front Side"] },
+              {
+                "key": "485703c9-780d-4649-a86d-7204831a60ce",
+                "values": ["1 Bra"]
+              },
+              {
+                "key": "39c74f71-56a8-4289-81d6-9ba69c274a57",
+                "values": ["Easy To Carry"]
+              },
+              {
+                "key": "6d309396-d7ee-4d5f-ba72-4eb535431995",
+                "values": [
+                  "Gentle Machine Wash in Lukewarm Water",
+                  "Do Not Bleach"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "156186d543fcafa0042b27b8e6ab52d21da0d333" }
+      },
+      "active": false,
+      "id": "f03bc3bb601104053aabfaf15989fea5fcd9ed01"
+    },
+    {
+      "product": {
+        "id": "d37eacae618811acb989d843eef1f5c01409a592",
+        "name": "wallskart Animation & Cartoons Wallpaper",
+        "description": "Dummy description for product wallskart Animation & Cartoons Wallpaper",
+        "manufacturer_id": "e19aa16a2d97a2240e63b1be2788de878dfeb63b",
+        "taric_code": "84d11761-5546-47c1-b19c-f2871dd38fc4",
+        "variants": [
+          {
+            "id": "58c7af2b4a4309ec973195f1bdfaf1a1",
+            "name": "wallskart Animation & Cartoons Wallpaper (83.820...",
+            "description": "Key Features of wallskart Animation & Cartoons Wallpaper Suitable For: Living Room, Bed Room, Kitchen, Office Color: Black Material: Vinyl Paper Type: Vinyl,wallskart Animation & Cartoons Wallpaper (83.82000000000001 cm X 22.86 cm) Price: Rs. 299 Welcome to the foremost place on the web to find artistic designs of wall decals and wall stickers.Wall decals and wall stickers are self-adhesive vinyl stickers made for applying to a surface.They are a great alternative to wallpaper, paint or stencils and they give you choice. Choose your space, plan the design you`d like to make, and then apply. They are extremely durable and are available in various designs. Its extremely easy to apply them on your walls or any flat,smooth surface,Specifications of wallskart Animation & Cartoons Wallpaper (83.82000000000001 cm X 22.86 cm) General Brand wallskart Scratch Resistant Yes Shade Black Material Vinyl Color Black Design Wallskart Bunnies Head seamless Pattern Small Black Wall sticker Suitable For Living Room, Bed Room, Kitchen, Office Theme Animation & Cartoons Model Number WKHS0190S Length 83.82000000000001 cm Waterproof Yes Width 22.86 cm Paper Type Vinyl Size Small Warranty Covered in Warranty Should Not Be Applied on Freshly Painted Walls. At Least 15 Days after Painting. Should Not Applied On Humid / Wet Surfaces. Not To Be Applied On Textured Surfaces. Not to Be Applied With Paint /Dust Coming Off Surfaces Warranty Summary Wallskart Products come with warranty of 15 Days from the date of purchase and is not transferable. Wallskart warranty covers following: a) any damage to product in transit. b) Any manufacturing defect in product. During the warranty period, Wallskart shall exchange the product free of cost. Wallsk...View More Wallskart Products come with warranty of 15 Days from the date of purchase and is not transferable. Wallskart warranty covers following: a) any damage to product in transit. b) Any manufacturing defect in product. During the warranty period, Wallskart shall exchange the product free of cost. Wallskart Warranty is not valid in the event of following instances: a) Any damage to product due to extreme heat or moisture. b) Mishandling during installation. c) Any damage due to human interference, exposure to fire or accident. Customer agrees that Wallskart reserves the right to correct any issues that were a reason for the return, before any possible refund is issued. Dimensions Weight 250 g Additional Features Other Features Scratch Resistant, Wet Removable Washable Yes In the Box Sales Package 1 wall sticker Pack of 1",
+            "stock_level": 8263,
+            "price": 599,
+            "sale": true,
+            "sale_price": 299,
+            "stock_keeping_unit": "WLPEJ5VGBMZKHWAZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/wallpaper/z/s/w/wkhs0190xl-45-72-162-56-wallskart-original-imaej2zahgzkuszy.jpeg",
+                "filename": "wkhs0190xl-45-72-162-56-wallskart-original-imaej2zahgzkuszy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/wallpaper/z/s/w/wkhs0190xl-45-72-162-56-wallskart-original-imaej2zarpsz57gx.jpeg",
+                "filename": "wkhs0190xl-45-72-162-56-wallskart-original-imaej2zarpsz57gx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/wallpaper/w/a/z/wkhs0190s-22-86-83-82000000000001-wallskart-original-imaej2zbeyymwdrm.jpeg",
+                "filename": "wkhs0190s-22-86-83-82000000000001-wallskart-original-imaej2zbeyymwdrm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["wallskart"] },
+              { "key": "Scratch Resistant", "values": ["Yes"] },
+              { "key": "Shade", "values": ["Black"] },
+              { "key": "Material", "values": ["Vinyl"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Design",
+                "values": [
+                  "Wallskart Bunnies Head seamless Pattern Small Black Wall sticker"
+                ]
+              },
+              {
+                "key": "Suitable For",
+                "values": ["Living Room", "Bed Room", "Kitchen", "Office"]
+              },
+              { "key": "Theme", "values": ["Animation and Cartoons"] },
+              { "key": "Model Number", "values": ["WKHS0190S"] },
+              { "key": "Length", "values": ["83.82000000000001 cm"] },
+              { "key": "Waterproof", "values": ["Yes"] },
+              { "key": "Width", "values": ["22.86 cm"] },
+              { "key": "Paper Type", "values": ["Vinyl"] },
+              { "key": "Size", "values": ["Small"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Should Not Be Applied on Freshly Painted Walls. At Least 15 Days after Painting. Should Not Applied On Humid / Wet Surfaces. Not To Be Applied On Textured Surfaces. Not to Be Applied With Paint /Dust Coming Off Surfaces"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "Wallskart Products come with warranty of 15 Days from the date of purchase and is not transferable. Wallskart warranty covers following: a) any damage to product in transit. b) Any manufacturing defect in product. During the warranty period",
+                  "Wallskart shall exchange the product free of cost. Wallsk...View More Wallskart Products come with warranty of 15 Days from the date of purchase and is not transferable. Wallskart warranty covers following: a) any damage to product in transit. b) Any manufacturing defect in product. During the warranty period",
+                  "Wallskart shall exchange the product free of cost. Wallskart Warranty is not valid in the event of following instances: a) Any damage to product due to extreme heat or moisture. b) Mishandling during installation. c) Any damage due to human interference",
+                  "exposure to fire or accident. Customer agrees that Wallskart reserves the right to correct any issues that were a reason for the return",
+                  "before any possible refund is issued."
+                ]
+              },
+              { "key": "Weight", "values": ["250 g"] },
+              {
+                "key": "Other Features",
+                "values": ["Scratch Resistant", "Wet Removable"]
+              },
+              { "key": "Washable", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 wall sticker"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "51473bdb2e813d3a7f2439e10906fb62cb3baa95" }
+      },
+      "active": true,
+      "id": "d37eacae618811acb989d843eef1f5c01409a592"
+    },
+    {
+      "product": {
+        "id": "71644aeadb34d7bc2ef43342505a9d8007851374",
+        "name": "Karpine Compatible Samsung MLT-D109S Black Toner",
+        "description": "Dummy description for product Karpine Compatible Samsung MLT-D109S Black Toner",
+        "manufacturer_id": "4c9306d48031c52ca5a646d4b9249e164261f84e",
+        "taric_code": "de4cc195-3659-4c28-9d1f-ad29f5286ec7",
+        "variants": [
+          {
+            "id": "06e5eea195785ed3a1a0de86d2189850",
+            "name": "Karpine Toners",
+            "description": "Buy Karpine Compatible Samsung MLT-D109S Black Toner only for Rs. 1749 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1474,
+            "price": 3499,
+            "sale": false,
+            "sale_price": 1749,
+            "stock_keeping_unit": "INKEF3T7F2S9XQKJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/inktoner/q/k/t/karpine-krpsamml1610d2-original-imaef3z8neqgeeyx.jpeg",
+                "filename": "karpine-krpsamml1610d2-original-imaef3z8neqgeeyx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Karpine"] },
+              { "key": "Color Type", "values": ["Black"] },
+              { "key": "Model Name", "values": ["KrpSamD109S"] },
+              {
+                "key": "Model Series",
+                "values": ["Compatible Samsung MLT-D109S"]
+              },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Cartridge Type", "values": ["Toner"] },
+              { "key": "Warranty", "values": ["60 Days Warranty"] },
+              { "key": "Service Type", "values": ["Carry-In"] },
+              {
+                "key": "Covered Under Warranty",
+                "values": ["All Manufacturing Defects"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "cd16c08c1602210322a76efd863cc07a329db7a5" }
+      },
+      "active": false,
+      "id": "71644aeadb34d7bc2ef43342505a9d8007851374"
+    },
+    {
+      "product": {
+        "id": "ef7d718e97ad189c652bf7fcee6ce9e229e41419",
+        "name": "Gharonda Showpiece  -  15 cm",
+        "description": "Dummy description for product Gharonda Showpiece  -  15 cm",
+        "manufacturer_id": "91ab96ac51b73bc0590b44d3dc8df950e7c8c02f",
+        "taric_code": "b390dcf4-7a97-4e05-bb70-54f0379c7425",
+        "variants": [
+          {
+            "id": "41e4f374de77a7aef168ef0d8efc0db6",
+            "name": "Gharonda Religious Idols",
+            "description": "Gharonda Showpiece  -  15 cm (Wooden, Steel, Multicolor)\n                         Price: Rs. 2,500\n\t\t\t\t\n\t\t\tThe perfect piece of home decor a great choice for many to place him in their homes, businesses, and other places.Powered By 10nqu.com\nThe perfect piece of home decor a great choice for many to place him in their homes, businesses, and other places.Powered By 10nqu.com",
+            "stock_level": 4817,
+            "price": 2500,
+            "sale": false,
+            "sale_price": 2500,
+            "stock_keeping_unit": "SHIED9QZH7GZUGSK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/f/p/v/p18-gunit-1100x1100-imaed9hddbr6fqsw.jpeg",
+                "filename": "p18-gunit-1100x1100-imaed9hddbr6fqsw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/f/p/v/p18-gunit-original-imaed9hddbr6fqsw.jpeg",
+                "filename": "p18-gunit-original-imaed9hddbr6fqsw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/f/p/v/p18-gunit-original-imaed9hdubuqc9ea.jpeg",
+                "filename": "p18-gunit-original-imaed9hdubuqc9ea.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/f/p/v/p18-gunit-original-imaed9hdapzdxrz2.jpeg",
+                "filename": "p18-gunit-original-imaed9hdapzdxrz2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/f/p/v/p18-gunit-original-imaed9hdjevc8qpg.jpeg",
+                "filename": "p18-gunit-original-imaed9hdjevc8qpg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Gharonda"] },
+              { "key": "Model Number", "values": ["hc865"] },
+              { "key": "Type", "values": ["Animal Figurines"] },
+              { "key": "Material", "values": ["Wooden", "Steel"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Gharonda hc865-019 bell horse"]
+              },
+              { "key": "Height", "values": ["15 cm"] },
+              { "key": "Width", "values": ["7 cm"] },
+              { "key": "Depth", "values": ["13 cm"] },
+              { "key": "Sales Package", "values": ["1 Bell Horse"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": false,
+      "id": "ef7d718e97ad189c652bf7fcee6ce9e229e41419"
+    },
+    {
+      "product": {
+        "id": "dbb21ae87941ed148f2631eab4d7d031b2081c3e",
+        "name": "Jettec 104 Black Toner",
+        "description": "Dummy description for product Jettec 104 Black Toner",
+        "manufacturer_id": "b693136dc2f7436fb9a579071d26d68e51f3874f",
+        "taric_code": "96e24f30-bc66-489c-bfa4-baa554546c83",
+        "variants": [
+          {
+            "id": "a1f4bfb640ec3d833fa6fdb436d33250",
+            "name": "Jettec Toners",
+            "description": "Jettec 104 Black Toner (Black)\n                         Price: Rs. 1,500\n\t\t\t\t\n\t\t\tCompatible & suitable for Samsung ML1660, 1661, 1665, 1666, 1670, SCX3201, 3201, 3205, 3206, 3210, 3217, 3218 ML-1860, 1861, 1865\nCompatible & suitable for Samsung ML1660, 1661, 1665, 1666, 1670, SCX3201, 3201, 3205, 3206, 3210, 3217, 3218 ML-1860, 1861, 1865",
+            "stock_level": 9260,
+            "price": 6250,
+            "sale": false,
+            "sale_price": 1500,
+            "stock_keeping_unit": "INKDWYSBHRJXDMSN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/inktoner/m/s/n/jettec-jts104-original-imadwyvggzfezar3.jpeg",
+                "filename": "jettec-jts104-original-imadwyvggzfezar3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/inktoner/m/s/n/jettec-jts104-original-imadwyvggzfezar3.jpeg",
+                "filename": "jettec-jts104-original-imadwyvggzfezar3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/inktoner/m/s/n/jettec-jts104-original-imadwyvge8jghsth.jpeg",
+                "filename": "jettec-jts104-original-imadwyvge8jghsth.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jettec"] },
+              { "key": "Color Type", "values": ["Black"] },
+              { "key": "Model Name", "values": ["JTS104"] },
+              { "key": "Model Series", "values": ["104"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Cartridge Type", "values": ["Toner"] },
+              { "key": "Warranty", "values": ["Manufacturing warranty"] },
+              {
+                "key": "Service Type",
+                "values": [
+                  "For any after sales support",
+                  "please feel free to mail at sagarshah@jettecindia.com",
+                  "or contact us on +91 9769829979"
+                ]
+              },
+              {
+                "key": "Covered Under Warranty",
+                "values": ["Any sort of Manufacturing Defects."]
+              },
+              {
+                "key": "Not Covered Under Warranty",
+                "values": [
+                  "Physical Damage",
+                  "Depleted Use",
+                  "Tempered Cartridge",
+                  "Broken Seal"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "cd16c08c1602210322a76efd863cc07a329db7a5" }
+      },
+      "active": true,
+      "id": "dbb21ae87941ed148f2631eab4d7d031b2081c3e"
+    },
+    {
+      "product": {
+        "id": "2d6277194a7f5080d712a489b4d081b83054e626",
+        "name": "GM Regular Fit Men's Silver Trousers",
+        "description": "Dummy description for product GM Regular Fit Men's Silver Trousers",
+        "manufacturer_id": "4c11596eac4ecbf9e949ac976c27d15080f78f5d",
+        "taric_code": "64cd7fc4-8022-4a10-81c5-9d49e4456210",
+        "variants": [
+          {
+            "id": "0bfdc96d1dd064471ea05c3959600a35",
+            "name": "GM Regular Fit Men's Silver Trousers",
+            "description": "Key Features of GM Regular Fit Men's Silver Trousers Occasion: Formal Suitable For:Western Wear Color: Silver Fit: Regular Fit Fabric:COTTON,Specifications of GM Regular Fit Men's Silver Trousers General Details Occasion Formal Ideal For Men's Color Silver Trouser Details Number of Contents in Sales Package Pack of 1 Fabric COTTON Type CHINOS Fit Regular Fit Additional Details Style Code GMPCCGP32",
+            "stock_level": 3180,
+            "price": 2200,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "TROEJY3HGWQYKXYU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/trouser/h/4/w/gmpccgp36-gm-36-original-imaejxdffpagzwn4.jpeg",
+                "filename": "gmpccgp36-gm-36-original-imaejxdffpagzwn4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/h/4/w/gmpccgp36-gm-36-original-imaejxdffpagzwn4.jpeg",
+                "filename": "gmpccgp36-gm-36-original-imaejxdffpagzwn4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/h/4/w/gmpccgp36-gm-36-original-imaejxdfp8qctnfr.jpeg",
+                "filename": "gmpccgp36-gm-36-original-imaejxdfp8qctnfr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/trouser/h/4/w/gmpccgp36-gm-36-original-imaejxdffkgfmxkx.jpeg",
+                "filename": "gmpccgp36-gm-36-original-imaejxdffkgfmxkx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/h/4/w/gmpccgp36-gm-36-original-imaejxdfdvqrhpg3.jpeg",
+                "filename": "gmpccgp36-gm-36-original-imaejxdfdvqrhpg3.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Occasion", "values": ["Formal"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Color", "values": ["Silver"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["COTTON"] },
+              { "key": "Type", "values": ["CHINOS"] },
+              { "key": "Fit", "values": ["Regular Fit"] },
+              { "key": "Style Code", "values": ["GMPCCGP32"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bc5e252c5065a224ec3f50223f968dc7a9a9fbc4" }
+      },
+      "active": true,
+      "id": "2d6277194a7f5080d712a489b4d081b83054e626"
+    },
+    {
+      "product": {
+        "id": "9babfe50edee7e41e5bc67c58642687f4518420a",
+        "name": "DIVAS CHOICE Animal Print polyester Women's Stole",
+        "description": "Dummy description for product DIVAS CHOICE Animal Print polyester Women's Stole",
+        "manufacturer_id": "e1172570762d645192f887c6cc5b627471723216",
+        "taric_code": "5afabf6f-3aff-4b28-8fe9-3ae7e100307b",
+        "variants": [
+          {
+            "id": "3130da95ed2aec6e592b0086d6353f8c",
+            "name": "DIVAS CHOICE Animal Print polyester Women's Stole",
+            "description": "Key Features of DIVAS CHOICE Animal Print polyester Women's Stole Fabric: polyester Brand Color: multicolor,DIVAS CHOICE Animal Print polyester Women's Stole Price: Rs. 179 Divas Choice colored printed stole that is sure to jazz up your casual look. Made from premium quality polyester material, this beautiful stole is a must have for every woman. Further, this stole keeps your face and lustrous manes protected from the dusty climate while being extremely soft against your skin. In addition, the attractive pattern on this stole will surely give you a modish look. You can style this stole the way you want to look every bit trendy.,Specifications of DIVAS CHOICE Animal Print polyester Women's Stole General Details Pattern Animal Print Ideal For Women's Scarf Details Number of Contents in Sales Package Pack of 1 Fabric polyester Type Stole Length 72 inch Width 22 inch Additional Details Style Code Divas Choice Printed Polyester Women's Stole 16 In the Box stole",
+            "stock_level": 9991,
+            "price": 499,
+            "sale": false,
+            "sale_price": 179,
+            "stock_keeping_unit": "SCFEJYNRUWMYMZEZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/scarf/z/e/z/divas-choice-printed-polyester-women-s-stole-16-divas-choice-original-imaejwhm2m3ymgqy.jpeg",
+                "filename": "divas-choice-printed-polyester-women-s-stole-16-divas-choice-original-imaejwhm2m3ymgqy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/scarf/z/e/z/divas-choice-printed-polyester-women-s-stole-16-divas-choice-original-imaejwhm65szf5qa.jpeg",
+                "filename": "divas-choice-printed-polyester-women-s-stole-16-divas-choice-original-imaejwhm65szf5qa.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/scarf/z/e/z/divas-choice-printed-polyester-women-s-stole-16-divas-choice-original-imaejwhmbb7az3me.jpeg",
+                "filename": "divas-choice-printed-polyester-women-s-stole-16-divas-choice-original-imaejwhmbb7az3me.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Animal Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["polyester"] },
+              { "key": "Type", "values": ["Stole"] },
+              { "key": "Length", "values": ["72 inch"] },
+              { "key": "Width", "values": ["22 inch"] },
+              {
+                "key": "Style Code",
+                "values": ["Divas Choice Printed Polyester Women's Stole 16"]
+              },
+              {
+                "key": "33d15cbc-71f3-479b-8afd-3603c1698fe4",
+                "values": ["stole"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "516d3571c3677d9e0454beaa14cd18330497db7c" }
+      },
+      "active": true,
+      "id": "9babfe50edee7e41e5bc67c58642687f4518420a"
+    },
+    {
+      "product": {
+        "id": "03d1bdb3831963badb365f29089d6cdb3b463e51",
+        "name": "Saco SG0516-35 Screen Guard for Asus A553SA-XX050T 15.6-inch Laptop",
+        "description": "Dummy description for product Saco SG0516-35 Screen Guard for Asus A553SA-XX050T 15.6-inch Laptop",
+        "manufacturer_id": "174e6012bca5f35cf25387c0700a43c2d002cb88",
+        "taric_code": "c246d60d-89b4-4bd5-8e99-4bbad8a5b10c",
+        "variants": [
+          {
+            "id": "c5a7d007d170b736d8fee845b4c79322",
+            "name": "Saco SG0516-35 Screen Guard for Asus A553SA-XX05...",
+            "description": "Key Features of Saco SG0516-35 Screen Guard for Asus A553SA-XX050T 15.6-inch Laptop 1.Protect your device from dust, scratches and fingerprint 2.Offers touch, durable, transparent surface while keeping the screen clean and unscratched 3.Attaches smoothly with self-adhering surface, leaves no residue when removed 4.Ultra thin and clear HD premium screen protector, anti-scratch, anti-fingerprint, water and oil resistant 5.99.99-percent retina clarity and touchscreen accuracy screen guard,Specifications of Saco SG0516-35 Screen Guard for Asus A553SA-XX050T 15.6-inch Laptop General Brand Saco Designed For Asus A553SA-XX050T 15.6-inch Laptop Type Screen Guard Model ID SG0516-35 Color Transparent Features Scratch Resistant Features Fixing Method Glue Free Adhesive Other Features Crystal Clarity, Ready to Use Removable Yes Residue-free Removal Yes In the Box Number of Contents in Sales Package Pack of 1 Sales Package 1 Screen Guard",
+            "stock_level": 6491,
+            "price": 450,
+            "sale": false,
+            "sale_price": 450,
+            "stock_keeping_unit": "ACCEJFGQSZF7GWEU",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/n/e/r/saco-sg0516-39-1100x1100-imaefuwgvpbxvmx7.jpeg",
+                "filename": "saco-sg0516-39-1100x1100-imaefuwgvpbxvmx7.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/n/e/r/saco-sg0516-39-original-imaefuwgvpbxvmx7.jpeg",
+                "filename": "saco-sg0516-39-original-imaefuwgvpbxvmx7.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/n/e/r/saco-sg0516-39-original-imaefuwgcr9ayhpg.jpeg",
+                "filename": "saco-sg0516-39-original-imaefuwgcr9ayhpg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/n/e/r/saco-sg0516-39-original-imaegz82uhkyrvmu.jpeg",
+                "filename": "saco-sg0516-39-original-imaegz82uhkyrvmu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/screen-guard/screen-guard/n/e/r/saco-sg0516-39-original-imaefuwgdgjbpe79.jpeg",
+                "filename": "saco-sg0516-39-original-imaefuwgdgjbpe79.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/screen-guard/screen-guard/n/e/r/saco-sg0516-39-original-imaefuwg5jpgadqk.jpeg",
+                "filename": "saco-sg0516-39-original-imaefuwg5jpgadqk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Saco"] },
+              {
+                "key": "Designed For",
+                "values": ["Asus A553SA-XX050T 15.6-inch Laptop"]
+              },
+              { "key": "Type", "values": ["Screen Guard"] },
+              { "key": "Model ID", "values": ["SG0516-35"] },
+              { "key": "Color", "values": ["Transparent"] },
+              { "key": "Features", "values": ["Scratch Resistant"] },
+              { "key": "Fixing Method", "values": ["Glue Free Adhesive"] },
+              {
+                "key": "Other Features",
+                "values": ["Crystal Clarity", "Ready to Use"]
+              },
+              { "key": "Removable", "values": ["Yes"] },
+              { "key": "Residue-free Removal", "values": ["Yes"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 Screen Guard"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "22a23c46f8afe71a945914752ed7eea4e37880e8" }
+      },
+      "active": true,
+      "id": "03d1bdb3831963badb365f29089d6cdb3b463e51"
+    },
+    {
+      "product": {
+        "id": "cbdb0d6ac4389fd0f64647da14f39c8159a04e39",
+        "name": "OGX Strength & Body+Bamboo Fiber-Full Thickening Root Booster",
+        "description": "Dummy description for product OGX Strength & Body+Bamboo Fiber-Full Thickening Root Booster",
+        "manufacturer_id": "de112317c43d80154bd11acd18c99e5eb2e3ec13",
+        "taric_code": "7d7d6bc9-65db-4db8-9887-2f4635570a26",
+        "variants": [
+          {
+            "id": "a073a5727faa2ee5ba88d1702b2e9e15",
+            "name": "OGX Strength & Body+Bamboo Fiber-Full Thickening...",
+            "description": "Specifications of OGX Strength & Body+Bamboo Fiber-Full Thickening Root Booster (177 ml) Hair Treatment Details Hair Condition Damaged Hair Brand OGX Formula Serum Ideal For Women General Traits Quantity 177 ml Treatment Type Root Booster In the Box Package 1 Root Booster",
+            "stock_level": 8216,
+            "price": 725,
+            "sale": false,
+            "sale_price": 675,
+            "stock_keeping_unit": "HTTECRHF2PAYMFMY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/hair-treatment/f/m/y/ogx-177-strength-body-bamboo-fiber-full-thickening-root-booster-1100x1100-imaecqrfgqbvwjhx.jpeg",
+                "filename": "ogx-177-strength-body-bamboo-fiber-full-thickening-root-booster-1100x1100-imaecqrfgqbvwjhx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hair-treatment/f/m/y/ogx-177-strength-body-bamboo-fiber-full-thickening-root-booster-original-imaecqrfgqbvwjhx.jpeg",
+                "filename": "ogx-177-strength-body-bamboo-fiber-full-thickening-root-booster-original-imaecqrfgqbvwjhx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Hair Condition", "values": ["Damaged Hair"] },
+              { "key": "Brand", "values": ["OGX"] },
+              { "key": "Formula", "values": ["Serum"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Quantity", "values": ["177 ml"] },
+              { "key": "Treatment Type", "values": ["Root Booster"] },
+              { "key": "Package", "values": ["1 Root Booster"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "7b11d441f48d6bfc3d0aec7005b92a7264fd5f39" }
+      },
+      "active": false,
+      "id": "cbdb0d6ac4389fd0f64647da14f39c8159a04e39"
+    },
+    {
+      "product": {
+        "id": "0d31624ff45b24a480ef7761ae010996f94a42b8",
+        "name": "Queen Steps Bellies",
+        "description": "Dummy description for product Queen Steps Bellies",
+        "manufacturer_id": "28ff17648b065cc6bf5522219a3d6eae67ce92ab",
+        "taric_code": "e4f6cdb4-d23f-470e-8e44-fec190aef32a",
+        "variants": [
+          {
+            "id": "d7042a9884bbeb443efb679ec668bcb8",
+            "name": "Queen Steps Bellies",
+            "description": "Key Features of Queen Steps Bellies Belleis Queensteps Queensteps Queensteps,Queen Steps Bellies Price: Rs. 399 A beautiful bellies from queensteps,Specifications of Queen Steps Bellies General Ideal For Women Occasion Casual Shoe Details Weight 300 g (per single Shoe) - Weight of the product may vary depending on size. Heel Height 0 inch Outer Material Fabric Color Black::Multicolor In the Box 2 Bellies",
+            "stock_level": 3166,
+            "price": 999,
+            "sale": true,
+            "sale_price": 399,
+            "stock_keeping_unit": "SHOEJXVUAD43GAS7",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/r/p/black-multicolor-38-queen-steps-38-original-imaejvhenughqkcs.jpeg",
+                "filename": "black-multicolor-38-queen-steps-38-original-imaejvhenughqkcs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/z/r/p/black-multicolor-38-queen-steps-38-original-imaejvhenughqkcs.jpeg",
+                "filename": "black-multicolor-38-queen-steps-38-original-imaejvhenughqkcs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/n/c/3/black-multicolor-36-queen-steps-36-original-imaejvherjhzvhuv.jpeg",
+                "filename": "black-multicolor-36-queen-steps-36-original-imaejvherjhzvhuv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/z/r/p/black-multicolor-38-queen-steps-38-original-imaejvhehy6uvh9h.jpeg",
+                "filename": "black-multicolor-38-queen-steps-38-original-imaejvhehy6uvh9h.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/r/p/black-multicolor-38-queen-steps-38-original-imaejvheyr3bhhqw.jpeg",
+                "filename": "black-multicolor-38-queen-steps-38-original-imaejvheyr3bhhqw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "Weight",
+                "values": [
+                  "300 g (per single Shoe) - Weight of the product may vary depending on size."
+                ]
+              },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              { "key": "Outer Material", "values": ["Fabric"] },
+              { "key": "Color", "values": ["Black::Multicolor"] },
+              {
+                "key": "8770a023-9c3c-4971-bae0-3870cf4c9744",
+                "values": ["2 Bellies"]
+              }
+            ]
+          },
+          {
+            "id": "a9b56c556dc2e5f85524fa3e4bae2b80",
+            "name": "Queen Steps Bellies",
+            "description": "Key Features of Queen Steps Bellies Belleis Queensteps Queensteps Queensteps,Queen Steps Bellies Price: Rs. 399 A beautiful bellies from queensteps,Specifications of Queen Steps Bellies General Ideal For Women Occasion Casual Shoe Details Weight 300 g (per single Shoe) - Weight of the product may vary depending on size. Heel Height 0 inch Outer Material Suede Color Orange In the Box 2 Bellies",
+            "stock_level": 1282,
+            "price": 999,
+            "sale": true,
+            "sale_price": 399,
+            "stock_keeping_unit": "SHOEJXVUXWEQ2JSY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/8/p/x/orange-41-queen-steps-41-original-imaejvhezxjgyrga.jpeg",
+                "filename": "orange-41-queen-steps-41-original-imaejvhezxjgyrga.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/p/x/orange-41-queen-steps-41-original-imaejvhezxjgyrga.jpeg",
+                "filename": "orange-41-queen-steps-41-original-imaejvhezxjgyrga.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/p/x/orange-41-queen-steps-41-original-imaejvhfwtgxhn95.jpeg",
+                "filename": "orange-41-queen-steps-41-original-imaejvhfwtgxhn95.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/p/x/orange-41-queen-steps-41-original-imaejvhem4dspsvd.jpeg",
+                "filename": "orange-41-queen-steps-41-original-imaejvhem4dspsvd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/p/x/orange-41-queen-steps-41-original-imaejvhfqrmszxgg.jpeg",
+                "filename": "orange-41-queen-steps-41-original-imaejvhfqrmszxgg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "Weight",
+                "values": [
+                  "300 g (per single Shoe) - Weight of the product may vary depending on size."
+                ]
+              },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              { "key": "Outer Material", "values": ["Suede"] },
+              { "key": "Color", "values": ["Orange"] },
+              {
+                "key": "d3fea222-9230-49b7-a8f2-70d15371705d",
+                "values": ["2 Bellies"]
+              }
+            ]
+          },
+          {
+            "id": "aae7102f4681d08a0a04aa286a717edb",
+            "name": "Queen Steps Bellies",
+            "description": "Key Features of Queen Steps Bellies Belleis Queensteps Queensteps Queensteps,Queen Steps Bellies Price: Rs. 399 A beautiful bellies from queensteps,Specifications of Queen Steps Bellies General Ideal For Women Occasion Casual Shoe Details Weight 300 g (per single Shoe) - Weight of the product may vary depending on size. Heel Height 0 inch Outer Material Fabric Color Black::Multicolor In the Box 2 Bellies",
+            "stock_level": 7239,
+            "price": 999,
+            "sale": true,
+            "sale_price": 399,
+            "stock_keeping_unit": "SHOEJXVTQNHX2NC3",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/r/p/black-multicolor-38-queen-steps-38-original-imaejvhenughqkcs.jpeg",
+                "filename": "black-multicolor-38-queen-steps-38-original-imaejvhenughqkcs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/z/r/p/black-multicolor-38-queen-steps-38-original-imaejvhenughqkcs.jpeg",
+                "filename": "black-multicolor-38-queen-steps-38-original-imaejvhenughqkcs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/n/c/3/black-multicolor-36-queen-steps-36-original-imaejvherjhzvhuv.jpeg",
+                "filename": "black-multicolor-36-queen-steps-36-original-imaejvherjhzvhuv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/z/r/p/black-multicolor-38-queen-steps-38-original-imaejvhehy6uvh9h.jpeg",
+                "filename": "black-multicolor-38-queen-steps-38-original-imaejvhehy6uvh9h.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/r/p/black-multicolor-38-queen-steps-38-original-imaejvheyr3bhhqw.jpeg",
+                "filename": "black-multicolor-38-queen-steps-38-original-imaejvheyr3bhhqw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "Weight",
+                "values": [
+                  "300 g (per single Shoe) - Weight of the product may vary depending on size."
+                ]
+              },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              { "key": "Outer Material", "values": ["Fabric"] },
+              { "key": "Color", "values": ["Black::Multicolor"] },
+              {
+                "key": "db40ad67-c034-4bf6-be4c-b641f5f7571a",
+                "values": ["2 Bellies"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3183e3b175076d7ef2a528328c1f2c665ac5d677" }
+      },
+      "active": true,
+      "id": "0d31624ff45b24a480ef7761ae010996f94a42b8"
+    },
+    {
+      "product": {
+        "id": "41b6a02e52c5dcf22b6a0141d4d2e5a87a1c4170",
+        "name": "TruSo Slim Fit Men's Beige Trousers",
+        "description": "Dummy description for product TruSo Slim Fit Men's Beige Trousers",
+        "manufacturer_id": "8fd2a4da05befeca18e5082b85ab752d48bc0728",
+        "taric_code": "f4d94528-7498-4477-a7b6-793e2102f30d",
+        "variants": [
+          {
+            "id": "a8590023b1bc8d3609bbbb7eed144f17",
+            "name": "TruSo Slim Fit Men's Beige Trousers",
+            "description": "Key Features of TruSo Slim Fit Men's Beige Trousers Fabric: Cotton Lycra Pre-shrunk Combed Ringspun Cotton for Softness Style: Designer Front & Back Pockets Fit: Slim,TruSo Slim Fit Men's Beige Trousers Price: Rs. 799 This pair of trousers from TruSo is a perfect pick for men, who don't like to compromise on style or comfort. Team it with a casual shirt and a pair of loafers or casual shoes to complement your look for an outing with friends.,Specifications of TruSo Slim Fit Men's Beige Trousers General Details Ideal For Men's Occasion Casual Alteration Required No Color Beige Trouser Details Closure Button Number of Contents in Sales Package Pack of 1 Fabric Cotton, Lycra Type Chinos Fit Slim Fit Belt Loops Yes Fly Zipper Fabric Care Normal Cycle, Warm Iron, Machine Wash Cold with Like Colors, Do Not Bleach, Line Dry In Shade Additional Details Style Code TOT1203 In the Box 1 Trouser",
+            "stock_level": 863,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 719,
+            "stock_keeping_unit": "TROEJYVHEKXPZAAW",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/trouser/6/h/n/tot1203-truso-34-original-imaejxmfzzzn6dbf.jpeg",
+                "filename": "tot1203-truso-34-original-imaejxmfzzzn6dbf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/6/h/n/tot1203-truso-34-original-imaejxmngg6mhhkf.jpeg",
+                "filename": "tot1203-truso-34-original-imaejxmngg6mhhkf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/6/h/n/tot1203-truso-34-original-imaejxmgnw5meh5b.jpeg",
+                "filename": "tot1203-truso-34-original-imaejxmgnw5meh5b.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/6/h/n/tot1203-truso-34-original-imaejxmh4q4yvxd7.jpeg",
+                "filename": "tot1203-truso-34-original-imaejxmh4q4yvxd7.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/6/h/n/tot1203-truso-34-original-imaejxmjf6fmdcxv.jpeg",
+                "filename": "tot1203-truso-34-original-imaejxmjf6fmdcxv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Alteration Required", "values": ["No"] },
+              { "key": "Color", "values": ["Beige"] },
+              { "key": "Closure", "values": ["Button"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton", "Lycra"] },
+              { "key": "Type", "values": ["Chinos"] },
+              { "key": "Fit", "values": ["Slim Fit"] },
+              { "key": "Belt Loops", "values": ["Yes"] },
+              { "key": "Fly", "values": ["Zipper"] },
+              {
+                "key": "6b87bd31-c81b-4423-9d63-bbd4f79d274c",
+                "values": [
+                  "Normal Cycle",
+                  "Warm Iron",
+                  "Machine Wash Cold with Like Colors",
+                  "Do Not Bleach",
+                  "Line Dry In Shade"
+                ]
+              },
+              { "key": "Style Code", "values": ["TOT1203"] },
+              {
+                "key": "bc2df4ed-a4e5-4097-9dbc-7bff7610db4d",
+                "values": ["1 Trouser"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "d6a50b67cb9bd924b292a4149bc2e4ec70e3b815" }
+      },
+      "active": true,
+      "id": "41b6a02e52c5dcf22b6a0141d4d2e5a87a1c4170"
+    },
+    {
+      "product": {
+        "id": "e12170188c0f357676c3119f7c33200e60527155",
+        "name": "Craftcart Flat Antique Brass Cabinet/Draw Pull",
+        "description": "Dummy description for product Craftcart Flat Antique Brass Cabinet/Draw Pull",
+        "manufacturer_id": "619f67c8ecec9b81680480a894a606ade109cbd8",
+        "taric_code": "77c20e8d-9a14-42fe-93cd-23a32cb50c4d",
+        "variants": [
+          {
+            "id": "0b7d6b7b1c686aa9cc0368daf3ab8550",
+            "name": "Craftcart Flat Antique Brass Cabinet/Draw Pull (...",
+            "description": "Key Features of Craftcart Flat Antique Brass Cabinet/Draw Pull Finish: Glossy Height: 4 cm,Specifications of Craftcart Flat Antique Brass Cabinet/Draw Pull (Brown Pack of 2) General Brand Craftcart Model Number CH-Komal-A Type Cabinet/Draw Pull Material Brass Model Name Flat Antique Color Brown Dimensions Weight 60 g Height 4 cm Width 9 cm Body & Design Features Finish Glossy In the Box Sales Package 2 Brass Cabinet pull handles Pack of 2",
+            "stock_level": 725,
+            "price": 500,
+            "sale": false,
+            "sale_price": 275,
+            "stock_keeping_unit": "KBHEJXQRFHUNDZGF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/knob-handle/z/g/f/ch-komal-a-craftcart-original-imaejwh4nmfsdmfw.jpeg",
+                "filename": "ch-komal-a-craftcart-original-imaejwh4nmfsdmfw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/knob-handle/z/g/f/ch-komal-a-craftcart-original-imaejwh4nmfsdmfw.jpeg",
+                "filename": "ch-komal-a-craftcart-original-imaejwh4nmfsdmfw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/knob-handle/z/g/f/ch-komal-a-craftcart-original-imaejwh4hzdfdzzh.jpeg",
+                "filename": "ch-komal-a-craftcart-original-imaejwh4hzdfdzzh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Craftcart"] },
+              { "key": "Model Number", "values": ["CH-Komal-A"] },
+              { "key": "Type", "values": ["Cabinet/Draw Pull"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Model Name", "values": ["Flat Antique"] },
+              { "key": "Color", "values": ["Brown"] },
+              { "key": "Weight", "values": ["60 g"] },
+              { "key": "Height", "values": ["4 cm"] },
+              { "key": "Width", "values": ["9 cm"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              {
+                "key": "Sales Package",
+                "values": ["2 Brass Cabinet pull handles"]
+              },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "e37dbd6fc4c00d6b9e31e1a88c9f8a594f88b305" }
+      },
+      "active": true,
+      "id": "e12170188c0f357676c3119f7c33200e60527155"
+    },
+    {
+      "product": {
+        "id": "f0735b6a320c0dc23b9ef5140882500072f3cb0f",
+        "name": "Mobiroy Bellies",
+        "description": "Dummy description for product Mobiroy Bellies",
+        "manufacturer_id": "209efb896e38b03eebf95f1471a1d567db299374",
+        "taric_code": "114d160e-cc7c-47b6-b134-baac165f9c6e",
+        "variants": [
+          {
+            "id": "5004e006bd062a9ce56efb57026cf7a5",
+            "name": "Mobiroy Bellies",
+            "description": "Key Features of Mobiroy Bellies Keeps You Lively,Mobiroy Bellies Price: Rs. 699 Key Features of Mobiroy Bellies • Material: ARTIFICIAL LEATHER • Occasion: Casual • Heel Height: 0.5 Specifications of Mobiroy Bellies GENERAL Occasion Casual Ideal For Women SHOE DETAILS Heel Height 0.5 inch Outer Material ARTIFICIAL LEATHER,Specifications of Mobiroy Bellies General Occasion Casual Ideal For Women Shoe Details Lining NA Tip Shape Round Closure slip on Weight 200 g (per single Shoe) - Weight of the product may vary depending on size. Heel Height 0.5 inch Outer Material Artificial Leather Color Black",
+            "stock_level": 3378,
+            "price": 1899,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "SHOEJY4FK7VKHGDS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/c/k/f/black-2511belly-red-bravo-s-7-1000x1000-imaehguhf6gfj37d.jpeg",
+                "filename": "black-2511belly-red-bravo-s-7-1000x1000-imaehguhf6gfj37d.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/c/k/f/black-2511belly-red-bravo-s-7-original-imaehguhf6gfj37d.jpeg",
+                "filename": "black-2511belly-red-bravo-s-7-original-imaehguhf6gfj37d.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/c/k/f/black-2511belly-red-bravo-s-7-original-imaejs77suevhfgf.jpeg",
+                "filename": "black-2511belly-red-bravo-s-7-original-imaejs77suevhfgf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/c/k/f/black-2511belly-red-bravo-s-7-original-imaehgumgnbbvvv5.jpeg",
+                "filename": "black-2511belly-red-bravo-s-7-original-imaehgumgnbbvvv5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/c/k/f/black-2511belly-red-bravo-s-7-original-imaehgumhybxvt9p.jpeg",
+                "filename": "black-2511belly-red-bravo-s-7-original-imaehgumhybxvt9p.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/g/f/d/black-2511belly-mobiroy-6-original-imaejwhazxcbx8mg.jpeg",
+                "filename": "black-2511belly-mobiroy-6-original-imaejwhazxcbx8mg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Lining", "values": ["NA"] },
+              { "key": "Tip Shape", "values": ["Round"] },
+              { "key": "Closure", "values": ["slip on"] },
+              {
+                "key": "Weight",
+                "values": [
+                  "200 g (per single Shoe) - Weight of the product may vary depending on size."
+                ]
+              },
+              { "key": "Heel Height", "values": ["0.5 inch"] },
+              { "key": "Outer Material", "values": ["Artificial Leather"] },
+              { "key": "Color", "values": ["Black"] }
+            ]
+          },
+          {
+            "id": "68268770cc557e76f4ba4a6e5217185d",
+            "name": "Mobiroy Bellies",
+            "description": "Key Features of Mobiroy Bellies Keeps You Lively,Mobiroy Bellies Price: Rs. 699 Key Features of Mobiroy Bellies • Material: ARTIFICIAL LEATHER • Occasion: Casual • Heel Height: 0.5 Specifications of Mobiroy Bellies GENERAL Occasion Casual Ideal For Women SHOE DETAILS Heel Height 0.5 inch Outer Material ARTIFICIAL LEATHER,Specifications of Mobiroy Bellies General Ideal For Women Occasion Casual Shoe Details Lining NA Closure slip on Tip Shape Round Weight 200 g (per single Shoe) - Weight of the product may vary depending on size. Heel Height 0.5 inch Outer Material Artificial Leather Color Purple",
+            "stock_level": 1288,
+            "price": 1899,
+            "sale": true,
+            "sale_price": 699,
+            "stock_keeping_unit": "SHOEJY3YTGATUTDQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/v/w/purple-l01belly-red-bravo-s-3-1000x1000-imaehjfhzvan4ahb.jpeg",
+                "filename": "purple-l01belly-red-bravo-s-3-1000x1000-imaehjfhzvan4ahb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/v/w/purple-l01belly-red-bravo-s-3-original-imaehjfhzvan4ahb.jpeg",
+                "filename": "purple-l01belly-red-bravo-s-3-original-imaehjfhzvan4ahb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/v/w/purple-l01belly-red-bravo-s-3-original-imaejs77hswbsthk.jpeg",
+                "filename": "purple-l01belly-red-bravo-s-3-original-imaejs77hswbsthk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/v/w/purple-l01belly-red-bravo-s-3-original-imaehjfmhcdssg9d.jpeg",
+                "filename": "purple-l01belly-red-bravo-s-3-original-imaehjfmhcdssg9d.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/8/v/w/purple-l01belly-red-bravo-s-3-original-imaehjfpj5ghjzmy.jpeg",
+                "filename": "purple-l01belly-red-bravo-s-3-original-imaehjfpj5ghjzmy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/x/b/m/purple-l01belly-mobiroy-3-original-imaejwhb7ghuhhq2.jpeg",
+                "filename": "purple-l01belly-mobiroy-3-original-imaejwhb7ghuhhq2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Lining", "values": ["NA"] },
+              { "key": "Closure", "values": ["slip on"] },
+              { "key": "Tip Shape", "values": ["Round"] },
+              {
+                "key": "Weight",
+                "values": [
+                  "200 g (per single Shoe) - Weight of the product may vary depending on size."
+                ]
+              },
+              { "key": "Heel Height", "values": ["0.5 inch"] },
+              { "key": "Outer Material", "values": ["Artificial Leather"] },
+              { "key": "Color", "values": ["Purple"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3183e3b175076d7ef2a528328c1f2c665ac5d677" }
+      },
+      "active": true,
+      "id": "f0735b6a320c0dc23b9ef5140882500072f3cb0f"
+    },
+    {
+      "product": {
+        "id": "cfd8dab072e6b61ea431a07b88458742ab2cdfe7",
+        "name": "skhoza Self Design chiffon Women's Scarf",
+        "description": "Dummy description for product skhoza Self Design chiffon Women's Scarf",
+        "manufacturer_id": "4a0ea01d2b0da37c60cbeca328210e246da43d18",
+        "taric_code": "30212421-1fd0-4851-ae45-ca351c809c83",
+        "variants": [
+          {
+            "id": "926bd5e1ade7da8182f656bd023047bb",
+            "name": "skhoza Self Design chiffon Women's Scarf",
+            "description": "Key Features of skhoza Self Design chiffon Women's Scarf square scarf chiffon self design,skhoza Self Design chiffon Women's Scarf Price: Rs. 299 Beautiful self design chiffon black square scarf of 39 inches . can be worn around neck or wrapped on head as hijab. soft and comfortable.,Specifications of skhoza Self Design chiffon Women's Scarf General Details Pattern Self Design Ideal For Women's Occasion Casual Scarf Details Number of Contents in Sales Package Pack of 1 Fabric chiffon Type Scarf Length 39 inch Width 39 inch Additional Details Style Code scarf1black In the Box 1 scarf",
+            "stock_level": 6196,
+            "price": 550,
+            "sale": false,
+            "sale_price": 269,
+            "stock_keeping_unit": "SCFEJXHKBU5HUGUB",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/scarf/g/u/b/scarf1black-skhoza-l-original-imaejwszgszuaquh.jpeg",
+                "filename": "scarf1black-skhoza-l-original-imaejwszgszuaquh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/scarf/g/u/b/scarf1black-skhoza-l-original-imaejwszgszuaquh.jpeg",
+                "filename": "scarf1black-skhoza-l-original-imaejwszgszuaquh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/scarf/g/u/b/scarf1black-skhoza-l-original-imaejwsz7u2jqmpv.jpeg",
+                "filename": "scarf1black-skhoza-l-original-imaejwsz7u2jqmpv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Self Design"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["chiffon"] },
+              { "key": "Type", "values": ["Scarf"] },
+              { "key": "Length", "values": ["39 inch"] },
+              { "key": "Width", "values": ["39 inch"] },
+              { "key": "Style Code", "values": ["scarf1black"] },
+              {
+                "key": "baf3abba-99b8-4df8-9add-c990b12be90f",
+                "values": ["1 scarf"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "1b6b6c2519247b972edc731d08a21d279adcead9" }
+      },
+      "active": false,
+      "id": "cfd8dab072e6b61ea431a07b88458742ab2cdfe7"
+    },
+    {
+      "product": {
+        "id": "1b964772d0b4765fd512b4b6a80e8ae34cef7c82",
+        "name": "Platinum Square Neck Women's Blouse",
+        "description": "Dummy description for product Platinum Square Neck Women's Blouse",
+        "manufacturer_id": "afa0baeda8e834cba34a9e5a01ca9cdd1469193c",
+        "taric_code": "a9cb97ea-7287-43ea-bf6d-0e7f7653492c",
+        "variants": [
+          {
+            "id": "179741e60cc153449a5abd5a0c7d3854",
+            "name": "Platinum Square Neck Women's Blouse",
+            "description": "Key Features of Platinum Square Neck Women's Blouse Fabric: Dupion Sleeves Included Closure: Hook,Specifications of Platinum Square Neck Women's Blouse General Details Pattern Solid Ideal For Women's Occasion Festive Blouse Details Inner Lining Cotton Sleeve Half Sleeve Closure Hook Number of Contents in Sales Package Pack of 1 Fabric Dupion Sleeves Included Yes Neck Square Neck In the Box one Piece of Readymade Blouse",
+            "stock_level": 1945,
+            "price": 1499,
+            "sale": true,
+            "sale_price": 699,
+            "stock_keeping_unit": "BLOEJWAKHBBUGRES",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/blouse/v/6/q/prb554-platinum-48-1000x1000-imaejzgz4syaebvf.jpeg",
+                "filename": "prb554-platinum-48-1000x1000-imaejzgz4syaebvf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/blouse/v/6/q/prb554-platinum-48-original-imaejzgz4syaebvf.jpeg",
+                "filename": "prb554-platinum-48-original-imaejzgz4syaebvf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/blouse/v/6/q/prb554-platinum-36-original-imaejzgzaj7chgfs.jpeg",
+                "filename": "prb554-platinum-36-original-imaejzgzaj7chgfs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Festive"] },
+              { "key": "Inner Lining", "values": ["Cotton"] },
+              { "key": "Sleeve", "values": ["Half Sleeve"] },
+              { "key": "Closure", "values": ["Hook"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Dupion"] },
+              { "key": "Sleeves Included", "values": ["Yes"] },
+              { "key": "Neck", "values": ["Square Neck"] },
+              {
+                "key": "c77b04dc-4e08-460d-be47-832618798e8c",
+                "values": ["one Piece of Readymade Blouse"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "1fcb25815b5fe57b3a086ea9065ffe40f7363bd5" }
+      },
+      "active": false,
+      "id": "1b964772d0b4765fd512b4b6a80e8ae34cef7c82"
+    },
+    {
+      "product": {
+        "id": "bd992ae3a84cfaca4044269cbdaaac447a735ce8",
+        "name": "Demokrazy Solid Men's Maroon Track Pants",
+        "description": "Dummy description for product Demokrazy Solid Men's Maroon Track Pants",
+        "manufacturer_id": "c1908b5d187e7b2c9bcaae250c27cea105897498",
+        "taric_code": "3c2929dd-3428-47d5-b59d-19617e5f9c97",
+        "variants": [
+          {
+            "id": "2146f219121cb781b5e84cfca5383432",
+            "name": "Demokrazy Solid Men's Maroon Track Pants",
+            "description": "Key Features of Demokrazy Solid Men's Maroon Track Pants Maroon Cotton,Specifications of Demokrazy Solid Men's Maroon Track Pants Track Pant Details Fabric Cotton General Details Pattern Solid Ideal For Men's Additional Details Style Code Demo-BRL-Maroon",
+            "stock_level": 4716,
+            "price": 1099,
+            "sale": false,
+            "sale_price": 539,
+            "stock_keeping_unit": "TKPEJXUP89GFFZUS",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/track-pant/r/p/g/demo-brl-maroon-demokrazy-xxl-original-imaejwfpykrmw5gg.jpeg",
+                "filename": "demo-brl-maroon-demokrazy-xxl-original-imaejwfpykrmw5gg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/track-pant/r/p/g/demo-brl-maroon-demokrazy-xxl-original-imaejwfpctwwdd2u.jpeg",
+                "filename": "demo-brl-maroon-demokrazy-xxl-original-imaejwfpctwwdd2u.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/track-pant/r/p/g/demo-brl-maroon-demokrazy-xxl-original-imaejwftz92vdfzg.jpeg",
+                "filename": "demo-brl-maroon-demokrazy-xxl-original-imaejwftz92vdfzg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["Demo-BRL-Maroon"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "70c600de3e38a7ce1a4f1491c9c84ddb08c11c45" }
+      },
+      "active": false,
+      "id": "bd992ae3a84cfaca4044269cbdaaac447a735ce8"
+    },
+    {
+      "product": {
+        "id": "d9fb47999f6a05cfb397691c491d779722a3a381",
+        "name": "GM Regular Fit Men's Black Trousers",
+        "description": "Dummy description for product GM Regular Fit Men's Black Trousers",
+        "manufacturer_id": "4c11596eac4ecbf9e949ac976c27d15080f78f5d",
+        "taric_code": "656851da-9cf6-4338-9410-4216650dd631",
+        "variants": [
+          {
+            "id": "c16437b52527225b0aba3472cb1c089a",
+            "name": "GM Regular Fit Men's Black Trousers",
+            "description": "Key Features of GM Regular Fit Men's Black Trousers Occasion: Formal Suitable For:Western Wear Color: Black Fit: Regular Fit Fabric:COTTON,Specifications of GM Regular Fit Men's Black Trousers General Details Occasion Formal Ideal For Men's Color Black Trouser Details Number of Contents in Sales Package Pack of 1 Fabric COTTON Type CHINOS Fit Regular Fit Additional Details Style Code GMPCCGP34",
+            "stock_level": 4369,
+            "price": 2200,
+            "sale": true,
+            "sale_price": 999,
+            "stock_keeping_unit": "TROEJYTCSFSSSGAF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/s/p/r/gmpccgp40-gm-40-original-imaegq2qxhzukk2x.jpeg",
+                "filename": "gmpccgp40-gm-40-original-imaegq2qxhzukk2x.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/s/p/r/gmpccgp40-gm-40-original-imaejxbrgyeasder.jpeg",
+                "filename": "gmpccgp40-gm-40-original-imaejxbrgyeasder.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/trouser/g/a/f/gmpccgp34-gm-34-original-imaejxbrfyncztk5.jpeg",
+                "filename": "gmpccgp34-gm-34-original-imaejxbrfyncztk5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/s/p/r/gmpccgp40-gm-40-original-imaejxbrgcz3dm64.jpeg",
+                "filename": "gmpccgp40-gm-40-original-imaejxbrgcz3dm64.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/trouser/s/p/r/gmpccgp40-gm-40-original-imaegq2v9jdh46na.jpeg",
+                "filename": "gmpccgp40-gm-40-original-imaegq2v9jdh46na.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Occasion", "values": ["Formal"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["COTTON"] },
+              { "key": "Type", "values": ["CHINOS"] },
+              { "key": "Fit", "values": ["Regular Fit"] },
+              { "key": "Style Code", "values": ["GMPCCGP34"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bc5e252c5065a224ec3f50223f968dc7a9a9fbc4" }
+      },
+      "active": true,
+      "id": "d9fb47999f6a05cfb397691c491d779722a3a381"
+    },
+    {
+      "product": {
+        "id": "63b4ce56a84647fd4c854c6739e8ef781d59673b",
+        "name": "Laviva Elegant Looking Floral Design Beads Rakhi Design Designer Rakhi",
+        "description": "Dummy description for product Laviva Elegant Looking Floral Design Beads Rakhi Design Designer Rakhi",
+        "manufacturer_id": "ddbef27294d3d54f89c0c4d9419aaa74a57ff18c",
+        "taric_code": "3189c509-8d1f-4f58-9f92-3de540593df3",
+        "variants": [
+          {
+            "id": "25cb3a4242d9995fccff1ca9565f4888",
+            "name": "Laviva Elegant Looking Floral Design Beads Rakhi...",
+            "description": "Laviva Elegant Looking Floral Design Beads Rakhi Design Designer Rakhi (Red, Yellow, 1 Rakhi With Free Roli Tilak) Price: Rs. 354 Make your Rakhi celebrations grander with this Elegant Looking Floral Design Beads Rakhi with free Roli Tilak that instantly rejuvenates everyone's mood.,Specifications of Laviva Elegant Looking Floral Design Beads Rakhi Design Designer Rakhi (Red, Yellow, 1 Rakhi With Free Roli Tilak) General Brand Laviva Model Number ROB12640 Type Designer Rakhi Ideal For Men, Women Color Red, Yellow Rakhi Features Thread Material Satin Dial Design Elegant Looking Floral Design Beads Rakhi In the Box Number of Contents in Sales Package Pack of 2",
+            "stock_level": 9625,
+            "price": 504,
+            "sale": false,
+            "sale_price": 354,
+            "stock_keeping_unit": "RAKEJU365EKFVF8S",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/rakhi-set/f/8/s/rob12640-laviva-original-imaejg3xdbmszadg.jpeg",
+                "filename": "rob12640-laviva-original-imaejg3xdbmszadg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rakhi-set/f/8/s/rob12640-laviva-original-imaejg3xdbmszadg.jpeg",
+                "filename": "rob12640-laviva-original-imaejg3xdbmszadg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Laviva"] },
+              { "key": "Model Number", "values": ["ROB12640"] },
+              { "key": "Type", "values": ["Designer Rakhi"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Color", "values": ["Red", "Yellow"] },
+              { "key": "Thread Material", "values": ["Satin"] },
+              {
+                "key": "Dial Design",
+                "values": ["Elegant Looking Floral Design Beads Rakhi"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3e52baf1d5b4bd0d259e4efdb628d111e9249ec5" }
+      },
+      "active": true,
+      "id": "63b4ce56a84647fd4c854c6739e8ef781d59673b"
+    },
+    {
+      "product": {
+        "id": "92f0e37dd2b310e894c1522c98b433695be284e1",
+        "name": "Speedwav Plastic Clamp Lock For Helmet",
+        "description": "Dummy description for product Speedwav Plastic Clamp Lock For Helmet",
+        "manufacturer_id": "725e3439476ac1c98d4327649857006a5a2e1988",
+        "taric_code": "67f378cf-cf12-491f-9ba9-605ca4f5d7a7",
+        "variants": [
+          {
+            "id": "ac3105b3a5fac074ad8a4ef47f1e6dd3",
+            "name": "Speedwav Plastic Clamp Lock For Helmet",
+            "description": "Specifications of Speedwav Plastic Clamp Lock For Helmet General Brand Speedwav Model Number 186090 Vehicle Brand TVS Type Clamp Lock Material Plastic Color Black Dimensions Diameter 40 cm Coil Thickness 0.24 mm Weight 250 g Length 15 cm In the Box Sales Package 1 Helmet Lock Pack of 1",
+            "stock_level": 9667,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 284,
+            "stock_keeping_unit": "HLKEGGXG7A2VCNJQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/helmet-lock/k/f/a/honda-cb-hornet-160-speedwav-1100x1100-imaegeybuhfbd3mf.jpeg",
+                "filename": "honda-cb-hornet-160-speedwav-1100x1100-imaegeybuhfbd3mf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/helmet-lock/k/f/a/honda-cb-hornet-160-speedwav-original-imaegeybuhfbd3mf.jpeg",
+                "filename": "honda-cb-hornet-160-speedwav-original-imaegeybuhfbd3mf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/helmet-lock/n/j/q/186090-speedwav-original-imaeggxdskhdkz9f.jpeg",
+                "filename": "186090-speedwav-original-imaeggxdskhdkz9f.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Speedwav"] },
+              { "key": "Model Number", "values": ["186090"] },
+              { "key": "Vehicle Brand", "values": ["TVS"] },
+              { "key": "Type", "values": ["Clamp Lock"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Diameter", "values": ["40 cm"] },
+              { "key": "Coil Thickness", "values": ["0.24 mm"] },
+              { "key": "Weight", "values": ["250 g"] },
+              { "key": "Length", "values": ["15 cm"] },
+              { "key": "Sales Package", "values": ["1 Helmet Lock"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "6a649c8052cee9f7999ee0ba458cc99cd835e1d6" }
+      },
+      "active": true,
+      "id": "92f0e37dd2b310e894c1522c98b433695be284e1"
+    },
+    {
+      "product": {
+        "id": "1d4a951e5120d45ce7400e6504bd9448e1644388",
+        "name": "Nimfill Women's Camisole",
+        "description": "Dummy description for product Nimfill Women's Camisole",
+        "manufacturer_id": "84c0bffa875afbb1e59c2ba08800bd521d6b8366",
+        "taric_code": "4930dc71-2398-46ea-aa5c-1c0b000e6a17",
+        "variants": [
+          {
+            "id": "5b84192aa498a167eea881dce1ad4c86",
+            "name": "Nimfill Women's Camisole",
+            "description": "Key Features of Nimfill Women's Camisole Fabric: Micro-Poly Brand Color: White Type: Camisole,Specifications of Nimfill Women's Camisole Camisole/Slip Details Number of Contents in Sales Package Pack of 1 Fabric Micro-Poly Type Camisole General Details Pattern Printed Ideal For Women's",
+            "stock_level": 3266,
+            "price": 599,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "CSPEJVPYESZ5ANEH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/camisole-slip/n/e/h/nflvw011-nimfill-s-original-imaejfn2q8urepxv.jpeg",
+                "filename": "nflvw011-nimfill-s-original-imaejfn2q8urepxv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/camisole-slip/n/e/h/nflvw011-nimfill-s-original-imaejfn2q8urepxv.jpeg",
+                "filename": "nflvw011-nimfill-s-original-imaejfn2q8urepxv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/camisole-slip/n/e/h/nflvw011-nimfill-s-original-imaejfn2qkzjpsyb.jpeg",
+                "filename": "nflvw011-nimfill-s-original-imaejfn2qkzjpsyb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/camisole-slip/n/e/h/nflvw011-nimfill-s-original-imaejfn2eumvecqj.jpeg",
+                "filename": "nflvw011-nimfill-s-original-imaejfn2eumvecqj.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Micro-Poly"] },
+              { "key": "Type", "values": ["Camisole"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Women's"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2c3a6902270f2409f44ba3a64e3f76a45771bff6" }
+      },
+      "active": true,
+      "id": "1d4a951e5120d45ce7400e6504bd9448e1644388"
+    },
+    {
+      "product": {
+        "id": "afc00835f9c3fc8d4f1e151e425ef50d72048d49",
+        "name": "Clovia Clovia Cotton Lycra Nursing Bra In Pink With Embroidered Lace Women's Maternity Bra",
+        "description": "Dummy description for product Clovia Clovia Cotton Lycra Nursing Bra In Pink With Embroidered Lace Women's Maternity Bra",
+        "manufacturer_id": "3a588664206dc3c2cf689673c4e1f1e247cf83df",
+        "taric_code": "032f2d55-bec6-415f-9f53-4d38c117cc02",
+        "variants": [
+          {
+            "id": "3eb01df689f60f90804ac5c6c605f2cd",
+            "name": "Clovia Clovia Cotton Lycra Nursing Bra In Pink W...",
+            "description": "Key Features of Clovia Clovia Cotton Lycra Nursing Bra In Pink With Embroidered Lace Women's Maternity Bra Suitable For: Western Wear Straps: Regular Wire Support: Underwire,Clovia Clovia Cotton Lycra Nursing Bra In Pink With Embroidered Lace Women's Maternity Bra Price: Rs. 519 Cotton lycra full coverage nursing bra in beautiful pink colour with crystal pendant in centre To facilitate hassle free feeding, this bra has been provided with a nursing hook on the shoulder that can unhooked with ease at the time of feeding The absorbent inner lining of the cups make it perfect for mild secretion in the case of working mothers The soft broad front straps and cushioned back band provide the much-needed support to the breasts Extra support is provided by the broad hook and eye making this bra a comfy one for feeding mothers The cups have been embroidered with floral lace in contrast lace to give it a designer look To ensure the cups stay in place, side bonning with underwiring have been provided The full coverage ensures covering all types of bulges,Specifications of Clovia Clovia Cotton Lycra Nursing Bra In Pink With Embroidered Lace Women's Maternity Bra General Details Brand Color Pink Age Group NA - NA month color Pink Pattern Embroidered Ideal For Women's Bra Details Wire Support Underwire Straps Regular Detachable Straps No Number of Contents in Sales Package Pack of 1 Fabric Lace,Cotton Lycra Type Maternity Bra",
+            "stock_level": 1820,
+            "price": 999,
+            "sale": false,
+            "sale_price": 467,
+            "stock_keeping_unit": "BRAEGZYSRSZBGXGK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bra/j/y/f/br0561p22-clovia-34b-original-imaegmzsghyhvfzm.jpeg",
+                "filename": "br0561p22-clovia-34b-original-imaegmzsghyhvfzm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bra/j/y/f/br0561p22-clovia-34b-original-imaegmzsghyhvfzm.jpeg",
+                "filename": "br0561p22-clovia-34b-original-imaegmzsghyhvfzm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bra/j/y/f/br0561p22-clovia-34b-original-imaegmzssqubg3xs.jpeg",
+                "filename": "br0561p22-clovia-34b-original-imaegmzssqubg3xs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bra/j/y/f/br0561p22-clovia-34b-original-imaegmzsgjz5e4j4.jpeg",
+                "filename": "br0561p22-clovia-34b-original-imaegmzsgjz5e4j4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bra/j/y/f/br0561p22-clovia-34b-original-imaegmzsgyf6ynqy.jpeg",
+                "filename": "br0561p22-clovia-34b-original-imaegmzsgyf6ynqy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand Color", "values": ["Pink"] },
+              { "key": "Age Group", "values": ["NA - NA month"] },
+              { "key": "color", "values": ["Pink"] },
+              { "key": "Pattern", "values": ["Embroidered"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Wire Support", "values": ["Underwire"] },
+              { "key": "Straps", "values": ["Regular"] },
+              { "key": "Detachable Straps", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Lace,Cotton Lycra"] },
+              { "key": "Type", "values": ["Maternity Bra"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "794a69935d29b5e2cc473271cfd68dd1db863f8f" }
+      },
+      "active": true,
+      "id": "afc00835f9c3fc8d4f1e151e425ef50d72048d49"
+    },
+    {
+      "product": {
+        "id": "131bb1ca746c4532ff3779bfd0883878e2f63aa3",
+        "name": "NumBrave Casual 3/4 Sleeve Solid Women's Pink Top",
+        "description": "Dummy description for product NumBrave Casual 3/4 Sleeve Solid Women's Pink Top",
+        "manufacturer_id": "384eafaf89edd28e830fc68df47a75f7270088dc",
+        "taric_code": "642f8453-ee86-4641-8622-efc18a42e9dc",
+        "variants": [
+          {
+            "id": "3622c575742768cb13693e6a52c9ee7b",
+            "name": "NumBrave Casual 3/4 Sleeve Solid Women's Pink Top",
+            "description": "Specifications of NumBrave Casual 3/4 Sleeve Solid Women's Pink Top Top Details Sleeve 3/4 Sleeve Belt Included No Number of Contents in Sales Package Pack of 2 Fabric Cotton Type Top Neck High Neck General Details Pattern Solid Ideal For Women's Occasion Casual Fabric Care Gentle Wash, Wash with Similar Colors Only, Do not Bleach Additional Details Button Down Placket In the Box 2 Top",
+            "stock_level": 8637,
+            "price": 2000,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "TOPEJP3GFFHU5TFA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/top/g/g/x/eanlontop-pink-magetna-numbrave-l-original-imaejzggdkf7zvce.jpeg",
+                "filename": "eanlontop-pink-magetna-numbrave-l-original-imaejzggdkf7zvce.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/top/g/g/x/eanlontop-pink-magetna-numbrave-l-original-imaejzggaymgqcn9.jpeg",
+                "filename": "eanlontop-pink-magetna-numbrave-l-original-imaejzggaymgqcn9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/top/k/v/b/eanlontop-magetna-red-numbrave-s-original-imaejzggqgg65sbc.jpeg",
+                "filename": "eanlontop-magetna-red-numbrave-s-original-imaejzggqgg65sbc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/top/k/v/b/eanlontop-magetna-red-numbrave-m-original-imaejzggup54g2fz.jpeg",
+                "filename": "eanlontop-magetna-red-numbrave-m-original-imaejzggup54g2fz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/top/k/v/b/eanlontop-magetna-red-numbrave-m-original-imaejzgg42yey3gt.jpeg",
+                "filename": "eanlontop-magetna-red-numbrave-m-original-imaejzgg42yey3gt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              { "key": "Belt Included", "values": ["No"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Top"] },
+              { "key": "Neck", "values": ["High Neck"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              {
+                "key": "08ff93c6-d083-4ac9-b066-b18225a59748",
+                "values": [
+                  "Gentle Wash",
+                  "Wash with Similar Colors Only",
+                  "Do not Bleach"
+                ]
+              },
+              {
+                "key": "b0278223-57ea-42ee-82e2-0ef1e9322e39",
+                "values": ["Button Down Placket"]
+              },
+              {
+                "key": "375d1e19-7436-4b19-983a-4d84f830cf4a",
+                "values": ["2 Top"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "cde9a13c048916c63fff47133985719f6f69ea28" }
+      },
+      "active": false,
+      "id": "131bb1ca746c4532ff3779bfd0883878e2f63aa3"
+    },
+    {
+      "product": {
+        "id": "3a710c8176b362707e773d629a34b16a8273a76f",
+        "name": "Darvesh Polypropelene Folder",
+        "description": "Dummy description for product Darvesh Polypropelene Folder",
+        "manufacturer_id": "e2ddfbad3710c5ca492c4cc0a8a4b5e15e027396",
+        "taric_code": "ef704f4c-bc59-4762-9acd-428864dc46c2",
+        "variants": [
+          {
+            "id": "db6436d4c5e42ff2f0ef44214e9a8106",
+            "name": "Darvesh Polypropelene Folder (Set Of 1, Black)",
+            "description": "Key Features of Darvesh Polypropelene Folder Compatible Paper Size: A4,Darvesh Polypropelene Folder (Set Of 1, Black) Price: Rs. 1,025 Want to add a touch of class to your stationery. Darvesh fancy Guitar Folder will do that for you. Whats more, to make it waterproof, it is covered with soft rubber material with a woven look. This superior quality and quirky looking folder adds a dash to fun to your stationery collection.,Specifications of Darvesh Polypropelene Folder (Set Of 1, Black) General Build Material Polypropelene Type Folder Model Name Fancy Guitar Compatible Paper Size A4",
+            "stock_level": 9551,
+            "price": 1200,
+            "sale": false,
+            "sale_price": 1025,
+            "stock_keeping_unit": "FAFEJXZUYEKFCCXX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/file-folder/c/x/x/darvesh-folder-fancy-guitar-original-imaejxnfdbuhhbwu.jpeg",
+                "filename": "darvesh-folder-fancy-guitar-original-imaejxnfdbuhhbwu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/file-folder/c/x/x/darvesh-folder-fancy-guitar-original-imaejxnfdbuhhbwu.jpeg",
+                "filename": "darvesh-folder-fancy-guitar-original-imaejxnfdbuhhbwu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/file-folder/c/x/x/darvesh-folder-fancy-guitar-original-imaejxnfhrdhgzgg.jpeg",
+                "filename": "darvesh-folder-fancy-guitar-original-imaejxnfhrdhgzgg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/file-folder/c/x/x/darvesh-folder-fancy-guitar-original-imaejxnfyezz9zmn.jpeg",
+                "filename": "darvesh-folder-fancy-guitar-original-imaejxnfyezz9zmn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Build Material", "values": ["Polypropelene"] },
+              { "key": "Type", "values": ["Folder"] },
+              { "key": "Model Name", "values": ["Fancy Guitar"] },
+              { "key": "Compatible Paper Size", "values": ["A4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "e4945ee32554c5339609a6c863313a55433cabfe" }
+      },
+      "active": true,
+      "id": "3a710c8176b362707e773d629a34b16a8273a76f"
+    },
+    {
+      "product": {
+        "id": "bd8bf25924a881bfbb33c79caa24dca58ce9a556",
+        "name": "Laviva Most Contemporary Design AD & Fancy Rakhi Set of Four with Thali Design Designer Rakhi",
+        "description": "Dummy description for product Laviva Most Contemporary Design AD & Fancy Rakhi Set of Four with Thali Design Designer Rakhi",
+        "manufacturer_id": "ddbef27294d3d54f89c0c4d9419aaa74a57ff18c",
+        "taric_code": "55ba022c-18e0-4cd2-9638-f535c1d12ce0",
+        "variants": [
+          {
+            "id": "5958d64fa1288b6b53dd7fc12067a14d",
+            "name": "Laviva Most Contemporary Design AD & Fancy Rakhi...",
+            "description": "Laviva Most Contemporary Design AD & Fancy Rakhi Set of Four with Thali Design Designer Rakhi (Red, Yellow, 4 pcs Rakhi and Thali with Free Roli Tilak) Price: Rs. 531 Rejoice the joyous occasion of Rakhi by sending this special Raksha Bandhan gifts or Rakhi gifts to your loving brothers. It comes with Thali and free Roli Tilak.,Specifications of Laviva Most Contemporary Design AD & Fancy Rakhi Set of Four with Thali Design Designer Rakhi (Red, Yellow, 4 pcs Rakhi and Thali with Free Roli Tilak) General Brand Laviva Model Number ROB12517 Type Designer Rakhi Ideal For Men, Women Color Red, Yellow Rakhi Features Thread Material Satin Dial Design Most Contemporary Design AD & Fancy Rakhi Set of Four with Thali In the Box Number of Contents in Sales Package Pack of 5",
+            "stock_level": 4583,
+            "price": 681,
+            "sale": false,
+            "sale_price": 531,
+            "stock_keeping_unit": "RAKEJU36JWZQHZM3",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/rakhi-set/z/m/3/rob12517-laviva-original-imaejg3s7zsbnemz.jpeg",
+                "filename": "rob12517-laviva-original-imaejg3s7zsbnemz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Laviva"] },
+              { "key": "Model Number", "values": ["ROB12517"] },
+              { "key": "Type", "values": ["Designer Rakhi"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Color", "values": ["Red", "Yellow"] },
+              { "key": "Thread Material", "values": ["Satin"] },
+              {
+                "key": "Dial Design",
+                "values": [
+                  "Most Contemporary Design AD and Fancy Rakhi Set of Four with Thali"
+                ]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 5"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3e52baf1d5b4bd0d259e4efdb628d111e9249ec5" }
+      },
+      "active": true,
+      "id": "bd8bf25924a881bfbb33c79caa24dca58ce9a556"
+    },
+    {
+      "product": {
+        "id": "674e89123820078190f850bf033f25985d7e72f8",
+        "name": "Laviva Sober & Simple Design Rakhi Set of Four with Thali Design Designer Rakhi",
+        "description": "Dummy description for product Laviva Sober & Simple Design Rakhi Set of Four with Thali Design Designer Rakhi",
+        "manufacturer_id": "ddbef27294d3d54f89c0c4d9419aaa74a57ff18c",
+        "taric_code": "10f22084-77b8-44f8-a7e7-da4efbedb65f",
+        "variants": [
+          {
+            "id": "60f0ae6e7e34970fc7e624c0934a776f",
+            "name": "Laviva Sober & Simple Design Rakhi Set of Four w...",
+            "description": "Laviva Sober & Simple Design Rakhi Set of Four with Thali Design Designer Rakhi (Red, Yellow, 4 pcs Rakhi and Thali with Free Roli Tilak) Price: Rs. 524 Dazzle your Bhaiya by tying this Rakhi knots on that very day of Rakhi. It comes with Thali and free Roli Tilak.,Specifications of Laviva Sober & Simple Design Rakhi Set of Four with Thali Design Designer Rakhi (Red, Yellow, 4 pcs Rakhi and Thali with Free Roli Tilak) General Brand Laviva Model Number ROB12476 Type Designer Rakhi Ideal For Men, Women Color Red, Yellow Rakhi Features Thread Material Satin Dial Design Sober & Simple Design Rakhi Set of Four with Thali In the Box Number of Contents in Sales Package Pack of 5",
+            "stock_level": 2855,
+            "price": 674,
+            "sale": false,
+            "sale_price": 524,
+            "stock_keeping_unit": "RAKEJU36GZAEFVZW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/rakhi-set/v/z/w/rob12476-laviva-original-imaejg3tdz9jmjbq.jpeg",
+                "filename": "rob12476-laviva-original-imaejg3tdz9jmjbq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Laviva"] },
+              { "key": "Model Number", "values": ["ROB12476"] },
+              { "key": "Type", "values": ["Designer Rakhi"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Color", "values": ["Red", "Yellow"] },
+              { "key": "Thread Material", "values": ["Satin"] },
+              {
+                "key": "Dial Design",
+                "values": [
+                  "Sober and Simple Design Rakhi Set of Four with Thali"
+                ]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 5"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3e52baf1d5b4bd0d259e4efdb628d111e9249ec5" }
+      },
+      "active": true,
+      "id": "674e89123820078190f850bf033f25985d7e72f8"
+    },
+    {
+      "product": {
+        "id": "e3c6337454e3a8c61e5ae5c595f2b0fcb0422f0d",
+        "name": "Nitra Plain Decorative Cushion",
+        "description": "Dummy description for product Nitra Plain Decorative Cushion",
+        "manufacturer_id": "8bb33e618539c6ed7ad616a85e2a63f5dd63d94c",
+        "taric_code": "ac3bd3d2-e340-47d7-80be-47ad16b7f2f4",
+        "variants": [
+          {
+            "id": "c0d6925025b013cd65e3767649246096",
+            "name": "Nitra Plain Decorative Cushion (Pack of2, White)",
+            "description": "Specifications of Nitra Plain Decorative Cushion (Pack of2, White) General External Material Cotton Brand Nitra Sweat Absorbent Yes With Pillow Cover No Type Decorative Cushion Model Name Solid Cushions Filling Material Microfibre Hand Washable No Model ID NPC-Solid-X2 Pillow Design Square Shape Color White Dimensions Weight 250 g Length 35 cm Width 35 cm Depth 10 cm In the Box Number of Contents in Sales Package 2 Sales Package Pack of 2 Cushions",
+            "stock_level": 2335,
+            "price": 699,
+            "sale": false,
+            "sale_price": 279,
+            "stock_keeping_unit": "PLWEJDJFUMJGKRSZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pillow/r/s/z/npc-solid-x2-nitra-solid-cushions-1100x1100-imaej7v9nz8sk8hc.jpeg",
+                "filename": "npc-solid-x2-nitra-solid-cushions-1100x1100-imaej7v9nz8sk8hc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pillow/r/s/z/npc-solid-x2-nitra-solid-cushions-original-imaej7v9nz8sk8hc.jpeg",
+                "filename": "npc-solid-x2-nitra-solid-cushions-original-imaej7v9nz8sk8hc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/pillow/r/s/z/npc-solid-x2-nitra-solid-cushions-original-imaej7v9tgdjsgss.jpeg",
+                "filename": "npc-solid-x2-nitra-solid-cushions-original-imaej7v9tgdjsgss.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "External Material", "values": ["Cotton"] },
+              { "key": "Brand", "values": ["Nitra"] },
+              { "key": "Sweat Absorbent", "values": ["Yes"] },
+              { "key": "With Pillow Cover", "values": ["No"] },
+              { "key": "Type", "values": ["Decorative Cushion"] },
+              { "key": "Model Name", "values": ["Solid Cushions"] },
+              { "key": "Filling Material", "values": ["Microfibre"] },
+              { "key": "Hand Washable", "values": ["No"] },
+              { "key": "Model ID", "values": ["NPC-Solid-X2"] },
+              { "key": "Pillow Design", "values": ["Square Shape"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Weight", "values": ["250 g"] },
+              { "key": "Length", "values": ["35 cm"] },
+              { "key": "Width", "values": ["35 cm"] },
+              { "key": "Depth", "values": ["10 cm"] },
+              { "key": "Number of Contents in Sales Package", "values": ["2"] },
+              { "key": "Sales Package", "values": ["Pack of 2 Cushions"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "e8aa29234f11744eca896fb19397fef9310f06fe" }
+      },
+      "active": true,
+      "id": "e3c6337454e3a8c61e5ae5c595f2b0fcb0422f0d"
+    },
+    {
+      "product": {
+        "id": "5f5a02fa7f875862ef5737d14bc95c5b5ed14f5a",
+        "name": "Laviva Amazing Set of 4 Beads & Stone Rakhis with Thali Design Designer Rakhi",
+        "description": "Dummy description for product Laviva Amazing Set of 4 Beads & Stone Rakhis with Thali Design Designer Rakhi",
+        "manufacturer_id": "ddbef27294d3d54f89c0c4d9419aaa74a57ff18c",
+        "taric_code": "58c80cbd-5109-4bb0-8cfd-8d80e0bb0738",
+        "variants": [
+          {
+            "id": "a5d4f7a213cd08bde1d7c532d6315c3c",
+            "name": "Laviva Amazing Set of 4 Beads & Stone Rakhis wit...",
+            "description": "Laviva Amazing Set of 4 Beads & Stone Rakhis with Thali Design Designer Rakhi (Red, Yellow, 4 pcs Rakhi and Thali with Free Roli Tilak) Price: Rs. 537 A fabulous gift for Rakhi occassions, this Amazing Set of 4 Beads & Stone Rakhis spreads love and happiness with its beauty and style. It is a presentation of 4pcs Beads & Stone Fancy Rakhis with Thali and Free Roli Tilak.,Specifications of Laviva Amazing Set of 4 Beads & Stone Rakhis with Thali Design Designer Rakhi (Red, Yellow, 4 pcs Rakhi and Thali with Free Roli Tilak) General Brand Laviva Model Number ROB12530 Type Designer Rakhi Ideal For Men, Women Color Red, Yellow Rakhi Features Thread Material Satin Dial Design Amazing Set of 4 Beads & Stone Rakhis with Thali In the Box Number of Contents in Sales Package Pack of 5",
+            "stock_level": 3883,
+            "price": 687,
+            "sale": false,
+            "sale_price": 537,
+            "stock_keeping_unit": "RAKEJU36Z5PXN4HY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/rakhi-set/4/h/y/rob12530-laviva-original-imaejg3s4jfgfzcf.jpeg",
+                "filename": "rob12530-laviva-original-imaejg3s4jfgfzcf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rakhi-set/4/h/y/rob12530-laviva-original-imaejg3s4jfgfzcf.jpeg",
+                "filename": "rob12530-laviva-original-imaejg3s4jfgfzcf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Laviva"] },
+              { "key": "Model Number", "values": ["ROB12530"] },
+              { "key": "Type", "values": ["Designer Rakhi"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Color", "values": ["Red", "Yellow"] },
+              { "key": "Thread Material", "values": ["Satin"] },
+              {
+                "key": "Dial Design",
+                "values": ["Amazing Set of 4 Beads and Stone Rakhis with Thali"]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 5"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3e52baf1d5b4bd0d259e4efdb628d111e9249ec5" }
+      },
+      "active": false,
+      "id": "5f5a02fa7f875862ef5737d14bc95c5b5ed14f5a"
+    },
+    {
+      "product": {
+        "id": "4b5b552a588af7eefcd4e133e7e81de37ae1101a",
+        "name": "SAJAY FASHIONS Geometric Print COTTON Women's Stole",
+        "description": "Dummy description for product SAJAY FASHIONS Geometric Print COTTON Women's Stole",
+        "manufacturer_id": "b58f12064aa6b5524884395a538e6158ea6c7c3c",
+        "taric_code": "496d054d-dedf-4cb6-adc1-eb30679a0d18",
+        "variants": [
+          {
+            "id": "997b8f747deb428d2c412624e7886547",
+            "name": "SAJAY FASHIONS Geometric Print COTTON Women's Stole",
+            "description": "Key Features of SAJAY FASHIONS Geometric Print COTTON Women's Stole Fabric: COTTON Brand Color: MULTICOLOUR,Specifications of SAJAY FASHIONS Geometric Print COTTON Women's Stole General Details Pattern Geometric Print Ideal For Women's Scarf Details Fabric COTTON Type Stole Additional Details Style Code SF 18 In the Box 1 scarf",
+            "stock_level": 1988,
+            "price": 599,
+            "sale": true,
+            "sale_price": 149,
+            "stock_keeping_unit": "SCFEJVK9VK6U9WHE",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/scarf/w/h/e/sf-18-sajay-fashions-free-original-imaejtfvkmgmcw3p.jpeg",
+                "filename": "sf-18-sajay-fashions-free-original-imaejtfvkmgmcw3p.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/scarf/w/h/e/sf-18-sajay-fashions-free-original-imaejtfuhsf7kfrs.jpeg",
+                "filename": "sf-18-sajay-fashions-free-original-imaejtfuhsf7kfrs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/scarf/w/h/e/sf-18-sajay-fashions-free-original-imaejtfvgg2hskvy.jpeg",
+                "filename": "sf-18-sajay-fashions-free-original-imaejtfvgg2hskvy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Geometric Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Fabric", "values": ["COTTON"] },
+              { "key": "Type", "values": ["Stole"] },
+              { "key": "Style Code", "values": ["SF 18"] },
+              {
+                "key": "b8aed182-fdef-4db3-add8-09f5d4d4dd65",
+                "values": ["1 scarf"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "a3d2ef656da7155ffa1cb876d9cbf1ad0f109717" }
+      },
+      "active": true,
+      "id": "4b5b552a588af7eefcd4e133e7e81de37ae1101a"
+    },
+    {
+      "product": {
+        "id": "18c28283536706fe0aa02da91b8bc0320ee1466b",
+        "name": "DIVAS CHOICE Graphic Print polyester Women's Stole",
+        "description": "Dummy description for product DIVAS CHOICE Graphic Print polyester Women's Stole",
+        "manufacturer_id": "e1172570762d645192f887c6cc5b627471723216",
+        "taric_code": "9e755ff5-667f-4a65-9dc7-2737b02b5b42",
+        "variants": [
+          {
+            "id": "82414a4c1e4d16ce2cbda976ff3266c4",
+            "name": "DIVAS CHOICE Graphic Print polyester Women's Stole",
+            "description": "Key Features of DIVAS CHOICE Graphic Print polyester Women's Stole Fabric: polyester Brand Color: multicolor,Specifications of DIVAS CHOICE Graphic Print polyester Women's Stole General Details Pattern Graphic Print Ideal For Women's Scarf Details Fabric polyester Type Stole In the Box stole Additional Details Style Code Divas Choice Printed Polyester Women's Stole19",
+            "stock_level": 4969,
+            "price": 499,
+            "sale": false,
+            "sale_price": 179,
+            "stock_keeping_unit": "SCFEJYNQCTWQYMRA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/scarf/m/r/a/divas-choice-printed-polyester-women-s-stole19-divas-choice-free-original-imaejwhhryg54wkn.jpeg",
+                "filename": "divas-choice-printed-polyester-women-s-stole19-divas-choice-free-original-imaejwhhryg54wkn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Graphic Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Fabric", "values": ["polyester"] },
+              { "key": "Type", "values": ["Stole"] },
+              {
+                "key": "c6f7894a-49dd-475f-a096-918750b906df",
+                "values": ["stole"]
+              },
+              {
+                "key": "Style Code",
+                "values": ["Divas Choice Printed Polyester Women's Stole19"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "516d3571c3677d9e0454beaa14cd18330497db7c" }
+      },
+      "active": false,
+      "id": "18c28283536706fe0aa02da91b8bc0320ee1466b"
+    },
+    {
+      "product": {
+        "id": "453402092011f010cdb6e204ee43914a96126f81",
+        "name": "Weavers Villa Printed Set of 3 Scarves, Stoles, Dupattas Small Soft Summer Vibrant Coloured Trendy Women's Scarf",
+        "description": "Dummy description for product Weavers Villa Printed Set of 3 Scarves, Stoles, Dupattas Small Soft Summer Vibrant Coloured Trendy Women's Scarf",
+        "manufacturer_id": "220a121a099ef4e77870ff305fc8b2637fadc16a",
+        "taric_code": "84308a81-b386-4163-a36b-9bce10171524",
+        "variants": [
+          {
+            "id": "bad4b7832bbb0e8b85ecee1749502b11",
+            "name": "Weavers Villa Printed Set of 3 Scarves, Stoles, ...",
+            "description": "Key Features of Weavers Villa Printed Set of 3 Scarves, Stoles, Dupattas Small Soft Summer Vibrant Coloured Trendy Women's Scarf Set of 3 Scarves, Stoles, Dupattas Small Soft Summer Vibrant Coloured Trendy,Weavers Villa Printed Set of 3 Scarves, Stoles, Dupattas Small Soft Summer Vibrant Coloured Trendy Women's Scarf Price: Rs. 275 Enrich your look with the Set of 3 Small Summer Scarf by \"Weavers Villa\". These are very elegant, colorful and trendy designer Scarf. These Scarf are made from 100% Poly Cotton Yarn. Soft, Light-Weight and Skin-Friendly. These Scarf are not only true value for your money but also stylish and comfortable to wrap around at the same time. WASH CARE: Light Hand Wash. SIZE: 32 CM X 175 CM . THINK TRENDY. BE TRENDY.,Specifications of Weavers Villa Printed Set of 3 Scarves, Stoles, Dupattas Small Soft Summer Vibrant Coloured Trendy Women's Scarf General Details Pattern Printed Ideal For Women's Scarf Details Number of Contents in Sales Package Pack of 3 Fabric Set of 3 Scarves, Stoles, Dupattas Small Soft Summer Vibrant Coloured Trendy Type Scarf Length 70 inch Width 12 inch Additional Details Style Code SET(50)-WV33-WV34-WV35 In the Box Set of 3 Scarves",
+            "stock_level": 1767,
+            "price": 550,
+            "sale": false,
+            "sale_price": 275,
+            "stock_keeping_unit": "SCFEJXRRKEGTTH3K",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/scarf/h/3/k/set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud5qpthnpnj.jpeg",
+                "filename": "set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud5qpthnpnj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/scarf/h/3/k/set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud5qpthnpnj.jpeg",
+                "filename": "set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud5qpthnpnj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/scarf/h/3/k/set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud3ycysmw5f.jpeg",
+                "filename": "set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud3ycysmw5f.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/scarf/h/3/k/set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud3jb5sddkg.jpeg",
+                "filename": "set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud3jb5sddkg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/scarf/h/3/k/set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud3kehpfpjy.jpeg",
+                "filename": "set-50-wv33-wv34-wv35-weavers-villa-m-original-imaejud3kehpfpjy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 3"]
+              },
+              {
+                "key": "Fabric",
+                "values": [
+                  "Set of 3 Scarves",
+                  "Stoles",
+                  "Dupattas Small Soft Summer Vibrant Coloured Trendy"
+                ]
+              },
+              { "key": "Type", "values": ["Scarf"] },
+              { "key": "Length", "values": ["70 inch"] },
+              { "key": "Width", "values": ["12 inch"] },
+              { "key": "Style Code", "values": ["SET(50)-WV33-WV34-WV35"] },
+              {
+                "key": "5683dc3b-b98b-4f85-a785-829302c71f14",
+                "values": ["Set of 3 Scarves"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "dba7c1d1c022295f755040020889a48956dc849a" }
+      },
+      "active": true,
+      "id": "453402092011f010cdb6e204ee43914a96126f81"
+    },
+    {
+      "product": {
+        "id": "351425ac6db442d0bfbb724ed22af00dcde01ea1",
+        "name": "Laviva Amazing Beads & AD Stone Rakhi Set of 4 with Thali Design Designer Rakhi",
+        "description": "Dummy description for product Laviva Amazing Beads & AD Stone Rakhi Set of 4 with Thali Design Designer Rakhi",
+        "manufacturer_id": "ddbef27294d3d54f89c0c4d9419aaa74a57ff18c",
+        "taric_code": "894d0749-e6a8-4682-9c09-1f02c14fb39c",
+        "variants": [
+          {
+            "id": "3ce3e79ef933877e203e8950eb445256",
+            "name": "Laviva Amazing Beads & AD Stone Rakhi Set of 4 w...",
+            "description": "Laviva Amazing Beads & AD Stone Rakhi Set of 4 with Thali Design Designer Rakhi (Red, Yellow, 4 pcs Rakhi and Thali with Free Roli Tilak) Price: Rs. 527 Rakhi honors the bond among siblings and express your deep love for your sweet brother. So send this Amazing Beads and AD Rakhi Set of 4 with Thali and free Roli Tilak to your brother.,Specifications of Laviva Amazing Beads & AD Stone Rakhi Set of 4 with Thali Design Designer Rakhi (Red, Yellow, 4 pcs Rakhi and Thali with Free Roli Tilak) General Brand Laviva Model Number ROB12482 Type Designer Rakhi Ideal For Men, Women Color Red, Yellow Rakhi Features Thread Material Satin Dial Design Amazing Beads & AD Stone Rakhi Set of 4 with Thali In the Box Number of Contents in Sales Package Pack of 5",
+            "stock_level": 8464,
+            "price": 677,
+            "sale": false,
+            "sale_price": 527,
+            "stock_keeping_unit": "RAKEJU36AQRXGSZW",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/rakhi-set/s/z/w/rob12482-laviva-original-imaejg3tgzh5tbut.jpeg",
+                "filename": "rob12482-laviva-original-imaejg3tgzh5tbut.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Laviva"] },
+              { "key": "Model Number", "values": ["ROB12482"] },
+              { "key": "Type", "values": ["Designer Rakhi"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Color", "values": ["Red", "Yellow"] },
+              { "key": "Thread Material", "values": ["Satin"] },
+              {
+                "key": "Dial Design",
+                "values": [
+                  "Amazing Beads and AD Stone Rakhi Set of 4 with Thali"
+                ]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 5"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3e52baf1d5b4bd0d259e4efdb628d111e9249ec5" }
+      },
+      "active": true,
+      "id": "351425ac6db442d0bfbb724ed22af00dcde01ea1"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

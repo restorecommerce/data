@@ -1,0 +1,2817 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "3daa620d2b0de2c335e909d4ed1de4612261b994",
+        "name": "AMY smart city 2 A5 Notebook Spiral Bound",
+        "description": "Dummy description for product AMY smart city 2 A5 Notebook Spiral Bound",
+        "manufacturer_id": "61fbe3f851041a8837655b21b5fd7c6e25e94cc1",
+        "taric_code": "aa59bfc2-6772-44bd-9216-ec189992b714",
+        "variants": [
+          {
+            "id": "7c97b5d7a60348d853e123f9b3d1e775",
+            "name": "AMY Office Supplies",
+            "description": "Buy AMY smart city 2 A5 Notebook Spiral Bound for Rs.250 online. AMY smart city 2 A5 Notebook Spiral Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8579,
+            "price": 999,
+            "sale": false,
+            "sale_price": 250,
+            "stock_keeping_unit": "DIAE7QHE9SSGVYUW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/y/u/w/amy-amynb50000124-1100x1100-imae7qnj6ahktfza.jpeg",
+                "filename": "amy-amynb50000124-1100x1100-imae7qnj6ahktfza.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/y/u/w/amy-amynb50000124-original-imae7qnj6ahktfza.jpeg",
+                "filename": "amy-amynb50000124-original-imae7qnj6ahktfza.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Ruled"] },
+              { "key": "Model id", "values": ["AMYNB50000124"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "No. of Pages", "values": ["288"] },
+              { "key": "Brand Name", "values": ["AMY"] },
+              { "key": "Binding", "values": ["Spiral Bound"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Size", "values": ["A5"] },
+              { "key": "Length", "values": ["8.5 inch"] },
+              { "key": "Width", "values": ["6.5 inch"] },
+              { "key": "Sales Package", "values": ["1 Notebook"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": false,
+      "id": "3daa620d2b0de2c335e909d4ed1de4612261b994"
+    },
+    {
+      "product": {
+        "id": "486a65f8652a96bdd9e659e4195f371fa3e4f9ca",
+        "name": "AMY Black Sports Car A5 Notebook Spiral Bound",
+        "description": "Dummy description for product AMY Black Sports Car A5 Notebook Spiral Bound",
+        "manufacturer_id": "61fbe3f851041a8837655b21b5fd7c6e25e94cc1",
+        "taric_code": "145d4e32-fe51-4670-adef-6e28c9937cce",
+        "variants": [
+          {
+            "id": "ffc60f237daaeb865f0929e1efe8f000",
+            "name": "AMY Office Supplies",
+            "description": "Buy AMY Black Sports Car A5 Notebook Spiral Bound for Rs.250 online. AMY Black Sports Car A5 Notebook Spiral Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 9982,
+            "price": 999,
+            "sale": false,
+            "sale_price": 250,
+            "stock_keeping_unit": "DIAE7QHEPA9DFGBR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/g/b/r/amy-amynb50000114-1100x1100-imae7qnjgdwv7qka.jpeg",
+                "filename": "amy-amynb50000114-1100x1100-imae7qnjgdwv7qka.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/g/b/r/amy-amynb50000114-original-imae7qnjgdwv7qka.jpeg",
+                "filename": "amy-amynb50000114-original-imae7qnjgdwv7qka.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Ruled"] },
+              { "key": "Model id", "values": ["AMYNB50000114"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "No. of Pages", "values": ["288"] },
+              { "key": "Brand Name", "values": ["AMY"] },
+              { "key": "Binding", "values": ["Spiral Bound"] },
+              { "key": "Size", "values": ["A5"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Length", "values": ["8.5 inch"] },
+              { "key": "Width", "values": ["6.5 inch"] },
+              { "key": "Sales Package", "values": ["1 Notebook"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": true,
+      "id": "486a65f8652a96bdd9e659e4195f371fa3e4f9ca"
+    },
+    {
+      "product": {
+        "id": "e9d2e97bcd4c07291ee3b35cffec64e9d2bfc3f0",
+        "name": "AMY abstract rokit A5 Notebook Spiral Bound",
+        "description": "Dummy description for product AMY abstract rokit A5 Notebook Spiral Bound",
+        "manufacturer_id": "61fbe3f851041a8837655b21b5fd7c6e25e94cc1",
+        "taric_code": "b65b04b5-6145-431f-820d-157a290f13e0",
+        "variants": [
+          {
+            "id": "115227419a8c8275896f2aadcdba1d37",
+            "name": "AMY Office Supplies",
+            "description": "Buy AMY abstract rokit A5 Notebook Spiral Bound for Rs.250 online. AMY abstract rokit A5 Notebook Spiral Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3515,
+            "price": 999,
+            "sale": false,
+            "sale_price": 250,
+            "stock_keeping_unit": "DIAE7QHEKN2B2CWN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/diary-notebook/c/w/n/amy-amynb50000184-1100x1100-imae7qnjneezza2y.jpeg",
+                "filename": "amy-amynb50000184-1100x1100-imae7qnjneezza2y.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/diary-notebook/c/w/n/amy-amynb50000184-original-imae7qnjneezza2y.jpeg",
+                "filename": "amy-amynb50000184-original-imae7qnjneezza2y.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Ruled"] },
+              { "key": "Model id", "values": ["AMYNB50000184"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "No. of Pages", "values": ["288"] },
+              { "key": "Brand Name", "values": ["AMY"] },
+              { "key": "Binding", "values": ["Spiral Bound"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Size", "values": ["A5"] },
+              { "key": "Length", "values": ["8.5 inch"] },
+              { "key": "Width", "values": ["6.5 inch"] },
+              { "key": "Sales Package", "values": ["1 Notebook"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": true,
+      "id": "e9d2e97bcd4c07291ee3b35cffec64e9d2bfc3f0"
+    },
+    {
+      "product": {
+        "id": "1be4c8dd34210b0025307a83de88649979ace206",
+        "name": "AMY Beautuful Diana Penty Face A5 Notebook Spiral Bound",
+        "description": "Dummy description for product AMY Beautuful Diana Penty Face A5 Notebook Spiral Bound",
+        "manufacturer_id": "61fbe3f851041a8837655b21b5fd7c6e25e94cc1",
+        "taric_code": "f03656c7-c463-430c-8a66-cadbc68ef164",
+        "variants": [
+          {
+            "id": "0487bd8203cc75cfd6c3da959c00f6a1",
+            "name": "AMY Office Supplies",
+            "description": "Buy AMY Beautuful Diana Penty Face A5 Notebook Spiral Bound for Rs.250 online. AMY Beautuful Diana Penty Face A5 Notebook Spiral Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2792,
+            "price": 999,
+            "sale": true,
+            "sale_price": 250,
+            "stock_keeping_unit": "DIAE7QHE3V6TZFAY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/f/a/y/amy-amynb50000450-1100x1100-imae7qnjd3n3g8kf.jpeg",
+                "filename": "amy-amynb50000450-1100x1100-imae7qnjd3n3g8kf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/f/a/y/amy-amynb50000450-original-imae7qnjd3n3g8kf.jpeg",
+                "filename": "amy-amynb50000450-original-imae7qnjd3n3g8kf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Ruled"] },
+              { "key": "Model id", "values": ["AMYNB50000450"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "No. of Pages", "values": ["288"] },
+              { "key": "Brand Name", "values": ["AMY"] },
+              { "key": "Binding", "values": ["Spiral Bound"] },
+              { "key": "Size", "values": ["A5"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Length", "values": ["8.5 inch"] },
+              { "key": "Width", "values": ["6.5 inch"] },
+              { "key": "Sales Package", "values": ["1 Notebook"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": true,
+      "id": "1be4c8dd34210b0025307a83de88649979ace206"
+    },
+    {
+      "product": {
+        "id": "e6cba960d2f25d51a3371ba6ec3bb787b5a5d769",
+        "name": "AMY 3D Globe IN Hand A5 Notebook Spiral Bound",
+        "description": "Dummy description for product AMY 3D Globe IN Hand A5 Notebook Spiral Bound",
+        "manufacturer_id": "61fbe3f851041a8837655b21b5fd7c6e25e94cc1",
+        "taric_code": "b79764cc-127f-414e-97a8-d68c5ecea41b",
+        "variants": [
+          {
+            "id": "d87e0cb3a7e867d49bacd8cf244e4b46",
+            "name": "AMY Office Supplies",
+            "description": "Buy AMY 3D Globe IN Hand A5 Notebook Spiral Bound for Rs.250 online. AMY 3D Globe IN Hand A5 Notebook Spiral Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2506,
+            "price": 999,
+            "sale": false,
+            "sale_price": 250,
+            "stock_keeping_unit": "DIAE7QHEAAHFPXZ3",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/x/z/3/amy-amynb50000369-1100x1100-imae7qnvnjbcsfjv.jpeg",
+                "filename": "amy-amynb50000369-1100x1100-imae7qnvnjbcsfjv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/diary-notebook/x/z/3/amy-amynb50000369-original-imae7qnvnjbcsfjv.jpeg",
+                "filename": "amy-amynb50000369-original-imae7qnvnjbcsfjv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Ruled"] },
+              { "key": "Model id", "values": ["AMYNB50000369"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "No. of Pages", "values": ["288"] },
+              { "key": "Brand Name", "values": ["AMY"] },
+              { "key": "Binding", "values": ["Spiral Bound"] },
+              { "key": "Size", "values": ["A5"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Length", "values": ["8.5 inch"] },
+              { "key": "Width", "values": ["6.5 inch"] },
+              { "key": "Sales Package", "values": ["1 Notebook"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": true,
+      "id": "e6cba960d2f25d51a3371ba6ec3bb787b5a5d769"
+    },
+    {
+      "product": {
+        "id": "9351e5587611623a15409c45af124fc99f2bcb93",
+        "name": "Shoperite Black And White Singer A5 Notebook Ring Bound",
+        "description": "Dummy description for product Shoperite Black And White Singer A5 Notebook Ring Bound",
+        "manufacturer_id": "c9760bbfa61d94a9af21fac531fca76d5148eba2",
+        "taric_code": "aee7e270-fc59-4b61-8488-e1b0034aaa6a",
+        "variants": [
+          {
+            "id": "d4b9e6fa8eb6e8097a960ea20fa7f900",
+            "name": "Shoperite Office Supplies",
+            "description": "Buy Shoperite Black And White Singer A5 Notebook Ring Bound for Rs.249 online. Shoperite Black And White Singer A5 Notebook Ring Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8554,
+            "price": 499,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "DIAE75MK9X9SGMN6",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/x/y/3/rockmantra-rmamy-rm340-rmnb00003329-1100x1100-imadwgbshd3gmyvy.jpeg",
+                "filename": "rockmantra-rmamy-rm340-rmnb00003329-1100x1100-imadwgbshd3gmyvy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/x/y/3/rockmantra-rmamy-rm340-rmnb00003329-original-imadwgbshd3gmyvy.jpeg",
+                "filename": "rockmantra-rmamy-rm340-rmnb00003329-original-imadwgbshd3gmyvy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Single Rule"] },
+              { "key": "Model id", "values": ["SRNB00003318"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "No. of Pages", "values": ["200"] },
+              { "key": "Brand Name", "values": ["Shoperite"] },
+              { "key": "Binding", "values": ["Ring Bound"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Size", "values": ["A5"] },
+              { "key": "Length", "values": ["9 inch"] },
+              { "key": "Width", "values": ["5.5 inch"] },
+              { "key": "Sales Package", "values": ["1 Note Book"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": true,
+      "id": "9351e5587611623a15409c45af124fc99f2bcb93"
+    },
+    {
+      "product": {
+        "id": "4a727c7564d1098d63adeb8d185c04b0276b6887",
+        "name": "AMY 3D Incredible Hulk Angry Look A5 Notebook Spiral Bound",
+        "description": "Dummy description for product AMY 3D Incredible Hulk Angry Look A5 Notebook Spiral Bound",
+        "manufacturer_id": "61fbe3f851041a8837655b21b5fd7c6e25e94cc1",
+        "taric_code": "302e32b9-f9c1-446c-8cbb-642e1d179244",
+        "variants": [
+          {
+            "id": "f7630e6d999d3a84454dd5dcc863dadc",
+            "name": "AMY Office Supplies",
+            "description": "Buy AMY 3D Incredible Hulk Angry Look A5 Notebook Spiral Bound for Rs.250 online. AMY 3D Incredible Hulk Angry Look A5 Notebook Spiral Bound at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7071,
+            "price": 999,
+            "sale": true,
+            "sale_price": 250,
+            "stock_keeping_unit": "DIAE5DGHNXFXRCFB",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/c/f/b/amy-amynb10000856-1100x1100-imae5du2wb9cupus.jpeg",
+                "filename": "amy-amynb10000856-1100x1100-imae5du2wb9cupus.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/diary-notebook/c/f/b/amy-amynb10000856-original-imae5du2wb9cupus.jpeg",
+                "filename": "amy-amynb10000856-original-imae5du2wb9cupus.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ruling", "values": ["Ruled"] },
+              { "key": "Model id", "values": ["AMYNB10000856"] },
+              { "key": "Type", "values": ["Notebook"] },
+              { "key": "No. of Pages", "values": ["288"] },
+              { "key": "Brand Name", "values": ["AMY"] },
+              { "key": "Binding", "values": ["Spiral Bound"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Size", "values": ["A5"] },
+              { "key": "Length", "values": ["8.5 inch"] },
+              { "key": "Width", "values": ["6.5 inch"] },
+              { "key": "Sales Package", "values": ["Notebook"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "37e8382f072f0459d576d33d891ecbb34338ef7b" }
+      },
+      "active": true,
+      "id": "4a727c7564d1098d63adeb8d185c04b0276b6887"
+    },
+    {
+      "product": {
+        "id": "3dbecf124bf13ed9133fb30e26512683ca4d027d",
+        "name": "Ruby Metal Bangle",
+        "description": "Dummy description for product Ruby Metal Bangle",
+        "manufacturer_id": "c6591a87c679bd54099258b303961a31c66eda17",
+        "taric_code": "139d0673-9229-46fe-85fb-993b37da29d7",
+        "variants": [
+          {
+            "id": "5f3777f9445624d2bf258d92fb1ddf4d",
+            "name": "Bangles",
+            "description": "Ruby Metal Bangle - Buy Ruby Metal Bangle only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1854,
+            "price": 499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "BBAECHGKFYZTWZJM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/z/j/m/01-2-4-ruby-1-1100x1100-imaeca5bszpz6huw.jpeg",
+                "filename": "01-2-4-ruby-1-1100x1100-imaeca5bszpz6huw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/z/j/m/01-2-4-ruby-1-original-imaeca5bszpz6huw.jpeg",
+                "filename": "01-2-4-ruby-1-original-imaeca5bszpz6huw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/z/j/m/01-2-4-ruby-1-original-imaeca5beh3qwgpu.jpeg",
+                "filename": "01-2-4-ruby-1-original-imaeca5beh3qwgpu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["Ruby"] },
+              { "key": "Collection", "values": ["Ethnic"] },
+              { "key": "Model Number", "values": ["01"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Bangle"] },
+              { "key": "Model Name", "values": ["Rajasthani Traditional"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Ideal For", "values": ["Girls"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Diameter", "values": ["2.4 inch"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": false,
+      "id": "3dbecf124bf13ed9133fb30e26512683ca4d027d"
+    },
+    {
+      "product": {
+        "id": "a80d8656530004ef003bccfe9e573ecedc9b929e",
+        "name": "Home Decor Line Medium Wall Sticker",
+        "description": "Dummy description for product Home Decor Line Medium Wall Sticker",
+        "manufacturer_id": "436db64e42b02e7f2bca5fa30166940a4202ea71",
+        "taric_code": "da141e2a-2eb9-467b-8a8f-675cdd048556",
+        "variants": [
+          {
+            "id": "cd4e658bc148499811f6e1381b5742ff",
+            "name": "Home Decor Line Wall Decals & Stickers",
+            "description": "Buy Home Decor Line Medium Wall Sticker for Rs.149 online. Home Decor Line Medium Wall Sticker at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5218,
+            "price": 249,
+            "sale": false,
+            "sale_price": 149,
+            "stock_keeping_unit": "STIE34TGNPF6MC8K",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/sticker/c/8/k/31206-home-decor-line-elegant-chic-31206-m-original-imae3fwdwgsfgsdp.jpeg",
+                "filename": "31206-home-decor-line-elegant-chic-31206-m-original-imae3fwdwgsfgsdp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/sticker/c/8/k/31206-home-decor-line-elegant-chic-31206-m-original-imae3fwdwgsfgsdp.jpeg",
+                "filename": "31206-home-decor-line-elegant-chic-31206-m-original-imae3fwdwgsfgsdp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/sticker/c/8/k/31206-home-decor-line-elegant-chic-31206-m-original-imae34zjk9ffrjpg.jpeg",
+                "filename": "31206-home-decor-line-elegant-chic-31206-m-original-imae34zjk9ffrjpg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["Stickers"] },
+              { "key": "Brand", "values": ["Home Decor Line"] },
+              { "key": "Shape", "values": ["Characters"] },
+              { "key": "Type", "values": ["Wall"] },
+              { "key": "Number of Stickers", "values": ["1"] },
+              { "key": "Size", "values": ["Medium"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3e8274000cce4cb3967a677a6d42aca939412c7a" }
+      },
+      "active": true,
+      "id": "a80d8656530004ef003bccfe9e573ecedc9b929e"
+    },
+    {
+      "product": {
+        "id": "f86fdc0ad955e0a428a3caa6f5aa5155e2f4a22b",
+        "name": "RCE HP ProBook 4535s 6 Cell Laptop Battery",
+        "description": "Dummy description for product RCE HP ProBook 4535s 6 Cell Laptop Battery",
+        "manufacturer_id": "685a96bd7a8e8bd4b8de813d72b102b54bff5230",
+        "taric_code": "19857ec3-cb31-4dab-82b4-b716fa0a8475",
+        "variants": [
+          {
+            "id": "5aecfb85835fde4b4aff91cd5162baa7",
+            "name": "RCE Batteries",
+            "description": "Buy RCE HP ProBook 4535s 6 Cell Laptop Battery only for Rs. 1790 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4478,
+            "price": 2800,
+            "sale": false,
+            "sale_price": 1790,
+            "stock_keeping_unit": "ACCDXFFCBJ3CGRYF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-battery/j/f/y/laplife-hp-probook-4530s-original-imadukyg3a6zpce7.jpeg",
+                "filename": "laplife-hp-probook-4530s-original-imadukyg3a6zpce7.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-battery/j/f/y/laplife-hp-probook-4530s-original-imadukyg3a6zpce7.jpeg",
+                "filename": "laplife-hp-probook-4530s-original-imadukyg3a6zpce7.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "In The Box", "values": ["Laptop Battery"] },
+              { "key": "Brand", "values": ["RCE"] },
+              { "key": "Designed For", "values": ["Business Notebook 4535s"] },
+              { "key": "Number Of Cells", "values": ["6"] },
+              { "key": "Capacity", "values": ["4400 mAh"] },
+              { "key": "Battery Type", "values": ["Li-ion"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Model Id", "values": ["HP ProBook 4535s"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Manufacturer Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Customer needs to call RCE Retail",
+                  "and send the product to them for repalcement. RCE Retail will ship the brand new replacement product only after receiving faulty product from the customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty does not cover any damage caused to the product due to improper installation by customer and normal wear and tears."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "b3fe1ab6a17a0a2a7deb9900903482cb9a10d1a3" }
+      },
+      "active": false,
+      "id": "f86fdc0ad955e0a428a3caa6f5aa5155e2f4a22b"
+    },
+    {
+      "product": {
+        "id": "7de2a99f52ee652fbea566836571e4634a0e2625",
+        "name": "RCE Toshiba Satellite A100 6 Cell Laptop Battery",
+        "description": "Dummy description for product RCE Toshiba Satellite A100 6 Cell Laptop Battery",
+        "manufacturer_id": "685a96bd7a8e8bd4b8de813d72b102b54bff5230",
+        "taric_code": "69a736bb-e426-4a04-bcd4-9807501d5a4f",
+        "variants": [
+          {
+            "id": "d466b7842a67db6a3a0736b76a527915",
+            "name": "RCE Batteries",
+            "description": "Buy RCE Toshiba Satellite A100 6 Cell Laptop Battery only for Rs. 1150 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8456,
+            "price": 2800,
+            "sale": false,
+            "sale_price": 1150,
+            "stock_keeping_unit": "ACCDXFFBYZTCAMRN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-battery/4/y/h/rce-toshiba-pa3399u-1bas-original-imadx2efy6s2puez.jpeg",
+                "filename": "rce-toshiba-pa3399u-1bas-original-imadx2efy6s2puez.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "In The Box", "values": ["Laptop Battery"] },
+              { "key": "Brand", "values": ["RCE"] },
+              { "key": "Designed For", "values": ["Toshiba A100"] },
+              { "key": "Number Of Cells", "values": ["6"] },
+              { "key": "Capacity", "values": ["4400 mAh"] },
+              { "key": "Battery Type", "values": ["Li-ion"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Model Id", "values": ["Toshiba Satellite A100"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Manufacturer Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Customer needs to call RCE Retail",
+                  "and send the product to them for repalcement. RCE Retail will ship the brand new replacement product only after receiving faulty product from the customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty does not cover any damage caused to the product due to improper installation by customer and normal wear and tears."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "b3fe1ab6a17a0a2a7deb9900903482cb9a10d1a3" }
+      },
+      "active": true,
+      "id": "7de2a99f52ee652fbea566836571e4634a0e2625"
+    },
+    {
+      "product": {
+        "id": "3964d08dc8b499423131967fc384a666818611c4",
+        "name": "RCE HP ProBook 4430s 6 Cell Laptop Battery",
+        "description": "Dummy description for product RCE HP ProBook 4430s 6 Cell Laptop Battery",
+        "manufacturer_id": "685a96bd7a8e8bd4b8de813d72b102b54bff5230",
+        "taric_code": "a544d004-eac0-4e39-8ad7-95f7dc3c1fca",
+        "variants": [
+          {
+            "id": "19d2dbc1789653c58bce08c169662cf2",
+            "name": "RCE Batteries",
+            "description": "Buy RCE HP ProBook 4430s 6 Cell Laptop Battery only for Rs. 1790 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3323,
+            "price": 2800,
+            "sale": false,
+            "sale_price": 1790,
+            "stock_keeping_unit": "ACCDXFFC3VSUFGYC",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/laptop-battery/j/f/y/laplife-hp-probook-4530s-original-imadukyg3a6zpce7.jpeg",
+                "filename": "laplife-hp-probook-4530s-original-imadukyg3a6zpce7.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/laptop-battery/j/f/y/laplife-hp-probook-4530s-original-imadukyg3a6zpce7.jpeg",
+                "filename": "laplife-hp-probook-4530s-original-imadukyg3a6zpce7.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["RCE"] },
+              { "key": "In The Box", "values": ["Laptop Battery"] },
+              { "key": "Designed For", "values": ["Business Notebook 4430s"] },
+              { "key": "Number Of Cells", "values": ["6"] },
+              { "key": "Capacity", "values": ["4400 mAh"] },
+              { "key": "Battery Type", "values": ["Li-ion"] },
+              { "key": "Model Id", "values": ["HP ProBook 4430s"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["1 Year Manufacturer Warranty"]
+              },
+              {
+                "key": "Warranty Service Type",
+                "values": [
+                  "Customer needs to call RCE Retail",
+                  "and send the product to them for repalcement. RCE Retail will ship the brand new replacement product only after receiving faulty product from the customer."
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Warranty does not cover any damage caused to the product due to improper installation by customer and normal wear and tears."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "b3fe1ab6a17a0a2a7deb9900903482cb9a10d1a3" }
+      },
+      "active": true,
+      "id": "3964d08dc8b499423131967fc384a666818611c4"
+    },
+    {
+      "product": {
+        "id": "8093d4799f4f609ffacf6b4d07822297ce697c0c",
+        "name": "GINI & JONY Solid Baby Boy's Round Neck Green T-Shirt",
+        "description": "Dummy description for product GINI & JONY Solid Baby Boy's Round Neck Green T-Shirt",
+        "manufacturer_id": "f8d2514e8d3d0ec50b722d353f4282acc6a13158",
+        "taric_code": "7d8974d5-e930-4f1a-b778-360dffde62c6",
+        "variants": [
+          {
+            "id": "aec13bb64f4353b25719a103d16cb923",
+            "name": "GINI & JONY Solid Baby Boy's Round Neck Green T-...",
+            "description": "Specifications of GINI & JONY Solid Baby Boy's Round Neck Green T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100 % COTTON Type Round Neck Fit Regular General Details Pattern Solid Ideal For Baby Boy's Occasion Casual Additional Details Style Code 111021669868 1147 In the Box 1 T-SHIRT",
+            "stock_level": 3987,
+            "price": 799,
+            "sale": false,
+            "sale_price": 479,
+            "stock_keeping_unit": "TSHEFC49GXXR8SYG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/s/y/g/111021669868-1147-gini-and-jony-6-original-imaefywghgyhvmjh.jpeg",
+                "filename": "111021669868-1147-gini-and-jony-6-original-imaefywghgyhvmjh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/s/y/g/111021669868-1147-gini-and-jony-14-original-imaefywguzfxtga2.jpeg",
+                "filename": "111021669868-1147-gini-and-jony-14-original-imaefywguzfxtga2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Style Code", "values": ["111021669868 1147"] },
+              {
+                "key": "a36b0a24-aafd-4165-a020-22ed584a534b",
+                "values": ["1 T-SHIRT"]
+              }
+            ]
+          },
+          {
+            "id": "c353cb46c74b68b37df79dc4af4d3bef",
+            "name": "GINI & JONY Solid Baby Boy's Round Neck Green T-...",
+            "description": "Specifications of GINI & JONY Solid Baby Boy's Round Neck Green T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100 % COTTON Type Round Neck Fit Regular General Details Pattern Solid Ideal For Baby Boy's Occasion Casual Additional Details Style Code 131021689058 1350 In the Box 1 T-SHIRT",
+            "stock_level": 2231,
+            "price": 399,
+            "sale": false,
+            "sale_price": 239,
+            "stock_keeping_unit": "TSHEFC4BSHJSJHAK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/h/c/s/131021689058-1350-gini-and-jony-18-24-months-original-imaefywgvdz2aseq.jpeg",
+                "filename": "131021689058-1350-gini-and-jony-18-24-months-original-imaefywgvdz2aseq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/h/c/s/131021689058-1350-gini-and-jony-6-12-months-original-imaefywge4pfshzt.jpeg",
+                "filename": "131021689058-1350-gini-and-jony-6-12-months-original-imaefywge4pfshzt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Style Code", "values": ["131021689058 1350"] },
+              {
+                "key": "ef924bb6-4c8e-42c6-a152-c13ca744b7a7",
+                "values": ["1 T-SHIRT"]
+              }
+            ]
+          },
+          {
+            "id": "0b182742288ce3fbc0cb51e86b76d5b4",
+            "name": "GINI & JONY Solid Baby Boy's Round Neck Green T-...",
+            "description": "Key Features of GINI & JONY Solid Baby Boy's Round Neck Green T-Shirt Fit: Regular Suitable For: Western Wear Sleeve: Short Sleeve Fabric: 100 % COTTON,Specifications of GINI & JONY Solid Baby Boy's Round Neck Green T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100 % COTTON Type Round Neck Fit Regular General Details Pattern Solid Occasion Casual Ideal For Baby Boy's In the Box 1 T-SHIRT Additional Details Style Code 131021669960 1350",
+            "stock_level": 123,
+            "price": 349,
+            "sale": false,
+            "sale_price": 209,
+            "stock_keeping_unit": "TSHEFC49YBFGDRKY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/j/2/s/131021669960-1350-gini-and-jony-16-original-imaefywgshpuhjxr.jpeg",
+                "filename": "131021669960-1350-gini-and-jony-16-original-imaefywgshpuhjxr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/j/2/s/131021669960-1350-gini-and-jony-16-original-imaefywgshpuhjxr.jpeg",
+                "filename": "131021669960-1350-gini-and-jony-16-original-imaefywgshpuhjxr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/j/2/s/131021669960-1350-gini-and-jony-12-original-imaefywgwbk2whhh.jpeg",
+                "filename": "131021669960-1350-gini-and-jony-12-original-imaefywgwbk2whhh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              {
+                "key": "04d67af7-e581-4cdc-88b2-5f9cf629a4bc",
+                "values": ["1 T-SHIRT"]
+              },
+              { "key": "Style Code", "values": ["131021669960 1350"] }
+            ]
+          },
+          {
+            "id": "b7862395f683ccd9f7f44f2fdd5e9646",
+            "name": "GINI & JONY Solid Baby Boy's Round Neck Green T-...",
+            "description": "Key Features of GINI & JONY Solid Baby Boy's Round Neck Green T-Shirt Fit: Regular Suitable For: Western Wear Sleeve: Short Sleeve Fabric: 100 % COTTON,Specifications of GINI & JONY Solid Baby Boy's Round Neck Green T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100 % COTTON Type Round Neck Fit Regular General Details Pattern Solid Occasion Casual Ideal For Baby Boy's In the Box 1 T-SHIRT Additional Details Style Code 121021689657 1253",
+            "stock_level": 7650,
+            "price": 399,
+            "sale": false,
+            "sale_price": 239,
+            "stock_keeping_unit": "TSHEFC4BWHN3K5HA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/t/f/g/121021689657-1253-gini-and-jony-6-original-imaefywgdbpxgqyw.jpeg",
+                "filename": "121021689657-1253-gini-and-jony-6-original-imaefywgdbpxgqyw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/t/f/g/121021689657-1253-gini-and-jony-6-original-imaefywgdbpxgqyw.jpeg",
+                "filename": "121021689657-1253-gini-and-jony-6-original-imaefywgdbpxgqyw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/t/f/g/121021689657-1253-gini-and-jony-2-original-imaefywg5zxgbvha.jpeg",
+                "filename": "121021689657-1253-gini-and-jony-2-original-imaefywg5zxgbvha.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              {
+                "key": "a73add70-8b85-4472-94c2-07f056be0f5b",
+                "values": ["1 T-SHIRT"]
+              },
+              { "key": "Style Code", "values": ["121021689657 1253"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "06104e6dc3d5b28435aad02d76e7d2a50c0ac354" }
+      },
+      "active": false,
+      "id": "8093d4799f4f609ffacf6b4d07822297ce697c0c"
+    },
+    {
+      "product": {
+        "id": "0ede3345914e788152b59016565ab7b6c05c167a",
+        "name": "Redwave 360 Degree Powered Rotation Bluetooth Selfie Stick",
+        "description": "Dummy description for product Redwave 360 Degree Powered Rotation Bluetooth Selfie Stick",
+        "manufacturer_id": "bef6233c3fca8469b9b10a6edcbf388b0881af86",
+        "taric_code": "794a6f87-7a52-4dc6-94e2-144df2d0c33d",
+        "variants": [
+          {
+            "id": "d242e6305e62e47abbdf774f447790c3",
+            "name": "Redwave 360 Degree Powered Rotation Bluetooth Se...",
+            "description": "Related video of Redwave 360 Degree Powered Rotation Bluetooth Selfie Stick,Specifications of Redwave 360 Degree Powered Rotation Bluetooth Selfie Stick (Black) In the Box Sales Package 1x Redwave Stick General Brand Redwave Model Number 360 Degree Powered Rotation Bluetooth Designed For Mobile Phones Color Black Load Capacity 350 g Remote Included Yes Dimensions Folded Length 254 mm Extended Length 812 mm Weight 180 g",
+            "stock_level": 6475,
+            "price": 3999,
+            "sale": true,
+            "sale_price": 2999,
+            "stock_keeping_unit": "SSKEGDY6TVVGYPMQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/selfie-stick/p/m/q/360-degree-powered-rotation-bluetooth-redwave-1100x1100-imaegdy2gcqwjryg.jpeg",
+                "filename": "360-degree-powered-rotation-bluetooth-redwave-1100x1100-imaegdy2gcqwjryg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/selfie-stick/p/m/q/360-degree-powered-rotation-bluetooth-redwave-original-imaegdy2gcqwjryg.jpeg",
+                "filename": "360-degree-powered-rotation-bluetooth-redwave-original-imaegdy2gcqwjryg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/selfie-stick/p/m/q/360-degree-powered-rotation-bluetooth-redwave-original-imaegdy23zhefc9d.jpeg",
+                "filename": "360-degree-powered-rotation-bluetooth-redwave-original-imaegdy23zhefc9d.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sales Package", "values": ["1x Redwave Stick"] },
+              { "key": "Brand", "values": ["Redwave"] },
+              {
+                "key": "Model Number",
+                "values": ["360 Degree Powered Rotation Bluetooth"]
+              },
+              { "key": "Designed For", "values": ["Mobile Phones"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Load Capacity", "values": ["350 g"] },
+              { "key": "Remote Included", "values": ["Yes"] },
+              { "key": "Folded Length", "values": ["254 mm"] },
+              { "key": "Extended Length", "values": ["812 mm"] },
+              { "key": "Weight", "values": ["180 g"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8e13c53933d316c587107678dcd803f473ecb034" }
+      },
+      "active": true,
+      "id": "0ede3345914e788152b59016565ab7b6c05c167a"
+    },
+    {
+      "product": {
+        "id": "c97f99ebfabf0785ba623268478747e9eb743fd0",
+        "name": "Jelly8 HIGH QUALITY SOUND Wired Earphone With Mic Headphones",
+        "description": "Dummy description for product Jelly8 HIGH QUALITY SOUND Wired Earphone With Mic Headphones",
+        "manufacturer_id": "761d61b80b56d06dc965121d19308aa7d5ddbc42",
+        "taric_code": "5e7e81cc-cac3-43a3-b81e-ee31e2294a93",
+        "variants": [
+          {
+            "id": "fb33e409b4c0588aee2f53bba02583fd",
+            "name": "Jelly8 HIGH QUALITY SOUND Wired Earphone With Mi...",
+            "description": "Key Features of Jelly8 HIGH QUALITY SOUND Wired Earphone With Mic Headphones Design: Earbud Flatwire Noise Cancellation Inline Remote,Specifications of Jelly8 HIGH QUALITY SOUND Wired Earphone With Mic Headphones (multi, In the Ear) Performance Features Noise Cancellation Yes General Headset Design Earbud Brand Jelly8 Headphone Type In the Ear Model ID HIGH QUALITY SOUND Wired Color multi In Sales Package Headphone Bluetooth Bluetooth No Warranty Covered in Warranty Warranty Of The Product Is Limited To Manufacturing Defects Only. Warranty Summary customer needs to call the flipkart to contact the vendor,vendor will see the issue and revert back soon Not Covered in Warranty if damaged, will not be repaired/covered under warranty. Connectivity Headphone Jack 3.5mm Additional Features Flatwire Yes",
+            "stock_level": 3719,
+            "price": 999,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "ACCEGAMFBVNMRFAU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/headphone/earphone-with-mic/f/a/u/jelly8-high-quality-sound-wired-1100x1100-imaeg9jzbkz8bfag.jpeg",
+                "filename": "jelly8-high-quality-sound-wired-1100x1100-imaeg9jzbkz8bfag.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/headphone/earphone-with-mic/f/a/u/jelly8-high-quality-sound-wired-original-imaeg9jzbkz8bfag.jpeg",
+                "filename": "jelly8-high-quality-sound-wired-original-imaeg9jzbkz8bfag.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/headphone/earphone-with-mic/f/a/u/jelly8-high-quality-sound-wired-original-imaeg9kyfyxhksf2.jpeg",
+                "filename": "jelly8-high-quality-sound-wired-original-imaeg9kyfyxhksf2.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/headphone/earphone-with-mic/f/a/u/jelly8-high-quality-sound-wired-original-imaeg9kyaqcexstx.jpeg",
+                "filename": "jelly8-high-quality-sound-wired-original-imaeg9kyaqcexstx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Noise Cancellation", "values": ["Yes"] },
+              { "key": "Headset Design", "values": ["Earbud"] },
+              { "key": "Brand", "values": ["Jelly8"] },
+              { "key": "Headphone Type", "values": ["In the Ear"] },
+              { "key": "Model ID", "values": ["HIGH QUALITY SOUND Wired"] },
+              { "key": "Color", "values": ["multi"] },
+              { "key": "In Sales Package", "values": ["Headphone"] },
+              { "key": "Bluetooth", "values": ["No"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty Of The Product Is Limited To Manufacturing Defects Only."
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "customer needs to call the flipkart to contact the vendor,vendor will see the issue and revert back soon"
+                ]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "if damaged",
+                  "will not be repaired/covered under warranty."
+                ]
+              },
+              { "key": "Headphone Jack", "values": ["3.5mm"] },
+              { "key": "Flatwire", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ca1cff28b92fbfb2ddc855f37b708a3e83eda541" }
+      },
+      "active": false,
+      "id": "c97f99ebfabf0785ba623268478747e9eb743fd0"
+    },
+    {
+      "product": {
+        "id": "04f2970683c43ad0453f48c1672831cec27b89a6",
+        "name": "GINI & JONY Printed Baby Boy's Polo Neck Red T-Shirt",
+        "description": "Dummy description for product GINI & JONY Printed Baby Boy's Polo Neck Red T-Shirt",
+        "manufacturer_id": "f8d2514e8d3d0ec50b722d353f4282acc6a13158",
+        "taric_code": "dcee6970-0316-4c5a-8eee-6f0fa606e704",
+        "variants": [
+          {
+            "id": "51d3bee644d798af6abecb73dd157edf",
+            "name": "GINI & JONY Printed Baby Boy's Polo Neck Red T-S...",
+            "description": "Specifications of GINI & JONY Printed Baby Boy's Polo Neck Red T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100 % COTTON Type Polo Neck Fit Regular General Details Pattern Printed Occasion Casual Ideal For Baby Boy's In the Box 1 POLO T-SHIRT Additional Details Style Code 121041789647 1220",
+            "stock_level": 1060,
+            "price": 799,
+            "sale": false,
+            "sale_price": 479,
+            "stock_keeping_unit": "TSHEFC49T6VCSYGS",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/y/f/f/121041789647-1220-gini-and-jony-original-imae7mdw2kuvv5cb.jpeg",
+                "filename": "121041789647-1220-gini-and-jony-original-imae7mdw2kuvv5cb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/h/7/k/121041789647-1220-gini-and-jony-6-12-months-original-imaefywg6czfxgsf.jpeg",
+                "filename": "121041789647-1220-gini-and-jony-6-12-months-original-imaefywg6czfxgsf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/y/f/f/121041789647-1220-gini-and-jony-original-imae7mdwmf3sd3aq.jpeg",
+                "filename": "121041789647-1220-gini-and-jony-original-imae7mdwmf3sd3aq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/h/7/k/121041789647-1220-gini-and-jony-6-original-imaefywgpuq8fcyu.jpeg",
+                "filename": "121041789647-1220-gini-and-jony-6-original-imaefywgpuq8fcyu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Polo Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              {
+                "key": "6cc32eb1-9192-4928-80f5-73a497b7176d",
+                "values": ["1 POLO T-SHIRT"]
+              },
+              { "key": "Style Code", "values": ["121041789647 1220"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "06104e6dc3d5b28435aad02d76e7d2a50c0ac354" }
+      },
+      "active": false,
+      "id": "04f2970683c43ad0453f48c1672831cec27b89a6"
+    },
+    {
+      "product": {
+        "id": "577806505d043d656b5d89b802f7cea18b8f7c90",
+        "name": "GINI & JONY Solid Baby Boy's Polo Neck White T-Shirt",
+        "description": "Dummy description for product GINI & JONY Solid Baby Boy's Polo Neck White T-Shirt",
+        "manufacturer_id": "f8d2514e8d3d0ec50b722d353f4282acc6a13158",
+        "taric_code": "e79dc819-de1d-418c-a1f2-43996d859d8c",
+        "variants": [
+          {
+            "id": "325073b4dc56e4268c762421e2bf2d54",
+            "name": "GINI & JONY Solid Baby Boy's Polo Neck White T-S...",
+            "description": "Specifications of GINI & JONY Solid Baby Boy's Polo Neck White T-Shirt (Pack of 2) T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 2 Fabric 100 % COTTON Type Polo Neck Fit Regular General Details Pattern Solid Ideal For Baby Boy's Occasion Casual Additional Details Style Code 131041689128 1303 In the Box 2 POLO PACK OF-2",
+            "stock_level": 1577,
+            "price": 699,
+            "sale": true,
+            "sale_price": 419,
+            "stock_keeping_unit": "TSHEFC4DQUTHNT6Y",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/9/b/w/131041689128-1303-gini-and-jony-12-1000x1000-imaefywgj7zrsgdk.jpeg",
+                "filename": "131041689128-1303-gini-and-jony-12-1000x1000-imaefywgj7zrsgdk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/9/b/w/131041689128-1303-gini-and-jony-12-original-imaefywgj7zrsgdk.jpeg",
+                "filename": "131041689128-1303-gini-and-jony-12-original-imaefywgj7zrsgdk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/9/b/w/131041689128-1303-gini-and-jony-6-original-imaefywgh2eysmrg.jpeg",
+                "filename": "131041689128-1303-gini-and-jony-6-original-imaefywgh2eysmrg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Polo Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Style Code", "values": ["131041689128 1303"] },
+              {
+                "key": "8eb5d614-0731-465e-ae7a-5a38a919c7a4",
+                "values": ["2 POLO PACK OF-2"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "06104e6dc3d5b28435aad02d76e7d2a50c0ac354" }
+      },
+      "active": true,
+      "id": "577806505d043d656b5d89b802f7cea18b8f7c90"
+    },
+    {
+      "product": {
+        "id": "2659a2f620c02af77e20f49b4d603f7ae661598b",
+        "name": "GINI & JONY Solid Baby Boy's Round Neck Red T-Shirt",
+        "description": "Dummy description for product GINI & JONY Solid Baby Boy's Round Neck Red T-Shirt",
+        "manufacturer_id": "f8d2514e8d3d0ec50b722d353f4282acc6a13158",
+        "taric_code": "8e413633-b94c-46ea-9d91-88785c6e9392",
+        "variants": [
+          {
+            "id": "df6f4f9bae0a95aedabd6b5d54281802",
+            "name": "GINI & JONY Solid Baby Boy's Round Neck Red T-Shirt",
+            "description": "Specifications of GINI & JONY Solid Baby Boy's Round Neck Red T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100 % COTTON Type Round Neck Fit Regular General Details Pattern Solid Ideal For Baby Boy's Occasion Casual Additional Details Style Code 131021668438 1320 In the Box 1 T-SHIRT",
+            "stock_level": 1741,
+            "price": 499,
+            "sale": true,
+            "sale_price": 299,
+            "stock_keeping_unit": "TSHEFC49FBZQFNCQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/e/j/9/131021668438-1320-gini-and-jony-2-original-imaefywg8hamuxpt.jpeg",
+                "filename": "131021668438-1320-gini-and-jony-2-original-imaefywg8hamuxpt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/e/j/9/131021668438-1320-gini-and-jony-2-original-imaefywg8hamuxpt.jpeg",
+                "filename": "131021668438-1320-gini-and-jony-2-original-imaefywg8hamuxpt.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/e/j/9/131021668438-1320-gini-and-jony-2-original-imaefywgdz5gry2e.jpeg",
+                "filename": "131021668438-1320-gini-and-jony-2-original-imaefywgdz5gry2e.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Style Code", "values": ["131021668438 1320"] },
+              {
+                "key": "cf383bfd-124c-465b-85ff-be3d90a9887d",
+                "values": ["1 T-SHIRT"]
+              }
+            ]
+          },
+          {
+            "id": "dca6bbba92f2c74abdf91932f66b4ca5",
+            "name": "GINI & JONY Solid Baby Boy's Round Neck Red T-Shirt",
+            "description": "Key Features of GINI & JONY Solid Baby Boy's Round Neck Red T-Shirt Fit: Regular Suitable For: Western Wear Sleeve: Short Sleeve Fabric: 100 % COTTON,Specifications of GINI & JONY Solid Baby Boy's Round Neck Red T-Shirt T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 1 Fabric 100 % COTTON Type Round Neck Fit Regular General Details Pattern Solid Occasion Casual Ideal For Baby Boy's In the Box 1 T-SHIRT Additional Details Style Code 121021688408 1220",
+            "stock_level": 5821,
+            "price": 499,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "TSHEFC4AYHDXFDNK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/k/7/y/121021688408-gini-and-jony-original-imae8tzwf8shpavg.jpeg",
+                "filename": "121021688408-gini-and-jony-original-imae8tzwf8shpavg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/d/n/k/121021688408-1220-gini-and-jony-8-original-imaefywg94mpyjhh.jpeg",
+                "filename": "121021688408-1220-gini-and-jony-8-original-imaefywg94mpyjhh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/k/7/y/121021688408-gini-and-jony-original-imae8tzwwgawh4fs.jpeg",
+                "filename": "121021688408-gini-and-jony-original-imae8tzwwgawh4fs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/d/n/k/121021688408-1220-gini-and-jony-8-original-imaefywgksfpbqwt.jpeg",
+                "filename": "121021688408-1220-gini-and-jony-8-original-imaefywgksfpbqwt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/k/7/y/121021688408-gini-and-jony-original-imae8tzwgkzpywn3.jpeg",
+                "filename": "121021688408-gini-and-jony-original-imae8tzwgkzpywn3.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              {
+                "key": "4c2a62d7-018c-4e5d-a42a-aed254f62046",
+                "values": ["1 T-SHIRT"]
+              },
+              { "key": "Style Code", "values": ["121021688408 1220"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "06104e6dc3d5b28435aad02d76e7d2a50c0ac354" }
+      },
+      "active": false,
+      "id": "2659a2f620c02af77e20f49b4d603f7ae661598b"
+    },
+    {
+      "product": {
+        "id": "07a9f5906970695c91bdd1dcb3b91ceaec6e6132",
+        "name": "United Colors of Benetton Striped Round Neck Green, Purple T-Shirt",
+        "description": "Dummy description for product United Colors of Benetton Striped Round Neck Green, Purple T-Shirt",
+        "manufacturer_id": "5bd6ac1fd5ac3982c1c4cac5d0854e4acbe32675",
+        "taric_code": "f457eae3-b4e9-4e75-8373-0a81e95c0dfd",
+        "variants": [
+          {
+            "id": "8a57df7364909573fdd813c4dd4c3aa3",
+            "name": "United Colors of Benetton Striped Round Neck Gre...",
+            "description": "Key Features of United Colors of Benetton Striped Round Neck Green, Purple T-Shirt Sleeve: Half Sleeve Fabric: 100% Cotton,Specifications of United Colors of Benetton Striped Round Neck Green, Purple T-Shirt T-shirt Details Sleeve Half Sleeve Fabric 100% Cotton Type Round Neck Fit Regular Design Logo on Chest General Details Age Group 1 - 2 Years Pattern Striped Occasion Casual Additional Details Style Code 16P3096C0176I906 Fabric Care Machine Wash as per Tag, Wash with Like Colors, Do not Dry Clean, Do not Bleach, Dry Flat, Dry in Shade, Do not Wring, Reverse and Dry, Do not Tumble Dry, Iron Steam or Dry as per Tag",
+            "stock_level": 442,
+            "price": 699,
+            "sale": true,
+            "sale_price": 419,
+            "stock_keeping_unit": "TSHEFJ3FGRGQNRYD",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/e/f/c/16p3096c0176i906-ucb-11-12-years-original-imaehf8ehgzzwfht.jpeg",
+                "filename": "16p3096c0176i906-ucb-11-12-years-original-imaehf8ehgzzwfht.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/e/f/c/16p3096c0176i906-ucb-11-12-years-original-imaehf8edkrtmhqw.jpeg",
+                "filename": "16p3096c0176i906-ucb-11-12-years-original-imaehf8edkrtmhqw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/e/f/c/16p3096c0176i906-ucb-11-12-years-original-imaehf8ewjhme9ah.jpeg",
+                "filename": "16p3096c0176i906-ucb-11-12-years-original-imaehf8ewjhme9ah.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Half Sleeve"] },
+              { "key": "Fabric", "values": ["100% Cotton"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Design", "values": ["Logo on Chest"] },
+              { "key": "Age Group", "values": ["1 - 2 Years"] },
+              { "key": "Pattern", "values": ["Striped"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Style Code", "values": ["16P3096C0176I906"] },
+              {
+                "key": "679eb39c-6e1c-40a1-a095-db464c34afff",
+                "values": [
+                  "Machine Wash as per Tag",
+                  "Wash with Like Colors",
+                  "Do not Dry Clean",
+                  "Do not Bleach",
+                  "Dry Flat",
+                  "Dry in Shade",
+                  "Do not Wring",
+                  "Reverse and Dry",
+                  "Do not Tumble Dry",
+                  "Iron Steam or Dry as per Tag"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "749ec2c525789d8865a22548b554f64d892b244a" }
+      },
+      "active": true,
+      "id": "07a9f5906970695c91bdd1dcb3b91ceaec6e6132"
+    },
+    {
+      "product": {
+        "id": "a36c4fd1a0780cf4526ec5679d4fa09b6b424edd",
+        "name": "GINI & JONY Solid Baby Boy's Polo Neck Red T-Shirt",
+        "description": "Dummy description for product GINI & JONY Solid Baby Boy's Polo Neck Red T-Shirt",
+        "manufacturer_id": "f8d2514e8d3d0ec50b722d353f4282acc6a13158",
+        "taric_code": "16267b26-95df-408f-8050-ec46c49407a6",
+        "variants": [
+          {
+            "id": "4bf77b500d84fc07710abe7ceb7642dc",
+            "name": "GINI & JONY Solid Baby Boy's Polo Neck Red T-Shi...",
+            "description": "Specifications of GINI & JONY Solid Baby Boy's Polo Neck Red T-Shirt (Pack of 2) T-shirt Details Sleeve Short Sleeve Number of Contents in Sales Package Pack of 2 Fabric 100 % COTTON Type Polo Neck Fit Regular General Details Pattern Solid Occasion Casual Ideal For Baby Boy's In the Box 2 POLO PACK OF-2 Additional Details Style Code 131041689128 1320",
+            "stock_level": 593,
+            "price": 699,
+            "sale": true,
+            "sale_price": 419,
+            "stock_keeping_unit": "TSHEFC4CNFWHDYJT",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/p/t/h/131041689128-1320-gini-and-jony-10-1000x1000-imaefywg3rqdfehs.jpeg",
+                "filename": "131041689128-1320-gini-and-jony-10-1000x1000-imaefywg3rqdfehs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/p/t/h/131041689128-1320-gini-and-jony-10-original-imaefywg3rqdfehs.jpeg",
+                "filename": "131041689128-1320-gini-and-jony-10-original-imaefywg3rqdfehs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/p/t/h/131041689128-1320-gini-and-jony-6-12-months-original-imaefywgeatnhzcc.jpeg",
+                "filename": "131041689128-1320-gini-and-jony-6-12-months-original-imaefywgeatnhzcc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Short Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Fabric", "values": ["100 % COTTON"] },
+              { "key": "Type", "values": ["Polo Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Baby Boy's"] },
+              {
+                "key": "40e8560d-a4fc-492f-a9df-a8145f6cb1c1",
+                "values": ["2 POLO PACK OF-2"]
+              },
+              { "key": "Style Code", "values": ["131041689128 1320"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "06104e6dc3d5b28435aad02d76e7d2a50c0ac354" }
+      },
+      "active": false,
+      "id": "a36c4fd1a0780cf4526ec5679d4fa09b6b424edd"
+    },
+    {
+      "product": {
+        "id": "eeda6a7181a291121c1d164779635cf302df3841",
+        "name": "Shonaya Georgette, Crepe Embroidered Semi-stitched Gown",
+        "description": "Dummy description for product Shonaya Georgette, Crepe Embroidered Semi-stitched Gown",
+        "manufacturer_id": "d93269a3b9eea8c0b0a156c130aa551d20cf0765",
+        "taric_code": "f2989fb5-340a-4c59-b6f0-96b2e96dc1f6",
+        "variants": [
+          {
+            "id": "51ed47da1fa24924fcbebacbc956a3da",
+            "name": "Shonaya Georgette, Crepe Embroidered Semi-stitch...",
+            "description": "Key Features of Shonaya Georgette, Crepe Embroidered Semi-stitched Gown Anarkali Gown Work : Embroidery Occasion : Party Wear,Shonaya Georgette, Crepe Embroidered Semi-stitched Gown Price: Rs. 3,985 Elegance meets tradition in these suit & experience with different neckline and silhouettes with these ready to glamorize fabrics. Team it up with traditional dress to complete the desired look. As the suit carries the best in you & you'll be at your best in look like never before.Top Fabric:- Georgette & Crepe (Size:-60 inch) Bottom Fabric:- NA (Size:- NA), Dupatta Fabric:- Chiffon (Size:-2.25 mtr),Specifications of Shonaya Georgette, Crepe Embroidered Semi-stitched Gown Fabric Details Fabric Georgette, Crepe Type Semi-stitched Gown General Details Pattern Embroidered Ideal For Women's Color Pink, Grey In the Box Top,Dupatta Additional Details Style Code SH-VICLT-606 Fabric Care Wash Dry Clean",
+            "stock_level": 865,
+            "price": 15940,
+            "sale": false,
+            "sale_price": 3985,
+            "stock_keeping_unit": "FABEJKJ2UAWA3JXC",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/j/x/c/sh-viclt-606-shonaya-original-imaejg2ku7d5hezz.jpeg",
+                "filename": "sh-viclt-606-shonaya-original-imaejg2ku7d5hezz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/j/x/c/sh-viclt-606-shonaya-original-imaejg2ku7d5hezz.jpeg",
+                "filename": "sh-viclt-606-shonaya-original-imaejg2ku7d5hezz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/j/x/c/sh-viclt-606-shonaya-original-imaejg2kxffpebbz.jpeg",
+                "filename": "sh-viclt-606-shonaya-original-imaejg2kxffpebbz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/j/x/c/sh-viclt-606-shonaya-original-imaejg2krvhfgvx4.jpeg",
+                "filename": "sh-viclt-606-shonaya-original-imaejg2krvhfgvx4.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Georgette", "Crepe"] },
+              { "key": "Type", "values": ["Semi-stitched Gown"] },
+              { "key": "Pattern", "values": ["Embroidered"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Color", "values": ["Pink", "Grey"] },
+              {
+                "key": "b09642f2-d6cf-487c-a117-222aae48a9dd",
+                "values": ["Top,Dupatta"]
+              },
+              { "key": "Style Code", "values": ["SH-VICLT-606"] },
+              {
+                "key": "44276485-95e1-4773-9ebd-65c15b13edf5",
+                "values": ["Wash Dry Clean"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "bb360ea01957cbd70aaba957cb9f0a25a384287c" }
+      },
+      "active": true,
+      "id": "eeda6a7181a291121c1d164779635cf302df3841"
+    },
+    {
+      "product": {
+        "id": "6e8677eafd0ce76b848f53f6873d2a7e654823eb",
+        "name": "ATV Pouch for LG G4",
+        "description": "Dummy description for product ATV Pouch for LG G4",
+        "manufacturer_id": "164f5bdc7944ebe8b873b01800ca11e627571680",
+        "taric_code": "e15d5aa1-964b-4e31-afa3-a5cc57a3ea7d",
+        "variants": [
+          {
+            "id": "3d12341c9e3d255c7bc25940872962f2",
+            "name": "ATV Pouch for LG G4 (STEEL BLUE)",
+            "description": "Key Features of ATV Pouch for LG G4 Durable,Perfect fit Four Card Slot,ATV Pouch for LG G4 (STEEL BLUE) Price: Rs. 399 Combine your wallet and Android??, iPhone?? or Blackberry??. Made from high quality PU leather materials. Fill it up with 3 cards, and it's all you need for your day. Slim enough to keep in your front pocket. Holds credit/debit cards, drivers license, student ID, some cash, and more.It's secure. Items won't fall out (even if you flip it over).Perfect for men, women, and even kids. Great for the gym, shopping, bars, and everyday use.,Specifications of ATV Pouch for LG G4 (STEEL BLUE) General Brand ATV Shade STEEL BLUE Material Artificial Leather Designed for LG G4 Model ID PU-FP-LG-G4-D7-SBLU Color Blue In the Box Sales Package One Flip Pouch",
+            "stock_level": 2127,
+            "price": 549,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "ACCEJMAZCNQPU3BG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/pouch/7/2/t/atv-pu-fp-sm-gs7-edge-cdma-d7-sblu-original-imaejka4symsdahu.jpeg",
+                "filename": "atv-pu-fp-sm-gs7-edge-cdma-d7-sblu-original-imaejka4symsdahu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/pouch/7/2/t/atv-pu-fp-sm-gs7-edge-cdma-d7-sblu-original-imaejka4symsdahu.jpeg",
+                "filename": "atv-pu-fp-sm-gs7-edge-cdma-d7-sblu-original-imaejka4symsdahu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/pouch/z/a/5/atv-pu-fp-sm-gs7-edge-d7-sblu-original-imaejjdpfhatcgrh.jpeg",
+                "filename": "atv-pu-fp-sm-gs7-edge-d7-sblu-original-imaejjdpfhatcgrh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/pouch/7/2/t/atv-pu-fp-sm-gs7-edge-cdma-d7-sblu-original-imaejjdpfmykfhfq.jpeg",
+                "filename": "atv-pu-fp-sm-gs7-edge-cdma-d7-sblu-original-imaejjdpfmykfhfq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/pouch/m/7/z/atv-pu-fp-sm-gcorelte-d7-sblu-original-imaejjdppuxkgmyw.jpeg",
+                "filename": "atv-pu-fp-sm-gcorelte-d7-sblu-original-imaejjdppuxkgmyw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["ATV"] },
+              { "key": "Shade", "values": ["STEEL BLUE"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              { "key": "Designed for", "values": ["LG G4"] },
+              { "key": "Model ID", "values": ["PU-FP-LG-G4-D7-SBLU"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Sales Package", "values": ["One Flip Pouch"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "173534c7c2fff3b14df17fa16e599f35ef8789c6" }
+      },
+      "active": true,
+      "id": "6e8677eafd0ce76b848f53f6873d2a7e654823eb"
+    },
+    {
+      "product": {
+        "id": "5277ce9ded4e90e2497773a5d4b5f86617b58947",
+        "name": "k shopping Cotton Printed Salwar Suit Dupatta Material",
+        "description": "Dummy description for product k shopping Cotton Printed Salwar Suit Dupatta Material",
+        "manufacturer_id": "fc8e1d91ba545984074483f7bd838ab23d48c154",
+        "taric_code": "f91a88ca-094a-4f14-9bc9-fb1526a2a34a",
+        "variants": [
+          {
+            "id": "23945845d962e815fab29230de7d6766",
+            "name": "k shopping Cotton Printed Salwar Suit Dupatta Ma...",
+            "description": "Key Features of k shopping Cotton Printed Salwar Suit Dupatta Material Type: Salwar Suit Dupatta Material Fabric: Cotton Pattern: Printed Ideal For: Women's,k shopping Cotton Printed Salwar Suit Dupatta Material (Un-stitched) Price: Rs. 449 top-cotton bottom-cotton duppta-chiffon,Specifications of k shopping Cotton Printed Salwar Suit Dupatta Material (Un-stitched) Fabric Details Fabric Cotton Type Salwar Suit Dupatta Material General Details Pattern Printed Ideal For Women's Color Pink In the Box 1top-1bottom-1duppta Additional Details Style Code sff56sr",
+            "stock_level": 132,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "FABEJNWZUDGDCMBZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/m/b/z/sff56sr-k-shopping-original-imaeh5rhskpv5h7z.jpeg",
+                "filename": "sff56sr-k-shopping-original-imaeh5rhskpv5h7z.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/m/b/z/sff56sr-k-shopping-original-imaeh5rhskpv5h7z.jpeg",
+                "filename": "sff56sr-k-shopping-original-imaeh5rhskpv5h7z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Salwar Suit Dupatta Material"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Color", "values": ["Pink"] },
+              {
+                "key": "bec11603-879a-46f8-9b79-9d6ac798e3d3",
+                "values": ["1top-1bottom-1duppta"]
+              },
+              { "key": "Style Code", "values": ["sff56sr"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8304841ac510e4893eee56c8ee8491731c4e72cb" }
+      },
+      "active": true,
+      "id": "5277ce9ded4e90e2497773a5d4b5f86617b58947"
+    },
+    {
+      "product": {
+        "id": "96d37de7796844d11cb51ac770b2ae3e53974369",
+        "name": "Sera Printed Girl's Gathered Pink Skirt",
+        "description": "Dummy description for product Sera Printed Girl's Gathered Pink Skirt",
+        "manufacturer_id": "4c56e5b86d88a8861873437354131c6856911628",
+        "taric_code": "c2114718-333b-446d-9864-829db0541cea",
+        "variants": [
+          {
+            "id": "84a6119ce8e3103a9fce77af094d351d",
+            "name": "Sera Printed Girl's Gathered Pink Skirt",
+            "description": "Key Features of Sera Printed Girl's Gathered Pink Skirt Fushia Cotton,Sera Printed Girl's Gathered Pink Skirt Price: Rs. 359 Supersoft and drapey with layers and a comfortable elastic waistband, Easy fit.,Specifications of Sera Printed Girl's Gathered Pink Skirt Skirt Details Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Gathered Waistband Elastic Dimensions Length Knee Length General Details Pattern Printed Occasion Casual Ideal For Girl's In the Box 1 Skirt Fabric Care 100% Cotton / 30 Deg. Machine Wash cold Do Not Bleach Line Dry in Shade Warm Iron Wash separately or with like colors DO not iron on print /emb",
+            "stock_level": 5984,
+            "price": 599,
+            "sale": false,
+            "sale_price": 287,
+            "stock_keeping_unit": "SKIEGGBVBJHENQ8C",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/skirt/a/n/z/gl3135-fushia-sera-11-12-years-1000x1000-imaegg9hmepqph9g.jpeg",
+                "filename": "gl3135-fushia-sera-11-12-years-1000x1000-imaegg9hmepqph9g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/skirt/a/n/z/gl3135-fushia-sera-11-12-years-original-imaegg9hmepqph9g.jpeg",
+                "filename": "gl3135-fushia-sera-11-12-years-original-imaegg9hmepqph9g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/skirt/a/n/z/gl3135-fushia-sera-11-12-years-original-imaegg9hhs6yqdyq.jpeg",
+                "filename": "gl3135-fushia-sera-11-12-years-original-imaegg9hhs6yqdyq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/skirt/a/n/z/gl3135-fushia-sera-11-12-years-original-imaegg9hfcmnzwpg.jpeg",
+                "filename": "gl3135-fushia-sera-11-12-years-original-imaegg9hfcmnzwpg.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Gathered"] },
+              { "key": "Waistband", "values": ["Elastic"] },
+              { "key": "Length", "values": ["Knee Length"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Girl's"] },
+              {
+                "key": "5a71c2be-9e58-4b66-bb0b-ef0007a38cf1",
+                "values": ["1 Skirt"]
+              },
+              {
+                "key": "c93ea149-10b4-43d5-97ea-f168c25924fc",
+                "values": [
+                  "100% Cotton / 30 Deg. Machine Wash cold Do Not Bleach Line Dry in Shade Warm Iron Wash separately or with like colors DO not iron on print /emb"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "cb760890eff05d941d8a97577987120d68a00a58" }
+      },
+      "active": true,
+      "id": "96d37de7796844d11cb51ac770b2ae3e53974369"
+    },
+    {
+      "product": {
+        "id": "8aa33730140f8ed62e23bd29fc405551606656d3",
+        "name": "IaD Organic Compost Soil Manure",
+        "description": "Dummy description for product IaD Organic Compost Soil Manure",
+        "manufacturer_id": "4b937f1982e08bad93ec282040f8b62a5456992f",
+        "taric_code": "62eeb803-e8a6-4565-8871-260f8eafc471",
+        "variants": [
+          {
+            "id": "99179117b06fdfab1b554833b4d2a24b",
+            "name": "IaD Organic Compost Soil Manure (1 Powder)",
+            "description": "Specifications of IaD Organic Compost Soil Manure (1 Powder) General Brand IaD Used For ANY SOIL Quantity 1 Type GREEN COMPOST Model Name Organic Compost Container Type Bag Form Factor Powder In the Box Pack of 1",
+            "stock_level": 5482,
+            "price": 500,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "SMNEGHFDXTMHVNJE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/soil-manure/n/j/e/iad-1-organic-compost-1100x1100-imaegbuabpuxbpfs.jpeg",
+                "filename": "iad-1-organic-compost-1100x1100-imaegbuabpuxbpfs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/soil-manure/n/j/e/iad-1-organic-compost-original-imaegbuabpuxbpfs.jpeg",
+                "filename": "iad-1-organic-compost-original-imaegbuabpuxbpfs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["IaD"] },
+              { "key": "Used For", "values": ["ANY SOIL"] },
+              { "key": "Quantity", "values": ["1"] },
+              { "key": "Type", "values": ["GREEN COMPOST"] },
+              { "key": "Model Name", "values": ["Organic Compost"] },
+              { "key": "Container Type", "values": ["Bag"] },
+              { "key": "Form Factor", "values": ["Powder"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2cc6b51e2a15a0890bd4d12878d8958c3a3006aa" }
+      },
+      "active": true,
+      "id": "8aa33730140f8ed62e23bd29fc405551606656d3"
+    },
+    {
+      "product": {
+        "id": "333af7c44f97848b8ad511d9fd70e6c710436e6c",
+        "name": "Sharleez Solid Women's A-line Red Skirt",
+        "description": "Dummy description for product Sharleez Solid Women's A-line Red Skirt",
+        "manufacturer_id": "6b3eb103f0accb30802dfeb034df99adc3ce8eb8",
+        "taric_code": "a8126a68-8d8a-480d-9981-0de87b40ecbb",
+        "variants": [
+          {
+            "id": "895215c6b8fe9187fb1a14f0218e4ef5",
+            "name": "Sharleez Solid Women's A-line Red Skirt",
+            "description": "Key Features of Sharleez Solid Women's A-line Red Skirt Red Georgette,Sharleez Solid Women's A-line Red Skirt Price: Rs. 749 Sharleez presents this Skirt, which will make you look charming and quite striking. This skirt ensures total comfort and maximum breathability. Featuring regular fit, this skirt will be a perfect addition to your wardrobe.,Specifications of Sharleez Solid Women's A-line Red Skirt Skirt Details Number of Contents in Sales Package Pack of 1 Fabric Georgette Type A-line Waistband Lace Dimensions Length Full Length General Details Pattern Solid Occasion Casual Ideal For Women's In the Box 1 Skirt Fabric Care Machine wash,do not bleach.",
+            "stock_level": 5892,
+            "price": 2999,
+            "sale": true,
+            "sale_price": 599,
+            "stock_keeping_unit": "SKIEGRUNUJ353ZTY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/skirt/z/t/y/skt9020-rd-sharleez-l-original-imadzzty36cntyk6.jpeg",
+                "filename": "skt9020-rd-sharleez-l-original-imadzzty36cntyk6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/skirt/z/t/y/skt9020-rd-sharleez-l-original-imadzzty36cntyk6.jpeg",
+                "filename": "skt9020-rd-sharleez-l-original-imadzzty36cntyk6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/skirt/x/q/x/skt9020-rd-sharleez-xxl-original-imadzztymj4maqzk.jpeg",
+                "filename": "skt9020-rd-sharleez-xxl-original-imadzztymj4maqzk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/skirt/x/q/x/skt9020-rd-sharleez-xxl-original-imadzztybgweuzsz.jpeg",
+                "filename": "skt9020-rd-sharleez-xxl-original-imadzztybgweuzsz.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Georgette"] },
+              { "key": "Type", "values": ["A-line"] },
+              { "key": "Waistband", "values": ["Lace"] },
+              { "key": "Length", "values": ["Full Length"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              {
+                "key": "0c68e3e8-ddda-492b-85aa-628fdb526821",
+                "values": ["1 Skirt"]
+              },
+              {
+                "key": "fed2856a-ef9b-4244-916a-0a4e1848b9fa",
+                "values": ["Machine wash,do not bleach."]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "6ff1e6c56c4506d8697f1fcdffd670aafd86e4e6" }
+      },
+      "active": true,
+      "id": "333af7c44f97848b8ad511d9fd70e6c710436e6c"
+    },
+    {
+      "product": {
+        "id": "32bf3da0e9a91e0fc0e8ff01d10182a9c1b93243",
+        "name": "Bella Moda Printed Girl's Gathered Orange Skirt",
+        "description": "Dummy description for product Bella Moda Printed Girl's Gathered Orange Skirt",
+        "manufacturer_id": "83c3225ab6fce5675ae4f279228e1f7d83df3907",
+        "taric_code": "c385f204-308b-4bf0-ac32-91f702d3b26a",
+        "variants": [
+          {
+            "id": "3712caa2883a7d4218dd6efdb6370e2f",
+            "name": "Bella Moda Printed Girl's Gathered Orange Skirt",
+            "description": "Specifications of Bella Moda Printed Girl's Gathered Orange Skirt Skirt Details Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Gathered Waistband Elastic Dimensions Length Above Knee Length General Details Pattern Printed Ideal For Girl's Occasion Casual",
+            "stock_level": 8195,
+            "price": 1147,
+            "sale": false,
+            "sale_price": 397,
+            "stock_keeping_unit": "SKIEGJZT9JNHSV3B",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/skirt/g/6/a/om238-bella-moda-6-7-years-original-imaegjphpugya5qy.jpeg",
+                "filename": "om238-bella-moda-6-7-years-original-imaegjphpugya5qy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/skirt/g/6/a/om238-bella-moda-6-7-years-original-imaegjph9h8genge.jpeg",
+                "filename": "om238-bella-moda-6-7-years-original-imaegjph9h8genge.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/skirt/g/6/a/om238-bella-moda-4-5-years-original-imaegjphuktgafsc.jpeg",
+                "filename": "om238-bella-moda-4-5-years-original-imaegjphuktgafsc.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Gathered"] },
+              { "key": "Waistband", "values": ["Elastic"] },
+              { "key": "Length", "values": ["Above Knee Length"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Girl's"] },
+              { "key": "Occasion", "values": ["Casual"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "0a6c6ede1d21cee820d876ffeed5f0c9a8b65360" }
+      },
+      "active": true,
+      "id": "32bf3da0e9a91e0fc0e8ff01d10182a9c1b93243"
+    },
+    {
+      "product": {
+        "id": "ed7af69182ce550cf812ebe10d1c7a1be964354f",
+        "name": "Fashion Forever Georgette Embroidered Multi-purpose Fabric",
+        "description": "Dummy description for product Fashion Forever Georgette Embroidered Multi-purpose Fabric",
+        "manufacturer_id": "16829f3b2e9db3ac735e1f85dc25cae1577739af",
+        "taric_code": "575b71d4-fdf7-4d31-9766-0adf5f9c8abc",
+        "variants": [
+          {
+            "id": "09d897363ae989e3b38719eca1da220b",
+            "name": "Fashion Forever Georgette Embroidered Multi-purp...",
+            "description": "Key Features of Fashion Forever Georgette Embroidered Multi-purpose Fabric Type: Multi-purpose Fabric Fabric: Georgette Pattern: Embroidered Ideal For: Women's,Fashion Forever Georgette Embroidered Multi-purpose Fabric (Un-stitched) Price: Rs. 2,649 Saree Fabric:-Pure Georgette Blouse Fabric:-Banarsi Brocate(including in saree) Wash Care:-Wash with Similar Colors::Use Detergent for Colors Color:-Peach Work:-Embroidered Length:-6.3 Mtr,Specifications of Fashion Forever Georgette Embroidered Multi-purpose Fabric (Un-stitched) Fabric Details Fabric Georgette Type Multi-purpose Fabric General Details Pattern Embroidered Ideal For Women's Color Orange In the Box georgette Additional Details Style Code FFMV-1980",
+            "stock_level": 2930,
+            "price": 3699,
+            "sale": false,
+            "sale_price": 2649,
+            "stock_keeping_unit": "FABEGCZQPT3VWTQU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/t/q/u/ffmv-1980-fashion-forever-original-imaegczzwyerxntv.jpeg",
+                "filename": "ffmv-1980-fashion-forever-original-imaegczzwyerxntv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Georgette"] },
+              { "key": "Type", "values": ["Multi-purpose Fabric"] },
+              { "key": "Pattern", "values": ["Embroidered"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Color", "values": ["Orange"] },
+              {
+                "key": "4f0dc8c0-7081-46ae-8b37-f67127abfa72",
+                "values": ["georgette"]
+              },
+              { "key": "Style Code", "values": ["FFMV-1980"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "17dabc2246a9261f119e297b82a7803ddd82e846" }
+      },
+      "active": true,
+      "id": "ed7af69182ce550cf812ebe10d1c7a1be964354f"
+    },
+    {
+      "product": {
+        "id": "4d1dd1459fc86e613d004bce7b160ef607102e3f",
+        "name": "JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material",
+        "description": "Dummy description for product JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material",
+        "manufacturer_id": "95164918873b93340309bccfb687d275393e9fcc",
+        "taric_code": "d7635119-1b15-4744-8bf2-39777576db3b",
+        "variants": [
+          {
+            "id": "4d3a5a5c55392007ad33d5860b961ff2",
+            "name": "JDK NOVELTY Brocade, Art Silk, Organza Floral Pr...",
+            "description": "Key Features of JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material Fancy Brocade fabric with black colour base and golden design Supreme Quality material Multipurpose fabric ideal for making kurti, blouse, kurta, jacket, jain pooja set Photography Variation: Please note that due to the ambient lighting during photography, screen resolution of camera or your computer, there might be a slight difference in colour from what you actually see Package content- One 2 meter long fabric of width 47 inches,JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material (Un-stitched) Price: Rs. 435 Fancy Brocade fabric complete with a delightful quilted pattern, this is both texturally and visually unique. The quality is amazing, soft and sturdy. This material is plush, soft, and drapes with ease. Quilted with a contrasting background, this fabric is as exciting as it is versatile. Exquisite colors and gorgeous brocade weave adds an elegant and aristocratic feel to the fabric. This fabric is suited for kurti, blouse piece, kurta, jacket, jain pooja set, tops, saree pallu or lehenga,Specifications of JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material (Un-stitched) Fabric Details Fabric Brocade, Art Silk, Organza Type Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material General Details Pattern Floral Print Ideal For Women's, Men's Color Blue, Red, Gold, Multicolor In the Box One Fancy brocade fabric piece of length 2 meters and width 47 inches Additional Details Style Code Blue Red with Gold Leaf Fabric Care Dry cleaning recommended, Can also wash with normal detergent in warm or cold water, Do not wash with bleached detergent and strong detergent",
+            "stock_level": 1059,
+            "price": 799,
+            "sale": false,
+            "sale_price": 435,
+            "stock_keeping_unit": "FABEHAED9RGAMGHN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/g/h/n/blue-red-with-gold-leaf-jdk-novelty-original-imaeha73zvhmbszh.jpeg",
+                "filename": "blue-red-with-gold-leaf-jdk-novelty-original-imaeha73zvhmbszh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/g/h/n/blue-red-with-gold-leaf-jdk-novelty-original-imaeha73dszgguzh.jpeg",
+                "filename": "blue-red-with-gold-leaf-jdk-novelty-original-imaeha73dszgguzh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/g/h/n/blue-red-with-gold-leaf-jdk-novelty-original-imaeha73qcvey47z.jpeg",
+                "filename": "blue-red-with-gold-leaf-jdk-novelty-original-imaeha73qcvey47z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Brocade", "Art Silk", "Organza"] },
+              {
+                "key": "Type",
+                "values": [
+                  "Multi-purpose Fabric",
+                  "Kurti Fabric",
+                  "Blouse Material",
+                  "Kurta Fabric",
+                  "Dress/Top Material",
+                  "Jacket Fabric",
+                  "Kurta and Pallazo Material",
+                  "Sherwani Fabric",
+                  "Kurta and Churidar Material",
+                  "Lace",
+                  "Salwar Suit Material",
+                  "Kurta and Patiyala Material",
+                  "Lehenga Choli Material"
+                ]
+              },
+              { "key": "Pattern", "values": ["Floral Print"] },
+              { "key": "Ideal For", "values": ["Women's", "Men's"] },
+              {
+                "key": "Color",
+                "values": ["Blue", "Red", "Gold", "Multicolor"]
+              },
+              {
+                "key": "bec04751-d78d-435b-8d7d-320ed92cca68",
+                "values": [
+                  "One Fancy brocade fabric piece of length 2 meters and width 47 inches"
+                ]
+              },
+              { "key": "Style Code", "values": ["Blue Red with Gold Leaf"] },
+              {
+                "key": "4f71f5d6-9f0e-4174-9cc7-19c698960294",
+                "values": [
+                  "Dry cleaning recommended",
+                  "Can also wash with normal detergent in warm or cold water",
+                  "Do not wash with bleached detergent and strong detergent"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "8aa2ca4888700a6b96498016699d46756b156a41" }
+      },
+      "active": true,
+      "id": "4d1dd1459fc86e613d004bce7b160ef607102e3f"
+    },
+    {
+      "product": {
+        "id": "b7c6ba5498aacf110a4388067cdb606ccfec0253",
+        "name": "JDK NOVELTY Brocade, Art Silk, Organza Self Design Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material",
+        "description": "Dummy description for product JDK NOVELTY Brocade, Art Silk, Organza Self Design Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material",
+        "manufacturer_id": "95164918873b93340309bccfb687d275393e9fcc",
+        "taric_code": "0f63f2b1-2463-46e2-8f6d-9421c40b0e62",
+        "variants": [
+          {
+            "id": "b66b4f37ef1478c0625ac6d6dfa28d38",
+            "name": "JDK NOVELTY Brocade, Art Silk, Organza Self Desi...",
+            "description": "Specifications of JDK NOVELTY Brocade, Art Silk, Organza Self Design Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material (Un-stitched) Fabric Details Fabric Brocade, Art Silk, Organza Type Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Kurta & Pallazo Material, Sherwani Fabric, Kurta & Churidar Material, Lace, Salwar Suit Material, Kurta & Patiyala Material, Lehenga Choli Material General Details Pattern Self Design Ideal For Women's, Men's Color Black, Gold Fabric Care Dry cleaning recommended, Can also wash with normal detergent in warm or cold water, Do not wash with bleached detergent and strong detergent Additional Details Style Code Black Base Gold design In the Box 2 Meter fabric",
+            "stock_level": 1375,
+            "price": 690,
+            "sale": false,
+            "sale_price": 475,
+            "stock_keeping_unit": "FABEH7XBBN6P9JEE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/j/e/e/black-base-gold-design-jdk-novelty-original-imaeh7pxxwxhd27h.jpeg",
+                "filename": "black-base-gold-design-jdk-novelty-original-imaeh7pxxwxhd27h.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/j/e/e/black-base-gold-design-jdk-novelty-original-imaeh7pxxwxhd27h.jpeg",
+                "filename": "black-base-gold-design-jdk-novelty-original-imaeh7pxxwxhd27h.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/j/e/e/black-base-gold-design-jdk-novelty-original-imaeh7pwzdfgeds8.jpeg",
+                "filename": "black-base-gold-design-jdk-novelty-original-imaeh7pwzdfgeds8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/j/e/e/black-base-gold-design-jdk-novelty-original-imaeh7pynzdedhqg.jpeg",
+                "filename": "black-base-gold-design-jdk-novelty-original-imaeh7pynzdedhqg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Brocade", "Art Silk", "Organza"] },
+              {
+                "key": "Type",
+                "values": [
+                  "Multi-purpose Fabric",
+                  "Kurti Fabric",
+                  "Blouse Material",
+                  "Kurta Fabric",
+                  "Dress/Top Material",
+                  "Jacket Fabric",
+                  "Kurta and Pallazo Material",
+                  "Sherwani Fabric",
+                  "Kurta and Churidar Material",
+                  "Lace",
+                  "Salwar Suit Material",
+                  "Kurta and Patiyala Material",
+                  "Lehenga Choli Material"
+                ]
+              },
+              { "key": "Pattern", "values": ["Self Design"] },
+              { "key": "Ideal For", "values": ["Women's", "Men's"] },
+              { "key": "Color", "values": ["Black", "Gold"] },
+              {
+                "key": "38ef5102-e18a-4d8a-934a-00415143704a",
+                "values": [
+                  "Dry cleaning recommended",
+                  "Can also wash with normal detergent in warm or cold water",
+                  "Do not wash with bleached detergent and strong detergent"
+                ]
+              },
+              { "key": "Style Code", "values": ["Black Base Gold design"] },
+              {
+                "key": "46b787f5-ea26-4094-8a13-b39fe8a31019",
+                "values": ["2 Meter fabric"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "8aa2ca4888700a6b96498016699d46756b156a41" }
+      },
+      "active": true,
+      "id": "b7c6ba5498aacf110a4388067cdb606ccfec0253"
+    },
+    {
+      "product": {
+        "id": "6e841fe68d97576e5b599aee10163f34257b4a08",
+        "name": "PURAN 999 Pure Silver Idol PARSAVNATH JI (Divine Gift in Air Proof Acrylic Box) Showpiece  -  4 cm",
+        "description": "Dummy description for product PURAN 999 Pure Silver Idol PARSAVNATH JI (Divine Gift in Air Proof Acrylic Box) Showpiece  -  4 cm",
+        "manufacturer_id": "eb305ee5047416bc9badc078f7963fdb51c90123",
+        "taric_code": "d765a31b-d225-4992-a311-ec2c908b6723",
+        "variants": [
+          {
+            "id": "9c6ce5a2edf272813b24bb3ad2c6f8b6",
+            "name": "PURAN 999 Pure Silver Idol PARSAVNATH JI (Divine...",
+            "description": "Key Features of PURAN 999 Pure Silver Idol PARSAVNATH JI (Divine Gift in Air Proof Acrylic Box) Showpiece  -  4 cm Idol Type - Hollow,PURAN 999 Pure Silver Idol PARSAVNATH JI (Divine Gift in Air Proof Acrylic Box) Showpiece  -  4 cm (Silver, White) Price: Rs. 2,300 We, Puran Ornaments, strongly believe in PURITY BRINGS PROSPERITY (#puritybringsprosprity). Made from 99.9% Pure Silver Idol, it is the best gift item for all age groups and for all genders. The beauty of the idol is high quality of finishing and plain/enamel work to make the features of the idol crystal clear and that touches your heart. Best gifting article for all auspicious occasions, birthday, new baby arrival, Diwali, Marriage, Anniversary, Greh Parvesh, Ceremony and all other festivals and special occasions. Silver articles are prone to COLOR CHANGE. So, this idol is packed carefully in a stylish and AIR-TIGHT acrylic box. Silver Idol Care: This silver idol is HOLLOW from inside, so avoid touching and cleaning, as this idol is prone to defacing. Do not keep the idol open as it may result in silver oxidation.,Specifications of PURAN 999 Pure Silver Idol PARSAVNATH JI (Divine Gift in Air Proof Acrylic Box) Showpiece  -  4 cm (Silver, White) General Brand PURAN Model Number EMRSFIDOL091002 Shade White Type Religious Idols Model Name 999 Pure Silver Idol PARSAVNATH JI (Divine Gift in Air Proof Acrylic Box) Material Silver Color White Dimensions Weight 12.07 g Height 4 cm Width 4 cm Depth 2 cm In the Box Sales Package 1 Showpiece Pack of 1 Additional Features Water Resistant No Wall Mount Yes Warranty Not Covered in Warranty Silver article Color Change or Oxidation.",
+            "stock_level": 1688,
+            "price": 2470,
+            "sale": true,
+            "sale_price": 2300,
+            "stock_keeping_unit": "SHIEHWZZJGZYHQSZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/q/s/z/emrsfidol091002-puran-1100x1100-imaehu5pmygp7sry.jpeg",
+                "filename": "emrsfidol091002-puran-1100x1100-imaehu5pmygp7sry.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/q/s/z/emrsfidol091002-puran-original-imaehu5pmygp7sry.jpeg",
+                "filename": "emrsfidol091002-puran-original-imaehu5pmygp7sry.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["PURAN"] },
+              { "key": "Model Number", "values": ["EMRSFIDOL091002"] },
+              { "key": "Shade", "values": ["White"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "999 Pure Silver Idol PARSAVNATH JI (Divine Gift in Air Proof Acrylic Box)"
+                ]
+              },
+              { "key": "Material", "values": ["Silver"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Weight", "values": ["12.07 g"] },
+              { "key": "Height", "values": ["4 cm"] },
+              { "key": "Width", "values": ["4 cm"] },
+              { "key": "Depth", "values": ["2 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["Yes"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Silver article Color Change or Oxidation."]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "f142ba4659e31e07a066ce93af013fd402d3a734" }
+      },
+      "active": true,
+      "id": "6e841fe68d97576e5b599aee10163f34257b4a08"
+    },
+    {
+      "product": {
+        "id": "24d5c46521a74ae471d60baaafee04983eb3eac7",
+        "name": "JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Lehenga Choli Material, Kurta & Patiyala Material, Salwar Suit Material, Lace, Kurta & Churidar Material, Sherwani Fabric, Kurta & Pallazo Material",
+        "description": "Dummy description for product JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Lehenga Choli Material, Kurta & Patiyala Material, Salwar Suit Material, Lace, Kurta & Churidar Material, Sherwani Fabric, Kurta & Pallazo Material",
+        "manufacturer_id": "95164918873b93340309bccfb687d275393e9fcc",
+        "taric_code": "b57d389b-8749-4210-a352-6b6a352d77f0",
+        "variants": [
+          {
+            "id": "7f926300863e3defc9c150ccd55cddb9",
+            "name": "JDK NOVELTY Brocade, Art Silk, Organza Floral Pr...",
+            "description": "Key Features of JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Lehenga Choli Material, Kurta & Patiyala Material, Salwar Suit Material, Lace, Kurta & Churidar Material, Sherwani Fabric, Kurta & Pallazo Material Fancy Brocade fabric of royal blue colour with floral print Supreme Quality material Multipurpose fabric ideal for making kurti, blouse, kurta, jacket, jain pooja set Photography Variation: Please note that due to the ambient lighting during photography, screen resolution of camera or your computer, there might be a slight difference in colour from what you actually see Package content: one 2 meter long fabric,JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Lehenga Choli Material, Kurta & Patiyala Material, Salwar Suit Material, Lace, Kurta & Churidar Material, Sherwani Fabric, Kurta & Pallazo Material (Un-stitched) Price: Rs. 425 Fancy Brocade fabric complete with a delightful quilted pattern, this is both texturally and visually unique. The quality is amazing, soft and sturdy. This material is plush, soft, and drapes with ease. Quilted with a contrasting background, this fabric is as exciting as it is versatile. Exquisite colors and gorgeous brocade weave adds an elegant and aristocratic feel to the fabric. This fabric is suited for kurti, blouse piece, kurta, jacket, jain pooja set, tops, saree pallu or lehenga,Specifications of JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Lehenga Choli Material, Kurta & Patiyala Material, Salwar Suit Material, Lace, Kurta & Churidar Material, Sherwani Fabric, Kurta & Pallazo Material (Un-stitched) Fabric Details Fabric Brocade, Art Silk, Organza Type Multi-purpose Fabric, Kurti Fabric, Blouse Material, Kurta Fabric, Dress/Top Material, Jacket Fabric, Lehenga Choli Material, Kurta & Patiyala Material, Salwar Suit Material, Lace, Kurta & Churidar Material, Sherwani Fabric, Kurta & Pallazo Material General Details Pattern Floral Print Ideal For Women's, Men's Color Blue In the Box One Fancy Brocade fabric piece of Length 2 Meters and Width 50 inches Additional Details Style Code Royal Blue 2M Fabric Care Dry cleaning recommended, Can also wash with normal detergent in warm or cold water, Do not wash with bleached detergent and strong detergent",
+            "stock_level": 5530,
+            "price": 825,
+            "sale": false,
+            "sale_price": 425,
+            "stock_keeping_unit": "FABEHAEDAWVHTXB2",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/e/c/q/royal-blue-3m-jdk-novelty-original-imaeh98srrgjx3b3.jpeg",
+                "filename": "royal-blue-3m-jdk-novelty-original-imaeh98srrgjx3b3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/e/c/q/royal-blue-3m-jdk-novelty-original-imaeh98szju8ayuq.jpeg",
+                "filename": "royal-blue-3m-jdk-novelty-original-imaeh98szju8ayuq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/e/c/q/royal-blue-3m-jdk-novelty-original-imaeh98scckha6vz.jpeg",
+                "filename": "royal-blue-3m-jdk-novelty-original-imaeh98scckha6vz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Brocade", "Art Silk", "Organza"] },
+              {
+                "key": "Type",
+                "values": [
+                  "Multi-purpose Fabric",
+                  "Kurti Fabric",
+                  "Blouse Material",
+                  "Kurta Fabric",
+                  "Dress/Top Material",
+                  "Jacket Fabric",
+                  "Lehenga Choli Material",
+                  "Kurta and Patiyala Material",
+                  "Salwar Suit Material",
+                  "Lace",
+                  "Kurta and Churidar Material",
+                  "Sherwani Fabric",
+                  "Kurta and Pallazo Material"
+                ]
+              },
+              { "key": "Pattern", "values": ["Floral Print"] },
+              { "key": "Ideal For", "values": ["Women's", "Men's"] },
+              { "key": "Color", "values": ["Blue"] },
+              {
+                "key": "46453fa7-b027-4d68-8ed5-cd6ec1a55315",
+                "values": [
+                  "One Fancy Brocade fabric piece of Length 2 Meters and Width 50 inches"
+                ]
+              },
+              { "key": "Style Code", "values": ["Royal Blue 2M"] },
+              {
+                "key": "ed7ff687-b058-4d5d-bf63-fa379d70cb91",
+                "values": [
+                  "Dry cleaning recommended",
+                  "Can also wash with normal detergent in warm or cold water",
+                  "Do not wash with bleached detergent and strong detergent"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "8aa2ca4888700a6b96498016699d46756b156a41" }
+      },
+      "active": true,
+      "id": "24d5c46521a74ae471d60baaafee04983eb3eac7"
+    },
+    {
+      "product": {
+        "id": "47ee17104adf406d2bf899f1c0acb5400ebd5de9",
+        "name": "JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurta & Pallazo Material, Kurti Fabric, Lace, Salwar Suit Material, Jacket Fabric, Kurta Fabric, Lehenga Choli Material, Blouse Material, Kurta & Churidar Material, Kurta & Patiyala Material, Dress/Top Material, Sherwani Fabric",
+        "description": "Dummy description for product JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurta & Pallazo Material, Kurti Fabric, Lace, Salwar Suit Material, Jacket Fabric, Kurta Fabric, Lehenga Choli Material, Blouse Material, Kurta & Churidar Material, Kurta & Patiyala Material, Dress/Top Material, Sherwani Fabric",
+        "manufacturer_id": "95164918873b93340309bccfb687d275393e9fcc",
+        "taric_code": "81d58170-9989-4c26-af09-85f49b102fdf",
+        "variants": [
+          {
+            "id": "ee06cf9d01d5f72b6c4401b7193a9e1e",
+            "name": "JDK NOVELTY Brocade, Art Silk, Organza Floral Pr...",
+            "description": "Specifications of JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurta & Pallazo Material, Kurti Fabric, Lace, Salwar Suit Material, Jacket Fabric, Kurta Fabric, Lehenga Choli Material, Blouse Material, Kurta & Churidar Material, Kurta & Patiyala Material, Dress/Top Material, Sherwani Fabric (Un-stitched) Fabric Details Fabric Brocade, Art Silk, Organza Type Multi-purpose Fabric, Kurta & Pallazo Material, Kurti Fabric, Lace, Salwar Suit Material, Jacket Fabric, Kurta Fabric, Lehenga Choli Material, Blouse Material, Kurta & Churidar Material, Kurta & Patiyala Material, Dress/Top Material, Sherwani Fabric General Details Pattern Floral Print Ideal For Women's, Girl's Color Maroon In the Box One Fancy Brocade fabric piece of Length 2 Meters and Width 41 inches Additional Details Style Code A11-2",
+            "stock_level": 6834,
+            "price": 750,
+            "sale": true,
+            "sale_price": 434,
+            "stock_keeping_unit": "FABEGC2G3CVZUT5Y",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/t/5/y/a11-2-jdk-novelty-2-meter-original-imaeg9zyhzh9nyyp.jpeg",
+                "filename": "a11-2-jdk-novelty-2-meter-original-imaeg9zyhzh9nyyp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/t/5/y/a11-2-jdk-novelty-2-meter-original-imaeg9zyygmsp2qz.jpeg",
+                "filename": "a11-2-jdk-novelty-2-meter-original-imaeg9zyygmsp2qz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/t/5/y/a11-2-jdk-novelty-2-meter-original-imaeg9zyzmw9d4tt.jpeg",
+                "filename": "a11-2-jdk-novelty-2-meter-original-imaeg9zyzmw9d4tt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Brocade", "Art Silk", "Organza"] },
+              {
+                "key": "Type",
+                "values": [
+                  "Multi-purpose Fabric",
+                  "Kurta and Pallazo Material",
+                  "Kurti Fabric",
+                  "Lace",
+                  "Salwar Suit Material",
+                  "Jacket Fabric",
+                  "Kurta Fabric",
+                  "Lehenga Choli Material",
+                  "Blouse Material",
+                  "Kurta and Churidar Material",
+                  "Kurta and Patiyala Material",
+                  "Dress/Top Material",
+                  "Sherwani Fabric"
+                ]
+              },
+              { "key": "Pattern", "values": ["Floral Print"] },
+              { "key": "Ideal For", "values": ["Women's", "Girl's"] },
+              { "key": "Color", "values": ["Maroon"] },
+              {
+                "key": "90a2dd8b-ec44-4fce-869e-46ae1a099f53",
+                "values": [
+                  "One Fancy Brocade fabric piece of Length 2 Meters and Width 41 inches"
+                ]
+              },
+              { "key": "Style Code", "values": ["A11-2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "8aa2ca4888700a6b96498016699d46756b156a41" }
+      },
+      "active": true,
+      "id": "47ee17104adf406d2bf899f1c0acb5400ebd5de9"
+    },
+    {
+      "product": {
+        "id": "28a816abe9b6594289ec153c17906be6c6857523",
+        "name": "JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Dress/Top Material, Jacket Fabric, Salwar Suit Material, Kurta & Pallazo Material, Lehenga Choli Material, Lace, Kurta Fabric, Kurta & Patiyala Material, Kurta & Churidar Material, Sherwani Fabric",
+        "description": "Dummy description for product JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Dress/Top Material, Jacket Fabric, Salwar Suit Material, Kurta & Pallazo Material, Lehenga Choli Material, Lace, Kurta Fabric, Kurta & Patiyala Material, Kurta & Churidar Material, Sherwani Fabric",
+        "manufacturer_id": "95164918873b93340309bccfb687d275393e9fcc",
+        "taric_code": "e098cb16-47c2-4e4b-9859-e6920f724dd0",
+        "variants": [
+          {
+            "id": "da19ca0bfd94e11ed25b3ef97884eb59",
+            "name": "JDK NOVELTY Brocade, Art Silk, Organza Floral Pr...",
+            "description": "Key Features of JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Dress/Top Material, Jacket Fabric, Salwar Suit Material, Kurta & Pallazo Material, Lehenga Choli Material, Lace, Kurta Fabric, Kurta & Patiyala Material, Kurta & Churidar Material, Sherwani Fabric Fancy Brocade fabric available in various colours with floral print Supreme Quality material Multipurpose fabric ideal for making kurti, blouse, kurta, jacket, jain pooja set Photography Variation: Please note that due to the ambient lighting during photography, screen resolution of camera or your computer, there might be a slight difference in colour from what you actually see Package content: one 2 meters long fabric,JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Dress/Top Material, Jacket Fabric, Salwar Suit Material, Kurta & Pallazo Material, Lehenga Choli Material, Lace, Kurta Fabric, Kurta & Patiyala Material, Kurta & Churidar Material, Sherwani Fabric (Un-stitched) Price: Rs. 449 Fancy Brocade fabric complete with a delightful quilted pattern, this is both texturally and visually unique. The quality is amazing, soft and sturdy. This material is plush, soft, and drapes with ease. Quilted with a contrasting background, this fabric is as exciting as it is versatile. Exquisite colors and gorgeous brocade weave adds an elegant and aristocratic feel to the fabric. This fabric is suited for kurti, blouse piece, kurta, jacket, jain pooja set, tops, saree pallu or lehenga,Specifications of JDK NOVELTY Brocade, Art Silk, Organza Floral Print Multi-purpose Fabric, Kurti Fabric, Blouse Material, Dress/Top Material, Jacket Fabric, Salwar Suit Material, Kurta & Pallazo Material, Lehenga Choli Material, Lace, Kurta Fabric, Kurta & Patiyala Material, Kurta & Churidar Material, Sherwani Fabric (Un-stitched) Fabric Details Fabric Brocade, Art Silk, Organza Type Multi-purpose Fabric, Kurti Fabric, Blouse Material, Dress/Top Material, Jacket Fabric, Salwar Suit Material, Kurta & Pallazo Material, Lehenga Choli Material, Lace, Kurta Fabric, Kurta & Patiyala Material, Kurta & Churidar Material, Sherwani Fabric General Details Pattern Floral Print Ideal For Women's, Girl's Color Black In the Box One Fancy Brocade fabric piece of Length 2 Meters and Width 45 inches Additional Details Style Code Black floral gold base Fabric Care Dry cleaning recommended, Can also wash with normal detergent in warm or cold water, Do not wash with bleached detergent and strong detergent",
+            "stock_level": 5917,
+            "price": 800,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "FABEHEKDFBMVKSRG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/s/r/g/black-floral-gold-base-jdk-novelty-2-meters-original-imaehed3wttw3jpw.jpeg",
+                "filename": "black-floral-gold-base-jdk-novelty-2-meters-original-imaehed3wttw3jpw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/fabric/s/r/g/black-floral-gold-base-jdk-novelty-2-meters-original-imaehed4nwm5n67k.jpeg",
+                "filename": "black-floral-gold-base-jdk-novelty-2-meters-original-imaehed4nwm5n67k.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fabric/s/r/g/black-floral-gold-base-jdk-novelty-2-meters-original-imaehed4vefn2zmz.jpeg",
+                "filename": "black-floral-gold-base-jdk-novelty-2-meters-original-imaehed4vefn2zmz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Brocade", "Art Silk", "Organza"] },
+              {
+                "key": "Type",
+                "values": [
+                  "Multi-purpose Fabric",
+                  "Kurti Fabric",
+                  "Blouse Material",
+                  "Dress/Top Material",
+                  "Jacket Fabric",
+                  "Salwar Suit Material",
+                  "Kurta and Pallazo Material",
+                  "Lehenga Choli Material",
+                  "Lace",
+                  "Kurta Fabric",
+                  "Kurta and Patiyala Material",
+                  "Kurta and Churidar Material",
+                  "Sherwani Fabric"
+                ]
+              },
+              { "key": "Pattern", "values": ["Floral Print"] },
+              { "key": "Ideal For", "values": ["Women's", "Girl's"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "a8e79b56-7dd0-4a69-bfd7-1c46d4469486",
+                "values": [
+                  "One Fancy Brocade fabric piece of Length 2 Meters and Width 45 inches"
+                ]
+              },
+              { "key": "Style Code", "values": ["Black floral gold base"] },
+              {
+                "key": "5e326c99-e720-46b7-9725-a093f3f702ea",
+                "values": [
+                  "Dry cleaning recommended",
+                  "Can also wash with normal detergent in warm or cold water",
+                  "Do not wash with bleached detergent and strong detergent"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "8aa2ca4888700a6b96498016699d46756b156a41" }
+      },
+      "active": true,
+      "id": "28a816abe9b6594289ec153c17906be6c6857523"
+    },
+    {
+      "product": {
+        "id": "9db894557841b9651ab36c07b314127c765f3687",
+        "name": "Shayona Net Embroidered Multi-purpose Fabric",
+        "description": "Dummy description for product Shayona Net Embroidered Multi-purpose Fabric",
+        "manufacturer_id": "594fe522a8c5a8321fb5cf60f675955e235852f7",
+        "taric_code": "14853140-b92a-4452-a844-14512aad313a",
+        "variants": [
+          {
+            "id": "0b8f4264a66318ee37557c16870334bc",
+            "name": "Shayona Net Embroidered Multi-purpose Fabric (Un...",
+            "description": "Key Features of Shayona Net Embroidered Multi-purpose Fabric Type: Multi-purpose Fabric Fabric: Net Pattern: Embroidered Ideal For: Girl's,Specifications of Shayona Net Embroidered Multi-purpose Fabric (Un-stitched) Fabric Details Fabric Net Type Multi-purpose Fabric General Details Pattern Embroidered Ideal For Girl's Color Red Additional Details Style Code Style13 In the Box 1 Fabric",
+            "stock_level": 9130,
+            "price": 3599,
+            "sale": false,
+            "sale_price": 799,
+            "stock_keeping_unit": "FABEGD5GGRMN7HTV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/dress/f/v/e/zbmdadok21-zombom-free-1000x1000-imaehgfyxfjjahez.jpeg",
+                "filename": "zbmdadok21-zombom-free-1000x1000-imaehgfyxfjjahez.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/dress/f/v/e/zbmdadok21-zombom-free-original-imaehgfyxfjjahez.jpeg",
+                "filename": "zbmdadok21-zombom-free-original-imaehgfyxfjjahez.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Fabric", "values": ["Net"] },
+              { "key": "Type", "values": ["Multi-purpose Fabric"] },
+              { "key": "Pattern", "values": ["Embroidered"] },
+              { "key": "Ideal For", "values": ["Girl's"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Style Code", "values": ["Style13"] },
+              {
+                "key": "946f586e-6116-4b4c-a8e4-16ee1ebf09bf",
+                "values": ["1 Fabric"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "6d0b2ce66d7158d3b3600f3b03958a2c6c73247d" }
+      },
+      "active": true,
+      "id": "9db894557841b9651ab36c07b314127c765f3687"
+    },
+    {
+      "product": {
+        "id": "96a0814f9793f587cc41bc8034a8e547277742f8",
+        "name": "SViRU Generic Photo Frame",
+        "description": "Dummy description for product SViRU Generic Photo Frame",
+        "manufacturer_id": "c98debafbc826e668929dd965ed8529bee7cf67c",
+        "taric_code": "371a5763-0b34-44b5-b91b-d3c6d9195090",
+        "variants": [
+          {
+            "id": "ec9761d2463e61aeb0416c3e831825b5",
+            "name": "SViRU Generic Photo Frame (Photo Size - 13 X 18 ...",
+            "description": "Key Features of SViRU Generic Photo Frame Modern Style,SViRU Generic Photo Frame (Photo Size - 13 X 18 cm, 2 Photos) Price: Rs. 649 Hanging Photo Frame with 2 Clips,Specifications of SViRU Generic Photo Frame (Photo Size - 13 X 18 cm, 2 Photos) Body Material Frame Material Generic Backing MDF Other Body Features Shrinkwrapped In The Box Number of Contents in Sales Package Pack of 1 Sales Package Clip Type Photo Frame General Shape Square color Brown Number of Photos 2 Mounted Wall mounted Mounted Ideal For Women, Boys, Girls Warranty Limited Warranty on parts & labour & against manufacturing defects Dimensions Weight 250 g Suitable Photo Size 13 X 18 cm Height 26 cm Width 26 cm Depth 4 cm Additional Features Care and Cleaning Wipe and clean with dry cloth Other Features Accepts any photo format, Modern style, High quality construction",
+            "stock_level": 8683,
+            "price": 875,
+            "sale": false,
+            "sale_price": 649,
+            "stock_keeping_unit": "PHFEGTJJ5HD9FYGF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/normal-photo-frame/y/g/f/sv-hp-2p-w-sviru-hanging-photo-frame-2-clip-wenge-1100x1100-imaegz7xkwhythsy.jpeg",
+                "filename": "sv-hp-2p-w-sviru-hanging-photo-frame-2-clip-wenge-1100x1100-imaegz7xkwhythsy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/normal-photo-frame/y/g/f/sv-hp-2p-w-sviru-hanging-photo-frame-2-clip-wenge-original-imaegz7xkwhythsy.jpeg",
+                "filename": "sv-hp-2p-w-sviru-hanging-photo-frame-2-clip-wenge-original-imaegz7xkwhythsy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Frame Material", "values": ["Generic"] },
+              { "key": "Backing", "values": ["MDF"] },
+              { "key": "Other Body Features", "values": ["Shrinkwrapped"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["Clip Type Photo Frame"] },
+              { "key": "Shape", "values": ["Square"] },
+              { "key": "color", "values": ["Brown"] },
+              { "key": "Number of Photos", "values": ["2"] },
+              { "key": "Mounted", "values": ["Wall mounted Mounted"] },
+              { "key": "Ideal For", "values": ["Women", "Boys", "Girls"] },
+              {
+                "key": "027232f8-fc86-49a0-8cc6-dbeb8a795098",
+                "values": [
+                  "Limited Warranty on parts and labour and against manufacturing defects"
+                ]
+              },
+              { "key": "Weight", "values": ["250 g"] },
+              { "key": "Suitable Photo Size", "values": ["13 X 18 cm"] },
+              { "key": "Height", "values": ["26 cm"] },
+              { "key": "Width", "values": ["26 cm"] },
+              { "key": "Depth", "values": ["4 cm"] },
+              {
+                "key": "Care and Cleaning",
+                "values": ["Wipe and clean with dry cloth"]
+              },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Accepts any photo format",
+                  "Modern style",
+                  "High quality construction"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "e1fada47fea60053fc72b8d4e2f4e832",
+            "name": "SViRU Generic Photo Frame (Photo Size - 13 X 18 ...",
+            "description": "Key Features of SViRU Generic Photo Frame Modern Style,SViRU Generic Photo Frame (Photo Size - 13 X 18 cm, 1 Photos) Price: Rs. 549 Hanging Photo Frame with 1 Clip,Specifications of SViRU Generic Photo Frame (Photo Size - 13 X 18 cm, 1 Photos) Body Material Frame Material Generic Backing MDF Other Body Features Shrinkwrapped In The Box Number of Contents in Sales Package Pack of 1 Sales Package Clip Type Photo Frame General Shape Rectangle color Black Number of Photos 1 Mounted Wall mounted Mounted Ideal For Women, Boys, Girls Warranty Limited Warranty on parts & labour & against manufacturing defects Dimensions Weight 220 g Suitable Photo Size 13 X 18 cm Height 26 cm Width 22 cm Depth 4 cm Additional Features Care and Cleaning Wipe and clean with dry cloth Other Features Accepts any photo format, Modern style, High quality construction",
+            "stock_level": 7688,
+            "price": 775,
+            "sale": false,
+            "sale_price": 549,
+            "stock_keeping_unit": "PHFEGTJJFSMEJV25",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/normal-photo-frame/v/2/5/sv-hp-1p-k-sviru-hanging-photo-frame-1-clip-black-1100x1100-imaegz7x56zgsvah.jpeg",
+                "filename": "sv-hp-1p-k-sviru-hanging-photo-frame-1-clip-black-1100x1100-imaegz7x56zgsvah.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/normal-photo-frame/v/2/5/sv-hp-1p-k-sviru-hanging-photo-frame-1-clip-black-original-imaegz7x56zgsvah.jpeg",
+                "filename": "sv-hp-1p-k-sviru-hanging-photo-frame-1-clip-black-original-imaegz7x56zgsvah.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Frame Material", "values": ["Generic"] },
+              { "key": "Backing", "values": ["MDF"] },
+              { "key": "Other Body Features", "values": ["Shrinkwrapped"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["Clip Type Photo Frame"] },
+              { "key": "Shape", "values": ["Rectangle"] },
+              { "key": "color", "values": ["Black"] },
+              { "key": "Number of Photos", "values": ["1"] },
+              { "key": "Mounted", "values": ["Wall mounted Mounted"] },
+              { "key": "Ideal For", "values": ["Women", "Boys", "Girls"] },
+              {
+                "key": "ee5d9147-3f3b-4e6e-948a-485e8f378a71",
+                "values": [
+                  "Limited Warranty on parts and labour and against manufacturing defects"
+                ]
+              },
+              { "key": "Weight", "values": ["220 g"] },
+              { "key": "Suitable Photo Size", "values": ["13 X 18 cm"] },
+              { "key": "Height", "values": ["26 cm"] },
+              { "key": "Width", "values": ["22 cm"] },
+              { "key": "Depth", "values": ["4 cm"] },
+              {
+                "key": "Care and Cleaning",
+                "values": ["Wipe and clean with dry cloth"]
+              },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Accepts any photo format",
+                  "Modern style",
+                  "High quality construction"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "f63d23ba9677a1c92b2ea29cbec5dc2f61f64435" }
+      },
+      "active": true,
+      "id": "96a0814f9793f587cc41bc8034a8e547277742f8"
+    },
+    {
+      "product": {
+        "id": "0195a3b52e50c4fb6e3c527b06782c7ea2975772",
+        "name": "NYX Cosmetics Honey Dew Me Up  Primer  - 22 ml",
+        "description": "Dummy description for product NYX Cosmetics Honey Dew Me Up  Primer  - 22 ml",
+        "manufacturer_id": "c7f6613a3107f0e00467bbb521f56ef21dd9145c",
+        "taric_code": "1c365b88-371b-44ca-8adf-4241d2c83459",
+        "variants": [
+          {
+            "id": "da2e5f1f5a81934a92277b8858c8833d",
+            "name": "NYX Cosmetics Honey Dew Me Up  Primer  - 22 ml (...",
+            "description": "NYX Cosmetics Honey Dew Me Up  Primer  - 22 ml (Dew) Price: Rs. 2,763 Neutralizes the appearance of discoloration and redness. Preps and primes face for makeup application. This primer is loaded with beneficial ingredients for your skin, honey is a natural antiseptic, while the gold flecks increase skin radiance, and collagen strengthens skin,Specifications of NYX Cosmetics Honey Dew Me Up  Primer  - 22 ml (Dew) General Traits Quantity 22 ml Shade Dew In the Box Primer",
+            "stock_level": 3100,
+            "price": 8241,
+            "sale": false,
+            "sale_price": 2763,
+            "stock_keeping_unit": "PRMEGT8Z6RCS7XYP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/primer/x/y/p/nyx-22-cosmetics-honey-dew-me-up-primer-1100x1100-imaegua3pyqk6cqp.jpeg",
+                "filename": "nyx-22-cosmetics-honey-dew-me-up-primer-1100x1100-imaegua3pyqk6cqp.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/primer/x/y/p/nyx-22-cosmetics-honey-dew-me-up-primer-original-imaegua3pyqk6cqp.jpeg",
+                "filename": "nyx-22-cosmetics-honey-dew-me-up-primer-original-imaegua3pyqk6cqp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Quantity", "values": ["22 ml"] },
+              { "key": "Shade", "values": ["Dew"] },
+              {
+                "key": "5f39be03-96e0-4d2b-8094-4e2ff18b3510",
+                "values": ["Primer"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "bc0478a4735f37940811e47c401feb7aa7ffb2ad" }
+      },
+      "active": true,
+      "id": "0195a3b52e50c4fb6e3c527b06782c7ea2975772"
+    },
+    {
+      "product": {
+        "id": "f5f6fedba8f6292388b35cd64ed99e8b0c963413",
+        "name": "kawal fashion Pyjama Baby Girl's  Combo",
+        "description": "Dummy description for product kawal fashion Pyjama Baby Girl's  Combo",
+        "manufacturer_id": "85d03ee48627e00f233486a372a52484120edce7",
+        "taric_code": "965cc596-126e-419c-b466-0adc2a190a32",
+        "variants": [
+          {
+            "id": "8f41c6931b5220c2bb34d1cab21cb220",
+            "name": "kawal fashion Pyjama Baby Girl's  Combo",
+            "description": "Specifications of kawal fashion Pyjama Baby Girl's  Combo Apparel Combo Details Primary Product Size 18 - 24 Months Ideal For Baby Girl's Additional Details Style Code mnbt 2244",
+            "stock_level": 9549,
+            "price": 1900,
+            "sale": true,
+            "sale_price": 599,
+            "stock_keeping_unit": "ACBEHGARRYXEA4FA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/apparels-combo/4/4/p/mnbt-2244-kawal-fashion-original-imaehg6zbdrcbgbc.jpeg",
+                "filename": "mnbt-2244-kawal-fashion-original-imaehg6zbdrcbgbc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/apparels-combo/4/4/p/mnbt-2244-kawal-fashion-original-imaehg6zbdrcbgbc.jpeg",
+                "filename": "mnbt-2244-kawal-fashion-original-imaehg6zbdrcbgbc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/apparels-combo/h/y/e/mnbt-2244-kawal-fashion-original-imaehg6zys8uyhxn.jpeg",
+                "filename": "mnbt-2244-kawal-fashion-original-imaehg6zys8uyhxn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Primary Product Size", "values": ["18 - 24 Months"] },
+              { "key": "Ideal For", "values": ["Baby Girl's"] },
+              { "key": "Style Code", "values": ["mnbt 2244"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "1668e2ff277fe8fd0b4bdde71dde5b636e70d9bd" }
+      },
+      "active": true,
+      "id": "f5f6fedba8f6292388b35cd64ed99e8b0c963413"
+    },
+    {
+      "product": {
+        "id": "1e645187ea49a2416305933f830cd47456c9168c",
+        "name": "Crezy Xtreem 1000 ml Water Bottles",
+        "description": "Dummy description for product Crezy Xtreem 1000 ml Water Bottles",
+        "manufacturer_id": "e2cdbfd31c06f14a0e2841ccad6e3223d3850411",
+        "taric_code": "6b1ad288-0b12-4e51-9e61-f309830fe96b",
+        "variants": [
+          {
+            "id": "a5dfd972634e58fe9c244776dbd9e7b9",
+            "name": "Crezy Xtreem 1000 ml Water Bottles (Set of 8, Bl...",
+            "description": "Key Features of Crezy Xtreem 1000 ml Water Bottles Tough Durable Strong Leak Proof Fashionable Light Crystal Clear BPA free Durable Quality,Crezy Xtreem 1000 ml Water Bottles (Set of 8, Blue,Violet) Price: Rs. 399 In this busy lifestyle, one neglects an important aspect of drinking water on a regular basis. Keeping these Water Bottles from Crezy World in your office or home can come in handy, and keep various health problems at bay. Made of Virgin Plastic These water bottles are made of high-quality plastic that does not contaminate the water and keeps it clean. Durable and strong, these are easy to carry and do not pose any hassles. Comfortable Design With wide mouth openings, filling water and cleaning these bottles become a piece of cake. The tab on the cap further makes it comfortable to open the bottle even if your hands are not dry.,Specifications of Crezy Xtreem 1000 ml Water Bottles (Set of 8, Blue,Violet) General Series Xtreem Model Name CWPX-08-2 Packaging Blister Roll Dimensions Weight 340 g Other Dimensions Xtreme Bottle Height 24 mm Width 7 mm Depth 7 mm Water Bottle Features Cap Type Screw Other Water Bottle Features Quality Design Water Bottle Capacity 1000 ml Additional Features Authentic Look, Fashionable, Tuff, Strong In the Box 12 Bottle",
+            "stock_level": 2330,
+            "price": 799,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "WBTEHD8V9NYHZFNK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/water-bottle/f/n/k/crezy-cwpx-08-2-1100x1100-imaehc2fe4rybtrh.jpeg",
+                "filename": "crezy-cwpx-08-2-1100x1100-imaehc2fe4rybtrh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/water-bottle/f/n/k/crezy-cwpx-08-2-original-imaehc2fe4rybtrh.jpeg",
+                "filename": "crezy-cwpx-08-2-original-imaehc2fe4rybtrh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/water-bottle/f/3/v/crezy-cwpx-04-1-original-imaehc2aaguggyzd.jpeg",
+                "filename": "crezy-cwpx-04-1-original-imaehc2aaguggyzd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/water-bottle/g/r/a/crezy-cwpx-08-3-original-imaehc2apufrhmpy.jpeg",
+                "filename": "crezy-cwpx-08-3-original-imaehc2apufrhmpy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Series", "values": ["Xtreem"] },
+              { "key": "Model Name", "values": ["CWPX-08-2"] },
+              { "key": "Packaging", "values": ["Blister Roll"] },
+              { "key": "Weight", "values": ["340 g"] },
+              { "key": "Other Dimensions", "values": ["Xtreme Bottle"] },
+              { "key": "Height", "values": ["24 mm"] },
+              { "key": "Width", "values": ["7 mm"] },
+              { "key": "Depth", "values": ["7 mm"] },
+              { "key": "Cap Type", "values": ["Screw"] },
+              {
+                "key": "Other Water Bottle Features",
+                "values": ["Quality Design"]
+              },
+              { "key": "Water Bottle Capacity", "values": ["1000 ml"] },
+              {
+                "key": "bca141e4-92a4-4895-9534-40d267e2e4c4",
+                "values": ["Authentic Look", "Fashionable", "Tuff", "Strong"]
+              },
+              {
+                "key": "fabb9d2c-31b3-4dea-bced-4380c45a33ac",
+                "values": ["12 Bottle"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "416094699008c2389268714b052f175c6cd12907" }
+      },
+      "active": true,
+      "id": "1e645187ea49a2416305933f830cd47456c9168c"
+    },
+    {
+      "product": {
+        "id": "3c7b9a6453bc768454fb97ec434d768079570c60",
+        "name": "Be 13 Printed Boy's Round Neck T-Shirt",
+        "description": "Dummy description for product Be 13 Printed Boy's Round Neck T-Shirt",
+        "manufacturer_id": "df7fe5a89966fa47be74d03876be03fbbded8314",
+        "taric_code": "7758721b-b63b-4bd5-91f3-daf917c822f5",
+        "variants": [
+          {
+            "id": "6175430eb7c195c85f88b8e7e85850e4",
+            "name": "Be 13 Printed Boy's Round Neck T-Shirt (Pack of 2)",
+            "description": "Key Features of Be 13 Printed Boy's Round Neck T-Shirt Fit: Regular Fit Suitable For: Western Wear Sleeve: Half Sleeve Fabric: Cotton,Be 13 Printed Boy's Round Neck T-Shirt (Pack of 2) Price: Rs. 649 Make a style statement on dressed down days ,with range of uber casual tees in striking hues and trendy prints by Be 13. Carry the outfit with washed denims and sandals for urban look. This pack of 2 T-shirts will be perfect for your little oness casual look.,Specifications of Be 13 Printed Boy's Round Neck T-Shirt (Pack of 2) T-shirt Details Sleeve Half Sleeve Number of Contents in Sales Package Pack of 2 Fabric Cotton Type Round Neck Fit Regular General Details Pattern Printed Occasion Casual Ideal For Boy's In the Box 2 T Shirts Additional Details Style Code 13BTCOM409-1",
+            "stock_level": 9741,
+            "price": 1099,
+            "sale": true,
+            "sale_price": 519,
+            "stock_keeping_unit": "TSHEHHHDTJW6EUCH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/y/v/v/13btcom409-1-be-13-8-9-years-1000x1000-imaehhtzbg5szkxy.jpeg",
+                "filename": "13btcom409-1-be-13-8-9-years-1000x1000-imaehhtzbg5szkxy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/y/v/v/13btcom409-1-be-13-8-9-years-original-imaehhtzbg5szkxy.jpeg",
+                "filename": "13btcom409-1-be-13-8-9-years-original-imaehhtzbg5szkxy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/h/m/z/13btcom440-1-be-13-12-18-months-original-imaehhtgyhzdh6zy.jpeg",
+                "filename": "13btcom440-1-be-13-12-18-months-original-imaehhtgyhzdh6zy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/h/m/z/13btcom440-1-be-13-2-3-years-original-imaehhtg3cywwwjb.jpeg",
+                "filename": "13btcom440-1-be-13-2-3-years-original-imaehhtg3cywwwjb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/u/h/h/13btcom553-1-be-13-12-13-years-original-imaehhtgnnsdtga2.jpeg",
+                "filename": "13btcom553-1-be-13-12-13-years-original-imaehhtgnnsdtga2.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/z/f/3/13btcom593-1-be-13-12-13-years-original-imaehhtgeaferfda.jpeg",
+                "filename": "13btcom593-1-be-13-12-13-years-original-imaehhtgeaferfda.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Half Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Boy's"] },
+              {
+                "key": "fdbed9ed-45bc-48b1-8663-211b5b74b4df",
+                "values": ["2 T Shirts"]
+              },
+              { "key": "Style Code", "values": ["13BTCOM409-1"] }
+            ]
+          },
+          {
+            "id": "f4c28cae4ad110cc5f972b3091cacf07",
+            "name": "Be 13 Printed Boy's Round Neck T-Shirt (Pack of 2)",
+            "description": "Key Features of Be 13 Printed Boy's Round Neck T-Shirt Fit: Regular Fit Suitable For: Western Wear Sleeve: Half Sleeve Fabric: Cotton,Be 13 Printed Boy's Round Neck T-Shirt (Pack of 2) Price: Rs. 649 Make a style statement on dressed down days ,with range of uber casual tees in striking hues and trendy prints by Be 13. Carry the outfit with washed denims and sandals for urban look. This pack of 2 T-shirts will be perfect for your little oness casual look.,Specifications of Be 13 Printed Boy's Round Neck T-Shirt (Pack of 2) T-shirt Details Sleeve Half Sleeve Number of Contents in Sales Package Pack of 2 Fabric Cotton Type Round Neck Fit Regular General Details Pattern Printed Ideal For Boy's Occasion Casual Additional Details Style Code 13BTCOM778-1 In the Box 2 T Shirts",
+            "stock_level": 1900,
+            "price": 1099,
+            "sale": false,
+            "sale_price": 519,
+            "stock_keeping_unit": "TSHEHHHEXWHTRDFJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/v/f/y/13btcom778-1-be-13-10-11-years-1000x1000-imaehhtvbmva8zjk.jpeg",
+                "filename": "13btcom778-1-be-13-10-11-years-1000x1000-imaehhtvbmva8zjk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/v/f/y/13btcom778-1-be-13-10-11-years-original-imaehhtvbmva8zjk.jpeg",
+                "filename": "13btcom778-1-be-13-10-11-years-original-imaehhtvbmva8zjk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/h/m/z/13btcom440-1-be-13-14-15-years-original-imaehhtg6jzs9wtr.jpeg",
+                "filename": "13btcom440-1-be-13-14-15-years-original-imaehhtg6jzs9wtr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/t-shirt/h/m/z/13btcom440-1-be-13-2-3-years-original-imaehhtgfbh3svug.jpeg",
+                "filename": "13btcom440-1-be-13-2-3-years-original-imaehhtgfbh3svug.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/u/g/g/13btcom746-1-be-13-8-9-years-original-imaehhtgstpgzsmh.jpeg",
+                "filename": "13btcom746-1-be-13-8-9-years-original-imaehhtgstpgzsmh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/t-shirt/e/t/z/13btcom601-1-be-13-10-11-years-original-imaehhtgrvwfza6z.jpeg",
+                "filename": "13btcom601-1-be-13-10-11-years-original-imaehhtgrvwfza6z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Half Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 2"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Round Neck"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Pattern", "values": ["Printed"] },
+              { "key": "Ideal For", "values": ["Boy's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Style Code", "values": ["13BTCOM778-1"] },
+              {
+                "key": "338e9ef8-2f9c-41a4-b133-2e288084c71a",
+                "values": ["2 T Shirts"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "d1ab0c2d6ebcbfa6ec4a6daf11bc67e3d47fff38" }
+      },
+      "active": true,
+      "id": "3c7b9a6453bc768454fb97ec434d768079570c60"
+    },
+    {
+      "product": {
+        "id": "57d4286c674a37129bbd686652b80800068c6707",
+        "name": "Morph Maternity Women's A-line Blue Dress",
+        "description": "Dummy description for product Morph Maternity Women's A-line Blue Dress",
+        "manufacturer_id": "bb4999ab17d557c735b30c59a7dbacdc8cb01eae",
+        "taric_code": "dbad2df0-7655-45f8-ac3e-7d5f0a9b5f2d",
+        "variants": [
+          {
+            "id": "ab153d7867a42fe809243a94511dda31",
+            "name": "Morph Maternity Women's A-line Blue Dress",
+            "description": "Key Features of Morph Maternity Women's A-line Blue Dress Royal Blue A-line,Morph Maternity Women's A-line Blue Dress Price: Rs. 1,295 V neck.3/4th length.Elasticated at the back.Short sleeves.Knitted cotton fabric.Hand wash/Machine wash in Normal Cycle.Do not bleach.Fits during Pregnency & Post Pregnency.,Specifications of Morph Maternity Women's A-line Blue Dress Dimensions Length Midi/Knee Length General Details Ideal For Women's Occasion Casual Dress Details Fabric Knitted cotton fabric Type A-line",
+            "stock_level": 2779,
+            "price": 1295,
+            "sale": false,
+            "sale_price": 1295,
+            "stock_keeping_unit": "DREEGQ4E6YAHVS6Q",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/dress/e/q/y/ckdr1115stblu-morph-maternity-l-1000x1000-imaegqysuagvja5z.jpeg",
+                "filename": "ckdr1115stblu-morph-maternity-l-1000x1000-imaegqysuagvja5z.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dress/e/q/y/ckdr1115stblu-morph-maternity-l-original-imaegqysuagvja5z.jpeg",
+                "filename": "ckdr1115stblu-morph-maternity-l-original-imaegqysuagvja5z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/dress/e/q/y/ckdr1115stblu-morph-maternity-l-original-imaegqyt4cjd6zzy.jpeg",
+                "filename": "ckdr1115stblu-morph-maternity-l-original-imaegqyt4cjd6zzy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/dress/e/q/y/ckdr1115stblu-morph-maternity-l-original-imaegqytycj58ws8.jpeg",
+                "filename": "ckdr1115stblu-morph-maternity-l-original-imaegqytycj58ws8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Length", "values": ["Midi/Knee Length"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Fabric", "values": ["Knitted cotton fabric"] },
+              { "key": "Type", "values": ["A-line"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "7c414b64a980402c409046b8918daa8639ecb07d" }
+      },
+      "active": true,
+      "id": "57d4286c674a37129bbd686652b80800068c6707"
+    },
+    {
+      "product": {
+        "id": "e91a268e9a7269a33242b03322f6530df8664a48",
+        "name": "RANGSUTRA Embroidered Women's A-line Kurta",
+        "description": "Dummy description for product RANGSUTRA Embroidered Women's A-line Kurta",
+        "manufacturer_id": "3f1f7fdaa971b49d3ba4cae6403e7be354a6b3a7",
+        "taric_code": "1708077a-9525-443a-833a-f7ddffdbf827",
+        "variants": [
+          {
+            "id": "ba34de65867a0d3ce2007eaa2c3d0aea",
+            "name": "RANGSUTRA Embroidered Women's A-line Kurta",
+            "description": "Key Features of RANGSUTRA Embroidered Women's A-line Kurta Yellow A-line,Specifications of RANGSUTRA Embroidered Women's A-line Kurta General Details Pattern Embroidered Ideal For Women's Kurta Details Sleeve 3/4 Sleeve Fabric COTTON Type A-line Neck v-neck Additional Details Style Code wi-258-tulsi/MS",
+            "stock_level": 1977,
+            "price": 1500,
+            "sale": true,
+            "sale_price": 1500,
+            "stock_keeping_unit": "KTAEJ8C64UYYN8M8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/c/8/j/wi-258-tulsi-ms-rangsutra-s-1000x1000-imaej3jvuwthxy9y.jpeg",
+                "filename": "wi-258-tulsi-ms-rangsutra-s-1000x1000-imaej3jvuwthxy9y.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/c/8/j/wi-258-tulsi-ms-rangsutra-s-original-imaej3jvuwthxy9y.jpeg",
+                "filename": "wi-258-tulsi-ms-rangsutra-s-original-imaej3jvuwthxy9y.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/kurta/n/f/n/wi-258-tulsi-ms-rangsutra-xl-original-imaej3k3yx8fsxak.jpeg",
+                "filename": "wi-258-tulsi-ms-rangsutra-xl-original-imaej3k3yx8fsxak.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/8/m/8/wi-258-tulsi-ms-rangsutra-m-original-imaej3k4hpqg2srz.jpeg",
+                "filename": "wi-258-tulsi-ms-rangsutra-m-original-imaej3k4hpqg2srz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/c/8/j/wi-258-tulsi-ms-rangsutra-s-original-imaej3k5gzyh3gt9.jpeg",
+                "filename": "wi-258-tulsi-ms-rangsutra-s-original-imaej3k5gzyh3gt9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/8/m/8/wi-258-tulsi-ms-rangsutra-m-original-imaej3k6ksfh9hgb.jpeg",
+                "filename": "wi-258-tulsi-ms-rangsutra-m-original-imaej3k6ksfh9hgb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Embroidered"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              { "key": "Fabric", "values": ["COTTON"] },
+              { "key": "Type", "values": ["A-line"] },
+              { "key": "Neck", "values": ["v-neck"] },
+              { "key": "Style Code", "values": ["wi-258-tulsi/MS"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "b5256764f50401d9bd5c30496c6ca877f8791010" }
+      },
+      "active": true,
+      "id": "e91a268e9a7269a33242b03322f6530df8664a48"
+    },
+    {
+      "product": {
+        "id": "a5c423888f62affaed3ca3afb9842cacf504f296",
+        "name": "Gulmohar Jaipur Embroidered Women's Straight Kurta",
+        "description": "Dummy description for product Gulmohar Jaipur Embroidered Women's Straight Kurta",
+        "manufacturer_id": "00d2f4ec714cc945c7c550f0dbb1f2ac47c20deb",
+        "taric_code": "70012186-6c32-44c8-ad66-b7f967cbc4e8",
+        "variants": [
+          {
+            "id": "bb67a744bcc4012ff159d4202f54b6dd",
+            "name": "Gulmohar Jaipur Embroidered Women's Straight Kurta",
+            "description": "Key Features of Gulmohar Jaipur Embroidered Women's Straight Kurta Blue Straight,Specifications of Gulmohar Jaipur Embroidered Women's Straight Kurta General Details Pattern Embroidered Ideal For Women's Occasion Casual Kurta Details Sleeve 3/4 Sleeve Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Straight Neck Round Neck Additional Details Style Code GC37BLUE In the Box KURTA",
+            "stock_level": 6122,
+            "price": 999,
+            "sale": false,
+            "sale_price": 474,
+            "stock_keeping_unit": "KTAEJMAGF5PPDETQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/kurta/h/p/q/gc37blue-gulmohar-jaipur-xxl-original-imaejhfz5rvwbbp3.jpeg",
+                "filename": "gc37blue-gulmohar-jaipur-xxl-original-imaejhfz5rvwbbp3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/kurta/h/p/q/gc37blue-gulmohar-jaipur-xxl-original-imaejhfzwt2b2xmf.jpeg",
+                "filename": "gc37blue-gulmohar-jaipur-xxl-original-imaejhfzwt2b2xmf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/h/p/q/gc37blue-gulmohar-jaipur-xxl-original-imaejhfz8exz8vyq.jpeg",
+                "filename": "gc37blue-gulmohar-jaipur-xxl-original-imaejhfz8exz8vyq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/kurta/h/p/q/gc37blue-gulmohar-jaipur-l-original-imaejhfz9j9uz2xv.jpeg",
+                "filename": "gc37blue-gulmohar-jaipur-l-original-imaejhfz9j9uz2xv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/h/p/q/gc37blue-gulmohar-jaipur-l-original-imaejhfzgxhqjwnj.jpeg",
+                "filename": "gc37blue-gulmohar-jaipur-l-original-imaejhfzgxhqjwnj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Embroidered"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Straight"] },
+              { "key": "Neck", "values": ["Round Neck"] },
+              { "key": "Style Code", "values": ["GC37BLUE"] },
+              {
+                "key": "1ee4a18c-3708-48bd-9dfa-7de4ed78c7d5",
+                "values": ["KURTA"]
+              }
+            ]
+          },
+          {
+            "id": "8cc202041fb2ff897fb5ca47203edd0d",
+            "name": "Gulmohar Jaipur Embroidered Women's Straight Kurta",
+            "description": "Key Features of Gulmohar Jaipur Embroidered Women's Straight Kurta Black Straight,Specifications of Gulmohar Jaipur Embroidered Women's Straight Kurta General Details Pattern Embroidered Ideal For Women's Occasion Casual Kurta Details Sleeve 3/4 Sleeve Number of Contents in Sales Package Pack of 1 Fabric Cotton Type Straight Neck Round Neck Additional Details Style Code GC37BLACK In the Box KURTA",
+            "stock_level": 7496,
+            "price": 999,
+            "sale": true,
+            "sale_price": 474,
+            "stock_keeping_unit": "KTAEJMAGQYBUW7QG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/r/f/8/gc37black-gulmohar-jaipur-l-original-imaejhfzesvwm5f3.jpeg",
+                "filename": "gc37black-gulmohar-jaipur-l-original-imaejhfzesvwm5f3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/kurta/r/f/8/gc37black-gulmohar-jaipur-l-original-imaejhfzesvwm5f3.jpeg",
+                "filename": "gc37black-gulmohar-jaipur-l-original-imaejhfzesvwm5f3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/r/f/8/gc37black-gulmohar-jaipur-xxl-original-imaejhfzefrddcks.jpeg",
+                "filename": "gc37black-gulmohar-jaipur-xxl-original-imaejhfzefrddcks.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/r/f/8/gc37black-gulmohar-jaipur-xxl-original-imaejhfzcndhsqyq.jpeg",
+                "filename": "gc37black-gulmohar-jaipur-xxl-original-imaejhfzcndhsqyq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/kurta/r/f/8/gc37black-gulmohar-jaipur-s-original-imaejhfztsmvzezh.jpeg",
+                "filename": "gc37black-gulmohar-jaipur-s-original-imaejhfztsmvzezh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/kurta/r/f/8/gc37black-gulmohar-jaipur-xxl-original-imaejhfztbthxdyk.jpeg",
+                "filename": "gc37black-gulmohar-jaipur-xxl-original-imaejhfztbthxdyk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Embroidered"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Type", "values": ["Straight"] },
+              { "key": "Neck", "values": ["Round Neck"] },
+              { "key": "Style Code", "values": ["GC37BLACK"] },
+              {
+                "key": "c7e907ef-fc8e-4364-a582-6a48d07145db",
+                "values": ["KURTA"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "d8f3815a73bc73569cbba20a06df965509495e9a" }
+      },
+      "active": true,
+      "id": "a5c423888f62affaed3ca3afb9842cacf504f296"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "@restorecommerce/mockdata",
+  "version": "0.1.0",
+  "description": "Util for importing system data",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.n-fuse.co/restorecommerce/system/xingular-data.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "restorecommerce",
+    "seed",
+    "data"
+  ],
+  "dependencies": {
+    "@restorecommerce/gql-bot": "github:restorecommerce/gql-bot",
+    "commander": "^2.15.1",
+    "cookie": "^0.3.1",
+    "node-fetch": "^2.6.0",
+    "prompt": "^1.0.0",
+    "set-cookie-parser": "^2.4.3",
+    "tslint": "^5.15.0",
+    "typescript": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.22",
+    "eslint-config-restorecommerce": "restorecommerce/eslint-config-restorecommerce"
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">= 9.2.0"
+  }
+}

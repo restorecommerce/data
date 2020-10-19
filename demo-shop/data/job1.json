@@ -1,0 +1,13 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 2
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "ActivateUsers.json"
+    }
+  ]
+}

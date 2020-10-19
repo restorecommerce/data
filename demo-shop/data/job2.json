@@ -1,0 +1,108 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createCommands.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createLocales.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createTimezones.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createRoles.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createUsers.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",      
+      "filter": "createCountry.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createAddress.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createTaxTypes.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createTaxes.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createContactPointTypes.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createContactPoints.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createOrganizations.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createRules.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createPolicies.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createPolicySets.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createFulfillmentCourier.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createPriceGroups.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createManufacturers.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProductCategories.json"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createProductPrototypes.json"
+    }
+  ]
+}

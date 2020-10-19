@@ -1,0 +1,3749 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "91b8c4e357223b1eb6e80fd6a5d2bbd909e83a10",
+        "name": "HugMe.fashion Full Sleeve Striped Men's Jacket",
+        "description": "Dummy description for product HugMe.fashion Full Sleeve Striped Men's Jacket",
+        "manufacturer_id": "5bfdaa7f686379fcae9ac72a369d6b7864214bbf",
+        "taric_code": "d8c7966b-a32c-4ca9-8f8c-17fa9838f189",
+        "variants": [
+          {
+            "id": "d7e6bbcf5512b19ab8d896f62356a5cf",
+            "name": "HugMe.fashion Full Sleeve Striped Men's Jacket",
+            "description": "Specifications of HugMe.fashion Full Sleeve Striped Men's Jacket Jacket Details Sleeve Full Sleeve Fabric Leather General Details Pattern Striped Ideal For Men's Additional Details Style Code JK126_Red",
+            "stock_level": 7782,
+            "price": 20663,
+            "sale": false,
+            "sale_price": 6199,
+            "stock_keeping_unit": "JCKEJQR2RDXBH67V",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jacket/n/g/z/jk126-blue-hugme-fashion-m-original-imaejfwbrbngyg5d.jpeg",
+                "filename": "jk126-blue-hugme-fashion-m-original-imaejfwbrbngyg5d.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jacket/9/7/p/jk126-red-hugme-fashion-xs-original-imaejgykffyhhx29.jpeg",
+                "filename": "jk126-red-hugme-fashion-xs-original-imaejgykffyhhx29.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/n/g/z/jk126-blue-hugme-fashion-l-original-imaejfwcyjrmnbhw.jpeg",
+                "filename": "jk126-blue-hugme-fashion-l-original-imaejfwcyjrmnbhw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jacket/6/7/v/jk126-red-hugme-fashion-xs-original-imaejfweucpshbzj.jpeg",
+                "filename": "jk126-red-hugme-fashion-xs-original-imaejfweucpshbzj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jacket/9/7/p/jk126-red-hugme-fashion-xs-original-imaejgyheaszntfr.jpeg",
+                "filename": "jk126-red-hugme-fashion-xs-original-imaejgyheaszntfr.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Fabric", "values": ["Leather"] },
+              { "key": "Pattern", "values": ["Striped"] },
+              { "key": "Ideal For", "values": ["Men's"] },
+              { "key": "Style Code", "values": ["JK126_Red"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "06e9bcc32c979f4228ebb762c9c375ce2c190ac8" }
+      },
+      "active": true,
+      "id": "91b8c4e357223b1eb6e80fd6a5d2bbd909e83a10"
+    },
+    {
+      "product": {
+        "id": "f207f35bb0b1ca1a0d705fd236a8fec1fe062c99",
+        "name": "Diviniti DG Royal Ornamental Size 4 Allha religious wall hanging Showpiece  -  30.5 cm",
+        "description": "Dummy description for product Diviniti DG Royal Ornamental Size 4 Allha religious wall hanging Showpiece  -  30.5 cm",
+        "manufacturer_id": "acc35026cf5a2f131ac1689243b8d8d601b7f41a",
+        "taric_code": "ce4f1778-0bff-45ac-b7a2-26a79a49c700",
+        "variants": [
+          {
+            "id": "181914cbb519a98425885d147829baef",
+            "name": "Diviniti Religious Idols",
+            "description": "Diviniti DG Royal Ornamental Size 4 Allha religious wall hanging Showpiece  -  30.5 cm (Glass, Gold)\n                         Price: Rs. 17,460\n\t\t\t\t\n\t\t\tFrom The House Of Diviniti, We Bring You Double Glass Royale Ornamental Frames Which Are Perfect Accessories For Your Wall, Desk Etc.Set In Double Glass Royale Ornamental Frames And Embodied In Swiss Technology 24 Carat Gold Plated Foil, These Are A Definite Buy For Personal Use Or For Gifting.\nFrom The House Of Diviniti, We Bring You Double Glass Royale Ornamental Frames Which Are Perfect Accessories For Your Wall, Desk Etc.Set In Double Glass Royale Ornamental Frames And Embodied In Swiss Technology 24 Carat Gold Plated Foil, These Are A Definite Buy For Personal Use Or For Gifting.",
+            "stock_level": 6292,
+            "price": 17460,
+            "sale": false,
+            "sale_price": 17460,
+            "stock_keeping_unit": "SHIEBBWHC4YGH5GY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/5/g/y/dg-ro-161-diviniti-1100x1100-imaebbhbb95xmvxn.jpeg",
+                "filename": "dg-ro-161-diviniti-1100x1100-imaebbhbb95xmvxn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/5/g/y/dg-ro-161-diviniti-original-imaebbhbb95xmvxn.jpeg",
+                "filename": "dg-ro-161-diviniti-original-imaebbhbb95xmvxn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Diviniti"] },
+              { "key": "Model Number", "values": ["DG RO 161"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "DG Royal Ornamental Size 4 Allha religious wall hanging"
+                ]
+              },
+              { "key": "Material", "values": ["Glass"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Height", "values": ["30.5 cm"] },
+              { "key": "Width", "values": ["23 cm"] },
+              { "key": "Depth", "values": ["2.5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "f207f35bb0b1ca1a0d705fd236a8fec1fe062c99"
+    },
+    {
+      "product": {
+        "id": "158bec5a6e522c4a247c7dd400ceb12fecfb0398",
+        "name": "Voylla Alloy Jewel Set",
+        "description": "Dummy description for product Voylla Alloy Jewel Set",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "e3c90dc2-5d4c-4f15-8e3f-49a7026a779d",
+        "variants": [
+          {
+            "id": "8224a893d9a14db4c1c65b0e439c987f",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 719 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6450,
+            "price": 1439,
+            "sale": false,
+            "sale_price": 719,
+            "stock_keeping_unit": "JWSECGFU8YKHTSMU",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/s/m/u/8907275288046-voylla-original-imae8ygze7yc9xwj.jpeg",
+                "filename": "8907275288046-voylla-original-imae8ygze7yc9xwj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/s/m/u/8907275288046-voylla-original-imae8ygz4btdzzmq.jpeg",
+                "filename": "8907275288046-voylla-original-imae8ygz4btdzzmq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/s/m/u/8907275288046-voylla-original-imae8ygzhvsasyae.jpeg",
+                "filename": "8907275288046-voylla-original-imae8ygzhvsasyae.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["8907275288046"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Mangalsutra and Earring Set"] },
+              { "key": "Finish", "values": ["Textured"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Everyday", "Workwear"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The Product Is Covered Under 30 Days Replacement Guarantee."
+                ]
+              },
+              { "key": "Weight", "values": ["8.96 g"] },
+              { "key": "Sales Package", "values": ["1 Mangalsutra 2 Earrings"] }
+            ]
+          },
+          {
+            "id": "cb546669f6bff3ba5e02b1691f09d9ec",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set (Multicolor)\n                         Price: Rs. 590\n\t\t\t\t\n\t\t\tHere is a mangalsutra set with double chain featuring half moon n leaf design and hint of green with matching cz diamonds studs. They dazzle with great shine and lustre of cubic zirconia crystals and are crafted from 18k gold plated alloy metal. A classy\nHere is a mangalsutra set with double chain featuring half moon n leaf design and hint of green with matching cz diamonds studs. They dazzle with great shine and lustre of cubic zirconia crystals and are crafted from 18k gold plated alloy metal. A classy",
+            "stock_level": 8749,
+            "price": 1060,
+            "sale": false,
+            "sale_price": 590,
+            "stock_keeping_unit": "JWSDXV8PZQXWKY2A",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/2/a/psjai24518-voylla-original-imady56hxncwdg2z.jpeg",
+                "filename": "psjai24518-voylla-original-imady56hxncwdg2z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/2/a/psjai24518-voylla-original-imady56hxncwdg2z.jpeg",
+                "filename": "psjai24518-voylla-original-imady56hxncwdg2z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/2/a/psjai24518-voylla-original-imady56hucddnh5k.jpeg",
+                "filename": "psjai24518-voylla-original-imady56hucddnh5k.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/2/a/psjai24518-voylla-original-imady56hg9fg5qnv.jpeg",
+                "filename": "psjai24518-voylla-original-imady56hg9fg5qnv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["PSJAI24518"] },
+              { "key": "Plating", "values": ["Rhodium"] },
+              { "key": "Type", "values": ["Mangalsutra and Earring Set"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["13.92 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Mangalsutra", "2 Earrings"]
+              }
+            ]
+          },
+          {
+            "id": "db35f0fa09496d5320dffbdcd2b504f4",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 649 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8338,
+            "price": 1129,
+            "sale": false,
+            "sale_price": 649,
+            "stock_keeping_unit": "JWSE9KZTWGWKVYYH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/y/h/8907275341093-voylla-original-imae9k7ytuzbrhf8.jpeg",
+                "filename": "8907275341093-voylla-original-imae9k7ytuzbrhf8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/y/h/8907275341093-voylla-original-imae9k7ytuzbrhf8.jpeg",
+                "filename": "8907275341093-voylla-original-imae9k7ytuzbrhf8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/y/h/8907275341093-voylla-original-imae9k7ydpqhatrc.jpeg",
+                "filename": "8907275341093-voylla-original-imae9k7ydpqhatrc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/y/h/8907275341093-voylla-original-imae9k7yaa8qghcg.jpeg",
+                "filename": "8907275341093-voylla-original-imae9k7yaa8qghcg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Model Number", "values": ["8907275341093"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Finish", "values": ["Textured"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Chain/Necklace Length", "values": ["28.0 inch"] },
+              { "key": "Weight", "values": ["44.22 g"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The product is covered under 30 days Replacement Guarantee."
+                ]
+              },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          },
+          {
+            "id": "1ea8328b3da8ca1f8c5efdc34c1b9526",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 659 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5980,
+            "price": 1140,
+            "sale": false,
+            "sale_price": 659,
+            "stock_keeping_unit": "JWSE346HBDCSUGR6",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/g/r/6/psjai25640-voylla-original-imae2cyfwvswjhdp.jpeg",
+                "filename": "psjai25640-voylla-original-imae2cyfwvswjhdp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/g/r/6/psjai25640-voylla-original-imae2cyfwvswjhdp.jpeg",
+                "filename": "psjai25640-voylla-original-imae2cyfwvswjhdp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/g/r/6/psjai25640-voylla-original-imae2cyf7vduzzgp.jpeg",
+                "filename": "psjai25640-voylla-original-imae2cyf7vduzzgp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/g/r/6/psjai25640-voylla-original-imae2cyfccrpg9dg.jpeg",
+                "filename": "psjai25640-voylla-original-imae2cyfccrpg9dg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Model Number", "values": ["PSJAI25640"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Mangalsutra and Earring Set"] },
+              { "key": "Finish", "values": ["Textured"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Chain/Necklace Length", "values": ["457.2 inch"] },
+              { "key": "Weight", "values": ["9.21 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Mangalsutra", "2 Earrings"]
+              }
+            ]
+          },
+          {
+            "id": "eae8ba4ba59d19dcba118852f108fe1a",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 414 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7980,
+            "price": 889,
+            "sale": false,
+            "sale_price": 414,
+            "stock_keeping_unit": "JWSE346HTY2GRPTH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/p/t/h/scbom22637-voylla-original-imae3ypdrg6n7f6f.jpeg",
+                "filename": "scbom22637-voylla-original-imae3ypdrg6n7f6f.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/p/t/h/scbom22637-voylla-original-imae3ypdrg6n7f6f.jpeg",
+                "filename": "scbom22637-voylla-original-imae3ypdrg6n7f6f.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/p/t/h/scbom22637-voylla-original-imae3ypd5hjhczwp.jpeg",
+                "filename": "scbom22637-voylla-original-imae3ypd5hjhczwp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/p/t/h/scbom22637-voylla-original-imae3ypdhafsx4fu.jpeg",
+                "filename": "scbom22637-voylla-original-imae3ypdhafsx4fu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["SCBOM22637"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Finish", "values": ["Textured"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Chain/Necklace Length", "values": ["457.2 inch"] },
+              { "key": "Weight", "values": ["38.82 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Chain", "1 Pendant", "2 Earrings"]
+              }
+            ]
+          },
+          {
+            "id": "a118f7392787b842ae3b49531e738c72",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 359 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4447,
+            "price": 819,
+            "sale": false,
+            "sale_price": 359,
+            "stock_keeping_unit": "JWSDUGFCNMVZFWHX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/w/h/x/gcjai21860-voylla-original-imadugfs6puenzvw.jpeg",
+                "filename": "gcjai21860-voylla-original-imadugfs6puenzvw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/w/h/x/gcjai21860-voylla-original-imadugfsyhbfqbbg.jpeg",
+                "filename": "gcjai21860-voylla-original-imadugfsyhbfqbbg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["GCJAI21860"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["White", "Green"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          },
+          {
+            "id": "d06e7106a66c64a1723584161f5fee33",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set (Gold)\n                         Price: Rs. 900\n\t\t\t\t\n\t\t\tA scintillating thewa necklace set with gold plating and contrasting beads, flawless designing makes this a prominent jewellery that adds definition and exquisiteness to the jewellery. A perfect pick for festive or wedding wear.\nA scintillating thewa necklace set with gold plating and contrasting beads, flawless designing makes this a prominent jewellery that adds definition and exquisiteness to the jewellery. A perfect pick for festive or wedding wear.",
+            "stock_level": 8227,
+            "price": 920,
+            "sale": false,
+            "sale_price": 900,
+            "stock_keeping_unit": "JWSDYQ3RTGG8N7HD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/7/h/d/brjai20390-voylla-original-imadyq4qdy2pfkfz.jpeg",
+                "filename": "brjai20390-voylla-original-imadyq4qdy2pfkfz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/7/h/d/brjai20390-voylla-original-imadyq4qapqfqx9p.jpeg",
+                "filename": "brjai20390-voylla-original-imadyq4qapqfqx9p.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/7/h/d/brjai20390-voylla-original-imadyq4mckzfb9us.jpeg",
+                "filename": "brjai20390-voylla-original-imadyq4mckzfb9us.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["BRJAI20390"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["34.27 g"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          },
+          {
+            "id": "38cf811945daa4e23d4e9937850cc4ce",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 730 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 16,
+            "price": 730,
+            "sale": false,
+            "sale_price": 730,
+            "stock_keeping_unit": "JWSDYGMERX4GHSHN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/s/h/n/scbom21676-voylla-original-imadykmzjpqzu3yx.jpeg",
+                "filename": "scbom21676-voylla-original-imadykmzjpqzu3yx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/s/h/n/scbom21676-voylla-original-imadykmzjpqzu3yx.jpeg",
+                "filename": "scbom21676-voylla-original-imadykmzjpqzu3yx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/s/h/n/scbom21676-voylla-original-imadykmz2mnkhbqy.jpeg",
+                "filename": "scbom21676-voylla-original-imadykmz2mnkhbqy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/s/h/n/scbom21676-voylla-original-imadykmzuwu77jkx.jpeg",
+                "filename": "scbom21676-voylla-original-imadykmzuwu77jkx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["SCBOM21676"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["103.53 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["2 Earring", "1 Necklace", "1 Maang Tikka"]
+              }
+            ]
+          },
+          {
+            "id": "d751203affe937ab4457f7ba63a8dadb",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 783 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6573,
+            "price": 979,
+            "sale": false,
+            "sale_price": 783,
+            "stock_keeping_unit": "JWSEBZNZJ95BR6SJ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/6/s/j/8907275384915-voylla-original-imaebzfyhwhwzhfu.jpeg",
+                "filename": "8907275384915-voylla-original-imaebzfyhwhwzhfu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/6/s/j/8907275384915-voylla-original-imaebzfyhwhwzhfu.jpeg",
+                "filename": "8907275384915-voylla-original-imaebzfyhwhwzhfu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/6/s/j/8907275384915-voylla-original-imaebzfypggfnmec.jpeg",
+                "filename": "8907275384915-voylla-original-imaebzfypggfnmec.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["8907275384915"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Finish", "values": ["Plain"] },
+              { "key": "Occasion", "values": ["Everyday", "Workwear"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The Product Is Covered Under 30 Days Replacement Guarantee."
+                ]
+              },
+              { "key": "Weight", "values": ["7.55 g"] },
+              { "key": "Sales Package", "values": ["1 Pendant", "2 Earrings"] }
+            ]
+          },
+          {
+            "id": "f8d5cc6f1cdb30d6d3f350d8788040a4",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set (Multicolor)\n                         Price: Rs. 795\n\t\t\t\t\n\t\t\tA gorgeous and delicate pendant set with chain set with flawless adornment of stones makes this necklace set a pretty pick, that matches with the festive season code!\nA gorgeous and delicate pendant set with chain set with flawless adornment of stones makes this necklace set a pretty pick, that matches with the festive season code!",
+            "stock_level": 9744,
+            "price": 820,
+            "sale": true,
+            "sale_price": 795,
+            "stock_keeping_unit": "JWSE22B4VZJH797Z",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/9/7/z/vnjai20013-voylla-original-imaefztdpcasfbgn.jpeg",
+                "filename": "vnjai20013-voylla-original-imaefztdpcasfbgn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/9/7/z/vnjai20013-voylla-original-imaefztdpcasfbgn.jpeg",
+                "filename": "vnjai20013-voylla-original-imaefztdpcasfbgn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/9/7/z/vnjai20013-voylla-original-imaefztd8zxzquy5.jpeg",
+                "filename": "vnjai20013-voylla-original-imaefztd8zxzquy5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/9/7/z/vnjai20013-voylla-original-imaefztd486vugvf.jpeg",
+                "filename": "vnjai20013-voylla-original-imaefztd486vugvf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Cubic Zirconia"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["VNJAI20013"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["5.58 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Pendant", "1 Chain", "2 Earrings"]
+              }
+            ]
+          },
+          {
+            "id": "3887310871f3ee00709bca199f4e4186",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set (Gold)\n                         Price: Rs. 770\n\t\t\t\t\n\t\t\tSober necklace set from coin collection in yellow gold plating studded with pearls which gives a dazzling look to it. Pair this with any of your ethnic wear outfit for that traditional look.\nSober necklace set from coin collection in yellow gold plating studded with pearls which gives a dazzling look to it. Pair this with any of your ethnic wear outfit for that traditional look.",
+            "stock_level": 9104,
+            "price": 780,
+            "sale": true,
+            "sale_price": 770,
+            "stock_keeping_unit": "JWSDYGMDJABKCA95",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/a/9/5/scbom21400-voylla-original-imadykmzz3ug96zc.jpeg",
+                "filename": "scbom21400-voylla-original-imadykmzz3ug96zc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/a/9/5/scbom21400-voylla-original-imadykmzz3ug96zc.jpeg",
+                "filename": "scbom21400-voylla-original-imadykmzz3ug96zc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/a/9/5/scbom21400-voylla-original-imadykmzx7hrszv4.jpeg",
+                "filename": "scbom21400-voylla-original-imadykmzx7hrszv4.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/a/9/5/scbom21400-voylla-original-imadykmzgkw9trug.jpeg",
+                "filename": "scbom21400-voylla-original-imadykmzgkw9trug.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Pearl"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["SCBOM21400"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["32.08 g"] },
+              { "key": "Sales Package", "values": ["2 Earring", "1 Necklace"] }
+            ]
+          },
+          {
+            "id": "f4843d8bd269b139dd1dd30eee01b5b5",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set (Gold)\n                         Price: Rs. 650\n\t\t\t\t\n\t\t\tShimmering chunky necklace set with floral motif on gold tone which makes it more precious and worthy. Pair this scintillating necklace set with any of your outfit for that dazzling look in your personality.\nShimmering chunky necklace set with floral motif on gold tone which makes it more precious and worthy. Pair this scintillating necklace set with any of your outfit for that dazzling look in your personality.",
+            "stock_level": 6819,
+            "price": 650,
+            "sale": true,
+            "sale_price": 650,
+            "stock_keeping_unit": "JWSDZFFRCYKJHBY3",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/b/y/3/fsbom20221-voylla-original-imadz4gusj7wphgr.jpeg",
+                "filename": "fsbom20221-voylla-original-imadz4gusj7wphgr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/b/y/3/fsbom20221-voylla-original-imadz4gusj7wphgr.jpeg",
+                "filename": "fsbom20221-voylla-original-imadz4gusj7wphgr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/b/y/3/fsbom20221-voylla-original-imadz4gugvzthv8z.jpeg",
+                "filename": "fsbom20221-voylla-original-imadz4gugvzthv8z.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/b/y/3/fsbom20221-voylla-original-imadz4guzfrnhfzx.jpeg",
+                "filename": "fsbom20221-voylla-original-imadz4guzfrnhfzx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["FSBOM20221"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["62.88 g"] },
+              { "key": "Sales Package", "values": ["2 Earring", "1 Necklace"] }
+            ]
+          },
+          {
+            "id": "c1364a2a69f492cf096e969bd29855af",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set (Gold)\n                         Price: Rs. 714\n\t\t\t\t\n\t\t\tClassic without chain pendant set which is attractively studded with red color stones and CZ stones, which gives a sparkling look to the jewellery. Pair this jewellery with any of your outfit for that pleasing and endearing look to your personality.\nClassic without chain pendant set which is attractively studded with red color stones and CZ stones, which gives a sparkling look to the jewellery. Pair this jewellery with any of your outfit for that pleasing and endearing look to your personality.",
+            "stock_level": 9036,
+            "price": 714,
+            "sale": false,
+            "sale_price": 714,
+            "stock_keeping_unit": "JWSDZJB8YBA5ESCP",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/s/c/p/kpblr20050-voylla-1100x1100-imadzjyuy77sw6w6.jpeg",
+                "filename": "kpblr20050-voylla-1100x1100-imadzjyuy77sw6w6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/s/c/p/kpblr20050-voylla-original-imadzjyuy77sw6w6.jpeg",
+                "filename": "kpblr20050-voylla-original-imadzjyuy77sw6w6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/s/c/p/kpblr20050-voylla-original-imadzjyuqejpapjz.jpeg",
+                "filename": "kpblr20050-voylla-original-imadzjyuqejpapjz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Cubic Zirconia"] },
+              { "key": "Model Number", "values": ["KPBLR20050"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["6.34 g"] },
+              { "key": "Sales Package", "values": ["2 Earrings", "1 Pendant"] }
+            ]
+          },
+          {
+            "id": "4b54fc754fcb8fdb3ac703e2cca66324",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set (Black, White, Gold)\n                         Price: Rs. 510\n\t\t\t\t\n\t\t\tChic and classy, get this single chain gold plated pendant set featuring eye-catching black floral design and matching floral earrings. This adornment is prettiness personified and should definitely be on your wish list.\nChic and classy, get this single chain gold plated pendant set featuring eye-catching black floral design and matching floral earrings. This adornment is prettiness personified and should definitely be on your wish list.",
+            "stock_level": 2613,
+            "price": 530,
+            "sale": false,
+            "sale_price": 510,
+            "stock_keeping_unit": "JWSDVZ95WSVTZF7E",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/f/7/e/rgbom20148-voylla-original-imadvnevftbhmktw.jpeg",
+                "filename": "rgbom20148-voylla-original-imadvnevftbhmktw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/f/7/e/rgbom20148-voylla-original-imadvnevftbhmktw.jpeg",
+                "filename": "rgbom20148-voylla-original-imadvnevftbhmktw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/f/7/e/rgbom20148-voylla-original-imadvnevez6e5xuy.jpeg",
+                "filename": "rgbom20148-voylla-original-imadvnevez6e5xuy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/f/7/e/rgbom20148-voylla-original-imadvnewnqs2mhaz.jpeg",
+                "filename": "rgbom20148-voylla-original-imadvnewnqs2mhaz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["RGBOM20148"] },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Black", "White", "Gold"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Chain", "1 Pendant", "2 Earrings"]
+              }
+            ]
+          },
+          {
+            "id": "3749a29fb1b0f6b5454955793d8a672b",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 818 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3126,
+            "price": 850,
+            "sale": true,
+            "sale_price": 818,
+            "stock_keeping_unit": "JWSE22B4YDF8U6AN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/6/a/n/brjai20583-voylla-original-imaefztdcrpgrjgr.jpeg",
+                "filename": "brjai20583-voylla-original-imaefztdcrpgrjgr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/6/a/n/brjai20583-voylla-original-imaefztdcrpgrjgr.jpeg",
+                "filename": "brjai20583-voylla-original-imaefztdcrpgrjgr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/6/a/n/brjai20583-voylla-original-imaefztdfncnddhg.jpeg",
+                "filename": "brjai20583-voylla-original-imaefztdfncnddhg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/6/a/n/brjai20583-voylla-original-imaefztdbxcgcseg.jpeg",
+                "filename": "brjai20583-voylla-original-imaefztdbxcgcseg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["BRJAI20583"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Finish", "values": ["Embossed"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Chain/Necklace Length", "values": ["558.8 inch"] },
+              { "key": "Weight", "values": ["36.63 g"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          },
+          {
+            "id": "3f60095123994aff92bbbe15cd792558",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 579 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 984,
+            "price": 659,
+            "sale": false,
+            "sale_price": 579,
+            "stock_keeping_unit": "JWSECMERZZT8YFRD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/f/r/d/8907275412175-voylla-original-imaecmadevkdyy9v.jpeg",
+                "filename": "8907275412175-voylla-original-imaecmadevkdyy9v.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/f/r/d/8907275412175-voylla-original-imaecmadevkdyy9v.jpeg",
+                "filename": "8907275412175-voylla-original-imaecmadevkdyy9v.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/f/r/d/8907275412175-voylla-original-imaecmadhjnpycru.jpeg",
+                "filename": "8907275412175-voylla-original-imaecmadhjnpycru.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Pearl Color", "values": ["NA"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["8907275412175"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Finish", "values": ["Textured"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Everyday", "Workwear"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The product is covered under 30 days Replacement Guarantee."
+                ]
+              },
+              { "key": "Chain/Necklace Length", "values": ["24.5 inch"] },
+              { "key": "Weight", "values": ["80.78 g"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Certification", "values": ["NA"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "2 Earrings", "1 Maang Tikaa"]
+              }
+            ]
+          },
+          {
+            "id": "d0ec93fae661f90e1a36d94910488625",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 720 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6335,
+            "price": 1430,
+            "sale": true,
+            "sale_price": 720,
+            "stock_keeping_unit": "JWSDZJB8HVH2GXQ7",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/x/q/7/psjai25480-voylla-original-imadzjyugvpythzy.jpeg",
+                "filename": "psjai25480-voylla-original-imadzjyugvpythzy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/x/q/7/psjai25480-voylla-original-imadzjyu2zx3g5uq.jpeg",
+                "filename": "psjai25480-voylla-original-imadzjyu2zx3g5uq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Model Number", "values": ["PSJAI25480"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Mangalsutra Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["11.24 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Mangalsutra", "2 Earrings"]
+              }
+            ]
+          },
+          {
+            "id": "38e061de42204ab9e0d90672e9ea2010",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 669 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 635,
+            "price": 1329,
+            "sale": true,
+            "sale_price": 669,
+            "stock_keeping_unit": "JWSECGFUDCQNHYRH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/r/h/8907275287247-voylla-original-imae8ygzsajfne9q.jpeg",
+                "filename": "8907275287247-voylla-original-imae8ygzsajfne9q.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/r/h/8907275287247-voylla-original-imae8ygzjhuk3qbz.jpeg",
+                "filename": "8907275287247-voylla-original-imae8ygzjhuk3qbz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/r/h/8907275287247-voylla-original-imae8ygzdhvhhdga.jpeg",
+                "filename": "8907275287247-voylla-original-imae8ygzdhvhhdga.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Model Number", "values": ["8907275287247"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Mangalsutra and Earring Set"] },
+              { "key": "Finish", "values": ["Textured"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Everyday", "Workwear"]
+              },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["7.82 g"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The Product Is Covered Under 30 Days Replacement Guarantee."
+                ]
+              },
+              { "key": "Sales Package", "values": ["1 Mangalsutra 2 Earrings"] }
+            ]
+          },
+          {
+            "id": "331e2cb280bdaeb1c8ac479ed8336bbc",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 669 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8342,
+            "price": 1179,
+            "sale": true,
+            "sale_price": 669,
+            "stock_keeping_unit": "JWSECG6Z6HEAHDC4",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/d/c/4/8907275273271-voylla-original-imae7zm5bpb8kayg.jpeg",
+                "filename": "8907275273271-voylla-original-imae7zm5bpb8kayg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/d/c/4/8907275273271-voylla-original-imae7zm5sbkhhpyk.jpeg",
+                "filename": "8907275273271-voylla-original-imae7zm5sbkhhpyk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/d/c/4/8907275273271-voylla-original-imae7zm5yzzghvjz.jpeg",
+                "filename": "8907275273271-voylla-original-imae7zm5yzzghvjz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Model Number", "values": ["8907275273271"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Mangalsutra and Earring Set"] },
+              { "key": "Finish", "values": ["Textured"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Everyday", "Workwear"]
+              },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["13.31 g"] },
+              {
+                "key": "Warranty Summary",
+                "values": [
+                  "The Product Is Covered Under 30 Days Replacement Guarantee."
+                ]
+              },
+              { "key": "Sales Package", "values": ["1 Mangalsutra 2 Earrings"] }
+            ]
+          },
+          {
+            "id": "aedecaefa91c85f8258c4833aa620be1",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 530 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4512,
+            "price": 1060,
+            "sale": false,
+            "sale_price": 530,
+            "stock_keeping_unit": "JWSDXV8PQAGRPUFH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/u/f/h/psjai24998-voylla-original-imadxw9fqcwcyrxf.jpeg",
+                "filename": "psjai24998-voylla-original-imadxw9fqcwcyrxf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/u/f/h/psjai24998-voylla-original-imadxw9fqcwcyrxf.jpeg",
+                "filename": "psjai24998-voylla-original-imadxw9fqcwcyrxf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/u/f/h/psjai24998-voylla-original-imadxw9fg3gk7vhz.jpeg",
+                "filename": "psjai24998-voylla-original-imadxw9fg3gk7vhz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/u/f/h/psjai24998-voylla-original-imadxw9fsztpvuky.jpeg",
+                "filename": "psjai24998-voylla-original-imadxw9fsztpvuky.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["PSJAI24998"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Mangalsutra and Earring Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["9.28 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Mangalsutra", "2 Earrings"]
+              }
+            ]
+          },
+          {
+            "id": "b9d5526738fcafa5137322d0795c7ad6",
+            "name": "Jewellery Sets",
+            "description": "Voylla Alloy Jewel Set - Buy Voylla Alloy Jewel Set only for Rs. 690 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8066,
+            "price": 1060,
+            "sale": false,
+            "sale_price": 690,
+            "stock_keeping_unit": "JWSDXV8PBMC5V9ZB",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/9/z/b/psjai25019-voylla-original-imadxw9ezywnw9bs.jpeg",
+                "filename": "psjai25019-voylla-original-imadxw9ezywnw9bs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/9/z/b/psjai25019-voylla-original-imadxw9ezywnw9bs.jpeg",
+                "filename": "psjai25019-voylla-original-imadxw9ezywnw9bs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/s/6/k/psjai25017-voylla-original-imadxw8vyhfkjdyb.jpeg",
+                "filename": "psjai25017-voylla-original-imadxw8vyhfkjdyb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/9/z/b/psjai25019-voylla-original-imadxw9efmjp5gme.jpeg",
+                "filename": "psjai25019-voylla-original-imadxw9efmjp5gme.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["Zircon"] },
+              { "key": "Model Number", "values": ["PSJAI25019"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Mangalsutra and Earring Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["12.95 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Mangalsutra", "2 Earrings"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "158bec5a6e522c4a247c7dd400ceb12fecfb0398"
+    },
+    {
+      "product": {
+        "id": "d3705465f123157716d95d185bbd351488480bc8",
+        "name": "Parv Collections Showpiece  -  9 cm",
+        "description": "Dummy description for product Parv Collections Showpiece  -  9 cm",
+        "manufacturer_id": "7862b7132797606371c2467733841521f38fc294",
+        "taric_code": "c5df31d7-df54-4f80-9a90-9f37f553249d",
+        "variants": [
+          {
+            "id": "87a1aaea1c0a29103aa215612fe3ea34",
+            "name": "Parv Collections Showpieces",
+            "description": "Parv Collections Showpiece  -  9 cm (Polyresin, Multicolor)\n                         Price: Rs. 730\n\t\t\t\t\n\t\t\tLady with A Guitar Statue\nLady with A Guitar Statue",
+            "stock_level": 7542,
+            "price": 1100,
+            "sale": false,
+            "sale_price": 730,
+            "stock_keeping_unit": "SHIE4THTCWNHTZXM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/z/x/m/plgr1-parv-collections-1100x1100-imae4qprykxfmcvz.jpeg",
+                "filename": "plgr1-parv-collections-1100x1100-imae4qprykxfmcvz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/z/x/m/plgr1-parv-collections-original-imae4qprykxfmcvz.jpeg",
+                "filename": "plgr1-parv-collections-original-imae4qprykxfmcvz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/z/x/m/plgr1-parv-collections-original-imae4qprn534kqud.jpeg",
+                "filename": "plgr1-parv-collections-original-imae4qprn534kqud.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Parv Collections"] },
+              { "key": "Model Number", "values": ["PLGR1"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Material", "values": ["Polyresin"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Height", "values": ["9 cm"] },
+              { "key": "Width", "values": ["5 cm"] },
+              { "key": "Depth", "values": ["9 cm"] },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Wall Mount", "values": ["No"] },
+              { "key": "Sales Package", "values": ["Showpiece"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "d3705465f123157716d95d185bbd351488480bc8"
+    },
+    {
+      "product": {
+        "id": "a743649770d9da695049dca547261bf87d9f5e87",
+        "name": "Jaunty Glass Bracelet Set",
+        "description": "Dummy description for product Jaunty Glass Bracelet Set",
+        "manufacturer_id": "d076661d6d88747b9964822dd05cf8d79d447d72",
+        "taric_code": "3b23a561-119f-4940-8851-4bf6896ab2cf",
+        "variants": [
+          {
+            "id": "df780d819660c96292fc21ec5d40d36c",
+            "name": "Bracelets",
+            "description": "Jaunty Glass Bracelet Set - Buy Jaunty Glass Bracelet Set only for Rs. 179 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2151,
+            "price": 255,
+            "sale": false,
+            "sale_price": 179,
+            "stock_keeping_unit": "BBAEC897YCBZPV8H",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/v/8/h/combo-17-2-5-jaunty-3-1100x1100-imaecyyrz9x4ezsw.jpeg",
+                "filename": "combo-17-2-5-jaunty-3-1100x1100-imaecyyrz9x4ezsw.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/v/8/h/combo-17-2-5-jaunty-3-original-imaecyyrz9x4ezsw.jpeg",
+                "filename": "combo-17-2-5-jaunty-3-original-imaecyyrz9x4ezsw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Jaunty"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["Combo-17"] },
+              { "key": "Type", "values": ["Bracelet Set"] },
+              { "key": "Bangle Size", "values": ["2-2"] },
+              { "key": "Model Name", "values": ["Bracelet Combo"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Girls"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Diameter", "values": ["2.5 inch"] },
+              { "key": "Base Material", "values": ["Glass"] },
+              { "key": "Pack of", "values": ["3"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": true,
+      "id": "a743649770d9da695049dca547261bf87d9f5e87"
+    },
+    {
+      "product": {
+        "id": "ee778f8e4b146e1860d54b8771f6bf396f7e3066",
+        "name": "Vendee Fashion Brass Jewel Set",
+        "description": "Dummy description for product Vendee Fashion Brass Jewel Set",
+        "manufacturer_id": "1cd5fda220587bcb5444664eefd5ad8c72d7f951",
+        "taric_code": "876b0147-1cee-40c6-9bca-570edd8c307d",
+        "variants": [
+          {
+            "id": "1b10bf08a7779a9175808ea289dee4aa",
+            "name": "Jewellery Sets",
+            "description": "Vendee Fashion Brass Jewel Set - Buy Vendee Fashion Brass Jewel Set only for Rs. 829 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2389,
+            "price": 1658,
+            "sale": false,
+            "sale_price": 829,
+            "stock_keeping_unit": "JWSEEBGDNZU5WBYY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/b/y/y/vd8636-vendee-fashion-original-imaeebdh2zxevkeb.jpeg",
+                "filename": "vd8636-vendee-fashion-original-imaeebdh2zxevkeb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/b/y/y/vd8636-vendee-fashion-original-imaeebdhsgwgyn4t.jpeg",
+                "filename": "vd8636-vendee-fashion-original-imaeebdhsgwgyn4t.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/b/y/y/vd8636-vendee-fashion-original-imaeebdhjcwggfyn.jpeg",
+                "filename": "vd8636-vendee-fashion-original-imaeebdhjcwggfyn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/b/y/y/vd8636-vendee-fashion-original-imaeebdhhfqfhuxw.jpeg",
+                "filename": "vd8636-vendee-fashion-original-imaeebdhhfqfhuxw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/b/y/y/vd8636-vendee-fashion-original-imaeebdhrnvxgymd.jpeg",
+                "filename": "vd8636-vendee-fashion-original-imaeebdhrnvxgymd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vendee Fashion"] },
+              { "key": "Model Number", "values": ["VD8636"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Religious"] },
+              { "key": "Color", "values": ["Brown"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "2 Earrings", "1 Maangtikka"]
+              },
+              { "key": "Certification", "values": ["Brand Certification"] }
+            ]
+          },
+          {
+            "id": "466ee100e42a64cf3a4b7e34e0fc3589",
+            "name": "Jewellery Sets",
+            "description": "Vendee Fashion Brass Jewel Set - Buy Vendee Fashion Brass Jewel Set only for Rs. 649 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3844,
+            "price": 1298,
+            "sale": false,
+            "sale_price": 649,
+            "stock_keeping_unit": "JWSEEBGDSHCAEQQF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/q/q/f/vd8637-vendee-fashion-original-imaeebdheywp5jv6.jpeg",
+                "filename": "vd8637-vendee-fashion-original-imaeebdheywp5jv6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/q/q/f/vd8637-vendee-fashion-original-imaeebdheywp5jv6.jpeg",
+                "filename": "vd8637-vendee-fashion-original-imaeebdheywp5jv6.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/q/q/f/vd8637-vendee-fashion-original-imaeebdhumgh3y4d.jpeg",
+                "filename": "vd8637-vendee-fashion-original-imaeebdhumgh3y4d.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/q/q/f/vd8637-vendee-fashion-original-imaeebdhgmybwjwm.jpeg",
+                "filename": "vd8637-vendee-fashion-original-imaeebdhgmybwjwm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/q/q/f/vd8637-vendee-fashion-original-imaeebdhqekqzxuk.jpeg",
+                "filename": "vd8637-vendee-fashion-original-imaeebdhqekqzxuk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/q/q/f/vd8637-vendee-fashion-original-imaeebdhhpqgjzkg.jpeg",
+                "filename": "vd8637-vendee-fashion-original-imaeebdhhpqgjzkg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vendee Fashion"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["VD8637"] },
+              {
+                "key": "Type",
+                "values": ["Necklace", "Earring and Maang Tikka Set"]
+              },
+              { "key": "Occasion", "values": ["Religious"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue", "Pink"] },
+              { "key": "Certification", "values": ["Brand Certification"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "2 Earrings", "1 Maangtikka"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "ee778f8e4b146e1860d54b8771f6bf396f7e3066"
+    },
+    {
+      "product": {
+        "id": "12664395820926ec4d9bee411fdeb0fa2becb580",
+        "name": "Parv Collections Showpiece  -  12 cm",
+        "description": "Dummy description for product Parv Collections Showpiece  -  12 cm",
+        "manufacturer_id": "7862b7132797606371c2467733841521f38fc294",
+        "taric_code": "fca4eb6b-3f96-4b13-893c-198e76f7470d",
+        "variants": [
+          {
+            "id": "aebf3a2172b33ef09acb472009967812",
+            "name": "Parv Collections Showpieces",
+            "description": "Parv Collections Showpiece  -  12 cm (Polyresin, Multicolor)\n                         Price: Rs. 1,085\n\t\t\t\t\n\t\t\tLovely Sitting Couple Statue\nLovely Sitting Couple Statue",
+            "stock_level": 6133,
+            "price": 1500,
+            "sale": true,
+            "sale_price": 1085,
+            "stock_keeping_unit": "SHIE4THT2KHHGU8H",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/u/8/h/pslcs1-parv-collections-1100x1100-imae4qprjcd3rpdx.jpeg",
+                "filename": "pslcs1-parv-collections-1100x1100-imae4qprjcd3rpdx.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/u/8/h/pslcs1-parv-collections-original-imae4qprjcd3rpdx.jpeg",
+                "filename": "pslcs1-parv-collections-original-imae4qprjcd3rpdx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Parv Collections"] },
+              { "key": "Model Number", "values": ["PSLCS1"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Material", "values": ["Polyresin"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Height", "values": ["12 cm"] },
+              { "key": "Width", "values": ["6 cm"] },
+              { "key": "Depth", "values": ["14 cm"] },
+              { "key": "Sales Package", "values": ["Showpiece"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Wall Mount", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": false,
+      "id": "12664395820926ec4d9bee411fdeb0fa2becb580"
+    },
+    {
+      "product": {
+        "id": "03d622d6d06cc287c6e5e31e2a2b98a56bb158f8",
+        "name": "Pearls India Leather Bracelet",
+        "description": "Dummy description for product Pearls India Leather Bracelet",
+        "manufacturer_id": "1e5ab1b4169c2a10adcdb96599064f99c7068776",
+        "taric_code": "ae29695d-65b7-4f0d-9274-240e153bd1b7",
+        "variants": [
+          {
+            "id": "d64bc059e5c8e0cb0007b29912d65b09",
+            "name": "Bracelets",
+            "description": "Pearls India Leather Bracelet - Buy Pearls India Leather Bracelet only for Rs. 475 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7783,
+            "price": 594,
+            "sale": false,
+            "sale_price": 475,
+            "stock_keeping_unit": "BBAEDVYSEN75YZZ7",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/z/z/7/1401774-2-pearls-india-1-original-imaedvsj9uw8fahs.jpeg",
+                "filename": "1401774-2-pearls-india-1-original-imaedvsj9uw8fahs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/z/z/7/1401774-2-pearls-india-1-original-imaedvsj9uw8fahs.jpeg",
+                "filename": "1401774-2-pearls-india-1-original-imaedvsj9uw8fahs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/z/z/7/1401774-2-pearls-india-1-original-imaedvsj9hbczghm.jpeg",
+                "filename": "1401774-2-pearls-india-1-original-imaedvsj9hbczghm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/z/z/7/1401774-2-pearls-india-1-original-imaedvshgrevuzhb.jpeg",
+                "filename": "1401774-2-pearls-india-1-original-imaedvshgrevuzhb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/z/z/7/1401774-2-pearls-india-1-original-imaedvsnzdmfxmfs.jpeg",
+                "filename": "1401774-2-pearls-india-1-original-imaedvsnzdmfxmfs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Silver Weight", "values": ["0 g"] },
+              { "key": "Brand", "values": ["Pearls India"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["1401774"] },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Bangle Size", "values": ["2"] },
+              { "key": "Model Name", "values": ["Amoeba"] },
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Diameter", "values": ["2 inch"] },
+              { "key": "Base Material", "values": ["Leather"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": false,
+      "id": "03d622d6d06cc287c6e5e31e2a2b98a56bb158f8"
+    },
+    {
+      "product": {
+        "id": "93a2dba3f3b56df63c7fab45b573b6eb4df3cdab",
+        "name": "Diviniti DG Royal Ornamental Size 4.5 Murgan Ji religious wall hanging Showpiece  -  30.5 cm",
+        "description": "Dummy description for product Diviniti DG Royal Ornamental Size 4.5 Murgan Ji religious wall hanging Showpiece  -  30.5 cm",
+        "manufacturer_id": "acc35026cf5a2f131ac1689243b8d8d601b7f41a",
+        "taric_code": "2025e5b3-186f-430f-837c-d88bdaa51d3f",
+        "variants": [
+          {
+            "id": "bd59f01525ff2fd65f81e0d6e8eb714e",
+            "name": "Diviniti Religious Idols",
+            "description": "Diviniti DG Royal Ornamental Size 4.5 Murgan Ji religious wall hanging Showpiece  -  30.5 cm (Glass, Gold)\n                         Price: Rs. 47,620\n\t\t\t\t\n\t\t\tFrom the house of Diviniti, we bring you double glass royale ornamental frames which are perfect accessories for your wall, desk etc.Set in double glass royale ornamental frames and embodied in Swiss Technology 24 carat gold plated foil, these are a definite buy for personal use or for gifting.\nFrom the house of Diviniti, we bring you double glass royale ornamental frames which are perfect accessories for your wall, desk etc.Set in double glass royale ornamental frames and embodied in Swiss Technology 24 carat gold plated foil, these are a definite buy for personal use or for gifting.",
+            "stock_level": 1582,
+            "price": 47620,
+            "sale": true,
+            "sale_price": 47620,
+            "stock_keeping_unit": "SHIEBBWHAJKSZDTG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/d/t/g/dg-ro-207-diviniti-1100x1100-imaebbhaxzp9mgaw.jpeg",
+                "filename": "dg-ro-207-diviniti-1100x1100-imaebbhaxzp9mgaw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/d/t/g/dg-ro-207-diviniti-original-imaebbhaxzp9mgaw.jpeg",
+                "filename": "dg-ro-207-diviniti-original-imaebbhaxzp9mgaw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Diviniti"] },
+              { "key": "Model Number", "values": ["DG RO 207"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "DG Royal Ornamental Size 4.5 Murgan Ji religious wall hanging"
+                ]
+              },
+              { "key": "Material", "values": ["Glass"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Height", "values": ["30.5 cm"] },
+              { "key": "Width", "values": ["23 cm"] },
+              { "key": "Depth", "values": ["2.5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "93a2dba3f3b56df63c7fab45b573b6eb4df3cdab"
+    },
+    {
+      "product": {
+        "id": "0ce0874ac05e288ecc667b50d734388e93f87dba",
+        "name": "Iron Crafts Creative Showpiece  -  21 cm",
+        "description": "Dummy description for product Iron Crafts Creative Showpiece  -  21 cm",
+        "manufacturer_id": "fe92de2a21852c878e35cbef19167beb04ee7260",
+        "taric_code": "f685a28f-43e3-44d9-874b-713b155780a1",
+        "variants": [
+          {
+            "id": "fb0ee6155e0b1a785a3b67bae3a5d3a6",
+            "name": "Iron Crafts Human Figurines",
+            "description": "Iron Crafts Creative Showpiece  -  21 cm (Iron, Steel)\n                         Price: Rs. 449\n\t\t\t\t\n\t\t\tShowpieces are the wonderful gift items that you can opt for your loved ones on any grand occasion or festival. The presence of a beautiful showpiece whether it is a cute love bird, an artistic flower vase or a candle stand will definitely add a special charm to the interior of your dear one���s home. Anyone will be enthralled to receive showpiece as gift. If your thinking to send unique showpiece as��gift\nShowpieces are the wonderful gift items that you can opt for your loved ones on any grand occasion or festival. The presence of a beautiful showpiece whether it is a cute love bird, an artistic flower vase or a candle stand will definitely add a special charm to the interior of your dear one���s home. Anyone will be enthralled to receive showpiece as gift. If your thinking to send unique showpiece as��gift",
+            "stock_level": 5989,
+            "price": 620,
+            "sale": true,
+            "sale_price": 449,
+            "stock_keeping_unit": "SHIE92XGJHG4HH5E",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/h/5/e/13-169-5-iron-crafts-original-imae8xff3w3hjdsf.jpeg",
+                "filename": "13-169-5-iron-crafts-original-imae8xff3w3hjdsf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/5/e/13-169-5-iron-crafts-original-imae8xff3w3hjdsf.jpeg",
+                "filename": "13-169-5-iron-crafts-original-imae8xff3w3hjdsf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/h/5/e/13-169-5-iron-crafts-original-imae8xffj2hj9r4y.jpeg",
+                "filename": "13-169-5-iron-crafts-original-imae8xffj2hj9r4y.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/5/e/13-169-5-iron-crafts-original-imae8xffe6mxgegs.jpeg",
+                "filename": "13-169-5-iron-crafts-original-imae8xffe6mxgegs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/5/e/13-169-5-iron-crafts-original-imae8xffez68uaaz.jpeg",
+                "filename": "13-169-5-iron-crafts-original-imae8xffez68uaaz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/5/e/13-169-5-iron-crafts-original-imae8xffnzjzpqr5.jpeg",
+                "filename": "13-169-5-iron-crafts-original-imae8xffnzjzpqr5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Iron Crafts"] },
+              { "key": "Model Number", "values": ["13-169-5"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Shade", "values": ["Metallic Grey"] },
+              { "key": "Material", "values": ["Iron"] },
+              { "key": "Model Name", "values": ["Creative"] },
+              { "key": "Color", "values": ["Steel"] },
+              { "key": "Weight", "values": ["290 g"] },
+              { "key": "Height", "values": ["21 cm"] },
+              { "key": "Width", "values": ["8 cm"] },
+              { "key": "Depth", "values": ["8 cm"] },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Wall Mount", "values": ["No"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "4b96e56908cb11d9404f770876939d71",
+            "name": "Iron Crafts Human Figurines",
+            "description": "Buy Iron Crafts Creative Showpiece  -  21 cm for Rs.449 online. Iron Crafts Creative Showpiece  -  21 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5205,
+            "price": 620,
+            "sale": true,
+            "sale_price": 449,
+            "stock_keeping_unit": "SHIE92XGZKYJ9GRN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/g/r/n/13-169-9-iron-crafts-original-imae8xffnepwx9rh.jpeg",
+                "filename": "13-169-9-iron-crafts-original-imae8xffnepwx9rh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/g/r/n/13-169-9-iron-crafts-original-imae8xffbeg6pzyz.jpeg",
+                "filename": "13-169-9-iron-crafts-original-imae8xffbeg6pzyz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/g/r/n/13-169-9-iron-crafts-original-imae8xffghy3fcnk.jpeg",
+                "filename": "13-169-9-iron-crafts-original-imae8xffghy3fcnk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/g/r/n/13-169-9-iron-crafts-original-imae8xffyej4mcaf.jpeg",
+                "filename": "13-169-9-iron-crafts-original-imae8xffyej4mcaf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/g/r/n/13-169-9-iron-crafts-original-imae8xffgvhzwxvf.jpeg",
+                "filename": "13-169-9-iron-crafts-original-imae8xffgvhzwxvf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Iron Crafts"] },
+              { "key": "Model Number", "values": ["13-169-9"] },
+              { "key": "Shade", "values": ["Metallic Grey"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Model Name", "values": ["Creative"] },
+              { "key": "Material", "values": ["Iron"] },
+              { "key": "Color", "values": ["Steel"] },
+              { "key": "Weight", "values": ["270 g"] },
+              { "key": "Height", "values": ["21 cm"] },
+              { "key": "Width", "values": ["8 cm"] },
+              { "key": "Depth", "values": ["8 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Wall Mount", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "844e168d74928410c76f49a1a96eec41541969a9" }
+      },
+      "active": true,
+      "id": "0ce0874ac05e288ecc667b50d734388e93f87dba"
+    },
+    {
+      "product": {
+        "id": "632cf284548a656dac80dc1b94749d7d6495b468",
+        "name": "Dev Jewellery Metal Yellow Gold Kada",
+        "description": "Dummy description for product Dev Jewellery Metal Yellow Gold Kada",
+        "manufacturer_id": "3d6882a612eaa243ada2be2362e3c72edc6f2669",
+        "taric_code": "125ffdd7-6f87-4912-945a-d33df96b15c0",
+        "variants": [
+          {
+            "id": "10c13e3858ac0e258b0dad29a11ea8d0",
+            "name": "Bracelets",
+            "description": "Dev Jewellery Metal Yellow Gold Kada - Buy Dev Jewellery Metal Yellow Gold Kada only for Rs. 349 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3832,
+            "price": 449,
+            "sale": false,
+            "sale_price": 349,
+            "stock_keeping_unit": "BBAEEBGMPBGA2GZU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/g/z/u/d60-2-5-dev-jewellery-1-original-imaeead7ptwnag3s.jpeg",
+                "filename": "d60-2-5-dev-jewellery-1-original-imaeead7ptwnag3s.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Dev Jewellery"] },
+              { "key": "Model Number", "values": ["d60"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Kada"] },
+              { "key": "Model Name", "values": ["Golden kada"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Ideal For", "values": ["Boys", "Men"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Silver Weight", "values": ["NA g"] },
+              { "key": "Diamond Shape", "values": ["Kadda"] },
+              { "key": "Diameter", "values": ["2.5 inch"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["Brand Certification"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": true,
+      "id": "632cf284548a656dac80dc1b94749d7d6495b468"
+    },
+    {
+      "product": {
+        "id": "159770b99c5c20573664a84728aceaf4c2f9a9ae",
+        "name": "Exotic India Adi Buddha Vajrasattva Showpiece  -  27.94 cm",
+        "description": "Dummy description for product Exotic India Adi Buddha Vajrasattva Showpiece  -  27.94 cm",
+        "manufacturer_id": "0268bd0da074a42250500f8f92d5b1c9b8a36dd3",
+        "taric_code": "c7ae8ca2-77d3-4438-9980-2843068fd626",
+        "variants": [
+          {
+            "id": "6ae332e2bafd23267caedfcc4453257c",
+            "name": "Exotic India Showpieces",
+            "description": "Buy Exotic India Adi Buddha Vajrasattva Showpiece  -  27.94 cm for Rs.21800 online. Exotic India Adi Buddha Vajrasattva Showpiece  -  27.94 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7037,
+            "price": 22525,
+            "sale": true,
+            "sale_price": 21800,
+            "stock_keeping_unit": "SHIE3QDHGXSE3PYE",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/p/y/e/rl40-exotic-india-original-imae3d2qkseygqgu.jpeg",
+                "filename": "rl40-exotic-india-original-imae3d2qkseygqgu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/p/y/e/rl40-exotic-india-original-imae3d2qkseygqgu.jpeg",
+                "filename": "rl40-exotic-india-original-imae3d2qkseygqgu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Exotic India"] },
+              { "key": "Model Number", "values": ["RL40"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Model Name", "values": ["Adi Buddha Vajrasattva"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Purpose", "values": ["Showpiece"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["2050 g"] },
+              { "key": "Height", "values": ["27.94 cm"] },
+              { "key": "Width", "values": ["18.288 cm"] },
+              { "key": "Depth", "values": ["11.43 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": false,
+      "id": "159770b99c5c20573664a84728aceaf4c2f9a9ae"
+    },
+    {
+      "product": {
+        "id": "209dde1578b80fdcd87f50bd361885784de29692",
+        "name": "Aapno Rajasthan Princess Design Showpiece  -  22 cm",
+        "description": "Dummy description for product Aapno Rajasthan Princess Design Showpiece  -  22 cm",
+        "manufacturer_id": "0b98e41c086ab4f30443c699bce6ec6ca2f3fef7",
+        "taric_code": "d4058258-4aea-4c27-a2d5-227d7320f235",
+        "variants": [
+          {
+            "id": "57800d48b001f3fad34a4f8fa9207f29",
+            "name": "Aapno Rajasthan Showpieces",
+            "description": "Buy Aapno Rajasthan Princess Design Showpiece  -  22 cm for Rs.999 online. Aapno Rajasthan Princess Design Showpiece  -  22 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5964,
+            "price": 2700,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "SHIE6YR3UCUF4D6Z",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/d/6/z/mar15367-aapno-rajasthan-original-imae6xz4ezxxbduh.jpeg",
+                "filename": "mar15367-aapno-rajasthan-original-imae6xz4ezxxbduh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/d/6/z/mar15367-aapno-rajasthan-original-imaee4p7eekyphqk.jpeg",
+                "filename": "mar15367-aapno-rajasthan-original-imaee4p7eekyphqk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Aapno Rajasthan"] },
+              { "key": "Model Number", "values": ["MAR15367"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Model Name", "values": ["Princess Design"] },
+              { "key": "Material", "values": ["Stoneware", "Wooden"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["450 g"] },
+              { "key": "Height", "values": ["22 cm"] },
+              { "key": "Width", "values": ["23 cm"] },
+              { "key": "Depth", "values": ["2 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Wall Mount", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "209dde1578b80fdcd87f50bd361885784de29692"
+    },
+    {
+      "product": {
+        "id": "49c70b1663fd1063157d0c76566afdd7f752c003",
+        "name": "Diviniti Dg Royal Ornamental Size 2.5 Murgan Religious Wall Hanging Showpiece  -  28 cm",
+        "description": "Dummy description for product Diviniti Dg Royal Ornamental Size 2.5 Murgan Religious Wall Hanging Showpiece  -  28 cm",
+        "manufacturer_id": "acc35026cf5a2f131ac1689243b8d8d601b7f41a",
+        "taric_code": "9ae6abd6-9f06-441b-a60f-ff063d3a4a1a",
+        "variants": [
+          {
+            "id": "58b5df249a8249d158c3b2f04b1b1095",
+            "name": "Diviniti Religious Idols",
+            "description": "Diviniti Dg Royal Ornamental Size 2.5 Murgan Religious Wall Hanging Showpiece  -  28 cm (Glass, Gold)\n                         Price: Rs. 5,140\n\t\t\t\t\n\t\t\tFrom the house of Diviniti, we bring you double glass royale ornamental frames which are perfect accessories for your wall, desk etc.Set in double glass royale ornamental frames and embodied in Swiss Technology 24 carat gold plated foil, these are a definite buy for personal use or for gifting.\nFrom the house of Diviniti, we bring you double glass royale ornamental frames which are perfect accessories for your wall, desk etc.Set in double glass royale ornamental frames and embodied in Swiss Technology 24 carat gold plated foil, these are a definite buy for personal use or for gifting.",
+            "stock_level": 7393,
+            "price": 5140,
+            "sale": false,
+            "sale_price": 5140,
+            "stock_keeping_unit": "SHIEBAXYS3FUTX8Z",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/x/8/z/dg-ro-112-diviniti-1100x1100-imaeb97jgcwgph9y.jpeg",
+                "filename": "dg-ro-112-diviniti-1100x1100-imaeb97jgcwgph9y.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/x/8/z/dg-ro-112-diviniti-original-imaeb97jgcwgph9y.jpeg",
+                "filename": "dg-ro-112-diviniti-original-imaeb97jgcwgph9y.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Diviniti"] },
+              { "key": "Model Number", "values": ["DG RO 112"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "Dg Royal Ornamental Size 2.5 Murgan Religious Wall Hanging"
+                ]
+              },
+              { "key": "Material", "values": ["Glass"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Height", "values": ["28 cm"] },
+              { "key": "Width", "values": ["23.5 cm"] },
+              { "key": "Depth", "values": ["2.5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "49c70b1663fd1063157d0c76566afdd7f752c003"
+    },
+    {
+      "product": {
+        "id": "630e2a585e504e3257abc07e2f38f7854b478e1d",
+        "name": "ARK Creation Baster Tribal Lady Showpiece  -  20 cm",
+        "description": "Dummy description for product ARK Creation Baster Tribal Lady Showpiece  -  20 cm",
+        "manufacturer_id": "f4fef069ef7816d00686e5f1df1579ddad50af99",
+        "taric_code": "7b484ac9-b165-4ade-9eb4-a07382388f3e",
+        "variants": [
+          {
+            "id": "8de5b14e6f1dc72a6c63ecc7291b8d78",
+            "name": "ARK Creation Human Figurines",
+            "description": "ARK Creation Baster Tribal Lady Showpiece  -  20 cm (Brass, Yellow, Copper)\n                         Price: Rs. 1,480\n\t\t\t\t\n\t\t\tArk Creation (A Unit Of Ark Estate Pvt. Ltd.) One Of India'S Most Prestigious Handicrafts Maker. We Have Selected National Award Winning Artist All Across India.We Use High Quality Of Material And Colors Which Don'T Have Any Side Effects. All Items Are Handmade. The Bastar District Specializes In The Preparation Of Items From The Dhokra Handicraft. This Process Calls For A Great Deal Of Precision And Skill. The Artifacts Prepared From Dhokra Technique Of This Art Use The Cow Dung, Paddy Husk And Red Soil In The Preparation, Beeswax Being The Most Important One. Apart From Contouring, Wax Wires Are Also Used For Decoration Purpose And For Giving A Finishing Touch To Artifacts. From The Bell Metal Handicraft Of Chhattisgarh In India, The Real Genius And Creative Faculty Of The Artisans Come Into Picture And Thus Make For Some Of The Most Wonderful Pieces Of Art.\nArk Creation (A Unit Of Ark Estate Pvt. Ltd.) One Of India'S Most Prestigious Handicrafts Maker. We Have Selected National Award Winning Artist All Across India.We Use High Quality Of Material And Colors Which Don'T Have Any Side Effects. All Items Are Handmade. The Bastar District Specializes In The Preparation Of Items From The Dhokra Handicraft. This Process Calls For A Great Deal Of Precision And Skill. The Artifacts Prepared From Dhokra Technique Of This Art Use The Cow Dung, Paddy Husk And Red Soil In The Preparation, Beeswax Being The Most Important One. Apart From Contouring, Wax Wires Are Also Used For Decoration Purpose And For Giving A Finishing Touch To Artifacts. From The Bell Metal Handicraft Of Chhattisgarh In India, The Real Genius And Creative Faculty Of The Artisans Come Into Picture And Thus Make For Some Of The Most Wonderful Pieces Of Art.",
+            "stock_level": 5902,
+            "price": 1800,
+            "sale": true,
+            "sale_price": 1480,
+            "stock_keeping_unit": "SHIE9YDH4WHHEXZH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/x/z/h/arkf-0009-ark-creation-1100x1100-imae9xhzyghfzyc5.jpeg",
+                "filename": "arkf-0009-ark-creation-1100x1100-imae9xhzyghfzyc5.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/x/z/h/arkf-0009-ark-creation-original-imae9xhzyghfzyc5.jpeg",
+                "filename": "arkf-0009-ark-creation-original-imae9xhzyghfzyc5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/x/z/h/arkf-0009-ark-creation-original-imae9xhpjnxhrzzy.jpeg",
+                "filename": "arkf-0009-ark-creation-original-imae9xhpjnxhrzzy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["ARK Creation"] },
+              { "key": "Model Number", "values": ["ARKF-0009"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Model Name", "values": ["Baster Tribal Lady"] },
+              { "key": "Color", "values": ["Yellow", "Copper"] },
+              { "key": "Weight", "values": ["460 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["7 cm"] },
+              { "key": "Depth", "values": ["5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "b74e2271a064802c85ab18e4a5b98f8a",
+            "name": "ARK Creation Human Figurines",
+            "description": "Buy ARK Creation Baster Tribal Lady Showpiece  -  20 cm for Rs.1480 online. ARK Creation Baster Tribal Lady Showpiece  -  20 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7868,
+            "price": 1800,
+            "sale": false,
+            "sale_price": 1480,
+            "stock_keeping_unit": "SHIE9YDJP6JVWDFK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/d/f/k/arkf-0012-ark-creation-1100x1100-imae9xhrtyqcwzeq.jpeg",
+                "filename": "arkf-0012-ark-creation-1100x1100-imae9xhrtyqcwzeq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/d/f/k/arkf-0012-ark-creation-original-imae9xhrtyqcwzeq.jpeg",
+                "filename": "arkf-0012-ark-creation-original-imae9xhrtyqcwzeq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/d/f/k/arkf-0012-ark-creation-original-imae9xhsycer9ztp.jpeg",
+                "filename": "arkf-0012-ark-creation-original-imae9xhsycer9ztp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["ARK Creation"] },
+              { "key": "Model Number", "values": ["ARKF-0012"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Model Name", "values": ["Baster Tribal Lady"] },
+              { "key": "Color", "values": ["Yellow", "Copper"] },
+              { "key": "Weight", "values": ["480 g"] },
+              { "key": "Height", "values": ["20 cm"] },
+              { "key": "Width", "values": ["6 cm"] },
+              { "key": "Depth", "values": ["5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "844e168d74928410c76f49a1a96eec41541969a9" }
+      },
+      "active": true,
+      "id": "630e2a585e504e3257abc07e2f38f7854b478e1d"
+    },
+    {
+      "product": {
+        "id": "ea6dda3901736495aba27c297472791f851491ac",
+        "name": "Shri Shyam Baba Jewellers Alloy Jewel Set",
+        "description": "Dummy description for product Shri Shyam Baba Jewellers Alloy Jewel Set",
+        "manufacturer_id": "620c5188177bd71b17fb7c20c79768a6860a9b1d",
+        "taric_code": "090a0a73-8f0f-45a9-a0fd-9bf366da23fe",
+        "variants": [
+          {
+            "id": "59167d35040ed844d7d31cafaae32660",
+            "name": "Jewellery Sets",
+            "description": "Shri Shyam Baba Jewellers Alloy Jewel Set - Buy Shri Shyam Baba Jewellers Alloy Jewel Set only for Rs. 795 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3651,
+            "price": 1590,
+            "sale": false,
+            "sale_price": 795,
+            "stock_keeping_unit": "JWSDYFUFNYBSDY6B",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/y/6/b/ssbj-pk-49-shri-shyam-baba-jewellers-original-imadyfvzyfzcktpg.jpeg",
+                "filename": "ssbj-pk-49-shri-shyam-baba-jewellers-original-imadyfvzyfzcktpg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/y/6/b/ssbj-pk-49-shri-shyam-baba-jewellers-original-imadyfvzyfzcktpg.jpeg",
+                "filename": "ssbj-pk-49-shri-shyam-baba-jewellers-original-imadyfvzyfzcktpg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Shri Shyam Baba Jewellers"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["ssbj-pk-49"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Certification", "values": ["Brand Certification"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "ea6dda3901736495aba27c297472791f851491ac"
+    },
+    {
+      "product": {
+        "id": "618a69f968dc2d089d6505f0e82fe4f368a8990e",
+        "name": "Exotic India Vaishnava Symbols - Shankha And Chakra Showpiece  -  37 cm",
+        "description": "Dummy description for product Exotic India Vaishnava Symbols - Shankha And Chakra Showpiece  -  37 cm",
+        "manufacturer_id": "0268bd0da074a42250500f8f92d5b1c9b8a36dd3",
+        "taric_code": "cfbeceb2-946e-4d6b-a858-5d507e06cb03",
+        "variants": [
+          {
+            "id": "d1e18b4a3aafb0040da2111c8b8ce2e5",
+            "name": "Exotic India Showpieces",
+            "description": "Buy Exotic India Vaishnava Symbols - Shankha And Chakra Showpiece  -  37 cm for Rs.6655 online. Exotic India Vaishnava Symbols - Shankha And Chakra Showpiece  -  37 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6675,
+            "price": 6875,
+            "sale": false,
+            "sale_price": 6655,
+            "stock_keeping_unit": "SHIE6G82KNDJUCAQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/c/a/q/exo-zai93-exotic-india-original-imae6chdmezgte3v.jpeg",
+                "filename": "exo-zai93-exotic-india-original-imae6chdmezgte3v.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/c/a/q/exo-zai93-exotic-india-original-imae6chdmezgte3v.jpeg",
+                "filename": "exo-zai93-exotic-india-original-imae6chdmezgte3v.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/c/a/q/exo-zai93-exotic-india-original-imae6chdzauyxw5d.jpeg",
+                "filename": "exo-zai93-exotic-india-original-imae6chdzauyxw5d.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Exotic India"] },
+              { "key": "Model Number", "values": ["EXO_ZAI93"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Material", "values": ["Copper"] },
+              {
+                "key": "Model Name",
+                "values": ["Vaishnava Symbols - Shankha And Chakra"]
+              },
+              { "key": "Color", "values": ["Copper"] },
+              { "key": "Weight", "values": ["316 g"] },
+              { "key": "Height", "values": ["37 cm"] },
+              { "key": "Width", "values": ["19 cm"] },
+              { "key": "Depth", "values": ["6 cm"] },
+              { "key": "Sales Package", "values": ["2 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": false,
+      "id": "618a69f968dc2d089d6505f0e82fe4f368a8990e"
+    },
+    {
+      "product": {
+        "id": "e2647bf238eb672af3c48dd0d39706ca3b09ca12",
+        "name": "Mrignayaneei Alloy, Metal Crystal Bangle Set",
+        "description": "Dummy description for product Mrignayaneei Alloy, Metal Crystal Bangle Set",
+        "manufacturer_id": "867e2bb3ac038898035729f0c1c725f91066a6bd",
+        "taric_code": "378b7f18-37bf-442d-a96e-906ccbc7b0a8",
+        "variants": [
+          {
+            "id": "99b6874de9147175aa27745634e3b909",
+            "name": "Bracelets",
+            "description": "Mrignayaneei Alloy, Metal Crystal Bangle Set - Buy Mrignayaneei Alloy, Metal Crystal Bangle Set only for Rs. 459 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4011,
+            "price": 649,
+            "sale": true,
+            "sale_price": 459,
+            "stock_keeping_unit": "BBAECH863BHGQGC6",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/g/c/6/kunpnk-2-4-mrignayaneei-2-original-imaeckyfra4ujzu8.jpeg",
+                "filename": "kunpnk-2-4-mrignayaneei-2-original-imaeckyfra4ujzu8.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/g/c/6/kunpnk-2-4-mrignayaneei-2-original-imaeckyfra4ujzu8.jpeg",
+                "filename": "kunpnk-2-4-mrignayaneei-2-original-imaeckyfra4ujzu8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/g/c/6/kunpnk-2-4-mrignayaneei-2-original-imaecjywm76xvhev.jpeg",
+                "filename": "kunpnk-2-4-mrignayaneei-2-original-imaecjywm76xvhev.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/g/c/6/kunpnk-2-4-mrignayaneei-2-original-imaeckygfzpurv86.jpeg",
+                "filename": "kunpnk-2-4-mrignayaneei-2-original-imaeckygfzpurv86.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/g/c/6/kunpnk-2-4-mrignayaneei-2-original-imaeckyhdgwwy9kc.jpeg",
+                "filename": "kunpnk-2-4-mrignayaneei-2-original-imaeckyhdgwwy9kc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Mrignayaneei"] },
+              { "key": "Collection", "values": ["Cocktail"] },
+              { "key": "Model Number", "values": ["kunpnk"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Bangle Set"] },
+              { "key": "Model Name", "values": ["Kunpnk"] },
+              { "key": "Bangle Size", "values": ["2-4"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Love"]
+              },
+              { "key": "Color", "values": ["Pink", "Gold"] },
+              { "key": "Diameter", "values": ["2.4 inch"] },
+              { "key": "Base Material", "values": ["Alloy", "Metal"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": false,
+      "id": "e2647bf238eb672af3c48dd0d39706ca3b09ca12"
+    },
+    {
+      "product": {
+        "id": "7edddcac402666d3277b4b647732c13b46786ede",
+        "name": "Vidhya Kangan Brass Jewel Set",
+        "description": "Dummy description for product Vidhya Kangan Brass Jewel Set",
+        "manufacturer_id": "9cd6c710e48f56829ec93fc607612bb45af2171d",
+        "taric_code": "6daf6803-f455-45a4-aa04-90982061200c",
+        "variants": [
+          {
+            "id": "82445dfb08004873c3188ac054f74ed4",
+            "name": "Jewellery Sets",
+            "description": "Vidhya Kangan Brass Jewel Set - Buy Vidhya Kangan Brass Jewel Set only for Rs. 800 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2050,
+            "price": 1600,
+            "sale": true,
+            "sale_price": 800,
+            "stock_keeping_unit": "JWSEBCY4HDWGJZBT",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/z/b/t/nec843-vidhya-kangan-original-imaeb5v8hhafpwze.jpeg",
+                "filename": "nec843-vidhya-kangan-original-imaeb5v8hhafpwze.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/z/b/t/nec843-vidhya-kangan-original-imaeb5v8hhafpwze.jpeg",
+                "filename": "nec843-vidhya-kangan-original-imaeb5v8hhafpwze.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/z/b/t/nec843-vidhya-kangan-original-imaeb5v8ps3dknfh.jpeg",
+                "filename": "nec843-vidhya-kangan-original-imaeb5v8ps3dknfh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vidhya Kangan"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["nec843"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Weight", "values": ["50 g"] },
+              { "key": "Sales Package", "values": ["2 Earing", "1 Necklace"] }
+            ]
+          },
+          {
+            "id": "15f07df4ba581a30df19f4a80725af16",
+            "name": "Jewellery Sets",
+            "description": "Vidhya Kangan Brass Jewel Set - Buy Vidhya Kangan Brass Jewel Set only for Rs. 800 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1306,
+            "price": 1600,
+            "sale": true,
+            "sale_price": 800,
+            "stock_keeping_unit": "JWSEBCY4ZD93RF39",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/f/3/9/nec924-vidhya-kangan-original-imaeb72xhezqpchd.jpeg",
+                "filename": "nec924-vidhya-kangan-original-imaeb72xhezqpchd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/f/3/9/nec924-vidhya-kangan-original-imaeb72yyra2kc3q.jpeg",
+                "filename": "nec924-vidhya-kangan-original-imaeb72yyra2kc3q.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vidhya Kangan"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["nec924"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Turquoise"] },
+              { "key": "Weight", "values": ["50 g"] },
+              { "key": "Sales Package", "values": ["2 Earing", "1 Necklace"] }
+            ]
+          },
+          {
+            "id": "6bf704ce9f8383aae4281f5f478add04",
+            "name": "Jewellery Sets",
+            "description": "Vidhya Kangan Brass Jewel Set - Buy Vidhya Kangan Brass Jewel Set only for Rs. 500 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2307,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 500,
+            "stock_keeping_unit": "JWSEBCY4TGWWVQHH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/q/h/h/nec744-vidhya-kangan-original-imaeb5srdbcgw6fy.jpeg",
+                "filename": "nec744-vidhya-kangan-original-imaeb5srdbcgw6fy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/q/h/h/nec744-vidhya-kangan-original-imaeb5srdbcgw6fy.jpeg",
+                "filename": "nec744-vidhya-kangan-original-imaeb5srdbcgw6fy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/q/h/h/nec744-vidhya-kangan-original-imaeb5ssyhzgtuhb.jpeg",
+                "filename": "nec744-vidhya-kangan-original-imaeb5ssyhzgtuhb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vidhya Kangan"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Model Number", "values": ["nec744"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Weight", "values": ["50 g"] },
+              { "key": "Sales Package", "values": ["2 Earing", "1 Necklace"] }
+            ]
+          },
+          {
+            "id": "650d54d97e66a80993a9893508d10069",
+            "name": "Jewellery Sets",
+            "description": "Vidhya Kangan Brass Jewel Set - Buy Vidhya Kangan Brass Jewel Set only for Rs. 800 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4917,
+            "price": 1600,
+            "sale": false,
+            "sale_price": 800,
+            "stock_keeping_unit": "JWSEBCY4HHXYGZJG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/z/j/g/nec824-vidhya-kangan-original-imaeb5uryznrvgve.jpeg",
+                "filename": "nec824-vidhya-kangan-original-imaeb5uryznrvgve.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/z/j/g/nec824-vidhya-kangan-original-imaeb5uryznrvgve.jpeg",
+                "filename": "nec824-vidhya-kangan-original-imaeb5uryznrvgve.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/z/j/g/nec824-vidhya-kangan-original-imaeb5urnngwhvbt.jpeg",
+                "filename": "nec824-vidhya-kangan-original-imaeb5urnngwhvbt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vidhya Kangan"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Model Number", "values": ["nec824"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Weight", "values": ["50 g"] },
+              { "key": "Sales Package", "values": ["2 Earing", "1 Necklace"] }
+            ]
+          },
+          {
+            "id": "4da1e0d96d6276bef4d8d6efe9500181",
+            "name": "Jewellery Sets",
+            "description": "Vidhya Kangan Brass Jewel Set - Buy Vidhya Kangan Brass Jewel Set only for Rs. 800 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7737,
+            "price": 1600,
+            "sale": false,
+            "sale_price": 800,
+            "stock_keeping_unit": "JWSEBCY4FAPWRMWH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/m/w/h/nec903-vidhya-kangan-original-imaeb5xdsgcp6zzy.jpeg",
+                "filename": "nec903-vidhya-kangan-original-imaeb5xdsgcp6zzy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/m/w/h/nec903-vidhya-kangan-original-imaeb5xdr98y4r3m.jpeg",
+                "filename": "nec903-vidhya-kangan-original-imaeb5xdr98y4r3m.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vidhya Kangan"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["nec903"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Weight", "values": ["50 g"] },
+              { "key": "Sales Package", "values": ["2 Earing", "1 Necklace"] }
+            ]
+          },
+          {
+            "id": "32ce17883fafb9aff234e303492db2be",
+            "name": "Jewellery Sets",
+            "description": "Vidhya Kangan Brass Jewel Set - Buy Vidhya Kangan Brass Jewel Set only for Rs. 500 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5496,
+            "price": 1000,
+            "sale": true,
+            "sale_price": 500,
+            "stock_keeping_unit": "JWSEBCY4GYKNFS6Q",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/s/6/q/nec746-vidhya-kangan-original-imaeb5stqbwxqznq.jpeg",
+                "filename": "nec746-vidhya-kangan-original-imaeb5stqbwxqznq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/s/6/q/nec746-vidhya-kangan-original-imaeb5stjgmveajv.jpeg",
+                "filename": "nec746-vidhya-kangan-original-imaeb5stjgmveajv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vidhya Kangan"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["nec746"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Weight", "values": ["50 g"] },
+              { "key": "Sales Package", "values": ["2 Earing", "1 Necklace"] }
+            ]
+          },
+          {
+            "id": "ef2e8539bd441ff06f9aa35946b522d5",
+            "name": "Jewellery Sets",
+            "description": "Vidhya Kangan Brass Jewel Set - Buy Vidhya Kangan Brass Jewel Set only for Rs. 600 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2977,
+            "price": 1200,
+            "sale": false,
+            "sale_price": 600,
+            "stock_keeping_unit": "JWSEBCY4TPG6GJN3",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/j/n/3/nec963-vidhya-kangan-original-imaeb73x2czfgaxh.jpeg",
+                "filename": "nec963-vidhya-kangan-original-imaeb73x2czfgaxh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/j/n/3/nec963-vidhya-kangan-original-imaeb73yytdxfukg.jpeg",
+                "filename": "nec963-vidhya-kangan-original-imaeb73yytdxfukg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Vidhya Kangan"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["nec963"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Love"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Weight", "values": ["50 g"] },
+              { "key": "Sales Package", "values": ["2 Earing", "1 Necklace"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "7edddcac402666d3277b4b647732c13b46786ede"
+    },
+    {
+      "product": {
+        "id": "d7568092e2d77992434883e1ad28575d54feb641",
+        "name": "Ayesha Copper Cuff",
+        "description": "Dummy description for product Ayesha Copper Cuff",
+        "manufacturer_id": "7c7433c7e66f734e255aee54187a3d77e5ac075a",
+        "taric_code": "838686ed-438a-4a60-926a-e91c31513f00",
+        "variants": [
+          {
+            "id": "3c59909be38b4337e3596e0aee7b7dc3",
+            "name": "Bracelets",
+            "description": "Ayesha Copper Cuff - Buy Ayesha Copper Cuff only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3392,
+            "price": 598,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "BBAECKHYXGE3VJXB",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/j/x/b/39-free-ayeshu-1-original-imaeck6srk2ztbzg.jpeg",
+                "filename": "39-free-ayeshu-1-original-imaeck6srk2ztbzg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/j/x/b/39-free-ayeshu-1-original-imaeck6snysnzzrf.jpeg",
+                "filename": "39-free-ayeshu-1-original-imaeck6snysnzzrf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Ayesha"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["39"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Cuff"] },
+              { "key": "Model Name", "values": ["Brass"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Diameter", "values": ["Free Inch"] },
+              { "key": "Base Material", "values": ["Copper"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": true,
+      "id": "d7568092e2d77992434883e1ad28575d54feb641"
+    },
+    {
+      "product": {
+        "id": "931fc9ca7b3be5b2c8d99f38b8386f90f0a1abc6",
+        "name": "Paras Purple Beautyfullady Flower Pot Showpiece  -  70 cm",
+        "description": "Dummy description for product Paras Purple Beautyfullady Flower Pot Showpiece  -  70 cm",
+        "manufacturer_id": "31343e2efcb05186141b28f6795b81a8f4a74e20",
+        "taric_code": "4e48590d-b38e-4f59-ad6e-3393ba072c4d",
+        "variants": [
+          {
+            "id": "9405e159b25bb22ea0aafd62d1a46f70",
+            "name": "Paras Human Figurines",
+            "description": "Paras Purple Beautyfullady Flower Pot Showpiece  -  70 cm (Polyresin, Multicolor)\n                         Price: Rs. 1,958\n\t\t\t\t\n\t\t\tThis Is Very Beaurtiful Purple Lady Flower Pot. This Is Made With Good Quality Material.\nThis Is Very Beaurtiful Purple Lady Flower Pot. This Is Made With Good Quality Material.",
+            "stock_level": 1549,
+            "price": 2175,
+            "sale": false,
+            "sale_price": 1958,
+            "stock_keeping_unit": "SHIE853ADDAHYSFQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/s/f/q/sf304-paras-original-imae84xxtnuevwhg.jpeg",
+                "filename": "sf304-paras-original-imae84xxtnuevwhg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Paras"] },
+              { "key": "Model Number", "values": ["SF304"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Material", "values": ["Polyresin"] },
+              {
+                "key": "Model Name",
+                "values": ["Purple Beautyfullady Flower Pot"]
+              },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["1500 g"] },
+              { "key": "Height", "values": ["70 cm"] },
+              { "key": "Width", "values": ["32 cm"] },
+              { "key": "Depth", "values": ["15 cm"] },
+              { "key": "Other Features", "values": ["Strong and Durable"] },
+              { "key": "Wall Mount", "values": ["No"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "844e168d74928410c76f49a1a96eec41541969a9" }
+      },
+      "active": true,
+      "id": "931fc9ca7b3be5b2c8d99f38b8386f90f0a1abc6"
+    },
+    {
+      "product": {
+        "id": "57daf29532e04b3871a2c0c4df40026bf29e47a3",
+        "name": "Diviniti DG Royal Ornamental Size 4 Ganesha religious wall hanging Showpiece  -  30.5 cm",
+        "description": "Dummy description for product Diviniti DG Royal Ornamental Size 4 Ganesha religious wall hanging Showpiece  -  30.5 cm",
+        "manufacturer_id": "acc35026cf5a2f131ac1689243b8d8d601b7f41a",
+        "taric_code": "932bbaf1-be53-447e-8fd7-d5d90ecb3079",
+        "variants": [
+          {
+            "id": "1174ac90ba61b2803a3f5bf84af8e72b",
+            "name": "Diviniti Religious Idols",
+            "description": "Diviniti DG Royal Ornamental Size 4 Ganesha religious wall hanging Showpiece  -  30.5 cm (Glass, Gold)\n                         Price: Rs. 17,460\n\t\t\t\t\n\t\t\tFrom The House Of Diviniti, We Bring You Double Glass Royale Ornamental Frames Which Are Perfect Accessories For Your Wall, Desk Etc.Set In Double Glass Royale Ornamental Frames And Embodied In Swiss Technology 24 Carat Gold Plated Foil, These Are A Definite Buy For Personal Use Or For Gifting.\nFrom The House Of Diviniti, We Bring You Double Glass Royale Ornamental Frames Which Are Perfect Accessories For Your Wall, Desk Etc.Set In Double Glass Royale Ornamental Frames And Embodied In Swiss Technology 24 Carat Gold Plated Foil, These Are A Definite Buy For Personal Use Or For Gifting.",
+            "stock_level": 4001,
+            "price": 17460,
+            "sale": false,
+            "sale_price": 17460,
+            "stock_keeping_unit": "SHIEBBWHWEV8TZDS",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/z/d/s/dg-ro-165-diviniti-1100x1100-imaebbhaktyx7gp5.jpeg",
+                "filename": "dg-ro-165-diviniti-1100x1100-imaebbhaktyx7gp5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/z/d/s/dg-ro-165-diviniti-original-imaebbhaktyx7gp5.jpeg",
+                "filename": "dg-ro-165-diviniti-original-imaebbhaktyx7gp5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Diviniti"] },
+              { "key": "Model Number", "values": ["DG RO 165"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "DG Royal Ornamental Size 4 Ganesha religious wall hanging"
+                ]
+              },
+              { "key": "Material", "values": ["Glass"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Height", "values": ["30.5 cm"] },
+              { "key": "Width", "values": ["23 cm"] },
+              { "key": "Depth", "values": ["2.5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "57daf29532e04b3871a2c0c4df40026bf29e47a3"
+    },
+    {
+      "product": {
+        "id": "cb632f88a3360c4e975d7a511572173892cf6c94",
+        "name": "BGS Alloy Cuff",
+        "description": "Dummy description for product BGS Alloy Cuff",
+        "manufacturer_id": "52320c03d7e5cf67a8984c3c2056d88f62d03e28",
+        "taric_code": "335ef559-b889-4262-ae6d-8977931574c7",
+        "variants": [
+          {
+            "id": "2b45928316cd8f7c845a72b5a0e4d8f6",
+            "name": "Bracelets",
+            "description": "BGS Alloy Cuff - Buy BGS Alloy Cuff only for Rs. 473 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7085,
+            "price": 675,
+            "sale": false,
+            "sale_price": 473,
+            "stock_keeping_unit": "BBAE9ZSFDZ5JEFGA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/f/g/a/8000341-free-size-bgs-1-1100x1100-imae9pygzmgv5fde.jpeg",
+                "filename": "8000341-free-size-bgs-1-1100x1100-imae9pygzmgv5fde.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/f/g/a/8000341-free-size-bgs-1-original-imae9pygzmgv5fde.jpeg",
+                "filename": "8000341-free-size-bgs-1-original-imae9pygzmgv5fde.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/f/g/a/8000341-free-size-bgs-1-original-imae9pygp5z4haz9.jpeg",
+                "filename": "8000341-free-size-bgs-1-original-imae9pygp5z4haz9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/f/g/a/8000341-free-size-bgs-1-original-imae9pygjjc43psj.jpeg",
+                "filename": "8000341-free-size-bgs-1-original-imae9pygjjc43psj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Stretchable", "values": ["No"] },
+              { "key": "Clasp", "values": ["Lobster Claw"] },
+              { "key": "Adjustable Length", "values": ["Yes"] },
+              { "key": "Tags/Charms Attachable", "values": ["Yes"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["BGS"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["8000341"] },
+              { "key": "Type", "values": ["Cuff"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Model Name", "values": ["Style Diva"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Diameter", "values": ["Free Size"] },
+              { "key": "Weight", "values": ["72 g"] },
+              { "key": "Width", "values": ["76.19999999999999 mm"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Sales Package", "values": ["1 Cuff"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "9c23c264ee1aa8404ec552430f85ccbc",
+            "name": "Bracelets",
+            "description": "BGS Alloy Cuff\n                         Price: Rs. 350\n\t\t\t\t\n\t\t\tBGS Style Diva Brown & Beige Bracelet For Women\nBGS Style Diva Brown & Beige Bracelet For Women",
+            "stock_level": 3656,
+            "price": 499,
+            "sale": false,
+            "sale_price": 350,
+            "stock_keeping_unit": "BBAEY9YKJHHPGZCE",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/z/c/e/1016614-free-size-bgs-1-original-imaeyrjd6g8ntyka.jpeg",
+                "filename": "1016614-free-size-bgs-1-original-imaeyrjd6g8ntyka.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/z/c/e/1016614-free-size-bgs-1-original-imaeyrjd6g8ntyka.jpeg",
+                "filename": "1016614-free-size-bgs-1-original-imaeyrjd6g8ntyka.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Stretchable", "values": ["No"] },
+              { "key": "Adjustable Length", "values": ["Yes"] },
+              { "key": "Brand", "values": ["BGS"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["1016614"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Cuff"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday", "Workwear"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Diameter", "values": ["Free Size"] },
+              { "key": "Weight", "values": ["145 g"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Sales Package", "values": ["1 Cuff"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": false,
+      "id": "cb632f88a3360c4e975d7a511572173892cf6c94"
+    },
+    {
+      "product": {
+        "id": "55bc4e5ae921ebb03ca877bb3354292b48379db9",
+        "name": "Right Florist Showpiece  -  11 cm",
+        "description": "Dummy description for product Right Florist Showpiece  -  11 cm",
+        "manufacturer_id": "17b2d51c9f2eff5196c07ca4bd932b71179a1614",
+        "taric_code": "ec4121b3-24be-4c6e-808e-3e69ea6e2e1b",
+        "variants": [
+          {
+            "id": "989179da5145c14335afdf89ceb90f62",
+            "name": "Right Florist Showpieces",
+            "description": "Buy Right Florist Showpiece  -  11 cm for Rs.520 online. Right Florist Showpiece  -  11 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7944,
+            "price": 520,
+            "sale": false,
+            "sale_price": 520,
+            "stock_keeping_unit": "SHIE4GFNDBQTUBTU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/b/t/u/bi604421a-right-florist-original-imae4hwqacsenbfe.jpeg",
+                "filename": "bi604421a-right-florist-original-imae4hwqacsenbfe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Right Florist"] },
+              { "key": "Model Number", "values": ["BI604421A"] },
+              { "key": "Type", "values": ["Couples"] },
+              { "key": "Material", "values": ["Microfibre"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Height", "values": ["11 cm"] },
+              { "key": "Width", "values": ["9.5 cm"] },
+              { "key": "Depth", "values": ["2 cm"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Love Couple Seated In A Heart Showpiece"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "55bc4e5ae921ebb03ca877bb3354292b48379db9"
+    },
+    {
+      "product": {
+        "id": "25451d6b14dce5a3dc72d0ec1c7325fe99cb03af",
+        "name": "Exotic India Relaxing Ganesha Showpiece  -  11.43 cm",
+        "description": "Dummy description for product Exotic India Relaxing Ganesha Showpiece  -  11.43 cm",
+        "manufacturer_id": "0268bd0da074a42250500f8f92d5b1c9b8a36dd3",
+        "taric_code": "85ced280-2ebb-465f-a0c6-f569c14b8c9c",
+        "variants": [
+          {
+            "id": "46e6853da6b0c796b7a0d8203ceaa88e",
+            "name": "Exotic India Showpieces",
+            "description": "Buy Exotic India Relaxing Ganesha Showpiece  -  11.43 cm for Rs.10890 online. Exotic India Relaxing Ganesha Showpiece  -  11.43 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1018,
+            "price": 11250,
+            "sale": false,
+            "sale_price": 10890,
+            "stock_keeping_unit": "SHIE3QDHDTF4BMK4",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/m/k/4/zao99-exotic-india-original-imae3d2qjccxnhmh.jpeg",
+                "filename": "zao99-exotic-india-original-imae3d2qjccxnhmh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/m/k/4/zao99-exotic-india-original-imae3d2qjccxnhmh.jpeg",
+                "filename": "zao99-exotic-india-original-imae3d2qjccxnhmh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Exotic India"] },
+              { "key": "Model Number", "values": ["ZAO99"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Model Name", "values": ["Relaxing Ganesha"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Purpose", "values": ["Showpiece"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": ["1000 g"] },
+              { "key": "Height", "values": ["11.43 cm"] },
+              { "key": "Width", "values": ["12.7 cm"] },
+              { "key": "Depth", "values": ["6.8580000000000005 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "25451d6b14dce5a3dc72d0ec1c7325fe99cb03af"
+    },
+    {
+      "product": {
+        "id": "5e5468466b98e05843c5ba25bef1c379707675a9",
+        "name": "Voylla Sterling Silver Bracelet",
+        "description": "Dummy description for product Voylla Sterling Silver Bracelet",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "ddbed742-952b-4ade-890d-084c3c2713cf",
+        "variants": [
+          {
+            "id": "fa45cc2713d5b5d23b6dfde02d461257",
+            "name": "Bracelets",
+            "description": "Voylla Sterling Silver Bracelet - Buy Voylla Sterling Silver Bracelet only for Rs. 489 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4439,
+            "price": 690,
+            "sale": false,
+            "sale_price": 489,
+            "stock_keeping_unit": "BBADVC3FTSDUUQD2",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/q/d/2/russe21202-free-size-voylla-1-original-imadv9zpevzdpjas.jpeg",
+                "filename": "russe21202-free-size-voylla-1-original-imadv9zpevzdpjas.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/q/d/2/russe21202-free-size-voylla-1-original-imadv9zpevzdpjas.jpeg",
+                "filename": "russe21202-free-size-voylla-1-original-imadv9zpevzdpjas.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/q/d/2/russe21202-free-size-voylla-1-original-imadv9zpkwfytuca.jpeg",
+                "filename": "russe21202-free-size-voylla-1-original-imadv9zpkwfytuca.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Stretchable", "values": ["No"] },
+              { "key": "Adjustable Length", "values": ["Yes"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["RUSSE21202"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Copper", "Silver"] },
+              { "key": "Diameter", "values": ["Free Size"] },
+              { "key": "Base Material", "values": ["Sterling Silver"] },
+              { "key": "Sales Package", "values": ["1 Bracelet"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": false,
+      "id": "5e5468466b98e05843c5ba25bef1c379707675a9"
+    },
+    {
+      "product": {
+        "id": "b337b3e8c64f15162a5dfd1a968f2307b1ffe947",
+        "name": "Snug Hug Jute Chew Toy For Dog",
+        "description": "Dummy description for product Snug Hug Jute Chew Toy For Dog",
+        "manufacturer_id": "242c7399388436c5e74ac42c251f23214475dc6d",
+        "taric_code": "3856e58e-2fe8-4ab3-9150-57ededb54189",
+        "variants": [
+          {
+            "id": "bc53d3dca79c213eb631ca265295ed16",
+            "name": "Comfort Toys",
+            "description": "Buy Snug Hug Jute Chew Toy For Dog for Rs.499 online. Snug Hug Jute Chew Toy For Dog at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4184,
+            "price": 499,
+            "sale": true,
+            "sale_price": 499,
+            "stock_keeping_unit": "PTYEAF59EF4Q9R7M",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/pet-toy/r/7/m/01-snug-hug-1100x1100-imaeayzpsfpbjb4h.jpeg",
+                "filename": "01-snug-hug-1100x1100-imaeayzpsfpbjb4h.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-toy/r/7/m/01-snug-hug-original-imaeayzpsfpbjb4h.jpeg",
+                "filename": "01-snug-hug-original-imaeayzpsfpbjb4h.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pet Type", "values": ["Dog"] },
+              { "key": "Brand", "values": ["Snug Hug"] },
+              { "key": "Model Number", "values": ["01"] },
+              { "key": "Activity Type", "values": ["Chew"] },
+              { "key": "Type", "values": ["Chew Toy"] },
+              { "key": "Material", "values": ["Jute"] },
+              { "key": "Chewable", "values": ["Yes"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Sales Package", "values": ["1 Chew Toy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a709f0f93e89d06b53b0d506cf64b7dd91c17d88" }
+      },
+      "active": true,
+      "id": "b337b3e8c64f15162a5dfd1a968f2307b1ffe947"
+    },
+    {
+      "product": {
+        "id": "bc0bc2c7d46783ceedc072c65e34006e82432bd6",
+        "name": "Sixthsense Women of African Tribes Showpiece  -  9 cm",
+        "description": "Dummy description for product Sixthsense Women of African Tribes Showpiece  -  9 cm",
+        "manufacturer_id": "5d2a9e516ae0e9a34afd8dbd303b5283ed793eda",
+        "taric_code": "d097633a-9e22-45f6-8dbc-eca7b46288cc",
+        "variants": [
+          {
+            "id": "ec25663e80e3b674b257644b507bc3c1",
+            "name": "Sixthsense Showpieces",
+            "description": "Buy Sixthsense Women of African Tribes Showpiece  -  9 cm for Rs.1100 online. Sixthsense Women of African Tribes Showpiece  -  9 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7596,
+            "price": 1100,
+            "sale": false,
+            "sale_price": 1100,
+            "stock_keeping_unit": "SHIE53GCQDQEK7SF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/7/s/f/stl048-sixthsense-original-imae532qtv5fwbyc.jpeg",
+                "filename": "stl048-sixthsense-original-imae532qtv5fwbyc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/7/s/f/stl048-sixthsense-original-imae532qtv5fwbyc.jpeg",
+                "filename": "stl048-sixthsense-original-imae532qtv5fwbyc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Sixthsense"] },
+              { "key": "Model Number", "values": ["STL048"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Shade", "values": ["Multicolor"] },
+              { "key": "Material", "values": ["Polyresin"] },
+              { "key": "Model Name", "values": ["Women of African Tribes"] },
+              { "key": "Purpose", "values": ["Show Piece"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["427 g"] },
+              { "key": "Height", "values": ["9 cm"] },
+              { "key": "Width", "values": ["9 cm"] },
+              { "key": "Depth", "values": ["32 cm"] },
+              { "key": "Wall Mount", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": false,
+      "id": "bc0bc2c7d46783ceedc072c65e34006e82432bd6"
+    },
+    {
+      "product": {
+        "id": "48e454828dbe02032344d564a32c0e5f8ff5db3d",
+        "name": "Shagun Simple & Astonishing Pearl Alloy Jewel Set",
+        "description": "Dummy description for product Shagun Simple & Astonishing Pearl Alloy Jewel Set",
+        "manufacturer_id": "a01fe7936af632c6d0f03c88fd8384ed7f110379",
+        "taric_code": "323df73a-022d-49a3-a80d-4b6be6da6ea5",
+        "variants": [
+          {
+            "id": "55343eb3479ff1b3f39704e7fc010fa1",
+            "name": "Jewellery Sets",
+            "description": "Shagun Simple & Astonishing Pearl Alloy Jewel Set - Buy Shagun Simple & Astonishing Pearl Alloy Jewel Set only for Rs. 890 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6030,
+            "price": 1650,
+            "sale": false,
+            "sale_price": 890,
+            "stock_keeping_unit": "JWSE6GH6HKQFXTTD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/t/t/d/sgpnd155-shagun-original-imae6gw9jaxrzhzh.jpeg",
+                "filename": "sgpnd155-shagun-original-imae6gw9jaxrzhzh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Shape", "values": ["Round"] },
+              { "key": "Pearl Type", "values": ["Cultured"] },
+              { "key": "Pearl Color", "values": ["White"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Shagun"] },
+              { "key": "Gemstone", "values": ["Pearl"] },
+              { "key": "Model Number", "values": ["SGPND155"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Semi Precious Jewellery"]
+              },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              {
+                "key": "Model Name",
+                "values": ["Simple and Astonishing Pearl"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Workwear"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "2 Earrings"]
+              },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "48e454828dbe02032344d564a32c0e5f8ff5db3d"
+    },
+    {
+      "product": {
+        "id": "66a5239cd3af9eaee441125ff3f24286a281bf06",
+        "name": "Joyeria Milan Alloy Garnet, Cubic Zirconia, Garnet Bracelet",
+        "description": "Dummy description for product Joyeria Milan Alloy Garnet, Cubic Zirconia, Garnet Bracelet",
+        "manufacturer_id": "ef84f14cc273967ffd540871c58685d91a4bacbf",
+        "taric_code": "295cd2f0-71b6-461c-b7c7-830d6de7b155",
+        "variants": [
+          {
+            "id": "fddfdab29271ea744576fa5c6686d296",
+            "name": "Bracelets",
+            "description": "Joyeria Milan Alloy Garnet, Cubic Zirconia, Garnet Bracelet - Buy Joyeria Milan Alloy Garnet, Cubic Zirconia, Garnet Bracelet only for Rs. 149 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4608,
+            "price": 199,
+            "sale": true,
+            "sale_price": 149,
+            "stock_keeping_unit": "BBAEFCZMPZXMYXHZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/x/h/z/jmb-009-2-joyeria-milan-1-original-imaefcgg6rtbtrhj.jpeg",
+                "filename": "jmb-009-2-joyeria-milan-1-original-imaefcgg6rtbtrhj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/x/h/z/jmb-009-2-joyeria-milan-1-original-imaefcggre6ppsbz.jpeg",
+                "filename": "jmb-009-2-joyeria-milan-1-original-imaefcggre6ppsbz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Shape", "values": ["Round"] },
+              { "key": "Finish", "values": ["Matte", "Colorful"] },
+              { "key": "Collection", "values": ["Ethnic"] },
+              { "key": "Brand", "values": ["Joyeria Milan"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["JMB 009"] },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Model Name", "values": ["Multicolor Beaded"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Diameter", "values": ["2 inch"] },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              {
+                "key": "Gemstone",
+                "values": ["Garnet", "Cubic Zirconia", "Garnet"]
+              },
+              { "key": "Other Materials", "values": ["Beads", "Plastic"] },
+              { "key": "Body Structure", "values": ["Open"] },
+              { "key": "Certification", "values": ["Brand Certification"] },
+              { "key": "Platinum Purity", "values": ["Beads"] },
+              { "key": "Sales Package", "values": ["1 Bracelet"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": true,
+      "id": "66a5239cd3af9eaee441125ff3f24286a281bf06"
+    },
+    {
+      "product": {
+        "id": "09f7b171eb6973cd3c87042455d3cf5480bca161",
+        "name": "BeYOUtiful Copper Repouss�� - Man With Dhol Showpiece  -  36 cm",
+        "description": "Dummy description for product BeYOUtiful Copper Repouss�� - Man With Dhol Showpiece  -  36 cm",
+        "manufacturer_id": "2781a6b5f2dd0d29e1f811700ab709d869cb5021",
+        "taric_code": "3961eb4a-f8e3-47b6-b211-3fa3e052251a",
+        "variants": [
+          {
+            "id": "22296bfc1c79d9dc88eabbd01220ef0c",
+            "name": "BeYOUtiful Showpieces",
+            "description": "Buy BeYOUtiful Copper Repouss�� - Man With Dhol Showpiece  -  36 cm for Rs.999 online. BeYOUtiful Copper Repouss�� - Man With Dhol Showpiece  -  36 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1891,
+            "price": 1710,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "SHIE4SFGBDRCCCDA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/c/d/a/ccr002-beyoutiful-original-imae4rw3kuzqhupz.jpeg",
+                "filename": "ccr002-beyoutiful-original-imae4rw3kuzqhupz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["BeYOUtiful"] },
+              { "key": "Model Number", "values": ["CCR002"] },
+              { "key": "Shade", "values": ["Copper"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              {
+                "key": "Model Name",
+                "values": ["Copper Repouss�� - Man With Dhol"]
+              },
+              { "key": "Material", "values": ["Copper"] },
+              {
+                "key": "Purpose",
+                "values": ["Show Piece", "Artifact", "Handicraft"]
+              },
+              { "key": "Color", "values": ["Copper"] },
+              { "key": "Height", "values": ["36 cm"] },
+              { "key": "Width", "values": ["26 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Copper Repouss�� plate with fiber frame."]
+              },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["Yes"] },
+              { "key": "Wall Mount", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "09f7b171eb6973cd3c87042455d3cf5480bca161"
+    },
+    {
+      "product": {
+        "id": "c72cbc7a6680b50e3b8dffdddb62ed37c68c2532",
+        "name": "Exotic India Blessing Buddha Showpiece  -  36.83 cm",
+        "description": "Dummy description for product Exotic India Blessing Buddha Showpiece  -  36.83 cm",
+        "manufacturer_id": "0268bd0da074a42250500f8f92d5b1c9b8a36dd3",
+        "taric_code": "81e00485-9c95-4a1a-8cc5-f648c375d27f",
+        "variants": [
+          {
+            "id": "f4d4c2eec77732f56e47722d7a355f2b",
+            "name": "Exotic India Religious Idols",
+            "description": "Buy Exotic India Blessing Buddha Showpiece  -  36.83 cm for Rs.15000 online. Exotic India Blessing Buddha Showpiece  -  36.83 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 4599,
+            "price": 15000,
+            "sale": false,
+            "sale_price": 15000,
+            "stock_keeping_unit": "SHIE3QDGUEGVZJZ8",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/j/z/8/zav99-exotic-india-original-imae3d2rguuvt3gs.jpeg",
+                "filename": "zav99-exotic-india-original-imae3d2rguuvt3gs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Exotic India"] },
+              { "key": "Model Number", "values": ["ZAV99"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Model Name", "values": ["Blessing Buddha"] },
+              { "key": "Material", "values": ["Copper"] },
+              { "key": "Purpose", "values": ["Showpiece"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["7300 g"] },
+              { "key": "Height", "values": ["36.83 cm"] },
+              { "key": "Width", "values": ["29.21 cm"] },
+              { "key": "Depth", "values": ["16.51 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "c72cbc7a6680b50e3b8dffdddb62ed37c68c2532"
+    },
+    {
+      "product": {
+        "id": "ae40dcebef006dae757fc11a1682e65dc9afcff5",
+        "name": "Yale YDR3110 Smart Door Lock",
+        "description": "Dummy description for product Yale YDR3110 Smart Door Lock",
+        "manufacturer_id": "d4efeaf62b5e6e737a64adb82d7aeae9ab221db6",
+        "taric_code": "32bc8fe4-d247-4a17-86b4-0a45d61064ca",
+        "variants": [
+          {
+            "id": "df5251923640d57e77d04608164b4817",
+            "name": "Smart Door Locks",
+            "description": "Buy Yale YDR3110 Smart Door Lock for Rs.17000 online. Yale YDR3110 Smart Door Lock at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 257,
+            "price": 19999,
+            "sale": false,
+            "sale_price": 17000,
+            "stock_keeping_unit": "SLOEBHYNHETSRBXN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/smart-door-lock/b/x/n/ydr3110-yale-1100x1100-imaebgbqasas2axn.jpeg",
+                "filename": "ydr3110-yale-1100x1100-imaebgbqasas2axn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/smart-door-lock/b/x/n/ydr3110-yale-original-imaebgbqasas2axn.jpeg",
+                "filename": "ydr3110-yale-original-imaebgbqasas2axn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/smart-door-lock/b/x/n/ydr3110-yale-original-imaebgbqwwwkkrk3.jpeg",
+                "filename": "ydr3110-yale-original-imaebgbqwwwkkrk3.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/smart-door-lock/b/x/n/ydr3110-yale-original-imaebgbqbmyr8kyq.jpeg",
+                "filename": "ydr3110-yale-original-imaebgbqbmyr8kyq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/smart-door-lock/b/x/n/ydr3110-yale-original-imaebgbqkjuhhjyf.jpeg",
+                "filename": "ydr3110-yale-original-imaebgbqkjuhhjyf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/smart-door-lock/b/x/n/ydr3110-yale-original-imaebgbqarqgpnhf.jpeg",
+                "filename": "ydr3110-yale-original-imaebgbqarqgpnhf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/smart-door-lock/b/x/n/ydr3110-yale-original-imaebgbqn3jcpzjc.jpeg",
+                "filename": "ydr3110-yale-original-imaebgbqn3jcpzjc.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Functions",
+                "values": [
+                  "Break-in / Damage Alarm",
+                  "Automatic Lock Mode",
+                  "Rim Lock Type",
+                  "Pin Code or RF Card Key Access"
+                ]
+              },
+              { "key": "Brand Color", "values": ["Black"] },
+              { "key": "Brand", "values": ["Yale"] },
+              { "key": "Compatible Devices", "values": ["Remote"] },
+              { "key": "Model Number", "values": ["YDR3110"] },
+              { "key": "Finish", "values": ["Metallic"] },
+              { "key": "Battery Type", "values": ["AA"] },
+              {
+                "key": "Other Dimensions",
+                "values": [
+                  "Outside Trim Dimensions: 19 mm x 65 mm x 160 mm",
+                  "Backset: 60 - 90 mm"
+                ]
+              },
+              {
+                "key": "f2008bc6-44f3-458e-89bf-ef4a16421729",
+                "values": [
+                  "Rim Lock Type",
+                  "Door Thickness: Suitable for 45 - 55 mm Steel and Wooden Door",
+                  "Low Battery Alarm and Emergency Power Supply",
+                  "Smart Touchpad",
+                  "Pin Code: 6 - 12 Digits",
+                  "Remote Control (Optional)"
+                ]
+              },
+              {
+                "key": "27844e0d-69f2-4329-beb0-d59444096085",
+                "values": [
+                  "2 x YDR3110 Assembly (Front and Main)",
+                  "1 x Striker",
+                  "4 x AA Batteries",
+                  "4 Smart Cards"
+                ]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "145122172716a50cb5fde70bd784db429ec7d39d" }
+      },
+      "active": true,
+      "id": "ae40dcebef006dae757fc11a1682e65dc9afcff5"
+    },
+    {
+      "product": {
+        "id": "c3ac1d379343bbe47b492ed53ad7244fd9313f9a",
+        "name": "Galz4ever Alloy Bracelet",
+        "description": "Dummy description for product Galz4ever Alloy Bracelet",
+        "manufacturer_id": "e0d4d87156b7d4ffb12d08ede4cc01c14051edc8",
+        "taric_code": "08b408e6-d292-470d-85f2-2462088b12bc",
+        "variants": [
+          {
+            "id": "3e6adda893c5660fdc13a98f136d52b3",
+            "name": "Bracelets",
+            "description": "Galz4ever Alloy Bracelet - Buy Galz4ever Alloy Bracelet only for Rs. 149 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9221,
+            "price": 199,
+            "sale": true,
+            "sale_price": 149,
+            "stock_keeping_unit": "BBAEAGXHJGPGXMYG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/m/y/g/153-2-4-galz4ever-1-original-imaeaed89vpxsaau.jpeg",
+                "filename": "153-2-4-galz4ever-1-original-imaeaed89vpxsaau.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/m/y/g/153-2-4-galz4ever-1-original-imaeaed89vpxsaau.jpeg",
+                "filename": "153-2-4-galz4ever-1-original-imaeaed89vpxsaau.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/m/y/g/153-2-4-galz4ever-1-original-imaeaed82bhaprrn.jpeg",
+                "filename": "153-2-4-galz4ever-1-original-imaeaed82bhaprrn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Galz4ever"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["153"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Model Name", "values": ["Green and Blue eye"] },
+              { "key": "Bangle Size", "values": ["2-4"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Diameter", "values": ["2.4 inch"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": true,
+      "id": "c3ac1d379343bbe47b492ed53ad7244fd9313f9a"
+    },
+    {
+      "product": {
+        "id": "2990b6cadc4c3ae869a2f712daae2d6c9a002bce",
+        "name": "Ada Jewel Copper Jewel Set",
+        "description": "Dummy description for product Ada Jewel Copper Jewel Set",
+        "manufacturer_id": "4bbf5546612c06ae96cd46819cbd760a4959c0f8",
+        "taric_code": "608c4c61-bd64-4ed8-9432-dc9637125114",
+        "variants": [
+          {
+            "id": "5938648e972b59e5ffe1651c190cd742",
+            "name": "Jewellery Sets",
+            "description": "Ada Jewel Copper Jewel Set (Gold, White, Green)\n                         Price: Rs. 799\n\t\t\t\t\n\t\t\tA stunning beautiful Kundan Necklace With Matching Earring\nA stunning beautiful Kundan Necklace With Matching Earring",
+            "stock_level": 1380,
+            "price": 1998,
+            "sale": false,
+            "sale_price": 799,
+            "stock_keeping_unit": "JWSDZCHGUTXYUGZD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/g/z/d/adankne0072-ada-jewel-original-imadzef6t6nr2mmc.jpeg",
+                "filename": "adankne0072-ada-jewel-original-imadzef6t6nr2mmc.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Copper"] },
+              { "key": "Brand", "values": ["Ada Jewel"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["ADANKNE0072"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              {
+                "key": "Occasion",
+                "values": ["Religious", "Wedding and Engagement"]
+              },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["Gold", "White", "Green"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "2990b6cadc4c3ae869a2f712daae2d6c9a002bce"
+    },
+    {
+      "product": {
+        "id": "728bf2bea20476ffdc6d53615b777ac632e75ea1",
+        "name": "Amba Handicraft 3 Face Clock Showpiece  -  64 cm",
+        "description": "Dummy description for product Amba Handicraft 3 Face Clock Showpiece  -  64 cm",
+        "manufacturer_id": "f37ebdc305dbcf92238fde4c2f86c8963af29ab4",
+        "taric_code": "4bada9ff-2a2b-4e3a-b513-1c7a16b8082a",
+        "variants": [
+          {
+            "id": "bb2737d962f3f996862b6588e6e0a4f4",
+            "name": "Amba Handicraft Human Figurines",
+            "description": "Amba Handicraft 3 Face Clock Showpiece  -  64 cm (Iron, Multicolor)\n                         Price: Rs. 1,980\n\t\t\t\t\n\t\t\tHeighten the ethnic and traditional decor of your house by adding this showpiece to the interiors. This multi-coloured showpiece comes with a wall-mount mechanism that helps you to decorate your office, living room or any other suitable space.\n\nDesign\n\nUsed for decorative purposes, this piece from Amba Handicraft has a remarkable design where a small figurine is creatively built on a twig of five leafs.\nHeighten the ethnic and traditional decor of your house by adding this showpiece to the interiors. This multi-coloured showpiece comes with a wall-mount mechanism that helps you to decorate your office, living room or any other suitable space.\n\nDesign\n\nUsed for decorative purposes, this piece from Amba Handicraft has a remarkable design where a small figurine is creatively built on a twig of five leafs.",
+            "stock_level": 6632,
+            "price": 2300,
+            "sale": false,
+            "sale_price": 1980,
+            "stock_keeping_unit": "SHIEA47THGAJETFH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/f/h/ah-sp-017-amba-handicraft-original-imaea46ceena7zxz.jpeg",
+                "filename": "ah-sp-017-amba-handicraft-original-imaea46ceena7zxz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Amba Handicraft"] },
+              { "key": "Model Number", "values": ["AH-SP-017"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Shade", "values": ["Multicolor"] },
+              { "key": "Material", "values": ["Iron"] },
+              { "key": "Model Name", "values": ["3 Face Clock"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Height", "values": ["64 cm"] },
+              { "key": "Width", "values": ["43 cm"] },
+              { "key": "Depth", "values": ["2 cm"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "844e168d74928410c76f49a1a96eec41541969a9" }
+      },
+      "active": true,
+      "id": "728bf2bea20476ffdc6d53615b777ac632e75ea1"
+    },
+    {
+      "product": {
+        "id": "1dbf8b70ca0d0f6e9e216126bfd8b449795fb448",
+        "name": "Pawzone Rubber Rubber Toy For Dog",
+        "description": "Dummy description for product Pawzone Rubber Rubber Toy For Dog",
+        "manufacturer_id": "228350465124f9a6b5199cf36edd1db1e2a182f3",
+        "taric_code": "a828da07-47c3-49cd-a05b-24a0f92a2cd5",
+        "variants": [
+          {
+            "id": "8218717aaad0db6f3a6d75a1b29b8045",
+            "name": "Comfort Toys",
+            "description": "Buy Pawzone Rubber Rubber Toy For Dog for Rs.150 online. Pawzone Rubber Rubber Toy For Dog at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1988,
+            "price": 200,
+            "sale": false,
+            "sale_price": 150,
+            "stock_keeping_unit": "PTYEE5HGHDENG7GY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/pet-toy/y/a/r/pawzone-solid-rubber-dumble-toy-for-pets-pawzone-1100x1100-imaee4qmzfrfgzwg.jpeg",
+                "filename": "pawzone-solid-rubber-dumble-toy-for-pets-pawzone-1100x1100-imaee4qmzfrfgzwg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/pet-toy/y/a/r/pawzone-solid-rubber-dumble-toy-for-pets-pawzone-original-imaee4qmzfrfgzwg.jpeg",
+                "filename": "pawzone-solid-rubber-dumble-toy-for-pets-pawzone-original-imaee4qmzfrfgzwg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pet Type", "values": ["Dog"] },
+              { "key": "Brand", "values": ["Pawzone"] },
+              { "key": "Suitable For", "values": ["Young"] },
+              { "key": "Activity Type", "values": ["Chew"] },
+              {
+                "key": "Model Number",
+                "values": ["Pawzone Music Rubber Dumble Toy For Pets"]
+              },
+              { "key": "Type", "values": ["Rubber Toy"] },
+              { "key": "Material", "values": ["Rubber"] },
+              { "key": "Chewable", "values": ["Yes"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Sales Package", "values": ["1 Rubber Toy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a709f0f93e89d06b53b0d506cf64b7dd91c17d88" }
+      },
+      "active": false,
+      "id": "1dbf8b70ca0d0f6e9e216126bfd8b449795fb448"
+    },
+    {
+      "product": {
+        "id": "43969b41d22a465f5d3d563ae49716c12526b051",
+        "name": "Diviniti DG 4 Khanda Sahib With Gold Plated Foil Wall Hanging Showpiece  -  37 cm",
+        "description": "Dummy description for product Diviniti DG 4 Khanda Sahib With Gold Plated Foil Wall Hanging Showpiece  -  37 cm",
+        "manufacturer_id": "acc35026cf5a2f131ac1689243b8d8d601b7f41a",
+        "taric_code": "22d22bfd-f47d-4a0d-badf-123f7dd71b30",
+        "variants": [
+          {
+            "id": "0045278cb129cc33d3a0e5ce3840ebcd",
+            "name": "Diviniti Religious Idols",
+            "description": "Buy Diviniti DG 4 Khanda Sahib With Gold Plated Foil Wall Hanging Showpiece  -  37 cm for Rs.13610 online. Diviniti DG 4 Khanda Sahib With Gold Plated Foil Wall Hanging Showpiece  -  37 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7613,
+            "price": 13610,
+            "sale": false,
+            "sale_price": 13610,
+            "stock_keeping_unit": "SHIEB85ZA9EMJ4BZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/4/b/z/dg-093-diviniti-1100x1100-imaeb839wvfn3s6q.jpeg",
+                "filename": "dg-093-diviniti-1100x1100-imaeb839wvfn3s6q.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/4/b/z/dg-093-diviniti-original-imaeb839wvfn3s6q.jpeg",
+                "filename": "dg-093-diviniti-original-imaeb839wvfn3s6q.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Diviniti"] },
+              { "key": "Model Number", "values": ["DG 093"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "DG 4 Khanda Sahib With Gold Plated Foil Wall Hanging"
+                ]
+              },
+              { "key": "Material", "values": ["Glass"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Height", "values": ["37 cm"] },
+              { "key": "Width", "values": ["44 cm"] },
+              { "key": "Depth", "values": ["2.5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "43969b41d22a465f5d3d563ae49716c12526b051"
+    },
+    {
+      "product": {
+        "id": "c360576c5b3016a445545e18ed528453a86593ba",
+        "name": "My Angel Gifts Show Piece Showpiece  -  5 cm",
+        "description": "Dummy description for product My Angel Gifts Show Piece Showpiece  -  5 cm",
+        "manufacturer_id": "7c571ed1cf510c5406af0bb1bb74dada7f188c61",
+        "taric_code": "525d6725-09cb-44fd-be89-5a589b26b5e6",
+        "variants": [
+          {
+            "id": "f12a06b7dbfc55638afafcf8bb03d836",
+            "name": "My Angel Human Figurines",
+            "description": "Buy My Angel Gifts Show Piece Showpiece  -  5 cm for Rs.1149 online. My Angel Gifts Show Piece Showpiece  -  5 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1644,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 1149,
+            "stock_keeping_unit": "SHIEAVZQQUWKYURZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/u/r/z/k0089-my-angel-1100x1100-imaeavfswms5c4ek.jpeg",
+                "filename": "k0089-my-angel-1100x1100-imaeavfswms5c4ek.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/u/r/z/k0089-my-angel-original-imaeavfswms5c4ek.jpeg",
+                "filename": "k0089-my-angel-original-imaeavfswms5c4ek.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["My Angel"] },
+              { "key": "Model Number", "values": ["K0089"] },
+              { "key": "Type", "values": ["Human Figurines"] },
+              { "key": "Model Name", "values": ["Gifts Show Piece"] },
+              { "key": "Material", "values": ["Ceramic"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Height", "values": ["5 cm"] },
+              { "key": "Width", "values": ["3 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              { "key": "Sales Package", "values": ["4 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["4"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "844e168d74928410c76f49a1a96eec41541969a9" }
+      },
+      "active": false,
+      "id": "c360576c5b3016a445545e18ed528453a86593ba"
+    },
+    {
+      "product": {
+        "id": "1c1717b1c3b466534f3054f6d1870182730e8b24",
+        "name": "Adhira Alloy Jewel Set",
+        "description": "Dummy description for product Adhira Alloy Jewel Set",
+        "manufacturer_id": "6b45c898dfc0fc525ec587e51f9aaba113f84b81",
+        "taric_code": "4499d134-72aa-480a-ad9c-3600091602f8",
+        "variants": [
+          {
+            "id": "4bc1635bd1d44fb2b5de8f21a8b0dcff",
+            "name": "Jewellery Sets",
+            "description": "Adhira Alloy Jewel Set - Buy Adhira Alloy Jewel Set only for Rs. 0.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4271,
+            "price": 1538,
+            "sale": false,
+            "sale_price": 615,
+            "stock_keeping_unit": "JWSDSCB7SN9AYB4B",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/b/4/b/g13-adhira-original-imadsccgvds7ckgj.jpeg",
+                "filename": "g13-adhira-original-imadsccgvds7ckgj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Adhira"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["G13"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          },
+          {
+            "id": "4f258e22b6e5f2cc5497dcdab7a4f804",
+            "name": "Jewellery Sets",
+            "description": "Adhira Alloy Jewel Set - Buy Adhira Alloy Jewel Set only for Rs. 0.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3537,
+            "price": 1318,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "JWSDSCB7TWJSVKHZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/k/h/z/g68-adhira-original-imadsccfgxbnqz9y.jpeg",
+                "filename": "g68-adhira-original-imadsccfgxbnqz9y.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Adhira"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["G68"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "1c1717b1c3b466534f3054f6d1870182730e8b24"
+    },
+    {
+      "product": {
+        "id": "73602e4d3e5e14cb58704cf62b3edb852e6351f8",
+        "name": "Eshoppee Glass Bracelet",
+        "description": "Dummy description for product Eshoppee Glass Bracelet",
+        "manufacturer_id": "6bcbb4700e1eb66eaa8444428af532cc0f540234",
+        "taric_code": "24bd74bf-1872-4e6f-8336-d07660702e41",
+        "variants": [
+          {
+            "id": "0a0965f233f0ced4500081171478d155",
+            "name": "Bracelets",
+            "description": "Eshoppee Glass Bracelet - Buy Eshoppee Glass Bracelet only for Rs. 99 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 538,
+            "price": 149,
+            "sale": false,
+            "sale_price": 99,
+            "stock_keeping_unit": "BBAEAX9RJMZKFY3H",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/bangle-bracelet-armlet/y/3/h/es10004-free-size-eshoppee-1-1100x1100-imaeaw5dqhgqg8nf.jpeg",
+                "filename": "es10004-free-size-eshoppee-1-1100x1100-imaeaw5dqhgqg8nf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/bangle-bracelet-armlet/y/3/h/es10004-free-size-eshoppee-1-original-imaeaw5dqhgqg8nf.jpeg",
+                "filename": "es10004-free-size-eshoppee-1-original-imaeaw5dqhgqg8nf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Stretchable", "values": ["Yes"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Eshoppee"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["ES10004"] },
+              { "key": "Type", "values": ["Bracelet"] },
+              { "key": "Bangle Size", "values": ["Free"] },
+              { "key": "Model Name", "values": ["Beautiful Beaded"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Brown"] },
+              { "key": "Diameter", "values": ["Free Size"] },
+              { "key": "Base Material", "values": ["Glass"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "85fbe05b34260a2a891c76c4ceacb4f99a6ef29b" }
+      },
+      "active": true,
+      "id": "73602e4d3e5e14cb58704cf62b3edb852e6351f8"
+    },
+    {
+      "product": {
+        "id": "086ab8bcaca35fb76366b5a1295082b7096b7ebc",
+        "name": "Diviniti DG Royal Ornamental Size 4 Gurunanak religious wall hanging Showpiece  -  30.5 cm",
+        "description": "Dummy description for product Diviniti DG Royal Ornamental Size 4 Gurunanak religious wall hanging Showpiece  -  30.5 cm",
+        "manufacturer_id": "acc35026cf5a2f131ac1689243b8d8d601b7f41a",
+        "taric_code": "4ce7534d-8ef4-4ca9-8598-fb3037cb96a1",
+        "variants": [
+          {
+            "id": "18bd9b88e23b82fd19f8ab0c9cad6a1a",
+            "name": "Diviniti Religious Idols",
+            "description": "Diviniti DG Royal Ornamental Size 4 Gurunanak religious wall hanging Showpiece  -  30.5 cm (Glass, Gold)\n                         Price: Rs. 17,460\n\t\t\t\t\n\t\t\tFrom The House Of Diviniti, We Bring You Double Glass Royale Ornamental Frames Which Are Perfect Accessories For Your Wall, Desk Etc.Set In Double Glass Royale Ornamental Frames And Embodied In Swiss Technology 24 Carat Gold Plated Foil, These Are A Definite Buy For Personal Use Or For Gifting.\nFrom The House Of Diviniti, We Bring You Double Glass Royale Ornamental Frames Which Are Perfect Accessories For Your Wall, Desk Etc.Set In Double Glass Royale Ornamental Frames And Embodied In Swiss Technology 24 Carat Gold Plated Foil, These Are A Definite Buy For Personal Use Or For Gifting.",
+            "stock_level": 8718,
+            "price": 17460,
+            "sale": false,
+            "sale_price": 17460,
+            "stock_keeping_unit": "SHIEBBWHSYHSVV4U",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/v/4/u/dg-ro-168-diviniti-1100x1100-imaebbhaaz7a6fmn.jpeg",
+                "filename": "dg-ro-168-diviniti-1100x1100-imaebbhaaz7a6fmn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/v/4/u/dg-ro-168-diviniti-original-imaebbhaaz7a6fmn.jpeg",
+                "filename": "dg-ro-168-diviniti-original-imaebbhaaz7a6fmn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Diviniti"] },
+              { "key": "Model Number", "values": ["DG RO 168"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              {
+                "key": "Model Name",
+                "values": [
+                  "DG Royal Ornamental Size 4 Gurunanak religious wall hanging"
+                ]
+              },
+              { "key": "Material", "values": ["Glass"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Height", "values": ["30.5 cm"] },
+              { "key": "Width", "values": ["23 cm"] },
+              { "key": "Depth", "values": ["2.5 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": false,
+      "id": "086ab8bcaca35fb76366b5a1295082b7096b7ebc"
+    },
+    {
+      "product": {
+        "id": "49a4eca277d8e10e6601157c4465473b366fc408",
+        "name": "The Art Jewellery Brass Jewel Set",
+        "description": "Dummy description for product The Art Jewellery Brass Jewel Set",
+        "manufacturer_id": "9bcffa7c259fca925b03e9c40584cf9087c8fe23",
+        "taric_code": "7a65921a-ba7f-4642-b753-8acd62391591",
+        "variants": [
+          {
+            "id": "2067b1f5662db2334c70b516bfea905e",
+            "name": "Jewellery Sets",
+            "description": "The Art Jewellery Brass Jewel Set - Buy The Art Jewellery Brass Jewel Set only for Rs. 995 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1779,
+            "price": 1999,
+            "sale": false,
+            "sale_price": 995,
+            "stock_keeping_unit": "JWSE29XBXVZBYDGK",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/d/g/k/ps10862pr-the-art-jewellery-original-imadz9fprzfk8vnz.jpeg",
+                "filename": "ps10862pr-the-art-jewellery-original-imadz9fprzfk8vnz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["The Art Jewellery"] },
+              { "key": "Model Number", "values": ["PS10862PR"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Weight", "values": ["140 g"] },
+              { "key": "Sales Package", "values": ["1 Pendant", "2 Earrings"] },
+              { "key": "Certification", "values": ["Brand Certification"] }
+            ]
+          },
+          {
+            "id": "5c3b87a3bd287d491b1a753beeedc594",
+            "name": "Jewellery Sets",
+            "description": "The Art Jewellery Brass Jewel Set - Buy The Art Jewellery Brass Jewel Set only for Rs. 795 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2017,
+            "price": 1599,
+            "sale": false,
+            "sale_price": 795,
+            "stock_keeping_unit": "JWSE29X9EZDKQ6GV",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/6/g/v/ps10833rg-the-art-jewellery-original-imadz9fstf8mwb3f.jpeg",
+                "filename": "ps10833rg-the-art-jewellery-original-imadz9fstf8mwb3f.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/6/g/v/ps10833rg-the-art-jewellery-original-imadz9fstf8mwb3f.jpeg",
+                "filename": "ps10833rg-the-art-jewellery-original-imadz9fstf8mwb3f.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["The Art Jewellery"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["PS10833RG"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["140 g"] },
+              { "key": "Certification", "values": ["Brand Certification"] },
+              { "key": "Sales Package", "values": ["1 Pendant", "2 Earrings"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "49a4eca277d8e10e6601157c4465473b366fc408"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

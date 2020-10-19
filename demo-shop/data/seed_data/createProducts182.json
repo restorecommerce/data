@@ -1,0 +1,2768 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "3d17e7bf55bd353291a66d5dec1ec3ef102b6877",
+        "name": "Fashionvalley Crystal Jewel Set",
+        "description": "Dummy description for product Fashionvalley Crystal Jewel Set",
+        "manufacturer_id": "feae6f4b9f429f778eba4b68250072ba48142d46",
+        "taric_code": "31d59954-df5c-4b69-98fe-68cf7a1dacbd",
+        "variants": [
+          {
+            "id": "71ae50f01a67a22ea4c38384bad25813",
+            "name": "Jewellery Sets",
+            "description": "Fashionvalley Crystal Jewel Set - Buy Fashionvalley Crystal Jewel Set only for Rs. 549 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9566,
+            "price": 650,
+            "sale": false,
+            "sale_price": 549,
+            "stock_keeping_unit": "JWSEDN82EPFAWQMF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/q/m/f/fv00284-fashionvalley-original-imaedn29fesjxshm.jpeg",
+                "filename": "fv00284-fashionvalley-original-imaedn29fesjxshm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/q/m/f/fv00284-fashionvalley-original-imaedn2afjjpffdv.jpeg",
+                "filename": "fv00284-fashionvalley-original-imaedn2afjjpffdv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/q/m/f/fv00284-fashionvalley-original-imaedn2acj49myjt.jpeg",
+                "filename": "fv00284-fashionvalley-original-imaedn2acj49myjt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Crystal"] },
+              { "key": "Brand", "values": ["Fashionvalley"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["FV00284"] },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Everyday"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Chain/Necklace Length", "values": ["20.4 inch"] },
+              { "key": "Weight", "values": ["65 g"] },
+              { "key": "Sales Package", "values": ["1 Necklace", "2 Earrings"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "3d17e7bf55bd353291a66d5dec1ec3ef102b6877"
+    },
+    {
+      "product": {
+        "id": "cc24c32477818ca106d0208c6680032bcfa94946",
+        "name": "Cloth Fusion Printed Single Blanket Orange",
+        "description": "Dummy description for product Cloth Fusion Printed Single Blanket Orange",
+        "manufacturer_id": "9fac02455046e6b59f092967299b9c9655eb021a",
+        "taric_code": "bef8279a-d8f3-4239-9e92-50ceb2e0a373",
+        "variants": [
+          {
+            "id": "412d6199aca58c7d6ffc2eaa487ac4f3",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Cloth Fusion Printed Single Blanket Orange (1 Single Bed Blanket)\n                         Price: Rs. 1,399\n\t\t\t\t\n\t\t\tCloth Fusion Presents Awesome Single Bed Printed Blankets For You\nCloth Fusion Presents Awesome Single Bed Printed Blankets For You",
+            "stock_level": 6239,
+            "price": 2199,
+            "sale": false,
+            "sale_price": 1399,
+            "stock_keeping_unit": "BLAEEFYGWAGQTZU3",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/z/u/3/cf-aartex-single-cloth-fusion-printed-blanket-original-imaeefsqwcmjv6we.jpeg",
+                "filename": "cf-aartex-single-cloth-fusion-printed-blanket-original-imaeefsqwcmjv6we.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/z/u/3/cf-aartex-single-cloth-fusion-printed-blanket-original-imaeefsqwcmjv6we.jpeg",
+                "filename": "cf-aartex-single-cloth-fusion-printed-blanket-original-imaeefsqwcmjv6we.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Cloth Fusion"] },
+              { "key": "Type", "values": ["Blanket"] },
+              { "key": "Hand Washable", "values": ["Yes"] },
+              { "key": "Model ID", "values": ["Printed Blanket"] },
+              { "key": "Color", "values": ["Orange"] },
+              { "key": "Design", "values": ["Printed"] },
+              { "key": "Machine Washable", "values": ["Yes"] },
+              { "key": "Suitable For", "values": ["Stroller", "Cribs"] },
+              { "key": "Inner Material", "values": ["Polyester"] },
+              { "key": "Model Name", "values": ["Printed Blanket"] },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Outer Material", "values": ["Carol"] },
+              { "key": "Size", "values": ["Single"] },
+              { "key": "Weight", "values": ["500 g"] },
+              { "key": "Width", "values": ["62 inch / 160 cm"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["1 Single Bed Blanket"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "cc24c32477818ca106d0208c6680032bcfa94946"
+    },
+    {
+      "product": {
+        "id": "84192a670c8106f578690c6c33b35dc83ed2c961",
+        "name": "Digilight 200 inch Yellow, Pink, Purple Rice Lights",
+        "description": "Dummy description for product Digilight 200 inch Yellow, Pink, Purple Rice Lights",
+        "manufacturer_id": "b5ba7f7e96b5a74230cb0b7315934065d1936465",
+        "taric_code": "603ed79d-9d29-4e06-a765-2a5e2e63641d",
+        "variants": [
+          {
+            "id": "e678807fe52c8a19685759e64b218d66",
+            "name": "Digilight Series Lights",
+            "description": "Digilight 200 inch Yellow, Pink, Purple Rice Lights (Pack of 3)\n                         Price: Rs. 159\n\t\t\t\t\n\t\t\tThis Diwali, adorn your home like never before with these gorgeous lighting solutions from the house of Digilight. Available in a varied array of colours and types to suit your taste, these are made from durable PVC material and beautify your abode. Order these online today and get ready for the compliments to flow in.\nThis Diwali, adorn your home like never before with these gorgeous lighting solutions from the house of Digilight. Available in a varied array of colours and types to suit your taste, these are made from durable PVC material and beautify your abode. Order these online today and get ready for the compliments to flow in.",
+            "stock_level": 6614,
+            "price": 339,
+            "sale": false,
+            "sale_price": 159,
+            "stock_keeping_unit": "RCLEYW4PKUT4QS2Y",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/g/e/k/786322-digilight-3-original-imaeytx2wgjbtzva.jpeg",
+                "filename": "786322-digilight-3-original-imaeytx2wgjbtzva.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/g/e/k/786322-digilight-3-original-imaeytx2wgjbtzva.jpeg",
+                "filename": "786322-digilight-3-original-imaeytx2wgjbtzva.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/h/z/s/786547-digilight-3-original-imaeytx2rhexzg4a.jpeg",
+                "filename": "786547-digilight-3-original-imaeytx2rhexzg4a.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/a/v/s/786192-digilight-3-original-imaeytx2w2tzzkzz.jpeg",
+                "filename": "786192-digilight-3-original-imaeytx2w2tzzkzz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Digilight"] },
+              { "key": "Multi-Functions", "values": ["Steady"] },
+              { "key": "Model Number", "values": ["786195"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Length", "values": ["200 inch"] },
+              { "key": "Color", "values": ["Yellow", "Pink", "Purple"] },
+              {
+                "key": "Power Requirement",
+                "values": ["110 - 120 V", "50 Hz"]
+              },
+              { "key": "Sales Package", "values": ["3 Rice Light"] },
+              { "key": "Pack of", "values": ["3"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "84192a670c8106f578690c6c33b35dc83ed2c961"
+    },
+    {
+      "product": {
+        "id": "e5509a6727b8c37120472c084a120c96141ac553",
+        "name": "Zesture Cartoon Double Blanket Multicolor",
+        "description": "Dummy description for product Zesture Cartoon Double Blanket Multicolor",
+        "manufacturer_id": "12d1e086999b6927ac3de84be2bf207d830ad717",
+        "taric_code": "fb1e023e-902c-41f7-a013-009c29d7eda7",
+        "variants": [
+          {
+            "id": "0f2dd5b68c9fa37502a54552f49af7fb",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy Zesture Cartoon Double Blanket Multicolor at Rs. 712 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 381,
+            "price": 1500,
+            "sale": false,
+            "sale_price": 712,
+            "stock_keeping_unit": "BLAEE3GCCPCVAMVJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/m/v/j/parish002-zesture-parish002-original-imaee2j2j3x3ktme.jpeg",
+                "filename": "parish002-zesture-parish002-original-imaee2j2j3x3ktme.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/m/v/j/parish002-zesture-parish002-original-imaee2j2j3x3ktme.jpeg",
+                "filename": "parish002-zesture-parish002-original-imaee2j2j3x3ktme.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/m/v/j/parish002-zesture-parish002-original-imaeefhqwgg3ggr8.jpeg",
+                "filename": "parish002-zesture-parish002-original-imaeefhqwgg3ggr8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Zesture"] },
+              { "key": "Machine Washable", "values": ["No"] },
+              { "key": "Suitable For", "values": ["Beds"] },
+              { "key": "Type", "values": ["Blanket"] },
+              { "key": "Inner Material", "values": ["Flannel"] },
+              { "key": "Model Name", "values": ["PARISH002"] },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Hand Washable", "values": ["Yes"] },
+              { "key": "Model ID", "values": ["PARISH002"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Size", "values": ["Double"] },
+              { "key": "Design", "values": ["Cartoon"] },
+              { "key": "Weight", "values": ["850 g"] },
+              { "key": "Length", "values": ["82 inch / 210 cm"] },
+              { "key": "Width", "values": ["82 inch / 210 cm"] },
+              { "key": "Depth", "values": ["0.5 cm"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 light weight super soft blanket(Flannel)"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "e5509a6727b8c37120472c084a120c96141ac553"
+    },
+    {
+      "product": {
+        "id": "a4e94c8cd02043adc960992755bfa7b0b3ae1d65",
+        "name": "Art Antiqua AA-1203091-Reading Ganesha Showpiece  -  9 cm",
+        "description": "Dummy description for product Art Antiqua AA-1203091-Reading Ganesha Showpiece  -  9 cm",
+        "manufacturer_id": "d0aa9d53959968bdc353476245b1c4220be72eb1",
+        "taric_code": "f4f5f393-d0ae-4ee1-92d3-2e40fdebe315",
+        "variants": [
+          {
+            "id": "a60d9c71fb27717ea26b9fb542d05760",
+            "name": "Art Antiqua Religious Idols",
+            "description": "Buy Art Antiqua AA-1203091-Reading Ganesha Showpiece  -  9 cm for Rs.899 online. Art Antiqua AA-1203091-Reading Ganesha Showpiece  -  9 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 331,
+            "price": 1250,
+            "sale": false,
+            "sale_price": 899,
+            "stock_keeping_unit": "SHIEA3GYUGTA4T2A",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/t/2/a/aa-1203091-ganesha-art-antiqua-original-imaea3fgejgkwhk3.jpeg",
+                "filename": "aa-1203091-ganesha-art-antiqua-original-imaea3fgejgkwhk3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/2/a/aa-1203091-ganesha-art-antiqua-original-imaea3fgejgkwhk3.jpeg",
+                "filename": "aa-1203091-ganesha-art-antiqua-original-imaea3fgejgkwhk3.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/t/2/a/aa-1203091-ganesha-art-antiqua-original-imaea3fjuyq3rfwe.jpeg",
+                "filename": "aa-1203091-ganesha-art-antiqua-original-imaea3fjuyq3rfwe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Art Antiqua"] },
+              { "key": "Model Number", "values": ["AA-1203091-Ganesha"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Model Name", "values": ["AA-1203091-Reading Ganesha"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Weight", "values": [".330 g"] },
+              { "key": "Height", "values": ["9 cm"] },
+              { "key": "Width", "values": ["5.5 cm"] },
+              { "key": "Depth", "values": ["4 cm"] },
+              { "key": "Sales Package", "values": ["1 Reading Ganesha"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["No"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "a4e94c8cd02043adc960992755bfa7b0b3ae1d65"
+    },
+    {
+      "product": {
+        "id": "acaaaa1aa1d82481a86590375736d43d815c4d8b",
+        "name": "England Checkered Double Blanket Multi Color",
+        "description": "Dummy description for product England Checkered Double Blanket Multi Color",
+        "manufacturer_id": "a8158628c663d6cfb404ca66138bb5609df103d4",
+        "taric_code": "404375d0-1457-4347-965f-2ed236974e2e",
+        "variants": [
+          {
+            "id": "30daec5ef4e7b3d315f21b5c54452b1e",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy England Checkered Double Blanket Multi Color at Rs. 1399 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 8237,
+            "price": 1850,
+            "sale": false,
+            "sale_price": 1399,
+            "stock_keeping_unit": "BLAEBAF6C2EHPTDX",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/t/d/x/at-cotton-db-blanket-england-1-england-england-blanket-original-imaeba52zjuxp59z.jpeg",
+                "filename": "at-cotton-db-blanket-england-1-england-england-blanket-original-imaeba52zjuxp59z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["England"] },
+              { "key": "Suitable For", "values": ["Stroller", "Cribs"] },
+              { "key": "Type", "values": ["Blanket"] },
+              { "key": "Model Name", "values": ["England Blanket"] },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Model ID", "values": ["England Blanket"] },
+              { "key": "Design", "values": ["Multi Color Checkered"] },
+              { "key": "Size", "values": ["Double"] },
+              { "key": "Color", "values": ["Multi Color"] },
+              { "key": "Weight", "values": ["1600 g"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["Blanket"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "acaaaa1aa1d82481a86590375736d43d815c4d8b"
+    },
+    {
+      "product": {
+        "id": "dd5754306a64fa659948458a87d8d57bf1c0ac7a",
+        "name": "iplay 196 inch Red, Green, Blue, White, Gold, Yellow Rice Lights",
+        "description": "Dummy description for product iplay 196 inch Red, Green, Blue, White, Gold, Yellow Rice Lights",
+        "manufacturer_id": "9b3884087740b431a761b1afafbb2433ee3447ef",
+        "taric_code": "789ab47b-6f25-4079-8f96-c8cf82d4507e",
+        "variants": [
+          {
+            "id": "3237b429fb48d0e67155fedbc2266e38",
+            "name": "iplay Series Lights",
+            "description": "Buy iplay 196 inch Red, Green, Blue, White, Gold, Yellow Rice Lights for Rs.779 online. iplay 196 inch Red, Green, Blue, White, Gold, Yellow Rice Lights at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 5346,
+            "price": 1700,
+            "sale": false,
+            "sale_price": 779,
+            "stock_keeping_unit": "RCLEYEES29XP8EET",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/h/f/a/6clr-3528-mihoo-1-1100x1100-imaeyghshfqkzyhn.jpeg",
+                "filename": "6clr-3528-mihoo-1-1100x1100-imaeyghshfqkzyhn.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/h/f/a/6clr-3528-mihoo-1-original-imaeyghshfqkzyhn.jpeg",
+                "filename": "6clr-3528-mihoo-1-original-imaeyghshfqkzyhn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["iplay"] },
+              {
+                "key": "Multi-Functions",
+                "values": ["No color changing", "No Flickering"]
+              },
+              { "key": "Number of Functions", "values": ["1"] },
+              { "key": "Model Number", "values": ["3528WP6C"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Length", "values": ["196 inch"] },
+              {
+                "key": "Color",
+                "values": ["Red", "Green", "Blue", "White", "Gold", "Yellow"]
+              },
+              { "key": "Number of Bulbs", "values": ["300"] },
+              {
+                "key": "Power Requirement",
+                "values": ["AC 110V-240V 50/60Hz"]
+              },
+              { "key": "Power Consumption", "values": ["10 W"] },
+              { "key": "Other Power Features", "values": ["12 V"] },
+              { "key": "Sales Package", "values": ["1 Strip Led Roll"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "fefd40a0f803ecd5e4c9dedc7c634181",
+            "name": "iplay Series Lights",
+            "description": "Buy iplay 196 inch Red, Green, Blue, White, Gold, Yellow Rice Lights for Rs.799 online. iplay 196 inch Red, Green, Blue, White, Gold, Yellow Rice Lights at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 3929,
+            "price": 1999,
+            "sale": true,
+            "sale_price": 799,
+            "stock_keeping_unit": "RCLEYEESGC5RZ4YV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/4/y/v/3528cwp6c-iplay-1-original-imaeyghsgggwhfyd.jpeg",
+                "filename": "3528cwp6c-iplay-1-original-imaeyghsgggwhfyd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["iplay"] },
+              { "key": "Number of Functions", "values": ["1"] },
+              {
+                "key": "Multi-Functions",
+                "values": ["No color changing", "No Flickering"]
+              },
+              { "key": "Model Number", "values": ["3528CWP6C"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Length", "values": ["196 inch"] },
+              { "key": "Number of Bulbs", "values": ["300"] },
+              {
+                "key": "Color",
+                "values": ["Red", "Green", "Blue", "White", "Gold", "Yellow"]
+              },
+              { "key": "Power Consumption", "values": ["10 W"] },
+              {
+                "key": "Power Requirement",
+                "values": ["AC 110V-240V 50/60Hz"]
+              },
+              { "key": "Other Power Features", "values": ["12 V"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Strip Led Roll", "1 Led Driver", "1 Power Cord"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": false,
+      "id": "dd5754306a64fa659948458a87d8d57bf1c0ac7a"
+    },
+    {
+      "product": {
+        "id": "226aeb39a1fe9e6c24941aefc6c25bf53c6aaf01",
+        "name": "Mee Mee Cartoon Single Hooded Baby Blanket Cream",
+        "description": "Dummy description for product Mee Mee Cartoon Single Hooded Baby Blanket Cream",
+        "manufacturer_id": "b6bffde99cbe74fc14d0bf011b77532328695091",
+        "taric_code": "d050cf28-eb41-483c-be1a-97ab33f338dd",
+        "variants": [
+          {
+            "id": "72f30308addb2c9b58e5cbaf4d990c79",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Mee Mee Cartoon Single Hooded Baby Blanket Cream\n                         Price: Rs. 1,200\n\t\t\t\t\n\t\t\t\"Ideal for your newborn baby, this MeeMee Baby Wrapper-Blanket will stimulate the warmth and comfort of a mother's womb in order to let your baby sleep peacefully and wake up fresh.\n\nBreathable Fabric\n\nThe breathability of the fabric maintains your baby's body temperature if it gets too hot. The inflow of air allows the sweat to dry-off so that it does not cause any discomfort to your baby.\n\nSoft and Cozy\n\nThe soft fleece fabric is gentle on your baby's skin and does not cause any rashes or allergies.\n\nBelt to Secure the Baby\n\nWrap your baby in this blanket after a bath and tie the belt around his waist in order to make him sleep in an upright position. This will also restrict unwanted movements that could hurt his delicate body.\"\n\"Ideal for your newborn baby, this MeeMee Baby Wrapper-Blanket will stimulate the warmth and comfort of a mother's womb in order to let your baby sleep peacefully and wake up fresh.\n\nBreathable Fabric\n\nThe breathability of the fabric maintains your baby's body temperature if it gets too hot. The inflow of air allows the sweat to dry-off so that it does not cause any discomfort to your baby.\n\nSoft and Cozy\n\nThe soft fleece fabric is gentle on your baby's skin and does not cause any rashes or allergies.\n\nBelt to Secure the Baby\n\nWrap your baby in this blanket after a bath and tie the belt around his waist in order to make him sleep in an upright position. This will also restrict unwanted movements that could hurt his delicate body.\"",
+            "stock_level": 9813,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 1200,
+            "stock_keeping_unit": "BLAEEDMURAWADW54",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/w/5/4/mm-98073b-mee-mee-premium-baby-wrapper-1100x1100-imaeeccp6kvp8ysm.jpeg",
+                "filename": "mm-98073b-mee-mee-premium-baby-wrapper-1100x1100-imaeeccp6kvp8ysm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/w/5/4/mm-98073b-mee-mee-premium-baby-wrapper-original-imaeeccp6kvp8ysm.jpeg",
+                "filename": "mm-98073b-mee-mee-premium-baby-wrapper-original-imaeeccp6kvp8ysm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Mee Mee"] },
+              { "key": "Suitable For", "values": ["Outdoor"] },
+              { "key": "Type", "values": ["Hooded Baby Blanket"] },
+              { "key": "Model Name", "values": ["Premium Baby Wrapper"] },
+              { "key": "Ideal For", "values": ["Baby Boys and Baby Girls"] },
+              { "key": "Model ID", "values": ["Premium Baby Wrapper"] },
+              { "key": "Design", "values": ["Rabbit"] },
+              { "key": "Size", "values": ["Single"] },
+              { "key": "Color", "values": ["Cream"] },
+              { "key": "Width", "values": ["43 inch / 110 cm"] },
+              { "key": "Depth", "values": ["80 cm"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "226aeb39a1fe9e6c24941aefc6c25bf53c6aaf01"
+    },
+    {
+      "product": {
+        "id": "3904fd990ce810b5ff2a0395a380dbea326a5aa6",
+        "name": "Jewel Paradise Brass Jewel Set",
+        "description": "Dummy description for product Jewel Paradise Brass Jewel Set",
+        "manufacturer_id": "f5a3216cf8a2e8c2667530ff31e271a091885507",
+        "taric_code": "fac7f2e3-c43a-457f-8706-dacf757dac91",
+        "variants": [
+          {
+            "id": "f682a9c89c2b819dfa2169c01b9dbcdb",
+            "name": "Jewellery Sets",
+            "description": "Jewel Paradise Brass Jewel Set - Buy Jewel Paradise Brass Jewel Set only for Rs. 699 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9566,
+            "price": 799,
+            "sale": true,
+            "sale_price": 699,
+            "stock_keeping_unit": "JWSEBZN9X49CPUFH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/u/f/h/pmjpc-0036-jewel-paradise-original-imaebznahhpdqshv.jpeg",
+                "filename": "pmjpc-0036-jewel-paradise-original-imaebznahhpdqshv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/u/f/h/pmjpc-0036-jewel-paradise-original-imaebznahhpdqshv.jpeg",
+                "filename": "pmjpc-0036-jewel-paradise-original-imaebznahhpdqshv.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/t/v/t/pmjpc-0009-jewel-paradise-original-imaebzn9s9drmcgs.jpeg",
+                "filename": "pmjpc-0009-jewel-paradise-original-imaebzn9s9drmcgs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/u/u/g/pmjpc-0008-jewel-paradise-original-imaebzn9nqduzesa.jpeg",
+                "filename": "pmjpc-0008-jewel-paradise-original-imaebzn9nqduzesa.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/v/y/e/pmjpc-0012-jewel-paradise-original-imaebzn96vacehfm.jpeg",
+                "filename": "pmjpc-0012-jewel-paradise-original-imaebzn96vacehfm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Base Material", "values": ["Brass"] },
+              { "key": "Brand", "values": ["Jewel Paradise"] },
+              { "key": "Gemstone", "values": ["NA"] },
+              { "key": "Model Number", "values": ["PMJPC-0036"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Brass"] },
+              { "key": "Type", "values": ["Earring and Bangle Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Sales Package", "values": ["Jewellery Set"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "3904fd990ce810b5ff2a0395a380dbea326a5aa6"
+    },
+    {
+      "product": {
+        "id": "fa27546b52bfdeb761512b70225bbaf2b77f760f",
+        "name": "A To Z Traders 200 inch Yellow Rice Lights",
+        "description": "Dummy description for product A To Z Traders 200 inch Yellow Rice Lights",
+        "manufacturer_id": "758d4c0b82a5811b6163454bb018f5318681da71",
+        "taric_code": "276d3abb-57c0-434b-b0d9-32a098a71ac6",
+        "variants": [
+          {
+            "id": "de40082d14b674fa1a6d971347e0f054",
+            "name": "A To Z Traders Series Lights",
+            "description": "Buy A To Z Traders 200 inch Yellow Rice Lights for Rs.999 online. A To Z Traders 200 inch Yellow Rice Lights at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8352,
+            "price": 1499,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "RCLEBTZ3FYGGWGBZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/f/q/z/waterproof-strip-light-warmwhite-pack-of-1-a-to-z-traders-1-1100x1100-imaebu2u8prcn8g9.jpeg",
+                "filename": "waterproof-strip-light-warmwhite-pack-of-1-a-to-z-traders-1-1100x1100-imaebu2u8prcn8g9.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/f/q/z/waterproof-strip-light-warmwhite-pack-of-1-a-to-z-traders-1-original-imaebu2u8prcn8g9.jpeg",
+                "filename": "waterproof-strip-light-warmwhite-pack-of-1-a-to-z-traders-1-original-imaebu2u8prcn8g9.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["A To Z Traders"] },
+              { "key": "Multi-Functions", "values": ["Direct", "Steady"] },
+              {
+                "key": "Model Number",
+                "values": [
+                  "High Quality - 5M Warm White Strip Light - WaterProof (Pack of 1)"
+                ]
+              },
+              { "key": "Length", "values": ["200 inch"] },
+              { "key": "Color", "values": ["Yellow"] },
+              { "key": "Number of Bulbs", "values": ["300"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Strip Light", "Adapter"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "fa27546b52bfdeb761512b70225bbaf2b77f760f"
+    },
+    {
+      "product": {
+        "id": "80f552bb3d4c1e9fae0b1b0b311c8521c1bcc693",
+        "name": "Arabian Nights Soex Cranberry Assorted Hookah Flavor",
+        "description": "Dummy description for product Arabian Nights Soex Cranberry Assorted Hookah Flavor",
+        "manufacturer_id": "5531687af2c2b3b6ad9fc0d5da4929390cd9878f",
+        "taric_code": "f9a820b2-1995-421a-bade-121b12653450",
+        "variants": [
+          {
+            "id": "c417f408340252f170f05dadf88160d7",
+            "name": "Arabian Nights Hookah Flavors",
+            "description": "Arabian Nights Soex Cranberry Assorted Hookah Flavor (500 g)\n                         Price: Rs. 800\n\t\t\t\t\n\t\t\tAn excellent cranberry taste that overwhelms sweetness everytime you have it.\nAn excellent cranberry taste that overwhelms sweetness everytime you have it.",
+            "stock_level": 4761,
+            "price": 800,
+            "sale": false,
+            "sale_price": 800,
+            "stock_keeping_unit": "HOFEYQZPKEMRTVHH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/hookah-flavor/v/h/h/hcrbry-50-arabian-nights-original-imaeyrazsgt3habe.jpeg",
+                "filename": "hcrbry-50-arabian-nights-original-imaeyrazsgt3habe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/hookah-flavor/v/h/h/hcrbry-50-arabian-nights-original-imaeyrazsgt3habe.jpeg",
+                "filename": "hcrbry-50-arabian-nights-original-imaeyrazsgt3habe.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Arabian Nights"] },
+              { "key": "Flavor", "values": ["Assorted"] },
+              { "key": "Quantity", "values": ["500 g"] },
+              { "key": "Model Number", "values": ["HCRBRY-50"] },
+              { "key": "Model Name", "values": ["Soex Cranberry"] },
+              { "key": "Tobacco Free", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["Hookah Flavor"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Molasses Included", "values": ["Yes"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a5e11922f55247a70ae53360b69da5eb8e1d790b" }
+      },
+      "active": false,
+      "id": "80f552bb3d4c1e9fae0b1b0b311c8521c1bcc693"
+    },
+    {
+      "product": {
+        "id": "36663a2b52b56fb624bd5130c365230c3c367062",
+        "name": "Metro 300 inch Multicolor Rice Lights",
+        "description": "Dummy description for product Metro 300 inch Multicolor Rice Lights",
+        "manufacturer_id": "1608554678b6fc1bfd92f9630f8613f9de5a2c9d",
+        "taric_code": "6feab3e4-1005-43b7-b6db-2bb9974a0ea1",
+        "variants": [
+          {
+            "id": "3de228f7d2ffb310092606339bacce07",
+            "name": "Metro Series Lights",
+            "description": "Buy Metro 300 inch Multicolor Rice Lights for Rs.350 online. Metro 300 inch Multicolor Rice Lights at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6034,
+            "price": 600,
+            "sale": false,
+            "sale_price": 350,
+            "stock_keeping_unit": "RCLECS6HFGX2ZAY5",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/a/y/5/vj-jwm-253-metro-3-1100x1100-imaecb65cgvbfm78.jpeg",
+                "filename": "vj-jwm-253-metro-3-1100x1100-imaecb65cgvbfm78.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/a/y/5/vj-jwm-253-metro-3-original-imaecb65cgvbfm78.jpeg",
+                "filename": "vj-jwm-253-metro-3-original-imaecb65cgvbfm78.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Metro"] },
+              { "key": "Multi-Functions", "values": ["NA"] },
+              { "key": "Model Number", "values": ["VJ-JWM-253"] },
+              { "key": "Short Circuit Resistant", "values": ["No"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Length", "values": ["300 inch"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Number of Bulbs", "values": ["222"] },
+              { "key": "Power Requirement", "values": ["AC100-240v 50/60HZ"] },
+              { "key": "Power Consumption", "values": ["5 W"] },
+              {
+                "key": "Other Power Features",
+                "values": ["it can operate in inverter."]
+              },
+              { "key": "Sales Package", "values": ["3 Jewel Rice Light"] },
+              { "key": "Pack of", "values": ["3"] },
+              {
+                "key": "d2f15da6-9880-4919-b892-bdc95f5b797f",
+                "values": [
+                  "Mercury Free,Lead-FreeandEnergy Effcient illuminant,enviromentally friendly lamp."
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "36663a2b52b56fb624bd5130c365230c3c367062"
+    },
+    {
+      "product": {
+        "id": "ced064ca1a0d5f7266083ebe9eb7cdd89af73069",
+        "name": "Browse House Folded Hands Bank Monk Showpiece  -  11.4 cm",
+        "description": "Dummy description for product Browse House Folded Hands Bank Monk Showpiece  -  11.4 cm",
+        "manufacturer_id": "b42c1f5561c5e96310ce31b9b1c2e7c306f40303",
+        "taric_code": "7a6bd016-df79-422c-aecb-b617400b5a32",
+        "variants": [
+          {
+            "id": "8de71a0960e93f534602137c8110e7a9",
+            "name": "Browse House Religious Idols",
+            "description": "Browse House Folded Hands Bank Monk Showpiece  -  11.4 cm (Polyresin, Maroon, Gold)\n                         Price: Rs. 945\n\t\t\t\t\n\t\t\tFinely carved baby monk statue with a delicately desingned cloth dress will be a perfect addition to your home decor. Believed to bring good luck, good health, wealth, happiness and prosperity. This Baby Monk will make you smile everytime you see him, Priceless!\nFinely carved baby monk statue with a delicately desingned cloth dress will be a perfect addition to your home decor. Believed to bring good luck, good health, wealth, happiness and prosperity. This Baby Monk will make you smile everytime you see him, Priceless!",
+            "stock_level": 4159,
+            "price": 1500,
+            "sale": true,
+            "sale_price": 945,
+            "stock_keeping_unit": "SHIEARQ3SFURR9EY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/9/e/y/polyresin-cute-baby-monk-folding-hands-browse-house-original-imaeargzfm4df5vg.jpeg",
+                "filename": "polyresin-cute-baby-monk-folding-hands-browse-house-original-imaeargzfm4df5vg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/9/e/y/polyresin-cute-baby-monk-folding-hands-browse-house-original-imaearjycwjdrvfw.jpeg",
+                "filename": "polyresin-cute-baby-monk-folding-hands-browse-house-original-imaearjycwjdrvfw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Browse House"] },
+              {
+                "key": "Model Number",
+                "values": ["Polyresin Cute Baby Monk- Folding Hands"]
+              },
+              {
+                "key": "Type",
+                "values": ["Religious Idols", "Human Figurines", "Fengshui"]
+              },
+              { "key": "Material", "values": ["Polyresin"] },
+              { "key": "Model Name", "values": ["Folded Hands Bank Monk"] },
+              { "key": "Color", "values": ["Maroon", "Gold"] },
+              { "key": "Height", "values": ["11.4 cm"] },
+              { "key": "Width", "values": ["10.1 cm"] },
+              { "key": "Depth", "values": ["6.33 cm"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "ced064ca1a0d5f7266083ebe9eb7cdd89af73069"
+    },
+    {
+      "product": {
+        "id": "efdd8af036f5b6e3ee2a38982b3f88a868ee685e",
+        "name": "Raymond Home Floral Single Quilts & Comforters Red",
+        "description": "Dummy description for product Raymond Home Floral Single Quilts & Comforters Red",
+        "manufacturer_id": "c1a8b610987cea72211ea6c01cae8e4014b3eb91",
+        "taric_code": "dce06d60-260a-4cbb-bf1d-8e140bfa7c7d",
+        "variants": [
+          {
+            "id": "e3f1e3e296b51f3fe3fa63346ecc4d0b",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy Raymond Home Floral Single Quilts & Comforters Red at Rs. 1399 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 7283,
+            "price": 1399,
+            "sale": false,
+            "sale_price": 1399,
+            "stock_keeping_unit": "BLAECPWZZZVPSDFH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/d/f/h/0070bl-0005-raymond-home-raymond-home-single-blanket-1100x1100-imaecrnwazgqyz6f.jpeg",
+                "filename": "0070bl-0005-raymond-home-raymond-home-single-blanket-1100x1100-imaecrnwazgqyz6f.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/d/f/h/0070bl-0005-raymond-home-raymond-home-single-blanket-original-imaecrnwazgqyz6f.jpeg",
+                "filename": "0070bl-0005-raymond-home-raymond-home-single-blanket-original-imaecrnwazgqyz6f.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Machine Washable", "values": ["Yes"] },
+              { "key": "Brand", "values": ["Raymond Home"] },
+              { "key": "Suitable For", "values": ["Bed"] },
+              { "key": "Type", "values": ["Quilts and Comforters"] },
+              {
+                "key": "Model Name",
+                "values": ["Raymond Home Single Blanket"]
+              },
+              { "key": "Hand Washable", "values": ["No"] },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Model ID", "values": ["Raymond Home Single Blanket"] },
+              { "key": "Design", "values": ["Unicorn"] },
+              { "key": "Size", "values": ["Single"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Weight", "values": ["1800 g"] },
+              { "key": "Length", "values": ["62 inch / 160 cm"] },
+              { "key": "Width", "values": ["86 inch / 220 cm"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["Blanket"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "efdd8af036f5b6e3ee2a38982b3f88a868ee685e"
+    },
+    {
+      "product": {
+        "id": "a20fe262b8b668dfb87f8914ab69e955cb601fa7",
+        "name": "TUP Book Cover for iBall 3G 7271 HD 70 7 Inch",
+        "description": "Dummy description for product TUP Book Cover for iBall 3G 7271 HD 70 7 Inch",
+        "manufacturer_id": "bb1568cd63984b321f08a413c03c67044e9ce0f4",
+        "taric_code": "b4e8a38b-1294-4adc-bc6b-2d2cd1d12ae0",
+        "variants": [
+          {
+            "id": "3b94c6432430dac4e635c901aed88c7b",
+            "name": "TUP Cases & Covers",
+            "description": "TUP Book Cover for iBall 3G 7271 HD 70 7 Inch (Black)\n                         Price: Rs. 310\n\t\t\t\t\n\t\t\tProduct Details: Meet the Really TUP Smart Cover makes Tablet do things no other cover can. The Smart Cover doesn't just protect Tablet, it keeps it ready to go whenever you are. Magnetic Locks to lock your tablet when not in use and hence making it totally safe. Ultra Slim & lightweight Design -- only 2.4 mm at thickness and 13.2 gram. Soft high quality outer gives tactile and aesthetic appeal and full protects your latest Tablet whilst the interior adds strength and durability to the case PRODUCT SPECIFICATION - Custom made for the perfect fit - Provides front & back protection for your Tablet & has magnetic locks - Flips back and out of the way like a page in a magazine. This Cover Don'T Have Hole For Camera.\nProduct Details: Meet the Really TUP Smart Cover makes Tablet do things no other cover can. The Smart Cover doesn't just protect Tablet, it keeps it ready to go whenever you are. Magnetic Locks to lock your tablet when not in use and hence making it totally safe. Ultra Slim & lightweight Design -- only 2.4 mm at thickness and 13.2 gram. Soft high quality outer gives tactile and aesthetic appeal and full protects your latest Tablet whilst the interior adds strength and durability to the case PRODUCT SPECIFICATION - Custom made for the perfect fit - Provides front & back protection for your Tablet & has magnetic locks - Flips back and out of the way like a page in a magazine. This Cover Don'T Have Hole For Camera.",
+            "stock_level": 7969,
+            "price": 699,
+            "sale": false,
+            "sale_price": 310,
+            "stock_keeping_unit": "ACCED9SYSVAU9FRG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/flip-cover/u/y/z/tup-7ddtext431-1100x1100-imaed2zycccwqsdz.jpeg",
+                "filename": "tup-7ddtext431-1100x1100-imaed2zycccwqsdz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/flip-cover/u/y/z/tup-7ddtext431-original-imaed2zycccwqsdz.jpeg",
+                "filename": "tup-7ddtext431-original-imaed2zycccwqsdz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/flip-cover/f/e/x/tup-7ddtext222-original-imaed2zyhqe8preb.jpeg",
+                "filename": "tup-7ddtext222-original-imaed2zyhqe8preb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/flip-cover/z/z/a/tup-7ddtext300-original-imaed2zyp7hqmkbk.jpeg",
+                "filename": "tup-7ddtext300-original-imaed2zyp7hqmkbk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["TUP"] },
+              { "key": "Shade", "values": ["Black"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              {
+                "key": "Designed for",
+                "values": ["iBall 3G 7271 HD 70 7 Inch"]
+              },
+              { "key": "Model ID", "values": ["7DDtext116"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Sales Package", "values": ["7inch Tablet Cover"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": true,
+      "id": "a20fe262b8b668dfb87f8914ab69e955cb601fa7"
+    },
+    {
+      "product": {
+        "id": "4377ee53388005278c3f45bbc6a9119ff8943c6c",
+        "name": "Digilight 200 inch Blue, White Rice Lights",
+        "description": "Dummy description for product Digilight 200 inch Blue, White Rice Lights",
+        "manufacturer_id": "b5ba7f7e96b5a74230cb0b7315934065d1936465",
+        "taric_code": "fa518318-7f60-4fed-b006-6859a284cdc2",
+        "variants": [
+          {
+            "id": "77e07eb273f5489a3bcded26454d73e2",
+            "name": "Digilight Series Lights",
+            "description": "Digilight 200 inch Blue, White Rice Lights (Pack of 2)\n                         Price: Rs. 159\n\t\t\t\t\n\t\t\tThis Diwali, adorn your home like never before with these gorgeous lighting solutions from the house of Digilight. Available in a varied array of colours and types to suit your taste, these are made from durable PVC material and beautify your abode. Order these online today and get ready for the compliments to flow in.\nThis Diwali, adorn your home like never before with these gorgeous lighting solutions from the house of Digilight. Available in a varied array of colours and types to suit your taste, these are made from durable PVC material and beautify your abode. Order these online today and get ready for the compliments to flow in.",
+            "stock_level": 3691,
+            "price": 339,
+            "sale": false,
+            "sale_price": 159,
+            "stock_keeping_unit": "RCLEYW4P9GHDHBFR",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/f/u/y/786244-digilight-2-original-imaeytx2jf8tmuuc.jpeg",
+                "filename": "786244-digilight-2-original-imaeytx2jf8tmuuc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/f/n/x/786472-digilight-3-original-imaeytx2g4qsjezg.jpeg",
+                "filename": "786472-digilight-3-original-imaeytx2g4qsjezg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Digilight"] },
+              { "key": "Multi-Functions", "values": ["Steady"] },
+              { "key": "Model Number", "values": ["786019"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Length", "values": ["200 inch"] },
+              { "key": "Color", "values": ["Blue", "White"] },
+              {
+                "key": "Power Requirement",
+                "values": ["110 - 120 V", "50 Hz"]
+              },
+              { "key": "Sales Package", "values": ["2 Rice Light"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "4377ee53388005278c3f45bbc6a9119ff8943c6c"
+    },
+    {
+      "product": {
+        "id": "9c2020dffcd1537aea02ae3624fbe4996a7429de",
+        "name": "Rays007 Cartoon Double Quilts & Comforters Multicolor",
+        "description": "Dummy description for product Rays007 Cartoon Double Quilts & Comforters Multicolor",
+        "manufacturer_id": "f593125982aee176f7cce56614a8e99dae1e7c81",
+        "taric_code": "25ccc70e-fd2c-4ff9-a7f3-a198f0cda9bb",
+        "variants": [
+          {
+            "id": "96128be73c02179f19fb90ebe4af58fd",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Rays007 Cartoon Double Quilts & Comforters Multicolor (1 Double Comforter, 2 Pillow Covers)\n                         Price: Rs. 1,299\n\t\t\t\t\n\t\t\tRays Kids Double Comforter With 2 Pillow Covers\nRays Kids Double Comforter With 2 Pillow Covers",
+            "stock_level": 8045,
+            "price": 1599,
+            "sale": true,
+            "sale_price": 1299,
+            "stock_keeping_unit": "BLAED242BBPBXMC7",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/m/c/7/rays129-rays007-rays-kids-double-comforter-with-2-pillow-covers-original-imaecvb8tfqav44y.jpeg",
+                "filename": "rays129-rays007-rays-kids-double-comforter-with-2-pillow-covers-original-imaecvb8tfqav44y.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/m/c/7/rays129-rays007-rays-kids-double-comforter-with-2-pillow-covers-original-imaecvb8tfqav44y.jpeg",
+                "filename": "rays129-rays007-rays-kids-double-comforter-with-2-pillow-covers-original-imaecvb8tfqav44y.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Rays007"] },
+              { "key": "Suitable For", "values": ["Kids"] },
+              { "key": "Type", "values": ["Quilts and Comforters"] },
+              {
+                "key": "Model Name",
+                "values": ["Rays Kids Double Comforter With 2 Pillow Covers"]
+              },
+              { "key": "Ideal For", "values": ["Baby Boys and Baby Girls"] },
+              {
+                "key": "Model ID",
+                "values": ["Rays Kids Double Comforter With 2 Pillow Covers"]
+              },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Size", "values": ["Double"] },
+              { "key": "Design", "values": ["Cartoon Print"] },
+              { "key": "Weight", "values": ["1700 g"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Double Comforter", "2 Pillow Covers"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": false,
+      "id": "9c2020dffcd1537aea02ae3624fbe4996a7429de"
+    },
+    {
+      "product": {
+        "id": "8d6e89766772d9acd423e6e9baa3cfd611d62c35",
+        "name": "Valtellina Checkered Double Blanket Grey",
+        "description": "Dummy description for product Valtellina Checkered Double Blanket Grey",
+        "manufacturer_id": "796cc3ccb3886d5b9285cc480e2d7e0bed31d9f4",
+        "taric_code": "d969d1c6-3912-453f-bf41-476cf249df3f",
+        "variants": [
+          {
+            "id": "69ec7150a6c0192a0d140c92efbb9b55",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy Valtellina Checkered Double Blanket Grey at Rs. 799 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 5343,
+            "price": 1999,
+            "sale": true,
+            "sale_price": 799,
+            "stock_keeping_unit": "BLAEEDSFZHXRN2HG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/2/h/g/lmk-006-valtellina-landmark-original-imaeecefa3btm3ty.jpeg",
+                "filename": "lmk-006-valtellina-landmark-original-imaeecefa3btm3ty.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Valtellina"] },
+              { "key": "Suitable For", "values": ["Winter"] },
+              { "key": "Type", "values": ["Blanket"] },
+              { "key": "Model Name", "values": ["Landmark"] },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Model ID", "values": ["Landmark"] },
+              { "key": "Design", "values": ["Checkerd"] },
+              { "key": "Size", "values": ["Double"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "8d6e89766772d9acd423e6e9baa3cfd611d62c35"
+    },
+    {
+      "product": {
+        "id": "8c212cceb0db30c38ce6ee71a7ba05eeb066b070",
+        "name": "Welhouse Geometric Double Blanket Black",
+        "description": "Dummy description for product Welhouse Geometric Double Blanket Black",
+        "manufacturer_id": "a5f3a5acba25b4a0e60c9909f158630a570a6020",
+        "taric_code": "9eb39d3b-7581-426b-8c51-2863d55d0a29",
+        "variants": [
+          {
+            "id": "f41761a931135c6c043c7e04abda41b0",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy Welhouse Geometric Double Blanket Black at Rs. 1049 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 956,
+            "price": 1599,
+            "sale": false,
+            "sale_price": 1049,
+            "stock_keeping_unit": "BLAEEERTXBGBWYS8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/y/s/8/lmk015-welhouse-double-blanket-original-imaeechqz5xt2cam.jpeg",
+                "filename": "lmk015-welhouse-double-blanket-original-imaeechqz5xt2cam.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/y/s/8/lmk015-welhouse-double-blanket-original-imaeechqz5xt2cam.jpeg",
+                "filename": "lmk015-welhouse-double-blanket-original-imaeechqz5xt2cam.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Welhouse"] },
+              { "key": "Suitable For", "values": ["Stroller"] },
+              { "key": "Type", "values": ["Blanket"] },
+              { "key": "Model Name", "values": ["Double blanket"] },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Model ID", "values": ["Double blanket"] },
+              { "key": "Design", "values": ["Geomatrical"] },
+              { "key": "Size", "values": ["Double"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "8c212cceb0db30c38ce6ee71a7ba05eeb066b070"
+    },
+    {
+      "product": {
+        "id": "c3e477d4b6af13e69bb6d26cd05188d35d55c914",
+        "name": "Indcrown 15 inch Multicolor Rice Lights",
+        "description": "Dummy description for product Indcrown 15 inch Multicolor Rice Lights",
+        "manufacturer_id": "8e76fa8ca9b50a4252ae5f18fff295b00991f78e",
+        "taric_code": "cc5c8f5f-5743-4cdd-9f15-fb5fcaebc1a3",
+        "variants": [
+          {
+            "id": "44ae135c26aba97a6f425fe66f2f35de",
+            "name": "Indcrown Series Lights",
+            "description": "Buy Indcrown 15 inch Multicolor Rice Lights for Rs.229 online. Indcrown 15 inch Multicolor Rice Lights at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 7641,
+            "price": 499,
+            "sale": false,
+            "sale_price": 229,
+            "stock_keeping_unit": "RCLECY4F45H8YHKC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/h/k/c/ffc-indcrown-1-1100x1100-imaebxnktvgfzvgc.jpeg",
+                "filename": "ffc-indcrown-1-1100x1100-imaebxnktvgfzvgc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/h/k/c/ffc-indcrown-1-original-imaebxnktvgfzvgc.jpeg",
+                "filename": "ffc-indcrown-1-original-imaebxnktvgfzvgc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/h/k/c/ffc-indcrown-1-original-imaebxnkg36cxzqx.jpeg",
+                "filename": "ffc-indcrown-1-original-imaebxnkg36cxzqx.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Indcrown"] },
+              {
+                "key": "Multi-Functions",
+                "values": ["Blue Flower Light With Multicolor Light"]
+              },
+              { "key": "Model Number", "values": ["FFC"] },
+              { "key": "Length", "values": ["15 inch"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Number of Bulbs", "values": ["75"] },
+              { "key": "Sales Package", "values": ["Light"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "c3e477d4b6af13e69bb6d26cd05188d35d55c914"
+    },
+    {
+      "product": {
+        "id": "fefcb320754653e679d393b31093aae27f0c6a2f",
+        "name": "Charvee Alloy Jewel Set",
+        "description": "Dummy description for product Charvee Alloy Jewel Set",
+        "manufacturer_id": "f84bd34c421555cd709d0fd51e78f6abf6ad8899",
+        "taric_code": "baee43c4-9604-445c-9580-c10be76fd279",
+        "variants": [
+          {
+            "id": "293b52fe99e7c614d327ad254b29c75a",
+            "name": "Jewellery Sets",
+            "description": "Charvee Alloy Jewel Set - Buy Charvee Alloy Jewel Set only for Rs. 795 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6935,
+            "price": 995,
+            "sale": false,
+            "sale_price": 795,
+            "stock_keeping_unit": "JWSED746AYTCJA8G",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/a/8/g/r10211152mu7-charvee-1100x1100-imaed67uggbfhaqh.jpeg",
+                "filename": "r10211152mu7-charvee-1100x1100-imaed67uggbfhaqh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/a/8/g/r10211152mu7-charvee-original-imaed67uggbfhaqh.jpeg",
+                "filename": "r10211152mu7-charvee-original-imaed67uggbfhaqh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/a/8/g/r10211152mu7-charvee-original-imaed67upe9n2hfh.jpeg",
+                "filename": "r10211152mu7-charvee-original-imaed67upe9n2hfh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/jewellery-set/a/8/g/r10211152mu7-charvee-original-imaed67uxmvwztsb.jpeg",
+                "filename": "r10211152mu7-charvee-original-imaed67uxmvwztsb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Charvee"] },
+              { "key": "Model Number", "values": ["R10211152MU7"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Earring and Necklace Set"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Chain/Necklace Length", "values": ["8 inch"] },
+              { "key": "Weight", "values": ["30 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "1 Pair of Earrings"]
+              },
+              { "key": "Other Features", "values": ["Handmade Product"] }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "fefcb320754653e679d393b31093aae27f0c6a2f"
+    },
+    {
+      "product": {
+        "id": "63a815ff7c673eee32d1e0072303cf99243aebf2",
+        "name": "eCraftIndia Floral Single Quilts & Comforters Multicolor",
+        "description": "Dummy description for product eCraftIndia Floral Single Quilts & Comforters Multicolor",
+        "manufacturer_id": "f36ab90888fed238a4737fec9730a6193ed3b65f",
+        "taric_code": "e291f0d3-9a8c-47b9-a7ad-3f9769c47ecb",
+        "variants": [
+          {
+            "id": "cd71b07a1d37a5e2cc04240e8498cc76",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy eCraftIndia Floral Single Quilts & Comforters Multicolor at Rs. 1099 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 1028,
+            "price": 1599,
+            "sale": false,
+            "sale_price": 1099,
+            "stock_keeping_unit": "BLAEDZTE88SQUWWH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/w/w/h/hfbc128-ecraftindia-blue-floral-printed-single-bed-reversible-original-imaedpbbhch2zc4n.jpeg",
+                "filename": "hfbc128-ecraftindia-blue-floral-printed-single-bed-reversible-original-imaedpbbhch2zc4n.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/w/w/h/hfbc128-ecraftindia-blue-floral-printed-single-bed-reversible-original-imaedpbbhch2zc4n.jpeg",
+                "filename": "hfbc128-ecraftindia-blue-floral-printed-single-bed-reversible-original-imaedpbbhch2zc4n.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/w/w/h/hfbc128-ecraftindia-blue-floral-printed-single-bed-reversible-original-imaedpbbcnfnbhg5.jpeg",
+                "filename": "hfbc128-ecraftindia-blue-floral-printed-single-bed-reversible-original-imaedpbbcnfnbhg5.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/h/j/x/hfbc109-ecraftindia-spiderman-printed-single-bed-reversible-original-imaee3gv39rdphgj.jpeg",
+                "filename": "hfbc109-ecraftindia-spiderman-printed-single-bed-reversible-original-imaee3gv39rdphgj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["eCraftIndia"] },
+              { "key": "Type", "values": ["Quilts and Comforters"] },
+              { "key": "Hand Washable", "values": ["Yes"] },
+              {
+                "key": "Model ID",
+                "values": ["Blue Floral Printed Single Bed Reversible"]
+              },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Design", "values": ["Floral"] },
+              { "key": "Machine Washable", "values": ["Yes"] },
+              {
+                "key": "Suitable For",
+                "values": ["Stroller", "Cribs", "Winters"]
+              },
+              { "key": "Inner Material", "values": ["Polycotton"] },
+              {
+                "key": "Model Name",
+                "values": ["Blue Floral Printed Single Bed Reversible"]
+              },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Outer Material", "values": ["Polycotton"] },
+              { "key": "Size", "values": ["Single"] },
+              {
+                "key": "126f6132-8b42-490e-ad56-f12309c71a01",
+                "values": [
+                  "1 Month Domestic Warranty with no questions asked easy returns"
+                ]
+              },
+              { "key": "Weight", "values": ["995 g"] },
+              { "key": "Length", "values": ["84 inch / 214 cm"] },
+              { "key": "Width", "values": ["54 inch / 138 cm"] },
+              {
+                "key": "101d4cf6-e461-49e3-b92d-321965b62758",
+                "values": [
+                  "Soft to Touch",
+                  "Gentle against Skin",
+                  "Ideal for Babies with Sensitive Skin"
+                ]
+              },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Single Reversible AC Comforter"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": false,
+      "id": "63a815ff7c673eee32d1e0072303cf99243aebf2"
+    },
+    {
+      "product": {
+        "id": "42740eb3c8640ad218e60356a1e53668dc35de09",
+        "name": "The Art Treasure Decorative Shankh",
+        "description": "Dummy description for product The Art Treasure Decorative Shankh",
+        "manufacturer_id": "b3c9fa3867920cd7d4394e4eca19edafa89601b5",
+        "taric_code": "e27e0235-5b71-48b9-864e-050cdc9ee6e9",
+        "variants": [
+          {
+            "id": "edec3bb5df9c4bc618752e94532bb36e",
+            "name": "The Art Treasure Shankh",
+            "description": "Buy The Art Treasure Decorative Shankh for Rs.2900 online. The Art Treasure Decorative Shankh at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8575,
+            "price": 3800,
+            "sale": false,
+            "sale_price": 2900,
+            "stock_keeping_unit": "SNKEBPVFVGG8A5UR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shankh/5/u/r/atvt-51-1-the-art-treasure-1100x1100-imaebg9hetqhzh4d.jpeg",
+                "filename": "atvt-51-1-the-art-treasure-1100x1100-imaebg9hetqhzh4d.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shankh/5/u/r/atvt-51-1-the-art-treasure-original-imaebg9hetqhzh4d.jpeg",
+                "filename": "atvt-51-1-the-art-treasure-original-imaebg9hetqhzh4d.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Art Treasure"] },
+              { "key": "Model Number", "values": ["ATVT 51_1"] },
+              { "key": "Shade", "values": ["Gold"] },
+              { "key": "Type", "values": ["Decorative"] },
+              { "key": "Material", "values": ["Ceramic"] },
+              { "key": "Shankh Type", "values": ["Right Handed"] },
+              { "key": "Color", "values": ["Gold"] },
+              {
+                "key": "16f2e26d-cc31-416d-bd3f-ca035ef7fabc",
+                "values": ["1 Shankh"]
+              },
+              { "key": "Length", "values": ["19 cm"] },
+              { "key": "Width", "values": ["21 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "d1238845b957717462f8cd00f90e8c31344c0deb" }
+      },
+      "active": true,
+      "id": "42740eb3c8640ad218e60356a1e53668dc35de09"
+    },
+    {
+      "product": {
+        "id": "406848269a4392be0c5145fd43be0cde67fe3feb",
+        "name": "ShopSince Plain Single Electric Blanket Blue",
+        "description": "Dummy description for product ShopSince Plain Single Electric Blanket Blue",
+        "manufacturer_id": "a49ec50adf56128f9ae8a967e1942bb6a0590ce4",
+        "taric_code": "411a03dd-b730-48c7-b6b6-77dedae65c29",
+        "variants": [
+          {
+            "id": "ce15e71da3200e380e63a55ddd486a6c",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy ShopSince Plain Single Electric Blanket Blue at Rs. 1195 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 7574,
+            "price": 1999,
+            "sale": false,
+            "sale_price": 1195,
+            "stock_keeping_unit": "BLAEE6KSVJGTYQTN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/j/7/g/ebpr09-shopsince-eletric-blanket-single-by-paisa-worth-original-imaec6ktbw987w2x.jpeg",
+                "filename": "ebpr09-shopsince-eletric-blanket-single-by-paisa-worth-original-imaec6ktbw987w2x.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/j/7/g/ebpr09-shopsince-eletric-blanket-single-by-paisa-worth-original-imaec6ktbw987w2x.jpeg",
+                "filename": "ebpr09-shopsince-eletric-blanket-single-by-paisa-worth-original-imaec6ktbw987w2x.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["ShopSince"] },
+              { "key": "Suitable For", "values": ["Stroller"] },
+              { "key": "Type", "values": ["Electric Blanket"] },
+              {
+                "key": "Model Name",
+                "values": ["Eletric Blanket Single By Paisa Worth"]
+              },
+              { "key": "Ideal For", "values": ["Boys and Girls"] },
+              {
+                "key": "Model ID",
+                "values": ["Eletric Blanket Single By Paisa Worth"]
+              },
+              { "key": "Design", "values": ["Plain"] },
+              { "key": "Size", "values": ["Single"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "406848269a4392be0c5145fd43be0cde67fe3feb"
+    },
+    {
+      "product": {
+        "id": "39a9d55656f265af998a565e73c189e0caf8c1c5",
+        "name": "Adaa Ganesha Wall Hanging (3 Piece-Round) - Green Showpiece  -  25.5 cm",
+        "description": "Dummy description for product Adaa Ganesha Wall Hanging (3 Piece-Round) - Green Showpiece  -  25.5 cm",
+        "manufacturer_id": "39ad2a8a33276968ea8b103c071270b106900eef",
+        "taric_code": "539cb5f6-64a0-4fc0-ad7d-c54ae490cc1a",
+        "variants": [
+          {
+            "id": "ba52b7f305c5cba7d313c8c0b6a4a9b4",
+            "name": "Adaa Showpieces",
+            "description": "Buy Adaa Ganesha Wall Hanging (3 Piece-Round) - Green Showpiece  -  25.5 cm for Rs.560 online. Adaa Ganesha Wall Hanging (3 Piece-Round) - Green Showpiece  -  25.5 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 6507,
+            "price": 925,
+            "sale": true,
+            "sale_price": 560,
+            "stock_keeping_unit": "SHIE4ZNGP7YWVHEY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/h/e/y/70109-rgreen-adaa-original-imae4yumjytxzejq.jpeg",
+                "filename": "70109-rgreen-adaa-original-imae4yumjytxzejq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/e/y/70109-rgreen-adaa-original-imae4yumymrbjehx.jpeg",
+                "filename": "70109-rgreen-adaa-original-imae4yumymrbjehx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/e/y/70109-rgreen-adaa-original-imae4zpc269qcw7h.jpeg",
+                "filename": "70109-rgreen-adaa-original-imae4zpc269qcw7h.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/h/e/y/70109-rgreen-adaa-original-imae4yummhgghvcd.jpeg",
+                "filename": "70109-rgreen-adaa-original-imae4yummhgghvcd.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/h/e/y/70109-rgreen-adaa-original-imae4yumy95kcge9.jpeg",
+                "filename": "70109-rgreen-adaa-original-imae4yumy95kcge9.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Adaa"] },
+              { "key": "Model Number", "values": ["70109 Rgreen"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Material", "values": ["Terracotta"] },
+              {
+                "key": "Model Name",
+                "values": ["Ganesha Wall Hanging (3 Piece-Round) - Green"]
+              },
+              {
+                "key": "Purpose",
+                "values": [
+                  "Puja",
+                  "Show Piece",
+                  "Home d������������������cor",
+                  "Figurine",
+                  "Showpiece"
+                ]
+              },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Weight", "values": ["160 g"] },
+              { "key": "Height", "values": ["25.5 cm"] },
+              { "key": "Width", "values": ["6.25 cm"] },
+              { "key": "Depth", "values": ["2.5 cm"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "bbca3f2b8bfb80f5d49d5eec7284071f397b01e9" }
+      },
+      "active": true,
+      "id": "39a9d55656f265af998a565e73c189e0caf8c1c5"
+    },
+    {
+      "product": {
+        "id": "bce57d59838007fc5e687d7026b4cdf0ac2a9fee",
+        "name": "Digilight 590 inch White, Yellow, Red Rice Lights",
+        "description": "Dummy description for product Digilight 590 inch White, Yellow, Red Rice Lights",
+        "manufacturer_id": "b5ba7f7e96b5a74230cb0b7315934065d1936465",
+        "taric_code": "2aa75739-628f-495b-9620-0cf608f5ea82",
+        "variants": [
+          {
+            "id": "bb47847f92dacc18f97c1d33572289d0",
+            "name": "Digilight Series Lights",
+            "description": "Digilight 590 inch White, Yellow, Red Rice Lights (Pack of 3)\n                         Price: Rs. 539\n\t\t\t\t\n\t\t\tThis Diwali, adorn your home like never before with these gorgeous lighting solutions from the house of Digilight. Available in a varied array of colours and types to suit your taste, these are made from durable PVC material and beautify your abode. Order these online today and get ready for the compliments to flow in.\nThis Diwali, adorn your home like never before with these gorgeous lighting solutions from the house of Digilight. Available in a varied array of colours and types to suit your taste, these are made from durable PVC material and beautify your abode. Order these online today and get ready for the compliments to flow in.",
+            "stock_level": 9513,
+            "price": 739,
+            "sale": false,
+            "sale_price": 539,
+            "stock_keeping_unit": "RCLEYW4QNCRVHCGC",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/f/n/x/786472-digilight-3-original-imaeytx2g4qsjezg.jpeg",
+                "filename": "786472-digilight-3-original-imaeytx2g4qsjezg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/g/e/k/786322-digilight-3-original-imaeytx2wgjbtzva.jpeg",
+                "filename": "786322-digilight-3-original-imaeytx2wgjbtzva.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/j/g/d/786245-digilight-3-original-imaeytx2frn6nrzn.jpeg",
+                "filename": "786245-digilight-3-original-imaeytx2frn6nrzn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Digilight"] },
+              { "key": "Multi-Functions", "values": ["Steady"] },
+              { "key": "Model Number", "values": ["786456"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Length", "values": ["590 inch"] },
+              { "key": "Color", "values": ["White", "Yellow", "Red"] },
+              {
+                "key": "Power Requirement",
+                "values": ["110 - 120 V", "50 Hz"]
+              },
+              { "key": "Sales Package", "values": ["3 Rice Light"] },
+              { "key": "Pack of", "values": ["3"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "bce57d59838007fc5e687d7026b4cdf0ac2a9fee"
+    },
+    {
+      "product": {
+        "id": "db8a995777cde41b2776ae146a1410922c4ab47c",
+        "name": "MDI 787 inch Multicolor Rice Lights",
+        "description": "Dummy description for product MDI 787 inch Multicolor Rice Lights",
+        "manufacturer_id": "822c66f66c9b81e80a7feeff97db8ab12f268882",
+        "taric_code": "919ea9ea-f1da-4c83-b003-f276d33e3d07",
+        "variants": [
+          {
+            "id": "19b6c03b2f65a5dfde002c8d4f4ff2f6",
+            "name": "MDI Series Lights",
+            "description": "MDI 787 inch Multicolor Rice Lights (Pack of 2)\n                         Price: Rs. 699\n\t\t\t\t\n\t\t\tFausted Multi color 20 mtr each with 120 bulb use in Diwali and all festival like Christmas Durga puja home occasion birth day party good for looking and no water go inside long life with multi-functions\nFausted Multi color 20 mtr each with 120 bulb use in Diwali and all festival like Christmas Durga puja home occasion birth day party good for looking and no water go inside long life with multi-functions",
+            "stock_level": 9678,
+            "price": 999,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "RCLEBWHTEYTFZ2FF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/2/f/f/20-meters-2-mdi-2-1100x1100-imaebzvueumrkdsb.jpeg",
+                "filename": "20-meters-2-mdi-2-1100x1100-imaebzvueumrkdsb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/2/f/f/20-meters-2-mdi-2-original-imaebzvueumrkdsb.jpeg",
+                "filename": "20-meters-2-mdi-2-original-imaebzvueumrkdsb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["MDI"] },
+              {
+                "key": "Multi-Functions",
+                "values": ["Color Changing", "Flickering"]
+              },
+              { "key": "Model Number", "values": ["20 Meters-2"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Length", "values": ["787 inch"] },
+              { "key": "Number of Bulbs", "values": ["120"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              {
+                "key": "Power Requirement",
+                "values": ["AC 110V-240V 50/60Hz"]
+              },
+              {
+                "key": "Sales Package",
+                "values": ["2 Multi-Color Rice Light"]
+              },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "db8a995777cde41b2776ae146a1410922c4ab47c"
+    },
+    {
+      "product": {
+        "id": "12d02c475f634046ff1c364537a196d3fd00a8a2",
+        "name": "Hyipe Women's Geometric Print Casual Shirt",
+        "description": "Dummy description for product Hyipe Women's Geometric Print Casual Shirt",
+        "manufacturer_id": "789edc0b6958c488443713c7b62cd5162517b83b",
+        "taric_code": "f4701eba-1ec0-406b-a8e8-300fe54dab00",
+        "variants": [
+          {
+            "id": "a3340075065b1d51eaf822d9fbf6b146",
+            "name": "Hyipe Shirt",
+            "description": "Hyipe Women's Geometric Print Casual Shirt - Buy Brown Hyipe Women's Geometric Print Casual Shirt For Only Rs. 699 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+            "stock_level": 2675,
+            "price": 699,
+            "sale": false,
+            "sale_price": 318,
+            "stock_keeping_unit": "SHTEBCJFZNQTDTJV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shirt/t/j/v/b-hyipe-s-original-imaebcydceegwfz6.jpeg",
+                "filename": "b-hyipe-s-original-imaebcydceegwfz6.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/t/j/v/b-hyipe-s-original-imaebevs9gy4yxyg.jpeg",
+                "filename": "b-hyipe-s-original-imaebevs9gy4yxyg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shirt/t/j/v/b-hyipe-s-original-imaebaehgahhcg54.jpeg",
+                "filename": "b-hyipe-s-original-imaebaehgahhcg54.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Geometric Print"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sleeve", "values": ["3/4 Sleeve"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Brand Fit", "values": ["Regular"] },
+              { "key": "Fabric", "values": ["Chiffon"] },
+              { "key": "Fit", "values": ["Regular"] },
+              { "key": "Style Code", "values": ["B"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "57b29eac8cbde65c4811db86b63ca9e6a077b9bd" }
+      },
+      "active": true,
+      "id": "12d02c475f634046ff1c364537a196d3fd00a8a2"
+    },
+    {
+      "product": {
+        "id": "086db8a82116d128596b8f91f97683aa0a1ff186",
+        "name": "Advitiya Black Metal Gurunanak Ji Showpiece  -  28 cm",
+        "description": "Dummy description for product Advitiya Black Metal Gurunanak Ji Showpiece  -  28 cm",
+        "manufacturer_id": "400f3955d23d7363a11dfbcacb348ccf8bebe262",
+        "taric_code": "de3ff77b-4c88-4348-9a34-7e2c19d60c43",
+        "variants": [
+          {
+            "id": "119482d87d792d030104fb3d85c8363c",
+            "name": "Advitiya Religious Idols",
+            "description": "Advitiya Black Metal Gurunanak Ji Showpiece  -  28 cm (Brass, Copper)\n                         Price: Rs. 599\n\t\t\t\t\n\t\t\tAdvitiya of Bringing prosperity and happiness to your living spaces.Add an element of spirituality to your home decor Showpiece Figurine. It could be a great gifting option for religious celebrations or festivals.MaterialCrafted from aluminium, this showpiece reflects the artistic brilliance and adds elegance to your home decor For an Attractive Look,this showpiece can be wall mounted. So to create an elegant and attractive look you can hang it in your living room or bedroom. It can also be an ideal addition to your pooja room.\n\t\t\n    \n        \n            Was this product information helpful?\n            \n                \n                Yes\n            \n            \n                \n                No\n            \n            Thanks for your vote!\n        \n        \n            \n                \n                Please write your feedback before submitting.\n                \n                    \n                    Skip\n                \n            \n        \n    \n\n\n        \n            \n            \n        \n\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n            \n        \n        \n\n\n\n\n\t\n\t\t\n\t\t\t\n                    Specifications of Advitiya Black Metal Gurunanak Ji Showpiece  -  28 cm (Brass, Copper)\n            \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tGeneral\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tBrand\n\t\t\t\t\t\t\t\t\t\n                                                Advitiya\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tModel Number\n\t\t\t\t\t\t\t\t\t\n                                                AYHD_32\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tType\n\t\t\t\t\t\t\t\t\t\n                                                Religious Idols\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMaterial\n\t\t\t\t\t\t\t\t\t\n                                                Brass\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tModel Name\n\t\t\t\t\t\t\t\t\t\n                                                Black Metal Gurunanak Ji\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tColor\n\t\t\t\t\t\t\t\t\t\n                                                Copper\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDimensions\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWeight\n\t\t\t\t\t\t\t\t\t\n                                                150 g\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHeight\n\t\t\t\t\t\t\t\t\t\n                                                28 cm\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWidth\n\t\t\t\t\t\t\t\t\t\n                                                15 cm\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDepth\n\t\t\t\t\t\t\t\t\t\n                                                0.5 cm\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAdditional Features\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWater Resistant\n\t\t\t\t\t\t\t\t\t\n                                                No\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWall Mount\n\t\t\t\t\t\t\t\t\t\n                                                Yes\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIn the Box\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSales Package\n\t\t\t\t\t\t\t\t\t\n                                                1 Showpiece Figurine\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPack of\n\t\t\t\t\t\t\t\t\t\n                                                1\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n    \n        \n            Was the product specification helpful?\n            \n                \n                Yes\n            \n            \n                \n                No\n            \n            Thanks for your vote!\n        \n        \n            \n                \n                Please write your feedback before submitting.\n                \n                    \n                    Skip\n                \n            \n        \n    \n\n        Please Note: All products sold on Flipkart are brand new and 100% genuine\nAdvitiya of Bringing prosperity and happiness to your living spaces.Add an element of spirituality to your home decor Showpiece Figurine. It could be a great gifting option for religious celebrations or festivals.MaterialCrafted from aluminium, this showpiece reflects the artistic brilliance and adds elegance to your home decor For an Attractive Look,this showpiece can be wall mounted. So to create an elegant and attractive look you can hang it in your living room or bedroom. It can also be an ideal addition to your pooja room.",
+            "stock_level": 694,
+            "price": 1198,
+            "sale": true,
+            "sale_price": 599,
+            "stock_keeping_unit": "SHIEDJR9RF8WTDZZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/d/z/z/ayhd-32-advitiya-1100x1100-imae25gcdxfwuabb.jpeg",
+                "filename": "ayhd-32-advitiya-1100x1100-imae25gcdxfwuabb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/showpiece-figurine/d/z/z/ayhd-32-advitiya-original-imae25gcdxfwuabb.jpeg",
+                "filename": "ayhd-32-advitiya-original-imae25gcdxfwuabb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Advitiya"] },
+              { "key": "Model Number", "values": ["AYHD_32"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Model Name", "values": ["Black Metal Gurunanak Ji"] },
+              { "key": "Color", "values": ["Copper"] },
+              { "key": "Weight", "values": ["150 g"] },
+              { "key": "Height", "values": ["28 cm"] },
+              { "key": "Width", "values": ["15 cm"] },
+              { "key": "Depth", "values": ["0.5 cm"] },
+              { "key": "Water Resistant", "values": ["No"] },
+              { "key": "Wall Mount", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "086db8a82116d128596b8f91f97683aa0a1ff186"
+    },
+    {
+      "product": {
+        "id": "6a6bf77d91a61b1e43f7f480d71b5c77af886e8d",
+        "name": "Jaipar Heritage Floral Single Quilts & Comforters Multicolor",
+        "description": "Dummy description for product Jaipar Heritage Floral Single Quilts & Comforters Multicolor",
+        "manufacturer_id": "ee906a8bd6ac2515504f8a3600cec5304b2bec22",
+        "taric_code": "0d7f5297-1dd3-4300-947b-75313c657893",
+        "variants": [
+          {
+            "id": "c055533e388779dba43741e07d7b40a7",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy Jaipar Heritage Floral Single Quilts & Comforters Multicolor at Rs. 1290 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 228,
+            "price": 1990,
+            "sale": false,
+            "sale_price": 1290,
+            "stock_keeping_unit": "BLAEDZ9GGZT3GHF5",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/h/f/5/09single-jaipar-heritage-09single-original-imaedr8xyeshak7g.jpeg",
+                "filename": "09single-jaipar-heritage-09single-original-imaedr8xyeshak7g.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/h/f/5/09single-jaipar-heritage-09single-original-imaedr8ygz2umxgb.jpeg",
+                "filename": "09single-jaipar-heritage-09single-original-imaedr8ygz2umxgb.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jaipar Heritage"] },
+              { "key": "Machine Washable", "values": ["No"] },
+              { "key": "Suitable For", "values": ["Single"] },
+              { "key": "Type", "values": ["Quilts and Comforters"] },
+              { "key": "Model Name", "values": ["09SINGLE"] },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Hand Washable", "values": ["No"] },
+              { "key": "Model ID", "values": ["09SINGLE"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Size", "values": ["Single"] },
+              { "key": "Design", "values": ["09"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "6a6bf77d91a61b1e43f7f480d71b5c77af886e8d"
+    },
+    {
+      "product": {
+        "id": "2c3cb1f5f4771b87dbb08fc65d54b2690cd83621",
+        "name": "Unnati Abstract Single Top Sheet Multicolor",
+        "description": "Dummy description for product Unnati Abstract Single Top Sheet Multicolor",
+        "manufacturer_id": "453e429ad5fae13beb25d36ed7b9fae41948f51c",
+        "taric_code": "7866759f-6104-412d-afbd-e3fb03b84b1f",
+        "variants": [
+          {
+            "id": "5be86e35f21b1514d0e7742893d6cfba",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Unnati Abstract Single Top Sheet Multicolor\n                         Price: Rs. 520\n\t\t\t\t\n\t\t\tunnati mink blanket WITH MULTIPLE colur having polyster thread ..easy to use & easy to wash.\nunnati mink blanket WITH MULTIPLE colur having polyster thread ..easy to use & easy to wash.",
+            "stock_level": 146,
+            "price": 1797,
+            "sale": false,
+            "sale_price": 520,
+            "stock_keeping_unit": "BLAEFHQ3HZPRCD8Z",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/d/8/z/ra9675-unnati-mink-original-imaefhgpfmnxwgqu.jpeg",
+                "filename": "ra9675-unnati-mink-original-imaefhgpfmnxwgqu.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/d/8/z/ra9675-unnati-mink-original-imaefhgpfmnxwgqu.jpeg",
+                "filename": "ra9675-unnati-mink-original-imaefhgpfmnxwgqu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Unnati"] },
+              { "key": "Type", "values": ["Top Sheet"] },
+              { "key": "Model Name", "values": ["Mink"] },
+              { "key": "Model ID", "values": ["Mink"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Size", "values": ["Single"] }
+            ]
+          },
+          {
+            "id": "c1bf8ccbb701359f2039e7c48c47724e",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy Unnati Abstract Single Top Sheet Multicolor at Rs. 599 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 1632,
+            "price": 1797,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "BLAEFHQ3DNE82GHZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/7/b/k/ra9659-unnati-mink-original-imaefhgqfh5ghmyz.jpeg",
+                "filename": "ra9659-unnati-mink-original-imaefhgqfh5ghmyz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/7/b/k/ra9659-unnati-mink-original-imaefhgqfh5ghmyz.jpeg",
+                "filename": "ra9659-unnati-mink-original-imaefhgqfh5ghmyz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Unnati"] },
+              { "key": "Type", "values": ["Top Sheet"] },
+              { "key": "Model Name", "values": ["Mink"] },
+              { "key": "Model ID", "values": ["Mink"] },
+              { "key": "Size", "values": ["Single"] },
+              { "key": "Color", "values": ["Multicolor"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "2c3cb1f5f4771b87dbb08fc65d54b2690cd83621"
+    },
+    {
+      "product": {
+        "id": "0af7c7805d132a50b6e4a514489fd61b1058542a",
+        "name": "Craft And Curtain Multicolor 178 cm Table Runner",
+        "description": "Dummy description for product Craft And Curtain Multicolor 178 cm Table Runner",
+        "manufacturer_id": "a329316fa9b426fc96d7e6f3b2b928897aaddea9",
+        "taric_code": "448bdc7c-aca1-48ce-8fc0-7c9551fd7518",
+        "variants": [
+          {
+            "id": "13596c5cc53a74268613e5c0b7d46b60",
+            "name": "Table Runners",
+            "description": "Buy Craft And Curtain Multicolor 178 cm Table Runner at Rs. 599 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 1662,
+            "price": 799,
+            "sale": true,
+            "sale_price": 599,
+            "stock_keeping_unit": "TBREDUYYSAKJ4FVM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/table-runner/f/v/m/tr-02-tr-02-craft-and-curtain-original-imaeduuk2v7zeyvk.jpeg",
+                "filename": "tr-02-tr-02-craft-and-curtain-original-imaeduuk2v7zeyvk.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/table-runner/f/v/m/tr-02-tr-02-craft-and-curtain-original-imaeduuk2v7zeyvk.jpeg",
+                "filename": "tr-02-tr-02-craft-and-curtain-original-imaeduuk2v7zeyvk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Centrestrip", "values": ["No"] },
+              { "key": "Shape", "values": ["Rectangle"] },
+              { "key": "Brand", "values": ["Craft And Curtain"] },
+              { "key": "Reversible", "values": ["No"] },
+              { "key": "Design Code", "values": ["TR-02"] },
+              { "key": "Border", "values": ["Stripes"] },
+              { "key": "Runner Ends", "values": ["Corded Edge"] },
+              { "key": "Material", "values": ["Cotton"] },
+              { "key": "Style Code", "values": ["TR-02"] },
+              { "key": "Pattern", "values": ["Abstract"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Weight", "values": ["492 g"] },
+              { "key": "Length", "values": ["70 inch / 178 cm"] },
+              { "key": "Width", "values": ["15 inch / 40 cm"] },
+              {
+                "key": "Fabric Care",
+                "values": [
+                  "Machine Washable",
+                  "Do Not Soak",
+                  "Cold Wash",
+                  "Dry in Shade"
+                ]
+              },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["Table Runner"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "9b3b9c0213c5d7fd8e3154975d227984d3cbadf6" }
+      },
+      "active": false,
+      "id": "0af7c7805d132a50b6e4a514489fd61b1058542a"
+    },
+    {
+      "product": {
+        "id": "9950ab2c8f0ac82a6541a4b63d35c63aece641bd",
+        "name": "Abee 36 inch Multicolor Rice Lights",
+        "description": "Dummy description for product Abee 36 inch Multicolor Rice Lights",
+        "manufacturer_id": "dbb9fecdb08f03e00875413f6e94ecbcc2d095d4",
+        "taric_code": "e9a4f9a0-ff6b-43ee-bbab-08e9b4cd10e4",
+        "variants": [
+          {
+            "id": "a6f276d2a319f547f53ed2bd612de152",
+            "name": "Abee Series Lights",
+            "description": "Buy Abee 36 inch Multicolor Rice Lights for Rs.149 online. Abee 36 inch Multicolor Rice Lights at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 666,
+            "price": 249,
+            "sale": false,
+            "sale_price": 149,
+            "stock_keeping_unit": "RCLEE2NJGGZXXA3Q",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/a/3/q/li02-abee-1-1100x1100-imaec38yvwyjqhva.jpeg",
+                "filename": "li02-abee-1-1100x1100-imaec38yvwyjqhva.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/a/3/q/li02-abee-1-original-imaec38yvwyjqhva.jpeg",
+                "filename": "li02-abee-1-original-imaec38yvwyjqhva.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/a/3/q/li02-abee-1-original-imaec38ypnhbmyek.jpeg",
+                "filename": "li02-abee-1-original-imaec38ypnhbmyek.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Abee"] },
+              { "key": "Multi-Functions", "values": ["Flickering"] },
+              { "key": "Model Number", "values": ["Li02"] },
+              { "key": "Length", "values": ["36 inch"] },
+              { "key": "Number of Bulbs", "values": ["50"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Sales Package", "values": ["1 Rice Light"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "9950ab2c8f0ac82a6541a4b63d35c63aece641bd"
+    },
+    {
+      "product": {
+        "id": "ee72fc87df561c25fafd5906e72614fcbd465898",
+        "name": "The Intellect Bazaar Plain King Blanket Grey",
+        "description": "Dummy description for product The Intellect Bazaar Plain King Blanket Grey",
+        "manufacturer_id": "0f351b55ea5b2379208c9fbfff72857b260e728b",
+        "taric_code": "b49fd6d9-febc-4ef3-bb2b-b26463acd387",
+        "variants": [
+          {
+            "id": "bba68d75eff1b7b5eef7f6c1c68f2227",
+            "name": "Blankets, Quilts & Dohars",
+            "description": "Buy The Intellect Bazaar Plain King Blanket Grey at Rs. 999 at Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!",
+            "stock_level": 3915,
+            "price": 3499,
+            "sale": false,
+            "sale_price": 999,
+            "stock_keeping_unit": "BLAEE4WUZEHPYMRH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/m/r/h/fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-1100x1100-imaee4kfzjedcxnb.jpeg",
+                "filename": "fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-1100x1100-imaee4kfzjedcxnb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/m/r/h/fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-original-imaee4kfzjedcxnb.jpeg",
+                "filename": "fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-original-imaee4kfzjedcxnb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/m/r/h/fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-original-imaee4k3ep56ffjc.jpeg",
+                "filename": "fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-original-imaee4k3ep56ffjc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/blanket/m/r/h/fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-original-imaee4k4emevpbmm.jpeg",
+                "filename": "fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-original-imaee4k4emevpbmm.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/blanket/m/r/h/fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-original-imaee4k4dkshghhu.jpeg",
+                "filename": "fleece-blanket-grey-the-intellect-bazaar-super-soft-blanket-original-imaee4k4dkshghhu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["The Intellect Bazaar"] },
+              { "key": "Machine Washable", "values": ["Yes"] },
+              { "key": "Suitable For", "values": ["Double Bed"] },
+              { "key": "Type", "values": ["Blanket"] },
+              { "key": "Inner Material", "values": ["Acrylic"] },
+              { "key": "Model Name", "values": ["Super Soft Blanket"] },
+              { "key": "Ideal For", "values": ["Men and Women"] },
+              { "key": "Hand Washable", "values": ["Yes"] },
+              { "key": "Model ID", "values": ["Super Soft Blanket"] },
+              { "key": "Color", "values": ["Grey"] },
+              { "key": "Size", "values": ["King"] },
+              { "key": "Design", "values": ["Plain"] },
+              { "key": "Weight", "values": ["1500 g"] },
+              { "key": "Length", "values": ["100 inch / 254 cm"] },
+              { "key": "Width", "values": ["88 inch / 225 cm"] },
+              { "key": "Number of Contents in Sales Package", "values": ["1"] },
+              { "key": "Sales Package", "values": ["1 Blanket"] },
+              {
+                "key": "bd3bf2e5-d2fa-4d88-b2a9-bcded113c31d",
+                "values": ["Soft To Touch", "Elegance Forever"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "ee9d7c30ec335cf2cab1c3474dd17416acc4d485" }
+      },
+      "active": true,
+      "id": "ee72fc87df561c25fafd5906e72614fcbd465898"
+    },
+    {
+      "product": {
+        "id": "0ac66292eae173ac2f21d19a6a461c95cc464efb",
+        "name": "Voylla Artifictial Floral Plain Alloy Jewel Set",
+        "description": "Dummy description for product Voylla Artifictial Floral Plain Alloy Jewel Set",
+        "manufacturer_id": "b9205ec92f160e73c7d344d7d9f31cb90449a12f",
+        "taric_code": "317ffabd-2c38-477e-a189-8a9ec6615aae",
+        "variants": [
+          {
+            "id": "e41124f22d1fd8b5391aac6c1cb2745b",
+            "name": "Jewellery Sets",
+            "description": "Voylla Artifictial Floral Plain Alloy Jewel Set - Buy Voylla Artifictial Floral Plain Alloy Jewel Set only for Rs. 699 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2337,
+            "price": 879,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "JWSE75Q9ZFVHWJXQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/j/x/q/xudel20265-voylla-original-imae74hvrtmgvzbv.jpeg",
+                "filename": "xudel20265-voylla-original-imae74hvrtmgvzbv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/j/x/q/xudel20265-voylla-original-imae74hvxsgyphmw.jpeg",
+                "filename": "xudel20265-voylla-original-imae74hvxsgyphmw.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/jewellery-set/j/x/q/xudel20265-voylla-original-imae74hvtzwbg5hk.jpeg",
+                "filename": "xudel20265-voylla-original-imae74hvtzwbg5hk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Brand", "values": ["Voylla"] },
+              { "key": "Gemstone", "values": ["NA"] },
+              { "key": "Model Number", "values": ["XUDEL20265"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Plating", "values": ["Silver"] },
+              { "key": "Type", "values": ["Earring and Pendant Set"] },
+              { "key": "Model Name", "values": ["Artifictial Floral Plain"] },
+              { "key": "Finish", "values": ["Plain"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Weight", "values": ["7.51 g"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Pendant", "1 Chain", "2 Earrings"]
+              }
+            ]
+          }
+        ],
+        "category": { "id": "eb3b3e50c1aa02ba7fc85493e64110cc766b9a06" }
+      },
+      "active": true,
+      "id": "0ac66292eae173ac2f21d19a6a461c95cc464efb"
+    },
+    {
+      "product": {
+        "id": "f8c6e8edc0b201cfdf078469f339f2ef37948f22",
+        "name": "Apkamart Radha Krishna Wall Hanging 15 Inch Showpiece  -  37 cm",
+        "description": "Dummy description for product Apkamart Radha Krishna Wall Hanging 15 Inch Showpiece  -  37 cm",
+        "manufacturer_id": "cbce0cd170fb3208ef0cd63479e15c2d9386ad8c",
+        "taric_code": "5319d9ff-8c41-42e5-a902-2ff26d6671b3",
+        "variants": [
+          {
+            "id": "2067da85bf2f89c6a0f7330af0aefbf3",
+            "name": "Apkamart Religious Idols",
+            "description": "Buy Apkamart Radha Krishna Wall Hanging 15 Inch Showpiece  -  37 cm for Rs.849 online. Apkamart Radha Krishna Wall Hanging 15 Inch Showpiece  -  37 cm at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 8184,
+            "price": 1500,
+            "sale": false,
+            "sale_price": 849,
+            "stock_keeping_unit": "SHIEA6XUGR3SJNHN",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/n/h/n/amgmhangradkrsnjhulamed-apkamart-1100x1100-imaea6myjbtuyyqn.jpeg",
+                "filename": "amgmhangradkrsnjhulamed-apkamart-1100x1100-imaea6myjbtuyyqn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/showpiece-figurine/n/h/n/amgmhangradkrsnjhulamed-apkamart-original-imaea6myjbtuyyqn.jpeg",
+                "filename": "amgmhangradkrsnjhulamed-apkamart-original-imaea6myjbtuyyqn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Apkamart"] },
+              { "key": "Model Number", "values": ["AMGMHANGRADKRSNJHULAMED"] },
+              { "key": "Type", "values": ["Religious Idols"] },
+              { "key": "Material", "values": ["Cast Iron"] },
+              {
+                "key": "Model Name",
+                "values": ["Radha Krishna Wall Hanging 15 Inch"]
+              },
+              { "key": "Color", "values": ["Copper"] },
+              { "key": "Weight", "values": ["560 g"] },
+              { "key": "Height", "values": ["37 cm"] },
+              { "key": "Width", "values": ["28 cm"] },
+              { "key": "Depth", "values": ["3 cm"] },
+              { "key": "Wall Mount", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 Showpiece Figurine"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "a31df51a005b3cb05ed3d1bd10944ae9afd057df" }
+      },
+      "active": true,
+      "id": "f8c6e8edc0b201cfdf078469f339f2ef37948f22"
+    },
+    {
+      "product": {
+        "id": "ee50606332f7dc385533dae0c89370d5ff59641b",
+        "name": "Hoko Book Cover for Apple iPad Mini 3",
+        "description": "Dummy description for product Hoko Book Cover for Apple iPad Mini 3",
+        "manufacturer_id": "d6b5e2e290d719a923953a765af6449f0cdd1502",
+        "taric_code": "c03af53e-66ea-43a1-98e5-45d19929adfc",
+        "variants": [
+          {
+            "id": "3a035a48781235dfa0e71fe9cf196826",
+            "name": "Hoko Cases & Covers",
+            "description": "Buy Hoko Book Cover for Apple iPad Mini 3 only for Rs. 1200 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6883,
+            "price": 2500,
+            "sale": false,
+            "sale_price": 1200,
+            "stock_keeping_unit": "ACCE7MAU5WRZ4VCQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/book-cover/v/c/q/hoko-hoko-360-black-ipad-mini-3-original-imae7mcqhdqwnhfy.jpeg",
+                "filename": "hoko-hoko-360-black-ipad-mini-3-original-imae7mcqhdqwnhfy.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/v/c/q/hoko-hoko-360-black-ipad-mini-3-original-imae7mcqhdqwnhfy.jpeg",
+                "filename": "hoko-hoko-360-black-ipad-mini-3-original-imae7mcqhdqwnhfy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/book-cover/v/c/q/hoko-hoko-360-black-ipad-mini-3-original-imae7mcq4mqyzybh.jpeg",
+                "filename": "hoko-hoko-360-black-ipad-mini-3-original-imae7mcq4mqyzybh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/cases-covers/book-cover/v/c/q/hoko-hoko-360-black-ipad-mini-3-original-imae7mcqgg2sfkdh.jpeg",
+                "filename": "hoko-hoko-360-black-ipad-mini-3-original-imae7mcqgg2sfkdh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/v/c/q/hoko-hoko-360-black-ipad-mini-3-original-imae7mcrzy2x7hnu.jpeg",
+                "filename": "hoko-hoko-360-black-ipad-mini-3-original-imae7mcrzy2x7hnu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/cases-covers/book-cover/v/c/q/hoko-hoko-360-black-ipad-mini-3-original-imae7mcruhr2bjfg.jpeg",
+                "filename": "hoko-hoko-360-black-ipad-mini-3-original-imae7mcruhr2bjfg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Hoko"] },
+              { "key": "Shade", "values": ["Black"] },
+              { "key": "Material", "values": ["Artificial Leather"] },
+              { "key": "Designed for", "values": ["Apple iPad Mini 3"] },
+              { "key": "Model ID", "values": ["HOKO-360-Black-IPAD-MINI-3"] },
+              { "key": "Color", "values": ["Black"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "2691dc0132cb65f0797770e177f4ab72dee0aeae" }
+      },
+      "active": true,
+      "id": "ee50606332f7dc385533dae0c89370d5ff59641b"
+    },
+    {
+      "product": {
+        "id": "5f17c2d864fdde889d8268b03603365318385a0e",
+        "name": "Gathbandhan Decorative Shankh",
+        "description": "Dummy description for product Gathbandhan Decorative Shankh",
+        "manufacturer_id": "87c1242176b2f593e43ed2a548bac774f28bef85",
+        "taric_code": "6a71a1df-db40-4673-b327-b1dde89f49e9",
+        "variants": [
+          {
+            "id": "d5f9593efda543d7e230f39e145e9f19",
+            "name": "Gathbandhan Shankh",
+            "description": "Buy Gathbandhan Decorative Shankh for Rs.1100 online. Gathbandhan Decorative Shankh at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 1008,
+            "price": 1100,
+            "sale": false,
+            "sale_price": 1100,
+            "stock_keeping_unit": "SNKE77U2GPQPMGJJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shankh/g/j/j/shankh500-gathbandhan-1100x1100-imae72z9t6kg94fq.jpeg",
+                "filename": "shankh500-gathbandhan-1100x1100-imae72z9t6kg94fq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shankh/g/j/j/shankh500-gathbandhan-original-imae72z9t6kg94fq.jpeg",
+                "filename": "shankh500-gathbandhan-original-imae72z9t6kg94fq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Gathbandhan"] },
+              { "key": "Model Number", "values": ["SHANKH500"] },
+              { "key": "Type", "values": ["Decorative"] },
+              { "key": "Material", "values": ["Brass"] },
+              { "key": "Shankh Type", "values": ["Left Handed"] },
+              { "key": "Color", "values": ["Gold"] },
+              {
+                "key": "c6f9cc43-13d0-4064-8b99-48cdd0888b54",
+                "values": ["1 Shankh"]
+              },
+              { "key": "Weight", "values": ["500 g"] },
+              { "key": "Length", "values": ["12 cm"] },
+              { "key": "Width", "values": ["7 cm"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "d1238845b957717462f8cd00f90e8c31344c0deb" }
+      },
+      "active": true,
+      "id": "5f17c2d864fdde889d8268b03603365318385a0e"
+    },
+    {
+      "product": {
+        "id": "be41d59e08f0ec6c571eeb423ab8de39fd9217bd",
+        "name": "Digilight 400 inch Red, Yellow Rice Lights",
+        "description": "Dummy description for product Digilight 400 inch Red, Yellow Rice Lights",
+        "manufacturer_id": "b5ba7f7e96b5a74230cb0b7315934065d1936465",
+        "taric_code": "4325ee85-b796-4b9c-994a-41699d9d08bf",
+        "variants": [
+          {
+            "id": "1738ddb8f47f11ff0cb96fe6cad302c2",
+            "name": "Digilight Series Lights",
+            "description": "Buy Digilight 400 inch Red, Yellow Rice Lights for Rs.189 online. Digilight 400 inch Red, Yellow Rice Lights at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2866,
+            "price": 399,
+            "sale": false,
+            "sale_price": 189,
+            "stock_keeping_unit": "RCLEYW4PHCUAWTGG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/rice-light/j/g/d/786245-digilight-3-original-imaeytx2frn6nrzn.jpeg",
+                "filename": "786245-digilight-3-original-imaeytx2frn6nrzn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/j/g/d/786245-digilight-3-original-imaeytx2frn6nrzn.jpeg",
+                "filename": "786245-digilight-3-original-imaeytx2frn6nrzn.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/rice-light/g/e/k/786322-digilight-3-original-imaeytx2wgjbtzva.jpeg",
+                "filename": "786322-digilight-3-original-imaeytx2wgjbtzva.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Digilight"] },
+              { "key": "Multi-Functions", "values": ["Steady"] },
+              { "key": "Model Number", "values": ["786227"] },
+              { "key": "Bulb Type", "values": ["LED"] },
+              { "key": "Length", "values": ["400 inch"] },
+              { "key": "Color", "values": ["Red", "Yellow"] },
+              {
+                "key": "Power Requirement",
+                "values": ["110 - 120 V", "50 Hz"]
+              },
+              { "key": "Sales Package", "values": ["2 Rice Light"] },
+              { "key": "Pack of", "values": ["2"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "cab0793947f22c51ec15e24f2aa97129b5176d4e" }
+      },
+      "active": true,
+      "id": "be41d59e08f0ec6c571eeb423ab8de39fd9217bd"
+    },
+    {
+      "product": {
+        "id": "45af0ce47a045624b49fd30e250faa8735cc4176",
+        "name": "Sun Band 0401-002 Fitness Band",
+        "description": "Dummy description for product Sun Band 0401-002 Fitness Band",
+        "manufacturer_id": "b0edc1225f333a152fefa542d66cd6bc79fa805c",
+        "taric_code": "48b06320-f6a9-4608-bb0f-0809299ae8a4",
+        "variants": [
+          {
+            "id": "89b5d50d8ee9c72817b21cfe17ceb57d",
+            "name": "Sun Band 0401-002 Fitness Band (Yellow, Pack of 1)",
+            "description": "Sun Band 0401-002 Fitness Band (Yellow, Pack of 1) Price: Rs. 240 A 12.75 cm wide stretchable latex rubber strip which comes in various thicknesses.Used for a variety of upper and lower extremity resistive exercises. The thickness is colour coded. Comes in 3.60 foot (1.1 meter) Cut Pcs.,Specifications of Sun Band 0401-002 Fitness Band (Yellow, Pack of 1) General Type Fitness Band Ideal Usage For Resistive Workouts, For Pilates, For Stretching & Toning, etc. Material pvc Ideal For Boys, Girls, Men, Women Dimensions Weight 25 g Length 43.31 inch Width 5 inch In the Box Number of Contents in Sales Package Pack of 1 Sales Package 1 Band Additional Features Sun - Band ( Yellow / X - Light of 1.1 Meter Cut Length )",
+            "stock_level": 5766,
+            "price": 400,
+            "sale": false,
+            "sale_price": 240,
+            "stock_keeping_unit": "FNBEGWY8DTMG5BU3",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/fitness-band/b/u/3/0401-002-sun-band-0401-002-original-imaeghyveejuhqhk.jpeg",
+                "filename": "0401-002-sun-band-0401-002-original-imaeghyveejuhqhk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fitness-band/b/u/3/0401-002-sun-band-0401-002-original-imaeghyveejuhqhk.jpeg",
+                "filename": "0401-002-sun-band-0401-002-original-imaeghyveejuhqhk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/fitness-band/b/u/3/0401-002-sun-band-0401-002-original-imaeghyvcrbgqxbh.jpeg",
+                "filename": "0401-002-sun-band-0401-002-original-imaeghyvcrbgqxbh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/fitness-band/b/u/3/0401-002-sun-band-0401-002-original-imaeghythh2fzegj.jpeg",
+                "filename": "0401-002-sun-band-0401-002-original-imaeghythh2fzegj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Type", "values": ["Fitness Band"] },
+              {
+                "key": "Ideal Usage",
+                "values": [
+                  "For Resistive Workouts",
+                  "For Pilates",
+                  "For Stretching and Toning",
+                  "etc."
+                ]
+              },
+              { "key": "Material", "values": ["pvc"] },
+              {
+                "key": "Ideal For",
+                "values": ["Boys", "Girls", "Men", "Women"]
+              },
+              { "key": "Weight", "values": ["25 g"] },
+              { "key": "Length", "values": ["43.31 inch"] },
+              { "key": "Width", "values": ["5 inch"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Sales Package", "values": ["1 Band"] },
+              {
+                "key": "2266f7ed-ad67-4ee7-902f-55c89718fbc4",
+                "values": [
+                  "Sun - Band ( Yellow / X - Light of 1.1 Meter Cut Length )"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "195f21dd8b2ee5470e457c1ed073fdc174ebec31" }
+      },
+      "active": false,
+      "id": "45af0ce47a045624b49fd30e250faa8735cc4176"
+    },
+    {
+      "product": {
+        "id": "4fcfad718c31d4d5aa86cd8ddd4d75cbfc7e547e",
+        "name": "FAUSTO Sneakers",
+        "description": "Dummy description for product FAUSTO Sneakers",
+        "manufacturer_id": "2579dff47a06e57a143d592bf948e3cc5f59cf09",
+        "taric_code": "b445be04-5c61-479d-ae39-b743fa963e7c",
+        "variants": [
+          {
+            "id": "c44bfa2dd5ebf6195138c56f67c86b66",
+            "name": "FAUSTO Sneakers",
+            "description": "Key Features of FAUSTO Sneakers Material: Synthetic Leather Occasion: Casual Color: Brown Heel Height: 0,FAUSTO Sneakers Price: Rs. 499 Fashos presents for all the shoe lovers out there must invest upon this smart and cool pairs of amazing shoes brought to you by FAUSTO. Experiment your look this season without compromising on comfort with these casual and formal shoes. These shoes promising long lasting comfort and durability are must-have in your shoe collection.,Specifications of FAUSTO Sneakers General Ideal For Men Occasion Casual Shoe Details Sole Material TPR Number of Contents in Sales Package Pack of 1 Inner Material Synthetic Heel Height 0 inch Outer Material Synthetic Leather Color Brown In the Box 2 Shoes",
+            "stock_level": 5088,
+            "price": 499,
+            "sale": true,
+            "sale_price": 499,
+            "stock_keeping_unit": "SHOEJP2GGNVTPHET",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shoe/q/9/t/brown-fkfst-3048-fausto-41-original-imaejzz3dxyymhph.jpeg",
+                "filename": "brown-fkfst-3048-fausto-41-original-imaejzz3dxyymhph.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/9/s/brown-fkfst-3048-fausto-43-original-imaejzz3z9bhtfqp.jpeg",
+                "filename": "brown-fkfst-3048-fausto-43-original-imaejzz3z9bhtfqp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/q/9/t/brown-fkfst-3048-fausto-41-original-imaejzz3zdzyh5sm.jpeg",
+                "filename": "brown-fkfst-3048-fausto-41-original-imaejzz3zdzyh5sm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/9/s/brown-fkfst-3048-fausto-43-original-imaejzz3sfgzqtgr.jpeg",
+                "filename": "brown-fkfst-3048-fausto-43-original-imaejzz3sfgzqtgr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shoe/z/9/s/brown-fkfst-3048-fausto-43-original-imaejzz3pgzjbzny.jpeg",
+                "filename": "brown-fkfst-3048-fausto-43-original-imaejzz3pgzjbzny.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Men"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Sole Material", "values": ["TPR"] },
+              {
+                "key": "Number of Contents in Sales Package",
+                "values": ["Pack of 1"]
+              },
+              { "key": "Inner Material", "values": ["Synthetic"] },
+              { "key": "Heel Height", "values": ["0 inch"] },
+              { "key": "Outer Material", "values": ["Synthetic Leather"] },
+              { "key": "Color", "values": ["Brown"] },
+              {
+                "key": "6c18888b-123e-44f9-8517-cb7e9c406e7c",
+                "values": ["2 Shoes"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "8c361166124cd9c4d543623a3828b9375efcca35" }
+      },
+      "active": true,
+      "id": "4fcfad718c31d4d5aa86cd8ddd4d75cbfc7e547e"
+    },
+    {
+      "product": {
+        "id": "40ccf539dc247a8bd1f48cd7298dcae55f695aad",
+        "name": "carrol Women's Shrug",
+        "description": "Dummy description for product carrol Women's Shrug",
+        "manufacturer_id": "4b8c803d1fb66612ab1fdf18ccd0a72c9d13c0e1",
+        "taric_code": "ef0327c3-b921-4154-8fce-ae909b47f2c4",
+        "variants": [
+          {
+            "id": "e4b9eb82c6e84eae3fef79e33a97df7a",
+            "name": "carrol Women's Shrug",
+            "description": "Key Features of carrol Women's Shrug Cotton Blend,carrol Women's Shrug Price: Rs. 599 This shrug is made of premium quality lace and designed differently to look stylish and also designed end lace used in this.,Specifications of carrol Women's Shrug General Details Ideal For Women's Occasion Casual Pattern Solid Shrug Details Fabric Cotton Pattern Solid Sleeve Full Sleeve Fabric Care Wash with Similar Colors In the Box 3 Shrug",
+            "stock_level": 7007,
+            "price": 1800,
+            "sale": false,
+            "sale_price": 599,
+            "stock_keeping_unit": "RUGEH4VHFHY9CZGA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvxuyhxyjj.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvxuyhxyjj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvxuyhxyjj.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvxuyhxyjj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/r/q/d/cs-170-carrol-3xl-original-imaeh2fvnsv7e2ah.jpeg",
+                "filename": "cs-170-carrol-3xl-original-imaeh2fvnsv7e2ah.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/f/t/q/cs-172-carrol-3xl-original-imaeh2fvw8k7mtng.jpeg",
+                "filename": "cs-172-carrol-3xl-original-imaeh2fvw8k7mtng.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvm6hu6pyp.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvm6hu6pyp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              {
+                "key": "12c03e4f-4215-4332-a7c5-114d3847bb2a",
+                "values": ["Wash with Similar Colors"]
+              },
+              {
+                "key": "e5a8118a-141e-4fc5-bb3b-2cc1407c7469",
+                "values": ["3 Shrug"]
+              }
+            ]
+          },
+          {
+            "id": "c6f6b25917615f1938eea4bf5142616f",
+            "name": "carrol Women's Shrug",
+            "description": "Key Features of carrol Women's Shrug Cotton Blend,carrol Women's Shrug Price: Rs. 699 This shrug is made of premium quality lace and designed differently to look stylish and also designed end lace used in this.,Specifications of carrol Women's Shrug General Details Pattern Solid Occasion Casual Ideal For Women's Shrug Details Sleeve Full Sleeve Fabric Cotton Pattern Solid In the Box 3 Shrug Fabric Care Wash with Similar Colors",
+            "stock_level": 2067,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "RUGEH4VGZBC5SHJZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/h/j/z/cs-157-carrol-3xl-original-imaeh2fxqra7zkhq.jpeg",
+                "filename": "cs-157-carrol-3xl-original-imaeh2fxqra7zkhq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/h/j/z/cs-157-carrol-3xl-original-imaeh2fxqra7zkhq.jpeg",
+                "filename": "cs-157-carrol-3xl-original-imaeh2fxqra7zkhq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/f/t/q/cs-172-carrol-3xl-original-imaeh2fvw8k7mtng.jpeg",
+                "filename": "cs-172-carrol-3xl-original-imaeh2fvw8k7mtng.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/d/e/f/cs-173-carrol-3xl-original-imaeh2fv9sqfcdaz.jpeg",
+                "filename": "cs-173-carrol-3xl-original-imaeh2fv9sqfcdaz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/d/e/f/cs-173-carrol-3xl-original-imaeh2fvgkzfvsy4.jpeg",
+                "filename": "cs-173-carrol-3xl-original-imaeh2fvgkzfvsy4.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/d/e/f/cs-173-carrol-3xl-original-imaeh2fv3gsvqjnn.jpeg",
+                "filename": "cs-173-carrol-3xl-original-imaeh2fv3gsvqjnn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              {
+                "key": "5e2f0d10-c4ae-4b6e-821b-b7e321654615",
+                "values": ["3 Shrug"]
+              },
+              {
+                "key": "16d4e267-9282-4cdd-b18c-bac1e3e71c82",
+                "values": ["Wash with Similar Colors"]
+              }
+            ]
+          },
+          {
+            "id": "49eae62187a05d326fb3236553cb7e21",
+            "name": "carrol Women's Shrug",
+            "description": "Key Features of carrol Women's Shrug Cotton Blend,carrol Women's Shrug Price: Rs. 699 This shrug is made of premium quality lace and designed differently to look stylish and also designed end lace used in this.,Specifications of carrol Women's Shrug General Details Pattern Solid Occasion Casual Ideal For Women's Shrug Details Sleeve Full Sleeve Fabric Cotton Pattern Solid In the Box 3 Shrug Fabric Care Wash with Similar Colors",
+            "stock_level": 2521,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "RUGEH4VGZFPUVSD2",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/s/d/2/cs-165-carrol-3xl-original-imaeh2fwvqgtvyhf.jpeg",
+                "filename": "cs-165-carrol-3xl-original-imaeh2fwvqgtvyhf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/r/q/d/cs-170-carrol-3xl-original-imaeh2fvnsv7e2ah.jpeg",
+                "filename": "cs-170-carrol-3xl-original-imaeh2fvnsv7e2ah.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/d/e/f/cs-173-carrol-3xl-original-imaeh2fv9sqfcdaz.jpeg",
+                "filename": "cs-173-carrol-3xl-original-imaeh2fv9sqfcdaz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvm6hu6pyp.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvm6hu6pyp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              {
+                "key": "78111462-598c-46da-b9c7-4dc2bf65d091",
+                "values": ["3 Shrug"]
+              },
+              {
+                "key": "72dd2438-1fa9-41b8-a7d9-09e6d36a1d80",
+                "values": ["Wash with Similar Colors"]
+              }
+            ]
+          },
+          {
+            "id": "06bdcca6b6866d1ad3e60e017c9979b2",
+            "name": "carrol Women's Shrug",
+            "description": "Key Features of carrol Women's Shrug Cotton Blend,carrol Women's Shrug Price: Rs. 499 This shrug is made of premium quality lace and designed differently to look stylish and also designed end lace used in this.,Specifications of carrol Women's Shrug General Details Pattern Solid Occasion Casual Ideal For Women's Shrug Details Sleeve Full Sleeve Fabric Cotton Pattern Solid In the Box 2 Shrug Fabric Care Wash with Similar Colors",
+            "stock_level": 5231,
+            "price": 899,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "RUGEH4VFGWKXNCZT",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/c/z/t/cs-125-carrol-3xl-original-imaeh2fv9u8aad5a.jpeg",
+                "filename": "cs-125-carrol-3xl-original-imaeh2fv9u8aad5a.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/4/n/9/cs-150-carrol-3xl-original-imaeh2fvvxqcyedj.jpeg",
+                "filename": "cs-150-carrol-3xl-original-imaeh2fvvxqcyedj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/f/t/q/cs-172-carrol-3xl-original-imaeh2fvw8k7mtng.jpeg",
+                "filename": "cs-172-carrol-3xl-original-imaeh2fvw8k7mtng.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/u/d/cs-143-carrol-3xl-original-imaeh2fvpecss6bt.jpeg",
+                "filename": "cs-143-carrol-3xl-original-imaeh2fvpecss6bt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              {
+                "key": "aafc8e9d-b467-45cb-b9b5-4bef5df6cdeb",
+                "values": ["2 Shrug"]
+              },
+              {
+                "key": "530bf427-bef8-46a3-ba0a-c407da185cc3",
+                "values": ["Wash with Similar Colors"]
+              }
+            ]
+          },
+          {
+            "id": "8f378e56f9ac8cba3b890476c2bd840d",
+            "name": "carrol Women's Shrug",
+            "description": "Key Features of carrol Women's Shrug Cotton Blend,carrol Women's Shrug Price: Rs. 699 This shrug is made of premium quality lace and designed differently to look stylish and also designed end lace used in this.,Specifications of carrol Women's Shrug General Details Pattern Solid Occasion Casual Ideal For Women's Shrug Details Sleeve Full Sleeve Fabric Cotton Pattern Solid In the Box 3 Shrug Fabric Care Wash with Similar Colors",
+            "stock_level": 6069,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 699,
+            "stock_keeping_unit": "RUGEH4VGX2RJXKFS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/k/f/s/cs-162-carrol-3xl-original-imaeh2fw7yn2hqff.jpeg",
+                "filename": "cs-162-carrol-3xl-original-imaeh2fw7yn2hqff.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/k/f/s/cs-162-carrol-3xl-original-imaeh2fw7yn2hqff.jpeg",
+                "filename": "cs-162-carrol-3xl-original-imaeh2fw7yn2hqff.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/d/e/f/cs-173-carrol-3xl-original-imaeh2fv9sqfcdaz.jpeg",
+                "filename": "cs-173-carrol-3xl-original-imaeh2fv9sqfcdaz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/r/q/d/cs-170-carrol-3xl-original-imaeh2fvzgmen9xj.jpeg",
+                "filename": "cs-170-carrol-3xl-original-imaeh2fvzgmen9xj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/d/e/f/cs-173-carrol-3xl-original-imaeh2fv3gsvqjnn.jpeg",
+                "filename": "cs-173-carrol-3xl-original-imaeh2fv3gsvqjnn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              {
+                "key": "9c62c6b8-9252-4de7-9a81-e9c9bd060798",
+                "values": ["3 Shrug"]
+              },
+              {
+                "key": "60d155ee-4847-409b-a012-a56eee929c2d",
+                "values": ["Wash with Similar Colors"]
+              }
+            ]
+          },
+          {
+            "id": "bbe42596dcbceeb278a9eff0396d7695",
+            "name": "carrol Women's Shrug",
+            "description": "Key Features of carrol Women's Shrug Cotton Blend,carrol Women's Shrug Price: Rs. 499 This shrug is made of premium quality lace and designed differently to look stylish and also designed end lace used in this.,Specifications of carrol Women's Shrug General Details Pattern Solid Occasion Casual Ideal For Women's Shrug Details Sleeve Full Sleeve Fabric Cotton Pattern Solid In the Box 2 Shrug Fabric Care Wash with Similar Colors",
+            "stock_level": 8557,
+            "price": 899,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "RUGEH4VFEUFCVNPW",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/n/p/w/cs-129-carrol-3xl-original-imaeh2fvyz72jjum.jpeg",
+                "filename": "cs-129-carrol-3xl-original-imaeh2fvyz72jjum.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/g/a/cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg",
+                "filename": "cs-168-carrol-3xl-original-imaeh2fvx36qm9vc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/4/n/9/cs-150-carrol-3xl-original-imaeh2fvvxqcyedj.jpeg",
+                "filename": "cs-150-carrol-3xl-original-imaeh2fvvxqcyedj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/r/q/d/cs-170-carrol-3xl-original-imaeh2fvzgmen9xj.jpeg",
+                "filename": "cs-170-carrol-3xl-original-imaeh2fvzgmen9xj.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/j/b/n/cs-141-carrol-3xl-original-imaeh2fvx5vjfgrp.jpeg",
+                "filename": "cs-141-carrol-3xl-original-imaeh2fvx5vjfgrp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              {
+                "key": "f1017cf4-9edd-4f00-985e-4d4d93b8ffdd",
+                "values": ["2 Shrug"]
+              },
+              {
+                "key": "46de570d-2642-43f8-8d68-ef6848a34717",
+                "values": ["Wash with Similar Colors"]
+              }
+            ]
+          },
+          {
+            "id": "f2db36dfcb2333bc171762073192fbf5",
+            "name": "carrol Women's Shrug",
+            "description": "Key Features of carrol Women's Shrug Cotton Blend,carrol Women's Shrug Price: Rs. 499 This shrug is made of premium quality lace and designed differently to look stylish and also designed end lace used in this.,Specifications of carrol Women's Shrug General Details Pattern Solid Occasion Casual Ideal For Women's Shrug Details Sleeve Full Sleeve Fabric Cotton Pattern Solid In the Box 2 Shrug Fabric Care Wash with Similar Colors",
+            "stock_level": 5441,
+            "price": 899,
+            "sale": true,
+            "sale_price": 499,
+            "stock_keeping_unit": "RUGEH4VF7CMDHBPE",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/b/p/e/cs-137-carrol-3xl-original-imaeh2fvs5kgp7sa.jpeg",
+                "filename": "cs-137-carrol-3xl-original-imaeh2fvs5kgp7sa.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/shrug/b/p/e/cs-137-carrol-3xl-original-imaeh2fvs5kgp7sa.jpeg",
+                "filename": "cs-137-carrol-3xl-original-imaeh2fvs5kgp7sa.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/f/t/q/cs-172-carrol-3xl-original-imaeh2fvw8k7mtng.jpeg",
+                "filename": "cs-172-carrol-3xl-original-imaeh2fvw8k7mtng.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/z/u/d/cs-143-carrol-3xl-original-imaeh2fvpecss6bt.jpeg",
+                "filename": "cs-143-carrol-3xl-original-imaeh2fvpecss6bt.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/d/e/f/cs-173-carrol-3xl-original-imaeh2fv9sqfcdaz.jpeg",
+                "filename": "cs-173-carrol-3xl-original-imaeh2fv9sqfcdaz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/shrug/d/e/f/cs-173-carrol-3xl-original-imaeh2fv3gsvqjnn.jpeg",
+                "filename": "cs-173-carrol-3xl-original-imaeh2fv3gsvqjnn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Pattern", "values": ["Solid"] },
+              { "key": "Occasion", "values": ["Casual"] },
+              { "key": "Ideal For", "values": ["Women's"] },
+              { "key": "Sleeve", "values": ["Full Sleeve"] },
+              { "key": "Fabric", "values": ["Cotton"] },
+              {
+                "key": "de0311e9-648e-4314-8ce6-1ebcaeeefe89",
+                "values": ["2 Shrug"]
+              },
+              {
+                "key": "b56d4e06-3dff-4700-a3ff-6358dfad2398",
+                "values": ["Wash with Similar Colors"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "2b36a9e50b46a8ff4379cd2a230fea8f14157d1a" }
+      },
+      "active": true,
+      "id": "40ccf539dc247a8bd1f48cd7298dcae55f695aad"
+    },
+    {
+      "product": {
+        "id": "102ce852090396e7700b1ad11d6d2ad8548ab46f",
+        "name": "Veensh HARB Grinder Diameter 2.25 inch Plastic Hookah",
+        "description": "Dummy description for product Veensh HARB Grinder Diameter 2.25 inch Plastic Hookah",
+        "manufacturer_id": "ee1b0bedfb520417a359d328f063cb0ea08afc39",
+        "taric_code": "f5a0a20e-137e-4272-afcd-cd1d3fa78306",
+        "variants": [
+          {
+            "id": "b8b4e09f6447d9962d493da04c76bbc6",
+            "name": "Veensh HARB Grinder Diameter 2.25 inch Plastic H...",
+            "description": "Key Features of Veensh HARB Grinder Diameter 2.25 inch Plastic Hookah Number of Pipe Openings: 1 Color: Orange Base Material: Glass,Veensh HARB Grinder Diameter 2.25 inch Plastic Hookah (Orange) Price: Rs. 299 Veensh is an Indian based brand sold its product looking forward to serve This product is Plastic Grinder can be used as home decorative. Mainly used for crushing the stuff. This product makes it easy to crush your stuff. Latest and extremely beautiful design, durable (handle with care) and comes in high range of Designs and colors.it more impressive and easy to use,Specifications of Veensh HARB Grinder Diameter 2.25 inch Plastic Hookah (Orange) Tray Features Number of Tray Levels 4 General Number of Pipe Openings 1 Brand Veensh Model Name HARB Grinder Diameter Material Plastic Pack of 1 Color Orange Dimensions Height 2.25 inch Base Features Base Material Glass Base Grommets Provided Yes Base Diameter 2.25 inch Additional Features Portable Yes In the Box Sales Package 1 Grinder set 4 in one Pack of 1",
+            "stock_level": 5028,
+            "price": 550,
+            "sale": false,
+            "sale_price": 299,
+            "stock_keeping_unit": "HKHEH35SZGQYBE68",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/hookah/e/6/8/harb04-veensh-original-imaegztubzyse9ge.jpeg",
+                "filename": "harb04-veensh-original-imaegztubzyse9ge.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/hookah/e/6/8/harb04-veensh-original-imaegztubzyse9ge.jpeg",
+                "filename": "harb04-veensh-original-imaegztubzyse9ge.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/hookah/e/6/8/harb04-veensh-original-imaegztux7mpqcvv.jpeg",
+                "filename": "harb04-veensh-original-imaegztux7mpqcvv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Number of Tray Levels", "values": ["4"] },
+              { "key": "Number of Pipe Openings", "values": ["1"] },
+              { "key": "Brand", "values": ["Veensh"] },
+              { "key": "Model Name", "values": ["HARB Grinder Diameter"] },
+              { "key": "Material", "values": ["Plastic"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Color", "values": ["Orange"] },
+              { "key": "Height", "values": ["2.25 inch"] },
+              { "key": "Base Material", "values": ["Glass"] },
+              { "key": "Base Grommets Provided", "values": ["Yes"] },
+              { "key": "Base Diameter", "values": ["2.25 inch"] },
+              { "key": "Portable", "values": ["Yes"] },
+              { "key": "Sales Package", "values": ["1 Grinder set 4 in one"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "46878cd7d6610e92153a2423df4e991f83478634" }
+      },
+      "active": true,
+      "id": "102ce852090396e7700b1ad11d6d2ad8548ab46f"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}

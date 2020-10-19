@@ -1,0 +1,3622 @@
+{
+  "resource_list": [
+    {
+      "product": {
+        "id": "5d3f546172e8f8f8df4b8e56204f97356b3bc750",
+        "name": "IESD Bone Necklace",
+        "description": "Dummy description for product IESD Bone Necklace",
+        "manufacturer_id": "e2bdfdeed4346c618fcdd4c7349d6d2c653b7142",
+        "taric_code": "7abc363b-a68f-44a5-b9ff-1495c5d51329",
+        "variants": [
+          {
+            "id": "3a8f8e11aaaee46ba615cc289519ae11",
+            "name": "Necklaces",
+            "description": "IESD Bone Necklace - Buy IESD Bone Necklace only for Rs. 199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2278,
+            "price": 250,
+            "sale": true,
+            "sale_price": 199,
+            "stock_keeping_unit": "NKCE52CSJVWFAWHW",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/w/h/w/jew026-iesd-necklace-1100x1100-imae4pr49rtr6jqg.jpeg",
+                "filename": "jew026-iesd-necklace-1100x1100-imae4pr49rtr6jqg.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/w/h/w/jew026-iesd-necklace-original-imae4pr49rtr6jqg.jpeg",
+                "filename": "jew026-iesd-necklace-original-imae4pr49rtr6jqg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["IESD"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["JEW026"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Bone"] }
+            ]
+          },
+          {
+            "id": "daa7bd0bdd6f823feff9a980fc1518c0",
+            "name": "Necklaces",
+            "description": "IESD Bone Necklace - Buy IESD Bone Necklace only for Rs. 169 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6824,
+            "price": 200,
+            "sale": false,
+            "sale_price": 169,
+            "stock_keeping_unit": "NKCE52CSRGDGC4NH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/4/n/h/jew018-iesd-necklace-1100x1100-imae4pqynksw9qbg.jpeg",
+                "filename": "jew018-iesd-necklace-1100x1100-imae4pqynksw9qbg.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/4/n/h/jew018-iesd-necklace-original-imae4pqynksw9qbg.jpeg",
+                "filename": "jew018-iesd-necklace-original-imae4pqynksw9qbg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["IESD"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["JEW018"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Bone"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "5d3f546172e8f8f8df4b8e56204f97356b3bc750"
+    },
+    {
+      "product": {
+        "id": "344e2efe94e2a3f48f5a62e93408834814d101aa",
+        "name": "Belkin Play Max Modem Router",
+        "description": "Dummy description for product Belkin Play Max Modem Router",
+        "manufacturer_id": "73d6daa928f872fe757776455ec8dbdcb3ec2e03",
+        "taric_code": "6c8684f6-e816-4a2c-963a-ac1f45fa2a19",
+        "variants": [
+          {
+            "id": "0c4e7646251e7646e152cca7f614ed36",
+            "name": "Belkin Routers",
+            "description": "Buy Belkin Play Max Modem Router only for Rs. 12499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9751,
+            "price": 12499,
+            "sale": true,
+            "sale_price": 12499,
+            "stock_keeping_unit": "RTRDFFYGTZUBKJTS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com//image/router/j/t/s/belkin-play-max-modem-router-original-imad3tvg3t7z7cyh.jpeg",
+                "filename": "belkin-play-max-modem-router-original-imad3tvg3t7z7cyh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Firewall", "values": ["NAT", "SPI"] },
+              {
+                "key": "Encryption",
+                "values": [
+                  "Wi-Fi Protected Setup (WPS)",
+                  "256-bit WPA",
+                  "256-bit WPA2",
+                  "64/128 WEP"
+                ]
+              },
+              {
+                "key": "Other Security Features",
+                "values": ["WPS Push Button Security"]
+              },
+              {
+                "key": "In The Box",
+                "values": [
+                  "Play Max Wireless Modem Router",
+                  "Setup CD with User Manual",
+                  "Power Supply"
+                ]
+              },
+              { "key": "Brand", "values": ["Belkin"] },
+              { "key": "Model", "values": ["Play Max Modem Router"] },
+              { "key": "Installation Features", "values": ["UPnP Server"] },
+              { "key": "Type", "values": ["Wireless With Modem"] },
+              {
+                "key": "LED Indicator",
+                "values": ["1 x Network status", "1 x WPS"]
+              },
+              {
+                "key": "Supported Software",
+                "values": [
+                  "Easy Start",
+                  "Preset Security",
+                  "Video Max HD",
+                  "Self Healing",
+                  "Print Genie",
+                  "Memory Safe",
+                  "Daily DJ",
+                  "Music Mover",
+                  "Music Labeler",
+                  "Bit Boost",
+                  "Torrent Genie",
+                  "Internet Explorer 6-8",
+                  "Firefox 1.0",
+                  "Safari 2.0"
+                ]
+              },
+              { "key": "Part Number", "values": ["F7D4401zb"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Wireless Speed", "values": ["300 Mbps"] },
+              { "key": "LAN/WAN", "values": ["10/100/1000"] },
+              { "key": "Domestic Term", "values": ["3 Year"] },
+              { "key": "Service Type", "values": ["Carry In"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Physical damage and burn out cases are not entitled for warranty"
+                ]
+              },
+              {
+                "key": "Operating System",
+                "values": [
+                  "Windows XP (32 Bit)",
+                  "Windows Vista",
+                  "Windows 7",
+                  "Mac OS x v10.5",
+                  "Mac x v10.6"
+                ]
+              },
+              { "key": "Frequency", "values": ["5 GHz"] },
+              { "key": "Bandwidth", "values": ["40 MHz"] },
+              { "key": "Standard IEEE", "values": ["IEEE 802.11a/b/g/n"] },
+              { "key": "WAN", "values": ["RJ-11"] },
+              { "key": "USB", "values": ["USB 2.0"] },
+              { "key": "Number of LAN ports", "values": ["4"] },
+              { "key": "Number of USB Ports", "values": ["2"] },
+              { "key": "LAN", "values": ["RJ-45"] },
+              { "key": "Antennae Capacity", "values": ["Dual-Plane Antenna"] },
+              { "key": "Number of WAN ports", "values": ["1"] },
+              { "key": "Antennae", "values": ["Internal"] },
+              {
+                "key": "Operating Humidity",
+                "values": [
+                  "Operating: 10 % - 85 % Non-condensing",
+                  "Storing: 5 % - 95 % Non-condensing"
+                ]
+              },
+              { "key": "VPN", "values": ["PPTP", "IPSec pass-through"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Web-based password-protected advanced",
+                  "ISP Protocols Supported: Dynamic / Static / PPOE / Telstra BigPond",
+                  "ADSL Protocols Supported: ISP PPPoE / PPPoA / 1483 Bridged / Dynamic and Fixed IP / 1483 Routed",
+                  "MIMO technology"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "344e2efe94e2a3f48f5a62e93408834814d101aa"
+    },
+    {
+      "product": {
+        "id": "e444fd2ddbf8f8bfa87341b94dc437662ce1110a",
+        "name": "Jainx Turquoise Ivory Necklace",
+        "description": "Dummy description for product Jainx Turquoise Ivory Necklace",
+        "manufacturer_id": "165a7f45a278ba3df2a0d88d77c1d97cb0b084eb",
+        "taric_code": "2c7aa17e-19a2-434c-90fa-109028fc81ad",
+        "variants": [
+          {
+            "id": "6f42d7f1d8796fcd203495f9db250e2b",
+            "name": "Necklaces",
+            "description": "Jainx Turquoise Ivory Necklace - Buy Jainx Turquoise Ivory Necklace only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9386,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCECEBZWJR3HYAR",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/y/a/r/jf113-jainx-necklace-1100x1100-imaeccecjv6dta68.jpeg",
+                "filename": "jf113-jainx-necklace-1100x1100-imaeccecjv6dta68.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/y/a/r/jf113-jainx-necklace-original-imaeccecjv6dta68.jpeg",
+                "filename": "jf113-jainx-necklace-original-imaeccecjv6dta68.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/y/a/r/jf113-jainx-necklace-original-imaeccecnze3hc4x.jpeg",
+                "filename": "jf113-jainx-necklace-original-imaeccecnze3hc4x.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/y/a/r/jf113-jainx-necklace-original-imaeccedggmz9wyp.jpeg",
+                "filename": "jf113-jainx-necklace-original-imaeccedggmz9wyp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jainx"] },
+              { "key": "Collection", "values": ["Fusion"] },
+              { "key": "Model Number", "values": ["JF113"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Green", "Red"] },
+              { "key": "Base Material", "values": ["Ivory"] },
+              { "key": "Gemstone", "values": ["Turquoise"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "e444fd2ddbf8f8bfa87341b94dc437662ce1110a"
+    },
+    {
+      "product": {
+        "id": "32386e8b21b01f92fb0e2fbcd85dd4a253db0826",
+        "name": "Friendz Ceramic Necklace",
+        "description": "Dummy description for product Friendz Ceramic Necklace",
+        "manufacturer_id": "e9aae2735a0ccf14a7f62f3bdd2ee1bbc1e0a11f",
+        "taric_code": "d45f709c-8d38-4c59-a811-77b977be3300",
+        "variants": [
+          {
+            "id": "a3887babbf33d6b2954ed176eda47790",
+            "name": "Necklaces",
+            "description": "Friendz Ceramic Necklace - Buy Friendz Ceramic Necklace only for Rs. 190 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 427,
+            "price": 237,
+            "sale": true,
+            "sale_price": 190,
+            "stock_keeping_unit": "NKCEB2S9VDNPRHV8",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/v/8/1-friendz-necklace-original-imaeb2k94hwwrwjy.jpeg",
+                "filename": "1-friendz-necklace-original-imaeb2k94hwwrwjy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/h/v/8/1-friendz-necklace-original-imaeb2k94hwwrwjy.jpeg",
+                "filename": "1-friendz-necklace-original-imaeb2k94hwwrwjy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Friendz"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["1"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["White", "Blue"] },
+              { "key": "Base Material", "values": ["Ceramic"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "1a07c201208e7176e0a24a85d308915c",
+            "name": "Necklaces",
+            "description": "Friendz Ceramic Necklace - Buy Friendz Ceramic Necklace only for Rs. 250 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 777,
+            "price": 312,
+            "sale": false,
+            "sale_price": 250,
+            "stock_keeping_unit": "NKCEB2S9JCHCMK3N",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/k/3/n/9-friendz-necklace-1100x1100-imaeb56ageqrwmvm.jpeg",
+                "filename": "9-friendz-necklace-1100x1100-imaeb56ageqrwmvm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/k/3/n/9-friendz-necklace-original-imaeb56ageqrwmvm.jpeg",
+                "filename": "9-friendz-necklace-original-imaeb56ageqrwmvm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Friendz"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["9"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Ceramic"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "5350324f50363af2d0e94275d09eb5e7",
+            "name": "Necklaces",
+            "description": "Friendz Ceramic Necklace - Buy Friendz Ceramic Necklace only for Rs. 180 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4565,
+            "price": 225,
+            "sale": false,
+            "sale_price": 180,
+            "stock_keeping_unit": "NKCEB2S9MFVUCSQU",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/s/q/u/8-friendz-necklace-original-imaeb2k99g2gazy6.jpeg",
+                "filename": "8-friendz-necklace-original-imaeb2k99g2gazy6.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Friendz"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["8"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Base Material", "values": ["Ceramic"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "a77b76149c0b04813ceeab7c827ff89e",
+            "name": "Necklaces",
+            "description": "Friendz Ceramic Necklace - Buy Friendz Ceramic Necklace only for Rs. 250 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3853,
+            "price": 313,
+            "sale": false,
+            "sale_price": 250,
+            "stock_keeping_unit": "NKCEB2S9RKFKKHBJ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/b/j/3-friendz-necklace-1100x1100-imaeb2k9e7nchevt.jpeg",
+                "filename": "3-friendz-necklace-1100x1100-imaeb2k9e7nchevt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/b/j/3-friendz-necklace-original-imaeb2k9e7nchevt.jpeg",
+                "filename": "3-friendz-necklace-original-imaeb2k9e7nchevt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Friendz"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["3"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Purple"] },
+              { "key": "Base Material", "values": ["Ceramic"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "dbaa30b632ae1087531be9657da018bb",
+            "name": "Necklaces",
+            "description": "Friendz Ceramic Necklace - Buy Friendz Ceramic Necklace only for Rs. 250 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4943,
+            "price": 312,
+            "sale": false,
+            "sale_price": 250,
+            "stock_keeping_unit": "NKCEB2S9CGCM3CCQ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/c/c/q/6-friendz-necklace-1100x1100-imaeb2k9cbug9vjs.jpeg",
+                "filename": "6-friendz-necklace-1100x1100-imaeb2k9cbug9vjs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/c/c/q/6-friendz-necklace-original-imaeb2k9cbug9vjs.jpeg",
+                "filename": "6-friendz-necklace-original-imaeb2k9cbug9vjs.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Friendz"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["6"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Brown"] },
+              { "key": "Base Material", "values": ["Ceramic"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "f27ee9b9c71974eae95868c4beda3ca0",
+            "name": "Necklaces",
+            "description": "Friendz Ceramic Necklace - Buy Friendz Ceramic Necklace only for Rs. 260 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 668,
+            "price": 325,
+            "sale": false,
+            "sale_price": 260,
+            "stock_keeping_unit": "NKCEB2S9K2BFQHJZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/j/z/5-friendz-necklace-1100x1100-imaeb2k9cuwvthqh.jpeg",
+                "filename": "5-friendz-necklace-1100x1100-imaeb2k9cuwvthqh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/j/z/5-friendz-necklace-original-imaeb2k9cuwvthqh.jpeg",
+                "filename": "5-friendz-necklace-original-imaeb2k9cuwvthqh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Friendz"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["5"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Base Material", "values": ["Ceramic"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "32386e8b21b01f92fb0e2fbcd85dd4a253db0826"
+    },
+    {
+      "product": {
+        "id": "35f8b9a21526a6ee9c8aa72a6c19c4aa7ffbe1de",
+        "name": "TP-LINK D9 AC1900",
+        "description": "Dummy description for product TP-LINK D9 AC1900",
+        "manufacturer_id": "5ce3e4c08ebc3e3641cca63171efe3c6b6ca7f4b",
+        "taric_code": "b93cb565-7e53-4313-b05c-53344885389e",
+        "variants": [
+          {
+            "id": "ba6d5d2990764ccc0a1fb29ceb60f8c0",
+            "name": "TP-LINK Routers",
+            "description": "TP-LINK D9 AC1900 (White)\n                         Price: Rs. 13,999\n\t\t\t\t\n\t\t\tAC1900 Wireless Dual Band Gigabit ADSL2+ Modem Router, Broadcom, 802.11ac/a/n/g/b, 1300Mbps at 5GHz + 600Mbps at 2.4GHz, 4 GE Ports, 1 USB 2.0 Port, 1 USB 3.0 Port, 3 detachable antennas, Annex A, with ADSL splitter\nAC1900 Wireless Dual Band Gigabit ADSL2+ Modem Router, Broadcom, 802.11ac/a/n/g/b, 1300Mbps at 5GHz + 600Mbps at 2.4GHz, 4 GE Ports, 1 USB 2.0 Port, 1 USB 3.0 Port, 3 detachable antennas, Annex A, with ADSL splitter",
+            "stock_level": 5766,
+            "price": 24999,
+            "sale": true,
+            "sale_price": 13999,
+            "stock_keeping_unit": "RTRECEYMHGP3JXFV",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/router/x/f/v/tp-link-d9-ac1900-1100x1100-imaecg4ypxzfzgzh.jpeg",
+                "filename": "tp-link-d9-ac1900-1100x1100-imaecg4ypxzfzgzh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/x/f/v/tp-link-d9-ac1900-original-imaecg4ypxzfzgzh.jpeg",
+                "filename": "tp-link-d9-ac1900-original-imaecg4ypxzfzgzh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/x/f/v/tp-link-d9-ac1900-original-imaecekzwbauhhrh.jpeg",
+                "filename": "tp-link-d9-ac1900-original-imaecekzwbauhhrh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/x/f/v/tp-link-d9-ac1900-original-imaecekzjfzvntag.jpeg",
+                "filename": "tp-link-d9-ac1900-original-imaecekzjfzvntag.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/x/f/v/tp-link-d9-ac1900-original-imaecekzagp2v7db.jpeg",
+                "filename": "tp-link-d9-ac1900-original-imaecekzagp2v7db.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/x/f/v/tp-link-d9-ac1900-original-imaecg4yumsqwzwx.jpeg",
+                "filename": "tp-link-d9-ac1900-original-imaecg4yumsqwzwx.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Firewall",
+                "values": [
+                  "NAT Firewall",
+                  "Access Control",
+                  "MAC / IP / URL Filtering,"
+                ]
+              },
+              {
+                "key": "Encryption",
+                "values": [
+                  "64/128-bit WEP",
+                  "WPA/WPA2",
+                  "WPA-PSK/WPA2-PSK encryption",
+                  "Wireless MAC Filtering"
+                ]
+              },
+              { "key": "In The Box", "values": ["Router", "Adapter"] },
+              { "key": "Brand", "values": ["TP-LINK"] },
+              { "key": "Model", "values": ["D9 AC1900"] },
+              { "key": "Type", "values": ["Wireless With Modem"] },
+              {
+                "key": "Supported Software",
+                "values": [
+                  "Internet Explorer 5.0",
+                  "Firefox 2.0",
+                  "Safari 1.4 or higher",
+                  "google crome"
+                ]
+              },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Wireless Speed", "values": ["1900 Mbps"] },
+              {
+                "key": "LAN/WAN",
+                "values": ["10/100/1000Mbps RJ45 WAN/LAN Port"]
+              },
+              { "key": "Power Supply", "values": ["12VDC/3.3A"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "Customer needs to call the nearby Authorized Service Center",
+                  "service engineer will come to the site to get the product repaired or inspected."
+                ]
+              },
+              { "key": "Warranty Summary", "values": ["3 Years"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Physical Damage"]
+              },
+              {
+                "key": "Operating System",
+                "values": [
+                  "Windows 8.1/8/7/Vista/XP or Mac OS or Linux-based operating system"
+                ]
+              },
+              { "key": "Frequency", "values": ["2.4 GHz", "5 GHz"] },
+              {
+                "key": "Standard IEEE",
+                "values": ["IEEE 802.3", "802.3u", "802.3ab"]
+              },
+              { "key": "WAN", "values": ["rj-11"] },
+              { "key": "Number of Antennae", "values": ["3"] },
+              { "key": "USB", "values": ["usb2.0::usb 3.0"] },
+              { "key": "Number of LAN ports", "values": ["3"] },
+              { "key": "Number of USB Ports", "values": ["2"] },
+              { "key": "LAN", "values": ["rj -45"] },
+              {
+                "key": "Antennae Capacity",
+                "values": ["3 × 2dBi for 2.4GHz and 3 × 3dBi for 5GHz"]
+              },
+              { "key": "Number of WAN ports", "values": ["1"] },
+              { "key": "Antennae", "values": ["External"] },
+              {
+                "key": "Operating Humidity",
+                "values": ["Operating Humidity: 10%~90% non-condensing"]
+              },
+              {
+                "key": "Temperature",
+                "values": ["Operating Temperature: 0℃~40℃ (32℉~104℉) degree C"]
+              },
+              {
+                "key": "Other Features",
+                "values": [
+                  "AC1900 Wireless Dual Band Gigabit ADSL2+ Modem Router"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": false,
+      "id": "35f8b9a21526a6ee9c8aa72a6c19c4aa7ffbe1de"
+    },
+    {
+      "product": {
+        "id": "74d48ffe037de1a23d537f98594c8dc47d00b9d7",
+        "name": "Juhi Malhotra Fabric Necklace",
+        "description": "Dummy description for product Juhi Malhotra Fabric Necklace",
+        "manufacturer_id": "974b3ae923f29f57720b2b19a3ed5aa25d8bb8cf",
+        "taric_code": "30cdbcca-8f41-4a8e-b565-b69a81b13506",
+        "variants": [
+          {
+            "id": "b0e75733acde79a9e9bdd0d2f1a373c4",
+            "name": "Necklaces",
+            "description": "Juhi Malhotra Fabric Necklace - Buy Juhi Malhotra Fabric Necklace only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 897,
+            "price": 499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCEFNPKJRTR8EE9",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/e/e/9/jmn3a-juhi-malhotra-necklace-original-imaefmn9zp5bhczd.jpeg",
+                "filename": "jmn3a-juhi-malhotra-necklace-original-imaefmn9zp5bhczd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Juhi Malhotra"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["JMN3A"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Chain/Necklace Length", "values": ["180 inch"] },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Chain/Necklace Thickness", "values": ["5 mm"] },
+              { "key": "Height", "values": ["5 mm"] },
+              { "key": "Width", "values": ["150 mm"] },
+              { "key": "Depth", "values": ["5 mm"] },
+              { "key": "Base Material", "values": ["Fabric"] },
+              { "key": "Necklace Type", "values": ["Necklace"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "6e7e5649f3e52594dc9cf0c9379f4a24",
+            "name": "Necklaces",
+            "description": "Juhi Malhotra Fabric Necklace - Buy Juhi Malhotra Fabric Necklace only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7500,
+            "price": 399,
+            "sale": true,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCEFNPK5GSEHVPA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/v/p/a/jmn2a-juhi-malhotra-necklace-original-imaefmn9rgcrycgq.jpeg",
+                "filename": "jmn2a-juhi-malhotra-necklace-original-imaefmn9rgcrycgq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Juhi Malhotra"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["JMN2A"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Chain/Necklace Length", "values": ["150 inch"] },
+              { "key": "Weight", "values": ["100 g"] },
+              { "key": "Chain/Necklace Thickness", "values": ["5 mm"] },
+              { "key": "Height", "values": ["5 mm"] },
+              { "key": "Width", "values": ["160 mm"] },
+              { "key": "Depth", "values": ["5 mm"] },
+              { "key": "Base Material", "values": ["Fabric"] },
+              { "key": "Necklace Type", "values": ["Necklace"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "74d48ffe037de1a23d537f98594c8dc47d00b9d7"
+    },
+    {
+      "product": {
+        "id": "b472e940e06aae7e451acd70be55f5e7df9d6564",
+        "name": "Indian Charm Beads Wood Necklace",
+        "description": "Dummy description for product Indian Charm Beads Wood Necklace",
+        "manufacturer_id": "eb8ec022ecb9a5254227d16b01caa6688c383edd",
+        "taric_code": "9742ba3a-9609-4643-9bee-0d703195f3ec",
+        "variants": [
+          {
+            "id": "c838b80ff3c108d32add9bdd8ed5af75",
+            "name": "Necklaces",
+            "description": "Indian Charm Beads Wood Necklace - Buy Indian Charm Beads Wood Necklace only for Rs. 405 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7946,
+            "price": 450,
+            "sale": true,
+            "sale_price": 405,
+            "stock_keeping_unit": "NKCE6SR488C827WS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/7/w/s/nknk2483-indian-charm-necklace-original-imae6t6t47efwkgv.jpeg",
+                "filename": "nknk2483-indian-charm-necklace-original-imae6t6t47efwkgv.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/7/w/s/nknk2483-indian-charm-necklace-original-imae6t6t47efwkgv.jpeg",
+                "filename": "nknk2483-indian-charm-necklace-original-imae6t6t47efwkgv.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Indian Charm"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["NKNK2483"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Beads"] },
+              { "key": "Occasion", "values": ["Everyday", "Workwear"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Wood"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "b472e940e06aae7e451acd70be55f5e7df9d6564"
+    },
+    {
+      "product": {
+        "id": "f3e5b4e05e942730a4a3ea528546475be1757241",
+        "name": "Galz4ever Urban Look Alloy Necklace",
+        "description": "Dummy description for product Galz4ever Urban Look Alloy Necklace",
+        "manufacturer_id": "e0d4d87156b7d4ffb12d08ede4cc01c14051edc8",
+        "taric_code": "e82bc3e6-3ea5-4a7d-8f98-82e536e3f6af",
+        "variants": [
+          {
+            "id": "e68843ec88d1a3cd2105bb1215f151e8",
+            "name": "Necklaces",
+            "description": "Galz4ever Urban Look Alloy Necklace - Buy Galz4ever Urban Look Alloy Necklace only for Rs. 325 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4247,
+            "price": 349,
+            "sale": false,
+            "sale_price": 325,
+            "stock_keeping_unit": "NKCEAJP6XZGX5NMH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/n/m/h/190-galz4ever-necklace-original-imaeafg8qhmb9mzf.jpeg",
+                "filename": "190-galz4ever-necklace-original-imaeafg8qhmb9mzf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/n/m/h/190-galz4ever-necklace-original-imaeafg8qcr2kxr8.jpeg",
+                "filename": "190-galz4ever-necklace-original-imaeafg8qcr2kxr8.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/n/m/h/190-galz4ever-necklace-original-imaeafg8gnhxyfqz.jpeg",
+                "filename": "190-galz4ever-necklace-original-imaeafg8gnhxyfqz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Galz4ever"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["190"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Urban Look"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Setting", "values": ["NA"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "f3e5b4e05e942730a4a3ea528546475be1757241"
+    },
+    {
+      "product": {
+        "id": "6bb03e33d530c9bf90cb3434c6f41376eb7d3d57",
+        "name": "Imagine Products Metal Necklace",
+        "description": "Dummy description for product Imagine Products Metal Necklace",
+        "manufacturer_id": "89ca6b02d929d6eddbab01d24e80d71a659fc134",
+        "taric_code": "d49367a1-269a-4280-89a7-bddb4bbcc944",
+        "variants": [
+          {
+            "id": "65592c8d7cdadeb8ca41baaf61a58426",
+            "name": "Necklaces",
+            "description": "Imagine Products Metal Necklace - Buy Imagine Products Metal Necklace only for Rs. 385 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8344,
+            "price": 899,
+            "sale": true,
+            "sale_price": 385,
+            "stock_keeping_unit": "NKCE76ZG2VJUJBGA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/b/g/a/ipnk5004-imagine-products-necklace-1100x1100-imae6wpuebvngjsh.jpeg",
+                "filename": "ipnk5004-imagine-products-necklace-1100x1100-imae6wpuebvngjsh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/b/g/a/ipnk5004-imagine-products-necklace-original-imae6wpuebvngjsh.jpeg",
+                "filename": "ipnk5004-imagine-products-necklace-original-imae6wpuebvngjsh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/b/g/a/ipnk5004-imagine-products-necklace-original-imae6wpvfuy28vvy.jpeg",
+                "filename": "ipnk5004-imagine-products-necklace-original-imae6wpvfuy28vvy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/b/g/a/ipnk5004-imagine-products-necklace-original-imae6wpvhkynwfdq.jpeg",
+                "filename": "ipnk5004-imagine-products-necklace-original-imae6wpvhkynwfdq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["Imagine Products"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["IPNK5004"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Gemstone", "values": ["NA"] },
+              { "key": "Clasp Type", "values": ["HOOK"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "6bb03e33d530c9bf90cb3434c6f41376eb7d3d57"
+    },
+    {
+      "product": {
+        "id": "ad0d6f8567352756c3ac37273ec9616b1c56ccca",
+        "name": "Eshoppee Jordan Alloy Necklace",
+        "description": "Dummy description for product Eshoppee Jordan Alloy Necklace",
+        "manufacturer_id": "6bcbb4700e1eb66eaa8444428af532cc0f540234",
+        "taric_code": "93091033-28cb-4fdb-a3e5-a5eb14646983",
+        "variants": [
+          {
+            "id": "8ef34189704e749bbcccf8497df7910f",
+            "name": "Necklaces",
+            "description": "Eshoppee Jordan Alloy Necklace - Buy Eshoppee Jordan Alloy Necklace only for Rs. 249 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4875,
+            "price": 499,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "NKCEB98T642V4GUN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/g/u/n/es1743-eshoppee-necklace-original-imaeb83arvjh2zvh.jpeg",
+                "filename": "es1743-eshoppee-necklace-original-imaeb83arvjh2zvh.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/g/u/n/es1743-eshoppee-necklace-original-imaeb83arvjh2zvh.jpeg",
+                "filename": "es1743-eshoppee-necklace-original-imaeb83arvjh2zvh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/g/u/n/es1743-eshoppee-necklace-original-imaeb83a5bhfjngh.jpeg",
+                "filename": "es1743-eshoppee-necklace-original-imaeb83a5bhfjngh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Eshoppee"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["ES1743"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Jordan"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Men", "Women"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Chain Type", "values": ["Chain"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "ad0d6f8567352756c3ac37273ec9616b1c56ccca"
+    },
+    {
+      "product": {
+        "id": "c24f27b4d650635aa6354061ef7b88ddd0d5ac3e",
+        "name": "Hotpiper Artistic CZ Lips Cubic Zirconia Yellow Gold Plated Acrylic Necklace",
+        "description": "Dummy description for product Hotpiper Artistic CZ Lips Cubic Zirconia Yellow Gold Plated Acrylic Necklace",
+        "manufacturer_id": "ace841e124a84bf512ba15179492774323370e1e",
+        "taric_code": "79b3cfb9-43bc-4e5b-9c8b-419e39b1532c",
+        "variants": [
+          {
+            "id": "6bf1d922d9f606d62c398c6fc68b2671",
+            "name": "Necklaces",
+            "description": "Hotpiper Artistic CZ Lips Cubic Zirconia Yellow Gold Plated Acrylic Necklace - Buy Hotpiper Artistic CZ Lips Cubic Zirconia Yellow Gold Plated Acrylic Necklace only for Rs. 425 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5137,
+            "price": 840,
+            "sale": false,
+            "sale_price": 425,
+            "stock_keeping_unit": "NKCE9Q93NGS45HGG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/g/g/5770252-hotpiper-necklace-original-imae9zwn9pqzyfwm.jpeg",
+                "filename": "5770252-hotpiper-necklace-original-imae9zwn9pqzyfwm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/h/g/g/5770252-hotpiper-necklace-original-imae9zwn9pqzyfwm.jpeg",
+                "filename": "5770252-hotpiper-necklace-original-imae9zwn9pqzyfwm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Hotpiper"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["5770252"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Artistic CZ Lips"] },
+              {
+                "key": "Occasion",
+                "values": ["Everyday", "Love", "Wedding and Engagement"]
+              },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Base Material", "values": ["Acrylic"] },
+              { "key": "Gemstone", "values": ["Cubic Zirconia"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "c24f27b4d650635aa6354061ef7b88ddd0d5ac3e"
+    },
+    {
+      "product": {
+        "id": "92be89e5e63171f7ab72bed3836601a70a62f6cb",
+        "name": "Asus Wireless AC2400 Dual-band Gigabit Router",
+        "description": "Dummy description for product Asus Wireless AC2400 Dual-band Gigabit Router",
+        "manufacturer_id": "4c1d83eaeeb7e384ee4d886c649287f264faf5df",
+        "taric_code": "4dedac27-85f8-4c02-878c-f2d8dd910dcd",
+        "variants": [
+          {
+            "id": "fd2716d0e5dd7ffc367ca4dd9f97aaa0",
+            "name": "Asus Routers",
+            "description": "Buy Asus Wireless AC2400 Dual-band Gigabit Router only for Rs. 0.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 51,
+            "price": 29990,
+            "sale": false,
+            "sale_price": 21290,
+            "stock_keeping_unit": "RTREYTY2TMVNXZG4",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/router/z/g/4/asus-wireless-ac2400-dual-band-gigabit-router-original-imaeywyggmhj5nvz.jpeg",
+                "filename": "asus-wireless-ac2400-dual-band-gigabit-router-original-imaeywyggmhj5nvz.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/z/g/4/asus-wireless-ac2400-dual-band-gigabit-router-original-imaeywygpers8kyf.jpeg",
+                "filename": "asus-wireless-ac2400-dual-band-gigabit-router-original-imaeywygpers8kyf.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/z/g/4/asus-wireless-ac2400-dual-band-gigabit-router-original-imaeywygaaxhgqba.jpeg",
+                "filename": "asus-wireless-ac2400-dual-band-gigabit-router-original-imaeywygaaxhgqba.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/z/g/4/asus-wireless-ac2400-dual-band-gigabit-router-original-imaeywyg8ykyjqfk.jpeg",
+                "filename": "asus-wireless-ac2400-dual-band-gigabit-router-original-imaeywyg8ykyjqfk.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Firewall",
+                "values": [
+                  "SPI Intrusion Detection",
+                  "DoS Protection",
+                  "Network Service Filter",
+                  "URL Filter",
+                  "Port Filter"
+                ]
+              },
+              {
+                "key": "Encryption",
+                "values": [
+                  "WPA2-Enterprise",
+                  "128-bit WEP",
+                  "WPA-Enterprise",
+                  "64-bit WEP",
+                  "WPA2-PSK",
+                  "WPA-PSK",
+                  "WPS Support"
+                ]
+              },
+              {
+                "key": "Other Security Features",
+                "values": [
+                  "Parental Control",
+                  "QoS",
+                  "Automatic IP",
+                  "Static IP",
+                  "PPPoE (MPPE Supported)",
+                  "DHCP",
+                  "DNS Proxy",
+                  "Guest Network ",
+                  "Upnp"
+                ]
+              },
+              { "key": "Wireless Speed", "values": ["2334 Mbps"] },
+              { "key": "LAN/WAN", "values": ["10/100/1000 Gigabits BaseT"] },
+              { "key": "Brand", "values": ["Asus"] },
+              {
+                "key": "In The Box",
+                "values": [
+                  "1 x RT-AC87U Wireless-AC2400 Dual Band Gigabit Router 1 x RJ-45 Cable 1 x Power Adapter 1 x QSG 1 x Support CD (User Manual and Ultility)"
+                ]
+              },
+              {
+                "key": "Model",
+                "values": ["Wireless AC2400 Dual-band Gigabit Router"]
+              },
+              {
+                "key": "Controls",
+                "values": [
+                  "WPS Button",
+                  "Reset Button",
+                  "Power Switch",
+                  "Wireless On/Off Button",
+                  "LED On/Off Button"
+                ]
+              },
+              {
+                "key": "LED Indicator",
+                "values": [
+                  "1 x PWR",
+                  "1 x WPS",
+                  "1 x WAN",
+                  "2 x Wi-Fi",
+                  "4 x Lan"
+                ]
+              },
+              { "key": "Type", "values": ["Wireless Without modem"] },
+              { "key": "Part Number", "values": ["RT-AC87U"] },
+              { "key": "Domestic Term", "values": ["3 Years"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["3 Year Asus India Warranty"]
+              },
+              { "key": "Weight", "values": ["747 g"] },
+              { "key": "Height", "values": ["47.5 mm"] },
+              { "key": "Width", "values": ["289.5 mm"] },
+              { "key": "Depth", "values": ["167.6 mm"] },
+              {
+                "key": "Operating System",
+                "values": [
+                  "Windows: XP",
+                  "Vista",
+                  "Mac OS X: 10.1",
+                  "8.1",
+                  "10.4",
+                  "10.6",
+                  "10.5",
+                  "10.8",
+                  "Linux",
+                  "10.7",
+                  "2000",
+                  "Linux Kernel (Support Ubuntu Only)",
+                  "Server 2003",
+                  "8",
+                  "ME",
+                  "Server 2008",
+                  "7"
+                ]
+              },
+              { "key": "Frequency", "values": ["5 GHz"] },
+              { "key": "WAN", "values": ["RJ-45"] },
+              { "key": "Number of Antennae", "values": ["4"] },
+              { "key": "Number of LAN ports", "values": ["4"] },
+              { "key": "USB", "values": ["1 x USB 2.0", "1 x USB 3.0"] },
+              { "key": "Number of USB Ports", "values": ["2"] },
+              { "key": "Antennae Capacity", "values": ["MU-MIMO Antenna"] },
+              { "key": "LAN", "values": ["RJ-45"] },
+              { "key": "Number of WAN ports", "values": ["1"] },
+              { "key": "Antennae", "values": ["External"] },
+              {
+                "key": "Standard IEEE",
+                "values": [
+                  "IEEE 802.11n",
+                  "IEEE 802.11ac",
+                  "IPv4",
+                  "IEEE 802.11g",
+                  "IEEE 802.11a",
+                  "IEEE 802.11b",
+                  "IPv6"
+                ]
+              },
+              {
+                "key": "VPN",
+                "values": [
+                  "IPSec Pass-Through",
+                  "PPTP Pass-Through",
+                  "L2TP Pass-Through",
+                  "PPTP Server",
+                  "Open VPN Server",
+                  "PPTP Client",
+                  "L2TP Client",
+                  "Open VPN Client"
+                ]
+              },
+              { "key": "SSID Support", "values": ["Multiple SSID"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "92be89e5e63171f7ab72bed3836601a70a62f6cb"
+    },
+    {
+      "product": {
+        "id": "006abf4b0c294ab0bdbd70c907667231c6c1af3b",
+        "name": "ETTI Plastic Necklace",
+        "description": "Dummy description for product ETTI Plastic Necklace",
+        "manufacturer_id": "a8c99db90c410f76b15a9a12104f1e14ff4ad12f",
+        "taric_code": "4edb3c67-ae73-46fb-b203-cac67c212a46",
+        "variants": [
+          {
+            "id": "3056626964ddcddddc070130535b03ee",
+            "name": "Necklaces",
+            "description": "ETTI Plastic Necklace - Buy ETTI Plastic Necklace only for Rs. 199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7667,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "NKCE9AZMWUUVVS8H",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/s/8/h/esj100-green-etti-necklace-1100x1100-imae9ac5gvaskggj.jpeg",
+                "filename": "esj100-green-etti-necklace-1100x1100-imae9ac5gvaskggj.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/s/8/h/esj100-green-etti-necklace-original-imae9ac5gvaskggj.jpeg",
+                "filename": "esj100-green-etti-necklace-original-imae9ac5gvaskggj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["ETTI"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["ESJ100_GREEN"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Base Material", "values": ["Plastic"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "006abf4b0c294ab0bdbd70c907667231c6c1af3b"
+    },
+    {
+      "product": {
+        "id": "bfb45ca02ff4369f1429cc50f108ed8811aca695",
+        "name": "ETTI ESJ2 Stone Necklace",
+        "description": "Dummy description for product ETTI ESJ2 Stone Necklace",
+        "manufacturer_id": "a8c99db90c410f76b15a9a12104f1e14ff4ad12f",
+        "taric_code": "577c1dbb-7ba5-47f9-9b5d-e99c6d6260c0",
+        "variants": [
+          {
+            "id": "e2eb85c4aae255ca1c780eede8206e8e",
+            "name": "Necklaces",
+            "description": "ETTI ESJ2 Stone Necklace - Buy ETTI ESJ2 Stone Necklace only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6379,
+            "price": 1000,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCE7M3QNNPZDXHQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/x/h/q/esj2-pink-etti-necklace-1100x1100-imae7myru3zgvukf.jpeg",
+                "filename": "esj2-pink-etti-necklace-1100x1100-imae7myru3zgvukf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/x/h/q/esj2-pink-etti-necklace-original-imae7myru3zgvukf.jpeg",
+                "filename": "esj2-pink-etti-necklace-original-imae7myru3zgvukf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["ETTI"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["ESJ2_PINK"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["ESJ2"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Base Material", "values": ["Stone"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "bfb45ca02ff4369f1429cc50f108ed8811aca695"
+    },
+    {
+      "product": {
+        "id": "0c59396a233ad73f08aef3d2ead0b6333ecc2863",
+        "name": "Netgear WNDR3700 N600 Dual Band Wireless Gigabit Router",
+        "description": "Dummy description for product Netgear WNDR3700 N600 Dual Band Wireless Gigabit Router",
+        "manufacturer_id": "845b0ae8cb30ad01d06696385a8a8d53703f9bc0",
+        "taric_code": "e2decd78-b72f-4213-9072-ba1882754b6b",
+        "variants": [
+          {
+            "id": "54a98e0bb717a0d71da2931e6c7ccd79",
+            "name": "Netgear Routers",
+            "description": "Buy Netgear WNDR3700 N600 Dual Band Wireless Gigabit Router only for Rs. 10915 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4213,
+            "price": 9000,
+            "sale": false,
+            "sale_price": 6300,
+            "stock_keeping_unit": "RTRDFFYGJ4GNRSHQ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com//image/router/s/h/q/netgear-rangemax-dual-band-wireless-n-gigabit-router-original-imad25vzvzp7dmxs.jpeg",
+                "filename": "netgear-rangemax-dual-band-wireless-n-gigabit-router-original-imad25vzvzp7dmxs.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com//image/router/s/h/q/netgear-rangemax-dual-band-wireless-n-gigabit-router-original-imad25vzvzp7dmxs.jpeg",
+                "filename": "netgear-rangemax-dual-band-wireless-n-gigabit-router-original-imad25vzvzp7dmxs.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Firewall",
+                "values": [
+                  "Denial-of-Service (DoS) and Stateful Packet Inspection (SPI) firewall"
+                ]
+              },
+              {
+                "key": "Encryption",
+                "values": ["WPA/WPA2", "WPA-PSK/WPA2-PSK"]
+              },
+              {
+                "key": "Other Security Features",
+                "values": ["WiFi protected setup (WPS)PIN and push button1"]
+              },
+              { "key": "Wireless Speed", "values": ["500 Mbps"] },
+              { "key": "LAN/WAN", "values": ["10/100/1000"] },
+              { "key": "Brand", "values": ["Netgear"] },
+              {
+                "key": "In The Box",
+                "values": [
+                  "WNDR3700",
+                  "stand",
+                  "Ethernet cable",
+                  "Setup CD and auto backup software",
+                  "Power adapter",
+                  "Warranty/support information card"
+                ]
+              },
+              { "key": "Model", "values": ["WNDR3700"] },
+              {
+                "key": "Controls",
+                "values": ["One-Touch on/off switch", "Wi-Fi button"]
+              },
+              {
+                "key": "Installation Features",
+                "values": [
+                  "Push 'N' Connect with WPS",
+                  "Genie CD-less Installation"
+                ]
+              },
+              {
+                "key": "Supported Software",
+                "values": ["Internet Explorer 5.0", "Firefox 2.0", "Safari 1.4"]
+              },
+              { "key": "Type", "values": ["Wireless Without modem"] },
+              { "key": "Part Number", "values": ["WNDR3700-100PES"] },
+              { "key": "Power Supply", "values": ["External"] },
+              { "key": "Domestic Term", "values": ["2 Year"] },
+              { "key": "Service Type", "values": ["Carry In"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Physical damage and burn out cases are not entitled for warranty"
+                ]
+              },
+              { "key": "Weight", "values": ["500 g"] },
+              { "key": "Height", "values": ["31 mm"] },
+              { "key": "Width", "values": ["153 mm"] },
+              { "key": "Depth", "values": ["223 mm"] },
+              {
+                "key": "Operating System",
+                "values": [
+                  "Windows Vista",
+                  "Windows XP",
+                  "Windows 2000",
+                  "Windows Me",
+                  "Mac OS",
+                  "UNIX",
+                  "Linux"
+                ]
+              },
+              { "key": "Frequency", "values": ["5 GHz"] },
+              { "key": "Bandwidth", "values": ["680 MHz"] },
+              { "key": "WAN", "values": ["RJ-45"] },
+              { "key": "Number of Antennae", "values": ["1"] },
+              { "key": "Number of LAN ports", "values": ["4"] },
+              { "key": "USB", "values": ["USB 2.0"] },
+              { "key": "Number of USB Ports", "values": ["1"] },
+              { "key": "LAN", "values": ["RJ-45"] },
+              { "key": "Number of WAN ports", "values": ["1"] },
+              { "key": "Antennae", "values": ["Internal"] },
+              {
+                "key": "Standard IEEE",
+                "values": ["IEEE 802.11a/b/g/n (Draft 2.0)"]
+              },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Live Parental Controls with centralized flexible and customizable filter settings",
+                  "ReadySHARE USB storage access",
+                  "DLNA compliant",
+                  "Broadband usage meter measures Internet usage",
+                  "Automatic Quality of Service (QoS)"
+                ]
+              },
+              {
+                "key": "Certification",
+                "values": ["Yes", "Wi-Fi Certification"]
+              },
+              {
+                "key": "SSID Support",
+                "values": [
+                  "Multiple SSID guest networks (separate security and access restrictions)"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "0c59396a233ad73f08aef3d2ead0b6333ecc2863"
+    },
+    {
+      "product": {
+        "id": "546124167ed7304fd07b0fd6572cf740a75e4964",
+        "name": "Galz4ever Blue Seed Bead Alloy Necklace",
+        "description": "Dummy description for product Galz4ever Blue Seed Bead Alloy Necklace",
+        "manufacturer_id": "e0d4d87156b7d4ffb12d08ede4cc01c14051edc8",
+        "taric_code": "92010941-1bb9-404b-9129-984c0deb20a4",
+        "variants": [
+          {
+            "id": "73d13131872affc1c2fe174db4712ddb",
+            "name": "Necklaces",
+            "description": "Galz4ever Blue Seed Bead Alloy Necklace - Buy Galz4ever Blue Seed Bead Alloy Necklace only for Rs. 229 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4384,
+            "price": 249,
+            "sale": false,
+            "sale_price": 229,
+            "stock_keeping_unit": "NKCEAGXHZMK8HHRG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/r/g/226-galz4ever-necklace-original-imaeagb2yavuwtun.jpeg",
+                "filename": "226-galz4ever-necklace-original-imaeagb2yavuwtun.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/h/r/g/226-galz4ever-necklace-original-imaeagb2yavuwtun.jpeg",
+                "filename": "226-galz4ever-necklace-original-imaeagb2yavuwtun.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/r/g/226-galz4ever-necklace-original-imaeagb2zwpvfwua.jpeg",
+                "filename": "226-galz4ever-necklace-original-imaeagb2zwpvfwua.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/h/r/g/226-galz4ever-necklace-original-imaeagb2vmwrckyu.jpeg",
+                "filename": "226-galz4ever-necklace-original-imaeagb2vmwrckyu.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Galz4ever"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["226"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Blue Seed Bead"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "546124167ed7304fd07b0fd6572cf740a75e4964"
+    },
+    {
+      "product": {
+        "id": "13ce2e679cdfa5459266db3f94da8c4741c416bf",
+        "name": "Gift Island Yellow Gold Plated Alloy Necklace",
+        "description": "Dummy description for product Gift Island Yellow Gold Plated Alloy Necklace",
+        "manufacturer_id": "f8d9202454a5265b63477e924c26f7633d5815e3",
+        "taric_code": "ec075773-a360-4bb3-8889-ccfcd6f8b0c8",
+        "variants": [
+          {
+            "id": "59feb33cf5bd567c53e8f7988107dea5",
+            "name": "Necklaces",
+            "description": "Gift Island Yellow Gold Plated Alloy Necklace - Buy Gift Island Yellow Gold Plated Alloy Necklace only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6604,
+            "price": 499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCECKHZPB2JMPGF",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/p/g/f/1062-gift-island-necklace-1100x1100-imaeck8vnztcz9ca.jpeg",
+                "filename": "1062-gift-island-necklace-1100x1100-imaeck8vnztcz9ca.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/p/g/f/1062-gift-island-necklace-original-imaeck8vnztcz9ca.jpeg",
+                "filename": "1062-gift-island-necklace-original-imaeck8vnztcz9ca.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Gift Island"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["1062"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "69be1a94a88c692ab39fe74249346726",
+            "name": "Necklaces",
+            "description": "Gift Island Yellow Gold Plated Alloy Necklace - Buy Gift Island Yellow Gold Plated Alloy Necklace only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8996,
+            "price": 499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCECKHYWHKURS5H",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/s/5/h/1003-gift-island-necklace-1100x1100-imaeck6upzamfsg9.jpeg",
+                "filename": "1003-gift-island-necklace-1100x1100-imaeck6upzamfsg9.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/s/5/h/1003-gift-island-necklace-original-imaeck6upzamfsg9.jpeg",
+                "filename": "1003-gift-island-necklace-original-imaeck6upzamfsg9.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Gift Island"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["1003"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "d0bf2b7fb9c2e5e3623d05efe628aa0b",
+            "name": "Necklaces",
+            "description": "Gift Island Yellow Gold Plated Alloy Necklace - Buy Gift Island Yellow Gold Plated Alloy Necklace only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 2723,
+            "price": 399,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCECKHYZVHBQU9F",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/u/9/f/1009-gift-island-necklace-1100x1100-imaeck77bdawfugz.jpeg",
+                "filename": "1009-gift-island-necklace-1100x1100-imaeck77bdawfugz.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/u/9/f/1009-gift-island-necklace-original-imaeck77bdawfugz.jpeg",
+                "filename": "1009-gift-island-necklace-original-imaeck77bdawfugz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Gift Island"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["1009"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "f460aef84b0fe3745f98ac219b9c7f2a",
+            "name": "Necklaces",
+            "description": "Gift Island Yellow Gold Plated Alloy Necklace - Buy Gift Island Yellow Gold Plated Alloy Necklace only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6776,
+            "price": 499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCECKHYZJ9G5KQH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/k/q/h/1064-gift-island-necklace-1100x1100-imaeck8w4mjmud4g.jpeg",
+                "filename": "1064-gift-island-necklace-1100x1100-imaeck8w4mjmud4g.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/k/q/h/1064-gift-island-necklace-original-imaeck8w4mjmud4g.jpeg",
+                "filename": "1064-gift-island-necklace-original-imaeck8w4mjmud4g.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Gift Island"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["1064"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "2181f3163813e1f0bb847fc4bffc38b3",
+            "name": "Necklaces",
+            "description": "Gift Island Yellow Gold Plated Alloy Necklace - Buy Gift Island Yellow Gold Plated Alloy Necklace only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4706,
+            "price": 499,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCECKHYH64EPAVZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/a/v/z/1004-gift-island-necklace-1100x1100-imaeck6wtd6ttv6z.jpeg",
+                "filename": "1004-gift-island-necklace-1100x1100-imaeck6wtd6ttv6z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/a/v/z/1004-gift-island-necklace-original-imaeck6wtd6ttv6z.jpeg",
+                "filename": "1004-gift-island-necklace-original-imaeck6wtd6ttv6z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Gift Island"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["1004"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "13ce2e679cdfa5459266db3f94da8c4741c416bf"
+    },
+    {
+      "product": {
+        "id": "8c732fc42b353a1f89926a231a26bfdb249b3ef1",
+        "name": "Apple MD199HN/A",
+        "description": "Dummy description for product Apple MD199HN/A",
+        "manufacturer_id": "af5cd07a13c9761b04349aa4b81a19197b88a16b",
+        "taric_code": "e5b167b4-c9c5-4a54-9cce-795431c638dd",
+        "variants": [
+          {
+            "id": "5df72b5295dc5e6126693e640b50f3a2",
+            "name": "Apple Routers",
+            "description": "Buy Apple MD199HN/A only for Rs. 5900 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8475,
+            "price": 5900,
+            "sale": true,
+            "sale_price": 5900,
+            "stock_keeping_unit": "RTREBZRG4SE4AFBX",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/router/f/b/x/apple-md199hn-a-1100x1100-imaecffdwftmgcfb.jpeg",
+                "filename": "apple-md199hn-a-1100x1100-imaecffdwftmgcfb.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/f/b/x/apple-md199hn-a-original-imaecffdwftmgcfb.jpeg",
+                "filename": "apple-md199hn-a-original-imaecffdwftmgcfb.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/f/b/x/apple-md199hn-a-original-imaecffdtzfm9dyz.jpeg",
+                "filename": "apple-md199hn-a-original-imaecffdtzfm9dyz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Wireless Speed", "values": ["100 Mbps"] },
+              { "key": "Brand", "values": ["Apple"] },
+              { "key": "In The Box", "values": ["1 Router"] },
+              { "key": "Model", "values": ["MD199HN/A"] },
+              { "key": "Type", "values": ["Wireless With Modem"] },
+              { "key": "Color", "values": ["Black"] },
+              {
+                "key": "Covered in Warranty",
+                "values": [
+                  "Warranty of the product is limited to manufacturing defects only"
+                ]
+              },
+              { "key": "Warranty Summary", "values": ["6 Months"] },
+              {
+                "key": "Service Type",
+                "values": ["Authorized Service Center"]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["If Damaged not be repaired"]
+              },
+              { "key": "Number of USB Ports", "values": ["2"] },
+              { "key": "Antennae", "values": ["Internal"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "8c732fc42b353a1f89926a231a26bfdb249b3ef1"
+    },
+    {
+      "product": {
+        "id": "86d91e1f4ae319d8e9790991df1610801f3f0bba",
+        "name": "Joyeria Milan Multilayer Gold Plated Bead Resin Necklace",
+        "description": "Dummy description for product Joyeria Milan Multilayer Gold Plated Bead Resin Necklace",
+        "manufacturer_id": "ef84f14cc273967ffd540871c58685d91a4bacbf",
+        "taric_code": "0bb10e35-c892-43bd-814f-343355cafd42",
+        "variants": [
+          {
+            "id": "b05de1aabd9037f0718127eabccff69c",
+            "name": "Necklaces",
+            "description": "Joyeria Milan Multilayer Gold Plated Bead Resin Necklace - Buy Joyeria Milan Multilayer Gold Plated Bead Resin Necklace only for Rs. 199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9024,
+            "price": 299,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "NKCE38HBTZXEXXUG",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/x/u/g/jmnk036-joyeria-milan-necklace-original-imae355h3guq6qru.jpeg",
+                "filename": "jmnk036-joyeria-milan-necklace-original-imae355h3guq6qru.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/x/u/g/jmnk036-joyeria-milan-necklace-original-imae355hyjnujjuz.jpeg",
+                "filename": "jmnk036-joyeria-milan-necklace-original-imae355hyjnujjuz.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Joyeria Milan"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["JMNK036"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Model Name",
+                "values": ["Multilayer Gold Plated Bead"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Resin"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["Brand Certification"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "86d91e1f4ae319d8e9790991df1610801f3f0bba"
+    },
+    {
+      "product": {
+        "id": "49d4e85d71ff0ba63c7d1216b3c516c921ca3aa9",
+        "name": "Tenda TE-F452",
+        "description": "Dummy description for product Tenda TE-F452",
+        "manufacturer_id": "ff23b229a995f38e200135ee715de50cbc51393e",
+        "taric_code": "5d8c5c45-0773-4dde-aa71-1775881f4439",
+        "variants": [
+          {
+            "id": "f309bdd259c5b46a560bc1620e641947",
+            "name": "Tenda Routers",
+            "description": "Buy Tenda TE-F452 only for Rs. 4509 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5539,
+            "price": 9500,
+            "sale": false,
+            "sale_price": 4527,
+            "stock_keeping_unit": "RTRDZK8XD2H2VBAD",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/router/b/a/d/tenda-te-f452-original-imadzh72r4gfrqn2.jpeg",
+                "filename": "tenda-te-f452-original-imadzh72r4gfrqn2.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/b/a/d/tenda-te-f452-original-imadzh72r4gfrqn2.jpeg",
+                "filename": "tenda-te-f452-original-imadzh72r4gfrqn2.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "In The Box",
+                "values": [
+                  "Wireless N450 Gigabit Router F452",
+                  "Quick Installation Guide",
+                  "Ethernet Cable",
+                  "Power Adapter",
+                  "Resources Cd"
+                ]
+              },
+              { "key": "Brand", "values": ["Tenda"] },
+              { "key": "Model", "values": ["TE-F452"] },
+              { "key": "Type", "values": ["Wireless Without modem"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Wireless Speed", "values": ["450 mbps"] },
+              { "key": "Warranty Summary", "values": ["3 Years Warranty"] },
+              { "key": "Number of USB Ports", "values": ["1"] },
+              { "key": "Antennae", "values": ["Internal"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "49d4e85d71ff0ba63c7d1216b3c516c921ca3aa9"
+    },
+    {
+      "product": {
+        "id": "04166c7879601f16b098c1eb6adc8839f5715016",
+        "name": "JEWELIZER Statement Crystal Yellow Gold Plated Alloy Necklace",
+        "description": "Dummy description for product JEWELIZER Statement Crystal Yellow Gold Plated Alloy Necklace",
+        "manufacturer_id": "f90ec90e14ae017cddc482aa2894eac7f5815895",
+        "taric_code": "60571af6-f60b-4c55-8b3b-d4f77dbcf9bd",
+        "variants": [
+          {
+            "id": "174096ed7f5b05d43886155061700451",
+            "name": "Necklaces",
+            "description": "JEWELIZER Statement Crystal Yellow Gold Plated Alloy Necklace\n                         Price: Rs. 499\n\t\t\t\t\n\t\t\tCharming and ready to wear with anything, this stylish necklace takes your look to a new level.\nCharming and ready to wear with anything, this stylish necklace takes your look to a new level.",
+            "stock_level": 9411,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCECGVB6FPY5BFF",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/b/f/f/nfjs54n0008-jewelizer-necklace-original-imaech47ecmafaah.jpeg",
+                "filename": "nfjs54n0008-jewelizer-necklace-original-imaech47ecmafaah.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/b/f/f/nfjs54n0008-jewelizer-necklace-original-imaech47ecmafaah.jpeg",
+                "filename": "nfjs54n0008-jewelizer-necklace-original-imaech47ecmafaah.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/b/f/f/nfjs54n0008-jewelizer-necklace-original-imaech47hrf3g7jw.jpeg",
+                "filename": "nfjs54n0008-jewelizer-necklace-original-imaech47hrf3g7jw.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["JEWELIZER"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["NFJS54N0008"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Statement"] },
+              {
+                "key": "Occasion",
+                "values": ["Everyday", "Everyday", "Everyday", "Everyday"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Oxidized"] },
+              { "key": "Certification", "values": ["NA"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "8c91d8ae5d78b8ae68573fd1781e1227",
+            "name": "Necklaces",
+            "description": "JEWELIZER Statement Crystal Yellow Gold Plated Alloy Necklace\n                         Price: Rs. 449\n\t\t\t\t\n\t\t\tSimple but high-impact.\nSimple but high-impact.",
+            "stock_level": 1873,
+            "price": 1199,
+            "sale": false,
+            "sale_price": 449,
+            "stock_keeping_unit": "NKCECGVBP95YTKNA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/k/n/a/nfjs48n0005-jewelizer-necklace-original-imaech47ujb25ezq.jpeg",
+                "filename": "nfjs48n0005-jewelizer-necklace-original-imaech47ujb25ezq.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/k/n/a/nfjs48n0005-jewelizer-necklace-original-imaech47zzxbnfas.jpeg",
+                "filename": "nfjs48n0005-jewelizer-necklace-original-imaech47zzxbnfas.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Brand", "values": ["JEWELIZER"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Model Number", "values": ["NFJS48N0005"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Statement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Everyday", "Everyday", "Everyday", "Everyday"]
+              },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Oxidized"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          },
+          {
+            "id": "41443d41eec4e8f745c11f3025c9c08f",
+            "name": "Necklaces",
+            "description": "JEWELIZER Statement Crystal Yellow Gold Plated Alloy Necklace\n                         Price: Rs. 499\n\t\t\t\t\n\t\t\tStatement necklace for this season.\nStatement necklace for this season.",
+            "stock_level": 7924,
+            "price": 1299,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCECGVBWQWGZUVG",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/u/v/g/nfjs55n0007-jewelizer-necklace-original-imaech47p4shjz6f.jpeg",
+                "filename": "nfjs55n0007-jewelizer-necklace-original-imaech47p4shjz6f.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/u/v/g/nfjs55n0007-jewelizer-necklace-original-imaech47zen2s7jn.jpeg",
+                "filename": "nfjs55n0007-jewelizer-necklace-original-imaech47zen2s7jn.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["JEWELIZER"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["NFJS55N0007"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Statement"] },
+              {
+                "key": "Occasion",
+                "values": ["Everyday", "Everyday", "Everyday", "Everyday"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Pink"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Gold Plated"] },
+              { "key": "Certification", "values": ["NA"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "a466f6048e45cee2dbb2744add4f21cd",
+            "name": "Necklaces",
+            "description": "JEWELIZER Statement Crystal Yellow Gold Plated Alloy Necklace\n                         Price: Rs. 399\n\t\t\t\t\n\t\t\tElegant and sophisticated with a dose of drama, this necklace knows how to attract attention.\nElegant and sophisticated with a dose of drama, this necklace knows how to attract attention.",
+            "stock_level": 1824,
+            "price": 999,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCECGVB5HYJHPXY",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/p/x/y/nfjs54n0004-jewelizer-necklace-original-imaech47czwvgqfd.jpeg",
+                "filename": "nfjs54n0004-jewelizer-necklace-original-imaech47czwvgqfd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/p/x/y/nfjs54n0004-jewelizer-necklace-original-imaech47u6ged2p2.jpeg",
+                "filename": "nfjs54n0004-jewelizer-necklace-original-imaech47u6ged2p2.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["NA"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["JEWELIZER"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["NFJS54N0004"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Statement"] },
+              {
+                "key": "Occasion",
+                "values": ["Everyday", "Everyday", "Everyday", "Everyday"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Diamond Color Grade", "values": ["NA"] },
+              { "key": "Diamond Clarity", "values": ["NA"] },
+              { "key": "Gold Purity", "values": ["NA K"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Gold Plated"] },
+              { "key": "Certification", "values": ["NA"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "04166c7879601f16b098c1eb6adc8839f5715016"
+    },
+    {
+      "product": {
+        "id": "028a6ce614bd8f868932a97f9bbf861c1ff45c43",
+        "name": "Tenda TE-4G302",
+        "description": "Dummy description for product Tenda TE-4G302",
+        "manufacturer_id": "ff23b229a995f38e200135ee715de50cbc51393e",
+        "taric_code": "f640317a-423d-4b8c-b02d-7b359619fd49",
+        "variants": [
+          {
+            "id": "3386d3d1d642ca82cf57b9593de29127",
+            "name": "Tenda Routers",
+            "description": "Buy Tenda TE-4G302 only for Rs. 2585 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3373,
+            "price": 3500,
+            "sale": false,
+            "sale_price": 3399,
+            "stock_keeping_unit": "RTRDZK8XZBQDJ35U",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/router/3/5/u/tenda-te-4g302-original-imadzh72eeghhfdh.jpeg",
+                "filename": "tenda-te-4g302-original-imadzh72eeghhfdh.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "In The Box",
+                "values": [
+                  "4g302",
+                  "Quick Installation Guide",
+                  "Network Cable",
+                  "Usb Cable",
+                  "Warranty Card"
+                ]
+              },
+              { "key": "Brand", "values": ["Tenda"] },
+              { "key": "Model", "values": ["TE-4G302"] },
+              { "key": "Type", "values": ["3G Routers"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Wireless Speed", "values": ["300 mbps"] },
+              { "key": "Warranty Summary", "values": ["3 Years Warranty"] },
+              { "key": "Number of USB Ports", "values": ["2"] },
+              { "key": "Antennae", "values": ["Internal"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "028a6ce614bd8f868932a97f9bbf861c1ff45c43"
+    },
+    {
+      "product": {
+        "id": "be7aa2aad89ada0aa6e235988b4e7c470c4873c6",
+        "name": "Jiya Fashion Pretties Alloy Choker",
+        "description": "Dummy description for product Jiya Fashion Pretties Alloy Choker",
+        "manufacturer_id": "33de0ac45211e9d5e6a87c5c389860889da23223",
+        "taric_code": "708210ad-f559-40b8-ad4d-7dfb8ead178c",
+        "variants": [
+          {
+            "id": "726d2dc7abe48916e322524d3c398ebe",
+            "name": "Necklaces",
+            "description": "Jiya Fashion Pretties Alloy Choker - Buy Jiya Fashion Pretties Alloy Choker only for Rs. 400 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5236,
+            "price": 999,
+            "sale": false,
+            "sale_price": 400,
+            "stock_keeping_unit": "NKCE25HGP4FM3YGM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/y/g/m/jmtcr-1-jiya-fashion-pretties-choker-original-imae24jw3uvzzaqx.jpeg",
+                "filename": "jmtcr-1-jiya-fashion-pretties-choker-original-imae24jw3uvzzaqx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/y/g/m/jmtcr-1-jiya-fashion-pretties-choker-original-imae24jwzq8adgp6.jpeg",
+                "filename": "jmtcr-1-jiya-fashion-pretties-choker-original-imae24jwzq8adgp6.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jiya Fashion Pretties"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Model Number", "values": ["JMTCR_1"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Choker"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Sales Package", "values": ["1 Choker"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "be7aa2aad89ada0aa6e235988b4e7c470c4873c6"
+    },
+    {
+      "product": {
+        "id": "079adf70387ebf1483de67c4e6e4e41e69466b01",
+        "name": "Jewel Touch Twist and Turn Alloy Necklace",
+        "description": "Dummy description for product Jewel Touch Twist and Turn Alloy Necklace",
+        "manufacturer_id": "07535ff89689c41af27ddb5135c5c0f7e1479179",
+        "taric_code": "9fae6435-1978-4fc9-97e9-5b05cee112d2",
+        "variants": [
+          {
+            "id": "446e02216e38e72eab187b7771ed03b3",
+            "name": "Necklaces",
+            "description": "Jewel Touch Twist and Turn Alloy Necklace - Buy Jewel Touch Twist and Turn Alloy Necklace only for Rs. 450 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4761,
+            "price": 910,
+            "sale": true,
+            "sale_price": 450,
+            "stock_keeping_unit": "NKCE99BVPCFZPNVH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/n/v/h/jwt14-nk034-jewel-touch-necklace-1100x1100-imae9993tpcgenad.jpeg",
+                "filename": "jwt14-nk034-jewel-touch-necklace-1100x1100-imae9993tpcgenad.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/n/v/h/jwt14-nk034-jewel-touch-necklace-original-imae9993tpcgenad.jpeg",
+                "filename": "jwt14-nk034-jewel-touch-necklace-original-imae9993tpcgenad.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/n/v/h/jwt14-nk034-jewel-touch-necklace-original-imae9993qjaar3ma.jpeg",
+                "filename": "jwt14-nk034-jewel-touch-necklace-original-imae9993qjaar3ma.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jewel Touch"] },
+              { "key": "Collection", "values": ["Fusion"] },
+              { "key": "Model Number", "values": ["JWT14-NK034"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Twist and Turn"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Occasion", "values": ["Workwear", "Love"] },
+              { "key": "Color", "values": ["Black", "Gold"] },
+              { "key": "Chain/Necklace Length", "values": ["7 inch"] },
+              { "key": "Weight", "values": ["22.5 g"] },
+              { "key": "Chain/Necklace Thickness", "values": ["2.5 mm"] },
+              { "key": "Height", "values": ["80 mm"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Finish", "values": ["Matte"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "079adf70387ebf1483de67c4e6e4e41e69466b01"
+    },
+    {
+      "product": {
+        "id": "d62802c31843d1b375c79432cc6f2790892f7322",
+        "name": "Huawei WS331c -300 Mbps Wireless Range Extender",
+        "description": "Dummy description for product Huawei WS331c -300 Mbps Wireless Range Extender",
+        "manufacturer_id": "52856d812476b803f0379dbf4aa683b2e9397237",
+        "taric_code": "9df57fb9-56dc-4252-9bb8-582e8a12b797",
+        "variants": [
+          {
+            "id": "a43fbae655e5d13215b9dd65339fa9d4",
+            "name": "Huawei Routers",
+            "description": "Buy Huawei WS331c -300 Mbps Wireless Range Extender only for Rs. 2250 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3807,
+            "price": 2250,
+            "sale": false,
+            "sale_price": 1635,
+            "stock_keeping_unit": "RTREFWYNH9RGDCQK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/router/c/q/k/huawei-ws331c-original-imaefs56sc5hwvah.jpeg",
+                "filename": "huawei-ws331c-original-imaefs56sc5hwvah.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/c/q/k/huawei-ws331c-original-imaefs56my9y2e6t.jpeg",
+                "filename": "huawei-ws331c-original-imaefs56my9y2e6t.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/c/q/k/huawei-ws331c-original-imaefs56pm4tvdrj.jpeg",
+                "filename": "huawei-ws331c-original-imaefs56pm4tvdrj.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "In The Box", "values": ["Device"] },
+              { "key": "Brand", "values": ["Huawei"] },
+              {
+                "key": "Model",
+                "values": ["WS331c -300 Mbps Wireless Range Extender"]
+              },
+              { "key": "Type", "values": ["Wireless Without modem"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Wireless Speed", "values": ["300 mbps"] },
+              { "key": "Number of USB Ports", "values": ["0"] },
+              { "key": "Antennae", "values": ["Internal"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": false,
+      "id": "d62802c31843d1b375c79432cc6f2790892f7322"
+    },
+    {
+      "product": {
+        "id": "3aaa8971d5c9b460b2670789a14a6a6e58e8bdd0",
+        "name": "Hotpiper Elegant Silver Rhodium Plated Acrylic Necklace",
+        "description": "Dummy description for product Hotpiper Elegant Silver Rhodium Plated Acrylic Necklace",
+        "manufacturer_id": "ace841e124a84bf512ba15179492774323370e1e",
+        "taric_code": "e726f15b-7a4b-4b5e-8884-7835ce7db983",
+        "variants": [
+          {
+            "id": "6d4b450856125736e0fb5c6fdc07b4d8",
+            "name": "Necklaces",
+            "description": "Hotpiper Elegant Silver Rhodium Plated Acrylic Necklace - Buy Hotpiper Elegant Silver Rhodium Plated Acrylic Necklace only for Rs. 490 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9982,
+            "price": 965,
+            "sale": false,
+            "sale_price": 490,
+            "stock_keeping_unit": "NKCE9Q93AZYXVKYN",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/k/y/n/5820315-hotpiper-necklace-original-imae9zwngjqg4cuy.jpeg",
+                "filename": "5820315-hotpiper-necklace-original-imae9zwngjqg4cuy.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Hotpiper"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["5820315"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Elegant Silver"] },
+              {
+                "key": "Occasion",
+                "values": ["Everyday", "Love", "Wedding and Engagement"]
+              },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["Silver"] },
+              { "key": "Base Material", "values": ["Acrylic"] },
+              { "key": "Plating", "values": ["Rhodium"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "3aaa8971d5c9b460b2670789a14a6a6e58e8bdd0"
+    },
+    {
+      "product": {
+        "id": "acbd390586a461006d5ccc43cf4e82e79f7a798f",
+        "name": "Hotpiper Beautiful Golden Crystal Yellow Gold Plated Acrylic Necklace",
+        "description": "Dummy description for product Hotpiper Beautiful Golden Crystal Yellow Gold Plated Acrylic Necklace",
+        "manufacturer_id": "ace841e124a84bf512ba15179492774323370e1e",
+        "taric_code": "37d506c9-30b4-4a3e-8077-0ea2989b6026",
+        "variants": [
+          {
+            "id": "5e5873e42f978f67b96277b05a11ca4a",
+            "name": "Necklaces",
+            "description": "Hotpiper Beautiful Golden Crystal Yellow Gold Plated Acrylic Necklace - Buy Hotpiper Beautiful Golden Crystal Yellow Gold Plated Acrylic Necklace only for Rs. 475 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7415,
+            "price": 935,
+            "sale": false,
+            "sale_price": 475,
+            "stock_keeping_unit": "NKCEAUABQR7WXDYP",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/d/y/p/7500315-hotpiper-necklace-original-imaeatyegm3xnjtd.jpeg",
+                "filename": "7500315-hotpiper-necklace-original-imaeatyegm3xnjtd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/d/y/p/7500315-hotpiper-necklace-original-imaeatyegm3xnjtd.jpeg",
+                "filename": "7500315-hotpiper-necklace-original-imaeatyegm3xnjtd.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Hotpiper"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Model Number", "values": ["7500315"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Beautiful Golden"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              {
+                "key": "Occasion",
+                "values": ["Everyday", "Love", "Wedding and Engagement"]
+              },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Acrylic"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "28d3ebdd94403683dc48a2ec10fb5dfa",
+            "name": "Necklaces",
+            "description": "Hotpiper Beautiful Golden Crystal Yellow Gold Plated Acrylic Necklace\n                         Price: Rs. 490\n\t\t\t\t\n\t\t\tDesigner Golden Necklace With Embedded Crystals\nDesigner Golden Necklace With Embedded Crystals",
+            "stock_level": 6149,
+            "price": 1170,
+            "sale": false,
+            "sale_price": 490,
+            "stock_keeping_unit": "NKCECQYZXR4K76BH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/6/b/h/9240365-hotpiper-necklace-original-imaecqrdh7y2canm.jpeg",
+                "filename": "9240365-hotpiper-necklace-original-imaecqrdh7y2canm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/6/b/h/9240365-hotpiper-necklace-original-imaecqrdh7y2canm.jpeg",
+                "filename": "9240365-hotpiper-necklace-original-imaecqrdh7y2canm.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Hotpiper"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["9240365"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Beautiful Golden"] },
+              { "key": "Occasion", "values": ["Everyday", "Love"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Acrylic"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              { "key": "Sales Package", "values": ["1Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "1fb38cde737a6324d407daf1e1146852",
+            "name": "Necklaces",
+            "description": "Hotpiper Beautiful Golden Crystal Yellow Gold Plated Acrylic Necklace - Buy Hotpiper Beautiful Golden Crystal Yellow Gold Plated Acrylic Necklace only for Rs. 425 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5845,
+            "price": 835,
+            "sale": false,
+            "sale_price": 425,
+            "stock_keeping_unit": "NKCEBFWTWTBZAJKH",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/j/k/h/7940201-hotpiper-necklace-original-imaebfdgbehzvyv8.jpeg",
+                "filename": "7940201-hotpiper-necklace-original-imaebfdgbehzvyv8.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/j/k/h/7940201-hotpiper-necklace-original-imaebfdgbehzvyv8.jpeg",
+                "filename": "7940201-hotpiper-necklace-original-imaebfdgbehzvyv8.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Hotpiper"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["7940201"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Beautiful Golden"] },
+              { "key": "Occasion", "values": ["Everyday", "Love"] },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Acrylic"] },
+              { "key": "Gemstone", "values": ["Crystal"] },
+              { "key": "Plating", "values": ["Yellow Gold"] },
+              { "key": "Finish", "values": ["Glossy"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "acbd390586a461006d5ccc43cf4e82e79f7a798f"
+    },
+    {
+      "product": {
+        "id": "4a2e4830941ee40789ef6aff15a72cb59357248c",
+        "name": "Jocalia Style diva Metal Necklace",
+        "description": "Dummy description for product Jocalia Style diva Metal Necklace",
+        "manufacturer_id": "b880f9d6c46b91d38d13e27b48c12117e07a8abe",
+        "taric_code": "33ac6deb-fffe-408f-9cfe-f3962d040812",
+        "variants": [
+          {
+            "id": "77727adb7a57fc3d0455eefab3ccdd52",
+            "name": "Necklaces",
+            "description": "Jocalia Style diva Metal Necklace - Buy Jocalia Style diva Metal Necklace only for Rs. 350 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 4846,
+            "price": 350,
+            "sale": false,
+            "sale_price": 350,
+            "stock_keeping_unit": "NKCE2B57AZGQCNQZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/n/q/z/121-jocalia-necklace-original-imae2a2azmnkgyjy.jpeg",
+                "filename": "121-jocalia-necklace-original-imae2a2azmnkgyjy.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/n/q/z/121-jocalia-necklace-original-imae2a2akzxvjqzd.jpeg",
+                "filename": "121-jocalia-necklace-original-imae2a2akzxvjqzd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/n/q/z/121-jocalia-necklace-original-imae2a2aypw83ztq.jpeg",
+                "filename": "121-jocalia-necklace-original-imae2a2aypw83ztq.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Jocalia"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["121"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Style diva"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Girls"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Finish", "values": ["Matte"] },
+              { "key": "Certification", "values": ["NA"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "4a2e4830941ee40789ef6aff15a72cb59357248c"
+    },
+    {
+      "product": {
+        "id": "562657cb450a0790069c86b9a926d438d09172a0",
+        "name": "Gajraula Crafts Love Alloy Choker",
+        "description": "Dummy description for product Gajraula Crafts Love Alloy Choker",
+        "manufacturer_id": "17800cf9d7343fd560de3ae78a81180a123fd392",
+        "taric_code": "1249295f-352e-40f1-9521-281c724a8efb",
+        "variants": [
+          {
+            "id": "6f2343d1d378754b6c1628f73b1b9adb",
+            "name": "Necklaces",
+            "description": "Gajraula Crafts Love Alloy Choker - Buy Gajraula Crafts Love Alloy Choker only for Rs. 499 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1565,
+            "price": 899,
+            "sale": false,
+            "sale_price": 499,
+            "stock_keeping_unit": "NKCED8SK6UNMAZST",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/z/s/t/gcn0002-gajraula-crafts-choker-original-imae56hkfcq2zd4n.jpeg",
+                "filename": "gcn0002-gajraula-crafts-choker-original-imae56hkfcq2zd4n.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Gajraula Crafts"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["GCN0002"] },
+              { "key": "Type", "values": ["Choker"] },
+              { "key": "Model Name", "values": ["Love"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Everyday", "Religious"]
+              },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "562657cb450a0790069c86b9a926d438d09172a0"
+    },
+    {
+      "product": {
+        "id": "218449eefa132a4e24c8b270b356739810b5961c",
+        "name": "Modx Steering Cover For Ford Ecosport",
+        "description": "Dummy description for product Modx Steering Cover For Ford Ecosport",
+        "manufacturer_id": "a7ffb564c2a4c5401e7b75523e3f6e6d794f4d07",
+        "taric_code": "41b6d8a6-a07a-479d-8265-1991793f1296",
+        "variants": [
+          {
+            "id": "d5413280b6caa0577fc2ba9120314a8e",
+            "name": "Steering Covers",
+            "description": "Buy Modx Steering Cover For Ford Ecosport for Rs.477 online. Modx Steering Cover For Ford Ecosport at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+            "stock_level": 2279,
+            "price": 549,
+            "sale": true,
+            "sale_price": 477,
+            "stock_keeping_unit": "CSOE88UGPBWS3GH7",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/car-steering-cover/g/w/e/hand-stitched-395-modx-1100x1100-imae7hnzmvk7xgqa.jpeg",
+                "filename": "hand-stitched-395-modx-1100x1100-imae7hnzmvk7xgqa.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-steering-cover/g/w/e/hand-stitched-395-modx-original-imae7hnzmvk7xgqa.jpeg",
+                "filename": "hand-stitched-395-modx-original-imae7hnzmvk7xgqa.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/car-steering-cover/p/u/e/hand-stitched-64-modx-original-imae5ksxgzq5avay.jpeg",
+                "filename": "hand-stitched-64-modx-original-imae5ksxgzq5avay.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Modx"] },
+              { "key": "Installation Type", "values": ["Slip-in"] },
+              { "key": "Model Number", "values": ["Hand Stitched 206"] },
+              { "key": "Shade", "values": ["Black"] },
+              { "key": "Type", "values": ["Hand-Stitched"] },
+              { "key": "Material", "values": ["Leather"] },
+              { "key": "Universal Fit", "values": ["Yes"] },
+              { "key": "Grip Type", "values": ["Plain"] },
+              { "key": "Compatible With", "values": ["EcoSport"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Car Steering Cover", "1 Needle", "1 Thread"]
+              },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Breathable", "values": ["Yes"] },
+              { "key": "Disposable", "values": ["No"] },
+              { "key": "UV Ray Protection", "values": ["Yes"] },
+              {
+                "key": "Other Features",
+                "values": [
+                  "Provides A Better Steering Grip",
+                  "Provides Rich Look",
+                  "Hand Stitched For Customized Fitting"
+                ]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "c352fb419de79bc6fdc809de3b44b80ef9419e55" }
+      },
+      "active": true,
+      "id": "218449eefa132a4e24c8b270b356739810b5961c"
+    },
+    {
+      "product": {
+        "id": "a1ef6038bdae2168d8e1d34385663b258751bd94",
+        "name": "Jewel Touch Dark Tribal Alloy Necklace",
+        "description": "Dummy description for product Jewel Touch Dark Tribal Alloy Necklace",
+        "manufacturer_id": "07535ff89689c41af27ddb5135c5c0f7e1479179",
+        "taric_code": "829d4cfe-6330-4d77-8d01-4b9708021021",
+        "variants": [
+          {
+            "id": "8befa7021a8de5e4b6e2b3f5536fdbc8",
+            "name": "Necklaces",
+            "description": "Jewel Touch Dark Tribal Alloy Necklace - Buy Jewel Touch Dark Tribal Alloy Necklace only for Rs. 225 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9422,
+            "price": 650,
+            "sale": false,
+            "sale_price": 225,
+            "stock_keeping_unit": "NKCE84H9GHSAPR9C",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/r/9/c/jwh01-nk0012-jewel-touch-necklace-1100x1100-imae84fzh9wjdhhp.jpeg",
+                "filename": "jwh01-nk0012-jewel-touch-necklace-1100x1100-imae84fzh9wjdhhp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/r/9/c/jwh01-nk0012-jewel-touch-necklace-original-imae84fzh9wjdhhp.jpeg",
+                "filename": "jwh01-nk0012-jewel-touch-necklace-original-imae84fzh9wjdhhp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Tribal"] },
+              { "key": "Brand", "values": ["Jewel Touch"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["JWH01-NK0012"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Dark Tribal"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Religious"]
+              },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Black", "Gold"] },
+              { "key": "Chain/Necklace Length", "values": ["8 inch"] },
+              { "key": "Weight", "values": ["30 g"] },
+              { "key": "Chain/Necklace Thickness", "values": ["45 mm"] },
+              { "key": "Height", "values": ["8.5 mm"] },
+              { "key": "Width", "values": ["42 mm"] },
+              { "key": "Metal Color", "values": ["Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Necklace Type", "values": ["Choker"] },
+              { "key": "Finish", "values": ["Matte"] },
+              { "key": "Clasp Type", "values": ["Lobster"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "a1ef6038bdae2168d8e1d34385663b258751bd94"
+    },
+    {
+      "product": {
+        "id": "37ac10e23c377ef589b61350a72d4748e9652218",
+        "name": "Galz4ever Red & Black Long Resin Alloy Necklace",
+        "description": "Dummy description for product Galz4ever Red & Black Long Resin Alloy Necklace",
+        "manufacturer_id": "e0d4d87156b7d4ffb12d08ede4cc01c14051edc8",
+        "taric_code": "28359e51-927c-4e10-93b7-0d68aeaa906a",
+        "variants": [
+          {
+            "id": "18258fe5d0b1bb850cd477e784c11956",
+            "name": "Necklaces",
+            "description": "Galz4ever Red & Black Long Resin Alloy Necklace - Buy Galz4ever Red & Black Long Resin Alloy Necklace only for Rs. 229 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6908,
+            "price": 249,
+            "sale": false,
+            "sale_price": 229,
+            "stock_keeping_unit": "NKCEAGXHGFZZZKBK",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/k/b/k/199-galz4ever-necklace-original-imaeafgzbh3hcvbx.jpeg",
+                "filename": "199-galz4ever-necklace-original-imaeafgzbh3hcvbx.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/k/b/k/199-galz4ever-necklace-original-imaeafgzzkfgmpwe.jpeg",
+                "filename": "199-galz4ever-necklace-original-imaeafgzzkfgmpwe.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/k/b/k/199-galz4ever-necklace-original-imaeafgzhtcmhg5a.jpeg",
+                "filename": "199-galz4ever-necklace-original-imaeafgzhtcmhg5a.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Galz4ever"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["199"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Red and Black Long Resin"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "37ac10e23c377ef589b61350a72d4748e9652218"
+    },
+    {
+      "product": {
+        "id": "237d7e07de5d71b238d1028929de50e83f1d1fba",
+        "name": "Jocular Metal Necklace",
+        "description": "Dummy description for product Jocular Metal Necklace",
+        "manufacturer_id": "16d18b3ff0f80ec6be61cd8c4b45c1b9a560a7f2",
+        "taric_code": "7a230924-2a26-42b1-be4a-d097cc3c3e76",
+        "variants": [
+          {
+            "id": "cc33fe2a97b2ce290b883d03d3ea6341",
+            "name": "Necklaces",
+            "description": "Jocular Metal Necklace - Buy Jocular Metal Necklace only for Rs. 349 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7319,
+            "price": 799,
+            "sale": false,
+            "sale_price": 349,
+            "stock_keeping_unit": "NKCE2MAAG4QZBFMS",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/f/m/s/j1337-jocular-necklace-1100x1100-imae2gyzzwdmz4av.jpeg",
+                "filename": "j1337-jocular-necklace-1100x1100-imae2gyzzwdmz4av.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/f/m/s/j1337-jocular-necklace-original-imae2gyzzwdmz4av.jpeg",
+                "filename": "j1337-jocular-necklace-original-imae2gyzzwdmz4av.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/f/m/s/j1337-jocular-necklace-original-imae2gyz5krvage6.jpeg",
+                "filename": "j1337-jocular-necklace-original-imae2gyz5krvage6.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jocular"] },
+              { "key": "Collection", "values": ["Fusion"] },
+              { "key": "Model Number", "values": ["J1337"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          },
+          {
+            "id": "7b778ef1826c5dfc793f0ae58f8bd721",
+            "name": "Necklaces",
+            "description": "Jocular Metal Necklace - Buy Jocular Metal Necklace only for Rs. 381 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7856,
+            "price": 999,
+            "sale": true,
+            "sale_price": 381,
+            "stock_keeping_unit": "NKCE9YCYAJTGZFZZ",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/f/z/z/j1344-jocular-necklace-original-imae2gyzxgncp5tr.jpeg",
+                "filename": "j1344-jocular-necklace-original-imae2gyzxgncp5tr.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/f/z/z/j1344-jocular-necklace-original-imae2gyzxgncp5tr.jpeg",
+                "filename": "j1344-jocular-necklace-original-imae2gyzxgncp5tr.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/f/z/z/j1344-jocular-necklace-original-imae2gyzw2fnf93m.jpeg",
+                "filename": "j1344-jocular-necklace-original-imae2gyzw2fnf93m.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/f/z/z/j1344-jocular-necklace-original-imae2gyzhzymc9nm.jpeg",
+                "filename": "j1344-jocular-necklace-original-imae2gyzhzymc9nm.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/f/z/z/j1344-jocular-necklace-original-imae2gyzyft3k7qg.jpeg",
+                "filename": "j1344-jocular-necklace-original-imae2gyzyft3k7qg.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jocular"] },
+              { "key": "Collection", "values": ["Fusion"] },
+              { "key": "Model Number", "values": ["J1344"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "727e5a013d57d5617893373af539638b",
+            "name": "Necklaces",
+            "description": "Jocular Metal Necklace - Buy Jocular Metal Necklace only for Rs. 249 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 73,
+            "price": 799,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "NKCE2MABAGBNHHYA",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/y/a/j1345-jocular-necklace-original-imae2gyztuhsfnrp.jpeg",
+                "filename": "j1345-jocular-necklace-original-imae2gyztuhsfnrp.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/h/y/a/j1345-jocular-necklace-original-imae2gyz6dh75mzd.jpeg",
+                "filename": "j1345-jocular-necklace-original-imae2gyz6dh75mzd.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/h/y/a/j1345-jocular-necklace-original-imae2gyzhkaty5gf.jpeg",
+                "filename": "j1345-jocular-necklace-original-imae2gyzhkaty5gf.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/h/y/a/j1345-jocular-necklace-original-imae2gyzhvfds8v7.jpeg",
+                "filename": "j1345-jocular-necklace-original-imae2gyzhvfds8v7.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jocular"] },
+              { "key": "Collection", "values": ["Fusion"] },
+              { "key": "Model Number", "values": ["J1345"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Base Material", "values": ["Metal"] },
+              { "key": "Pack of", "values": ["1"] },
+              { "key": "Certification", "values": ["NA"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "237d7e07de5d71b238d1028929de50e83f1d1fba"
+    },
+    {
+      "product": {
+        "id": "a9cca9a5868ad23ba999652a9f1e715a527dda91",
+        "name": "iSweven Stone Necklace",
+        "description": "Dummy description for product iSweven Stone Necklace",
+        "manufacturer_id": "236cd32185f3af01834750dade627938aaf73388",
+        "taric_code": "23b199b1-e1aa-4097-ae71-1d8252a4246e",
+        "variants": [
+          {
+            "id": "7af71085d817b03c2b74ba0c46fd9cb0",
+            "name": "Necklaces",
+            "description": "iSweven Stone Necklace - Buy iSweven Stone Necklace only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 3473,
+            "price": 999,
+            "sale": false,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCE9ZYAD6P2SWT8",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/w/t/8/neck1002-isweven-necklace-original-imae9xnqd6d3rhay.jpeg",
+                "filename": "neck1002-isweven-necklace-original-imae9xnqd6d3rhay.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/w/t/8/neck1002-isweven-necklace-original-imae9xnqd6d3rhay.jpeg",
+                "filename": "neck1002-isweven-necklace-original-imae9xnqd6d3rhay.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/w/t/8/neck1002-isweven-necklace-original-imae9xnqcp4j286w.jpeg",
+                "filename": "neck1002-isweven-necklace-original-imae9xnqcp4j286w.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["iSweven"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["neck1002"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Love", "Wedding and Engagement", "Workwear"]
+              },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Stone"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "319cd38d75fa591c19b352fccb74c3a0",
+            "name": "Necklaces",
+            "description": "iSweven Stone Necklace - Buy iSweven Stone Necklace only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9919,
+            "price": 999,
+            "sale": true,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCE9ZYADVZJF4RM",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/4/r/m/neck1003-isweven-necklace-original-imae9xnrn8ydmdqq.jpeg",
+                "filename": "neck1003-isweven-necklace-original-imae9xnrn8ydmdqq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/4/r/m/neck1003-isweven-necklace-original-imae9xnrn8ydmdqq.jpeg",
+                "filename": "neck1003-isweven-necklace-original-imae9xnrn8ydmdqq.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/4/r/m/neck1003-isweven-necklace-original-imae9xnrbh9rxrss.jpeg",
+                "filename": "neck1003-isweven-necklace-original-imae9xnrbh9rxrss.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/4/r/m/neck1003-isweven-necklace-original-imae9xnsfrbzxfzp.jpeg",
+                "filename": "neck1003-isweven-necklace-original-imae9xnsfrbzxfzp.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["iSweven"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["neck1003"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              {
+                "key": "Occasion",
+                "values": ["Love", "Wedding and Engagement", "Workwear"]
+              },
+              { "key": "Color", "values": ["Green"] },
+              { "key": "Base Material", "values": ["Stone"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "a9cca9a5868ad23ba999652a9f1e715a527dda91"
+    },
+    {
+      "product": {
+        "id": "3ba58777482c118569dc947c4e84b8758f1cd3a9",
+        "name": "ETTI ESJ1_BLUE Glass Necklace",
+        "description": "Dummy description for product ETTI ESJ1_BLUE Glass Necklace",
+        "manufacturer_id": "a8c99db90c410f76b15a9a12104f1e14ff4ad12f",
+        "taric_code": "273be840-f984-4416-9eb1-4e8779afba49",
+        "variants": [
+          {
+            "id": "4f4c22d91c416505880fddd5396e40c0",
+            "name": "Necklaces",
+            "description": "ETTI ESJ1_BLUE Glass Necklace - Buy ETTI ESJ1_BLUE Glass Necklace only for Rs. 399 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 662,
+            "price": 1000,
+            "sale": true,
+            "sale_price": 399,
+            "stock_keeping_unit": "NKCE7H4NXU8HBUS6",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/u/s/6/esj1-blue-etti-necklace-original-imae7kyg92jczw3z.jpeg",
+                "filename": "esj1-blue-etti-necklace-original-imae7kyg92jczw3z.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/u/s/6/esj1-blue-etti-necklace-original-imae7kyg92jczw3z.jpeg",
+                "filename": "esj1-blue-etti-necklace-original-imae7kyg92jczw3z.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["ETTI"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["ESJ1_BLUE"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["ESJ1_BLUE"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Color", "values": ["Blue"] },
+              { "key": "Base Material", "values": ["Glass"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "3ba58777482c118569dc947c4e84b8758f1cd3a9"
+    },
+    {
+      "product": {
+        "id": "4da53df0c20fdaad0e31f42e4ee33a0370c1cd13",
+        "name": "TRENDnet TEW-752DRU",
+        "description": "Dummy description for product TRENDnet TEW-752DRU",
+        "manufacturer_id": "708a2afbf1ff1653121d99b363d6812b0fa13ad5",
+        "taric_code": "973e15da-fba9-4b38-a8be-2cbd8a37d38e",
+        "variants": [
+          {
+            "id": "c75d6d827876b0d0127acb59e5a251ee",
+            "name": "TRENDnet Routers",
+            "description": "Buy TRENDnet TEW-752DRU only for Rs. 5199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5782,
+            "price": 8999,
+            "sale": false,
+            "sale_price": 5199,
+            "stock_keeping_unit": "RTRE3KKX5RWCKMHH",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/router/m/h/h/trendnet-tew-752dru-original-imae3gcyqzvgr9hr.jpeg",
+                "filename": "trendnet-tew-752dru-original-imae3gcyqzvgr9hr.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "In The Box",
+                "values": [
+                  "TEW-752DRU 150Mbps Wireless N Router",
+                  "Power Adapter",
+                  "Quick Start Guide"
+                ]
+              },
+              { "key": "Brand", "values": ["TRENDnet"] },
+              { "key": "Model", "values": ["TEW-752DRU"] },
+              { "key": "Type", "values": ["Wireless Without modem"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Wireless Speed", "values": ["600 Mbps"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Product Dead on Arrival (DOA)"]
+              },
+              {
+                "key": "Service Type",
+                "values": [
+                  "No return accepted without an RMA number. Trendnet Toll Free 18001020061"
+                ]
+              },
+              {
+                "key": "Warranty Summary",
+                "values": ["3 years Manufacturers Warranty."]
+              },
+              {
+                "key": "Not Covered in Warranty",
+                "values": [
+                  "Any physical Damage and Any 3rd Party Software Upgrade"
+                ]
+              },
+              { "key": "Number of USB Ports", "values": ["1"] },
+              { "key": "Antennae", "values": ["Internal"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "4da53df0c20fdaad0e31f42e4ee33a0370c1cd13"
+    },
+    {
+      "product": {
+        "id": "4f2eafc9f42d46c122cd442aecd1c9107e62c5e7",
+        "name": "Zoook 385G21W",
+        "description": "Dummy description for product Zoook 385G21W",
+        "manufacturer_id": "95662f05550032bfc8ac9eedcb36dc5ff4051fc0",
+        "taric_code": "034f8bdb-9c02-47f8-8b7b-0f17496d6f4f",
+        "variants": [
+          {
+            "id": "066980be3076fc239d34c15f1fd83b7d",
+            "name": "Zoook Routers",
+            "description": "Buy Zoook 385G21W only for Rs. 2725 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8482,
+            "price": 4500,
+            "sale": true,
+            "sale_price": 2765,
+            "stock_keeping_unit": "RTREF2UMA333RFTZ",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/router/f/t/z/zoook-385g21w-original-imaef2zzsbqjyvyh.jpeg",
+                "filename": "zoook-385g21w-original-imaef2zzsbqjyvyh.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/f/t/z/zoook-385g21w-original-imaef2zzbrgkdmfu.jpeg",
+                "filename": "zoook-385g21w-original-imaef2zzbrgkdmfu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/f/t/z/zoook-385g21w-original-imaef2zz6vcvgu5p.jpeg",
+                "filename": "zoook-385g21w-original-imaef2zz6vcvgu5p.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/router/f/t/z/zoook-385g21w-original-imaef2zzvzh3uvzf.jpeg",
+                "filename": "zoook-385g21w-original-imaef2zzvzh3uvzf.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Wireless Speed", "values": ["21 mbps"] },
+              { "key": "Brand", "values": ["Zoook"] },
+              { "key": "In The Box", "values": ["Router"] },
+              { "key": "Model", "values": ["385G21W"] },
+              { "key": "Type", "values": ["3G Routers"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Warranty Summary", "values": ["1 Year"] },
+              { "key": "Number of USB Ports", "values": ["1"] },
+              { "key": "Antennae", "values": ["Internal"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "4f2eafc9f42d46c122cd442aecd1c9107e62c5e7"
+    },
+    {
+      "product": {
+        "id": "43729bf1a6161a7a837929160366d7eaafc3e812",
+        "name": "Jewel Touch Black Falling Beads Alloy Necklace",
+        "description": "Dummy description for product Jewel Touch Black Falling Beads Alloy Necklace",
+        "manufacturer_id": "07535ff89689c41af27ddb5135c5c0f7e1479179",
+        "taric_code": "eb5bdfe9-fe31-408a-a1d0-3c88ecba2349",
+        "variants": [
+          {
+            "id": "60ae90ad8c9768e885fed1b1c1b0c3d8",
+            "name": "Necklaces",
+            "description": "Jewel Touch Black Falling Beads Alloy Necklace - Buy Jewel Touch Black Falling Beads Alloy Necklace only for Rs. 410 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 8176,
+            "price": 1180,
+            "sale": false,
+            "sale_price": 410,
+            "stock_keeping_unit": "NKCE6FYZQCDZZMXA",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/m/x/a/jwlc12-fk005-jewel-touch-necklace-1100x1100-imae6e7ngxdkhznt.jpeg",
+                "filename": "jwlc12-fk005-jewel-touch-necklace-1100x1100-imae6e7ngxdkhznt.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/m/x/a/jwlc12-fk005-jewel-touch-necklace-original-imae6e7ngxdkhznt.jpeg",
+                "filename": "jwlc12-fk005-jewel-touch-necklace-original-imae6e7ngxdkhznt.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Jewel Touch"] },
+              { "key": "Collection", "values": ["Cocktail"] },
+              { "key": "Model Number", "values": ["JWLC12-FK005"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Black Falling Beads"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Occasion", "values": ["Workwear", "Everyday"] },
+              { "key": "Color", "values": ["Black"] },
+              { "key": "Chain/Necklace Length", "values": ["140 inch"] },
+              { "key": "Weight", "values": ["54 g"] },
+              { "key": "Metal Color", "values": ["Black"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Necklace Type", "values": ["Sweater Necklace"] },
+              { "key": "Finish", "values": ["Matte"] },
+              { "key": "Sales Package", "values": ["1 Necklace"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "43729bf1a6161a7a837929160366d7eaafc3e812"
+    },
+    {
+      "product": {
+        "id": "2683409fccfb824fa22f0289801757f7083ff5b5",
+        "name": "Netgear WN2500RP Universal Dual Band Wi-Fi Range Extender",
+        "description": "Dummy description for product Netgear WN2500RP Universal Dual Band Wi-Fi Range Extender",
+        "manufacturer_id": "845b0ae8cb30ad01d06696385a8a8d53703f9bc0",
+        "taric_code": "a5b46fbf-6b2b-4e06-8a9d-ffac9c8209da",
+        "variants": [
+          {
+            "id": "c80b6d380e9eca04177301c3feabafeb",
+            "name": "Netgear Routers",
+            "description": "Buy Netgear WN2500RP Universal Dual Band Wi-Fi Range Extender only for Rs. 8424 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1474,
+            "price": 10800,
+            "sale": false,
+            "sale_price": 7550,
+            "stock_keeping_unit": "RTRDZCPAY9YHMG4X",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/router/g/4/x/netgear-wn2500rp-original-imadzcpfxbk4pnyc.jpeg",
+                "filename": "netgear-wn2500rp-original-imadzcpfxbk4pnyc.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/router/g/4/x/netgear-wn2500rp-original-imadzcpfxbk4pnyc.jpeg",
+                "filename": "netgear-wn2500rp-original-imadzcpfxbk4pnyc.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "Encryption",
+                "values": ["Wi-Fi Protected Access (WPA/WPA2-PSK)", "WEP"]
+              },
+              { "key": "Wireless Speed", "values": ["600 Mbps"] },
+              { "key": "LAN/WAN", "values": ["10/100"] },
+              { "key": "Brand", "values": ["Netgear"] },
+              {
+                "key": "In The Box",
+                "values": ["Router", "Power Adapter", "Installation Guide"]
+              },
+              { "key": "Model", "values": ["WN2500RP"] },
+              {
+                "key": "Controls",
+                "values": [
+                  "Push N Connect Button",
+                  "Power On/Off Button",
+                  "Reset Button"
+                ]
+              },
+              {
+                "key": "Installation Features",
+                "values": [
+                  "CD-less Installation",
+                  "Push N Connect using Wi-Fi Protected Setup (WPS)"
+                ]
+              },
+              {
+                "key": "Supported Software",
+                "values": [
+                  "Microsoft Internet Explorer 5.0",
+                  "Firefox 2.0",
+                  "Safari 1.4",
+                  "Google Chrome 11.0"
+                ]
+              },
+              {
+                "key": "LED Indicator",
+                "values": [
+                  "2.4 GHz Connection Strength",
+                  "Power",
+                  "5 GHz Connection Strength",
+                  "Wireless Device to Extender Connection",
+                  "Push N Connect (WPS)"
+                ]
+              },
+              { "key": "Type", "values": ["Range Extenders/Repeaters"] },
+              { "key": "Part Number", "values": ["WN2500RP"] },
+              { "key": "Domestic Term", "values": ["2 Years"] },
+              {
+                "key": "Warranty Summary",
+                "values": ["2 Years Domestic Carry In Warranty"]
+              },
+              { "key": "Service Type", "values": ["Carry In"] },
+              { "key": "Weight", "values": ["370 g"] },
+              { "key": "Height", "values": ["31 mm"] },
+              { "key": "Width", "values": ["223 mm"] },
+              { "key": "Depth", "values": ["153 mm"] },
+              { "key": "Operating System", "values": ["Mac OS", "Windows 7"] },
+              { "key": "Frequency", "values": ["5 GHz"] },
+              { "key": "Number of Antennae", "values": ["4"] },
+              { "key": "Number of LAN ports", "values": ["4"] },
+              { "key": "Number of USB Ports", "values": ["0"] },
+              { "key": "Antennae", "values": ["Internal"] },
+              { "key": "Standard IEEE", "values": ["IEEE 802.11a/b/g/n"] },
+              {
+                "key": "Certification",
+                "values": ["CEC (California Efficiency)", "RoHS", "WEEE"]
+              }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": true,
+      "id": "2683409fccfb824fa22f0289801757f7083ff5b5"
+    },
+    {
+      "product": {
+        "id": "cf60d183dbfdb084fdd34338e181be43fd4bb4a1",
+        "name": "Gene Shoppiee Enamel Plated Alloy Necklace",
+        "description": "Dummy description for product Gene Shoppiee Enamel Plated Alloy Necklace",
+        "manufacturer_id": "7a2311b2cfad191379a1e52c5ddc3d9a70feccc1",
+        "taric_code": "3ff567df-0bd5-40f0-ac10-d3105313d1d0",
+        "variants": [
+          {
+            "id": "48616a204f4fc2a298d1201faab4e8cb",
+            "name": "Necklaces",
+            "description": "Gene Shoppiee Enamel Plated Alloy Necklace - Buy Gene Shoppiee Enamel Plated Alloy Necklace only for Rs. 149 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 9563,
+            "price": 899,
+            "sale": false,
+            "sale_price": 149,
+            "stock_keeping_unit": "NKCECPQAERMCV6YM",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/6/y/m/dkk145002-gene-shoppiee-necklace-1100x1100-imaecpmpkzr4nfha.jpeg",
+                "filename": "dkk145002-gene-shoppiee-necklace-1100x1100-imaecpmpkzr4nfha.jpeg"
+              },
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/6/y/m/dkk145002-gene-shoppiee-necklace-original-imaecpmpkzr4nfha.jpeg",
+                "filename": "dkk145002-gene-shoppiee-necklace-original-imaecpmpkzr4nfha.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["Plastic"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Gene Shoppiee"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["DKK145002"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["Enamel"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "1 Earring set"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "a87e05fcdf852c998eb5090bab8e7a78",
+            "name": "Necklaces",
+            "description": "Gene Shoppiee Enamel Plated Alloy Necklace - Buy Gene Shoppiee Enamel Plated Alloy Necklace only for Rs. 199 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1415,
+            "price": 699,
+            "sale": false,
+            "sale_price": 199,
+            "stock_keeping_unit": "NKCECPQAGXHB56HY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/6/h/y/dkk145003-gene-shoppiee-necklace-1100x1100-imaecpmpwgggtgan.jpeg",
+                "filename": "dkk145003-gene-shoppiee-necklace-1100x1100-imaecpmpwgggtgan.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/6/h/y/dkk145003-gene-shoppiee-necklace-original-imaecpmpwgggtgan.jpeg",
+                "filename": "dkk145003-gene-shoppiee-necklace-original-imaecpmpwgggtgan.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["Plastic"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Gene Shoppiee"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["DKK145003"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["Enamel"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "1 Earring set"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          },
+          {
+            "id": "0c603b15aed972701b1b3601e71be10e",
+            "name": "Necklaces",
+            "description": "Gene Shoppiee Enamel Plated Alloy Necklace - Buy Gene Shoppiee Enamel Plated Alloy Necklace only for Rs. 129 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 6492,
+            "price": 899,
+            "sale": false,
+            "sale_price": 129,
+            "stock_keeping_unit": "NKCECPQAWZVEF8YY",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/8/y/y/dkk145004-gene-shoppiee-necklace-1100x1100-imaecpmphhgczkhk.jpeg",
+                "filename": "dkk145004-gene-shoppiee-necklace-1100x1100-imaecpmphhgczkhk.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/8/y/y/dkk145004-gene-shoppiee-necklace-original-imaecpmphhgczkhk.jpeg",
+                "filename": "dkk145004-gene-shoppiee-necklace-original-imaecpmphhgczkhk.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Pearl Type", "values": ["Plastic"] },
+              { "key": "Collection", "values": ["Contemporary"] },
+              { "key": "Brand", "values": ["Gene Shoppiee"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["DKK145004"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Occasion", "values": ["Everyday"] },
+              { "key": "Ideal For", "values": ["Girls", "Women"] },
+              { "key": "Color", "values": ["Multicolor"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Plating", "values": ["Enamel"] },
+              {
+                "key": "Sales Package",
+                "values": ["1 Necklace", "1 Earring set"]
+              },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "cf60d183dbfdb084fdd34338e181be43fd4bb4a1"
+    },
+    {
+      "product": {
+        "id": "be68432db828bf1070143201641864130831790e",
+        "name": "Fash Blush Forever New Red & Gold Tribal Thread Alloy Necklace",
+        "description": "Dummy description for product Fash Blush Forever New Red & Gold Tribal Thread Alloy Necklace",
+        "manufacturer_id": "03b9c008d2354d0a481f77d558b2170890625359",
+        "taric_code": "89e363b5-cc2c-4feb-a2cd-9979fea67464",
+        "variants": [
+          {
+            "id": "3d48598eea8ecd2d58fb88f5fa1c69d3",
+            "name": "Necklaces",
+            "description": "Fash Blush Forever New Red & Gold Tribal Thread Alloy Necklace - Buy Fash Blush Forever New Red & Gold Tribal Thread Alloy Necklace only for Rs. 198 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 7750,
+            "price": 2499,
+            "sale": false,
+            "sale_price": 198,
+            "stock_keeping_unit": "NKCE54CNGQAPAZ87",
+            "image": [
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/z/8/7/fb-35032-fash-blush-necklace-original-imae5462dpzxcbhh.jpeg",
+                "filename": "fb-35032-fash-blush-necklace-original-imae5462dpzxcbhh.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Brand", "values": ["Fash Blush"] },
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Model Number", "values": ["FB 35032"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Type", "values": ["Necklace"] },
+              {
+                "key": "Model Name",
+                "values": ["Forever New Red and Gold Tribal Thread"]
+              },
+              { "key": "Ideal For", "values": ["Women", "Girls"] },
+              {
+                "key": "Occasion",
+                "values": ["Wedding and Engagement", "Religious", "Love"]
+              },
+              { "key": "Color", "values": ["Red", "Gold"] },
+              { "key": "Base Material", "values": ["Alloy"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": true,
+      "id": "be68432db828bf1070143201641864130831790e"
+    },
+    {
+      "product": {
+        "id": "60996545aa597ed66cb30cd3c81ccc704a96417e",
+        "name": "Galz4ever Red Brown Seed Bead Alloy Necklace",
+        "description": "Dummy description for product Galz4ever Red Brown Seed Bead Alloy Necklace",
+        "manufacturer_id": "e0d4d87156b7d4ffb12d08ede4cc01c14051edc8",
+        "taric_code": "a0eb7a3b-a4c2-407b-892b-7f022b34ed23",
+        "variants": [
+          {
+            "id": "05ccfd85ebfdd579fadecc21fd7c5098",
+            "name": "Necklaces",
+            "description": "Galz4ever Red Brown Seed Bead Alloy Necklace - Buy Galz4ever Red Brown Seed Bead Alloy Necklace only for Rs. 249 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 5237,
+            "price": 279,
+            "sale": false,
+            "sale_price": 249,
+            "stock_keeping_unit": "NKCEAGXHNTFZW8TS",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/necklace-chain/8/t/s/229-galz4ever-necklace-original-imaeagbkyhe6j6hu.jpeg",
+                "filename": "229-galz4ever-necklace-original-imaeagbkyhe6j6hu.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/8/t/s/229-galz4ever-necklace-original-imaeagbhyjaq85hs.jpeg",
+                "filename": "229-galz4ever-necklace-original-imaeagbhyjaq85hs.jpeg"
+              },
+              {
+                "url": "http://img5a.flixcart.com/image/necklace-chain/8/t/s/229-galz4ever-necklace-original-imaeagbhpgabqer5.jpeg",
+                "filename": "229-galz4ever-necklace-original-imaeagbhpgabqer5.jpeg"
+              }
+            ],
+            "attributes": [
+              { "key": "Collection", "values": ["Designer"] },
+              { "key": "Brand", "values": ["Galz4ever"] },
+              {
+                "key": "Precious/Artificial Jewellery",
+                "values": ["Fashion Jewellery"]
+              },
+              { "key": "Model Number", "values": ["229"] },
+              { "key": "Type", "values": ["Necklace"] },
+              { "key": "Model Name", "values": ["Red Brown Seed Bead"] },
+              { "key": "Occasion", "values": ["Wedding and Engagement"] },
+              { "key": "Ideal For", "values": ["Women"] },
+              { "key": "Color", "values": ["Red"] },
+              { "key": "Base Material", "values": ["Alloy"] },
+              { "key": "Pack of", "values": ["1"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "654c898c3b149c9111e1e52cbebf7bfe3bc7066c" }
+      },
+      "active": false,
+      "id": "60996545aa597ed66cb30cd3c81ccc704a96417e"
+    },
+    {
+      "product": {
+        "id": "eaf2c317b933f8d9fce5bb6423830edff0f2193c",
+        "name": "Tenda W308R",
+        "description": "Dummy description for product Tenda W308R",
+        "manufacturer_id": "ff23b229a995f38e200135ee715de50cbc51393e",
+        "taric_code": "7fc279cd-e514-47db-a79b-94b62e19fa57",
+        "variants": [
+          {
+            "id": "4516819fd645ae98c3f09df552a1994d",
+            "name": "Tenda Routers",
+            "description": "Buy Tenda W308R only for Rs. 3000 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+            "stock_level": 1927,
+            "price": 2999,
+            "sale": false,
+            "sale_price": 1749,
+            "stock_keeping_unit": "RTRDNGVMKKUNBA5B",
+            "image": [
+              {
+                "url": "http://img6a.flixcart.com/image/router/a/5/b/tenda-w308r-original-imadpfgy3jamey8p.jpeg",
+                "filename": "tenda-w308r-original-imadpfgy3jamey8p.jpeg"
+              }
+            ],
+            "attributes": [
+              {
+                "key": "In The Box",
+                "values": ["Router", "Adaptor", "LAN Cable"]
+              },
+              { "key": "Brand", "values": ["Tenda"] },
+              { "key": "Model", "values": ["W308R"] },
+              { "key": "Type", "values": ["Wireless Without modem"] },
+              { "key": "Color", "values": ["White"] },
+              { "key": "Wireless Speed", "values": ["300 Mbps"] },
+              {
+                "key": "Covered in Warranty",
+                "values": ["Manufacturing Defects"]
+              },
+              {
+                "key": "Service Type",
+                "values": ["Service at nearest service center / dealer"]
+              },
+              { "key": "Warranty Summary", "values": ["3 Years"] },
+              {
+                "key": "Not Covered in Warranty",
+                "values": ["Physically damaged / Burnt not covered"]
+              },
+              { "key": "Number of USB Ports", "values": ["0"] },
+              { "key": "Antennae", "values": ["External"] }
+            ]
+          }
+        ],
+        "prototype": { "id": "3d0091268898d87812b0f0e5f0d2f28b073dbac1" }
+      },
+      "active": false,
+      "id": "eaf2c317b933f8d9fce5bb6423830edff0f2193c"
+    }
+  ],
+  "mutation": "mutation { createProducts(input: { listOfProducts: ${resource_list} }) {details {id}, error{code, message}} }"
+}
