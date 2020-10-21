@@ -18,7 +18,8 @@
     "cookie": "^0.3.1",
     "node-fetch": "^2.6.0",
     "prompt": "^1.0.0",
-    "set-cookie-parser": "^2.4.3"
+    "set-cookie-parser": "^2.4.3",
+    "typescript": "^3.4.1"
   },
   "devDependencies": {
     "@restorecommerce/eslint-config-restorecommerce": "^0.1.5",
