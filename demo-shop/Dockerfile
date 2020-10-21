@@ -1,11 +1,9 @@
-FROM node:12-alpine
-
-RUN apk add --no-cache git
+FROM node:12.18.3-alpine
 
 WORKDIR /data
 
 COPY package.json package-lock.json ./
-RUN npm install
+RUN npm ci --only=production
 
 COPY . .
 

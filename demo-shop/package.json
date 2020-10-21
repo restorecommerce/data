@@ -13,21 +13,27 @@
     "data"
   ],
   "dependencies": {
-    "@restorecommerce/gql-bot": "github:restorecommerce/gql-bot",
+    "@restorecommerce/gql-bot": "^0.1.4",
     "commander": "^2.15.1",
     "cookie": "^0.3.1",
     "node-fetch": "^2.6.0",
     "prompt": "^1.0.0",
-    "set-cookie-parser": "^2.4.3",
-    "tslint": "^5.15.0",
-    "typescript": "^3.4.1"
+    "set-cookie-parser": "^2.4.3"
   },
   "devDependencies": {
-    "@types/node": "^11.13.22",
-    "eslint-config-restorecommerce": "restorecommerce/eslint-config-restorecommerce"
+    "@restorecommerce/eslint-config-restorecommerce": "^0.1.5",
+    "@types/node": "^12.12.69",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-json": "^1.4.0"
   },
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint *.js",
+    "test": "npm run lint"
+  },
   "engines": {
-    "node": ">= 9.2.0"
+    "node": ">= 12.18.3"
   }
 }

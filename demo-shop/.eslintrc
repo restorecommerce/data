@@ -1,3 +1,7 @@
 {
-  "extends": "eslint-config-restorecommerce"
+  "extends": "@restorecommerce/eslint-config-restorecommerce",
+  "rules": {
+    "no-console": "off",
+    "no-param-reassign": "off"
+  }
 }

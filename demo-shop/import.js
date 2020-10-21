@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 const { GraphQLProcessor, JobProcessor } = require('@restorecommerce/gql-bot');
 const commander = require('commander');
@@ -17,18 +16,20 @@ importData().then(() => {
 async function importData() {
   let job;
   let jobProcessor;
-  let apiKey, username, password;
+  let apiKey;
+  let username;
+  let password;
   let args;
 
-
-  if (process.argv[0].endsWith("node") || process.argv[0].endsWith("node.exe")) {
-    args = process.argv.slice(1); // called as "node import.js" => first argument is the node binary, discard
+  if (process.argv[0].endsWith('node') || process.argv[0].endsWith('node.exe')) {
+    // called as "node import.js" => first argument is the node binary, discard
+    args = process.argv.slice(1);
   } else {
     args = process.argv; // called as "import.js"
   }
 
   if (args.length < 2) {
-    console.error("Error: Must supply API key or user + password"); // not sure why commander doesn't handle this
+    console.error('Error: Must supply API key or user + password'); // not sure why commander doesn't handle this
     process.exit(1);
   }
 
@@ -44,8 +45,7 @@ async function importData() {
         apiKey = credential;
       }
     })
-    .parse(args); 
-
+    .parse(args);
 
   const resourcesDir = commander.demo ? DEMO_DIR : TEST_DIR;
 
@@ -53,10 +53,9 @@ async function importData() {
   const configs = JSON.parse(fs.readFileSync(configName));
 
   // Allow endpoint override via environment
-  configs.entry = process.env.ENDPOINT || config.entry;
+  configs.entry = process.env.ENDPOINT || configs.entry;
 
   let sessionHeaders;
-  let signInResult;
 
   if (username && password) {
     // name / passwd based auth
@@ -67,7 +66,7 @@ async function importData() {
     configs.apiKey = apiKey;
   }
 
-  signInResult = await signIn(configs, apiKey != null);
+  const signInResult = await signIn(configs, apiKey != null);
   if ((apiKey && !signInResult.data.data.signInApiKey.error)
     || (password && !signInResult.data.data.signInUser.errors)) {
     // extracting headers to then pass session cookie
@@ -76,24 +75,25 @@ async function importData() {
 
     const cookies = setCookieParser.splitCookiesString(sessionCookies);
 
-    let jti, jwt;
-    for (let cookieObj of cookies) {
-      const parsedCookie = setCookieParser.parse(cookieObj)[0];
+    let jti;
+    let jwt;
+    for (let i = 0; i < cookies.length; i += 1) {
+      const parsedCookie = setCookieParser.parse(cookies[i])[0];
 
-      if (parsedCookie.name == 'restorecommerce_jti') {
+      if (parsedCookie.name === 'restorecommerce_jti') {
         jti = parsedCookie.value;
-      } else if (parsedCookie.name == 'restorecommerce_jwt') {
+      } else if (parsedCookie.name === 'restorecommerce_jwt') {
         jwt = parsedCookie;
       }
     }
 
     sessionHeaders = {
-      'cookie': cookie.serialize(jwt.name, jwt.value, jwt),
+      cookie: cookie.serialize(jwt.name, jwt.value, jwt),
       'x-csrf-token': jti,
       'x-refresh-token': sessionHeaders.get('x-jwt')
     };
 
-    configs.headers = Object.assign({}, configs.headers, sessionHeaders);
+    configs.headers = { ...configs.headers, ...sessionHeaders };
   }
 
   const jobs = JSON.parse(fs.readFileSync('jobs.json'));
@@ -161,9 +161,7 @@ async function signIn(config, apiKeyExists) {
 
   const response = await fetch(config.entry, {
     method: 'post',
-    headers: Object.assign({}, {
-      'Content-Type': 'application/json',
-    }, config.headers),
+    headers: { 'Content-Type': 'application/json', ...config.headers },
     body
   });
   return {
@@ -177,7 +175,7 @@ async function promptJobs(jobs) {
 
   console.log('Please choose an option number');
   validJobNames.forEach((jobName, i) => {
-    console.log(`${i+1}: ${jobName}`);
+    console.log(`${i + 1}: ${jobName}`);
   });
 
   return new Promise((resolve, reject) => {
@@ -187,8 +185,8 @@ async function promptJobs(jobs) {
         reject(err);
       }
 
-      console.log('Received option', result.option, ':', validJobNames[result.option-1]);
-      resolve(validJobNames[result.option-1]);
-    })
+      console.log('Received option', result.option, ':', validJobNames[result.option - 1]);
+      resolve(validJobNames[result.option - 1]);
+    });
   });
 }

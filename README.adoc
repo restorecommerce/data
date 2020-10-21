@@ -1,0 +1,14 @@
+= Data Sets for Restorecommerce
+
+https://travis-ci.org/restorecommerce/data?branch=master[image:http://img.shields.io/travis/restorecommerce/data/master.svg?style=flat-square[Build Status]]
+
+The data sets serve several purposes:
+
+- Share and re-use of master data such as lists of counties
+- For automated testing
+- For demonstration purposes
+
+== Available Data Sets
+
+- link:demo-shop[Demo Shop]
+

@@ -1,0 +1,16 @@
+language: node_js
+
+sudo: required
+
+services:
+  - docker
+
+node_js:
+  - "12.18.3"
+
+jobs:
+  include:
+    - stage: "Test Demo Shop"
+      script: cd demo-shop && npm ci && npm run test
+    - stage: "Build Demo Shop"
+      script: cd demo-shop && docker build -t restorecommerce/data:demo-shop-0.1.0 .
