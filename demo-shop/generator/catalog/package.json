@@ -1,7 +1,7 @@
 {
   "name": "@restorecommerce/testdata-transform",
   "version": "0.1.0",
-  "description": "Util for importing test data",
+  "description": "Util for generating product catalog data from a CSV data set",
   "license": "MIT",
   "keywords": [
     "restorecommerce",
