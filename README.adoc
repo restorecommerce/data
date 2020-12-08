@@ -4,7 +4,7 @@ https://travis-ci.org/restorecommerce/data?branch=master[image:http://img.shield
 
 The data sets serve several purposes:
 
-- Share and re-use of master data such as lists of counties
+- Share and re-use of master data such as lists of counties, VAT rates, courier tariffs etc.
 - For automated testing
 - For demonstration purposes
 

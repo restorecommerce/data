@@ -1,10 +1,10 @@
 FROM node:12.18.3-alpine
 
-WORKDIR /data
+WORKDIR /
 
 COPY package.json package-lock.json ./
 RUN npm ci --only=production
 
 COPY . .
 
-CMD [ "sh", "-c", "node import.js -d $API_KEY" ]
+CMD [ "sh", "-c", "node import.js" ]

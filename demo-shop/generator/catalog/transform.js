@@ -6,9 +6,9 @@ const JSON = require('JSON');
 const prettier = require('prettier');
 
 const priceGroups = {
-  '0': { 'name': "PG1", 'description': "Dummy price group 1" },
-  '1': { 'name': "PG2", 'description': "Dummy price group 2" },
-  '2': { 'name': "PG3", 'description': "Dummy price group 3" },
+  0: { name: 'PG1', description: 'Dummy price group 1' },
+  1: { name: 'PG2', description: 'Dummy price group 2' },
+  2: { name: 'PG3', description: 'Dummy price group 3' },
 }; // no data available
 
 const prodCategories = {};
@@ -25,7 +25,7 @@ function parseInputLine(csvLine) {
     return;
   }
 
-  const brandEntry = csvLine['brand'];
+  const brandEntry = csvLine.brand;
   const brandHash = hash(brandEntry);
 
   if (!manufacturers[brandHash]) {
@@ -36,17 +36,17 @@ function parseInputLine(csvLine) {
   }
 
   // remove quotes and brackets first
-  const categoryTree = csvLine['product_category_tree'].slice(2, -2).split(' >> ');
+  const categoryTree = csvLine.product_category_tree.slice(2, -2).split(' >> ');
 
-  const imagesData = csvLine['image']
+  const imagesData = csvLine.image
     .slice(1, -1)
     .split(', ')
     .map(imgUrlRaw => imgUrlRaw.slice(1, -1)) // remove quotes
     .map(imgUrl => {
       // image types: specifying url and filename should be sufficient
       return {
-        'url': imgUrl,
-        'filename': imgUrl.split('/').slice(-1)[0]
+        url: imgUrl,
+        filename: imgUrl.split('/').slice(-1)[0]
       };
     });
 
@@ -94,36 +94,36 @@ function parseInputLine(csvLine) {
 
       if (!prodPrototypes[prototypeCatHash]) {
         prodPrototypes[prototypeCatHash] = {
-          'name': prototypeCat,
-          'description': 'Dummy description for prototype ' + prototypeCat,
-          'category_id': hash(categoryTree[categoryTree.length - 3])
+          name: prototypeCat,
+          description: 'Dummy description for prototype ' + prototypeCat,
+          category_id: hash(categoryTree[categoryTree.length - 3])
         };
       }
     }
 
-    const productEntry = csvLine['product_name'];
+    const productEntry = csvLine.product_name;
     const productHash = hash(productEntry);
 
     if (!products[productHash]) {
       // need to create product before adding variant
 
       products[productHash] = {
-        'product': {
-          'id': productHash,
-          'name': productEntry,
-          'description': "Dummy description for product " + productEntry,
-          'manufacturer_id': brandHash,
-          'taric_code': uuid.v4(), // no data available
-          'variants': []
+        product: {
+          id: productHash,
+          name: productEntry,
+          description: "Dummy description for product " + productEntry,
+          manufacturer_id: brandHash,
+          taric_code: uuid.v4(), // no data available
+          variants: []
           // todo: tax types
         },
-        'active': Math.random() >= 0.2
+        active: Math.random() >= 0.2
       };
 
       if (categoryTree.length > 2) {
-        products[productHash]['product']['prototype'] = { id: prototypeCatHash };
+        products[productHash].product.prototype = { id: prototypeCatHash };
       } else {
-        products[productHash]['product']['category'] = { id: hash(categoryTree[0]) };
+        products[productHash].product.category = { id: hash(categoryTree[0]) };
       }
     }
 
@@ -144,7 +144,7 @@ function parseInputLine(csvLine) {
 
       values = elems[elems.length - 1].split('\"=>\"')[1].slice(0, -1);
 
-      return { 'key': key, 'values': values.split(", ") };
+      return { key, values: values.split(', ') };
     });
 
     products[productHash]['product']['variants'].push({
@@ -163,11 +163,11 @@ function parseInputLine(csvLine) {
 }
 
 function writeJSON(list_meta) {
-  const dataset = list_meta['dataset'];
-  const mutation = list_meta['mutation'];
-  const filename = list_meta['filename'];
+  const dataset = list_meta.dataset;
+  const mutation = list_meta.mutation;
+  const filename = list_meta.filename;
 
-  const rawOutput = { 'resource_list': [] };
+  const rawOutput = { resource_list: [] };
 
   for (let datumId in dataset) {
     let datum = dataset[datumId];
@@ -175,7 +175,7 @@ function writeJSON(list_meta) {
     rawOutput['resource_list'].push(datum);
   }
 
-  rawOutput['mutation'] = mutation;
+  rawOutput.mutation = mutation;
 
   const jsonOutput = JSON.stringify(rawOutput);
   // somehow the formatted string can't be written? (0 byte file output)
