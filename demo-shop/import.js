@@ -1,97 +1,121 @@
-require('dotenv').config();
+require('dotenv')
+.config();
 
 const fs = require('fs');
-const { GraphQLProcessor, JobProcessor } = require('@restorecommerce/gql-bot');
-const commander = require('commander');
-const prompt = require('prompt');
+const path = require('path');
+const {
+  GraphQLProcessor,
+  JobProcessor
+} = require('@restorecommerce/gql-bot');
+const { program } = require('commander');
 
-const DATA_DIR = 'mock_data';
+const CONFIG_NAME = process.env.CONFIG_NAME || '.config.json';
 
-const gqlEndpoint = process.env.GQL_ENDPOINT;
+const defaultConfig = JSON.parse(fs.readFileSync(CONFIG_NAME)
+.toString());
 
-importData().then(() => {
+importData();
 
-}).catch((err) => { throw err; });
-
-async function importData() {
-  let job;
-  let jobProcessor;
-  let accessToken;
-  let args;
-
-  if (process.argv[0].endsWith('node') || process.argv[0].endsWith('node.exe')) {
-    // called as "node import.js" => first argument is the node binary, discard
-    args = process.argv.slice(1);
-  } else {
-    args = process.argv; // called as "import.js"
+async function commandDataImport(cmd) {
+  const access_token = cmd.token || process.env.ACCESS_TOKEN;
+  if (!access_token) {
+    exitWithError('error: please provide an access token');
   }
 
-  if (args.length < 2) {
-    console.error('Error: Must supply an access token'); // not sure why commander doesn't handle this
-    process.exit(1);
+  const data_source = cmd.source || process.env.DATA_SOURCE;
+  if (!data_source) {
+    exitWithError('error: please provide a data source');
   }
 
-  commander
-    .arguments('<access token>')
-    .action((credential) => {
-      accessToken = credential;
-    })
-    .parse(args);
+  const jobs = (cmd.job && cmd.job.length > 0 ? cmd.job : undefined) || (process.env.JOBS ? process.env.JOBS.split(',') : undefined);
+  if (!jobs) {
+    exitWithError('error: please provide a job');
+  }
 
-  const resourcesDir = DATA_DIR;
+  jobs.forEach(job => {
+    const filePath = getFullJobPath(job);
+    try {
+      fs.statSync(filePath);
+    } catch (e) {
+      exitWithError(`error: job '${job}' does not exist at path: ${filePath}`);
+    }
+  });
 
-  const configName = '.config.json';
-  const configs = JSON.parse(fs.readFileSync(configName));
+  jobs.forEach(job => {
+    const filePath = getFullJobPath(job);
+    try {
+      fs.statSync(filePath);
+    } catch (e) {
+      exitWithError(`error: job '${job}' does not exist at path: ${filePath}`);
+    }
+  });
 
-  configs.accessToken = accessToken;
+  const gqlProcessor = new GraphQLProcessor(defaultConfig);
 
-  const jobs = JSON.parse(fs.readFileSync('jobs.json'));
-  const jobName = await promptJobs(jobs);
-
-  const jobPath = jobs[jobName];
-  if (jobPath) {
-    const gqlProcessor = new GraphQLProcessor(configs);
-
-    job = JSON.parse(fs.readFileSync(jobPath, 'utf8'));
+  for (const jobName of jobs) {
+    const job = JSON.parse(fs.readFileSync(getFullJobPath(jobName), 'utf8'));
     job.tasks = job.tasks.map((task) => {
-      task.src += resourcesDir;
+      task.src += data_source;
       return task;
     });
 
     job.options.processor = gqlProcessor;
 
-    jobProcessor = new JobProcessor(job);
+    const jobProcessor = new JobProcessor(job);
 
     const jobResult = await jobProcessor.start();
     jobResult.on('progress', (task) => {
-      console.log('Progress :', task.name);
+      console.log('Progress :', task.basename);
     });
 
     jobResult.on('done', () => {
-      // console.log('Resources imported successfully');
+      console.log('Resources imported successfully');
     });
-  } else {
-    console.error(`Job ${jobName} is not configured!`);
   }
 }
 
-async function promptJobs(jobs) {
-  const validJobNames = Object.keys(jobs);
+function commandDataGenerate(cmd) {
+  // TODO
+}
 
-  console.log('Please choose an option number');
-  validJobNames.forEach((jobName, i) => {
-    console.log(`${i + 1}: ${jobName}`);
+function commandListJobs(cmd) {
+  const files = fs.readdirSync(defaultConfig['data_directory']);
+  const prefix = defaultConfig['job_prefix'];
+  files.forEach(file => {
+    if (file.startsWith(prefix) && file.endsWith('.json')) {
+      console.log(file.substring(prefix.length, file.length - 5));
+    }
   });
+}
 
-  return new Promise((resolve, reject) => {
-    prompt.get(['option'], (err, result) => {
-      if (err) {
-        console.log('Error occurred', err);
-        reject(err);
-      }
+async function importData() {
+  program
+  .command('import')
+  .description('import data')
+  .option('-t, --token <access_token>', 'access token to use for communications')
+  .option('-s, --source <data_source>', 'data source to import from', 'seed_data')
+  .option('-j, --job <job>', 'list of jobs to process', (v, p) => p.concat(v), [])
+  .action(commandDataImport);
 
-      console.log('Received option', result.option, ':', validJobNames[result.option - 1]);
-      resolve(validJobNames[result.option - 1]);
-    });
-  });
+  program
+  .command('generate')
+  .description('generate datasets')
+  .action(commandDataGenerate);
+
+  program
+  .command('jobs')
+  .description('list all available jobs')
+  .action(commandListJobs);
+
+  await program.parseAsync(process.argv);
+}
+
+function exitWithError(message) {
+  console.error(message, '\n');
+  console.log(program.helpInformation());
+  process.exit(1);
+}
+
+function getFullJobPath(job) {
+  return path.resolve(path.join(defaultConfig['data_directory'], defaultConfig['job_prefix'] + job + '.json'));
 }

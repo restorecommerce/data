@@ -1,0 +1,14 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "createTaxTypes.yaml",
+      "mutation": "mutation{ resource { tax_type { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    }
+  ]
+}
