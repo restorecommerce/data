@@ -1,0 +1,38 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "countries.yaml",
+      "mutation": "mutation{ resource { country { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "timezones.yaml",
+      "mutation": "mutation{ resource { timezone { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "locales.yaml",
+      "mutation": "mutation{ resource { locale { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "tax_types.yaml",
+      "mutation": "mutation{ resource { tax_type { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "commands.yaml",
+      "mutation": "mutation createCommands($var: [IIoRestorecommerceCommandCommand!]!){ resource { command { Create( input: { items: $var, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    }
+  ]
+}

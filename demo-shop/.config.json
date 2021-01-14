@@ -1,5 +1,6 @@
 {
   "entry": "http://localhost:5000/graphql",
   "job_prefix": "job_",
-  "data_directory": "data"
+  "data_directory": "data",
+  "job_directory": "jobs"
 }

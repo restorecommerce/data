@@ -79,7 +79,7 @@ function commandDataGenerate(cmd) {
 }
 
 function commandListJobs(cmd) {
-  const files = fs.readdirSync(defaultConfig['data_directory']);
+  const files = fs.readdirSync(defaultConfig['job_directory']);
   const prefix = defaultConfig['job_prefix'];
   files.forEach(file => {
     if (file.startsWith(prefix) && file.endsWith('.json')) {
@@ -117,5 +117,5 @@ function exitWithError(message) {
 }
 
 function getFullJobPath(job) {
-  return path.resolve(path.join(defaultConfig['data_directory'], defaultConfig['job_prefix'] + job + '.json'));
+  return path.resolve(path.join(defaultConfig['job_directory'], defaultConfig['job_prefix'] + job + '.json'));
 }
