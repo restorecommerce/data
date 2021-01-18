@@ -1,0 +1,32 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "addresses.yaml",
+      "mutation": "mutation{ resource { address { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "contact_point_types.yaml",
+      "mutation": "mutation{ resource { contact_point_type { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "contact_points.yaml",
+      "mutation": "mutation{ resource { contact_point { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "organizations.yaml",
+      "mutation": "mutation createOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ resource { organization { Create( input: { items: $var, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+resource_list:
+  - id: eb228fb0d80d4f4fa51e1a10d8668c1c
+    postcode: '70174'
+    locality: Stuttgart
+    street: Ossietzkystraße
+    buildingNumber: '4'
+    region: Stuttgart
+    countryId: 6995abdf8eaa4781803fca6c8cf2128b
+    altitude: 0
+    addressAddition:
+      field1: ""
+      field2: ""
+    geoCoordinates:
+      longitude: 48.8
+      latitude: 9.2
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: 3275fcd9c84f4831aeba986e328b43ce
+  - id: 210eff6fc2f044dea7701e24a6b4ce0d
+    postcode: '23456'
+    locality: Teststadt
+    street: Erste Teststraße
+    buildingNumber: '1'
+    region: Testregion
+    countryId: 6995abdf8eaa4781803fca6c8cf2128b
+    altitude: 0
+    addressAddition:
+      field1: ""
+      field2: ""
+    geoCoordinates:
+      longitude: 48.8
+      latitude: 9.2
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: 6701b0f574e24c61af8391b5c28b1d08s
+  - id: 310eff6fc2f044dea7701e24a6b4ce0d
+    postcode: '34567'
+    locality: Beispielstadt
+    street: Zweite Teststraße
+    buildingNumber: '1'
+    region: Beispielregion
+    countryId: 6995abdf8eaa4781803fca6c8cf2128b
+    altitude: 0
+    addressAddition:
+      field1: ""
+      field2: ""
+    geoCoordinates:
+      longitude: 48.8
+      latitude: 9.2
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: 7701b0f574e24c61af8391b5c28b1d08s

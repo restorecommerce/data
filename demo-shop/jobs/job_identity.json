@@ -1,0 +1,32 @@
+{
+  "options": {
+    "base": "./data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "rules.yaml",
+      "mutation": "mutation createRules($var: [IIoRestorecommerceRuleRule!]!){ access_control { rule { Create( input: { items: $var, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "policies.yaml",
+      "mutation": "mutation createPolicies($var: [IIoRestorecommercePolicyPolicy!]!){ access_control { policy { Create( input: { items: $var, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "policy_sets.yaml",
+      "mutation": "mutation createPolicySets($var: [IIoRestorecommercePolicySetPolicySet!]!){ access_control { policy_set { Create( input: { items: $var, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "users.yaml",
+      "mutation": "mutation createUsers($var: [IIoRestorecommerceUserUser!]!){ identity { user { Create( input: { items: $var, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+    }
+  ]
+}

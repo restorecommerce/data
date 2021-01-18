@@ -1,0 +1,92 @@
+resource_list:
+  - id: ce79782cbd064389aaf66d280d3a6c06
+    name: R UG
+    addressId: eb228fb0d80d4f4fa51e1a10d8668c1c
+    contactPointIds:
+      - 2a3f8a09e07b4abeab909faeb63c6158
+      - c0cd56ffc29f4a1189720a6db6f5abb0
+    website: https://about.restorecommerce.io/
+    email: hello@restorecommerce.io
+    vatId: DE312349168
+    isicV4: J
+    registration: "760574"
+    logo: http://console:80/templates/logos/PNG/X_Logo.png
+    registrationCourt: Amtsgericht Stuttgart (Registergericht)
+    paymentMethodIds: []
+    childrenIds: []
+    parentId: ""
+    data:
+      typeUrl: ""
+      value: "{}"
+#    accounts:
+#      - account:
+#          type: BankAccount
+#          iban: DE52600201001000498262
+#          bic: SCHWDESSXXX
+#          bankName: Schwäbische Bank Stuttgart
+#          transferType: BOTH
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: ce79782cbd064389aaf66d280d3a6c06
+  - id: 6701b0f574e24c61af8391b5c28b1d08s
+    name: Test Organization 1
+    contactPointIds:
+      - 30db337d800f4b009c043e2d70d8f6f4
+      - 40db337d800f4b009c043e2d70d8f6f4
+    addressId: 210eff6fc2f044dea7701e24a6b4ce0d
+    website: https://org1.io
+    email: info@org1.test
+    vatId: "7891011"
+    isicV4: J
+    registration: "99999999"
+    logo: ""
+    registrationCourt: Amtsgericht Stuttgart (Registergericht)
+    paymentMethodIds: [ ]
+    childrenIds: [ ]
+    parentId: ""
+    data:
+      typeUrl: ""
+      value: "{}"
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: 6701b0f574e24c61af8391b5c28b1d08s
+  - id: 7701b0f574e24c61af8391b5c28b1d08s
+    name: Test Organization 2
+    contactPointIds:
+      - 50db337d800f4b009c043e2d70d8f6f4
+      - 60db337d800f4b009c043e2d70d8f6f4
+    addressId: 310eff6fc2f044dea7701e24a6b4ce0d
+    website: https://org2.io
+    email: info@org2.test
+    vatId: "7891011"
+    isicV4: J
+    registration: "99999999"
+    logo: ""
+    registrationCourt: Amtsgericht Stuttgart (Registergericht)
+    paymentMethodIds: [ ]
+    childrenIds: [ ]
+    parentId: ""
+    data:
+      typeUrl: ""
+      value: "{}"
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: 7701b0f574e24c61af8391b5c28b1d08s
