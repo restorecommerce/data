@@ -24,13 +24,13 @@ jobs:
         working-directory: demo-shop
 
       - name: Import master data
-        run: node import -t api_key -j master
+        run: node import.js import -t api_key -j master
         working-directory: demo-shop
 
       - name: Import identity data
-        run: node import -t api_key -j identity
+        run: node import.js import -t api_key -j identity
         working-directory: demo-shop
 
       - name: Import extra data
-        run: node import -t api_key -j extra
+        run: node import.js import -t api_key -j extra
         working-directory: demo-shop
