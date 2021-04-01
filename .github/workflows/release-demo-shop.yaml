@@ -39,10 +39,11 @@ jobs:
         uses: crazy-max/ghaction-docker-meta@v2
         with:
           images: |
-            ${{ github.repository }}
             ghcr.io/${{ github.repository }}
           tags: |
             type=ref,event=tag
+          flavor: |
+            latest=false
 
       - name: Build and push
         uses: docker/build-push-action@v2
@@ -50,7 +51,7 @@ jobs:
           context: ./demo-shop
           file: ./demo-shop/Dockerfile
           platforms: linux/amd64
-          push: false
+          push: true
           cache-from: ${{ github.repository }}:latest
           tags: ${{ steps.docker_meta.outputs.tags }}
           labels: ${{ steps.docker_meta.outputs.labels }}
