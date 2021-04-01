@@ -7,4 +7,4 @@ RUN npm ci --only=production
 
 COPY . .
 
-CMD [ "sh", "-c", "node import.js" ]
+ENTRYPOINT ["node", "import.js"]

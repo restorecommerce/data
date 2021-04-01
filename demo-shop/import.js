@@ -50,7 +50,16 @@ async function commandDataImport(cmd) {
     }
   });
 
-  const gqlProcessor = new GraphQLProcessor(defaultConfig);
+  const realConfig = {
+    ...defaultConfig
+  }
+
+  const host = cmd.host || realConfig.host;
+  const port = cmd.port || realConfig.port;
+
+  realConfig.entry = `http://${host}:${port}${realConfig.endpoint}`;
+
+  const gqlProcessor = new GraphQLProcessor(realConfig);
 
   for (const jobName of jobs) {
     const job = JSON.parse(fs.readFileSync(getFullJobPath(jobName), 'utf8'));
@@ -93,6 +102,8 @@ async function importData() {
   .command('import')
   .description('import data')
   .option('-t, --token <access_token>', 'access token to use for communications')
+  .option('-h, --host <hostname>', 'target hostname', undefined)
+  .option('-p, --port <port>', 'target port', undefined)
   .option('-s, --source <data_source>', 'data source to import from', 'seed_data')
   .option('-j, --job <job>', 'list of jobs to process', (v, p) => p.concat(v), [])
   .action(commandDataImport);

@@ -1,5 +1,7 @@
 {
-  "entry": "http://localhost:5000/graphql",
+  "host": "localhost",
+  "port": 5000,
+  "endpoint": "/graphql",
   "job_prefix": "job_",
   "data_directory": "data",
   "job_directory": "jobs"

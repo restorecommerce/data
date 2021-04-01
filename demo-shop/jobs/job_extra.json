@@ -8,37 +8,37 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "addresses.yaml",
-      "mutation": "mutation{ resource { address { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+      "mutation": "mutation{ resource { address { Create( input: { items: ${resource_list}, totalCount: 0 } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "contact_point_types.yaml",
-      "mutation": "mutation{ resource { contact_point_type { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+      "mutation": "mutation{ resource { contact_point_type { Create( input: { items: ${resource_list}, totalCount: 0 } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "contact_points.yaml",
-      "mutation": "mutation{ resource { contact_point { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+      "mutation": "mutation{ resource { contact_point { Create( input: { items: ${resource_list}, totalCount: 0 } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "organizations.yaml",
-      "mutation": "mutation createOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ resource { organization { Create( input: { items: $var, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+      "mutation": "mutation createOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ resource { organization { Create( input: { items: $var, totalCount: 0 } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "fulfillment_couriers.yaml",
-      "mutation": "mutation{ fulfillment { fulfillment_courier { Create( input: { items: ${resource_list}, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+      "mutation": "mutation{ fulfillment { fulfillment_courier { Create( input: { items: ${resource_list}, totalCount: 0 } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "manufacturers.yaml",
-      "mutation": "mutation createManufacturers($var: [IIoRestorecommerceManufacturerManufacturer!]!){ catalog { manufacturer { Create( input: { items: $var, totalCount: 0, subject: { id: \"\", scope: \"\", roleAssociations: [], hierarchicalScopes: [], unauthenticated: true, token: \"\" } } ) { status { key code message } } } }}"
+      "mutation": "mutation createManufacturers($var: [IIoRestorecommerceManufacturerManufacturer!]!){ catalog { manufacturer { Create( input: { items: $var, totalCount: 0 } ) { status { key code message } } } }}"
     }
   ]
 }
