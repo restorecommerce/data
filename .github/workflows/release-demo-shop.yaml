@@ -42,8 +42,7 @@ jobs:
             ${{ github.repository }}
             ghcr.io/${{ github.repository }}
           tags: |
-            type=semver,pattern=demo-shop-{{version}}
-            type=semver,pattern=demo-shop-{{major}}.{{minor}}
+            type=ref,event=tag
 
       - name: Build and push
         uses: docker/build-push-action@v2
