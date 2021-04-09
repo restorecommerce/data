@@ -1,0 +1,46 @@
+resource_list:
+  - id: superadmininistrator-r-id
+    name: Superadmininistrator
+    description: can read and write across all organization scopes
+    assignableByRoles:
+      - superadmininistrator-r-id
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: ce79782cbd064389aaf66d280d3a6c06
+  - id: user-r-id
+    name: user
+    description: can read and write with in his organization scope
+    assignableByRoles:
+      - superadmininistrator-r-id
+      - administrator-r-id
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: ce79782cbd064389aaf66d280d3a6c06
+  - id: administrator-r-id
+    name: Administrator
+    description: can read and write with in his organization scope
+    assignableByRoles:
+      - superadmininistrator-r-id
+      - administrator-r-id
+    meta:
+      created: 0
+      modified: 0
+      modifiedBy: ""
+      owner:
+        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:ownerInstance
+          value: ce79782cbd064389aaf66d280d3a6c06
+

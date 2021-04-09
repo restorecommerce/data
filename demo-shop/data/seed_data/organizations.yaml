@@ -15,16 +15,6 @@ resource_list:
     paymentMethodIds: []
     childrenIds: []
     parentId: ""
-    data:
-      typeUrl: ""
-      value: "{}"
-#    accounts:
-#      - account:
-#          type: BankAccount
-#          iban: DE52600201001000498262
-#          bic: SCHWDESSXXX
-#          bankName: Schwäbische Bank Stuttgart
-#          transferType: BOTH
     meta:
       created: 0
       modified: 0
@@ -50,9 +40,6 @@ resource_list:
     paymentMethodIds: [ ]
     childrenIds: [ ]
     parentId: ""
-    data:
-      typeUrl: ""
-      value: "{}"
     meta:
       created: 0
       modified: 0
@@ -78,9 +65,6 @@ resource_list:
     paymentMethodIds: [ ]
     childrenIds: [ ]
     parentId: ""
-    data:
-      typeUrl: ""
-      value: "{}"
     meta:
       created: 0
       modified: 0

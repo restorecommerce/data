@@ -8,25 +8,31 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "rules.yaml",
-      "mutation": "mutation createRules($var: [IIoRestorecommerceRuleRule!]!){ access_control { rule { Create( input: { items: $var, totalCount: 0 } ) { status { key code message } } } }}"
+      "mutation": "mutation mutateRules($var: [IIoRestorecommerceRuleRule!]!){ access_control { rule { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "policies.yaml",
-      "mutation": "mutation createPolicies($var: [IIoRestorecommercePolicyPolicy!]!){ access_control { policy { Create( input: { items: $var, totalCount: 0 } ) { status { key code message } } } }}"
+      "mutation": "mutation mutatePolicies($var: [IIoRestorecommercePolicyPolicy!]!){ access_control { policy { Mutate( input: { items: $var, totalCount: 0, mode: CREATE  } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "policy_sets.yaml",
-      "mutation": "mutation createPolicySets($var: [IIoRestorecommercePolicySetPolicySet!]!){ access_control { policy_set { Create( input: { items: $var, totalCount: 0 } ) { status { key code message } } } }}"
+      "mutation": "mutation mutatePolicySets($var: [IIoRestorecommercePolicySetPolicySet!]!){ access_control { policy_set { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+    },
+    {
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "roles.yaml",
+      "mutation": "mutation mutateRoles($var: [IIoRestorecommerceRoleRole!]!){ identity { role { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "users.yaml",
-      "mutation": "mutation createUsers($var: [IIoRestorecommerceUserUser!]!){ identity { user { Create( input: { items: $var, totalCount: 0 } ) { status { key code message } } } }}"
+      "mutation": "mutation mutateUsers($var: [IIoRestorecommerceUserUser!]!){ identity { user { Mutate( input: { items: $var, totalCount: 0,  mode: CREATE } ) { status { key code message } } } }}"
     }
   ]
 }

@@ -7,7 +7,7 @@ resource_list:
     password: rcsuperpw
     defaultScope: ce79782cbd064389aaf66d280d3a6c06
     roleAssociations:
-      - role: 78c2571c1bf8483285ca61633a24a451
+      - role: superadmininistrator-r-id
         attributes: []
         id: ""
     localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
@@ -56,14 +56,14 @@ resource_list:
     password: rcadminpw
     defaultScope: ce79782cbd064389aaf66d280d3a6c06
     roleAssociations:
-      - role: 95a9302f65434061a3f33e9197c7af24
+      - role: user-r-id
         id: ""
         attributes:
           - id: urn:restorecommerce:acs:names:roleScopingEntity
             value: urn:restorecommerce:acs:model:organization.Organization
           - id: urn:restorecommerce:acs:names:roleScopingInstance
             value: ce79782cbd064389aaf66d280d3a6c06
-      - role: dfcfe667eb614cc1864b3c723297240a
+      - role: administrator-r-id
         id: ""
         attributes:
           - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -112,11 +112,11 @@ resource_list:
     name: kurt.kunde
     firstName: Kurt
     lastName: Kunde
-    email: karl.kunde@restorecommerce.io
+    email: kurt.kunde@restorecommerce.io
     password: rccustomer1pw
     defaultScope: ce79782cbd064389aaf66d280d3a6c06
     roleAssociations:
-      - role: 95a9302f65434061a3f33e9197c7af24
+      - role: user-r-id
         id: ""
         attributes:
           - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -169,7 +169,7 @@ resource_list:
     password: rccustomer2pw
     defaultScope: ce79782cbd064389aaf66d280d3a6c06
     roleAssociations:
-      - role: 95a9302f65434061a3f33e9197c7af24
+      - role: user-r-id
         id: ""
         attributes:
           - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -222,7 +222,7 @@ resource_list:
     password: rccustomer3pw
     defaultScope: ce79782cbd064389aaf66d280d3a6c06
     roleAssociations:
-      - role: 95a9302f65434061a3f33e9197c7af24
+      - role: user-r-id
         id: ""
         attributes:
           - id: urn:restorecommerce:acs:names:roleScopingEntity
