@@ -1,5 +1,5 @@
 require('dotenv')
-.config();
+  .config();
 
 const fs = require('fs');
 const path = require('path');
@@ -12,18 +12,18 @@ const { program } = require('commander');
 const CONFIG_NAME = process.env.CONFIG_NAME || '.config.json';
 
 const defaultConfig = JSON.parse(fs.readFileSync(CONFIG_NAME)
-.toString());
+  .toString());
 
 importData();
 
 async function commandDataImport(cmd) {
-  const access_token = cmd.token || process.env.ACCESS_TOKEN;
-  if (!access_token) {
+  const accessToken = cmd.token || process.env.ACCESS_TOKEN;
+  if (!accessToken) {
     exitWithError('error: please provide an access token');
   }
 
-  const data_source = cmd.source || process.env.DATA_SOURCE;
-  if (!data_source) {
+  const dataSource = cmd.source || process.env.DATA_SOURCE;
+  if (!dataSource) {
     exitWithError('error: please provide a data source');
   }
 
@@ -59,12 +59,18 @@ async function commandDataImport(cmd) {
 
   realConfig.entry = `http://${host}:${port}${realConfig.endpoint}`;
 
+  if (accessToken) {
+    realConfig.headers = Object.assign({}, realConfig.headers, { 'Authorization': `Bearer ${accessToken}` });
+  }
+
   const gqlProcessor = new GraphQLProcessor(realConfig);
 
+  /* eslint no-restricted-syntax: ["error", "FunctionExpression",
+   "WithStatement", "BinaryExpression[operator='in']"] */
   for (const jobName of jobs) {
     const job = JSON.parse(fs.readFileSync(getFullJobPath(jobName), 'utf8'));
     job.tasks = job.tasks.map((task) => {
-      task.src += data_source;
+      task.src += dataSource;
       return task;
     });
 
@@ -99,24 +105,24 @@ function commandListJobs(cmd) {
 
 async function importData() {
   program
-  .command('import')
-  .description('import data')
-  .option('-t, --token <access_token>', 'access token to use for communications')
-  .option('-h, --host <hostname>', 'target hostname', undefined)
-  .option('-p, --port <port>', 'target port', undefined)
-  .option('-s, --source <data_source>', 'data source to import from', 'seed_data')
-  .option('-j, --job <job>', 'list of jobs to process', (v, p) => p.concat(v), [])
-  .action(commandDataImport);
+    .command('import')
+    .description('import data')
+    .option('-t, --token <access_token>', 'access token to use for communications')
+    .option('-h, --host <hostname>', 'target hostname', undefined)
+    .option('-p, --port <port>', 'target port', undefined)
+    .option('-s, --source <data_source>', 'data source to import from', 'seed_data')
+    .option('-j, --job <job>', 'list of jobs to process', (v, p) => p.concat(v), [])
+    .action(commandDataImport);
 
   program
-  .command('generate')
-  .description('generate datasets')
-  .action(commandDataGenerate);
+    .command('generate')
+    .description('generate datasets')
+    .action(commandDataGenerate);
 
   program
-  .command('jobs')
-  .description('list all available jobs')
-  .action(commandListJobs);
+    .command('jobs')
+    .description('list all available jobs')
+    .action(commandListJobs);
 
   await program.parseAsync(process.argv);
 }

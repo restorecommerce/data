@@ -20,20 +20,16 @@ These scripts either execute GraphQL mutations/ queries through the `import.js` 
 The `import.js` also includes command-line options such as specifying if we wish
 to import the data locally or into the production environment.
 
-Current supported options for database resources are:
+Current supported jobs are:
 
-- importUsers
-- activateUsers
-- importResources (executes all create*.json tasks)
-- deleteUsers
-- deleteResources
-- importPolicies
-- deletePolicies
+- identity (imports `users`, `roles`, `rules`, `policies` and `policy_sets`)
+- master (imports master data resources `country`, `time_zone`, `locale`, `tax_types` and `commands`)
+- extra (import resources `organizations`, `addresses`, `contact_point_types`, `contact_points`, `fulfillment_couriers` and `manufacturers`)
 
 Script usage:
 
 ```sh
-node import.js
+node import.js -t <access_token> -j <job>
 ```
 
 Supported environment variables:
