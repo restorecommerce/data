@@ -29,7 +29,7 @@ Current supported jobs are:
 Script usage:
 
 ```sh
-node import.js -t <access_token> -j <job>
+node import.js import -t <access_token> -j <job>
 ```
 
 Supported environment variables:
