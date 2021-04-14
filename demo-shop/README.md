@@ -38,8 +38,9 @@ Supported environment variables:
 GQL_ENDPOINT
 ```
 
-All flags are optional and they can be listed by typing `node import.js -h`.
+All flags are optional, and they can be listed by typing `node import.js -h`.
 The API key can be obtained from the [`facade-srv`](https://github.com/restorecommerce/facade-srv/blob/master/cfg/config.json#L21) configuration.
+The API key should be: `dbcccf4037d64a6194db7dd3237ce6d3`.
 
 By default, the GraphQL importer uses the configuration file `config.json` to read data regarding endpoints for retrieving the API key
 and executing mutations/ queries.
