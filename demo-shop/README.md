@@ -28,15 +28,17 @@ Current supported jobs are:
 
 Script usage:
 
-```sh
-node import.js import -t <access_token> -j <job>
-```
+Generate catalog datasets using [`transform.js script`](./generator/catalog/transform.js):  
+- `node transform.js`
 
-Supported environment variables:
+Import datasets using [`import.js script`](./import.js):  
+- `node import.js import -t <access_token> -j <job>`
 
-```sh
-GQL_ENDPOINT
-```
+Import catalog datasets, the source must be specified as this data is generated
+in another path:  
+- `node import.js import -t <access_token> -j catalog -s catalog>`
+
+Supported environment variables: `GQL_ENDPOINT`.
 
 All flags are optional, and they can be listed by typing `node import.js -h`.
 The API key can be obtained from the [`facade-srv`](https://github.com/restorecommerce/facade-srv/blob/master/cfg/config.json#L21) configuration.
