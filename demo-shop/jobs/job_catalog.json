@@ -32,6 +32,7 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "createProducts.yaml",
+      "batchSize": 100,
       "mutation": "mutation{ catalog { product { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     }
   ]
