@@ -1,8 +1,0 @@
-{
-  "resource_list": [
-    { "name": "PG1", "description": "Dummy price group 1", "id": "0" },
-    { "name": "PG2", "description": "Dummy price group 2", "id": "1" },
-    { "name": "PG3", "description": "Dummy price group 3", "id": "2" }
-  ],
-  "mutation": "mutation { createPriceGroups(input: { listOfPriceGroups: ${resource_list} }) {details {id}, error{code, message}} }"
-}

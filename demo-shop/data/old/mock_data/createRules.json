@@ -1,5 +1,0 @@
-{
-  "yaml_file_paths": ["./data/mock_data/createRules.yml"],
-  "mutation": "mutation createRules($var: createRulesInput!){ createRules(input : $var){ details {id}, error{code, message} } }",
-  "queryVariables": "listOfRules"
-}
