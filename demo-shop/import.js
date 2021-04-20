@@ -14,8 +14,6 @@ const CONFIG_NAME = process.env.CONFIG_NAME || '.config.json';
 const defaultConfig = JSON.parse(fs.readFileSync(CONFIG_NAME)
   .toString());
 
-importData();
-
 async function commandDataImport(cmd) {
   const accessToken = cmd.token || process.env.ACCESS_TOKEN;
   if (!accessToken) {
@@ -52,7 +50,7 @@ async function commandDataImport(cmd) {
 
   const realConfig = {
     ...defaultConfig
-  }
+  };
 
   const host = cmd.host || realConfig.host;
   const port = cmd.port || realConfig.port;
@@ -136,3 +134,5 @@ function exitWithError(message) {
 function getFullJobPath(job) {
   return path.resolve(path.join(defaultConfig['job_directory'], defaultConfig['job_prefix'] + job + '.json'));
 }
+
+importData();

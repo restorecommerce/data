@@ -6,9 +6,63 @@ const yaml = require('js-yaml');
 const _ = require('lodash');
 
 const priceGroups = {
-  0: { name: 'PG1', description: 'Dummy price group 1' },
-  1: { name: 'PG2', description: 'Dummy price group 2' },
-  2: { name: 'PG3', description: 'Dummy price group 3' },
+  0: {
+    name: 'PG1',
+    description: 'Dummy price group 1',
+    meta: {
+      created: 0,
+      modified: 0,
+      modifiedBy: "",
+      owner: [
+        {
+          id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          value: "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          id: "urn:restorecommerce:acs:names:ownerInstance",
+          value: "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    }
+  },
+  1: {
+    name: 'PG2',
+    description: 'Dummy price group 2',
+    meta: {
+      created: 0,
+      modified: 0,
+      modifiedBy: "",
+      owner: [
+        {
+          id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          value: "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          id: "urn:restorecommerce:acs:names:ownerInstance",
+          value: "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    }
+  },
+  2: {
+    name: 'PG3',
+    description: 'Dummy price group 3',
+    meta: {
+      created: 0,
+      modified: 0,
+      modifiedBy: "",
+      owner: [
+        {
+          id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+          value: "urn:restorecommerce:acs:model:organization.Organization"
+        },
+        {
+          id: "urn:restorecommerce:acs:names:ownerInstance",
+          value: "ce79782cbd064389aaf66d280d3a6c06"
+        }
+      ]
+    }
+  },
 }; // no data available
 
 const prodCategories = {};
@@ -35,6 +89,10 @@ const resources = [
   },
 ];
 
+function makeUUID() {
+  return uuid.v4().replace(/-/g, '');
+}
+
 function parseInputLine(csvLine) {
   // sanity check
   if (!csvLine['retail_price']
@@ -49,8 +107,23 @@ function parseInputLine(csvLine) {
 
   if (!manufacturers[brandHash]) {
     manufacturers[brandHash] = {
-      'name': brandEntry,
-      'description': 'Dummy description for manufacturer ' + brandEntry
+      name: brandEntry,
+      description: 'Dummy description for manufacturer ' + brandEntry,
+      meta: {
+        created: 0,
+        modified: 0,
+        modifiedBy: "",
+        owner: [
+          {
+            id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+            value: "urn:restorecommerce:acs:model:organization.Organization"
+          },
+          {
+            id: "urn:restorecommerce:acs:names:ownerInstance",
+            value: "ce79782cbd064389aaf66d280d3a6c06"
+          }
+        ]
+      }
     };
   }
 
@@ -64,8 +137,14 @@ function parseInputLine(csvLine) {
     .map(imgUrl => {
       // image types: specifying url and filename should be sufficient
       return {
+        id: makeUUID(),
         url: imgUrl,
-        filename: imgUrl.split('/').slice(-1)[0]
+        filename: imgUrl.split('/').slice(-1)[0],
+        caption: 'test',
+        contentType: 'test',
+        width: 123,
+        height: 123,
+        length: 123,
       };
     });
 
@@ -85,16 +164,30 @@ function parseInputLine(csvLine) {
       const categoryLevelHash = hash(categoryTree[index]);
 
       if (!prodCategories[categoryLevelHash]) {
-        const priceGroupId = String(Math.floor(Math.random() * 3));
+        const priceGroupIdStr = String(Math.floor(Math.random() * 3));
         prodCategories[categoryLevelHash] = {
-          'name': categoryTree[index],
-          'description': "Dummy description for category " + categoryTree[index],
-          'image': categoryImgData,
-          'price_group_id': priceGroupId,
-        }
-
+          name: categoryTree[index],
+          description: "Dummy description for category " + categoryTree[index],
+          image: categoryImgData,
+          priceGroupId: priceGroupIdStr.toString(),
+          meta: {
+            created: 0,
+            modified: 0,
+            modifiedBy: "",
+            owner: [
+              {
+                id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+                value: "urn:restorecommerce:acs:model:organization.Organization"
+              },
+              {
+                id: "urn:restorecommerce:acs:names:ownerInstance",
+                value: "ce79782cbd064389aaf66d280d3a6c06"
+              }
+            ]
+          }
+        };
         if (lastCategory != null) {
-          prodCategories[categoryLevelHash]['parent'] = { 'parent_id': hash(lastCategory) };
+          prodCategories[categoryLevelHash]['parent'] = { 'parentId': hash(lastCategory) };
         }
       }
 
@@ -111,7 +204,23 @@ function parseInputLine(csvLine) {
         prodPrototypes[prototypeCatHash] = {
           name: prototypeCat,
           description: 'Dummy description for prototype ' + prototypeCat,
-          category_id: hash(categoryTree[categoryTree.length - 3])
+          categoryId: hash(categoryTree[categoryTree.length - 3]),
+          version: "test",
+          meta: {
+            created: 0,
+            modified: 0,
+            modifiedBy: "",
+            owner: [
+              {
+                id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+                value: "urn:restorecommerce:acs:model:organization.Organization"
+              },
+              {
+                id: "urn:restorecommerce:acs:names:ownerInstance",
+                value: "ce79782cbd064389aaf66d280d3a6c06"
+              }
+            ]
+          }
         };
       }
     }
@@ -127,10 +236,28 @@ function parseInputLine(csvLine) {
           id: productHash,
           name: productEntry,
           description: "Dummy description for product " + productEntry,
-          manufacturer_id: brandHash,
-          taric_code: uuid.v4(), // no data available
-          variants: []
-          // todo: tax types
+          manufacturerId: brandHash,
+          taricCode: uuid.v4(), // no data available
+          variants: [],
+          taxTypeId: [
+            makeUUID()
+          ],
+          gtin: makeUUID()
+        },
+        meta: {
+          created: 0,
+          modified: 0,
+          modifiedBy: "",
+          owner: [
+            {
+              id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+              value: "urn:restorecommerce:acs:model:organization.Organization"
+            },
+            {
+              id: "urn:restorecommerce:acs:names:ownerInstance",
+              value: "ce79782cbd064389aaf66d280d3a6c06"
+            }
+          ]
         },
         active: Math.random() >= 0.2
       };
@@ -141,9 +268,7 @@ function parseInputLine(csvLine) {
         products[productHash].product.category = { id: hash(categoryTree[0]) };
       }
     }
-
     // raw attribute list has the form {"product_specification"=>[{"key"=>"a","value"=>"b"}, {"key"=>"c","value"=>"d"}]}
-
     const variantAttributes = csvLine['product_specifications'].slice(28, -3).split('}, {').map(spec => {
       let key, values;
 
@@ -161,29 +286,45 @@ function parseInputLine(csvLine) {
       return { key, values: values.split(', ') };
     });
 
+    // values must be of string type, so we replace all numbers with a string
+    // to avoid GQL type error.
+    for (let i in variantAttributes) {
+      let vi = variantAttributes[i];
+      for (let i in vi) {
+        let viValues = vi['values'];
+        for (let i in viValues) {
+          let value = viValues[i];
+          if (isNaN(value) === false) {
+            viValues[i] = value + 'm';
+          }
+        }
+      }
+    }
+
     products[productHash]['product']['variants'].push({
-      'id': csvLine['uniq_id'],
-      'name': categoryTree[categoryTree.length - 1],
-      'description': csvLine['description'],
-      'stock_level': Math.floor(Math.random() * 10000),
-      'price': parseFloat(csvLine['retail_price']),
-      'sale': Math.random() < 0.25,
-      'sale_price': parseFloat(csvLine['discounted_price']),
-      'stock_keeping_unit': csvLine['pid'],
-      'image': imagesData,
-      'attributes': variantAttributes
+      id: csvLine['uniq_id'],
+      name: categoryTree[categoryTree.length - 1],
+      description: csvLine['description'],
+      stockLevel: Math.floor(Math.random() * 10000),
+      price: parseFloat(csvLine['retail_price']),
+      sale: Math.random() < 0.25,
+      salePrice: parseFloat(csvLine['discounted_price']),
+      stockKeepingUnit: csvLine['pid'],
+      image: imagesData,
+      attributes: variantAttributes
     });
   }
 }
 
-function writeJSON(list_meta) {
+function writeYAML(list_meta) {
   const outputDir = '../../data/catalog/';
   const dataset = list_meta.dataset;
   const filename = list_meta.filename;
   let item_list = [];
-
   for (let datasetIndex in dataset) {
     let newObj = {
+      // add placeholder to replace later with separator between all documents
+      separator: "xxx",
       id: datasetIndex
     };
     let item = dataset[datasetIndex];
@@ -191,73 +332,26 @@ function writeJSON(list_meta) {
     item_list.push(newObj);
   }
   fs.mkdirSync(outputDir, { recursive: true });
-  let filePath = outputDir + filename + '.yml';
-  fs.writeFileSync(filePath, yaml.safeDump({ items: item_list }));
+  let filePath = outputDir + filename + '.yaml';
+  let stream = yaml.safeDump(item_list);
+
+  // replace placeholder with '---' required by yaml-document-stream
+  stream = stream.replace(/- separator: xxx/g, '---');
+  fs.writeFileSync(filePath, stream);
 }
 
-function createFiles(splitFile) {
+function createFiles() {
   fs.createReadStream('flipkart_com-ecommerce_sample.csv')
     .pipe(csv())
     .on('data', parseInputLine)
     .on('end', () => {
-
       for (let resource of resources) {
-        writeJSON(resource);
+        writeYAML(resource);
       }
-
-      if (splitFile) {
-        numProducts = Object.keys(products).length;
-
-        if (numProducts > 1000) { // split up mutation if very large
-          const numSlices = 200;
-          const defaultSliceSize = Math.floor(numProducts / numSlices);
-          const productKeys = Object.keys(products);
-
-          let curKey = 0;
-
-          for (let i = 0; i < numSlices; i++) {
-            const thisDataSlice = {};
-            let sliceSize;
-
-            if (i === numSlices - 1) {
-              sliceSize = numProducts - (numSlices - 1) * defaultSliceSize;
-            } else {
-              sliceSize = defaultSliceSize;
-            }
-
-            for (let count = 0; count < sliceSize; count++) {
-              thisDataSlice[productKeys[curKey]] = products[productKeys[curKey]];
-              curKey++;
-            }
-
-            let filename;
-
-            if (i < 10) {
-              filename = 'Products00' + String(i);
-            } else if (i < 100) {
-              filename = 'Products0' + String(i);
-            } else {
-              filename = 'Products' + String(i);
-            }
-
-            writeJSON({
-              dataset: thisDataSlice,
-              filename: filename
-            });
-          }
-        } else {
-          writeJSON({
-            dataset: products,
-            filename: 'createProducts'
-          });
-        }
-      } else {
-        writeJSON({
-          dataset: products,
-          filename: 'createProducts'
-        });
-      }
+      writeYAML({
+        dataset: products,
+        filename: 'createProducts'
+      });
     });
 }
-
 createFiles(false);
