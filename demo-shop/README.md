@@ -23,8 +23,12 @@ to import the data locally or into the production environment.
 Current supported jobs are:
 
 - identity (imports `users`, `roles`, `rules`, `policies` and `policy_sets`)
-- master (imports master data resources `country`, `time_zone`, `locale`, `tax_types` and `commands`)
-- extra (import resources `organizations`, `addresses`, `contact_point_types`, `contact_points`, `fulfillment_couriers` and `manufacturers`)
+- master (imports master data resources `country`, `time_zone`, `locale`,
+ `tax_types` and `commands`)
+- extra (import resources `organizations`, `addresses`, `contact_point_types`, 
+`contact_points`, `fulfillment_couriers` and `manufacturers`)
+- catalog (import resources `price_group`, `manufacturer`, `product_category`, 
+  `product_prototype`, `product`)
 
 Script usage:
 
@@ -34,8 +38,8 @@ Generate catalog datasets using [`transform.js script`](./generator/catalog/tran
 Import datasets using [`import.js script`](./import.js):  
 - `node import.js import -t <access_token> -j <job>`
 
-Import catalog datasets, the source must be specified as this data is generated
-in another path:  
+Import catalog data. When importing catalog data, the source must be specified
+ as-well, as this data is generated in a different path:  
 - `node import.js import -t <access_token> -j catalog -s catalog>`
 
 Supported environment variables: `GQL_ENDPOINT`.
