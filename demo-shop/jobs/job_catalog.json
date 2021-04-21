@@ -14,18 +14,21 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "createManufacturers.yaml",
+      "batchSize": 500,
       "mutation": "mutation{ catalog { manufacturer { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "createProductCategories.yaml",
+      "batchSize": 500,
       "mutation": "mutation{ catalog { product_category { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "createProductPrototypes.yaml",
+      "batchSize": 500,
       "mutation": "mutation{ catalog { product_prototype { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
