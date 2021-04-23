@@ -31,6 +31,7 @@ Current supported jobs are:
   `product_prototype`, `product`)
 
 > NOTE: Resources must be imported in a specific order!
+> Master > Identity > Extra > Catalog.
 
 Script usage:
 
