@@ -30,6 +30,8 @@ Current supported jobs are:
 - catalog (import resources `price_group`, `manufacturer`, `product_category`, 
   `product_prototype`, `product`)
 
+> NOTE: Resources must be imported in a specific order!
+
 Script usage:
 
 Generate catalog datasets using [`transform.js script`](./generator/catalog/transform.js):  
