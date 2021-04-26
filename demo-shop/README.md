@@ -32,6 +32,10 @@ Current supported jobs are:
 
 > NOTE: Resources must be imported in a specific order!
 > Master > Identity > Extra > Catalog.
+> 
+> For the case when importing resources returns "Access denied", one way to fix
+> this is to restart `facade-srv` in order to sync the api key with the other
+> upstream services.
 
 Script usage:
 
