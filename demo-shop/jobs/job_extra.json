@@ -33,12 +33,6 @@
       "src": "./data/",
       "filter": "fulfillment_couriers.yaml",
       "mutation": "mutation{ fulfillment { fulfillment_courier { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
-    },
-    {
-      "operation": "sync",
-      "src": "./data/",
-      "filter": "manufacturers.yaml",
-      "mutation": "mutation MutateManufacturers($var: [IIoRestorecommerceManufacturerManufacturer!]!){ catalog { manufacturer { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     }
   ]
 }

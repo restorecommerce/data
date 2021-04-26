@@ -1,269 +1,273 @@
-resource_list:
-  - id: 255f94aa15664d58baa4bf7a06a85681
-    name: maria.mustersuper
-    firstName: Maria
-    lastName: Mustersuper
-    email: maria.mustersuper@restorecommerce.io
-    password: rcsuperpw
-    defaultScope: ce79782cbd064389aaf66d280d3a6c06
-    roleAssociations:
-      - role: superadmininistrator-r-id
-        attributes: []
-        id: ""
-    localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-    timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:user.User
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: 255f94aa15664d58baa4bf7a06a85681
-    newEmail: ""
-    active: false
-    activationCode: ""
-    passwordHash: ""
-    unauthenticated: false
-    guest: false
-    image:
+---
+  id: 255f94aa15664d58baa4bf7a06a85681
+  name: maria.mustersuper
+  firstName: Maria
+  lastName: Mustersuper
+  email: maria.mustersuper@restorecommerce.io
+  password: rcsuperpw
+  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  roleAssociations:
+    - role: superadmininistrator-r-id
+      attributes: []
       id: ""
-      caption: ""
-      filename: ""
-      contentType: ""
-      url: ""
-      width: 0
-      height: 0
-      length: 0
-    userType: "ORG_USER"
-    invite: false
-    invitedByUserName: ""
-    invitedByUserFirstName: ""
-    invitedByUserLastName: ""
-    tokens: []
-    lastLogin: 0
-    lastAccess: 0
-  - id: 355f94aa15664d58baa4bf7a06a85681
-    name: manuel.musteradmin
-    firstName: Manuel
-    lastName: Musteradmin
-    email: manuel.musteradmin@restorecommerce.io
-    password: rcadminpw
-    defaultScope: ce79782cbd064389aaf66d280d3a6c06
-    roleAssociations:
-      - role: user-r-id
-        id: ""
-        attributes:
-          - id: urn:restorecommerce:acs:names:roleScopingEntity
-            value: urn:restorecommerce:acs:model:organization.Organization
-          - id: urn:restorecommerce:acs:names:roleScopingInstance
-            value: ce79782cbd064389aaf66d280d3a6c06
-      - role: administrator-r-id
-        id: ""
-        attributes:
-          - id: urn:restorecommerce:acs:names:roleScopingEntity
-            value: urn:restorecommerce:acs:model:organization.Organization
-          - id: urn:restorecommerce:acs:names:roleScopingInstance
-            value: ce79782cbd064389aaf66d280d3a6c06
-    localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-    timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:user.User
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: 355f94aa15664d58baa4bf7a06a85681
-    newEmail: ""
-    active: false
-    activationCode: ""
-    passwordHash: ""
-    unauthenticated: false
-    guest: false
-    image:
+  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
+  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: 255f94aa15664d58baa4bf7a06a85681
+  newEmail: ""
+  active: false
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens: []
+  lastLogin: 0
+  lastAccess: 0
+---
+  id: 355f94aa15664d58baa4bf7a06a85681
+  name: manuel.musteradmin
+  firstName: Manuel
+  lastName: Musteradmin
+  email: manuel.musteradmin@restorecommerce.io
+  password: rcadminpw
+  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  roleAssociations:
+    - role: user-r-id
       id: ""
-      caption: ""
-      filename: ""
-      contentType: ""
-      url: ""
-      width: 0
-      height: 0
-      length: 0
-    userType: "ORG_USER"
-    invite: false
-    invitedByUserName: ""
-    invitedByUserFirstName: ""
-    invitedByUserLastName: ""
-    tokens: [ ]
-    lastLogin: 0
-    lastAccess: 0
-  - id: 455f94aa15664d58baa4bf7a06a85681
-    name: kurt.kunde
-    firstName: Kurt
-    lastName: Kunde
-    email: kurt.kunde@restorecommerce.io
-    password: rccustomer1pw
-    defaultScope: ce79782cbd064389aaf66d280d3a6c06
-    roleAssociations:
-      - role: user-r-id
-        id: ""
-        attributes:
-          - id: urn:restorecommerce:acs:names:roleScopingEntity
-            value: urn:restorecommerce:acs:model:organization.Organization
-          - id: urn:restorecommerce:acs:names:roleScopingInstance
-            value: ce79782cbd064389aaf66d280d3a6c06
-    localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-    timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
+        - id: urn:restorecommerce:acs:names:roleScopingInstance
           value: ce79782cbd064389aaf66d280d3a6c06
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:user.User
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: 455f94aa15664d58baa4bf7a06a85681
-    newEmail: ""
-    active: false
-    activationCode: ""
-    passwordHash: ""
-    unauthenticated: false
-    guest: false
-    image:
+    - role: administrator-r-id
       id: ""
-      caption: ""
-      filename: ""
-      contentType: ""
-      url: ""
-      width: 0
-      height: 0
-      length: 0
-    userType: "ORG_USER"
-    invite: false
-    invitedByUserName: ""
-    invitedByUserFirstName: ""
-    invitedByUserLastName: ""
-    tokens: [ ]
-    lastLogin: 0
-    lastAccess: 0
-  - id: 555f94aa15664d58baa4bf7a06a85681
-    name: katrin.kundin
-    firstName: Katrin
-    lastName: Kundin
-    email: katrin.kundin@restorecommerce.io
-    password: rccustomer2pw
-    defaultScope: ce79782cbd064389aaf66d280d3a6c06
-    roleAssociations:
-      - role: user-r-id
-        id: ""
-        attributes:
-          - id: urn:restorecommerce:acs:names:roleScopingEntity
-            value: urn:restorecommerce:acs:model:organization.Organization
-          - id: urn:restorecommerce:acs:names:roleScopingInstance
-            value: ce79782cbd064389aaf66d280d3a6c06
-    localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-    timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
+        - id: urn:restorecommerce:acs:names:roleScopingInstance
           value: ce79782cbd064389aaf66d280d3a6c06
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:user.User
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: 555f94aa15664d58baa4bf7a06a85681
-    newEmail: ""
-    active: false
-    activationCode: ""
-    passwordHash: ""
-    unauthenticated: false
-    guest: false
-    image:
+  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
+  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: 355f94aa15664d58baa4bf7a06a85681
+  newEmail: ""
+  active: false
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens: [ ]
+  lastLogin: 0
+  lastAccess: 0
+---
+  id: 455f94aa15664d58baa4bf7a06a85681
+  name: kurt.kunde
+  firstName: Kurt
+  lastName: Kunde
+  email: kurt.kunde@restorecommerce.io
+  password: rccustomer1pw
+  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  roleAssociations:
+    - role: user-r-id
       id: ""
-      caption: ""
-      filename: ""
-      contentType: ""
-      url: ""
-      width: 0
-      height: 0
-      length: 0
-    userType: "ORG_USER"
-    invite: false
-    invitedByUserName: ""
-    invitedByUserFirstName: ""
-    invitedByUserLastName: ""
-    tokens: [ ]
-    lastLogin: 0
-    lastAccess: 0
-  - id: 655f94aa15664d58baa4bf7a06a85681
-    name: karl.kunde
-    firstName: Karl
-    lastName: Kunde
-    email: karl.kunde@restorecommerce.io
-    password: rccustomer3pw
-    defaultScope: ce79782cbd064389aaf66d280d3a6c06
-    roleAssociations:
-      - role: user-r-id
-        id: ""
-        attributes:
-          - id: urn:restorecommerce:acs:names:roleScopingEntity
-            value: urn:restorecommerce:acs:model:organization.Organization
-          - id: urn:restorecommerce:acs:names:roleScopingInstance
-            value: ce79782cbd064389aaf66d280d3a6c06
-    localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-    timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
+        - id: urn:restorecommerce:acs:names:roleScopingInstance
           value: ce79782cbd064389aaf66d280d3a6c06
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:user.User
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: 655f94aa15664d58baa4bf7a06a85681
-    newEmail: ""
-    active: false
-    activationCode: ""
-    passwordHash: ""
-    unauthenticated: false
-    guest: false
-    image:
+  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
+  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: 455f94aa15664d58baa4bf7a06a85681
+  newEmail: ""
+  active: false
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens: [ ]
+  lastLogin: 0
+  lastAccess: 0
+---
+  id: 555f94aa15664d58baa4bf7a06a85681
+  name: katrin.kundin
+  firstName: Katrin
+  lastName: Kundin
+  email: katrin.kundin@restorecommerce.io
+  password: rccustomer2pw
+  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  roleAssociations:
+    - role: user-r-id
       id: ""
-      caption: ""
-      filename: ""
-      contentType: ""
-      url: ""
-      width: 0
-      height: 0
-      length: 0
-    userType: "ORG_USER"
-    invite: false
-    invitedByUserName: ""
-    invitedByUserFirstName: ""
-    invitedByUserLastName: ""
-    tokens: []
-    lastLogin: 0
-    lastAccess: 0
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:roleScopingInstance
+          value: ce79782cbd064389aaf66d280d3a6c06
+  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
+  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: 555f94aa15664d58baa4bf7a06a85681
+  newEmail: ""
+  active: false
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens: [ ]
+  lastLogin: 0
+  lastAccess: 0
+---
+  id: 655f94aa15664d58baa4bf7a06a85681
+  name: karl.kunde
+  firstName: Karl
+  lastName: Kunde
+  email: karl.kunde@restorecommerce.io
+  password: rccustomer3pw
+  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  roleAssociations:
+    - role: user-r-id
+      id: ""
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+        - id: urn:restorecommerce:acs:names:roleScopingInstance
+          value: ce79782cbd064389aaf66d280d3a6c06
+  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
+  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: 655f94aa15664d58baa4bf7a06a85681
+  newEmail: ""
+  active: false
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens: []
+  lastLogin: 0
+  lastAccess: 0

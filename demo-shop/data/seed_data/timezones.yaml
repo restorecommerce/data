@@ -1,25 +1,26 @@
-resource_list:
-  - id: 647ce9aabe574f5d9a6eb4ca755e52ed
-    value: Europe/Berlin
-    description: Central Europe
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-  - id: 9c141c6c821b475d99e1d7ffb3f5498c
-    value: Europe/London
-    description: Western Europe
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
+---
+  id: 647ce9aabe574f5d9a6eb4ca755e52ed
+  value: Europe/Berlin
+  description: Central Europe
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+---
+  id: 9c141c6c821b475d99e1d7ffb3f5498c
+  value: Europe/London
+  description: Western Europe
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06

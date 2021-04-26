@@ -1,55 +1,58 @@
-resource_list:
-  - name: health_check
-    id: 970a05e4-9b09-4076-a903-7fe361a449e5
-    parameters:
-      - field: service
-        description: Name of the service to be checked (not that a microservice may have more than one 'service'),
-        type: string_value
-        properties: ""
-    description: A microservice health check
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner: []
-  - name: restore
-    id: f0893c59-a2b5-450b-bbe8-002ac9c16265
-    parameters:
-      - field: data
-        description: "Data object containing a list of objects with restore data"
-        type: array_value
-        properties: ""
-#        properties:
-#          - field: entity
-#            description: Name of the entity to be restored
-#            type: string_value
-#          - field: base_offset
-#            description: Offset from which messages should be processed (integer; default is 0);
-#            type: number_value
-#          - field: ignore_offset
-#            description: List of topic offsets to be ignored while processing Kafka message
-#            type: array_value
-    description: Reprocess Apache Kafka event messages to restore system data.,
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner: []
-  - name: reset
-    id: c67058de-9c47-4f3e-bd12-85ce5675b04e
-    description: Reset system data and state (no parameters)
-    parameters: []
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner: []
-  - name: version
-    id: d4986062-14d1-441b-9e98-388d7f1c3e79
-    description: "Returns the NPM package and Node.js version of the implementing service"
-    parameters: []
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner: []
+---
+  id: 970a05e4-9b09-4076-a903-7fe361a449e5
+  name: health_check
+  description: A microservice health check
+  parameters:
+    - field: service
+      description: Name of the service to be checked (not that a microservice may have more than one 'service'),
+      type: string_value
+      properties: ""
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner: []
+---
+  id: f0893c59-a2b5-450b-bbe8-002ac9c16265
+  name: restore
+  description: Reprocess Apache Kafka event messages to restore system data.
+  parameters:
+    - field: data
+      description: "Data object containing a list of objects with restore data"
+      type: array_value
+      properties: ""
+#     properties:
+#       - field: entity
+#         description: Name of the entity to be restored
+#         type: string_value
+#       - field: base_offset
+#         description: Offset from which messages should be processed (integer; default is 0);
+#         type: number_value
+#       - field: ignore_offset
+#         description: List of topic offsets to be ignored while processing Kafka message
+#         type: array_value
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner: []
+---
+  id: c67058de-9c47-4f3e-bd12-85ce5675b04e
+  name: reset
+  description: Reset system data and state (no parameters)
+  parameters: []
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner: []
+---
+  id: d4986062-14d1-441b-9e98-388d7f1c3e79
+  name: version
+  description: "Returns the NPM package and Node.js version of the implementing service"
+  parameters: []
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner: []

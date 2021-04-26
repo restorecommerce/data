@@ -1,60 +1,63 @@
-resource_list:
-  - id: 6995abdf8eaa4781803fca6c8cf2128b
-    name: Germany
-    countryCode: DE
-    geographicalName: Germany
-    economicAreas:
-      - EEA
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-  - id: a7218c7890c9430da3f3d6fc3cd08e68
-    name: Switzerland
-    countryCode: CH
-    geographicalName: Switzerland
-    economicAreas: []
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-  - id: 551a0829c4be4351a879a1602c647697
-    name: Belgium
-    countryCode: BE
-    geographicalName: Belgium
-    economicAreas:
-      - EEA
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-  - id: 61609eef8f064fd2b47248e1cf193752
-    name: France
-    countryCode: FR
-    geographicalName: France
-    economicAreas:
-      - EEA
-    meta:
-      created: 0
-      modified: 0
-      modifiedBy: ""
-      owner:
-        - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:ownerInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
+---
+  id: 6995abdf8eaa4781803fca6c8cf2128b
+  name: Germany
+  countryCode: DE
+  geographicalName: Germany
+  economicAreas:
+    - EEA
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+---
+  id: a7218c7890c9430da3f3d6fc3cd08e68
+  name: Switzerland
+  countryCode: CH
+  geographicalName: Switzerland
+  economicAreas: []
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+---
+  id: 551a0829c4be4351a879a1602c647697
+  name: Belgium
+  countryCode: BE
+  geographicalName: Belgium
+  economicAreas:
+    - EEA
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
+---
+  id: 61609eef8f064fd2b47248e1cf193752
+  name: France
+  countryCode: FR
+  geographicalName: France
+  economicAreas:
+    - EEA
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: ce79782cbd064389aaf66d280d3a6c06
