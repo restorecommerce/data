@@ -1,6 +1,5 @@
 ---
-  id: 647ce9aabe574f5d9a6eb4ca755e52ed
-  value: Europe/Berlin
+  id: Europe/Berlin
   description: Central Europe
   meta:
     created: 0
@@ -12,8 +11,7 @@
       - id: urn:restorecommerce:acs:names:ownerInstance
         value: ce79782cbd064389aaf66d280d3a6c06
 ---
-  id: 9c141c6c821b475d99e1d7ffb3f5498c
-  value: Europe/London
+  id: Europe/London
   description: Western Europe
   meta:
     created: 0

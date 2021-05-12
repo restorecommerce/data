@@ -5,7 +5,7 @@
   email: contact@restorecommerce.io
   telephone: "+4971146051909"
   localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  timezoneId: Europe/Berlin
   contactPointTypeId: 4e0c902ce9ba44f9a5346d966e663534
   meta:
     created: 0
@@ -23,7 +23,7 @@
   email: shipping@restorecommerce.io
   telephone: "+491630000005"
   localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  timezoneId: Europe/Berlin
   contactPointTypeId: fb0457b6ea0b4f00b877e4167b0ed469
   meta:
     created: 0
@@ -41,7 +41,7 @@
   email: org1_billing@billing.co
   telephone: "+491630000002"
   localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  timezoneId: Europe/Berlin
   contactPointTypeId: 4e0c902ce9ba44f9a5346d966e663534
   meta:
     created: 0
@@ -59,7 +59,7 @@
   email: org1_shipping@shipping.co
   telephone: "+491630000005"
   localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  timezoneId: Europe/Berlin
   contactPointTypeId: fb0457b6ea0b4f00b877e4167b0ed469
   meta:
     created: 0
@@ -77,7 +77,7 @@
   email: org2_billing@billing.co
   telephone: "+491630000002"
   localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  timezoneId: Europe/Berlin
   contactPointTypeId: 4e0c902ce9ba44f9a5346d966e663534
   meta:
     created: 0
@@ -95,7 +95,7 @@
   email: org2_shipping@shipping.co
   telephone: "+491630000005"
   localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  timezoneId: Europe/Berlin
   contactPointTypeId: fb0457b6ea0b4f00b877e4167b0ed469
   meta:
     created: 0
