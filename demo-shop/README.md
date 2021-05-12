@@ -47,7 +47,7 @@ Import datasets using [`import.js script`](./import.js):
 
 Import catalog data. When importing catalog data, the source must be specified
  as-well, as this data is generated in a different path:  
-- `node import.js import -t <access_token> -j catalog -s catalog>`
+- `node import.js import -t <access_token> -j catalog -s catalog`
 
 Supported environment variables: `GQL_ENDPOINT`.
 
