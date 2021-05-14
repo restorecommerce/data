@@ -1,33 +1,30 @@
 ---
-  id: 7c15fc6a5ca441f8bc350bc5e0b54071
-  type: Value Added Tax
+  id: Value Added Tax
   description: Value Added Tax is imposed on each stage of the supply chain and ultimately
     charged in full to the final purchaser.
   meta:
     created: 0
     modified: 0
-    modifiedBy: ce79782cbd064389aaf66d280d3a6c06
+    modifiedBy: R UG
     owner:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: a665f95727d74c8abadc1751d9f9b26b
-  type: Tax-free
+  id: Tax-free
   description: Not subject to taxation.
   meta:
     created: 0
     modified: 0
-    modifiedBy: ce79782cbd064389aaf66d280d3a6c06
+    modifiedBy: R UG
     owner:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: 42936f7084a548c896ebad2d6b53ec7f
-  type: Sales Tax
+  id: Sales Tax
   description: Sales Tax is the style of tax often used in the USA, where many governmental
     entities impose their own tax on every purchase. It's typically added as a line
     item in the subtotal. Sales tax is collected on retail sales at the time of the
@@ -36,78 +33,74 @@
   meta:
     created: 0
     modified: 0
-    modifiedBy: ce79782cbd064389aaf66d280d3a6c06
+    modifiedBy: R UG
     owner:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: b897bed66f364f228b6552dffeb68990
-  type: Visitor's Tax
+  id: Visitor's Tax
   description: Tax to be payed for visitors of certain localities, such as health
     resorts.
   meta:
     created: 0
     modified: 0
-    modifiedBy: ce79782cbd064389aaf66d280d3a6c06
+    modifiedBy: R UG
     owner:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: 21850eb5d8464a60a69a7b704225c028
-  type: Corporate Tax
+  id: Corporate Tax
   description: A direct tax imposed by a jurisdiction on the income or capital of
     corporations or analogous legal entities
   meta:
     created: 0
     modified: 0
-    modifiedBy: ce79782cbd064389aaf66d280d3a6c06
+    modifiedBy: R UG
     owner:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: de70d69d68ae4fad958f79427f347494
-  type: Individual Income Tax
+  id: Individual Income Tax
   description: 'The individual income tax is levied on the wages, salaries, dividends,
   interest, and other income a person earns throughout the year. '
   meta:
     created: 0
     modified: 0
-    modifiedBy: ce79782cbd064389aaf66d280d3a6c06
+    modifiedBy: R UG
     owner:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: b300e0a92c1d4db49051d6fab36e998d
-  type: Real Estate Tax
+  id: Real Estate Tax
   description: Tax rate applied to a real estate property
   meta:
     created: 0
     modified: 0
-    modifiedBy: ce79782cbd064389aaf66d280d3a6c06
+    modifiedBy: R UG
     owner:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: 3c7416d5b28841399230497a3ec8a780
+  id: Property Tax
   type: Property Tax
   description: An ad valorem tax on the value of a property, usually levied on real
     estate
   meta:
     created: 0
     modified: 0
-    modifiedBy: ce79782cbd064389aaf66d280d3a6c06
+    modifiedBy: R UG
     owner:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG

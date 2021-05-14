@@ -1,6 +1,5 @@
 ---
-  id: 6995abdf8eaa4781803fca6c8cf2128b
-  name: Germany
+  id: Germany
   countryCode: DE
   geographicalName: Germany
   economicAreas:
@@ -13,10 +12,9 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: a7218c7890c9430da3f3d6fc3cd08e68
-  name: Switzerland
+  id: Switzerland
   countryCode: CH
   geographicalName: Switzerland
   economicAreas: []
@@ -28,10 +26,9 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: 551a0829c4be4351a879a1602c647697
-  name: Belgium
+  id: Belgium
   countryCode: BE
   geographicalName: Belgium
   economicAreas:
@@ -44,10 +41,9 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG
 ---
-  id: 61609eef8f064fd2b47248e1cf193752
-  name: France
+  id: France
   countryCode: FR
   geographicalName: France
   economicAreas:
@@ -60,4 +56,4 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: R UG

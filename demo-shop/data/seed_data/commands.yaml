@@ -1,6 +1,5 @@
 ---
-  id: 970a05e4-9b09-4076-a903-7fe361a449e5
-  name: health_check
+  id: health_check
   description: A microservice health check
   parameters:
     - field: service
@@ -13,8 +12,7 @@
     modifiedBy: ""
     owner: []
 ---
-  id: f0893c59-a2b5-450b-bbe8-002ac9c16265
-  name: restore
+  id: restore
   description: Reprocess Apache Kafka event messages to restore system data.
   parameters:
     - field: data
@@ -37,8 +35,7 @@
     modifiedBy: ""
     owner: []
 ---
-  id: c67058de-9c47-4f3e-bd12-85ce5675b04e
-  name: reset
+  id: reset
   description: Reset system data and state (no parameters)
   parameters: []
   meta:
@@ -47,8 +44,7 @@
     modifiedBy: ""
     owner: []
 ---
-  id: d4986062-14d1-441b-9e98-388d7f1c3e79
-  name: version
+  id: version
   description: "Returns the NPM package and Node.js version of the implementing service"
   parameters: []
   meta:
