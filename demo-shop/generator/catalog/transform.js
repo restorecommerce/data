@@ -20,7 +20,7 @@ const priceGroups = {
         },
         {
           id: "urn:restorecommerce:acs:names:ownerInstance",
-          value: "R UG"
+          value: "ce79782cbd064389aaf66d280d3a6c06"
         }
       ]
     }
@@ -39,7 +39,7 @@ const priceGroups = {
         },
         {
           id: "urn:restorecommerce:acs:names:ownerInstance",
-          value: "R UG"
+          value: "ce79782cbd064389aaf66d280d3a6c06"
         }
       ]
     }
@@ -58,7 +58,7 @@ const priceGroups = {
         },
         {
           id: "urn:restorecommerce:acs:names:ownerInstance",
-          value: "R UG"
+          value: "ce79782cbd064389aaf66d280d3a6c06"
         }
       ]
     }
@@ -120,7 +120,7 @@ function parseInputLine(csvLine) {
           },
           {
             id: "urn:restorecommerce:acs:names:ownerInstance",
-            value: "R UG"
+            value: "ce79782cbd064389aaf66d280d3a6c06"
           }
         ]
       }
@@ -181,7 +181,7 @@ function parseInputLine(csvLine) {
               },
               {
                 id: "urn:restorecommerce:acs:names:ownerInstance",
-                value: "R UG"
+                value: "ce79782cbd064389aaf66d280d3a6c06"
               }
             ]
           }
@@ -217,7 +217,7 @@ function parseInputLine(csvLine) {
               },
               {
                 id: "urn:restorecommerce:acs:names:ownerInstance",
-                value: "R UG"
+                value: "ce79782cbd064389aaf66d280d3a6c06"
               }
             ]
           }
@@ -255,7 +255,7 @@ function parseInputLine(csvLine) {
             },
             {
               id: "urn:restorecommerce:acs:names:ownerInstance",
-              value: "R UG"
+              value: "ce79782cbd064389aaf66d280d3a6c06"
             }
           ]
         },

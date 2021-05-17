@@ -22,7 +22,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: aabfb8ed51064baaa3eafe43d3d4c44e
   name: User read rule
@@ -53,7 +53,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: d892b81c25064a848f0dafb55093bbdf
   name: Organization read rule
@@ -84,7 +84,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: bbc1f8622b1049d9b54a66237d4fd651
   name: Address read rule
@@ -115,7 +115,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 4509c76b54c44d0584b2a652a789e44e
   name: ContactPoint read rule
@@ -146,7 +146,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 402e831240284451968457d2549d9ffb
   name: ContactPointType read rule
@@ -175,7 +175,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 19eefaa16fff42bf881c16eca946b029
   name: Locale read rule
@@ -204,7 +204,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 94140965831f46deb1eebf9ab36c4572
   name: Timezone read rule
@@ -233,7 +233,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 43cd9e2b462a426ca30d2a1bcb1e54c8
   name: Role read rule
@@ -264,7 +264,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: a0325bfbbdd84dd59274b09ca0c7e239
   name: Role SuperAdmin read rule
@@ -295,7 +295,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: f7ae06e4d33b4340b351945ed6339143
   name: Tax read rule
@@ -324,7 +324,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 72a509eeaf8e4f5ba999116c6c797f0b
   name: TaxType read rule
@@ -353,7 +353,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 0293e152015c41fb923e17c0589fe7d2
   name: Country read rule
@@ -382,7 +382,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 8f5fb142972e44ffbb136ca3770212da
   name: Register User rule
@@ -411,7 +411,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 27a50edd71d942e3b2812a30f1879acb
   name: User 'Forgot Password' rule
@@ -444,7 +444,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 50e5c475987c4a83bb1acd9ff84af090
   name: User 'ConfirmEmailChange' rule
@@ -477,7 +477,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: eeefbe2065c74c9d8ae7fa3e3ce7992e
   name: User Activation
@@ -510,7 +510,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: cc6e90accbb8453699fa658e1bc2f6c9
   name: User Account Rule
@@ -558,7 +558,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 2cda35a30992415b89066e06c09d9d4d
   name: User Admin Rule
@@ -587,7 +587,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 4f039ce5635e4cf0bb422dcd68f732c9
   name: Organization Admin Rule
@@ -616,7 +616,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 7d9561f3d6cb4a03bdcc56f75dc2776a
   name: Address Admin Rule
@@ -645,7 +645,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: b59a29b5b01e40d1ae5bb44240d906f7
   name: ContactPoint Admin Rule
@@ -674,7 +674,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 # Special Rules
 ---
   id: aa78cbecdbac4b53a914f5836b744c2d
@@ -704,7 +704,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 2769c1a7e09f4971ad04fcca39094c2fx
   name: ExecuteCommand Rule
@@ -733,7 +733,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: ff7da3d8aaca4b2cb66d324d4ff6f71d
   name: SuperAdmins Rule
@@ -758,7 +758,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 123d2f19370447ac82708c8a196bd3a9
   name: Order create read or modify rule
@@ -787,7 +787,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 7ccec95b94a04e08951e331fef59a9ee
   name: Order create read or modify rule
@@ -816,7 +816,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 033ac24c43664c5c92fd32b21b92dba9
   name: Customer read rule for Organizational Scope
@@ -847,7 +847,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: f22c7ec8c97b4dd385364219559b07e1
   name: Customer read rule for Independent User Scope
@@ -878,7 +878,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ## Product, Manufacturer, ProductPrototype, ProductCategory, PriceGroup - Master Data
 ---
   id: 5b78e4a1cc034ddb8d71d46dfd9a53f7
@@ -908,7 +908,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: f58d4fc3da244023a191c015b2b82786
   name: Manufacturer read rule
@@ -937,7 +937,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 4840a726a1d44ee78d207fa5cc85c024
   name: ProductPrototype read rule
@@ -966,7 +966,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: cafb58f0676c460f9034a697cd74b9df
   name: ProductCategory read rule
@@ -995,7 +995,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
   id: 5eb184be7cc145c9b4b0e230d74f1937
   name: PriceGroup read rule
@@ -1024,7 +1024,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 #ostorage rules -> Xingular
 ---
   id: 78f58e364c984b5f9945d993b64dd405
@@ -1054,4 +1054,4 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06

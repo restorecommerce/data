@@ -1,5 +1,6 @@
 ---
-  id: en_US
+  id: 397c2152a79f11e898d0529269fb1459
+  value: en_US
   description: English (US)
   meta:
     created: 0
@@ -9,9 +10,10 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
-  id: de_DE
+  id: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
+  value: de_DE
   description: Deutsch (Deutschland)
   meta:
     created: 0
@@ -21,4 +23,4 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06

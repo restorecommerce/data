@@ -1,5 +1,6 @@
 ---
-  id: R UG
+  id: ce79782cbd064389aaf66d280d3a6c06
+  name: R UG
   addressId: eb228fb0d80d4f4fa51e1a10d8668c1c
   contactPointIds:
     - 2a3f8a09e07b4abeab909faeb63c6158
@@ -22,9 +23,10 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: R UG
+        value: ce79782cbd064389aaf66d280d3a6c06
 ---
-  id: Test Organization 1
+  id: 6701b0f574e24c61af8391b5c28b1d08s
+  name: Test Organization 1
   contactPointIds:
     - 30db337d800f4b009c043e2d70d8f6f4
     - 40db337d800f4b009c043e2d70d8f6f4
@@ -47,9 +49,10 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: Test Organization 1
+        value: 6701b0f574e24c61af8391b5c28b1d08s
 ---
-  id: Test Organization 2
+  id: 7701b0f574e24c61af8391b5c28b1d08s
+  name: Test Organization 2
   contactPointIds:
     - 50db337d800f4b009c043e2d70d8f6f4
     - 60db337d800f4b009c043e2d70d8f6f4
@@ -72,4 +75,4 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: Test Organization 2
+        value: 7701b0f574e24c61af8391b5c28b1d08s
