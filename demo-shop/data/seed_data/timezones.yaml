@@ -1,6 +1,5 @@
 ---
   id: europe-berlin
-  value: Europe/Berlin
   description: Central Europe
   meta:
     created: 0
@@ -13,7 +12,6 @@
         value: r-ug
 ---
   id: europe-london
-  value: Europe/London
   description: Western Europe
   meta:
     created: 0
