@@ -4,9 +4,9 @@
   website: https://about.restorecommerce.io/
   email: contact@restorecommerce.io
   telephone: "+4971146051909"
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-  contactPointTypeId: 4e0c902ce9ba44f9a5346d966e663534
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeId: billing
   meta:
     created: 0
     modified: 0
@@ -15,16 +15,16 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug
 ---
   id: c0cd56ffc29f4a1189720a6db6f5abb0
   physicalAddressId: eb228fb0d80d4f4fa51e1a10d8668c1c
   website: https://about.restorecommerce.io/
   email: shipping@restorecommerce.io
   telephone: "+491630000005"
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-  contactPointTypeId: fb0457b6ea0b4f00b877e4167b0ed469
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeId: shipping
   meta:
     created: 0
     modified: 0
@@ -33,16 +33,16 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug
 ---
   id: 30db337d800f4b009c043e2d70d8f6f4
   physicalAddressId: 210eff6fc2f044dea7701e24a6b4ce0d
   website: org1.legal.de
   email: org1_billing@billing.co
   telephone: "+491630000002"
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-  contactPointTypeId: 4e0c902ce9ba44f9a5346d966e663534
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeId: billing
   meta:
     created: 0
     modified: 0
@@ -51,16 +51,16 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 6701b0f574e24c61af8391b5c28b1d08s
+        value: test-organization-1
 ---
   id: 40db337d800f4b009c043e2d70d8f6f4
   physicalAddressId: 210eff6fc2f044dea7701e24a6b4ce0d
   website: org1.legal.de
   email: org1_shipping@shipping.co
   telephone: "+491630000005"
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-  contactPointTypeId: fb0457b6ea0b4f00b877e4167b0ed469
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeId: shipping
   meta:
     created: 0
     modified: 0
@@ -69,16 +69,16 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 6701b0f574e24c61af8391b5c28b1d08s
+        value: test-organization-1
 ---
   id: 50db337d800f4b009c043e2d70d8f6f4
   physicalAddressId: 310eff6fc2f044dea7701e24a6b4ce0d
   website: org2.legal.de
   email: org2_billing@billing.co
   telephone: "+491630000002"
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-  contactPointTypeId: 4e0c902ce9ba44f9a5346d966e663534
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeId: billing
   meta:
     created: 0
     modified: 0
@@ -87,16 +87,16 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 7701b0f574e24c61af8391b5c28b1d08s
+        value: test-organization-2
 ---
   id: 60db337d800f4b009c043e2d70d8f6f4
   physicalAddressId: 310eff6fc2f044dea7701e24a6b4ce0d
   website: org2.legal.de
   email: org2_shipping@shipping.co
   telephone: "+491630000005"
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
-  contactPointTypeId: fb0457b6ea0b4f00b877e4167b0ed469
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeId: shipping
   meta:
     created: 0
     modified: 0
@@ -105,4 +105,4 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 7701b0f574e24c61af8391b5c28b1d08s
+        value: test-organization-2

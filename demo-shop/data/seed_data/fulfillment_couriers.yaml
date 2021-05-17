@@ -1,5 +1,5 @@
 ---
-  id: 397c2152a79f11e898d0529269fb1459
+  id: dhl
   name: DHL
   description: DHL service used for shipments
   meta:
@@ -10,9 +10,9 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug
 ---
-  id: 397c2152a79f11e898d0529269fb1258
+  id: ups
   name: UPS
   description: UPS service used for shipments
   meta:
@@ -23,4 +23,4 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug

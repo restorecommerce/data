@@ -5,7 +5,7 @@
   street: Ossietzkystraße
   buildingNumber: '4'
   region: Stuttgart
-  countryId: 6995abdf8eaa4781803fca6c8cf2128b
+  countryId: germany
   altitude: 0
   addressAddition:
     field1: ""
@@ -29,7 +29,7 @@
   street: Erste Teststraße
   buildingNumber: '1'
   region: Testregion
-  countryId: 6995abdf8eaa4781803fca6c8cf2128b
+  countryId: germany
   altitude: 0
   addressAddition:
     field1: ""
@@ -45,7 +45,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 6701b0f574e24c61af8391b5c28b1d08s
+        value: test-organization-1
 ---
   id: 310eff6fc2f044dea7701e24a6b4ce0d
   postcode: '34567'
@@ -53,7 +53,7 @@
   street: Zweite Teststraße
   buildingNumber: '1'
   region: Beispielregion
-  countryId: 6995abdf8eaa4781803fca6c8cf2128b
+  countryId: germany
   altitude: 0
   addressAddition:
     field1: ""
@@ -69,4 +69,4 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 7701b0f574e24c61af8391b5c28b1d08s
+        value: test-organization-2

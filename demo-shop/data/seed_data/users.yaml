@@ -5,13 +5,13 @@
   lastName: Mustersuper
   email: maria.mustersuper@restorecommerce.io
   password: rcsuperpw
-  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  defaultScope: r-ug
   roleAssociations:
     - role: superadmininistrator-r-id
       attributes: []
       id: ""
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+  localeId: de-de
+  timezoneId: europe-berlin
   meta:
     created: 0
     modified: 0
@@ -20,7 +20,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -55,7 +55,7 @@
   lastName: Musteradmin
   email: manuel.musteradmin@restorecommerce.io
   password: rcadminpw
-  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  defaultScope: r-ug
   roleAssociations:
     - role: user-r-id
       id: ""
@@ -63,16 +63,16 @@
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
         - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
+          value: r-ug
     - role: administrator-r-id
       id: ""
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
         - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+          value: r-ug
+  localeId: de-de
+  timezoneId: europe-berlin
   meta:
     created: 0
     modified: 0
@@ -81,7 +81,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -116,7 +116,7 @@
   lastName: Kunde
   email: kurt.kunde@restorecommerce.io
   password: rccustomer1pw
-  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  defaultScope: r-ug
   roleAssociations:
     - role: user-r-id
       id: ""
@@ -124,9 +124,9 @@
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
         - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+          value: r-ug
+  localeId: de-de
+  timezoneId: europe-berlin
   meta:
     created: 0
     modified: 0
@@ -135,7 +135,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -170,7 +170,7 @@
   lastName: Kundin
   email: katrin.kundin@restorecommerce.io
   password: rccustomer2pw
-  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  defaultScope: r-ug
   roleAssociations:
     - role: user-r-id
       id: ""
@@ -178,9 +178,9 @@
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
         - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+          value: r-ug
+  localeId: de-de
+  timezoneId: europe-berlin
   meta:
     created: 0
     modified: 0
@@ -189,7 +189,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -224,7 +224,7 @@
   lastName: Kunde
   email: karl.kunde@restorecommerce.io
   password: rccustomer3pw
-  defaultScope: ce79782cbd064389aaf66d280d3a6c06
+  defaultScope: r-ug
   roleAssociations:
     - role: user-r-id
       id: ""
@@ -232,9 +232,9 @@
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
         - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: ce79782cbd064389aaf66d280d3a6c06
-  localeId: aa2c6c1ac28c4a3cbbafb4da3c1fef7a
-  timezoneId: 647ce9aabe574f5d9a6eb4ca755e52ed
+          value: r-ug
+  localeId: de-de
+  timezoneId: europe-berlin
   meta:
     created: 0
     modified: 0
@@ -243,7 +243,7 @@
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
-        value: ce79782cbd064389aaf66d280d3a6c06
+        value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
       - id: urn:restorecommerce:acs:names:ownerInstance
