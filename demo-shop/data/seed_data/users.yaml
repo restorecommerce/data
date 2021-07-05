@@ -46,7 +46,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: []
-  lastLogin: 0
   lastAccess: 0
 ---
   id: 355f94aa15664d58baa4bf7a06a85681
@@ -107,7 +106,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: [ ]
-  lastLogin: 0
   lastAccess: 0
 ---
   id: 455f94aa15664d58baa4bf7a06a85681
@@ -161,7 +159,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: [ ]
-  lastLogin: 0
   lastAccess: 0
 ---
   id: 555f94aa15664d58baa4bf7a06a85681
@@ -215,7 +212,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: [ ]
-  lastLogin: 0
   lastAccess: 0
 ---
   id: 655f94aa15664d58baa4bf7a06a85681
@@ -269,5 +265,4 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: []
-  lastLogin: 0
   lastAccess: 0
