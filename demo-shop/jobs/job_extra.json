@@ -8,25 +8,25 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "addresses.yaml",
-      "mutation": "mutation{ resource { address { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}}, operationStatus { code message } } } }}"
+      "mutation": "mutation{ resource { address { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "contact_point_types.yaml",
-      "mutation": "mutation{ resource { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}}, operationStatus { code message } } } }}"
+      "mutation": "mutation{ resource { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "contact_points.yaml",
-      "mutation": "mutation{ resource { contact_point { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}}, operationStatus { code message } } } }}"
+      "mutation": "mutation{ resource { contact_point { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "organizations.yaml",
-      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ resource { organization { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}}, operationStatus { code message } } } }}"
+      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ resource { organization { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }

@@ -8,13 +8,13 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "roles.yaml",
-      "mutation": "mutation mutateRoles($var: [IIoRestorecommerceRoleRole!]!){ identity { role { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}}, operationStatus { code message } } } }}"
+      "mutation": "mutation mutateRoles($var: [IIoRestorecommerceRoleRole!]!){ identity { role { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "users.yaml",
-      "mutation": "mutation mutateUsers($var: [IIoRestorecommerceUserUser!]!){ identity { user { Mutate( input: { items: $var, totalCount: 0,  mode: CREATE } ) { details{items {status {id, code, message}}}, operationStatus { code message } } } }}"
+      "mutation": "mutation mutateUsers($var: [IIoRestorecommerceUserUser!]!){ identity { user { Mutate( input: { items: $var, totalCount: 0,  mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }  } } } }}"
     }
   ]
 }
