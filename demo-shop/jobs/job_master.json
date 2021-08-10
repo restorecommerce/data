@@ -8,31 +8,31 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "countries.yaml",
-      "mutation": "mutation{ resource { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ resource { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "timezones.yaml",
-      "mutation": "mutation{ resource { timezone { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ resource { timezone { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "locales.yaml",
-      "mutation": "mutation{ resource { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ resource { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "tax_types.yaml",
-      "mutation": "mutation{ resource { tax_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ resource { tax_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "operation": "sync",
       "src": "./data/",
       "filter": "commands.yaml",
-      "mutation": "mutation mutateCommands($var: [IIoRestorecommerceCommandCommand!]!){ resource { command { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation mutateCommands($var: [IIoRestorecommerceCommandCommand!]!){ resource { command { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     }
   ]
 }
