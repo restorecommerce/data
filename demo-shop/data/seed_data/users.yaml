@@ -266,3 +266,58 @@
   invitedByUserLastName: ""
   tokens: []
   lastAccess: 0
+---
+  id: upsert_user_tokens
+  name: upsert_user_tokens
+  firstName: Upsert
+  lastName: Tokens
+  email: upsert_user_tokens@restorecommerce.io
+  password: rcsuperpw
+  defaultScope: ""
+  roleAssociations:
+    - id: superadmininistrator-r-role-assoc-id
+      role: superadmininistrator-r-id
+      attributes: []
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    created: 0
+    modified: 0
+    modifiedBy: ""
+    owner:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: upsert_user_tokens
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "TECHNICAL_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: upsert_token
+      expiresIn: 0
+      token: 123099ffc93b44f6b4a81b1e5589b642
+      type: upsert_token
+      scopes:
+        - superadmininistrator-r-role-assoc-id
+  lastAccess: 0
