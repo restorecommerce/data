@@ -16,7 +16,7 @@
     "uuid": "^3.3.3"
   },
   "devDependencies": {
-    "@types/node": "^12.11.2"
+    "@types/node": "^12.20.54"
   },
   "scripts": {},
   "engines": {
