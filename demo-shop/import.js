@@ -76,7 +76,7 @@ async function commandDataImport(cmd) {
 
     const jobProcessor = new JobProcessor(job);
 
-    const jobResult = await jobProcessor.start();
+    const jobResult = await jobProcessor.start(null, null, !!cmd.verbose, !!cmd.ignore);
     jobResult.on('progress', (task) => {
       console.log('Progress :', task.basename);
     });
@@ -110,6 +110,8 @@ async function importData() {
     .option('-p, --port <port>', 'target port', undefined)
     .option('-s, --source <data_source>', 'data source to import from', 'seed_data')
     .option('-j, --job <job>', 'list of jobs to process', (v, p) => p.concat(v), [])
+    .option('-i, --ignore', 'ignore errors and don\'t stop', false)
+    .option('-v, --verbose', 'verbose output', false)
     .action(commandDataImport);
 
   program

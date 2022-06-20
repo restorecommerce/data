@@ -5,30 +5,35 @@
   },
   "tasks": [
     {
+      "name": "countries",
       "operation": "sync",
       "src": "./data/",
       "filter": "countries.yaml",
       "mutation": "mutation{ resource { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
+      "name": "timezones",
       "operation": "sync",
       "src": "./data/",
       "filter": "timezones.yaml",
       "mutation": "mutation{ resource { timezone { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
+      "name": "locales",
       "operation": "sync",
       "src": "./data/",
       "filter": "locales.yaml",
       "mutation": "mutation{ resource { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
+      "name": "tax_types",
       "operation": "sync",
       "src": "./data/",
       "filter": "tax_types.yaml",
       "mutation": "mutation{ resource { tax_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
+      "name": "commands",
       "operation": "sync",
       "src": "./data/",
       "filter": "commands.yaml",

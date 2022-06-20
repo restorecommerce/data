@@ -5,12 +5,14 @@
   },
   "tasks": [
     {
+      "name": "price_groups",
       "operation": "sync",
       "src": "./data/",
       "filter": "createPriceGroups.yaml",
       "mutation": "mutation{ catalog { price_group { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
+      "name": "manufacturers",
       "operation": "sync",
       "src": "./data/",
       "filter": "createManufacturers.yaml",
@@ -18,6 +20,7 @@
       "mutation": "mutation{ catalog { manufacturer { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
+      "name": "product_categories",
       "operation": "sync",
       "src": "./data/",
       "filter": "createProductCategories.yaml",
@@ -25,6 +28,7 @@
       "mutation": "mutation{ catalog { product_category { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
+      "name": "product_prototypes",
       "operation": "sync",
       "src": "./data/",
       "filter": "createProductPrototypes.yaml",
@@ -32,6 +36,7 @@
       "mutation": "mutation{ catalog { product_prototype { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
     },
     {
+      "name": "products",
       "operation": "sync",
       "src": "./data/",
       "filter": "createProducts.yaml",
