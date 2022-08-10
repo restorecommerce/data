@@ -9,7 +9,7 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "createPriceGroups.yaml",
-      "mutation": "mutation{ catalog { price_group { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ catalog { price_group { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "manufacturers",
@@ -17,7 +17,7 @@
       "src": "./data/",
       "filter": "createManufacturers.yaml",
       "batchSize": 500,
-      "mutation": "mutation{ catalog { manufacturer { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ catalog { manufacturer { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "product_categories",
@@ -25,7 +25,7 @@
       "src": "./data/",
       "filter": "createProductCategories.yaml",
       "batchSize": 500,
-      "mutation": "mutation{ catalog { product_category { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ catalog { product_category { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "product_prototypes",
@@ -33,7 +33,7 @@
       "src": "./data/",
       "filter": "createProductPrototypes.yaml",
       "batchSize": 500,
-      "mutation": "mutation{ catalog { product_prototype { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ catalog { product_prototype { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "products",
@@ -41,7 +41,7 @@
       "src": "./data/",
       "filter": "createProducts.yaml",
       "batchSize": 500,
-      "mutation": "mutation{ catalog { product { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { status { key code message } } } }}"
+      "mutation": "mutation{ catalog { product { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     }
   ]
 }
