@@ -13,7 +13,6 @@
   logo: http://console:80/templates/logos/PNG/X_Logo.png
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: []
-  childrenIds: []
   parentId: ""
   meta:
     created: 0
@@ -39,7 +38,6 @@
   logo: ""
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: [ ]
-  childrenIds: [ ]
   parentId: ""
   meta:
     created: 0
@@ -65,7 +63,6 @@
   logo: ""
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: [ ]
-  childrenIds: [ ]
   parentId: ""
   meta:
     created: 0
