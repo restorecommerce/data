@@ -26,7 +26,7 @@ Current supported jobs are:
 - master (imports master data resources `country`, `time_zone`, `locale`,
  `tax_types` and `commands`)
 - extra (import resources `organizations`, `addresses`, `contact_point_types`, 
-`contact_points`, `fulfillment_couriers` and `manufacturers`)
+`contact_points`)
 - catalog (import resources `price_group`, `manufacturer`, `product_category`, 
   `product_prototype`, `product`)
 
