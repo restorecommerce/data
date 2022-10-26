@@ -239,7 +239,7 @@ function parseInputLine(csvLine) {
           manufacturerId: brandHash,
           taricCode: uuid.v4(), // no data available
           variants: [],
-          taxTypeId: [
+          taxId: [
             makeUUID()
           ],
           gtin: makeUUID()
@@ -270,36 +270,39 @@ function parseInputLine(csvLine) {
     }
     // raw attribute list has the form {"product_specification"=>[{"key"=>"a","value"=>"b"}, {"key"=>"c","value"=>"d"}]}
     const variantAttributes = csvLine['product_specifications'].slice(28, -3).split('}, {').map(spec => {
-      let key, values;
+      // id, value are string
+      let id, value, attribute = [];
 
       const elems = spec.split('\", \"');
 
       // some elements are value-only
       if (elems.length === 1) {
-        key = uuid.v4();
+        id = uuid.v4();
       } else {
-        key = elems[0].split('\"=>\"')[1];
+        id = (elems[0].split('\"=>\"')[1]);
+      }
+      value = elems[elems.length - 1].split('\"=>\"')[1].slice(0, -1)[0];
+      if (!value) {
+        value = 'm';
       }
 
-      values = elems[elems.length - 1].split('\"=>\"')[1].slice(0, -1);
-
-      return { key, values: values.split(', ') };
+      return { id, value, attribute };
     });
 
-    // values must be of string type, so we replace all numbers with a string
-    // to avoid GQL type error.
-    for (let i in variantAttributes) {
-      let vi = variantAttributes[i];
-      for (let i in vi) {
-        let viValues = vi['values'];
-        for (let i in viValues) {
-          let value = viValues[i];
-          if (isNaN(value) === false) {
-            viValues[i] = value + 'm';
-          }
-        }
-      }
-    }
+    // // values must be of string type, so we replace all numbers with a string
+    // // to avoid GQL type error.
+    // for (let i in variantAttributes) {
+    //   let vi = variantAttributes[i];
+    //   for (let i in vi) {
+    //     let viValues = vi['values'];
+    //     for (let i in viValues) {
+    //       let value = viValues[i];
+    //       if (isNaN(value) === false) {
+    //         viValues[i] = value + 'm';
+    //       }
+    //     }
+    //   }
+    // }
 
     products[productHash]['product']['variants'].push({
       id: csvLine['uniq_id'],
