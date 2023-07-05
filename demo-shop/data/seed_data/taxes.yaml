@@ -4,7 +4,7 @@
   type_id: value-added-tax
   variant: Reduced rate
   country_id: germany
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -15,7 +15,7 @@
   type_id: value-added-tax
   variant: Standard rate
   country_id: germany
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -26,7 +26,7 @@
   type_id: value-added-tax
   variant: Reduced rate
   country_id: switzerland
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -37,7 +37,7 @@
   type_id: value-added-tax
   variant: Reduced rate
   country_id: switzerland
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -48,7 +48,7 @@
   country_id: switzerland
   type_id: value-added-tax
   variant: Standard rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -59,7 +59,7 @@
   rate: 0.06
   type_id: value-added-tax
   variant: Reduced rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -70,7 +70,7 @@
   rate: 0.12
   type_id: value-added-tax
   variant: Reduced rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -81,7 +81,7 @@
   rate: 0.21
   type_id: value-added-tax
   variant: Standard rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -92,7 +92,7 @@
   rate: 0.12
   type_id: value-added-tax
   variant: Parking rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -103,7 +103,7 @@
   rate: 0.021
   type_id: value-added-tax
   variant: Super reduced rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -114,7 +114,7 @@
   rate: 0.055
   type_id: value-added-tax
   variant: Reduced rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -125,7 +125,7 @@
   rate: 0.1
   type_id: value-added-tax
   variant: Reduced rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance
@@ -136,7 +136,7 @@
   rate: 0.2
   type_id: value-added-tax
   variant: Standard rate
-  owner:
+  owners:
     - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
       value: urn:restorecommerce:acs:model:organization.Organization
     - id: urn:restorecommerce:acs:names:ownerInstance

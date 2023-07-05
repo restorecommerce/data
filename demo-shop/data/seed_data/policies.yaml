@@ -8,8 +8,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:user.User
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - aabfb8ed51064baaa3eafe43d3d4c44e  # Organization-scoped reads
     - 8f5fb142972e44ffbb136ca3770212da  # Unauthenticated user can register its account
@@ -24,7 +24,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -40,8 +40,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:organization.Organization
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - d892b81c25064a848f0dafb55093bbdf  # Reads
     - 4f039ce5635e4cf0bb422dcd68f732c9  # Admin
@@ -52,7 +52,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -67,8 +67,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:address.Address
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - bbc1f8622b1049d9b54a66237d4fd651  # Reads
     - 7d9561f3d6cb4a03bdcc56f75dc2776a  # Admin
@@ -78,7 +78,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -94,8 +94,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:contact_point.ContactPoint
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 4509c76b54c44d0584b2a652a789e44e  # Reads
     - b59a29b5b01e40d1ae5bb44240d906f7  # Admin
@@ -106,7 +106,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -121,8 +121,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:contact_point_type.ContactPointType
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 402e831240284451968457d2549d9ffb  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -132,7 +132,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -147,8 +147,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:tax.Tax
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - f7ae06e4d33b4340b351945ed6339143  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -158,7 +158,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -173,8 +173,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:tax_type.TaxType
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 72a509eeaf8e4f5ba999116c6c797f0b  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -184,7 +184,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -199,8 +199,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:country.Country
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 0293e152015c41fb923e17c0589fe7d2  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -210,7 +210,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -225,8 +225,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:role.Role
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 43cd9e2b462a426ca30d2a1bcb1e54c8  # Reads
     - a0325bfbbdd84dd59274b09ca0c7e239  # Deny access to SuperAdmin Role
@@ -236,7 +236,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -251,8 +251,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:locale.Locale
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 19eefaa16fff42bf881c16eca946b029  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -262,7 +262,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -277,8 +277,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:timezone.Timezone
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 94140965831f46deb1eebf9ab36c4572  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -288,7 +288,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -300,17 +300,17 @@
   evaluationCacheable: false
   effect: PERMIT
   target:
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:execute
-    subject: [ ]
+    subjects: [ ]
     resources: [ ]
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -329,8 +329,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:command.Command
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
@@ -339,7 +339,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -354,8 +354,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:job.Job
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
@@ -364,7 +364,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -379,8 +379,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:policy_set.PolicySet
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
@@ -389,7 +389,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -404,8 +404,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:policy.Policy
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
@@ -414,7 +414,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -429,8 +429,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:rule.Rule
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
@@ -439,7 +439,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -454,8 +454,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 123d2f19370447ac82708c8a196bd3a9  # Permit: normal user under an Org scope
     - 7ccec95b94a04e08951e331fef59a9ee  # Permit: normal user who owns the resource and not bounded to any organization
@@ -466,7 +466,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -482,8 +482,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:customer.Customer
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 033ac24c43664c5c92fd32b21b92dba9  # Permit: normal user under an Org scope
     - f22c7ec8c97b4dd385364219559b07e1  # Permit: normal user who owns the resource and not bounded to any organization
@@ -494,7 +494,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -509,8 +509,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:product.Product
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 5b78e4a1cc034ddb8d71d46dfd9a53f7  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -520,7 +520,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -535,8 +535,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:manufacturer.Manufacturer
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - f58d4fc3da244023a191c015b2b82786  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -546,7 +546,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -561,8 +561,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:product_prototype.ProductPrototype
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 4840a726a1d44ee78d207fa5cc85c024  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -572,7 +572,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -587,8 +587,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:product_category.ProductCategory
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - cafb58f0676c460f9034a697cd74b9df  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -598,7 +598,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -613,8 +613,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:price_group.PriceGroup
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 5eb184be7cc145c9b4b0e230d74f1937  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -624,7 +624,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -640,8 +640,8 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:ostorage.Ostorage
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   rules:
     - 78f58e364c984b5f9945d993b64dd405  # Reads
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
@@ -651,7 +651,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance

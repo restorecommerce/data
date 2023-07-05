@@ -7,7 +7,7 @@
     created: 0
     modified: 0
     modifiedBy: r-ug
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -20,7 +20,7 @@
     created: 0
     modified: 0
     modifiedBy: r-ug
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -37,7 +37,7 @@
     created: 0
     modified: 0
     modifiedBy: r-ug
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -51,7 +51,7 @@
     created: 0
     modified: 0
     modifiedBy: r-ug
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -65,7 +65,7 @@
     created: 0
     modified: 0
     modifiedBy: r-ug
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -79,7 +79,7 @@
     created: 0
     modified: 0
     modifiedBy: r-ug
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -92,7 +92,7 @@
     created: 0
     modified: 0
     modifiedBy: r-ug
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -106,7 +106,7 @@
     created: 0
     modified: 0
     modifiedBy: r-ug
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance

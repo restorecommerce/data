@@ -4,10 +4,10 @@
   description: Fallback rule
   effect: DENY
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action: []
+    actions: []
     resources: []
   condition: ""
   evaluationCacheable: false
@@ -18,7 +18,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -28,12 +28,12 @@
   name: User read rule
   description: Permits any read if the resource is under an organizational hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -49,7 +49,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -59,12 +59,12 @@
   name: Organization read rule
   description: Permits any read if the resource is under an organizational hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -80,7 +80,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -90,12 +90,12 @@
   name: Address read rule
   description: Permits any read if the resource is under an organizational hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -111,7 +111,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -121,12 +121,12 @@
   name: ContactPoint read rule
   description: Permits any read if the resource is under an organizational hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -142,7 +142,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -152,10 +152,10 @@
   name: ContactPointType read rule
   description: Permits read for all users in any Organization
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -171,7 +171,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -181,10 +181,10 @@
   name: Locale read rule
   description: Permits read for all users in any Organization
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -200,7 +200,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -210,10 +210,10 @@
   name: Timezone read rule
   description: Permits read for all users
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -229,7 +229,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -239,12 +239,12 @@
   name: Role read rule
   description: Only Admin should be allowed to read all Roles in system
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:role
         value: dfcfe667eb614cc1864b3c723297240a # Admin
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -260,7 +260,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -270,10 +270,10 @@
   name: Role SuperAdmin read rule
   description: SuperAdmin role should not be readable
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -291,7 +291,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -301,10 +301,10 @@
   name: Tax read rule
   description: Permits read for all users in any Organization
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -320,7 +320,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -330,10 +330,10 @@
   name: TaxType read rule
   description: Permits read for all users in any Organization
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -349,7 +349,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -359,10 +359,10 @@
   name: Country read rule
   description: Permits read for all users in any Organization
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -378,7 +378,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -388,10 +388,10 @@
   name: Register User rule
   description: Targets register
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:unauthenticated-user
         value: "true"
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:create
     resources:
@@ -407,7 +407,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -417,10 +417,10 @@
   name: User 'Forgot Password' rule
   description: Permits 'modify'  by unauthenticated users on their password
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:unauthenticated-user
         value: "true"
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:modify
     resources:
@@ -440,7 +440,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -450,10 +450,10 @@
   name: User 'ConfirmEmailChange' rule
   description: Permits 'modify'  by unauthenticated users on their password
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:unauthenticated-user
         value: "true"
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:modify
     resources:
@@ -473,7 +473,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -483,10 +483,10 @@
   name: User Activation
   description: Permits 'modify' by unauthenticated users in case of activation
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:unauthenticated-user
         value: "true"
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:modify
     resources:
@@ -506,7 +506,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -516,7 +516,7 @@
   name: User Account Rule
   description: Permits actions by any User on its own account data
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # Normal User
       - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -524,7 +524,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:user.User
-    action: []
+    actions: []
   condition: # if it's the User's own account const { target, context } = request; # context.resources[0].instance.id
     "
       const resources = target.resources;
@@ -554,7 +554,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -564,7 +564,7 @@
   name: User Admin Rule
   description: Permits if subject is Admin within the resource's hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: dfcfe667eb614cc1864b3c723297240a # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -572,7 +572,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:user.User
-    action: []
+    actions: []
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -583,7 +583,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -593,7 +593,7 @@
   name: Organization Admin Rule
   description: Permits if subject is Admin within the resource's hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: dfcfe667eb614cc1864b3c723297240a # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -601,7 +601,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:organization.Organization
-    action: []
+    actions: []
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -612,7 +612,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -622,7 +622,7 @@
   name: Address Admin Rule
   description: Permits if subject is Admin within the resource's hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: dfcfe667eb614cc1864b3c723297240a # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -630,7 +630,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:address.Address
-    action: []
+    actions: []
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -641,7 +641,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -651,7 +651,7 @@
   name: ContactPoint Admin Rule
   description: Permits if subject is Admin within the resource's hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: dfcfe667eb614cc1864b3c723297240a # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -659,7 +659,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:contact_point.ContactPoint
-    action: [ ]
+    actions: [ ]
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -670,7 +670,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -684,10 +684,10 @@
     resources:
       - id: urn:restorecommerce:acs:names:operation
         value: mutation.deleteOrgData
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:execute
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 78c2571c1bf8483285ca61633a24a451 # SuperAdmin
   effect: PERMIT
@@ -700,7 +700,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -713,10 +713,10 @@
     resources:
       - id: urn:restorecommerce:acs:names:operation
         value: mutation.executeCommand
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:execute
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 78c2571c1bf8483285ca61633a24a451 # SuperAdmin
   effect: PERMIT
@@ -729,7 +729,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -739,10 +739,10 @@
   name: SuperAdmins Rule
   description: Permit anything by SuperAdmins (fallback rule)
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 78c2571c1bf8483285ca61633a24a451 # SuperAdmin
-    action: [ ]
+    actions: [ ]
     resources: []
   effect: PERMIT
   condition: ""
@@ -754,7 +754,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -764,7 +764,7 @@
   name: Order create read or modify rule
   description: Permits Order create, read or modify under an organizational hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -772,7 +772,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
-    action: [ ]
+    actions: [ ]
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -783,7 +783,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -793,7 +793,7 @@
   name: Order create read or modify rule
   description: Permits Order create, read or modify under an user hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -801,7 +801,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
-    action: [ ]
+    actions: [ ]
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -812,7 +812,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -822,12 +822,12 @@
   name: Customer read rule for Organizational Scope
   description: Permits any read if the resource is under an organizational hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -843,7 +843,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -853,12 +853,12 @@
   name: Customer read rule for Independent User Scope
   description: Permits any read if the resource is under an user hierarchical scope
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:user.User
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -874,7 +874,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -885,10 +885,10 @@
   name: Product read rule
   description: Permits read for all users in any Organization or Independent user
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -904,7 +904,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -914,10 +914,10 @@
   name: Manufacturer read rule
   description: Permits read for all users in any Organization or Independent user
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -933,7 +933,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -943,10 +943,10 @@
   name: ProductPrototype read rule
   description: Permits read for all users in any Organization or Independent user
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -962,7 +962,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -972,10 +972,10 @@
   name: ProductCategory read rule
   description: Permits read for all users in any Organization or Independent user
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -991,7 +991,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -1001,10 +1001,10 @@
   name: PriceGroup read rule
   description: Permits read for all users in any Organization or Independent user
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
-    action:
+    actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
@@ -1020,7 +1020,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
@@ -1031,7 +1031,7 @@
   name: Object Storage rule
   description: Allows normal user to perform CRUD on Object storage data on his organization
   target:
-    subject:
+    subjects:
       - id: urn:restorecommerce:acs:names:role
         value: 95a9302f65434061a3f33e9197c7af24 # Normal User
       - id: urn:restorecommerce:acs:names:roleScopingEntity
@@ -1039,7 +1039,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:ostorage.Ostorage
-    action: []
+    actions: []
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -1050,7 +1050,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance

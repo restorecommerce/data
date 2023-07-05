@@ -5,8 +5,8 @@
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
   target:
     resources: [ ]
-    subject: [ ]
-    action: [ ]
+    subjects: [ ]
+    actions: [ ]
   policies:
     - 5d60775c1943479b90203fc32f3b15e3
     - 5d60775c1943479b90203fc32f3b15e3
@@ -38,7 +38,7 @@
     created: 0
     modified: 0
     modifiedBy: ""
-    owner:
+    owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
