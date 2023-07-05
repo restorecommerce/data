@@ -34,15 +34,3 @@
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:ownerInstance
         value: r-ug
----
-  id: legal-address
-  type: legal-address
-  meta:
-    created: 0
-    modified: 0
-    modifiedBy: ""
-    owner:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
