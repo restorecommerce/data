@@ -12,15 +12,15 @@ const priceGroups = {
     meta: {
       created: 0,
       modified: 0,
-      modifiedBy: "",
-      owner: [
+      modifiedBy: '',
+      owners: [
         {
-          id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
-          value: "urn:restorecommerce:acs:model:organization.Organization"
+          id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
+          value: 'urn:restorecommerce:acs:model:organization.Organization'
         },
         {
-          id: "urn:restorecommerce:acs:names:ownerInstance",
-          value: "ce79782cbd064389aaf66d280d3a6c06"
+          id: 'urn:restorecommerce:acs:names:ownerInstance',
+          value: 'ce79782cbd064389aaf66d280d3a6c06'
         }
       ]
     }
@@ -31,15 +31,15 @@ const priceGroups = {
     meta: {
       created: 0,
       modified: 0,
-      modifiedBy: "",
-      owner: [
+      modifiedBy: '',
+      owners: [
         {
-          id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
-          value: "urn:restorecommerce:acs:model:organization.Organization"
+          id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
+          value: 'urn:restorecommerce:acs:model:organization.Organization'
         },
         {
-          id: "urn:restorecommerce:acs:names:ownerInstance",
-          value: "ce79782cbd064389aaf66d280d3a6c06"
+          id: 'urn:restorecommerce:acs:names:ownerInstance',
+          value: 'ce79782cbd064389aaf66d280d3a6c06'
         }
       ]
     }
@@ -50,19 +50,19 @@ const priceGroups = {
     meta: {
       created: 0,
       modified: 0,
-      modifiedBy: "",
-      owner: [
+      modifiedBy: '',
+      owners: [
         {
-          id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
-          value: "urn:restorecommerce:acs:model:organization.Organization"
+          id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
+          value: 'urn:restorecommerce:acs:model:organization.Organization'
         },
         {
-          id: "urn:restorecommerce:acs:names:ownerInstance",
-          value: "ce79782cbd064389aaf66d280d3a6c06"
+          id: 'urn:restorecommerce:acs:names:ownerInstance',
+          value: 'ce79782cbd064389aaf66d280d3a6c06'
         }
       ]
     }
-  },
+  }
 }; // no data available
 
 const prodCategories = {};
@@ -86,7 +86,7 @@ const resources = [
   {
     dataset: prodPrototypes,
     filename: 'createProductPrototypes'
-  },
+  }
 ];
 
 function makeUUID() {
@@ -95,10 +95,12 @@ function makeUUID() {
 
 function parseInputLine(csvLine) {
   // sanity check
-  if (!csvLine['retail_price']
-    || !csvLine['brand']
-    || !csvLine['product_specifications']
-    || csvLine['product_specifications'] === "{\"product_specification\"=>nil}") {
+  if (
+    !csvLine['retail_price'] ||
+    !csvLine['brand'] ||
+    !csvLine['product_specifications'] ||
+    csvLine['product_specifications'] === '{"product_specification"=>nil}'
+  ) {
     return;
   }
 
@@ -112,15 +114,15 @@ function parseInputLine(csvLine) {
       meta: {
         created: 0,
         modified: 0,
-        modifiedBy: "",
-        owner: [
+        modifiedBy: '',
+        owners: [
           {
-            id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
-            value: "urn:restorecommerce:acs:model:organization.Organization"
+            id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
+            value: 'urn:restorecommerce:acs:model:organization.Organization'
           },
           {
-            id: "urn:restorecommerce:acs:names:ownerInstance",
-            value: "ce79782cbd064389aaf66d280d3a6c06"
+            id: 'urn:restorecommerce:acs:names:ownerInstance',
+            value: 'ce79782cbd064389aaf66d280d3a6c06'
           }
         ]
       }
@@ -133,8 +135,8 @@ function parseInputLine(csvLine) {
   const imagesData = csvLine.image
     .slice(1, -1)
     .split(', ')
-    .map(imgUrlRaw => imgUrlRaw.slice(1, -1)) // remove quotes
-    .map(imgUrl => {
+    .map((imgUrlRaw) => imgUrlRaw.slice(1, -1)) // remove quotes
+    .map((imgUrl) => {
       // image types: specifying url and filename should be sufficient
       return {
         id: makeUUID(),
@@ -144,7 +146,7 @@ function parseInputLine(csvLine) {
         contentType: 'test',
         width: 123,
         height: 123,
-        length: 123,
+        length: 123
       };
     });
 
@@ -167,27 +169,27 @@ function parseInputLine(csvLine) {
         const priceGroupIdStr = String(Math.floor(Math.random() * 3));
         prodCategories[categoryLevelHash] = {
           name: categoryTree[index],
-          description: "Dummy description for category " + categoryTree[index],
+          description: 'Dummy description for category ' + categoryTree[index],
           image: categoryImgData,
           priceGroupId: priceGroupIdStr.toString(),
           meta: {
             created: 0,
             modified: 0,
-            modifiedBy: "",
-            owner: [
+            modifiedBy: '',
+            owners: [
               {
-                id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
-                value: "urn:restorecommerce:acs:model:organization.Organization"
+                id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
+                value: 'urn:restorecommerce:acs:model:organization.Organization'
               },
               {
-                id: "urn:restorecommerce:acs:names:ownerInstance",
-                value: "ce79782cbd064389aaf66d280d3a6c06"
+                id: 'urn:restorecommerce:acs:names:ownerInstance',
+                value: 'ce79782cbd064389aaf66d280d3a6c06'
               }
             ]
           }
         };
         if (lastCategory != null) {
-          prodCategories[categoryLevelHash]['parent'] = { 'parentId': hash(lastCategory) };
+          prodCategories[categoryLevelHash]['parent'] = { parentId: hash(lastCategory) };
         }
       }
 
@@ -205,19 +207,19 @@ function parseInputLine(csvLine) {
           name: prototypeCat,
           description: 'Dummy description for prototype ' + prototypeCat,
           categoryId: hash(categoryTree[categoryTree.length - 3]),
-          version: "test",
+          version: 'test',
           meta: {
             created: 0,
             modified: 0,
-            modifiedBy: "",
-            owner: [
+            modifiedBy: '',
+            owners: [
               {
-                id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
-                value: "urn:restorecommerce:acs:model:organization.Organization"
+                id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
+                value: 'urn:restorecommerce:acs:model:organization.Organization'
               },
               {
-                id: "urn:restorecommerce:acs:names:ownerInstance",
-                value: "ce79782cbd064389aaf66d280d3a6c06"
+                id: 'urn:restorecommerce:acs:names:ownerInstance',
+                value: 'ce79782cbd064389aaf66d280d3a6c06'
               }
             ]
           }
@@ -235,27 +237,25 @@ function parseInputLine(csvLine) {
         product: {
           id: productHash,
           name: productEntry,
-          description: "Dummy description for product " + productEntry,
+          description: 'Dummy description for product ' + productEntry,
           manufacturerId: brandHash,
           taricCode: uuid.v4(), // no data available
           variants: [],
-          taxId: [
-            makeUUID()
-          ],
+          taxId: [makeUUID()],
           gtin: makeUUID()
         },
         meta: {
           created: 0,
           modified: 0,
-          modifiedBy: "",
-          owner: [
+          modifiedBy: '',
+          owners: [
             {
-              id: "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
-              value: "urn:restorecommerce:acs:model:organization.Organization"
+              id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
+              value: 'urn:restorecommerce:acs:model:organization.Organization'
             },
             {
-              id: "urn:restorecommerce:acs:names:ownerInstance",
-              value: "ce79782cbd064389aaf66d280d3a6c06"
+              id: 'urn:restorecommerce:acs:names:ownerInstance',
+              value: 'ce79782cbd064389aaf66d280d3a6c06'
             }
           ]
         },
@@ -269,25 +269,30 @@ function parseInputLine(csvLine) {
       }
     }
     // raw attribute list has the form {"product_specification"=>[{"key"=>"a","value"=>"b"}, {"key"=>"c","value"=>"d"}]}
-    const variantAttributes = csvLine['product_specifications'].slice(28, -3).split('}, {').map(spec => {
-      // id, value are string
-      let id, value, attribute = [];
+    const variantAttributes = csvLine['product_specifications']
+      .slice(28, -3)
+      .split('}, {')
+      .map((spec) => {
+        // id, value are string
+        let id,
+          value,
+          attribute = [];
 
-      const elems = spec.split('\", \"');
+        const elems = spec.split('", "');
 
-      // some elements are value-only
-      if (elems.length === 1) {
-        id = uuid.v4();
-      } else {
-        id = (elems[0].split('\"=>\"')[1]);
-      }
-      value = elems[elems.length - 1].split('\"=>\"')[1].slice(0, -1)[0];
-      if (!value) {
-        value = 'm';
-      }
+        // some elements are value-only
+        if (elems.length === 1) {
+          id = uuid.v4();
+        } else {
+          id = elems[0].split('"=>"')[1];
+        }
+        value = elems[elems.length - 1].split('"=>"')[1].slice(0, -1)[0];
+        if (!value) {
+          value = 'm';
+        }
 
-      return { id, value, attribute };
-    });
+        return { id, value, attribute };
+      });
 
     // // values must be of string type, so we replace all numbers with a string
     // // to avoid GQL type error.
@@ -327,7 +332,7 @@ function writeYAML(list_meta) {
   for (let datasetIndex in dataset) {
     let newObj = {
       // add placeholder to replace later with separator between all documents
-      separator: "xxx",
+      separator: 'xxx',
       id: datasetIndex
     };
     let item = dataset[datasetIndex];
