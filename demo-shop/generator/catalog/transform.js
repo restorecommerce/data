@@ -280,12 +280,7 @@ function parseInputLine(csvLine) {
 
         const elems = spec.split('", "');
 
-        // some elements are value-only
-        if (elems.length === 1) {
-          id = uuid.v4();
-        } else {
-          id = elems[0].split('"=>"')[1];
-        }
+        id = elems.length === 1 ? uuid.v4() : elems[0].split('"=>"')[1];
         value = elems[elems.length - 1].split('"=>"')[1].slice(0, -1)[0];
         if (!value) {
           value = 'm';
