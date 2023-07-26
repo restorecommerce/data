@@ -316,7 +316,7 @@
   tokens:
     - name: upsert_token
       expiresIn: 0
-      token: 123099ffc93b44f6b4a81b1e5589b642
+      token: change.this.token.number
       type: upsert_token
       scopes:
         - superadmininistrator-r-role-assoc-id
