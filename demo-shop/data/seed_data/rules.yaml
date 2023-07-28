@@ -6,7 +6,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions: []
     resources: []
   condition: ""
@@ -15,8 +15,6 @@
     filters: []
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -30,7 +28,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions:
@@ -46,8 +44,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -61,7 +57,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions:
@@ -77,8 +73,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -92,7 +86,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions:
@@ -108,8 +102,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -123,7 +115,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions:
@@ -139,8 +131,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -154,7 +144,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -168,8 +158,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -183,7 +171,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -197,8 +185,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -212,7 +198,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -226,8 +212,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -241,9 +225,9 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:role
-        value: dfcfe667eb614cc1864b3c723297240a # Admin
+        value: administrator-r-id # Admin
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -257,8 +241,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -272,7 +254,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -280,7 +262,7 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:role.Role
       - id: urn:oasis:names:tc:xacml:1.0:resource:resource-id
-        value: 78c2571c1bf8483285ca61633a24a451
+        value: superadministrator-r-id
   effect: DENY
   condition: ""
   evaluationCacheable: false
@@ -288,8 +270,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -303,7 +283,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -317,8 +297,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -332,7 +310,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -346,8 +324,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -361,7 +337,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -375,8 +351,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -404,8 +378,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -437,8 +409,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -470,8 +440,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -503,8 +471,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -518,7 +484,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # Normal User
+        value: user-r-id # Normal User
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     resources:
@@ -551,8 +517,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -566,7 +530,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: dfcfe667eb614cc1864b3c723297240a # Admin
+        value: administrator-r-id # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     resources:
@@ -580,8 +544,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -595,7 +557,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: dfcfe667eb614cc1864b3c723297240a # Admin
+        value: administrator-r-id # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     resources:
@@ -609,8 +571,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -624,7 +584,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: dfcfe667eb614cc1864b3c723297240a # Admin
+        value: administrator-r-id # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     resources:
@@ -638,8 +598,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -653,7 +611,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: dfcfe667eb614cc1864b3c723297240a # Admin
+        value: administrator-r-id # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     resources:
@@ -667,8 +625,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -689,7 +645,7 @@
         value: urn:restorecommerce:acs:names:action:execute
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 78c2571c1bf8483285ca61633a24a451 # SuperAdmin
+        value: superadministrator-r-id # SuperAdmin
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -697,8 +653,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -718,7 +672,7 @@
         value: urn:restorecommerce:acs:names:action:execute
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 78c2571c1bf8483285ca61633a24a451 # SuperAdmin
+        value: superadministrator-r-id # SuperAdmin
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -726,8 +680,7 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
+    
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -741,7 +694,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 78c2571c1bf8483285ca61633a24a451 # SuperAdmin
+        value: superadministrator-r-id # SuperAdmin
     actions: [ ]
     resources: []
   effect: PERMIT
@@ -751,8 +704,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -766,7 +717,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     resources:
@@ -780,8 +731,6 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
@@ -795,7 +744,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:user.User
     resources:
@@ -809,14 +758,13 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 033ac24c43664c5c92fd32b21b92dba9
   name: Customer read rule for Organizational Scope
@@ -824,7 +772,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions:
@@ -840,14 +788,13 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: f22c7ec8c97b4dd385364219559b07e1
   name: Customer read rule for Independent User Scope
@@ -855,7 +802,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:user.User
     actions:
@@ -871,14 +818,13 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ## Product, Manufacturer, ProductPrototype, ProductCategory, PriceGroup - Master Data
 ---
   id: 5b78e4a1cc034ddb8d71d46dfd9a53f7
@@ -887,7 +833,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -901,14 +847,13 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: f58d4fc3da244023a191c015b2b82786
   name: Manufacturer read rule
@@ -916,7 +861,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -930,14 +875,13 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 4840a726a1d44ee78d207fa5cc85c024
   name: ProductPrototype read rule
@@ -945,7 +889,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -959,14 +903,13 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: cafb58f0676c460f9034a697cd74b9df
   name: ProductCategory read rule
@@ -974,7 +917,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -988,14 +931,13 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 5eb184be7cc145c9b4b0e230d74f1937
   name: PriceGroup read rule
@@ -1003,7 +945,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # NormalUser
+        value: user-r-id # NormalUser
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -1017,15 +959,13 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
-#ostorage rules -> Xingular
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 78f58e364c984b5f9945d993b64dd405
   name: Object Storage rule
@@ -1033,7 +973,7 @@
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
-        value: 95a9302f65434061a3f33e9197c7af24 # Normal User
+        value: user-r-id # Normal User
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     resources:
@@ -1047,11 +987,229 @@
     filters: [ ]
     query: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: 98f58e364c984b5f9945d993b64dd405
+  name: Token create rule
+  description: Permit create access to the token resource owned by user
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:token.Token
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:create
+  condition:
+    "
+      const resources = context.resources;
+      let match = false;
+      let owner;
+      for (let resource of resources) {
+         match = false;
+         if (resource && resource.meta && resource.meta.owner) {
+           owner = resource.meta.owner;
+         }
+         for (let ownerObj of owner) {
+           if (ownerObj && ownerObj.attributes.length > 0) {
+             // ownerObj.id == 'urn:restorecommerce:acs:names:ownerInstance'
+             for (let ownerInst of ownerObj.attributes) {
+               if (ownerInst.id == 'urn:restorecommerce:acs:names:ownerInstance') {
+                 if (ownerInst.value == context.subject.id) {
+                   match = true;
+                   break;
+                 }
+               }
+             }
+           }
+         }
+      }
+      match;
+    "
+  effect: PERMIT
+  evaluationCacheable: true
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: 99f58e364c984b5f9945d993b64dd405
+  name: Token modify rule
+  description: Permit modify access to the token resource owned by user
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:token.Token
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:modify
+  condition:
+    "
+      const resources = context.resources;
+      let match = false;
+      let owner;
+      for (let resource of resources) {
+         match = false;
+         if (resource && resource.meta && resource.meta.owner) {
+           owner = resource.meta.owner;
+         }
+         for (let ownerObj of owner) {
+           if (ownerObj && ownerObj.attributes.length > 0) {
+             // ownerObj.id == 'urn:restorecommerce:acs:names:ownerInstance'
+             for (let ownerInst of ownerObj.attributes) {
+               if (ownerInst.id == 'urn:restorecommerce:acs:names:ownerInstance') {
+                 if (ownerInst.value == context.subject.id) {
+                   match = true;
+                   break;
+                 }
+               }
+             }
+           }
+         }
+      }
+      match;
+    "
+  effect: PERMIT
+  evaluationCacheable: true
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: 10g58e364c984b5f9945d993b64dd405
+  name: Token delete rule
+  description: Permit delete access to the token resource owned by user
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:token.Token
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:delete
+  condition:
+    "
+      const resources = context.resources;
+      let match = false;
+      let owner;
+      for (let resource of resources) {
+         match = false;
+         if (resource && resource.meta && resource.meta.owner) {
+           owner = resource.meta.owner;
+         }
+         for (let ownerObj of owner) {
+           if (ownerObj && ownerObj.attributes.length > 0) {
+             // ownerObj.id == 'urn:restorecommerce:acs:names:ownerInstance'
+             for (let ownerInst of ownerObj.attributes) {
+               if (ownerInst.id == 'urn:restorecommerce:acs:names:ownerInstance') {
+                 if (ownerInst.value == context.subject.id) {
+                   match = true;
+                   break;
+                 }
+               }
+             }
+           }
+         }
+      }
+      match;
+    "
+  effect: PERMIT
+  evaluationCacheable: true
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: 11g58e364c984b5f9945d993b64dd405
+  name: Token read rule
+  description: Permit read access to the token resource owned by user
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:token.Token
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+  condition:
+    "
+      let filter = context.subject.id;
+      filter;
+    "
+  effect: PERMIT
+  evaluationCacheable: true
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: 98f1994dcfb24471ab29b38b527da7a4
+  name: Token Admin rule
+  description: Permit CRMD to token resource by admin user
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: administrator-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:token.Token
+  effect: PERMIT
+  evaluationCacheable: true
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: 81f58e364c984b5f9945d993b64dd405
+  name: Object Storage rule for the internal bucket
+  description: Allows unauthenticated-user to read Object storage data from the internal bucket
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:unauthenticated-user
+        value: "true"
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:internal.Internal
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+  effect: PERMIT
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug

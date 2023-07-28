@@ -1,7 +1,6 @@
 ---
   id: r-ug
   name: R UG
-  addressId: eb228fb0d80d4f4fa51e1a10d8668c1c
   contactPointIds:
     - 2a3f8a09e07b4abeab909faeb63c6158
     - c0cd56ffc29f4a1189720a6db6f5abb0
@@ -10,66 +9,64 @@
   vatId: DE312349168
   isicV4: J
   registration: "760574"
-  logo: http://console:80/templates/logos/PNG/X_Logo.png
+  logo: 
+    url: http://console:80/templates/logos/PNG/X_Logo.png
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: []
   parentId: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: test-organization-1
   name: Test Organization 1
   contactPointIds:
     - 30db337d800f4b009c043e2d70d8f6f4
     - 40db337d800f4b009c043e2d70d8f6f4
-  addressId: 210eff6fc2f044dea7701e24a6b4ce0d
   website: https://org1.io
   email: info@org1.test
   vatId: "7891011"
   isicV4: J
   registration: "99999999"
-  logo: ""
+  logo: 
+    url: ""
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: [ ]
   parentId: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: test-organization-1
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-1
 ---
   id: test-organization-2
   name: Test Organization 2
   contactPointIds:
     - 50db337d800f4b009c043e2d70d8f6f4
     - 60db337d800f4b009c043e2d70d8f6f4
-  addressId: 310eff6fc2f044dea7701e24a6b4ce0d
   website: https://org2.io
   email: info@org2.test
   vatId: "7891011"
   isicV4: J
   registration: "99999999"
-  logo: ""
+  logo: 
+    url: ""
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: [ ]
   parentId: ""
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: test-organization-2
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-2

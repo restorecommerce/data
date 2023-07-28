@@ -21,14 +21,13 @@
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
   id: 21fa3c8b4fc742488396aea901a608f0
@@ -49,14 +48,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 70b2edc30a9a4a62b4d4f648605c66f3
   name: Addresses policy
@@ -75,14 +73,13 @@
     - fbff989edf064ae680ccd9df7c946f3f  # Deny
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
   id: 9820ca010d0240908cafbd02dcd925ac
@@ -103,14 +100,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: a9a2530ce0fb46bd86215398ee7014ec
   name: ContactPointType policy
@@ -129,14 +125,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 64c0e2881cb94219a4fd066be81bb7e9
   name: Taxes policy
@@ -155,14 +150,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 1be990cb7de14e32ac6079ebe54168b9
   name: TaxType policy
@@ -181,14 +175,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: ebc7029ac7d6401f9f280948f54d9ec2
   name: Countries policy
@@ -207,14 +200,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 28a5482e84ba426dafd648a01e4918a5
   name: Roles policy
@@ -233,14 +225,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: ceb1e8c3c5b94865ba742a0d904c43f6
   name: Locales policy
@@ -259,14 +250,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: bc094dabf358485d859a01dcd0fc52fe
   name: Timezones policy
@@ -285,14 +275,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 4f7596a4ea75406ba010ace4a9d4471a
   name: Execute-Action Policy
@@ -307,14 +296,13 @@
     resources: [ ]
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
   rules:
     - aa78cbecdbac4b53a914f5836b744c2d  # DeleteOrgData
     - 2769c1a7e09f4971ad04fcca39094c2fx # ExecuteCommand
@@ -336,14 +324,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: d710bc27cbbf48cd93c899509e7aff5c
   name: Jobs Policy
@@ -361,14 +348,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 9420abd50e7648479ad9126f93404a8b
   name: PolicySets Policy
@@ -386,14 +372,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 0a7803e4d79f4b2abdd9868dd4b00ebe
   name: Policy-Resource Policy
@@ -411,14 +396,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 4447e1f02840420797876c17f6451d68
   name: Rule Policy
@@ -436,14 +420,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 45624a6ccab6472a8e7d5314cba011c7
   name: Orders Policy
@@ -463,14 +446,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # Permit: SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ## Customers policy and 5 Products policy
 ---
   id: 478ec535a3664016a28991bf757eeeec
@@ -491,14 +473,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # Permit: SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: abc7029ac7d6401f9f280948f54d9ec2
   name: Products policy
@@ -517,14 +498,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: c6f5aacece6e4ae4be306f8377548736
   name: Manufacturer's policy
@@ -543,14 +523,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 5fa4af8f43dd43b58194d7575e29245b
   name: ProductPrototype policy
@@ -569,14 +548,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 383fb654e8b846b5b812a9b110194f74
   name: ProductCategory policy
@@ -595,14 +573,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 8a99bd194f5546cbbbf3ff8e6fe033ff
   name: PriceGroup policy
@@ -621,14 +598,13 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 #ostorage policy -> Xingular
 ---
   id: 2b8faa02dd4140aeb14ca94f23b4f058
@@ -648,11 +624,57 @@
     - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: 80d27d0a1123456dbc228dc69ccd651d
+  name: Token Policy
+  description: Targets `Token` resource
+  target:
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:token.Token
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+  evaluationCacheable: true
+  rules:
+    - 98f58e364c984b5f9945d993b64dd405  # user-r-id create rule
+    - 99f58e364c984b5f9945d993b64dd405  # user-r-id modify rule
+    - 10g58e364c984b5f9945d993b64dd405  # user-r-id delete rule
+    - 11g58e364c984b5f9945d993b64dd405  # user-r-id read rule
+    - 98f1994dcfb24471ab29b38b527da7a4  # admin CRMD rule
+    - fbff989edf064ae680ccd9df7c946f3f  # fallback Deny rule
+    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # superAdmin rule
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: 2e8faa02dd4140aeb14ca94f23b4f058
+  name: Ostorage policy for internal bucket
+  description: Targets access to the ostorage resource for internal bucket
+  target:
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:internal.Internal
+  rules:
+    - 81f58e364c984b5f9945d993b64dd405  # normal user
+    - fbff989edf064ae680ccd9df7c946f3f  # Deny
+    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug

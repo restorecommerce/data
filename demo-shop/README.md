@@ -56,7 +56,26 @@ to import the data locally or into the production environment.
 
 All flags are optional, and they can be listed by typing `node import.js -h`.
 The API key can be obtained from the [`facade-srv`](https://github.com/restorecommerce/facade-srv/blob/master/cfg/config.json#L21) configuration.
-The API key should be: `dbcccf4037d64a6194db7dd3237ce6d3`.
+The API key is generated during system startup from the `facade-srv` (Check the log message of facade-srv `Bootstrap API Key is`).
 
 By default, the GraphQL importer uses the configuration file `config.json` to read data regarding endpoints for retrieving the API key
 and executing mutations/ queries.
+
+## Object Importer
+
+To import the files, following settings needs to be configured in [config.json](cfg/config.json):
+* The base directory for import, 
+* GraphQL endpoint 
+* Bucket name for the storage-server
+
+Prerequisite: object importer should be build using `npm run build` command before importing objects.
+
+```sh
+# Run import in production-mode:
+npm run import-objects -- --apiKey=<access_token> -- --NODE_ENV=local
+
+# Run import in production-mode:
+npm run import-objects -- --apiKey=<access_token> -- --NODE_ENV=production
+# or:
+npm run import-objects -- --apiKey=<access_token> # default is development
+```

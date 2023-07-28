@@ -34,12 +34,13 @@
     - 383fb654e8b846b5b812a9b110194f74
     - 8a99bd194f5546cbbbf3ff8e6fe033ff
     - 2b8faa02dd4140aeb14ca94f23b4f058
+    - 80d27d0a1123456dbc228dc69ccd651d
+    - 2e8faa02dd4140aeb14ca94f23b4f058
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug

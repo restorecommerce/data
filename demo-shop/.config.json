@@ -4,5 +4,18 @@
   "endpoint": "/graphql",
   "job_prefix": "job_",
   "data_directory": "data",
-  "job_directory": "jobs"
+  "job_directory": "jobs",
+  "objectImport": {
+    "endpoint": {
+      "local": "http://127.0.0.1:5000/graphql/",
+      "production": "https://api.restorecommerce.io/graphql"
+    },
+    "baseDir": "objects/content",
+    "content": [
+      {
+        "dir": "internal",
+        "bucketName": "internal"
+      }
+    ]
+  }
 }

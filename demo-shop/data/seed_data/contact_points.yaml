@@ -6,16 +6,16 @@
   telephone: "+4971146051909"
   localeId: de-de
   timezoneId: europe-berlin
-  contactPointTypeId: billing
+  contactPointTypeIds:
+   - billing
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: c0cd56ffc29f4a1189720a6db6f5abb0
   physicalAddressId: eb228fb0d80d4f4fa51e1a10d8668c1c
@@ -24,16 +24,16 @@
   telephone: "+491630000005"
   localeId: de-de
   timezoneId: europe-berlin
-  contactPointTypeId: shipping
+  contactPointTypeIds:
+    - shipping
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
 ---
   id: 30db337d800f4b009c043e2d70d8f6f4
   physicalAddressId: 210eff6fc2f044dea7701e24a6b4ce0d
@@ -42,16 +42,16 @@
   telephone: "+491630000002"
   localeId: de-de
   timezoneId: europe-berlin
-  contactPointTypeId: billing
+  contactPointTypeIds:
+    - billing
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: test-organization-1
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-1
 ---
   id: 40db337d800f4b009c043e2d70d8f6f4
   physicalAddressId: 210eff6fc2f044dea7701e24a6b4ce0d
@@ -60,16 +60,16 @@
   telephone: "+491630000005"
   localeId: de-de
   timezoneId: europe-berlin
-  contactPointTypeId: shipping
+  contactPointTypeIds:
+    - shipping
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: test-organization-1
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-1
 ---
   id: 50db337d800f4b009c043e2d70d8f6f4
   physicalAddressId: 310eff6fc2f044dea7701e24a6b4ce0d
@@ -78,16 +78,16 @@
   telephone: "+491630000002"
   localeId: de-de
   timezoneId: europe-berlin
-  contactPointTypeId: billing
+  contactPointTypeIds:
+    - billing
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: test-organization-2
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-2
 ---
   id: 60db337d800f4b009c043e2d70d8f6f4
   physicalAddressId: 310eff6fc2f044dea7701e24a6b4ce0d
@@ -96,13 +96,13 @@
   telephone: "+491630000005"
   localeId: de-de
   timezoneId: europe-berlin
-  contactPointTypeId: shipping
+  contactPointTypeIds:
+    - shipping
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: test-organization-2
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-2

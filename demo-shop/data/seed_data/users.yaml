@@ -7,26 +7,26 @@
   password: rcsuperpw
   defaultScope: r-ug
   roleAssociations:
-    - role: superadmininistrator-r-id
+    - role: superadministrator-r-id
       attributes: []
       id: ""
   localeId: de-de
   timezoneId: europe-berlin
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 255f94aa15664d58baa4bf7a06a85681
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: 255f94aa15664d58baa4bf7a06a85681
   newEmail: ""
-  active: false
+  active: true
   activationCode: ""
   passwordHash: ""
   unauthenticated: false
@@ -61,32 +61,34 @@
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: r-ug
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: r-ug
     - role: administrator-r-id
       id: ""
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: r-ug
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: r-ug
   localeId: de-de
   timezoneId: europe-berlin
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 355f94aa15664d58baa4bf7a06a85681
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: 355f94aa15664d58baa4bf7a06a85681
   newEmail: ""
-  active: false
+  active: true
   activationCode: ""
   passwordHash: ""
   unauthenticated: false
@@ -121,25 +123,26 @@
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: r-ug
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: r-ug
   localeId: de-de
   timezoneId: europe-berlin
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 455f94aa15664d58baa4bf7a06a85681
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: 455f94aa15664d58baa4bf7a06a85681
   newEmail: ""
-  active: false
+  active: true
   activationCode: ""
   passwordHash: ""
   unauthenticated: false
@@ -174,25 +177,26 @@
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: r-ug
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: r-ug
   localeId: de-de
   timezoneId: europe-berlin
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 555f94aa15664d58baa4bf7a06a85681
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: 555f94aa15664d58baa4bf7a06a85681
   newEmail: ""
-  active: false
+  active: true
   activationCode: ""
   passwordHash: ""
   unauthenticated: false
@@ -227,25 +231,26 @@
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
-        - id: urn:restorecommerce:acs:names:roleScopingInstance
-          value: r-ug
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: r-ug
   localeId: de-de
   timezoneId: europe-berlin
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 655f94aa15664d58baa4bf7a06a85681
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: 655f94aa15664d58baa4bf7a06a85681
   newEmail: ""
-  active: false
+  active: true
   activationCode: ""
   passwordHash: ""
   unauthenticated: false
@@ -275,24 +280,24 @@
   password: rcsuperpw
   defaultScope: ""
   roleAssociations:
-    - id: superadmininistrator-r-role-assoc-id
-      role: superadmininistrator-r-id
+    - id: superadministrator-r-role-assoc-id
+      role: superadministrator-r-id
       attributes: []
   localeId: de-de
   timezoneId: europe-berlin
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: r-ug
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:user.User
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: upsert_user_tokens
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: upsert_user_tokens
   newEmail: ""
   active: true
   activationCode: ""
@@ -316,8 +321,8 @@
   tokens:
     - name: upsert_token
       expiresIn: 0
-      token: change.this.token.number
+      token: 123099ffc93b44f6b4a81b1e5589b642
       type: upsert_token
       scopes:
-        - superadmininistrator-r-role-assoc-id
+        - superadministrator-r-role-assoc-id
   lastAccess: 0

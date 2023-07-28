@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "outDir": "objects",
+    "target": "ES6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "noUnusedLocals": false,
+    "skipLibCheck": false,
+    "strict": false, // temporarily disabled for testing by TH
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": ["src/*"]
+    },
+    "sourceMap": true
+  },
+  "exclude": [
+    "**/*.test.ts",
+    "data",
+    "doc",
+    "lib",
+    "node_modules",
+    "test"
+  ],
+  "include": [
+    "./objects/**/*.ts"
+  ]
+}

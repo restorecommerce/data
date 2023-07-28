@@ -14,14 +14,13 @@
     longitude: 48.8
     latitude: 9.2
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: 3275fcd9c84f4831aeba986e328b43ce
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: 3275fcd9c84f4831aeba986e328b43ce
 ---
   id: 210eff6fc2f044dea7701e24a6b4ce0d
   postcode: '23456'
@@ -38,14 +37,13 @@
     longitude: 48.8
     latitude: 9.2
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: test-organization-1
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-1
 ---
   id: 310eff6fc2f044dea7701e24a6b4ce0d
   postcode: '34567'
@@ -62,11 +60,10 @@
     longitude: 48.8
     latitude: 9.2
   meta:
-    created: 0
-    modified: 0
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: test-organization-2
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-2

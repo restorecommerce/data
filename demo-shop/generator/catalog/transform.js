@@ -10,17 +10,18 @@ const priceGroups = {
     name: 'PG1',
     description: 'Dummy price group 1',
     meta: {
-      created: 0,
-      modified: 0,
       modifiedBy: '',
       owners: [
         {
           id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-          value: 'urn:restorecommerce:acs:model:organization.Organization'
-        },
-        {
-          id: 'urn:restorecommerce:acs:names:ownerInstance',
-          value: 'ce79782cbd064389aaf66d280d3a6c06'
+          value: 'urn:restorecommerce:acs:model:organization.Organization',
+          attributes: [
+            {
+              id: 'urn:restorecommerce:acs:names:ownerInstance',
+              value: 'r-ug'
+            }
+          ]
+
         }
       ]
     }
@@ -29,17 +30,17 @@ const priceGroups = {
     name: 'PG2',
     description: 'Dummy price group 2',
     meta: {
-      created: 0,
-      modified: 0,
       modifiedBy: '',
       owners: [
         {
           id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-          value: 'urn:restorecommerce:acs:model:organization.Organization'
-        },
-        {
-          id: 'urn:restorecommerce:acs:names:ownerInstance',
-          value: 'ce79782cbd064389aaf66d280d3a6c06'
+          value: 'urn:restorecommerce:acs:model:organization.Organization',
+          attributes: [
+            {
+              id: 'urn:restorecommerce:acs:names:ownerInstance',
+              value: 'r-ug'
+            }
+          ]
         }
       ]
     }
@@ -48,17 +49,17 @@ const priceGroups = {
     name: 'PG3',
     description: 'Dummy price group 3',
     meta: {
-      created: 0,
-      modified: 0,
       modifiedBy: '',
       owners: [
         {
           id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-          value: 'urn:restorecommerce:acs:model:organization.Organization'
-        },
-        {
-          id: 'urn:restorecommerce:acs:names:ownerInstance',
-          value: 'ce79782cbd064389aaf66d280d3a6c06'
+          value: 'urn:restorecommerce:acs:model:organization.Organization',
+          attributes: [
+            {
+              id: 'urn:restorecommerce:acs:names:ownerInstance',
+              value: 'r-ug'
+            }
+          ]
         }
       ]
     }
@@ -112,17 +113,17 @@ function parseInputLine(csvLine) {
       name: brandEntry,
       description: 'Dummy description for manufacturer ' + brandEntry,
       meta: {
-        created: 0,
-        modified: 0,
         modifiedBy: '',
         owners: [
           {
             id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-            value: 'urn:restorecommerce:acs:model:organization.Organization'
-          },
-          {
-            id: 'urn:restorecommerce:acs:names:ownerInstance',
-            value: 'ce79782cbd064389aaf66d280d3a6c06'
+            value: 'urn:restorecommerce:acs:model:organization.Organization',
+            attributes: [
+              {
+                id: 'urn:restorecommerce:acs:names:ownerInstance',
+                value: 'r-ug'
+              }
+            ]
           }
         ]
       }
@@ -173,17 +174,17 @@ function parseInputLine(csvLine) {
           image: categoryImgData,
           priceGroupId: priceGroupIdStr.toString(),
           meta: {
-            created: 0,
-            modified: 0,
             modifiedBy: '',
             owners: [
               {
                 id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-                value: 'urn:restorecommerce:acs:model:organization.Organization'
-              },
-              {
-                id: 'urn:restorecommerce:acs:names:ownerInstance',
-                value: 'ce79782cbd064389aaf66d280d3a6c06'
+                value: 'urn:restorecommerce:acs:model:organization.Organization',
+                attributes: [
+                  {
+                    id: 'urn:restorecommerce:acs:names:ownerInstance',
+                    value: 'r-ug'
+                  }
+                ]
               }
             ]
           }
@@ -209,17 +210,17 @@ function parseInputLine(csvLine) {
           categoryId: hash(categoryTree[categoryTree.length - 3]),
           version: 'test',
           meta: {
-            created: 0,
-            modified: 0,
             modifiedBy: '',
             owners: [
               {
                 id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-                value: 'urn:restorecommerce:acs:model:organization.Organization'
-              },
-              {
-                id: 'urn:restorecommerce:acs:names:ownerInstance',
-                value: 'ce79782cbd064389aaf66d280d3a6c06'
+                value: 'urn:restorecommerce:acs:model:organization.Organization',
+                attributes: [
+                  {
+                    id: 'urn:restorecommerce:acs:names:ownerInstance',
+                    value: 'r-ug'
+                  }
+                ]
               }
             ]
           }
@@ -235,27 +236,29 @@ function parseInputLine(csvLine) {
 
       products[productHash] = {
         product: {
-          id: productHash,
+          // id: productHash,
           name: productEntry,
           description: 'Dummy description for product ' + productEntry,
           manufacturerId: brandHash,
           taricCode: uuid.v4(), // no data available
-          variants: [],
-          taxId: [makeUUID()],
+          physical: {
+            variants: []
+          },
+          taxIds: [makeUUID()],
           gtin: makeUUID()
         },
         meta: {
-          created: 0,
-          modified: 0,
           modifiedBy: '',
           owners: [
             {
               id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-              value: 'urn:restorecommerce:acs:model:organization.Organization'
-            },
-            {
-              id: 'urn:restorecommerce:acs:names:ownerInstance',
-              value: 'ce79782cbd064389aaf66d280d3a6c06'
+              value: 'urn:restorecommerce:acs:model:organization.Organization',
+              attributes: [
+                {
+                  id: 'urn:restorecommerce:acs:names:ownerInstance',
+                  value: 'r-ug'
+                }
+              ]
             }
           ]
         },
@@ -263,9 +266,9 @@ function parseInputLine(csvLine) {
       };
 
       if (categoryTree.length > 2) {
-        products[productHash].product.prototype = { id: prototypeCatHash };
+        products[productHash].product.prototypeId = prototypeCatHash;
       } else {
-        products[productHash].product.category = { id: hash(categoryTree[0]) };
+        products[productHash].product.categoryId = hash(categoryTree[0]);
       }
     }
     // raw attribute list has the form {"product_specification"=>[{"key"=>"a","value"=>"b"}, {"key"=>"c","value"=>"d"}]}
@@ -274,9 +277,7 @@ function parseInputLine(csvLine) {
       .split('}, {')
       .map((spec) => {
         // id, value are string
-        let id,
-          value,
-          attribute = [];
+        let id, value, unitCode = '';
 
         const elems = spec.split('", "');
 
@@ -286,7 +287,7 @@ function parseInputLine(csvLine) {
           value = 'm';
         }
 
-        return { id, value, attribute };
+        return { id, value, unitCode };
       });
 
     // // values must be of string type, so we replace all numbers with a string
@@ -304,17 +305,19 @@ function parseInputLine(csvLine) {
     //   }
     // }
 
-    products[productHash]['product']['variants'].push({
+    products[productHash]['product']['physical']['variants'].push({
       id: csvLine['uniq_id'],
       name: categoryTree[categoryTree.length - 1],
       description: csvLine['description'],
       stockLevel: Math.floor(Math.random() * 10000),
-      price: parseFloat(csvLine['retail_price']),
-      sale: Math.random() < 0.25,
-      salePrice: parseFloat(csvLine['discounted_price']),
+      price: {
+        regularPrice: parseFloat(csvLine['retail_price']),
+        sale: Math.random() < 0.25,
+        salePrice: parseFloat(csvLine['discounted_price'])
+      },
       stockKeepingUnit: csvLine['pid'],
-      image: imagesData,
-      attributes: variantAttributes
+      images: imagesData,
+      properties: variantAttributes
     });
   }
 }
