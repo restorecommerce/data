@@ -29,16 +29,28 @@
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: user-r-id # NormalUser
-      - id: urn:restorecommerce:acs:names:roleScopingEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:user.User
+  condition:
+    "
+      const resources = target.resources;
+      let isUser = false;
+      let userID;
+      for (let attribute of resources) {
+        if (attribute.id == 'urn:restorecommerce:acs:names:model:entity') {
+          isUser = (attribute.value == 'urn:restorecommerce:acs:model:user.User');
+        }
+        if (isUser) {
+          userID = context.subject.id;
+        }
+      }
+      userID;
+    "
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
