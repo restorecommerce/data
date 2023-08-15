@@ -19,18 +19,25 @@ jobs:
         with:
           backing-only: false
 
+      - name: Restart Facade to make sure API key is propogated
+        run: docker restart restorecommerce_facade_srv && sleep 10
+
       - name: Install Dependencies
         run: npm ci
         working-directory: demo-shop
 
       - name: Import master data
-        run: node import.js import -t api_key -j master
+        run: node import.js import -t dbcccf4037d64a6194db7dd3237ce6d3 -j master
         working-directory: demo-shop
 
       - name: Import identity data
-        run: node import.js import -t api_key -j identity
+        run: node import.js import -t dbcccf4037d64a6194db7dd3237ce6d3 -j identity
         working-directory: demo-shop
 
       - name: Import extra data
-        run: node import.js import -t api_key -j extra
+        run: node import.js import -t dbcccf4037d64a6194db7dd3237ce6d3 -j extra
+        working-directory: demo-shop
+
+      - name: Import catalog data
+        run: node import.js import -t dbcccf4037d64a6194db7dd3237ce6d3 -j catalog
         working-directory: demo-shop

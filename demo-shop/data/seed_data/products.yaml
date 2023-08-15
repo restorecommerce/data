@@ -1,0 +1,3089 @@
+---
+  id: SX1303-LoRaWAN-Concentrator-Card-mini-PCIe
+  active: true
+  product:
+    name: Concentrator Card LRWCC3-MPCIE for LoRaWAN® technology
+    categoryId: dd32a99a71964545982436331467519b
+    description: >2-
+
+        <!--
+        <div class="notification info" role="alert">
+          <div class="notification-icon-container">
+            <div class="icogram" style="font-size: 3em;">
+              <svg class="icon bsicon">
+                <use href="/assets/bsicons/bytesize-symbols.min.svg#i-info"></use>
+              </svg>
+            </div>
+          </div>
+          <div class="notification-content">
+            <b>Limited release.</b> Due to the limited availability we want to make sure that many clients can get hold of a small amount of this product.
+            Therefore we limit the maximum order to 1 devices in total.
+          </div>
+        </div>
+        -->
+
+      The LRWCC3-MPCI is a family of LoRaWAN® concentrator cards in mini PCIe
+      form factor
+
+      based on Semtechs's SX1302/ SX1303 [core cell]() reference design.
+
+      An LRWCC card enables OEMs and system integrators to build
+      high-performance, certified LoRaWAN® gateway solutions.
+
+      Moreover it allows to retrofit existing routers and other edge-level
+      network equipment
+
+      with LoRaWAN® gateway capabilities.
+
+
+      The card can be used in any embedded platform offering a free mini-PCIe
+      slot with
+
+      USB connectivity and capable of providing enough power for the card.
+
+      Alternatively an SPI/ I2C or UART host interface is offered.
+
+      The -s variants can only be used with SPI while the normal variants
+      support USB and SPI.
+
+      Typically the host system runs a reasonably recent Linux operating system.
+
+      Apart from support for the USB controller and a networking stack (TCP/IP
+      and UDP), no further
+
+      Kernel drivers are required.
+
+
+      LoRa® and LoRaWAN® are registered trademark of Semtech Corporation.
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: 6f359c00cd624beea3e2a2fa5db3e43d
+          name: LoRaWAN® Concentrator Card LRWCC3-MPCIE
+          description: LoRaWAN® Concentrator Card LRWCC3-MPCIE
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: 7a2d956fc8d74194b97d1b74cec47146
+              url: >-
+                /assets/products/lrwcc3/lrwcc3-mpcie-xxx_LoRaWAN_concentrator_SX1303_500.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '9'
+              unitCode: GRM
+            - id: width
+              value: '12'
+              unitCode: CMT
+            - id: height
+              value: '6'
+              unitCode: CMT
+            - id: depth
+              value: '21'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files:
+            - id: 1a0e77e9471649869aa3eb9d1e9a4f38
+              caption: Datasheet
+              filename: lrwcc3-mpcie-datasheet.pdf
+              url: /assets/products/lrwcc3/lrwcc3-mpcie-datasheet.pdf
+            - id: 5eabd3415bc34a89a4fed8dcbc3411fc
+              caption: EU Declaration of Conformity
+              filename: lrwcc3-mpcie-868-EU-doc.pdf
+              url: /assets/products/lrwcc3/lrwcc3-mpcie-868-EU-doc.pdf
+            - id: 21730804f643419ead0ab461bb7b94c8
+              caption: HAL Drivers and Packet Forwarder
+              filename: github.com/Lora-net/sx1302_hal
+              url: https://github.com/Lora-net/sx1302_hal
+            - id: c791f75eb7a844b8886b219787b1cb4f
+              caption: Firmware for SPI/ I2C Interface
+              filename: lrwccx-mcu-blank.bin
+              url: /assets/products/lrwcc3/lrwccx-mcu-blank.bin
+        - id: a15af5f0edd44d0d98d7ada20c31d44e
+          name: N/A
+          description: >-
+            SX1302, 868Mhz Concentrator Card LRWCC3-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc2-mpcie-915
+          stockLevel: 0
+          parentVariantId: 6f359c00cd624beea3e2a2fa5db3e43d
+          images: []
+          price:
+            regularPrice: 98
+            sale: true
+            salePrice: 98
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1302, 915Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: a141551c2f0e4ee2be42511a586d6bca
+          name: N/A
+          description: >-
+            SX1303, 868Mhz Concentrator Card LRWCC3-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc3-mpcie-868
+          stockLevel: 0
+          parentVariantId: 6f359c00cd624beea3e2a2fa5db3e43d
+          images: []
+          price:
+            regularPrice: 105
+            sale: true
+            salePrice: 105
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1303, 868Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: ea0886dc65124871b09428c9f2a1aaa9
+          name: N/A
+          description: >-
+            SX1303, 868Mhz Concentrator Card LRWCC3-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc3-mpcie-915
+          stockLevel: 0
+          parentVariantId: 6f359c00cd624beea3e2a2fa5db3e43d
+          images: []
+          price:
+            regularPrice: 105
+            sale: true
+            salePrice: 105
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1303, 915Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 0c82b1367be34e6db22c9d5002895c66
+          name: N/A
+          description: >-
+            SX1303, 868Mhz Concentrator Card LRWCC3-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc3-mpcie-s-868
+          stockLevel: 0
+          parentVariantId: 6f359c00cd624beea3e2a2fa5db3e43d
+          images: []
+          price:
+            regularPrice: 96
+            sale: true
+            salePrice: 96
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1303, SPI only, 868Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: dcecb12365d24d28b24f0f7f631fedcf
+          name: N/A
+          description: >-
+            SX1303, 868Mhz Concentrator Card LRWCC3-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc3-mpcie-s-915
+          stockLevel: 0
+          parentVariantId: 6f359c00cd624beea3e2a2fa5db3e43d
+          images: []
+          price:
+            regularPrice: 96
+            sale: true
+            salePrice: 96
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1303, SPI only, 915Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations:
+    - productId: mini-pcie-to-USB30-adapter-for-lrwcc3
+      type: ACCESSORY
+      tags: []
+    - productId: mini-pcie-to-USB30-adapter-for-wwan-lte-lora-module
+      type: ACCESSORY
+      tags: []
+    - productId: 3-dbi-rubber-antenna
+      type: ACCESSORY
+      tags: []
+    - productId: sma-to-ufl-pigtail-10cm
+      type: ACCESSORY
+      tags: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: LoRaWAN-Concentrator-Card-mini-PCIe
+  active: true
+  product:
+    name: Concentrator Card LRWCCx-MPCIE for LoRaWAN® technology
+    categoryId: af78d419a3ea4156992620b921914b3e
+    description: >-
+      The LRWCCx-MPCI is a family of LoRaWAN® concentrator cards in mini PCIe
+      form factor
+
+      based on Semtechs SX1301 or SX1308 chipset.
+
+      An LRWCC card enables OEMs and system integrators to build
+      high-performance, certified LoRaWAN® gateway solutions.
+
+      Moreover it allows to retrofit existing routers and other edge-level
+      network equipment
+
+      with LoRaWAN® gateway capabilities.
+
+
+      The card can be used in any embedded platform offering a free mini-PCIe
+      slot with
+
+      USB connectivity and capable of providing enough power for the card.
+
+      Typically the host system runs a reasonably recent Linux operating system.
+
+      Apart from support for the USB controller and a networking stack (TCP/IP
+      and UDP), no further
+
+      Kernel drivers are required.
+
+      The software driver to run the card in this kind of setup is the
+
+      [HAL driver](https://github.com/Lora-net/picoGW_hal)
+
+      which runs in the user space.
+
+      Additionally [packet
+      forwarder](https://github.com/Lora-net/picoGW_packet_forwarder)
+
+      is required to forward data onto a LoRa® network server.
+
+      Both are available via the
+
+      [LoRa® network](https://github.com/Lora-net).
+
+      project as Open Source Software.
+
+      In addition there is an MCU firmware that enables a UART interface for
+      host communication.
+
+
+      LoRa® and LoRaWAN® are registered trademark of Semtech Corporation.
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: b2d5acf773fc4695be0ac3b382aad2e1
+          name: LoRaWAN® Concentrator Card LRWCCx-MPCIE
+          description: LoRaWAN® Concentrator Card LRWCCx-MPCIE
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: e716a62fee7e48008ac304082c21b986
+              url: /assets/products/lrwccx/lrwccx-mpcie_w_shield_w_label_500.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '9'
+              unitCode: GRM
+            - id: width
+              value: '5'
+              unitCode: CMT
+            - id: height
+              value: '3'
+              unitCode: CMT
+            - id: depth
+              value: '1'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files:
+            - id: e58910b47fa8445887aebb22d54791c8
+              caption: Datasheet
+              filename: lrwccx-mpcie-datasheet.pdf
+              url: /assets/products/lrwccx/lrwccx-mpcie-datasheet.pdf
+            - id: 38ea15cad1cd4a46996b6e1bef8ef6e3
+              caption: User Guide (from Semtech)
+              filename: picocell_gateway_user_guide.pdf
+              url: >-
+                https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDq1/DtoLJM8j812zylUg.kBoVf.rm.7cI7kcGABuzpBLQLg
+            - id: 66a936a9e8e446cfacc59deeb06fb945
+              caption: PicoUI Windows Software (from Semtech)
+              filename: PicoGW_UI_Release_V1.0.3.4.zip
+              url: >-
+                https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R0000001NVk/f_64WcWAevLf8bzyxf.f87y4acd66yExkaotcwtWGpM
+            - id: a8f0b1a10e484fae8f0029d10551620d
+              caption: PicoUI User Guide (from Semtech)
+              filename: PicoCell_..._GUI_User_Guide_V1_0.pdf
+              url: >-
+                https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDrx/UVBXKzAgHRyQcJ2mHNth1w_nPdH722892aAovJQFCic
+            - id: 5f6bc74e94ed469b87d1cc8f0c3c1e25
+              caption: 3D Step Model
+              filename: lrwccx-mpcie.step
+              url: /assets/products/lrwccx/lrwccx-mpcie.step
+            - id: d8e1e0a582834e56a212f47341b6fbde
+              caption: ETSI EN 300 220-2 V3.1.1 Test Report
+              filename: ETSI_EN_300_220-2_v3_test_report.pdf
+              url: /assets/products/lrwccx/ETSI_EN_300_220-2_v3_test_report.pdf
+            - id: b63b1af2f2c8481188eb2f26c9f027a6
+              caption: EU Declaration of Conformity
+              filename: lrwcc1-mpcie-868-EU-doc_signed.pdf
+              url: /assets/products/lrwccx/lrwcc1-mpcie-868-EU-doc_signed.pdf
+            - id: c9007871c6724dd99f0d7133909fdf9e
+              caption: Firmware for native UART Interface
+              filename: lrwccx-mpcie-uart-fw-v0.2.1.dfu
+              url: /assets/products/lrwccx/lrwccx-mpcie-uart-fw-v0.2.1.dfu
+            - id: 6fff7635ab11461dbdf6c31882998a6c
+              caption: Firmware for USB Interface
+              filename: lrwccx-mpcie-usb-fw-v0.2.1.dfu
+              url: /assets/products/lrwccx/lrwccx-mpcie-usb-fw-v0.2.1.dfu
+        - id: 83d93df6b02642d9b042f77f84390aad
+          name: N/A
+          description: >-
+            SX1308, 868Mhz Concentrator Card LRWCCx-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc8-mpcie-868
+          stockLevel: 0
+          parentVariantId: b2d5acf773fc4695be0ac3b382aad2e1
+          images: []
+          price:
+            regularPrice: 92.5
+            sale: true
+            salePrice: 92.5
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1308, 868Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 9f6e26d2e07c412383d3d7d7626c6dfa
+          name: N/A
+          description: >-
+            SX1301, 868Mhz Concentrator Card LRWCCx-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc1-mpcie-868
+          stockLevel: 0
+          parentVariantId: b2d5acf773fc4695be0ac3b382aad2e1
+          images: []
+          price:
+            regularPrice: 101.8
+            sale: true
+            salePrice: 101.8
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1301, 868Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 8f4c53c2f33e43a6bbbe1b529283540a
+          name: N/A
+          description: >-
+            SX1308, 915Mhz Concentrator Card LRWCCx-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc8-mpcie-915
+          stockLevel: 0
+          parentVariantId: b2d5acf773fc4695be0ac3b382aad2e1
+          images: []
+          price:
+            regularPrice: 92.5
+            sale: true
+            salePrice: 92.5
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1308, 915Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 6cc279af82564621a6ce4a25f590aef0
+          name: N/A
+          description: >-
+            SX1301, 915Mhz Concentrator Card LRWCCx-MPCIE for LoRaWAN®
+            technology
+          stockKeepingUnit: lrwcc1-mpcie-915
+          stockLevel: 0
+          parentVariantId: b2d5acf773fc4695be0ac3b382aad2e1
+          images: []
+          price:
+            regularPrice: 101.8
+            sale: true
+            salePrice: 101.8
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: SX1301, 915Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations:
+    - productId: 3-dbi-rubber-antenna
+      type: ACCESSORY
+      tags: []
+    - productId: mini-pcie-to-USB30-adapter-for-wwan-lte-lora-module
+      type: ACCESSORY
+      tags: []
+    - productId: sma-to-ufl-pigtail-10cm
+      type: ACCESSORY
+      tags: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: BG77_LTE_Cat_M1-and-LTE_Cat_NB2_M2_Card
+  active: true
+  product:
+    name: LTE Cat M1 and LTE Cat NB2 (NB-IoT) Card
+    categoryId: a2d689e72e074c9f902fb60c968add4a
+    description: >
+      The LTEC card is an LTE Cat M1, NB2 card with integrated GNSS adopting the
+      standard M.2 2230
+          E-Key based on the [Quectel BG77 module](https://www.quectel.com/product/bg77.htm). For a IoT, M2M applications such as wireless PoS, tracking, smart metering, etc.
+
+      ## Highlights
+
+
+      - Data Rate LTE Cat M1:
+        - Max. 588 kbps (DL)
+        - 1119 kbps (UL)
+      - Data Rate LTE Cat NB2:
+        - Max. 127 kbps (DL)
+        - 158.5 kbps (UL)
+      - Data Rate LTE Cat NB1:
+        - Max. 32 kbps (DL)
+        - 70 kbps (DL)
+      - Global use and broad carrier approval
+
+      - GNSS based on GPS/GLONASS/BeiDou/Galileo/QZSS
+
+      - Low profile and compact
+
+
+      ## Specification
+
+
+      For more details see the specification of the [Quectel BG77
+      module](https://www.quectel.com/product/bg77.htm).
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: 9ed23031230c408cb0145d7b8cd8a21a
+          name: LTE Cat M1/ NB2 (NB-IoT) Card
+          description: LTE Cat M1/ NB2 (NB-IoT) Card
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: c0da1542f13047f4979b2e93e01450a1
+              url: /assets/products/ltec-bg77-m2/bg77-m2_card.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '9'
+              unitCode: GRM
+            - id: width
+              value: '5'
+              unitCode: CMT
+            - id: height
+              value: '3'
+              unitCode: CMT
+            - id: depth
+              value: '1'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files:
+            - id: b7500f7242dd491ab053b5caa127e664
+              caption: Datasheet
+              filename: ltec-bg77-m2-datasheet.pdf
+              url: /assets/products/ltec-bg77-m2/ltec-bg77-m2-datasheet.pdf
+            - id: dc9dd6332e08410089d70cf67c269c6c
+              caption: Certification
+              filename: Quectel website
+              url: https://www.quectel.com/product/bg77.htm
+            - id: bea93fa5fd0e434e9cf0bec8c5e47a7d
+              caption: User Guide
+              filename: ltec-bg77-m2-user-guide.pdf
+              url: /assets/products/ltec-bg77-m2/ltec-bg77-m2-user-guide.pdf
+        - id: a36902d2d6ce4105ba8e37cf2f74f3db
+          name: N/A
+          description: LTE Cat M1 and LTE Cat NB2 (NB-IoT) card
+          stockKeepingUnit: ltec-bg77-m2
+          stockLevel: 0
+          parentVariantId: 9ed23031230c408cb0145d7b8cd8a21a
+          images: []
+          price:
+            regularPrice: 42.5
+            sale: true
+            salePrice: 42.5
+            currencyId: EUR
+          properties: []
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: ZBC-M2-1630_Card-M2-1630-E-Key
+  active: true
+  product:
+    name: ZigBee®/ Bluetooth® Card based on the Silabs Gecko SoC
+    categoryId: a47a0bf186da4e568bb44162788c380e
+    description: >-
+      The ZBC card is based on a Silabs MGM210P module adopting the M.2 1630
+      E-Key form factor.
+          Based on the EFR32MG21 SoC, it enables ZigBee®, Thread®, Bluetooth® and multi-protocol
+          connectivity (ZigBee + Bluetooth 5.1) while delivering best-in-class RF range and performance,
+          future-proof capability for feature and FOTA firmware updates, enhanced security, low active
+          current consumption, and a temperature rating suited for operating in demanding environmental
+          conditions.
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: 43d56fadefb5451a90bca5844a32afb1
+          name: ZigBee®/ Bluetooth® Multiprotocol Card
+          description: ZigBee®/ Bluetooth® Multiprotocol Card
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: 8b98782149d04bc9a7a217bd1455383d
+              url: /assets/products/zbc-m2/zbc_m2_card.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '9'
+              unitCode: GRM
+            - id: width
+              value: '5'
+              unitCode: CMT
+            - id: height
+              value: '3'
+              unitCode: CMT
+            - id: depth
+              value: '1'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files:
+            - id: cbd95e119b904c9d896762c27d3318af
+              caption: Datasheet
+              filename: zbc-m2-datasheet.pdf
+              url: /assets/products/zbc-m2/zbc-m2-datasheet.pdf
+        - id: c9d4d146663d4d93ad8fba51dce203a7
+          name: N/A
+          description: ZigBee/ BT card an based on the EFR32MG21 SoC
+          stockKeepingUnit: zbc-m2-1630
+          stockLevel: 0
+          parentVariantId: 43d56fadefb5451a90bca5844a32afb1
+          images: []
+          price:
+            regularPrice: 18.5
+            sale: true
+            salePrice: 18.5
+            currencyId: EUR
+          properties: []
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: LoRaWAN-Gateway-RaspberryPi-PoE
+  active: true
+  product:
+    name: PoE enabled Raspberry Pi 3B+ based LoRaWAN® Gateway
+    categoryId: 0504160392e640dba1a67b3aeec4e787
+    description: >-
+      A LoRaWAN® gateway based on the Raspberry Pi 3B+,
+
+      the [LRWCCx-MPCIE
+      Concentrator](/devices/LoRaWAN-Concentrator-Card-mini-PCIe)
+
+      and the [SBCPoE RPi
+      Hat](/devices/SBCPoE-RPi-Power-over-Ethernet-Hat-for-Raspberry-Pi-3B-plus-with-mPCIe-Slot).
+
+
+      ## Highlights
+
+
+      - Raspberry Pi 3B+ as host system
+
+      - SMA port for ISM band antenna
+
+      - IEEE 802.3af compliant PoE
+
+      - Supports 10/100/1000 MBit/s ethernet speeds
+
+      - 16 GiB quality SD Card
+
+      - Compact metal enclosure
+
+      - Conduction based heat dissipation
+
+
+      ## Specifications
+
+
+      <table class="table fixed">
+        <tr>
+          <th style="text-align: left;">
+            CPU
+          </th>
+          <td colspan="3">
+            4x 1.40 GHz ARM Cortex-A53
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Memory
+          </th>
+          <td colspan="3">
+            1 GiB LPDDR2 RAM
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Flash Storage
+          </th>
+          <td colspan="3">
+            16 GiB SD Card
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Interfaces
+          </th>
+          <td colspan="3">
+            WiFi 802.11b/g/n/ac (BCM43455), Bluetooth 4.2 (BCM43455), Bluetooth LE<br>
+            LAN 1x GbE LAN (Microchip LAN7515)<br>
+            LoRaWAN® Concentrator Card with UART Firmware
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Connectors
+          </th>
+          <td colspan="3">
+            Micro USB B (power)<br>
+            RJ45 Ethernet<br>
+            USB A Host 4x<br>
+            SMA Connector LoRaWAN RF IO<br>
+            SD Card Slot
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Power Supply
+          </th>
+          <td colspan="3">
+            IEEE 802.3af PoE<br>
+            Micro USB B
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Operating System
+          </th>
+          <td colspan="3">
+            Customized Raspbian
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            International Protection Marking
+          </th>
+          <td colspan="3">
+            20, indoor use only
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Dimensions WxHxD
+          </th>
+          <td colspan="3">
+            60.2 x 54.2 x 25.2 mm
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Weight
+          </th>
+          <td colspan="3">
+            75 g
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Temperature Range (environment)
+          </th>
+          <td colspan="3">
+            -10 to 55° C
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Certifications
+          </th>
+          <td colspan="3">
+            CE
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Materials
+          </th>
+          <td colspan="3">
+            RoHS, REACH
+          </td>
+        </tr>
+      </table>
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176200'
+    taxIds: []
+    physical:
+      variants:
+        - id: e1777674afb740f0b6791d72a613c23e
+          name: PoE enabled Raspberry Pi 3B+ based LoRaWAN® Gateway LRWGWx-RPI
+          description: PoE enabled Raspberry Pi 3B+ based LoRaWAN® Gateway LRWGWx-RPI
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: 37a2f7a346914a039d6410dce9bb2af0
+              url: /assets/products/lrwgwx-rpi/LRWGWx-RPI_500.png
+              filename: ''
+              width: 220
+              height: 123
+              length: 123
+              caption: test
+            - id: 8ab50146ce63445c99487d4fe65ef9f8
+              url: /assets/products/lrwgwx-rpi/LRWGWx-RPI_top_500.png
+              filename: ''
+              width: 120
+              height: 123
+              length: 123
+              caption: test
+            - id: 67e975059f7c47a0ac89af2ca4b89021
+              url: /assets/products/lrwgwx-rpi/LRWGWx-RPI_left_500.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '9'
+              unitCode: GRM
+            - id: width
+              value: '12'
+              unitCode: CMT
+            - id: height
+              value: '6'
+              unitCode: CMT
+            - id: depth
+              value: '21'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files:
+            - id: d868e1ebcde44897b20206479f21f703
+              caption: User Guide
+              filename: lrwgwx-rpi-user-guide.pdf
+              url: /assets/products/lrwgwx-rpi/lrwgwx-rpi-user-guide.pdf
+            - id: b13b721c7b7e4c408dfeaae340adff97
+              caption: OS Image
+              filename: 2020-08-20-n-fuse-lrwgwx-rpi-os.zip
+              url: /assets/products/lrwgwx-rpi/2020-08-20-n-fuse-lrwgwx-rpi-os.zip
+        - id: f378ad354e11471ea76e5eefbaedeb37
+          name: N/A
+          description: sx1308, 868Mhz LoRaWAN® Gateway
+          stockKeepingUnit: lrwgw8-rpi-868
+          stockLevel: 0
+          parentVariantId: e1777674afb740f0b6791d72a613c23e
+          images: []
+          price:
+            regularPrice: 245.5
+            sale: true
+            salePrice: 245.5
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: sx1308, 868Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 9b233986be2a49a8a58738fa3f6e0df5
+          name: N/A
+          description: sx1308, 915Mhz LoRaWAN® Gateway
+          stockKeepingUnit: lrwgw8-rpi-915
+          stockLevel: 0
+          parentVariantId: e1777674afb740f0b6791d72a613c23e
+          images: []
+          price:
+            regularPrice: 245.5
+            sale: true
+            salePrice: 245.5
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: sx1308, 915Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: d4842937300b4a46b0e577cd9b52ccb4
+          name: N/A
+          description: sx1303, 868Mhz LoRaWAN® Gateway
+          stockKeepingUnit: lrwgw3-rpi-868
+          stockLevel: 0
+          parentVariantId: e1777674afb740f0b6791d72a613c23e
+          images: []
+          price:
+            regularPrice: 247.5
+            sale: true
+            salePrice: 247.5
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: sx1303, 868Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 02361d514ca1473ab36dc9aad0b0be4c
+          name: N/A
+          description: sx1303, 915Mhz LoRaWAN® Gateway
+          stockKeepingUnit: lrwgw3-rpi-915
+          stockLevel: 0
+          parentVariantId: e1777674afb740f0b6791d72a613c23e
+          images: []
+          price:
+            regularPrice: 247.5
+            sale: true
+            salePrice: 247.5
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: sx1303, 915Mhz
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations:
+    - productId: 3-dbi-swivel-rubber-antenna
+      type: ACCESSORY
+      tags: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: stx-lr-familiy-of-lorawan-iot-sensors
+  active: true
+  product:
+    name: LoRaWAN® IoT Action Button and Sensors in a very compact Form Factor
+    categoryId: fa083e0d689647a5953f9816af979cc1
+    description: >
+      The sensors have dual wireless interface supporting NFC and LoRaWAN for
+      868 MHz and 915 MHz regulatory domains.
+
+      The line up consists the models:
+
+
+      - sta-lr: Action Button with tactile feedback,
+
+      - stx-lr: Environment Sensor (temperature, humidity), motion
+      (acceleration), magnetic field (via reed switch), ambient light,
+
+      - ste-lr: Environment Sensor (temperature, humidity, air pressure, air
+      quality VOCs).
+
+
+      The combination of the following features makes these products unique:
+
+
+      - Very small physical dimensions
+
+      - Appealing industrial design
+
+      - IP54 rated enclosure
+
+      - Residue-free adhesive tape based mounting
+
+      - Dual wireless interface with LoRaWAN and NFC for configuration and
+      commissioning
+
+      - Ultra low power optimized to enable long battery life of 10+ years is
+      possible
+
+      - Open source firmware
+
+      - Possibility to re-program the device (programmer adapter available)
+
+      - Environmentally friendly through easily replaceable battery
+
+      - RF Output power of up to 15 dBm
+
+      - Firmware upgrade and device configuration via NFC
+
+      - Android OS based Mobile app for management
+
+      - With custom Firmware: freely programmable NFC tag providing NDEF records
+      to mobile devices
+
+      - Optional secure element for secure key storage
+
+
+      ### “Action”
+
+
+      Is an IoT button based on a tactile switch which can is used to detect the
+      following three gestures:
+
+
+      - single press
+
+      - double press
+
+      - long presses
+
+
+      ### “Multisensor”
+
+
+      Is capable of sensing the following measurements:
+
+
+      - Environment
+        - Temperature
+        - Humidity
+      - Motion (acceleration)
+
+      - Magnetic field sensitive Reed switch (normally open)
+
+      - Ambient light
+
+
+      Triggers can be configured for the following sensor readings based on
+      thresholds:
+
+
+      - Environment
+        - Temperature (upper or lower bound)
+        - Air pressure (upper or lower bound)
+      - Motion (acceleration)
+
+      - Ambient light (upper and lower bound)
+
+
+      This allows the device to only send data when a defined threshold is
+      exceeded.
+
+
+      ### “Environment”
+
+
+      Is capable of sensing the following measurements:
+
+
+      - Temperature
+
+      - Humidity
+
+      - Air pressure
+
+      - Air quality VOCs
+
+
+      LoRa® and LoRaWAN® are registered trademark of Semtech Corporation.
+
+
+      <a
+      href='https://play.google.com/store/apps/details?id=co.nfuse.sensormaster&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img
+      alt='Get it on Google Play' style='width: 10em;'
+      src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: 5d039269a56846a4a2d0d5977f71b3e2
+          name: LoRaWAN IoT Sensor Family
+          description: LoRaWAN IoT Action Button and Sensors in a very compact Form Factor
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: 96524edeed7a4680b7c002000d7954c9
+              url: /assets/products/stx/sta-lr_iot_button-iso_500.png
+              filename: ''
+              width: 200
+              height: 123
+              length: 123
+              caption: test
+            - id: 04e05c33b41c4c6b99db09d115a1ca1b
+              url: /assets/products/stx/stx-lr-iot_sensor-iso_500.png
+              filename: ''
+              width: 200
+              height: 123
+              length: 123
+              caption: test
+            - id: 7d4b57fd49874ceebd6880e6540db4d0
+              url: /assets/products/stx/stx_device_back_adhesive_tape_1200.jpg
+              filename: ''
+              width: 220
+              height: 123
+              length: 123
+              caption: test
+            - id: f7e728203fbf41fdb6f533474caaeda2
+              url: /assets/products/stx/stx_family_front_1200.jpg
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '9'
+              unitCode: GRM
+            - id: width
+              value: '12'
+              unitCode: CMT
+            - id: height
+              value: '6'
+              unitCode: CMT
+            - id: depth
+              value: '21'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files:
+            - id: 680b1c0bcd27455da5607c17aeacb2d2
+              caption: Datasheet
+              filename: stx-lr-datasheet.pdf
+              url: /assets/products/stx/stx-lr-datasheet.pdf
+            - id: cabda4a8ec074af7984bf03682729a78
+              caption: Sensor Master App
+              filename: Google Play Store
+              url: >-
+                https://play.google.com/store/apps/details?id=co.nfuse.sensormaster
+            - id: 244fefa838c94422bdf3dabb39235152
+              caption: Firmware Source Code
+              filename: GitHub
+              url: https://github.com/nfhw/stx-firmware
+            - id: b0b72a187d254f36982844507ba93df6
+              caption: EU Declaration of Conformity
+              filename: stx-lr-EU-doc.pdf
+              url: /assets/products/stx/stx-lr-EU-doc.pdf
+        - id: 9d397b689d3f445ebf6e117633899971
+          name: N/A
+          description: Action button
+          stockKeepingUnit: sta-lr
+          stockLevel: 0
+          parentVariantId: 5d039269a56846a4a2d0d5977f71b3e2
+          images: []
+          price:
+            regularPrice: 60
+            sale: true
+            salePrice: 60
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: Action button
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: d5c7abff553f44c8b2ef604ad204cc24
+          name: N/A
+          description: Multi sensor
+          stockKeepingUnit: stx-lr
+          stockLevel: 0
+          parentVariantId: 5d039269a56846a4a2d0d5977f71b3e2
+          images: []
+          price:
+            regularPrice: 71
+            sale: true
+            salePrice: 71
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: Multi sensor
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: ee6423491b71442cac68c0240edaddbf
+          name: N/A
+          description: Environment sensor
+          stockKeepingUnit: ste-lr
+          stockLevel: 0
+          parentVariantId: 5d039269a56846a4a2d0d5977f71b3e2
+          images: []
+          price:
+            regularPrice: 73
+            sale: true
+            salePrice: 73
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: Environment sensor
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations:
+    - productId: arm-jtag-20-tc2030-adapter_u
+      type: ACCESSORY
+      tags: []
+    - productId: bc-varta-CR2430
+      type: ACCESSORY
+      tags: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: tinyCurrent-precision-low-Current-Measurement-Shunt-and-Amplifier-Device
+  active: true
+  product:
+    name: tinyCurrent low Current Measurement Shunt and Amplifier
+    categoryId: f39c078d402d43e6b58e4700c23ef93b
+    description: >-
+      A low cost yet professional low current measurement shunt and amplifier
+
+      combination to overcome the issue of high burden voltage as seen with
+
+      multimeters and to enable low current measurement by using voltage
+      measurement
+
+      devices such as oscilloscopes.
+
+
+      Originally designed and sold by
+
+      [Dave Jones on the EEVBLOG](https://www.eevblog.com/projects/ucurrent/),
+
+      this derivative has several enhancements specifically for measuring
+      varying
+
+      currents on today's low power devices.
+
+      Switch mode voltage regulators and the varying current draw of MCUs and RF
+
+      chips require the determination of the current draw over time to calculate
+      the
+
+      total power consumption of a device. A storage oscilloscope is a perfect
+      tool
+
+      for this task and widely available.
+
+      That's why the tinyCurrent features a **BNC connector to reduce the
+      picked-up
+
+      noise** while measuring with an and oscilloscope. Another problem is the
+      high
+
+      dynamics in power draw caused by the aforementioned reasons.
+
+      This is addressed by the possibility to
+
+      **power the device from an external source**
+
+      with up to 5.5 V and the possibility to tweak the device for a higher
+
+      maximum output voltage. Both measures combined lead to
+
+      **almost 3 times higher dynamic range**.
+
+
+      ## Modifications to the original Design
+
+
+      ### Highlights
+
+
+      - Added BNC output for even lower noise when acquiring with high sampling
+      rate, high input impedance instruments like an oscilloscope. The effect is
+      lower noise compared to normal banana leads.
+
+      See all <a
+      href="https://github.com/nfhw/tinycurrent/tree/master/Scope_Shots">scope
+      shots</a> for comparison.
+
+      - Added a 2-pin 1.25 mm JST ZH style male header for powering the device
+      externally to better use the device in permanent measurement setups.
+      **Only use without battery**.
+
+      - Allow device to be fed with supply voltage of up to 5.5 V to increase
+      the dynamic range (only when external power source us used).
+
+      - Added header J6 which allows to install a THT resistor or bond wire to
+      change the ratio of the voltage divider R6/ R7 to increase the dynamic
+      range for positive currents. R6/ R7 have a ratio of 1/ 5 to allow for a
+      max. positive output voltage of ~80% of the supply voltage.
+
+      - "R-Variant" with reversed BNC connector optimized for attaching the
+      device directly to an oscilloscope's input via a [BNC-to-BNC
+      adapter](https://www.telegaertner.com/en/product/coax/bnc/bnc-adaptor/bnc-adaptor-m-m-100023590).
+
+
+      ### Other Differences
+
+
+      - Increased width of some traces
+
+      - Case and board shape to fit case
+
+      - Removed test traces on PCB on all 4 corners as they are antennas
+
+      - Banana plug sockets are _not_ gold plated → Testing shows that there is
+      no measurable difference in conductivity
+
+      - Slide switches with lower current rating than in original design → Tests
+      have shown that the used switch can easily handle 5V/ 6A which should be
+      far enough for this device
+
+      - Shunt resistor R9 has 0.05% greater tolerance → Parts are hand selected
+      using 7 1/2 Digit DMM with 4 wire measurement in 100 Ohm range
+
+      - Pads for C5, C6 to fit caps on the virtual ground rails to prevent
+      oscillation with capacitive loads
+
+      - Some other BoM changes without negative implications
+
+
+      ## Specifications
+
+
+      <table class="table">
+        <tr>
+          <th colspan="3" style="text-align: left;">
+            Min/Max Current per Range
+          </th>
+        </tr>
+        <tr>
+          <td>
+            Dynamic Range
+          </td>
+          <td colspan="2">
+            In general, the dynamic range in one direction can be determined by:<br><code>VDD / 2 - 200 mV (security margin) = X mV</code>. In case of <code>VGND = VDD / 2</code>.
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            @2.9V VDD (mean battery voltage over usage time)
+          </td>
+        </tr>
+        <tr>
+          <td>
+            nA
+          </td>
+          <td colspan="2">
+            ± 1250 nA (20 µV / nA burden voltage typical), contact resistance plays a role here. 10 µV due to the shunt resistor.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            µA
+          </td>
+          <td colspan="2">
+            ± 1250 µA (10 µV / µA burden voltage)
+          </td>
+        </tr>
+        <tr>
+          <td>
+            mA
+          </td>
+          <td colspan="2">
+            ± 1250 mA (10 µV / mA burden voltage)
+          </td>
+        </tr>
+        <tr>
+          <td colspan="4">
+            @5.5V VDD (from external power source)
+          </td>
+        </tr>
+        <tr>
+          <td>
+            nA
+          </td>
+          <td colspan="2">
+            ± 2550 nA (20 µV / nA burden voltage typical), contact resistance plays a role here. 10 µV due to the shunt resistor.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            µA
+          </td>
+          <td colspan="2">
+            ± 2550 µA (10 µV / µA burden voltage)
+          </td>
+        </tr>
+        <tr>
+          <td>
+            mA
+          </td>
+          <td colspan="2">
+            ± 2550 mA (10 µV / mA burden voltage)
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Resolution in nA Range
+          </th>
+          <td colspan="3">
+            1000 pA on a 3.5 digit DMM<br>
+            100 pA on 4.5 digit DMM<br>
+            10 pA 5.5 digit DMM
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Accuracy, typical
+          </th>
+          <td colspan="3">
+            &lt; ±0.05% on µA and nA ranges<br>
+            &lt; ±0.1% on mA range
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Output Offset Voltage, maximum
+          </th>
+          <td colspan="3">
+            &lt; ±30 µV
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Temperature Drift
+          </th>
+          <td colspan="3">
+            &lt; 10 ppm / degC (µA / nA)<br>
+            &lt; 15 ppm / degC (mA)
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Noise
+          </th>
+          <td colspan="3">
+            &lt; -90 dBV
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            THD
+          </th>
+          <td colspan="3">
+            &lt; -60 dB
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Bandwidth (-3 dB)
+          </th>
+          <td colspan="3">
+            300 kHz
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Power Supply
+          </th>
+          <td colspan="3">
+            CR2032 Lithium coin cell <b>or</b> max 5.5 V through connector J5
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Battery Life
+          </th>
+          <td colspan="3">
+            &gt;50 hours (battery good LED ensures accurate measurement when LED is on). 2.65 V cutout voltage.
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Certifications
+          </th>
+          <td colspan="3">
+            CE
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Materials
+          </th>
+          <td colspan="3">
+            RoHS, REACH
+          </td>
+        </tr>
+      </table>
+
+
+      Similar to the [original uCurrent Gold
+      specs](https://www.eevblog.com/projects/ucurrent/).
+
+
+      ## Maximum Ratings
+
+
+      - Maximum supply voltage: 5.5 V
+
+      - Maximum current through input ports: 5 A
+
+
+      In order to keep the burden voltage low, this device has no
+
+      **OVERLOAD PROTECTION**. That means **NO FUSES**. Care is required in
+
+      using the unit to prevent damage.
+
+
+      ## Schematics and PCB Design
+
+
+      All source files are [available on
+      Github](https://github.com/nfhw/tinycurrent).
+
+      The schematics and PCB layout are in Altium Designer format.
+
+
+      ## Kit Contents
+
+
+      - tinyCurrent PCB and case plus 4 screws
+
+      - **no** battery, you need a CR2032 coin cell battery
+
+
+      ## Usage
+
+
+      1. If you supply power via J5, make sure the noise level is lower than the
+      expected output voltage.
+
+      **Too much noise on the supply voltage will render any measurement
+      useless. Usually primary cells (batteries) are the best choice for this**.
+
+      2. Connect the device under test in loop **on the low side** so that the
+      current flow is from **+** to **-**.
+
+      3. Connect a suitable voltage measurement device such as a DMM or an
+      Oscilloscope on the output side.
+
+      4. Turn on the device and read the current on the voltage measurement
+      device in the mV range as if it were mA/µA/nA.
+
+
+      ## Where to buy?
+
+
+      Pick it up ready to use from the [n-fuse
+      website](https://www.n-fuse.co/devices/tinyCurrent-precision-low-Current-Measurement-Shunt-and-Amplifier-Device.html).
+
+
+      ## Licenses
+
+
+      ### Circuit Schematics
+
+
+      The circuit schematics of this project are made available under the
+
+      [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) license.
+
+
+      ### Hardware Design
+
+
+      <img
+      src="https://i2.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png?resize=95%2C100">
+      Open source hardware.
+
+
+      ### Miscellenious
+
+
+      Data sheets, Altium libraries, 3D Models are subject to vendor specific
+
+      licensing.
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85043121'
+    taxIds: []
+    physical:
+      variants:
+        - id: 14cec4c0e0db4efb9419bda62830b62d
+          name: tinyCurrent
+          description: tinyCurrent
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: 77721ed6aa5d4285813df09eb7c3be33
+              url: /assets/products/tinycurrent/tinycurrent-normal-top.jpg
+              filename: ''
+              width: 105
+              height: 123
+              length: 123
+              caption: test
+            - id: edf4ea2692534582b3078f6b81672896
+              url: /assets/products/tinycurrent/tinycurrent-r-top.jpg
+              filename: ''
+              width: 112
+              height: 123
+              length: 123
+              caption: test
+            - id: 7082aa3621954fa8926cbc598ff0b6ff
+              url: /assets/products/tinycurrent/IMG_20190201_153542_988.jpg
+              filename: ''
+              width: 105
+              height: 123
+              length: 123
+              caption: test
+            - id: 3584f64c160c4417a32262372ea7c97f
+              url: /assets/products/tinycurrent/tinycurrent-normal-and-r-iso.jpg
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '240'
+              unitCode: GRM
+            - id: width
+              value: '84'
+              unitCode: MMT
+            - id: height
+              value: '49'
+              unitCode: MMT
+            - id: depth
+              value: '21'
+              unitCode: MMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: e815f83a50bd438b8bd0c538ff77bea6
+          name: N/A
+          description: tinyCurrent
+          stockKeepingUnit: tinycurrent
+          stockLevel: 0
+          parentVariantId: 14cec4c0e0db4efb9419bda62830b62d
+          images: []
+          price:
+            regularPrice: 64
+            sale: true
+            salePrice: 64
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: tinycurrent
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 46cbfa6cb6904b8fb560d00daf08e839
+          name: N/A
+          description: tinyCurrent with reversed BNC connector
+          stockKeepingUnit: tinycurrent-r
+          stockLevel: 0
+          parentVariantId: 14cec4c0e0db4efb9419bda62830b62d
+          images: []
+          price:
+            regularPrice: 64
+            sale: true
+            salePrice: 64
+            currencyId: EUR
+          properties:
+            - id: disambiguatingDescription
+              value: tinycurrent-r
+              unitCode: ''
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations:
+    - productId: bc-varta-CR2032
+      type: ACCESSORY
+      tags: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: arm-jtag-20-tc2030-vtarget-programmer-adapter
+  active: true
+  product:
+    name: ARM/ JTAG/ J-Link 20-Pin to TC2030 6-Pin Programmer Adapter
+    categoryId: cf8468831d604580b7beb9765e74fe88
+    description: >-
+      The 20-Pin ARM/ JTAG header to the [Tag Connect
+      TC2030](http://www.tag-connect.com/TC2030-IDC-NL) adapter provides Vtarget
+      coming from the 5 V Supply Pin 19 as specified
+
+      [in the TC2030 docs](http://www.tag-connect.com/Materials/TC2030-CTX.pdf)
+
+      to the target whereby the voltage level is adjustable. The target voltage
+      level is also fed into Vref (Pin 1) in order to make the programmer select
+      the correct voltage level for the target.
+
+      As such it is a mixture of the [J-Link Target Supply
+      Adapter](https://www.segger.com/products/debug-probes/j-link/accessories/adapters/target-supply-adapter/)
+
+      and the [J-Link 6-Pin Needle
+      Adapter](https://www.segger.com/products/debug-probes/j-link/accessories/adapters/6-pin-needle-adapter/)
+      with the difference that Vref is provided by the adapter.
+
+      The adapter is particularly useful for battery powered devices because it
+      allows programming/ debugging and measurement of the target current to
+      calculate the power consumption at the same time.
+
+
+      ## Highlights
+
+
+      - 20-Pin ARM/ JTAG/ J-Link to 6-Pin TC2330 adapter
+
+      - Low noise LDO based target power supply with a maximum current of 800 mA
+
+      - Adjustable supply voltage 3.3 / 1.8 / 1.0 V
+
+      - Reset button to reset target
+
+      - Current measurement via circuit breaker
+
+
+      ## TC2030 Pinout
+
+
+      - 1 VCC Target
+
+      - 2 SWDIO/ TMS
+
+      - 3 nRESET
+
+      - 4 SWCLK/ TCK
+
+      - 5 GND (also connected to GNDDetect)
+
+      - 6 SWO/ TDO
+
+
+      # Target Voltages
+
+
+      - 3.3 V / 400 mA max.
+
+      - 1.8 V / 200 mA max.
+
+      - 1.0 V / 150 mA max.
+
+
+      ## Specifications
+
+
+      <table class="table fixed">
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Power
+          </th>
+          <td colspan="3">
+            1.4 W
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Current
+          </th>
+          <td colspan="3">
+            400 mA
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Dimensions WxHxD
+          </th>
+          <td colspan="3">
+            27 x 23 x 5 mm
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Weight
+          </th>
+          <td colspan="3">
+            15 g
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Temperature Range (environment)
+          </th>
+          <td colspan="3">
+            -40 to 70° C maximum<br>
+            -40 to 50° C recommended<br>
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Host side connector
+          </th>
+          <td colspan="3">
+            20-pin, 2.54mm pitch
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Target side connector
+          </th>
+          <td colspan="3">
+            6-pin, 2.54mm pitch
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Compativility
+          </th>
+          <td colspan="3">
+            Segger J-Link, ST-Link, Other Cortex-M Programmers
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Certifications
+          </th>
+          <td colspan="3">
+            CE
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Materials
+          </th>
+          <td colspan="3">
+            RoHS, REACH
+          </td>
+        </tr>
+      </table>
+
+
+      ## Usage
+
+
+      1. Install the [SEGGER J-Link
+      software](https://www.segger.com/downloads/jlink/) onto your machine.
+
+      2. Start J-Link Commander, which can be found under “Start → Programs →
+      SEGGER → J-Link”.
+
+      3. Enter the following command: `power on perm`.
+
+      4. Plug in the adapter to the J-Link: The Power LED D1 on the adapter
+      should be on.
+
+      5. Select the target voltage using slide switch S2.
+
+      6. Plug in the target and start working.
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: 03abd1388b24438e821a7e92f825a719
+          name: ARM JTAG 20 Pin to TC2030 Programmer Adapter
+          description: ARM JTAG 20 Pin to TC2030 Programmer Adapter
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: e7acffde02fb45a499e0170668872af2
+              url: >-
+                /assets/products/arm-jtag-20-tc2030-adapter/arm_jtag_adapter_J-Link_TC2030_500.jpg
+              filename: ''
+              width: 120
+              height: 123
+              length: 123
+              caption: test
+            - id: 73f05987506e423592533fd0b3e076a6
+              url: >-
+                /assets/products/arm-jtag-20-tc2030-adapter/arm_jtag_adapter_J-aLink_TC2030_w_500.jpg
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '15'
+              unitCode: GRM
+            - id: width
+              value: '27'
+              unitCode: MMT
+            - id: height
+              value: '23'
+              unitCode: MMT
+            - id: depth
+              value: '5'
+              unitCode: MMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 627382613b5644958fc27debd848ba0e
+          name: N/A
+          description: N/A
+          stockKeepingUnit: N/A
+          stockLevel: 0
+          parentVariantId: 03abd1388b24438e821a7e92f825a719
+          images: []
+          price:
+            regularPrice: 48
+            sale: true
+            salePrice: 48
+            currencyId: EUR
+          properties: []
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: universal-m.2-E-Key-adapter-and-break-out-board
+  active: true
+  product:
+    name: Universal M.2 E-Key Adapter and break-out Board
+    categoryId: b7eeb5530d3b405abc067bf5d710401d
+    description: >-
+      The universal M.2 E-Key adapter and break-out board is intended for
+      evaluating any kind of
+          add-in card such as WWAN, WiFi, Bluetooth or others with the M.2 form-factor.
+          Please verify suitability for your use case by checking the schematic.
+
+      ## Highlights
+
+
+      - M.2 2230 E-Key slot
+
+      - On-board linear regulator for 3.3 V supply voltage
+
+      - Main power circuit breaker and power LED
+
+      - Mico-USB connector for power supply and wired to M.2 socket
+
+      - Nano-SIM slot for WWAN cards
+
+      - Break-out of most signals to 2.54 mm headers
+
+
+      ## Specifications
+
+
+      <table class="table fixed">
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Power
+          </th>
+          <td colspan="3">
+            1.98 W
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Current
+          </th>
+          <td colspan="3">
+            600 mA
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Dimensions WxHxD
+          </th>
+          <td colspan="3">
+            75 x 33 x 5 mm
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Weight
+          </th>
+          <td colspan="3">
+            20 g
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Temperature Range (environment)
+          </th>
+          <td colspan="3">
+            -40 to 70° C maximum<br>
+            -40 to 50° C recommended<br>
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Power supply
+          </th>
+          <td colspan="3">
+            USB
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Certifications
+          </th>
+          <td colspan="3">
+            CE
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Materials
+          </th>
+          <td colspan="3">
+            RoHS, REACH
+          </td>
+        </tr>
+      </table>
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: b403d86c57564a7cba0a2ba9a1c8dbcc
+          name: Universal M.2 E-Key Adapter
+          description: Universal M.2 E-Key Adapter and break-out Board
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: 3ebc37d408fb4daab8532d86400dd798
+              url: >-
+                /assets/products/univ-m2-brk-adapter/universal_m2_break-out_adapter.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '20'
+              unitCode: GRM
+            - id: width
+              value: '75'
+              unitCode: MMT
+            - id: height
+              value: '33'
+              unitCode: MMT
+            - id: depth
+              value: '5'
+              unitCode: MMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files:
+            - id: 28fd7015b0ef4b04b9506ec069de525c
+              caption: Schematic
+              filename: univ_m2_break-out_schematic.pdf
+              url: >-
+                /assets/products/univ-m2-brk-adapter/univ_m2_break-out_schematic.pdf
+        - id: df3858f1dddf4b1d851193f7e79a8bab
+          name: N/A
+          description: N/A
+          stockKeepingUnit: N/A
+          stockLevel: 0
+          parentVariantId: b403d86c57564a7cba0a2ba9a1c8dbcc
+          images: []
+          price:
+            regularPrice: 85
+            sale: true
+            salePrice: 85
+            currencyId: EUR
+          properties: []
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: SBCPoE-BBB-Power-over-Ethernet-Cape-for-BeagleBone-Black
+  active: true
+  product:
+    name: Power over Ethernet Cape for the BeagleBone
+    categoryId: e49e8378a1344fa6b6e3d42e0f346880
+    description: >-
+      A gigabit Ethernet (GBe) enabled PoE Cape for the BeagleBone Black single
+      board computer.
+
+
+      ## Highlights
+
+
+      - Supports 10/100/1000MBit/s ethernet speeds
+
+      - IEEE 802.3af compliant
+
+      - Supports stacking (adding other capes on top of it)
+
+      - Overload protection
+
+      - 9W power delivery
+
+      - 2-pin 2mm JST male header for powering other external equipment @5V
+
+      - High efficiency enabled by Schottky diode bridge rectifier
+
+
+      ## Specifications
+
+
+      <table class="table fixed">
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Power
+          </th>
+          <td colspan="3">
+            9 W
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Current
+          </th>
+          <td colspan="3">
+            1.8 A
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Output Ripple and Noise
+          </th>
+          <td colspan="3">
+            95 mVpp
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Dimensions WxHxD
+          </th>
+          <td colspan="3">
+            60.2 x 54.2 x 25.2 mm
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Weight
+          </th>
+          <td colspan="3">
+            75 g
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Temperature Range (environment)
+          </th>
+          <td colspan="3">
+            -40 to 70° C maximum<br>
+            -40 to 50° C recommended<br>
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Short-Circuit Duration
+          </th>
+          <td colspan="3">
+            ∞
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Efficiency (typical)
+          </th>
+          <td colspan="3">
+            &gt; 80%
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Certifications
+          </th>
+          <td colspan="3">
+            CE
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Materials
+          </th>
+          <td colspan="3">
+            RoHS, REACH
+          </td>
+        </tr>
+      </table>
+
+
+      ## Kit Contents
+
+
+      - SBCPoE BBB PoE Cape
+
+      - Ethernet loop cable to connect the shield to the BeagleBone of ~7.5 cm
+      length
+
+
+      ## Usage
+
+
+      1. Disconnect any power source from the BeagleBone and leave it
+      disconnected when using the cape
+
+      2. Snap on the cape (no need for screws as the dual-row pin headers will
+      hold the cape tightly)
+
+      3. Connect the BeagleBone's ethernet port with the J2 ethernet jack from
+      the cape (small one)
+
+      4. Connect a 802.3af compliant PoE injector (usually an ethernet switch)
+      to the PoE in ethernet jack J1
+
+
+      ## Performance Test
+
+
+      Carried out on a
+
+      [BeagleBone enhanced](https://beagleboard.org/enhanced).
+
+
+      <pre>
+
+      root@beaglebone:~# iperf3 -c 192.168.178.87
+
+      [ ID] Interval           Transfer     Bandwidth       Retr
+
+      Segmentation fault
+
+      root@beaglebone:~# iperf3 -c 192.168.178.86
+
+      Connecting to host 192.168.178.86, port 5201
+
+      [  4] local 192.168.178.190 port 46806 connected to 192.168.178.86 port
+      5201
+
+      [ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+
+      [  4]   0.00-1.03   sec  30.7 MBytes   250 Mbits/sec    0   94.7 KBytes
+
+      [  4]   1.03-2.00   sec  30.0 MBytes   259 Mbits/sec    0   94.7 KBytes
+
+      [  4]   2.00-3.02   sec  31.2 MBytes   256 Mbits/sec    0   94.7 KBytes
+
+      [  4]   3.02-4.02   sec  30.1 MBytes   253 Mbits/sec    0   94.7 KBytes
+
+      [  4]   4.02-5.03   sec  31.2 MBytes   260 Mbits/sec    0   94.7 KBytes
+
+      [  4]   5.03-6.02   sec  30.0 MBytes   255 Mbits/sec    0   94.7 KBytes
+
+      [  4]   6.02-7.04   sec  31.2 MBytes   257 Mbits/sec    0   94.7 KBytes
+
+      [  4]   7.04-8.01   sec  29.9 MBytes   258 Mbits/sec    0    139 KBytes
+
+      [  4]   8.01-9.04   sec  26.2 MBytes   214 Mbits/sec    0    139 KBytes
+
+      [  4]   9.04-10.02  sec  24.9 MBytes   212 Mbits/sec    0    139 KBytes
+
+      - - - - - - - - - - - - - - - - - - - - - - - - -
+
+      [ ID] Interval           Transfer     Bandwidth       Retr
+
+      [  4]   0.00-10.02  sec   296 MBytes   247 Mbits/sec    0            
+      sender
+
+      [  4]   0.00-10.02  sec   296 MBytes   247 Mbits/sec                 
+      receiver
+
+      </pre>
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: eec1d6bcc6a74eee8fec35f08f1386e5
+          name: SBCPoE BBB
+          description: SBCPoE BBB
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: be34de1381904bc58ac7870f38eeea07
+              url: /assets/products/sbcpoe/sbcpoe_bbb_front_iso.jpg
+              filename: ''
+              width: 120
+              height: 123
+              length: 123
+              caption: test
+            - id: 3528fd44aa3c49c38aa53376dc86db9d
+              url: /assets/products/sbcpoe/sbcpoe_bbb_back_iso.jpg
+              filename: ''
+              width: 120
+              height: 123
+              length: 123
+              caption: test
+            - id: fc23d7037e464b40833b27a89e67afe5
+              url: /assets/products/sbcpoe/sbcpoe_bbb_iso_3d.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '46'
+              unitCode: GRM
+            - id: width
+              value: '12'
+              unitCode: CMT
+            - id: height
+              value: '6'
+              unitCode: CMT
+            - id: depth
+              value: '21'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 16b6c1565e6e41f0bffb592f758aa3c5
+          name: N/A
+          description: N/A
+          stockKeepingUnit: N/A
+          stockLevel: 0
+          parentVariantId: eec1d6bcc6a74eee8fec35f08f1386e5
+          images: []
+          price:
+            regularPrice: 50
+            sale: true
+            salePrice: 50
+            currencyId: EUR
+          properties: []
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: SBCPoE-RPi-Power-over-Ethernet-Hat-for-Raspberry-Pi-3B-plus-with-mPCIe-Slot
+  active: true
+  product:
+    name: Power over Ethernet Hat for the Raspberry Pi 3B+/ 4B with mini PCIe Slot
+    categoryId: 8690817269a648c1850c3995287d2ae5
+    description: >-
+      A PoE hat for the Raspberry Pi 3B+/ 4B single board computer with mini
+
+      PCIe Slot and optional GNSS module.
+
+
+      ## Highlights
+
+
+      - Supports 10/100/1000MBit/s ethernet speeds
+
+      - IEEE 802.3af compliant
+
+      - Low profile and thus compatible with many standard RPi enclosures
+
+      - Overload protection
+
+      - 7 W power delivery
+
+      - Mini PCIe slot with SPI/ UART signals routed to RPi header
+
+      - Power good LED
+
+      - High efficiency enabled by Schottky diode bridge rectifier
+
+      - Non-standard SPI connectivity between mPCIe header and RPi SP0 bus
+
+      - Optional USB on mini PCIe slot through JST connector to wire
+
+      - No [power issues like the original PoE hat
+      had](http://linuxgizmos.com/refund-offered-for-raspberry-pi-poe-hat-due-to-power-issues/)
+
+
+      ## Application
+
+
+      The device can be used to reliably power the Raspberry Pi through PoE.
+
+      The temperature can be monitored and an mPCIe card can be plugged in.
+
+      The optional GNSS module is connected to the I2C bus of the RPi.
+
+      Combining this with an [LRWCCx-MPCIE
+      card](/devices/LoRaWAN-Concentrator-Card-mini-PCIe.html) and a proper
+      enclosure turns
+
+      the solution into an LoRaWAN® gateway.
+
+
+      ## Wiring Up USB
+
+
+      USB is not available on the RPi's 40 pin header, if you need USB on the
+      mPCIe port,
+
+      the following modification is required:
+
+
+      1. Remove solder bridges R8, R9.
+
+      2. Solder the wires of a JST 1.25 mm pigtail as follows to the test pads
+      on the backside of the:
+        2.1 Raspberry Pi 3B: 46 to D- on the JST connector and test pad 47 to D+ on the JST connector.
+        2.2 Raspberry Pi 4B: 18 to D- on the JST connector and test pad 19 to D+ on the JST connector.
+      3. Connect the JST connector to the connector designated with 'USB' on the
+      backside.
+
+
+      **WARNING**: This will void the warranty of the RPi and you risk fatal
+      damage to the devices.
+
+
+      ## Specifications
+
+
+      <table class="table fixed">
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Power
+          </th>
+          <td colspan="3">
+            7 W
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Current
+          </th>
+          <td colspan="3">
+            1.4 A
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Output Ripple and Noise
+          </th>
+          <td colspan="3">
+            95 mVpp
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Dimensions WxHxD
+          </th>
+          <td colspan="3">
+            65.1 x 56.1 x 60.3 mm
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Weight
+          </th>
+          <td colspan="3">
+            75 g
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Temperature Range (environment)
+          </th>
+          <td colspan="3">
+            -40 to 70° C maximum<br>
+            -40 to 50° C recommended<br>
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Short-Circuit Duration
+          </th>
+          <td colspan="3">
+            ∞
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Efficiency of PoE part (typical)
+          </th>
+          <td colspan="3">
+            &gt; 80%
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Certifications
+          </th>
+          <td colspan="3">
+            CE
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Materials
+          </th>
+          <td colspan="3">
+            RoHS, REACH
+          </td>
+        </tr>
+      </table>
+
+
+      ## Kit Contents
+
+
+      - SBCPoE RPi3B+ mini PCIe Hat
+
+      - 2x Torx mounting screws for the mini PCIe slot
+
+      - 2x nylon standoff spacers
+
+
+      ## Usage
+
+
+      1. Disconnect any power source from the Raspberry Pi and leave it
+      disconnected when using the hat
+
+      2. Insert the standoff spacers and snap on the hat
+
+      3. Connect a 802.3af compliant PoE injector (usually an ethernet switch)
+      to the RPi ethernet jack
+
+      4. to read the temperature from the temperature sensor, [follow this
+      guide](https://wiki.52pi.com/index.php?title=Raspberry_Pi_LM75B_temperature_Sensor_v1.0_SKU:EP-0031).
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: b8d3938427fe44ae95f7d6b3da6033a0
+          name: SBCPoE RPi 3B+/ 4B mini PCIe
+          description: SBCPoE RPi 3B+/ 4B mini PCIe
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: adaf066508a6467ca76283c566a71435
+              url: /assets/products/sbcpoe/sbcpoe_rpi3bplus_iso_3d.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '140'
+              unitCode: GRM
+            - id: width
+              value: '12'
+              unitCode: CMT
+            - id: height
+              value: '6'
+              unitCode: CMT
+            - id: depth
+              value: '21'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files:
+            - id: 98136c6d9d3040baa900ef58f7333d1b
+              caption: Schematic
+              filename: sbcpoe_rpi3bplus_schematic.pdf
+              url: /assets/products/sbcpoe/sbcpoe_rpi3bplus_schematic.pdf
+        - id: fd97537e3a88484aaaa810e1250d8bfe
+          name: N/A
+          description: N/A
+          stockKeepingUnit: N/A
+          stockLevel: 0
+          parentVariantId: b8d3938427fe44ae95f7d6b3da6033a0
+          images: []
+          price:
+            regularPrice: 48
+            sale: true
+            salePrice: 48
+            currencyId: EUR
+          properties: []
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
+---
+  id: SBCPoE-RPi-Power-over-Ethernet-Hat-for-Raspberry-Pi-with-high-power-output
+  active: true
+  product:
+    name: >-
+      Power over Ethernet Hat for the Raspberry Pi 3B+/ 4B with up to TBD W
+      output at 12 V
+    categoryId: 9f0b677cb91e416b9a4437482160a8d3
+    description: >-
+      A PoE hat for the Raspberry Pi 3B+/ 4B single board computer with high
+      power output.
+
+
+      ## Highlights
+
+
+      - Supports 10/100/1000MBit/s ethernet speeds
+
+      - IEEE 802.3af and 802.3bt compliant
+
+      - Low profile and thus compatible with many standard RPi enclosures
+
+      - Overload protection
+
+      - TBD W power delivery
+
+      - 12 V output via screw socket to power other devices
+
+      - High efficiency enabled by active bridge rectifier
+
+      - No [power issues like the original PoE hat
+      had](http://linuxgizmos.com/refund-offered-for-raspberry-pi-poe-hat-due-to-power-issues/)
+
+
+      ## Specifications
+
+
+      <table class="table fixed">
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Power
+          </th>
+          <td colspan="3">
+            TBD W
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Maximum output Current
+          </th>
+          <td colspan="3">
+            TBD A
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Supported PoE Standards
+          </th>
+          <td colspan="3">
+            802.3af and 802.3bt
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Output Ripple and Noise
+          </th>
+          <td colspan="3">
+            95 mVpp
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Dimensions WxHxD
+          </th>
+          <td colspan="3">
+            65.1 x 56.1 x 60.3 mm
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Weight
+          </th>
+          <td colspan="3">
+            150 g
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Temperature Range (environment)
+          </th>
+          <td colspan="3">
+            -40 to 70° C maximum<br>
+            -40 to 50° C recommended<br>
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Short-Circuit Duration
+          </th>
+          <td colspan="3">
+            ∞
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Efficiency of PoE part (typical)
+          </th>
+          <td colspan="3">
+            &gt; 80%
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Certifications
+          </th>
+          <td colspan="3">
+            CE
+          </td>
+        </tr>
+        <tr>
+          <th style="text-align: left;">
+            Materials
+          </th>
+          <td colspan="3">
+            RoHS, REACH
+          </td>
+        </tr>
+      </table>
+
+
+      ## Kit Contents
+
+
+      - SBCPoE RPi HP Hat
+
+      - 2x nylon standoff spacers
+
+
+      ## Usage
+
+
+      1. Disconnect any power source from the Raspberry Pi and leave it
+      disconnected when using the hat
+
+      2. Insert the standoff spacers and snap on the hat
+
+      3. Connect a 802.3af or 802.3bt compliant PoE injector (usually an
+      ethernet switch) to the RPi ethernet jack
+    gtin: ''
+    manufacturerId: ''
+    prototypeId: ''
+    taricCode: '85176990'
+    taxIds: []
+    physical:
+      variants:
+        - id: bee1b8c735bf4239a75d7e212d33e3c5
+          name: SBCPoE RPi 3B+/ 4B high power
+          description: SBCPoE RPi 3B+/ 4B high power
+          stockKeepingUnit: ''
+          stockLevel: 0
+          parentVariantId: ''
+          images:
+            - id: 2ecb978e36ad4144aafae3c40f1a4b09
+              url: /assets/products/sbcpoe/SBCPoE_RPi4_pic3.png
+              filename: ''
+              width: 120
+              height: 123
+              length: 123
+              caption: test
+            - id: 3cc7f1fbff054e23ac0a784c62330179
+              url: /assets/products/sbcpoe/SBCPoE_RPi4_pic2.png
+              filename: ''
+              width: 120
+              height: 123
+              length: 123
+              caption: test
+            - id: 3bbaf85d59de4bb6860cfa0507bbfb14
+              url: /assets/products/sbcpoe/SBCPoE_RPi4_pic1.png
+              filename: ''
+              width: 123
+              height: 123
+              length: 123
+              caption: test
+          price:
+            regularPrice: 0
+            sale: true
+            salePrice: 0
+            currencyId: null
+          properties:
+            - id: weight
+              value: '140'
+              unitCode: GRM
+            - id: width
+              value: '12'
+              unitCode: CMT
+            - id: height
+              value: '6'
+              unitCode: CMT
+            - id: depth
+              value: '21'
+              unitCode: CMT
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+        - id: 40086b999c044fa7a2e1b4f69b93c9b0
+          name: N/A
+          description: N/A
+          stockKeepingUnit: N/A
+          stockLevel: 0
+          parentVariantId: bee1b8c735bf4239a75d7e212d33e3c5
+          images: []
+          price:
+            regularPrice: 150
+            sale: true
+            salePrice: 150
+            currencyId: EUR
+          properties: []
+          package:
+            rotatable: false
+            sizeInCm:
+              height: 1
+              length: 1
+              width: 1
+            weightInKg: 1
+          files: []
+  associations: []
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: n-fuse_webisite
