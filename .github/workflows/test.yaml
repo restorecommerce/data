@@ -26,18 +26,23 @@ jobs:
         run: npm ci
         working-directory: demo-shop
 
+      - name: Read API key
+        run: |
+          API_KEY=$(docker logs restorecommerce_facade_srv 2> /dev/null | grep -Eo "Bootstrap API Key is: [0-9a-z]+" | tail -n1 | awk '{print $5}')
+          echo "API_KEY=$API_KEY" >> $GITHUB_ENV
+
       - name: Import master data
-        run: node import.js import -t dbcccf4037d64a6194db7dd3237ce6d3 -j master
+        run: node import.js import -t $API_KEY -j master
         working-directory: demo-shop
 
       - name: Import identity data
-        run: node import.js import -t dbcccf4037d64a6194db7dd3237ce6d3 -j identity
+        run: node import.js import -t $API_KEY -j identity
         working-directory: demo-shop
 
       - name: Import extra data
-        run: node import.js import -t dbcccf4037d64a6194db7dd3237ce6d3 -j extra
+        run: node import.js import -t $API_KEY -j extra
         working-directory: demo-shop
 
       - name: Import catalog data
-        run: node import.js import -t dbcccf4037d64a6194db7dd3237ce6d3 -j catalog
+        run: node import.js import -t $API_KEY -j catalog
         working-directory: demo-shop
