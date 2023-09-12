@@ -497,8 +497,6 @@
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: user-r-id # Normal User
-      - id: urn:restorecommerce:acs:names:roleScopingEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:user.User
