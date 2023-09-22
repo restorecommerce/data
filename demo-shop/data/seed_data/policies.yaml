@@ -1,5 +1,5 @@
 ---
-  id: 5d60775c1943479b90203fc32f3b15e3
+  id: users_policy
   name: User Policy
   description: Targets actions on a User account
   evaluationCacheable: false
@@ -11,15 +11,15 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - aabfb8ed51064baaa3eafe43d3d4c44e  # Organization-scoped reads
-    - 8f5fb142972e44ffbb136ca3770212da  # Unauthenticated user can register its account
-    - eeefbe2065c74c9d8ae7fa3e3ce7992e  # Unauthenticated user can activate its account
-    - 27a50edd71d942e3b2812a30f1879acb  # Unauthenticated user can reset its password
-    - 50e5c475987c4a83bb1acd9ff84af090  # Unauthenticated user can reset confirm email change
-    - cc6e90accbb8453699fa658e1bc2f6c9  # Authenticated User has all permissions to access its own account
-    - 2cda35a30992415b89066e06c09d9d4d  # Admin
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_read_rule  # Organization-scoped reads
+    - register_user_rule  # Unauthenticated user can register its account
+    - user_activation_rule  # Unauthenticated user can activate its account
+    - forgot_password_rule  # Unauthenticated user can reset its password
+    - confirm_email_change_rule  # Unauthenticated user can reset confirm email change
+    - normal_user_account_rule  # Authenticated User has all permissions to access its own account
+    - administrator_user_rule  # Admin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   meta:
     modifiedBy: ""
     owners:
@@ -30,7 +30,7 @@
             value: r-ug
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
-  id: 21fa3c8b4fc742488396aea901a608f0
+  id: organizations_policy
   name: Organizations policy
   description: Targets access to the Organization resource
   evaluationCacheable: false
@@ -42,10 +42,10 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - d892b81c25064a848f0dafb55093bbdf  # Reads
-    - 4f039ce5635e4cf0bb422dcd68f732c9  # Admin
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_organization_read_rule_scoped  # Reads
+    - administrator_organization_rule_scoped  # Admin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -56,7 +56,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 70b2edc30a9a4a62b4d4f648605c66f3
+  id: address_policy
   name: Addresses policy
   description: Targets access to Addresses
   evaluationCacheable: false
@@ -68,10 +68,10 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - bbc1f8622b1049d9b54a66237d4fd651  # Reads
-    - 7d9561f3d6cb4a03bdcc56f75dc2776a  # Admin
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_address_read_rule_scoped  # Reads
+    - administrator_address_rule_scoped  # Admin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   meta:
     modifiedBy: ""
     owners:
@@ -82,7 +82,7 @@
             value: r-ug
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
-  id: 9820ca010d0240908cafbd02dcd925ac
+  id: contact_points_policy
   name: ContactPoints policy
   description: Targets access to ContactPoints
   evaluationCacheable: false
@@ -94,10 +94,10 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 4509c76b54c44d0584b2a652a789e44e  # Reads
-    - b59a29b5b01e40d1ae5bb44240d906f7  # Admin
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_contactpoint_read_rule_scoped  # Reads
+    - administrator_contactpoint_rule_scoped  # Admin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -108,7 +108,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: a9a2530ce0fb46bd86215398ee7014ec
+  id: contact_point_types_policy
   name: ContactPointType policy
   description: Targets access to ContactPointTypes
   evaluationCacheable: false
@@ -120,9 +120,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 402e831240284451968457d2549d9ffb  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_contactpoint_type_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -133,7 +133,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 64c0e2881cb94219a4fd066be81bb7e9
+  id: taxes_policy
   name: Taxes policy
   description: Targets access to Taxes
   evaluationCacheable: false
@@ -145,9 +145,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - f7ae06e4d33b4340b351945ed6339143  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_tax_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -158,7 +158,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 1be990cb7de14e32ac6079ebe54168b9
+  id: tax_types_policy
   name: TaxType policy
   description: Targets access to TaxTypes
   evaluationCacheable: false
@@ -170,9 +170,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 72a509eeaf8e4f5ba999116c6c797f0b  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_tax_type_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -183,7 +183,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: ebc7029ac7d6401f9f280948f54d9ec2
+  id: countries_policy
   name: Countries policy
   description: Targets access to Countries
   evaluationCacheable: false
@@ -195,9 +195,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 0293e152015c41fb923e17c0589fe7d2  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_country_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -208,7 +208,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 28a5482e84ba426dafd648a01e4918a5
+  id: roles_policy
   name: Roles policy
   description: Targets access to Roles
   evaluationCacheable: false
@@ -220,9 +220,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 43cd9e2b462a426ca30d2a1bcb1e54c8  # Reads
-    - a0325bfbbdd84dd59274b09ca0c7e239  # Deny access to SuperAdmin Role
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_roles_read_rule  # Reads
+    - superadmin_role_read_rule  # Deny access to SuperAdmin Role
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
   meta:
     modifiedBy: ""
@@ -233,7 +233,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: ceb1e8c3c5b94865ba742a0d904c43f6
+  id: locales_policy
   name: Locales policy
   description: Targets access to Locales
   evaluationCacheable: false
@@ -245,9 +245,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 19eefaa16fff42bf881c16eca946b029  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_locale_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -258,7 +258,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: bc094dabf358485d859a01dcd0fc52fe
+  id: timezones_policy
   name: Timezones policy
   description: Targets access to Timezones
   evaluationCacheable: false
@@ -270,9 +270,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 94140965831f46deb1eebf9ab36c4572  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_timezone_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -283,7 +283,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 4f7596a4ea75406ba010ace4a9d4471a
+  id: execute_action_policy
   name: Execute-Action Policy
   description: Targets `execute`-type actions
   evaluationCacheable: false
@@ -304,11 +304,11 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
   rules:
-    - aa78cbecdbac4b53a914f5836b744c2d  # DeleteOrgData
-    - 2769c1a7e09f4971ad04fcca39094c2fx # ExecuteCommand
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
+    - delete_organization_rule  # DeleteOrgData
+    - execute_command_rule # ExecuteCommand
+    - fall_back_rule  # Deny
 ---
-  id: e69b9c283fbd4b8caa8cac212ad8dae4
+  id: commands_policy
   name: Commands Policy
   description: Allows access by SuperAdmins to the `Command` resource
   evaluationCacheable: false
@@ -320,8 +320,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -332,7 +332,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: d710bc27cbbf48cd93c899509e7aff5c
+  id: jobs_policy
   name: Jobs Policy
   description: Allows access by SuperAdmins to the `Jobs` resource
   evaluationCacheable: false
@@ -344,8 +344,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -356,7 +356,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 9420abd50e7648479ad9126f93404a8b
+  id: policy_sets_policy
   name: PolicySets Policy
   description: Allows access by SuperAdmins to the `PolicySEt` resource
   evaluationCacheable: false
@@ -368,8 +368,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -380,7 +380,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 0a7803e4d79f4b2abdd9868dd4b00ebe
+  id: policies_resource_policy
   name: Policy-Resource Policy
   description: Allows access by SuperAdmins to the `Policy` resource
   evaluationCacheable: false
@@ -392,8 +392,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -404,7 +404,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 4447e1f02840420797876c17f6451d68
+  id: rules_policy
   name: Rule Policy
   description: Allows access by SuperAdmins to the `Rule` resource
   evaluationCacheable: false
@@ -416,8 +416,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -428,7 +428,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 45624a6ccab6472a8e7d5314cba011c7
+  id: orders_policy
   name: Orders Policy
   description: Allows normal users to create, read or modify Orders
   evaluationCacheable: false
@@ -440,10 +440,10 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 123d2f19370447ac82708c8a196bd3a9  # Permit: normal user under an Org scope
-    - 7ccec95b94a04e08951e331fef59a9ee  # Permit: normal user who owns the resource and not bounded to any organization
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny: All
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # Permit: SuperAdmin
+    - org_scoped_order_rule  # Permit: normal user under an Org scope
+    - user_scoped_order_rule  # Permit: normal user who owns the resource and not bounded to any organization
+    - fall_back_rule  # Deny: All
+    - superadmin_rule  # Permit: SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -455,7 +455,7 @@
             value: r-ug
 ## Customers policy and 5 Products policy
 ---
-  id: 478ec535a3664016a28991bf757eeeec
+  id: customers_policy
   name: Customers Policy
   description: Allows normal users to read Customer resource
   evaluationCacheable: false
@@ -467,10 +467,10 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 033ac24c43664c5c92fd32b21b92dba9  # Permit: normal user under an Org scope
-    - f22c7ec8c97b4dd385364219559b07e1  # Permit: normal user who owns the resource and not bounded to any organization
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny: All
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # Permit: SuperAdmin
+    - org_scoped_customer_read_rule  # Permit: normal user under an Org scope
+    - user_scoped_customer_read_rule  # Permit: normal user who owns the resource and not bounded to any organization
+    - fall_back_rule  # Deny: All
+    - superadmin_rule  # Permit: SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -481,7 +481,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: abc7029ac7d6401f9f280948f54d9ec2
+  id: products_policy
   name: Products policy
   description: Targets access to Products
   evaluationCacheable: false
@@ -493,9 +493,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 5b78e4a1cc034ddb8d71d46dfd9a53f7  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_product_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -506,7 +506,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: c6f5aacece6e4ae4be306f8377548736
+  id: manufacturers_policy
   name: Manufacturer's policy
   description: Targets access to Manufacturers
   evaluationCacheable: false
@@ -518,9 +518,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - f58d4fc3da244023a191c015b2b82786  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_manufacturer_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -531,7 +531,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 5fa4af8f43dd43b58194d7575e29245b
+  id: product_prototypes_policy
   name: ProductPrototype policy
   description: Targets access to Manufacturers
   evaluationCacheable: false
@@ -543,9 +543,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 4840a726a1d44ee78d207fa5cc85c024  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_product_prototype_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -556,7 +556,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 383fb654e8b846b5b812a9b110194f74
+  id: product_categories_policy
   name: ProductCategory policy
   description: Targets access to Manufacturers
   evaluationCacheable: false
@@ -568,9 +568,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - cafb58f0676c460f9034a697cd74b9df  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_product_category_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -581,7 +581,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 8a99bd194f5546cbbbf3ff8e6fe033ff
+  id: price_groups_policy
   name: PriceGroup policy
   description: Targets access to Manufacturers
   evaluationCacheable: false
@@ -593,9 +593,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 5eb184be7cc145c9b4b0e230d74f1937  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_price_group_read_rule  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -607,7 +607,7 @@
             value: r-ug
 #ostorage policy -> Xingular
 ---
-  id: 2b8faa02dd4140aeb14ca94f23b4f058
+  id: ostorage_policy
   name: Ostorage policy
   description: Targets access to the ostorage resource
   evaluationCacheable: false
@@ -619,9 +619,9 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - 78f58e364c984b5f9945d993b64dd405  # Reads
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - normal_user_ostorage_bucket_rule_scoped  # Reads
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -632,7 +632,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 80d27d0a1123456dbc228dc69ccd651d
+  id: tokens_policy
   name: Token Policy
   description: Targets `Token` resource
   target:
@@ -642,13 +642,13 @@
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   evaluationCacheable: true
   rules:
-    - 98f58e364c984b5f9945d993b64dd405  # user-r-id create rule
-    - 99f58e364c984b5f9945d993b64dd405  # user-r-id modify rule
-    - 10g58e364c984b5f9945d993b64dd405  # user-r-id delete rule
-    - 11g58e364c984b5f9945d993b64dd405  # user-r-id read rule
-    - 98f1994dcfb24471ab29b38b527da7a4  # admin CRMD rule
-    - fbff989edf064ae680ccd9df7c946f3f  # fallback Deny rule
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # superAdmin rule
+    - normal_user_token_create_rule_condition  # user-r-id create rule
+    - normal_user_token_modify_rule_condition  # user-r-id modify rule
+    - normal_user_token_delete_rule_condition  # user-r-id delete rule
+    - normal_user_token_read_rule_condition  # user-r-id read rule
+    - admin_user_token_rule_scoped  # admin CRMD rule
+    - fall_back_rule  # fallback Deny rule
+    - superadmin_rule  # superAdmin rule
   meta:
     modifiedBy: ""
     owners:
@@ -658,7 +658,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: 2e8faa02dd4140aeb14ca94f23b4f058
+  id: ostorage_interal_bucket_policy
   name: Ostorage policy for internal bucket
   description: Targets access to the ostorage resource for internal bucket
   target:
@@ -666,9 +666,9 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:internal.Internal
   rules:
-    - 81f58e364c984b5f9945d993b64dd405  # normal user
-    - fbff989edf064ae680ccd9df7c946f3f  # Deny
-    - ff7da3d8aaca4b2cb66d324d4ff6f71d  # SuperAdmin
+    - unauth_user_internal_bucket_rule  # normal user
+    - fall_back_rule  # Deny
+    - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""

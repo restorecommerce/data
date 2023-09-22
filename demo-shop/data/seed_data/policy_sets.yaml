@@ -1,5 +1,5 @@
 ---
-  id: ceb1e8c3c5b94865ba742a0d904c43f6
+  id: locales_policy
   name: Global Policy Set
   description: Contains all policies from RestoreCommerce
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
@@ -8,34 +8,33 @@
     subjects: [ ]
     actions: [ ]
   policies:
-    - 5d60775c1943479b90203fc32f3b15e3
-    - 5d60775c1943479b90203fc32f3b15e3
-    - 21fa3c8b4fc742488396aea901a608f0
-    - 70b2edc30a9a4a62b4d4f648605c66f3
-    - 9820ca010d0240908cafbd02dcd925ac
-    - a9a2530ce0fb46bd86215398ee7014ec
-    - 64c0e2881cb94219a4fd066be81bb7e9
-    - 1be990cb7de14e32ac6079ebe54168b9
-    - ebc7029ac7d6401f9f280948f54d9ec2
-    - 28a5482e84ba426dafd648a01e4918a5
-    - ceb1e8c3c5b94865ba742a0d904c43f6
-    - 4f7596a4ea75406ba010ace4a9d4471a
-    - e69b9c283fbd4b8caa8cac212ad8dae4
-    - d710bc27cbbf48cd93c899509e7aff5c
-    - 9420abd50e7648479ad9126f93404a8b
-    - 0a7803e4d79f4b2abdd9868dd4b00ebe
-    - 4447e1f02840420797876c17f6451d68
-    - bc094dabf358485d859a01dcd0fc52fe
-    - 45624a6ccab6472a8e7d5314cba011c7
-    - 478ec535a3664016a28991bf757eeeec
-    - abc7029ac7d6401f9f280948f54d9ec2
-    - c6f5aacece6e4ae4be306f8377548736
-    - 5fa4af8f43dd43b58194d7575e29245b
-    - 383fb654e8b846b5b812a9b110194f74
-    - 8a99bd194f5546cbbbf3ff8e6fe033ff
-    - 2b8faa02dd4140aeb14ca94f23b4f058
-    - 80d27d0a1123456dbc228dc69ccd651d
-    - 2e8faa02dd4140aeb14ca94f23b4f058
+    - users_policy
+    - organizations_policy
+    - address_policy
+    - contact_points_policy
+    - contact_point_types_policy
+    - taxes_policy
+    - tax_types_policy
+    - countries_policy
+    - roles_policy
+    - locales_policy
+    - execute_action_policy
+    - commands_policy
+    - jobs_policy
+    - policy_sets_policy
+    - policies_resource_policy
+    - rules_policy
+    - timezones_policy
+    - orders_policy
+    - customers_policy
+    - products_policy
+    - manufacturers_policy
+    - product_prototypes_policy
+    - product_categories_policy
+    - price_groups_policy
+    - ostorage_policy
+    - tokens_policy
+    - ostorage_interal_bucket_policy
   meta:
     modifiedBy: ""
     owners:
