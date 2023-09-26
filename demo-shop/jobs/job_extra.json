@@ -31,6 +31,14 @@
       "src": "./data/",
       "filter": "organizations.yaml",
       "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    },
+    {
+      "name": "codes",
+      "operation": "sync",
+      "src": "./data/",
+      "filter": "codes.yaml",
+      "batchSize": 100,
+      "mutation": "mutation mutateCodes($var: [IIoRestorecommerceCodeCode!]!){ catalog { code { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }
