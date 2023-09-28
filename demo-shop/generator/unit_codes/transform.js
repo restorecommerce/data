@@ -97,4 +97,4 @@ for (let i = 1; i < 3; i += 1) {
 
 const outDir = `${__dirname}/../../data/seed_data/`;
 fs.mkdirSync(outDir, { recursive: true });
-fs.writeFileSync(`${outDir}codes.yaml`, codes.map(yaml.dump).join('\n---\n'));
+fs.writeFileSync(`${outDir}unit_codes.yaml`, codes.map(yaml.dump).join('\n---\n'));

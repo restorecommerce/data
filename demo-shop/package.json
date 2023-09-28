@@ -35,7 +35,7 @@
   "scripts": {
     "build": "tsc -d -P tsconfig.objects.json",
     "import-objects": "node objects/object_importer.js",
-    "transform": "node generator/codes/transform.js"
+    "transform": "node generator/unit_codes/transform.js"
   },
   "engines": {
     "node": ">= 18.0.0"
