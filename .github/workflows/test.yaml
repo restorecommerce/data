@@ -24,13 +24,19 @@ jobs:
         working-directory: demo-shop
 
       - name: Import master data
-        run: node import.js import -t api_key -j master
+        run: |
+          API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
+          node import.js import -t $API_KEY -j master
         working-directory: demo-shop
 
       - name: Import identity data
-        run: node import.js import -t api_key -j identity
+        run: |
+          API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
+          node import.js import -t $API_KEY -j identity
         working-directory: demo-shop
 
       - name: Import extra data
-        run: node import.js import -t api_key -j extra
+        run: |
+          API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
+          node import.js import -t $API_KEY -j extra
         working-directory: demo-shop
