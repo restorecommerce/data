@@ -38,7 +38,7 @@
       "src": "./data/",
       "filter": "unit_codes.yaml",
       "batchSize": 100,
-      "mutation": "mutation mutateCodes($var: [IIoRestorecommerceUnitCodeUnitCode!]!){ catalog { unit_code { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+      "mutation": "mutation mutateCodes($var: [IIoRestorecommerceUnitCodeUnitCode!]!){ master_data { unit_code { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }

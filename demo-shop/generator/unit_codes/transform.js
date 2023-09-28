@@ -43,7 +43,7 @@ const sectorMapping = {
 
 const workSheetsFromFile = xlsx.parse(`${__dirname}/rec20_Rev15e-2020.xls`);
 
-const codes = [];
+const codes = {};
 
 for (let i = 1; i < 3; i += 1) {
   const headerOrder = {};
@@ -65,6 +65,10 @@ for (let i = 1; i < 3; i += 1) {
       }
     }
 
+    if (code.commonCode in codes) {
+      continue;
+    }
+
     if ('status' in code) {
       code.status = statusMapping[code.status];
     }
@@ -73,7 +77,7 @@ for (let i = 1; i < 3; i += 1) {
       code.sector = sectorMapping[code.sector];
     }
 
-    code.id = 'code-' + codes.length.toString(10);
+    code.id = 'unit_code-' + code.commonCode;
 
     code.meta = {
       created: new Date().toISOString(),
@@ -91,10 +95,13 @@ for (let i = 1; i < 3; i += 1) {
       ]
     };
 
-    codes.push(code);
+    codes[code.commonCode] = code;
   }
 }
 
+const values = Object.values(codes);
+values.sort((a, b) => a.id.localeCompare(b.id));
+
 const outDir = `${__dirname}/../../data/seed_data/`;
 fs.mkdirSync(outDir, { recursive: true });
-fs.writeFileSync(`${outDir}unit_codes.yaml`, codes.map(yaml.dump).join('\n---\n'));
+fs.writeFileSync(`${outDir}unit_codes.yaml`, values.map(yaml.dump).join('\n---\n'));
