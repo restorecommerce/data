@@ -77,7 +77,7 @@ for (let i = 1; i < 3; i += 1) {
       code.sector = sectorMapping[code.sector];
     }
 
-    code.id = 'unit_code-' + code.commonCode;
+    code.id = 'un-cefact-cc-' + code.commonCode;
 
     code.meta = {
       created: new Date().toISOString(),
