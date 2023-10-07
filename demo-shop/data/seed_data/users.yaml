@@ -4,7 +4,7 @@
   firstName: Maria
   lastName: Mustersuper
   email: maria.mustersuper@restorecommerce.io
-  password: A$1rcsuperpw
+  password: CNQJrH%KAayeDpf3h
   defaultScope: r-ug
   roleAssociations:
     - role: superadministrator-r-id
@@ -53,7 +53,7 @@
   firstName: Manuel
   lastName: Musteradmin
   email: manuel.musteradmin@restorecommerce.io
-  password: A$1rcadminpw
+  password: CNQJrH%KAayeDpf3h
   defaultScope: r-ug
   roleAssociations:
     - role: user-r-id
@@ -115,7 +115,7 @@
   firstName: Kurt
   lastName: Kunde
   email: kurt.kunde@restorecommerce.io
-  password: A$1rccustomer1pw
+  password: CNQJrH%KAayeDpf3h
   defaultScope: r-ug
   roleAssociations:
     - role: user-r-id
@@ -169,7 +169,7 @@
   firstName: Katrin
   lastName: Kundin
   email: katrin.kundin@restorecommerce.io
-  password: A$1rccustomer2pw
+  password: CNQJrH%KAayeDpf3h
   defaultScope: r-ug
   roleAssociations:
     - role: user-r-id
@@ -223,7 +223,7 @@
   firstName: Karl
   lastName: Kunde
   email: karl.kunde@restorecommerce.io
-  password: A$1rccustomer3pw
+  password: CNQJrH%KAayeDpf3h
   defaultScope: r-ug
   roleAssociations:
     - role: user-r-id
@@ -277,7 +277,7 @@
   firstName: Upsert
   lastName: Tokens
   email: upsert_user_tokens@restorecommerce.io
-  password: A$1rcsuperpw
+  password: CNQJrH%KAayeDpf3h
   defaultScope: ""
   roleAssociations:
     - id: superadministrator-r-role-assoc-id
