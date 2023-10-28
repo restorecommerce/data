@@ -326,3 +326,61 @@
       scopes:
         - superadministrator-r-role-assoc-id
   lastAccess: 0
+---
+  id: unauthenticated_user
+  name: unauthenticated_user
+  firstName: Unauthenticated
+  lastName: User
+  email: unauthenticated_user@restorecommerce.io
+  defaultScope: "r-ug"
+  roleAssociations:
+    - id: user-r-role-assoc-id  
+      role: user-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: r-ug
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: unauthenticated_user
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "TECHNICAL_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: unauthenticated_token
+      expiresIn: 0
+      token: 2ce88810e1a8463fa14c8bc6cfa12345
+      scopes:
+        - user-r-role-assoc-id
+  lastAccess: 0
