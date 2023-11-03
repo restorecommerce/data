@@ -384,3 +384,127 @@
       scopes:
         - user-r-role-assoc-id
   lastAccess: 0
+---
+  id: test-org-1-admin
+  name: test.org1.admin
+  firstName: TestOrg1
+  lastName: Admin
+  email: test.org1.admin@restorecommerce.io
+  password: CNQJrH%KAayeDpf3h
+  defaultScope: test-organization-1
+  roleAssociations:
+    - role: user-r-id
+      id: ""
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: test-organization-1
+    - role: administrator-r-id
+      id: ""
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: test-organization-1
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-1
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-org-1-admin
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens: []
+  lastAccess: 0
+---
+  id: test-org-2-admin
+  name: test.org2.admin
+  firstName: TestOrg2
+  lastName: Admin
+  email: test.org2.admin@restorecommerce.io
+  password: CNQJrH%KAayeDpf3h
+  defaultScope: test-organization-2
+  roleAssociations:
+    - role: user-r-id
+      id: ""
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: test-organization-2
+    - role: administrator-r-id
+      id: ""
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: test-organization-2
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-organization-2
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: test-org-2-admin
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens: []
+  lastAccess: 0
