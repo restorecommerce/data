@@ -46,7 +46,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: []
-  lastAccess: 0
 ---
   id: 355f94aa15664d58baa4bf7a06a85681
   name: manuel.musteradmin
@@ -108,7 +107,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: [ ]
-  lastAccess: 0
 ---
   id: 455f94aa15664d58baa4bf7a06a85681
   name: kurt.kunde
@@ -162,7 +160,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: [ ]
-  lastAccess: 0
 ---
   id: 555f94aa15664d58baa4bf7a06a85681
   name: katrin.kundin
@@ -216,7 +213,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: [ ]
-  lastAccess: 0
 ---
   id: 655f94aa15664d58baa4bf7a06a85681
   name: karl.kunde
@@ -270,7 +266,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: []
-  lastAccess: 0
 ---
   id: upsert_user_tokens
   name: upsert_user_tokens
@@ -320,12 +315,10 @@
   invitedByUserLastName: ""
   tokens:
     - name: upsert_token
-      expiresIn: 0
       token: 123099ffc93b44f6b4a81b1e5589b642
       type: upsert_token
       scopes:
         - superadministrator-r-role-assoc-id
-  lastAccess: 0
 ---
   id: unauthenticated_user
   name: unauthenticated_user
@@ -379,11 +372,9 @@
   invitedByUserLastName: ""
   tokens:
     - name: unauthenticated_token
-      expiresIn: 0
       token: 2ce88810e1a8463fa14c8bc6cfa12345
       scopes:
         - user-r-role-assoc-id
-  lastAccess: 0
 ---
   id: test-org-1-admin
   name: test.org1.admin
@@ -445,7 +436,6 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: []
-  lastAccess: 0
 ---
   id: test-org-2-admin
   name: test.org2.admin
@@ -507,4 +497,3 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens: []
-  lastAccess: 0
