@@ -13,7 +13,7 @@
     "data"
   ],
   "dependencies": {
-    "@restorecommerce/gql-bot": "^1.0.1",
+    "@restorecommerce/gql-bot": "^1.0.4",
     "commander": "^9.4.1",
     "dotenv": "^16.0.3",
     "formdata-node": "^4.3.3",
