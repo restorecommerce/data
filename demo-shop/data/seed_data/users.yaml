@@ -383,7 +383,7 @@
   email: fulfillment_tech_user@restorecommerce.io
   defaultScope: "r-ug"
   roleAssociations:
-    - id: user-r-role-assoc-id  
+    - id: fulfillment-tech-r-assoc-id
       role: fulfillment-tech-r-id
       attributes: [ ]
   localeId: de-de
@@ -426,7 +426,7 @@
       expiresIn: 0
       token: jrj29SS0Ui7GlQKPvkS8ReEa48R33OH9
       scopes:
-        - user-r-role-assoc-id
+        - fulfillment-tech-r-assoc-id
   lastAccess: 0
 ---
   id: invoice_tech_user
@@ -436,7 +436,7 @@
   email: invoice_tech_user@restorecommerce.io
   defaultScope: "r-ug"
   roleAssociations:
-    - id: user-r-role-assoc-id  
+    - id: invoice-tech-r-assoc-id
       role: invoice-tech-r-id
       attributes: [ ]
   localeId: de-de
@@ -479,7 +479,7 @@
       expiresIn: 0
       token: Bpn5g9V17KJ1O3tC6OcnLEqdG8N9mwjH
       scopes:
-        - user-r-role-assoc-id
+        - invoice-tech-r-assoc-id
 ---
   id: test-org-1-admin
   name: test.org1.admin
