@@ -306,6 +306,11 @@
   rules:
     - delete_organization_rule  # DeleteOrgData
     - execute_command_rule # ExecuteCommand
+    - org_scoped_order_submit_rule
+    - org_scoped_order_withdraw_rule
+    - user_scoped_order_submit_rule
+    - user_scoped_order_withdraw_rule
+    - unauth_user_order_submit_rule
     - fall_back_rule  # Deny
 ---
   id: commands_policy
@@ -428,7 +433,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
 ---
-  id: orders_policy
+  id: orders_modify_policy
   name: Orders Policy
   description: Allows normal users to create, read or modify Orders
   evaluationCacheable: false
@@ -437,11 +442,19 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:modify
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:delete
     subjects: [ ]
-    actions: [ ]
   rules:
-    - org_scoped_order_rule  # Permit: normal user under an Org scope
-    - user_scoped_order_rule  # Permit: normal user who owns the resource and not bounded to any organization
+    - org_scoped_order_read_rule
+    - org_scoped_order_modify_rule
+    - org_scoped_order_delete_rule
+    - user_scoped_order_read_rule
+    - user_scoped_order_modify_rule
+    - user_scoped_order_delete_rule
     - fall_back_rule  # Deny: All
     - superadmin_rule  # Permit: SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
@@ -453,8 +466,8 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
-## Customers policy and 5 Products policy
 ---
+  ## Customers policy and 5 Products policy
   id: customers_policy
   name: Customers Policy
   description: Allows normal users to read Customer resource

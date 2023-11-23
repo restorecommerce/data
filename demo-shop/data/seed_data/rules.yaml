@@ -37,14 +37,9 @@
         value: urn:restorecommerce:acs:model:user.User
   condition:
     "
-      (request) => {
-        let userID;
-        const isUser = request?.target?.resources?.some((obj) => obj?.id == 'urn:restorecommerce:acs:names:model:entity' && obj?.value == 'urn:restorecommerce:acs:model:user.User');
-        if (isUser) {
-          userID = request?.context?.subject?.id;
-        }
-        return userID;
-      }
+      (request) => request?.target?.resources?.some(
+        (obj) => obj?.id === 'urn:restorecommerce:acs:names:model:entity' && obj?.value === 'urn:restorecommerce:acs:model:user.User'
+      ) ? request?.context?.subject?.id : undefined;
     "
   effect: PERMIT
   evaluationCacheable: false
@@ -395,7 +390,7 @@
 ---
   id: forgot_password_rule
   name: User 'Forgot Password' rule
-  description: Permits 'modify'  by unauthenticated users on their password
+  description: Permits 'modify' by unauthenticated users on their password
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:unauthenticated-user
@@ -426,7 +421,7 @@
 ---
   id: confirm_email_change_rule
   name: User 'ConfirmEmailChange' rule
-  description: Permits 'modify'  by unauthenticated users on their password
+  description: Permits 'modify' by unauthenticated users on their password
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:unauthenticated-user
@@ -709,19 +704,21 @@
       - id: urn:restorecommerce:acs:names:ownerInstance
         value: r-ug
 ---
-  id: org_scoped_order_rule
-  name: Order create read or modify rule
-  description: Permits Order create, read or modify under an organizational hierarchical scope
+  id: org_scoped_order_read_rule
+  name: Order read rule for scoped Organization
+  description: Permits Order read under an organizational hierarchical scope
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
-    actions: [ ]
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -736,19 +733,163 @@
       - id: urn:restorecommerce:acs:names:ownerInstance
         value: r-ug
 ---
-  id: user_scoped_order_rule
-  name: Order create read or modify rule
-  description: Permits Order create, read or modify under an user hierarchical scope
+  id: org_scoped_order_modify_rule
+  name: Order create or modify rule for scoped Organization
+  description: Permits Order create or modify under condition and organizational hierarchical scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:modify
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition: # NormalUser can only create or modify orders of no higher state than CREATED
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => !resource.order_state
+      || resource.order_state?.toString() === 'UNRECOGNIZED'
+      || resource.order_state?.toString() === 'CREATED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: org_scoped_order_delete_rule
+  name: Order delete rule for scoped Organization
+  description: Permits Order delete under condition and organizational hierarchical scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:delete
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition: # NormalUser can only delete orders of no higher state than CREATED
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => !resource.order_state
+      || resource.order_state?.toString() === 'UNRECOGNIZED'
+      || resource.order_state?.toString() === 'CREATED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: org_scoped_order_submit_rule
+  name: Order submit rule for scoped Organization
+  description: Permits Order submit under condition and organizational hierarchical scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:execute
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.submitOrders
+  effect: PERMIT
+  condition: # NormalUser can only submit orders of no higher state than CREATED
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => !resource.order_state
+      || resource.order_state?.toString() === 'UNRECOGNIZED'
+      || resource.order_state?.toString() === 'CREATED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: org_scoped_order_withdraw_rule
+  name: Order withdraw rule for scoped Organization
+  description: Permits Order withdraw under condition and organizational hierarchical scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:execute
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.withdrawOrders
+  effect: PERMIT
+  condition: # NormalUser can only withdraw SUBMITTED orders
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => resource.order_state?.toString() === 'SUBMITTED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: user_scoped_order_read_rule
+  name: Order read rule for scoped User
+  description: Permits Order read under user scope
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:user.User
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
-    actions: [ ]
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -760,9 +901,184 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: r-ug
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: user_scoped_order_modify_rule
+  name: Order create or modify rule for scoped User
+  description: Permits Order create or modify under condition and user scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:modify
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition: # NormalUser can only create or modify orders of no higher state than CREATED
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => !resource.order_state
+      || resource.order_state?.toString() === 'UNRECOGNIZED'
+      || resource.order_state?.toString() === 'CREATED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: user_scoped_order_delete_rule
+  name: Order delete rule for scoped User
+  description: Permits Order delete under condition and user scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:delete
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition: # NormalUser can only delete orders of no higher state than CREATED
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => !resource.order_state
+      || resource.order_state?.toString() === 'UNRECOGNIZED'
+      || resource.order_state?.toString() === 'CREATED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: user_scoped_order_submit_rule
+  name: Order submit rule for scoped User
+  description: Permits Order submit under condition and user scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:execute
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.submitOrders
+  effect: PERMIT
+  condition: # NormalUser can only submit orders of no higher state than CREATED
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => !resource.order_state
+      || resource.order_state?.toString() === 'UNRECOGNIZED'
+      || resource.order_state?.toString() === 'CREATED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: user_scoped_order_withdraw_rule
+  name: Order withdraw rule for scoped User
+  description: Permits Order withdraw under condition and users hierarchical scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:execute
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.withdrawOrders
+  effect: PERMIT
+  condition: # NormalUser can only withdraw SUBMITTED orders
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => resource.order_state?.toString() === 'SUBMITTED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
+---
+  id: unauth_user_order_submit_rule
+  name: Order submit rule for scoped unauthenticated User
+  description: Permits Order submit under condition for unauthenticated Users
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:unauthenticated-user
+        value: "true"
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:execute
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.submitOrders
+  effect: PERMIT
+  condition: # NormalUser can only submit orders of no higher state than CREATED
+  "
+  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+    resource => !resource.order_state
+      || resource.order_state?.toString() === 'UNRECOGNIZED'
+      || resource.order_state?.toString() === 'CREATED'
+  );
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:ownerInstance
+        value: r-ug
 ---
   id: org_scoped_customer_read_rule
   name: Customer read rule for Organizational Scope

@@ -376,6 +376,112 @@
       scopes:
         - user-r-role-assoc-id
 ---
+  id: fulfillment_tech_user
+  name: fulfillment_tech_user
+  firstName: Fulfillment
+  lastName: User
+  email: fulfillment_tech_user@restorecommerce.io
+  defaultScope: "r-ug"
+  roleAssociations:
+    - id: user-r-role-assoc-id  
+      role: fulfillment-tech-r-id
+      attributes: [ ]
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: fulfillment_tech_user
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "TECHNICAL_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: fulfillment_tech_token
+      expiresIn: 0
+      token: jrj29SS0Ui7GlQKPvkS8ReEa48R33OH9
+      scopes:
+        - user-r-role-assoc-id
+  lastAccess: 0
+---
+  id: invoice_tech_user
+  name: invoice_tech_user
+  firstName: Invoice
+  lastName: User
+  email: invoice_tech_user@restorecommerce.io
+  defaultScope: "r-ug"
+  roleAssociations:
+    - id: user-r-role-assoc-id  
+      role: invoice-tech-r-id
+      attributes: [ ]
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: invoice_tech_user
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  unauthenticated: false
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "TECHNICAL_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: invoice_tech_token
+      expiresIn: 0
+      token: Bpn5g9V17KJ1O3tC6OcnLEqdG8N9mwjH
+      scopes:
+        - user-r-role-assoc-id
+  lastAccess: 0
+---
   id: test-org-1-admin
   name: test.org1.admin
   firstName: TestOrg1

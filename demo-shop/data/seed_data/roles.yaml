@@ -42,3 +42,31 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: r-ug
+---
+  id: fulfillment-tech-r-id
+  name: FulfillmentTech
+  description: can create and delete Fulfillments across all organization scopes
+  assignableByRoles:
+    - superadministrator-r-id
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
+---
+  id: invoice-tech-r-id
+  name: InvoiceTech
+  description: can create and delete Invoices across all organization scopes
+  assignableByRoles:
+    - superadministrator-r-id
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: r-ug
