@@ -37,9 +37,9 @@
         value: urn:restorecommerce:acs:model:user.User
   condition:
     "
-      (request) => request?.target?.resources?.some(
-        (obj) => obj?.id === 'urn:restorecommerce:acs:names:model:entity' && obj?.value === 'urn:restorecommerce:acs:model:user.User'
-      ) ? request?.context?.subject?.id : undefined;
+    (request) => request?.target?.resources?.some(
+      (obj) => obj?.id === 'urn:restorecommerce:acs:names:model:entity' && obj?.value === 'urn:restorecommerce:acs:model:user.User'
+    ) ? request?.context?.subject?.id : undefined;
     "
   effect: PERMIT
   evaluationCacheable: false
@@ -749,14 +749,15 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
   effect: PERMIT
-  condition: # NormalUser can only create or modify orders of no higher state than CREATED
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => !resource.order_state
-      || resource.order_state?.toString() === 'UNRECOGNIZED'
-      || resource.order_state?.toString() === 'CREATED'
-  );
-  "
+  # NormalUser can only create or modify orders of no higher state than CREATED
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => !resource.order_state
+        || resource.order_state?.toString() === 'UNRECOGNIZED'
+        || resource.order_state?.toString() === 'CREATED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -785,14 +786,15 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
   effect: PERMIT
-  condition: # NormalUser can only delete orders of no higher state than CREATED
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => !resource.order_state
-      || resource.order_state?.toString() === 'UNRECOGNIZED'
-      || resource.order_state?.toString() === 'CREATED'
-  );
-  "
+  # NormalUser can only delete orders of no higher state than CREATED
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => !resource.order_state
+        || resource.order_state?.toString() === 'UNRECOGNIZED'
+        || resource.order_state?.toString() === 'CREATED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -821,14 +823,15 @@
       - id: urn:restorecommerce:acs:names:operation
         value: execution.submitOrders
   effect: PERMIT
-  condition: # NormalUser can only submit orders of no higher state than CREATED
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => !resource.order_state
-      || resource.order_state?.toString() === 'UNRECOGNIZED'
-      || resource.order_state?.toString() === 'CREATED'
-  );
-  "
+  # NormalUser can only submit orders of no higher state than CREATED
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => !resource.order_state
+        || resource.order_state?.toString() === 'UNRECOGNIZED'
+        || resource.order_state?.toString() === 'CREATED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -857,12 +860,13 @@
       - id: urn:restorecommerce:acs:names:operation
         value: execution.withdrawOrders
   effect: PERMIT
-  condition: # NormalUser can only withdraw SUBMITTED orders
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => resource.order_state?.toString() === 'SUBMITTED'
-  );
-  "
+  # NormalUser can only withdraw SUBMITTED orders
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => resource.order_state?.toString() === 'SUBMITTED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -920,14 +924,15 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
   effect: PERMIT
-  condition: # NormalUser can only create or modify orders of no higher state than CREATED
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => !resource.order_state
-      || resource.order_state?.toString() === 'UNRECOGNIZED'
-      || resource.order_state?.toString() === 'CREATED'
-  );
-  "
+  # NormalUser can only create or modify orders of no higher state than CREATED
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => !resource.order_state
+        || resource.order_state?.toString() === 'UNRECOGNIZED'
+        || resource.order_state?.toString() === 'CREATED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -956,14 +961,15 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
   effect: PERMIT
-  condition: # NormalUser can only delete orders of no higher state than CREATED
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => !resource.order_state
-      || resource.order_state?.toString() === 'UNRECOGNIZED'
-      || resource.order_state?.toString() === 'CREATED'
-  );
-  "
+  # NormalUser can only delete orders of no higher state than CREATED
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => !resource.order_state
+        || resource.order_state?.toString() === 'UNRECOGNIZED'
+        || resource.order_state?.toString() === 'CREATED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -992,14 +998,15 @@
       - id: urn:restorecommerce:acs:names:operation
         value: execution.submitOrders
   effect: PERMIT
-  condition: # NormalUser can only submit orders of no higher state than CREATED
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => !resource.order_state
-      || resource.order_state?.toString() === 'UNRECOGNIZED'
-      || resource.order_state?.toString() === 'CREATED'
-  );
-  "
+  # NormalUser can only submit orders of no higher state than CREATED
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => !resource.order_state
+        || resource.order_state?.toString() === 'UNRECOGNIZED'
+        || resource.order_state?.toString() === 'CREATED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -1028,12 +1035,13 @@
       - id: urn:restorecommerce:acs:names:operation
         value: execution.withdrawOrders
   effect: PERMIT
-  condition: # NormalUser can only withdraw SUBMITTED orders
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => resource.order_state?.toString() === 'SUBMITTED'
-  );
-  "
+  # NormalUser can only withdraw SUBMITTED orders
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => resource.order_state?.toString() === 'SUBMITTED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -1060,14 +1068,15 @@
       - id: urn:restorecommerce:acs:names:operation
         value: execution.submitOrders
   effect: PERMIT
-  condition: # NormalUser can only submit orders of no higher state than CREATED
-  "
-  (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
-    resource => !resource.order_state
-      || resource.order_state?.toString() === 'UNRECOGNIZED'
-      || resource.order_state?.toString() === 'CREATED'
-  );
-  "
+  # NormalUser can only submit orders of no higher state than CREATED
+  condition:
+    "
+    (request) => request?.context?.resources?.length === 0 || request?.context?.resources?.every(
+      resource => !resource.order_state
+        || resource.order_state?.toString() === 'UNRECOGNIZED'
+        || resource.order_state?.toString() === 'CREATED'
+    );
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]

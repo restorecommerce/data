@@ -30,12 +30,18 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-json": "^3.1.0",
-    "node-xlsx": "^0.23.0"
+    "node-xlsx": "^0.23.0",
+    "npm-run-all": "^4.1.5"
   },
   "scripts": {
     "build": "tsc -d -P tsconfig.objects.json",
     "import-objects": "node objects/object_importer.js",
-    "transform": "node generator/unit_codes/transform.js"
+    "transform": "node generator/unit_codes/transform.js",
+    "import:identity": "node import.js import -j identity",
+    "import:master": "node import.js import -j master",
+    "import:extra": "node import.js import -j extra",
+    "import:catalog": "node import.js import -j catalog",
+    "import": "npm-run-all import:identity import:master import:extra import:catalog"
   },
   "engines": {
     "node": ">= 18.0.0"

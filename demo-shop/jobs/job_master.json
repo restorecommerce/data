@@ -9,35 +9,35 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "countries.yaml",
-      "mutation": "mutation{ master_data { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
+      "mutation": "mutation{ master_data { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "timezones",
       "operation": "sync",
       "src": "./data/",
       "filter": "timezones.yaml",
-      "mutation": "mutation{ master_data { timezone { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+      "mutation": "mutation{ master_data { timezone { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "name": "locales",
       "operation": "sync",
       "src": "./data/",
       "filter": "locales.yaml",
-      "mutation": "mutation{ master_data { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+      "mutation": "mutation{ master_data { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "name": "tax_types",
       "operation": "sync",
       "src": "./data/",
       "filter": "tax_types.yaml",
-      "mutation": "mutation{ master_data { tax_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+      "mutation": "mutation{ master_data { tax_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "name": "commands",
       "operation": "sync",
       "src": "./data/",
       "filter": "commands.yaml",
-      "mutation": "mutation mutateCommands($var: [IIoRestorecommerceCommandCommand!]!){ master_data { command { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+      "mutation": "mutation mutateCommands($var: [IIoRestorecommerceCommandCommand!]!){ master_data { command { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     }
   ]
 }

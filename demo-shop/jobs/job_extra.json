@@ -9,28 +9,28 @@
       "operation": "sync",
       "src": "./data/",
       "filter": "addresses.yaml",
-      "mutation": "mutation{ master_data { address { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+      "mutation": "mutation{ master_data { address { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "name": "contact_point_types",
       "operation": "sync",
       "src": "./data/",
       "filter": "contact_point_types.yaml",
-      "mutation": "mutation{ master_data { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+      "mutation": "mutation{ master_data { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "name": "contact_points",
       "operation": "sync",
       "src": "./data/",
       "filter": "contact_points.yaml",
-      "mutation": "mutation{ master_data { contact_point { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+      "mutation": "mutation{ master_data { contact_point { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "name": "organizations",
       "operation": "sync",
       "src": "./data/",
       "filter": "organizations.yaml",
-      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "name": "unit_codes",
@@ -38,7 +38,7 @@
       "src": "./data/",
       "filter": "unit_codes.yaml",
       "batchSize": 100,
-      "mutation": "mutation mutateCodes($var: [IIoRestorecommerceUnitCodeUnitCode!]!){ master_data { unit_code { Mutate( input: { items: $var, totalCount: 0, mode: CREATE } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+      "mutation": "mutation mutateCodes($var: [IIoRestorecommerceUnitCodeUnitCode!]!){ master_data { unit_code { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }
