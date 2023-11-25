@@ -423,11 +423,9 @@
   invitedByUserLastName: ""
   tokens:
     - name: fulfillment_tech_token
-      expiresIn: 0
       token: jrj29SS0Ui7GlQKPvkS8ReEa48R33OH9
       scopes:
         - fulfillment-tech-r-assoc-id
-  lastAccess: 0
 ---
   id: invoice_tech_user
   name: invoice_tech_user
@@ -476,7 +474,6 @@
   invitedByUserLastName: ""
   tokens:
     - name: invoice_tech_token
-      expiresIn: 0
       token: Bpn5g9V17KJ1O3tC6OcnLEqdG8N9mwjH
       scopes:
         - invoice-tech-r-assoc-id
