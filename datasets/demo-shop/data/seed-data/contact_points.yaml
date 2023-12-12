@@ -1,0 +1,81 @@
+---
+  id: restorecommecre-demo-shop-000-contact-point
+  physicalAddressId: restorecommecre-demo-shop-000-address-000
+  website: https://about.restorecommerce.io/
+  email: demo.shop@restorecommerce.io
+  telephone: "+4971146051909"
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeIds:
+   - billing
+   - shipping
+   - legal
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-shop-organization-000
+---
+  id: restorecommecre-demo-customer-000-contact-point
+  physicalAddressId: restorecommecre-demo-customer-000-address-000
+  website: https://about.restorecommerce.io/
+  email: demo.customer000@restorecommerce.co
+  telephone: "+491630000005"
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeIds:
+    - billing
+    - shipping
+    - legal
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-customer-000-organization
+---
+  id: restorecommecre-demo-customer-001-contact-point
+  physicalAddressId: restorecommecre-demo-customer-001-address-000
+  website: https://about.restorecommerce.io/
+  email: demo.customer001@restorecommerce.co
+  telephone: "+491630000005"
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeIds:
+    - billing
+    - shipping
+    - legal
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-customer-organization-002
+---
+  id: restorecommecre-demo-customer-002-contact-point
+  physicalAddressId: restorecommecre-demo-customer-002-address-000
+  website: https://about.restorecommerce.io/
+  email: demo.customer002@restorecommerce.co
+  telephone: "+491630000005"
+  localeId: de-de
+  timezoneId: europe-berlin
+  contactPointTypeIds:
+    - billing
+    - shipping
+    - legal
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-customer-002-organization
+---

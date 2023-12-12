@@ -1,0 +1,59 @@
+---
+  id: restorecommecre-demo-country-germany
+  name: Germany
+  countryCode: DE
+  geographicalName: Germany
+  economicAreas:
+    - EEA
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-root-organization
+---
+  id: restorecommecre-demo-country-switzerland
+  name: Switzerland
+  countryCode: CH
+  geographicalName: Switzerland
+  economicAreas: []
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-root-organization
+---
+  id: restorecommecre-demo-country-belgium
+  name: Belgium
+  countryCode: BE
+  geographicalName: Belgium
+  economicAreas:
+    - EEA
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-root-organization
+---
+  id: restorecommecre-demo-country-france
+  name: France
+  countryCode: FR
+  geographicalName: France
+  economicAreas:
+    - EEA
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-root-organization

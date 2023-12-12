@@ -1,0 +1,39 @@
+---
+  id: restorecommecre-demo-customer-000
+  commercial:
+    organization_id: restorecommecre-demo-customer-000-organization
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-customer-000-organization
+---
+  id: restorecommecre-demo-customer-001
+  public_sector:
+    organization_id: restorecommecre-demo-customer-organization-001
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-customer-001-organization
+---
+  id: restorecommecre-demo-customer-002
+  private:
+    user_id: restorecommecre-demo-customer-002-user
+    contact_point_ids: [
+      restorecommecre-demo-customer-002-contact-point
+    ]
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-customer-002-user-000

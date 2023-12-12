@@ -1,0 +1,45 @@
+---
+  id: superadministrator-r-id
+  name: Superadministrator
+  description: can read and write across all organization scopes
+  assignableByRoles:
+    - superadministrator-r-id
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: administrator-r-id
+  name: Administrator
+  description: can read and write with in his organization scope
+  assignableByRoles:
+    - superadministrator-r-id
+    - administrator-r-id
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: user-r-id
+  name: user
+  description: can read and write with in his organization scope
+  assignableByRoles:
+    - superadministrator-r-id
+    - administrator-r-id
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---

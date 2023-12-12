@@ -1,0 +1,53 @@
+{
+  "name": "@restorecommerce/datasets",
+  "version": "0.1.0",
+  "description": "Restorecommers data sets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/restorecommerce/data/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "restorecommerce",
+    "example",
+    "data"
+  ],
+  "dependencies": {
+    "@restorecommerce/gql-bot": "^1.0.1",
+    "commander": "^9.4.1",
+    "dotenv": "^16.0.3",
+    "formdata-node": "^4.3.3",
+    "node-fetch": "^3.2.9",
+    "prompt": "^1.3.0",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@restorecommerce/eslint-config-restorecommerce": "^0.1.5",
+    "@restorecommerce/rc-grpc-clients": "^3.0.0",
+    "@types/node": "^18.11.7",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-json": "^3.1.0",
+    "node-xlsx": "^0.23.0",
+    "npm-run-all": "^4.1.5"
+  },
+  "scripts": {
+    "build": "tsc -d -P tsconfig.objects.json",
+    "import": "npm-run-all import:system import:identity",
+    "import:system": "npm-run-all import:system:master import:system:identity import:system:extra",
+    "import:system:master": "node import.js import -d system -j master",
+    "import:system:identity": "node import.js import -d system -j identity",
+    "import:system:extra": "node import.js import -d system -j extra",
+    "import:demoshop": "npm-run-all import:demoshop:master import:demoshop:identity import:demoshop:catalog",
+    "import:demoshop:master": "node import.js import -d demo-shop -j master",
+    "import:demoshop:identity": "node import.js import -d demo-shop -j identity",
+    "import:demoshop:catalog": "node import.js import -d demo-shop -j catalog",
+    "import:demoshop:objects": "node ./dataset/demo-shop/objects/object_importer.js",
+    "transform:demoshop:unitcodes": "node ./dataset/demo-shop/generator/unit_codes/transform.js"
+  },
+  "engines": {
+    "node": ">= 18.0.0"
+  }
+}

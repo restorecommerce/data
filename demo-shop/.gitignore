@@ -1,7 +1,0 @@
-node_modules/
-.env
-data/catalog/
-data/codes/
-objects/*.js
-objects/*.js.map
-objects/*.d.ts

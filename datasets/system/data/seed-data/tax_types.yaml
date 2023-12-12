@@ -1,0 +1,105 @@
+---
+  id: value-added-tax
+  type: Value Added Tax
+  description: Value Added Tax is imposed on each stage of the supply chain and ultimately
+    charged in full to the final purchaser.
+  meta:
+    modifiedBy: system
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: tax-free
+  type: Tax-free
+  description: Not subject to taxation.
+  meta:
+    modifiedBy: system
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: sales-tax
+  type: Sales Tax
+  description: Sales Tax is the style of tax often used in the USA, where many governmental
+    entities impose their own tax on every purchase. It's typically added as a line
+    item in the subtotal. Sales tax is collected on retail sales at the time of the
+    sale to the final consumer, and only the final sale in the supply chain is subject
+    to tax.
+  meta:
+    modifiedBy: system
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: visitors-tax
+  type: Visitor's Tax
+  description: Tax to be payed for visitors of certain localities, such as health
+    resorts.
+  meta:
+    modifiedBy: system
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: corporate-tax
+  type: Corporate Tax
+  description: A direct tax imposed by a jurisdiction on the income or capital of
+    corporations or analogous legal entities
+  meta:
+    modifiedBy: system
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: individual-income-tax
+  type: Individual Income Tax
+  description: 'The individual income tax is levied on the wages, salaries, dividends,
+  interest, and other income a person earns throughout the year. '
+  meta:
+    modifiedBy: system
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: real-estate-tax
+  type: Real Estate Tax
+  description: Tax rate applied to a real estate property
+  meta:
+    modifiedBy: system
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: property-tax
+  type: Property Tax
+  description: An ad valorem tax on the value of a property, usually levied on real
+    estate
+  meta:
+    modifiedBy: system
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system

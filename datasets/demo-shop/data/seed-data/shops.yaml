@@ -1,0 +1,16 @@
+---
+  id: restorecommecre-demo-shop-000
+  shop_number: "00000000" 
+  name: "Restorecommerce Demo Shop 000"
+  description: ""
+  domain: "restorecommerce.demo.shop"
+  organization_id: restorecommecre-demo-shop-000-organization
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-shop-000-organization
+---
