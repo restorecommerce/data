@@ -45,6 +45,13 @@
       "src": "./datasets/system/data/seed-data/",
       "filter": "contact_point_types.yaml",
       "mutation": "mutation{ master_data { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    },
+    {
+      "name": "organizations",
+      "operation": "sync",
+      "src": "./datasets/system/data/seed-data/",
+      "filter": "organizations.yaml",
+      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }

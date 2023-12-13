@@ -1,15 +1,14 @@
-# Demo-Shop Data Set for Restorecommerce
+# System Data Set for Restorecommerce
 
 The data set comprises the following resources:
 
-- Test users for back office and customers
-- Master data such as VAT rates for Europe
-- Shop catalog with thousands of products based on [a Flipkart data set](https://www.kaggle.com/pramod7/flipkart-data-insights)
+- System relevant enumerations
+- Basic access control rules, policies and roles
+- Tech users
+- Unit codes, countries, timezones, taxes, etc.
 
 The data is partially generated with a set of generator scripts which reside
 under [generator](generator).
-
-> NOTE: Please import dataset [System](../system) before [Demo Shop](../demo-shop).
 
 ## Usage
 
@@ -24,12 +23,12 @@ to import the data locally or into the production environment.
 
 ### Current supported jobs are
 
-- master (imports resources `organizations`, `addresses`, `contact_points`, `shops`, `customers`)
-- identity (imports `users`)
-- catalog (imports resources `price_group`, `manufacturer`, `product_category`, `product_prototype`, `product`)
+- master (imports resources `commands` `contact_points_types`, `countries`, `locales`, `organizations`, `tax_types`, `taxes`, `timezones`)
+- identity (imports `users`, `policies`, `policy_sets`, `roles`, `rules`)
+- extra (imports resources `unit_codes`)
 
 > NOTE: Resources must be imported in a specific order!
-> Master > Identity > Catalog.
+> Master > Identity > Extra.
 >
 > For the case when importing resources returns "Access denied", one way to fix
 > this is to restart `facade-srv` in order to sync the api key with the other
@@ -47,13 +46,13 @@ to import the data locally or into the production environment.
 
 3. Import datasets using [`import.js script`](./import.js):
 
-   - `node ./import.js import -t <access_token> -d demo-shop -j <job>`
+   - `node ./import.js import -t <access_token> -d system -j <job>`
 
 4. Examples:
 
-   - `node ./import.js import -t <access_token>  -d demo-shop -j master`
-   - `node ./import.js import -t <access_token>  -d demo-shop -j identity`
-   - `node ./import.js import -t <access_token>  -d demo-shop -j catalog`
+   - `node ./import.js import -t <access_token> -d system -j master`
+   - `node ./import.js import -t <access_token> -d system -j identity`
+   - `node ./import.js import -t <access_token> -d system -j extra`
 
 ### Supported environment variables: `GQL_ENDPOINT`.
 
@@ -63,22 +62,3 @@ The API key is generated during system startup from the `facade-srv` (Check the 
 
 By default, the GraphQL importer uses the configuration file `config.json` to read data regarding endpoints for retrieving the API key
 and executing mutations/ queries.
-
-## Object Importer
-
-To import the files, following settings needs to be configured in [config.json](cfg/config.json):
-* The base directory for import, 
-* GraphQL endpoint 
-* Bucket name for the storage-server
-
-Prerequisite: object importer should be build using `npm run build` command before importing objects.
-
-```sh
-# Run import in production-mode:
-npm run import-objects -- --apiKey=<access_token> -- --NODE_ENV=local
-
-# Run import in production-mode:
-npm run import-objects -- --apiKey=<access_token> -- --NODE_ENV=production
-# or:
-npm run import-objects -- --apiKey=<access_token> # default is development
-```

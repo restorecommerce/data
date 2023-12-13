@@ -12,7 +12,7 @@ jobs:
       - name: Setup NodeJS
         uses: actions/setup-node@v1
         with:
-          node-version: '12.18'
+          node-version: '20.8.0'
 
       - name: Setup System
         uses: restorecommerce/setup-system-action@v1
@@ -21,22 +21,18 @@ jobs:
 
       - name: Install Dependencies
         run: npm ci
-        working-directory: demo-shop
 
-      - name: Import master data
+      - name: Import system master data
         run: |
           API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
-          node import.js import -t $API_KEY -j master
-        working-directory: demo-shop
+          node import.js import -t $API_KEY -d system -j master
 
-      - name: Import identity data
+      - name: Import system identity data
         run: |
           API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
-          node import.js import -t $API_KEY -j identity
-        working-directory: demo-shop
+          node import.js import -t $API_KEY -d system -j identity
 
       - name: Import extra data
         run: |
           API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
-          node import.js import -t $API_KEY -j extra
-        working-directory: demo-shop
+          node import.js import -t $API_KEY -d system -j extra
