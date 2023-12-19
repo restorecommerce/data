@@ -35,6 +35,7 @@
     - ostorage_policy
     - tokens_policy
     - ostorage_interal_bucket_policy
+    - unauth_execute_action_policy
   meta:
     modifiedBy: ""
     owners:

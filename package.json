@@ -35,7 +35,8 @@
   },
   "scripts": {
     "build": "tsc -d -P tsconfig.objects.json",
-    "import": "npm-run-all import:system import:identity",
+    "env:token": "echo $(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print \"\rACCESS_TOKEN=\"$7}') > .env && cat .env",
+    "import": "npm-run-all import:system import:demoshop",
     "import:system": "npm-run-all import:system:master import:system:identity import:system:extra",
     "import:system:master": "node import.js import -d system -j master",
     "import:system:identity": "node import.js import -d system -j identity",

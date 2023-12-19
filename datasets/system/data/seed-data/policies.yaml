@@ -17,7 +17,7 @@
     - forgot_password_rule  # Unauthenticated user can reset its password
     - confirm_email_change_rule  # Unauthenticated user can reset confirm email change
     - normal_user_account_rule  # Authenticated User has all permissions to access its own account
-    - administrator_user_rule  # Admin
+    - administrator_rule  # Admin
     - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
   meta:
@@ -43,7 +43,7 @@
     actions: [ ]
   rules:
     - normal_user_organization_read_rule_scoped  # Reads
-    - administrator_organization_rule_scoped  # Admin
+    - administrator_rule  # Admin
     - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
@@ -69,7 +69,7 @@
     actions: [ ]
   rules:
     - normal_user_address_read_rule_scoped  # Reads
-    - administrator_address_rule_scoped  # Admin
+    - administrator_rule # Admin
     - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
   meta:
@@ -95,7 +95,7 @@
     actions: [ ]
   rules:
     - normal_user_contactpoint_read_rule_scoped  # Reads
-    - administrator_contactpoint_rule_scoped  # Admin
+    - administrator_rule # Admin
     - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
@@ -292,7 +292,6 @@
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:execute
-    subjects: [ ]
     resources: [ ]
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
@@ -311,7 +310,7 @@
     - user_scoped_order_submit_rule
     - user_scoped_order_withdraw_rule
     - unauth_user_order_submit_rule
-    - fall_back_rule  # Deny
+    - superadmin_rule
 ---
   id: commands_policy
   name: Commands Policy
@@ -325,8 +324,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -349,8 +348,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -373,8 +372,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -397,8 +396,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -421,8 +420,8 @@
     subjects: [ ]
     actions: [ ]
   rules:
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -442,11 +441,7 @@
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
-    actions:
-      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
-        value: urn:restorecommerce:acs:names:action:modify
-      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
-        value: urn:restorecommerce:acs:names:action:delete
+    actions: [ ]
     subjects: [ ]
   rules:
     - org_scoped_order_read_rule
@@ -455,8 +450,8 @@
     - user_scoped_order_read_rule
     - user_scoped_order_modify_rule
     - user_scoped_order_delete_rule
-    - fall_back_rule  # Deny: All
     - superadmin_rule  # Permit: SuperAdmin
+    - fall_back_rule  # Deny: All
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -482,8 +477,8 @@
   rules:
     - org_scoped_customer_read_rule  # Permit: normal user under an Org scope
     - user_scoped_customer_read_rule  # Permit: normal user who owns the resource and not bounded to any organization
-    - fall_back_rule  # Deny: All
     - superadmin_rule  # Permit: SuperAdmin
+    - fall_back_rule  # Deny: All
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -507,8 +502,8 @@
     actions: [ ]
   rules:
     - normal_user_product_read_rule  # Reads
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -582,8 +577,8 @@
     actions: [ ]
   rules:
     - normal_user_product_category_read_rule  # Reads
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -607,8 +602,8 @@
     actions: [ ]
   rules:
     - normal_user_price_group_read_rule  # Reads
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -633,8 +628,8 @@
     actions: [ ]
   rules:
     - normal_user_ostorage_bucket_rule_scoped  # Reads
-    - fall_back_rule  # Deny
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -659,9 +654,9 @@
     - normal_user_token_modify_rule_condition  # user-r-id modify rule
     - normal_user_token_delete_rule_condition  # user-r-id delete rule
     - normal_user_token_read_rule_condition  # user-r-id read rule
-    - admin_user_token_rule_scoped  # admin CRMD rule
-    - fall_back_rule  # fallback Deny rule
+    - administrator_rule  # admin CRMD rule scoped
     - superadmin_rule  # superAdmin rule
+    - fall_back_rule  # fallback Deny rule
   meta:
     modifiedBy: ""
     owners:
@@ -680,8 +675,9 @@
         value: urn:restorecommerce:acs:model:internal.Internal
   rules:
     - unauth_user_internal_bucket_rule  # normal user
-    - fall_back_rule  # Deny
+    - administrator_rule
     - superadmin_rule  # SuperAdmin
+    - fall_back_rule  # Deny
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""

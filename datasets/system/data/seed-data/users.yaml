@@ -51,7 +51,7 @@
   invitedByUserLastName: ""
   tokens:
     - name: unauthenticated_token
-      token: unauthenticated
+      token: 2ce88810e1a8463fa14c8bc6cfa12345
       scopes:
         - user-r-role-assoc-id
 ---

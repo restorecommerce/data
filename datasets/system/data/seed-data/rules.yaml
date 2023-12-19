@@ -19,8 +19,33 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: superadmin_rule
+  name: SuperAdmins Rule
+  description: Permit anything by SuperAdmins (fallback rule)
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: superadministrator-r-id # SuperAdmin
+    actions: [ ]
+    resources: [ ]
+  effect: PERMIT
+  condition: ""
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_read_rule
   name: User read rule
@@ -51,8 +76,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_organization_read_rule_scoped
   name: Organization read rule
@@ -80,8 +106,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_address_read_rule_scoped
   name: Address read rule
@@ -109,8 +136,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_contactpoint_read_rule_scoped
   name: ContactPoint read rule
@@ -138,8 +166,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_contactpoint_type_read_rule
   name: ContactPointType read rule
@@ -165,8 +194,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_locale_read_rule
   name: Locale read rule
@@ -192,8 +222,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_timezone_read_rule
   name: Timezone read rule
@@ -219,8 +250,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_roles_read_rule
   name: Role read rule
@@ -248,8 +280,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: superadmin_role_read_rule
   name: Role SuperAdmin read rule
@@ -277,8 +310,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_tax_read_rule
   name: Tax read rule
@@ -304,8 +338,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_tax_type_read_rule
   name: TaxType read rule
@@ -331,8 +366,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_country_read_rule
   name: Country read rule
@@ -358,8 +394,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: register_user_rule
   name: Register User rule
@@ -385,8 +422,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: forgot_password_rule
   name: User 'Forgot Password' rule
@@ -416,8 +454,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: confirm_email_change_rule
   name: User 'ConfirmEmailChange' rule
@@ -447,8 +486,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: user_activation_rule
   name: User Activation
@@ -478,8 +518,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_account_rule
   name: User Account Rule
@@ -514,49 +555,21 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
-  id: administrator_user_rule
-  name: User Admin Rule
-  description: Permits if subject is Admin within the resource's hierarchical scope
+  id: administrator_rule
+  name: Admin Rule
+  description: Permits all if subject is Admin within the resource's hierarchical scope
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: administrator-r-id # Admin
       - id: urn:restorecommerce:acs:names:roleScopingEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:user.User
-    actions: []
-  effect: PERMIT
-  condition: ""
-  evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
----
-  id: administrator_organization_rule_scoped
-  name: Organization Admin Rule
-  description: Permits if subject is Admin within the resource's hierarchical scope
-  target:
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: administrator-r-id # Admin
-      - id: urn:restorecommerce:acs:names:roleScopingEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: []
+    resources: []
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
@@ -568,62 +581,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
----
-  id: administrator_address_rule_scoped
-  name: Address Admin Rule
-  description: Permits if subject is Admin within the resource's hierarchical scope
-  target:
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: administrator-r-id # Admin
-      - id: urn:restorecommerce:acs:names:roleScopingEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:address.Address
-    actions: []
-  effect: PERMIT
-  condition: ""
-  evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
----
-  id: administrator_contactpoint_rule_scoped
-  name: ContactPoint Admin Rule
-  description: Permits if subject is Admin within the resource's hierarchical scope
-  target:
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: administrator-r-id # Admin
-      - id: urn:restorecommerce:acs:names:roleScopingEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:contact_point.ContactPoint
-    actions: [ ]
-  effect: PERMIT
-  condition: ""
-  evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 # Special Rules
 ---
   id: delete_organization_rule
@@ -650,8 +610,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: execute_command_rule
   name: ExecuteCommand Rule
@@ -678,31 +639,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
----
-  id: superadmin_rule
-  name: SuperAdmins Rule
-  description: Permit anything by SuperAdmins (fallback rule)
-  target:
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: superadministrator-r-id # SuperAdmin
-    actions: [ ]
-    resources: [ ]
-  effect: PERMIT
-  condition: ""
-  evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: org_scoped_order_read_rule
   name: Order read rule for scoped Organization
@@ -730,8 +669,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: org_scoped_order_modify_rule
   name: Order create or modify rule for scoped Organization
@@ -767,8 +707,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: org_scoped_order_delete_rule
   name: Order delete rule for scoped Organization
@@ -804,8 +745,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: org_scoped_order_submit_rule
   name: Order submit rule for scoped Organization
@@ -843,8 +785,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: org_scoped_order_withdraw_rule
   name: Order withdraw rule for scoped Organization
@@ -879,8 +822,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: user_scoped_order_read_rule
   name: Order read rule for scoped User
@@ -908,8 +852,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: user_scoped_order_modify_rule
   name: Order create or modify rule for scoped User
@@ -948,8 +893,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: user_scoped_order_delete_rule
   name: Order delete rule for scoped User
@@ -988,8 +934,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: user_scoped_order_submit_rule
   name: Order submit rule for scoped User
@@ -1028,8 +975,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: user_scoped_order_withdraw_rule
   name: Order withdraw rule for scoped User
@@ -1040,9 +988,6 @@
         value: user-r-id # NormalUser
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:user.User
-    actions:
-      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
-        value: urn:restorecommerce:acs:names:action:execute
     resources:
       - id: urn:restorecommerce:acs:names:operation
         value: execution.withdrawOrders
@@ -1064,8 +1009,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: unauth_user_order_submit_rule
   name: Order submit rule for scoped unauthenticated User
@@ -1074,25 +1020,12 @@
     subjects:
       - id: urn:restorecommerce:acs:names:unauthenticated-user
         value: "true"
-    actions:
-      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
-        value: urn:restorecommerce:acs:names:action:execute
     resources:
       - id: urn:restorecommerce:acs:names:operation
         value: execution.submitOrders
   effect: PERMIT
   # NormalUser can only submit orders of no higher state than CREATED
-  condition:
-    "
-    (request) => request?.context?.resources?.every(
-      resource => resource.user_id === request.subject?.id
-        && (
-          !resource.order_state
-          || resource.order_state?.toString() === 'UNRECOGNIZED'
-          || resource.order_state?.toString() === 'CREATED'
-        )
-    );
-    "
+  condition: ""
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -1102,8 +1035,9 @@
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
-      - id: urn:restorecommerce:acs:names:ownerInstance
-        value: system
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: org_scoped_customer_read_rule
   name: Customer read rule for Organizational Scope
@@ -1451,28 +1385,6 @@
       let filter = context?.subject?.id;
       filter;
     "
-  effect: PERMIT
-  evaluationCacheable: true
-  meta:
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: admin_user_token_rule_scoped
-  name: Token Admin rule
-  description: Permit CRMD to token resource by admin user
-  target:
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: administrator-r-id
-      - id: urn:restorecommerce:acs:names:roleScopingEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:token.Token
   effect: PERMIT
   evaluationCacheable: true
   meta:

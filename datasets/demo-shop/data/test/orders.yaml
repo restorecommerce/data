@@ -1,0 +1,49 @@
+{
+  "input": {
+    "items": [
+      {
+        "billingAddress": {
+          "address": null,
+          "contact": {
+            "email": null,
+            "name": null,
+            "phone": null
+          }
+        },
+        "customerId": null,
+        "shopId": null,
+        "userId": null,
+        "shippingAddress": {
+          "address": null,
+          "contact": null
+        },
+        "notificationEmail": null,
+        "items": [
+          {
+            "quantity": null,
+            "productId": null,
+            "variantId": null,
+            "unitPrice": {
+              "currencyId": null,
+              "regularPrice": null,
+              "sale": null,
+              "salePrice": null
+            },
+            "id": null,
+            "amount": {
+              "currencyId": null,
+              "gross": null,
+              "net": null,
+              "vats": [
+                {
+                  "taxId": null,
+                  "vat": null
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

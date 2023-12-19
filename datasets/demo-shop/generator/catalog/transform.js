@@ -327,7 +327,7 @@ function parseInputLine(csvLine) {
 }
 
 function writeYAML(list_meta) {
-  const outputDir = `${__dirname}../../data/generated/catalog/`;
+  const outputDir = `${__dirname}/../../data/generated/catalog/`;
   const dataset = list_meta.dataset;
   const filename = list_meta.filename;
   let item_list = [];
@@ -350,8 +350,8 @@ function writeYAML(list_meta) {
   fs.writeFileSync(filePath, stream);
 }
 
-export function transform() {
-  fs.createReadStream(`${__dirname}flipkart_com-ecommerce_sample.csv`)
+function transform() {
+  fs.createReadStream(`${__dirname}/flipkart_com-ecommerce_sample.csv`)
     .pipe(csv())
     .on('data', parseInputLine)
     .on('end', () => {
@@ -360,3 +360,5 @@ export function transform() {
       }
     });
 }
+
+transform();
