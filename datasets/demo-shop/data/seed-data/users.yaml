@@ -49,9 +49,12 @@
   invitedByUserName: ""
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
+  properties: 
+    - id: urn:restorecommerce:acs:names:network:src:domain,
+     value: store.restorecommerce.io
   tokens:
     - name: unauthenticated_token
-      token: 2ce88810e1a8463fa14c8bc6cfa12346
+      token: restorecommerce-demo-unauthenticated-user
       scopes:
         - user-r-role-assoc-id
 ---
