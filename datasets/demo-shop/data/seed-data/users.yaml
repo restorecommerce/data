@@ -54,7 +54,7 @@
       value: store.restorecommerce.io
   tokens:
     - name: unauthenticated_token
-      token: restorecommerce-demo-unauthenticated-user
+      token: k2veMOlBe52yUNMHNYJvCmD3T9iAKCpB
       scopes:
         - user-r-role-assoc-id
 ---
@@ -88,7 +88,6 @@
   active: true
   activationCode: ""
   passwordHash: ""
-  unauthenticated: false
   guest: false
   image:
     id: ""
@@ -149,7 +148,6 @@
   active: true
   activationCode: ""
   passwordHash: ""
-  unauthenticated: false
   guest: false
   image:
     id: ""
@@ -210,7 +208,6 @@
   active: true
   activationCode: ""
   passwordHash: ""
-  unauthenticated: false
   guest: false
   image:
     id: ""
@@ -271,7 +268,6 @@
   active: true
   activationCode: ""
   passwordHash: ""
-  unauthenticated: false
   guest: false
   image:
     id: ""
@@ -324,7 +320,6 @@
   active: true
   activationCode: ""
   passwordHash: ""
-  unauthenticated: false
   guest: false
   image:
     id: ""
@@ -377,7 +372,6 @@
   active: true
   activationCode: ""
   passwordHash: ""
-  unauthenticated: false
   guest: false
   image:
     id: ""
@@ -430,7 +424,6 @@
   active: true
   activationCode: ""
   passwordHash: ""
-  unauthenticated: false
   guest: false
   image:
     id: ""
