@@ -1,10 +1,10 @@
 ---
   id: restorecommecre-demo-shop-000
-  shop_number: "00000000" 
+  shopNumber: "00000000" 
   name: "Restorecommerce Demo Shop 000"
   description: ""
   domain: store.restorecommerce.io
-  organization_id: restorecommecre-demo-shop-000-organization
+  organizationId: restorecommecre-demo-shop-000-organization
   meta:
     modifiedBy: ""
     owners:

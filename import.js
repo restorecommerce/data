@@ -60,7 +60,7 @@ async function commandDataImport(cmd) {
       console.log('Resources imported successfully');
     });
     jobResult.on('error', (err) => {
-      console.error('Error :', err);
+      console.error('Error :', err, JSON.stringify(err ?? '', null, 2));
     });
   }
 }

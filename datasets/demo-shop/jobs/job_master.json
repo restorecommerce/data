@@ -24,6 +24,13 @@
       "src": "./datasets/demo-shop/data/seed-data/",
       "filter": "organizations.yaml",
       "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    },
+    {
+      "name": "shops",
+      "operation": "sync",
+      "src": "./datasets/demo-shop/data/seed-data/",
+      "filter": "shops.yaml",
+      "mutation": "mutation{ master_data { shop { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }

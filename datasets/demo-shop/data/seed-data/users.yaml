@@ -33,7 +33,6 @@
   active: true
   activationCode: ""
   passwordHash: ""
-  unauthenticated: false
   guest: false
   image:
     id: ""
