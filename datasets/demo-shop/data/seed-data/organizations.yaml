@@ -24,9 +24,7 @@
   id: restorecommecre-demo-shop-000-organization
   name: Restorecommerce Demo Shop 000 Organization
   contactPointIds:
-    - restorecommecre-demo-shop-000-contact-point-billing
-    - restorecommecre-demo-shop-000-contact-point-shipping
-    - restorecommecre-demo-shop-000-contact-point-legal
+    - restorecommecre-demo-shop-000-contact-point
   website: https://about.restorecommerce.io/
   email: shop000@restorecommerce.io
   vatId: DE000000000

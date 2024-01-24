@@ -1,13 +1,12 @@
 {
   "options": {
-    "base": "./",
+    "base": "./datasets/demo-shop/data/seed-data/",
     "concurrency": 1
   },
   "tasks": [
     {
       "name": "users",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/seed-data/",
       "filter": "users*.yaml",
       "mutation": "mutation mutateUsers($var: [IIoRestorecommerceUserUser!]!){ identity { user { Mutate( input: { items: $var, totalCount: 0,  mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }  } } } }}"
     }

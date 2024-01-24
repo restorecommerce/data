@@ -1,7 +1,7 @@
 ---
   id: restorecommecre-demo-customer-000
   commercial:
-    organization_id: restorecommecre-demo-customer-000-organization
+    organizationId: restorecommecre-demo-customer-000-organization
   meta:
     modifiedBy: ""
     owners:
@@ -12,8 +12,8 @@
             value: restorecommecre-demo-customer-000-organization
 ---
   id: restorecommecre-demo-customer-001
-  public_sector:
-    organization_id: restorecommecre-demo-customer-organization-001
+  publicSector:
+    organizationId: restorecommecre-demo-customer-organization-001
   meta:
     modifiedBy: ""
     owners:
@@ -25,8 +25,8 @@
 ---
   id: restorecommecre-demo-customer-002
   private:
-    user_id: restorecommecre-demo-customer-002-user
-    contact_point_ids: [
+    userId: restorecommecre-demo-customer-002-user
+    contactPointIds: [
       restorecommecre-demo-customer-002-contact-point
     ]
   meta:
@@ -40,8 +40,8 @@
 ---
   id: restorecommecre-demo-customer-unauthenticated
   private:
-    user_id: unauthenticated_user
-    contact_point_ids: []
+    userId: unauthenticated_user
+    contactPointIds: []
   meta:
     modifiedBy: ""
     owners:

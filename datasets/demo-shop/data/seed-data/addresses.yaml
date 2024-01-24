@@ -5,7 +5,7 @@
   street: Ossietzkystraße
   buildingNumber: '4'
   region: Stuttgart
-  countryId: restorecommecre-demo-country-germany
+  countryId: germany
   altitude: 0
   addressAddition:
     field1: ""
@@ -28,7 +28,7 @@
   street: Erste Teststraße
   buildingNumber: '1'
   region: Testregion
-  countryId: restorecommecre-demo-country-germany
+  countryId: germany
   altitude: 0
   addressAddition:
     field1: ""
@@ -51,7 +51,7 @@
   street: Zweite Teststraße
   buildingNumber: '1'
   region: Beispielregion
-  countryId: restorecommecre-demo-country-germany
+  countryId: germany
   altitude: 0
   addressAddition:
     field1: ""
@@ -74,7 +74,7 @@
   street: Zweite Teststraße
   buildingNumber: '1'
   region: Beispielregion
-  countryId: restorecommecre-demo-country-germany
+  countryId: germany
   altitude: 0
   addressAddition:
     field1: ""

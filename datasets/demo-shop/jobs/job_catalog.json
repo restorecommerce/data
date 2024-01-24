@@ -1,46 +1,37 @@
 {
   "options": {
-    "base": "./",
+    "base": "./datasets/demo-shop/data/generated/catalog/",
     "concurrency": 1
   },
   "tasks": [
     {
       "name": "price_groups",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/generated/catalog/",
       "filter": "price_groups*.yaml",
       "mutation": "mutation{ catalog { price_group { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "manufacturers",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/generated/catalog/",
       "filter": "manufacturers*.yaml",
-      "batchSize": 500,
       "mutation": "mutation{ catalog { manufacturer { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "product_categories",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/generated/catalog/",
       "filter": "product_categories*.yaml",
-      "batchSize": 500,
       "mutation": "mutation{ catalog { product_category { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "product_prototypes",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/generated/catalog/",
       "filter": "product_prototypes*.yaml",
-      "batchSize": 500,
       "mutation": "mutation{ catalog { product_prototype { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "products",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/generated/catalog/",
       "filter": "products*.yaml",
-      "batchSize": 500,
       "mutation": "mutation{ catalog { product { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     }
   ]

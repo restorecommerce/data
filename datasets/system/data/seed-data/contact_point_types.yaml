@@ -21,8 +21,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: legal-address
-  type: legal-address
+  id: legal
+  type: legal
   meta:
     modifiedBy: ""
     owners:

@@ -13,6 +13,7 @@
     "data"
   ],
   "dependencies": {
+    "@restorecommerce/rc-grpc-clients": "^5.1.15",
     "@restorecommerce/gql-bot": "^1.0.1",
     "commander": "^9.4.1",
     "dotenv": "^16.0.3",
@@ -23,7 +24,6 @@
   },
   "devDependencies": {
     "@restorecommerce/eslint-config-restorecommerce": "^0.1.5",
-    "@restorecommerce/rc-grpc-clients": "^3.0.0",
     "@types/node": "^18.11.7",
     "babel-eslint": "^10.0.3",
     "eslint": "^8.26.0",
@@ -35,7 +35,7 @@
   },
   "scripts": {
     "build": "tsc -d -P tsconfig.objects.json",
-    "env:token": "echo $(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print \"\rACCESS_TOKEN=\"$7}') > .env && cat .env",
+    "env:token": "echo $(docker logs --tail 10000 restorecommerce_facade_srv 2> /dev/null | grep 'Bootstrap API Key is:' | awk '{print \"\rACCESS_TOKEN=\"$7}') > .env && cat .env",
     "import": "npm-run-all import:system import:demoshop",
     "import:system": "npm-run-all import:system:master import:system:identity import:system:extra",
     "import:system:master": "node import.js import -d system -j master",
@@ -46,7 +46,8 @@
     "import:demoshop:identity": "node import.js import -d demo-shop -j identity",
     "import:demoshop:catalog": "node import.js import -d demo-shop -j catalog",
     "import:demoshop:objects": "node ./dataset/demo-shop/objects/object_importer.js",
-    "transform:demoshop:unitcodes": "node ./dataset/demo-shop/generator/unit_codes/transform.js"
+    "transform:system:unitcodes": "node ./datasets/system/generator/unit_codes/transform.js",
+    "transform:demoshop:catalog": "node ./datasets/demo-shop/generator/catalog/transform.js"
   },
   "engines": {
     "node": ">= 18.0.0"

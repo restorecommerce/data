@@ -22,17 +22,8 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      - name: Import system master data
-        run: |
-          API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
-          node import.js import -t $API_KEY -d system -j master
+      - name: Extract Bootstrap API-KEY
+        run: npm run env:token
 
-      - name: Import system identity data
-        run: |
-          API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
-          node import.js import -t $API_KEY -d system -j identity
-
-      - name: Import extra data
-        run: |
-          API_KEY=$(docker logs restorecommerce_facade_srv 2>/dev/null | grep API | awk '{print $7}')
-          node import.js import -t $API_KEY -d system -j extra
+      - name: Import all
+        run: npm run import

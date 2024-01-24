@@ -11,7 +11,7 @@ const CONFIG_NAME = process.env.CONFIG_NAME ?? '.config.json';
 const CONFIG = JSON.parse(fs.readFileSync(CONFIG_NAME).toString());
 
 async function commandDataImport(cmd) {
-  const dataset = cmd.dataset ?? exitWithError('error: please choose data set');
+  const dataset = cmd.dataset ?? exitWithError('error: please select data set');
   const accessToken = cmd.token
     ?? process.env.ACCESS_TOKEN
     ?? exitWithError('error: please provide an access token');
@@ -29,22 +29,11 @@ async function commandDataImport(cmd) {
     }
   });
 
-  const config = {
-    ...CONFIG
-  };
-
-  /*
-  const protocol = cmd.protocol ?? config.protocol ?? 'http'
-  const host = cmd.host ?? config.host;
-  const port = cmd.port ?? config.port;
-  config.entry = `${protocol}://${host}:${port}${config.endpoint}`;
-  */
-
   if (accessToken) {
-    config.headers = Object.assign({}, config.headers, { 'Authorization': `Bearer ${accessToken}` });
+    CONFIG.headers = Object.assign(CONFIG.headers ?? {}, { 'Authorization': `Bearer ${accessToken}` });
   }
 
-  const gqlProcessor = new GraphQLProcessor(config);
+  const gqlProcessor = new GraphQLProcessor(CONFIG);
 
   /* eslint no-restricted-syntax: ["error", "FunctionExpression",
    "WithStatement", "BinaryExpression[operator='in']"] */
@@ -54,19 +43,19 @@ async function commandDataImport(cmd) {
     const jobProcessor = new JobProcessor(job);
     const jobResult = await jobProcessor.start(null, null, !!cmd.verbose, !!cmd.ignore);
     jobResult.on('progress', (task) => {
-      console.log('Progress :', task.basename);
+      console.log('Progress:', task.basename);
     });
     jobResult.on('done', () => {
-      console.log('Resources imported successfully');
+      console.log('Import successfully');
     });
     jobResult.on('error', (err) => {
-      console.error('Error :', err, JSON.stringify(err ?? '', null, 2));
+      console.error('Error:', err, JSON.stringify(err ?? '', null, 2));
     });
   }
 }
 
 function commandListJobs(cmd) {
-  const dataset = cmd.dataset ?? exitWithError('error: please choose data set');
+  const dataset = cmd.dataset ?? exitWithError('Error: please select data set');
   const files = fs.readdirSync(path.join(CONFIG['data_directory'], dataset, CONFIG['job_directory']));
   const prefix = CONFIG['job_prefix'];
   files.forEach(file => {

@@ -3,68 +3,45 @@ const fs = require('fs');
 const hash = require('object-hash');
 const uuid = require('uuid');
 const yaml = require('js-yaml');
-const _ = require('lodash');
 
-const priceGroups = {
-  0: {
+const FILE_SLICE = 500;
+
+const meta = {
+  modifiedBy: '',
+  owners: [
+    {
+      id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
+      value: 'urn:restorecommerce:acs:model:organization.Organization',
+      attributes: [
+        {
+          id: 'urn:restorecommerce:acs:names:ownerInstance',
+          value: 'restorecommecre-demo-shop-000-organization'
+        }
+      ]
+    }
+  ]
+};
+
+const priceGroups = [
+  {
+    id: 'PG1',
     name: 'PG1',
     description: 'Dummy price group 1',
-    meta: {
-      modifiedBy: '',
-      owners: [
-        {
-          id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-          value: 'urn:restorecommerce:acs:model:organization.Organization',
-          attributes: [
-            {
-              id: 'urn:restorecommerce:acs:names:ownerInstance',
-              value: 'restorecommerce-demo-shop'
-            }
-          ]
-
-        }
-      ]
-    }
+    meta
   },
-  1: {
+  {
+    id: 'PG2',
     name: 'PG2',
     description: 'Dummy price group 2',
-    meta: {
-      modifiedBy: '',
-      owners: [
-        {
-          id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-          value: 'urn:restorecommerce:acs:model:organization.Organization',
-          attributes: [
-            {
-              id: 'urn:restorecommerce:acs:names:ownerInstance',
-              value: 'restorecommerce-demo-shop'
-            }
-          ]
-        }
-      ]
-    }
+    meta
   },
-  2: {
+  {
+    id: 'PG3',
     name: 'PG3',
     description: 'Dummy price group 3',
-    meta: {
-      modifiedBy: '',
-      owners: [
-        {
-          id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-          value: 'urn:restorecommerce:acs:model:organization.Organization',
-          attributes: [
-            {
-              id: 'urn:restorecommerce:acs:names:ownerInstance',
-              value: 'restorecommerce-demo-shop'
-            }
-          ]
-        }
-      ]
-    }
+    meta
   }
-}; // no data available
+]; // no data available
 
 const prodCategories = {};
 const prodPrototypes = {};
@@ -74,23 +51,23 @@ const products = {};
 const resources = [
   {
     dataset: priceGroups,
-    filename: 'price_groups.yaml'
+    filename: 'price_groups'
   },
   {
     dataset: manufacturers,
-    filename: 'manufacturers.yaml'
+    filename: 'manufacturers'
   },
   {
     dataset: prodCategories,
-    filename: 'product_categories.yaml'
+    filename: 'product_categories'
   },
   {
     dataset: prodPrototypes,
-    filename: 'product_prototypes.yaml'
+    filename: 'product_prototypes'
   },
   {
     dataset: products,
-    filename: 'products.yaml'
+    filename: 'products'
   }
 ];
 
@@ -114,23 +91,10 @@ function parseInputLine(csvLine) {
 
   if (!manufacturers[brandHash]) {
     manufacturers[brandHash] = {
+      id: brandHash,
       name: brandEntry,
       description: 'Dummy description for manufacturer ' + brandEntry,
-      meta: {
-        modifiedBy: '',
-        owners: [
-          {
-            id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-            value: 'urn:restorecommerce:acs:model:organization.Organization',
-            attributes: [
-              {
-                id: 'urn:restorecommerce:acs:names:ownerInstance',
-                value: 'restorecommerce-demo-shop'
-              }
-            ]
-          }
-        ]
-      }
+      meta
     };
   }
 
@@ -171,27 +135,13 @@ function parseInputLine(csvLine) {
       const categoryLevelHash = hash(categoryTree[index]);
 
       if (!prodCategories[categoryLevelHash]) {
-        const priceGroupIdStr = String(Math.floor(Math.random() * 3));
         prodCategories[categoryLevelHash] = {
+          id: categoryLevelHash,
           name: categoryTree[index],
           description: 'Dummy description for category ' + categoryTree[index],
           image: categoryImgData,
-          priceGroupId: priceGroupIdStr.toString(),
-          meta: {
-            modifiedBy: '',
-            owners: [
-              {
-                id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-                value: 'urn:restorecommerce:acs:model:organization.Organization',
-                attributes: [
-                  {
-                    id: 'urn:restorecommerce:acs:names:ownerInstance',
-                    value: 'restorecommerce-demo-shop'
-                  }
-                ]
-              }
-            ]
-          }
+          priceGroupId: priceGroups[Math.floor(Math.random() * priceGroups.length)]?.id,
+          meta
         };
         if (lastCategory != null) {
           prodCategories[categoryLevelHash]['parent'] = { parentId: hash(lastCategory) };
@@ -209,25 +159,12 @@ function parseInputLine(csvLine) {
 
       if (!prodPrototypes[prototypeCatHash]) {
         prodPrototypes[prototypeCatHash] = {
+          id: prototypeCatHash,
           name: prototypeCat,
           description: 'Dummy description for prototype ' + prototypeCat,
           categoryId: hash(categoryTree[categoryTree.length - 3]),
           version: 'test',
-          meta: {
-            modifiedBy: '',
-            owners: [
-              {
-                id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-                value: 'urn:restorecommerce:acs:model:organization.Organization',
-                attributes: [
-                  {
-                    id: 'urn:restorecommerce:acs:names:ownerInstance',
-                    value: 'restorecommerce-demo-shop'
-                  }
-                ]
-              }
-            ]
-          }
+          meta
         };
       }
     }
@@ -239,8 +176,8 @@ function parseInputLine(csvLine) {
       // need to create product before adding variant
 
       products[productHash] = {
+        id: productHash,
         product: {
-          // id: productHash,
           name: productEntry,
           description: 'Dummy description for product ' + productEntry,
           manufacturerId: brandHash,
@@ -248,25 +185,11 @@ function parseInputLine(csvLine) {
           physical: {
             variants: []
           },
-          taxIds: [makeUUID()],
+          taxIds: ['germany-standard-rate'],
           gtin: makeUUID()
         },
-        meta: {
-          modifiedBy: '',
-          owners: [
-            {
-              id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-              value: 'urn:restorecommerce:acs:model:organization.Organization',
-              attributes: [
-                {
-                  id: 'urn:restorecommerce:acs:names:ownerInstance',
-                  value: 'restorecommerce-demo-shop'
-                }
-              ]
-            }
-          ]
-        },
-        active: Math.random() >= 0.2
+        active: Math.random() >= 0.2,
+        meta
       };
 
       if (categoryTree.length > 2) {
@@ -294,21 +217,6 @@ function parseInputLine(csvLine) {
         return { id, value, unitCode };
       });
 
-    // // values must be of string type, so we replace all numbers with a string
-    // // to avoid GQL type error.
-    // for (let i in variantAttributes) {
-    //   let vi = variantAttributes[i];
-    //   for (let i in vi) {
-    //     let viValues = vi['values'];
-    //     for (let i in viValues) {
-    //       let value = viValues[i];
-    //       if (isNaN(value) === false) {
-    //         viValues[i] = value + 'm';
-    //       }
-    //     }
-    //   }
-    // }
-
     products[productHash].product.physical.variants.push({
       id: csvLine['uniq_id'],
       name: categoryTree[categoryTree.length - 1],
@@ -326,28 +234,20 @@ function parseInputLine(csvLine) {
   }
 }
 
-function writeYAML(list_meta) {
-  const outputDir = `${__dirname}/../../data/generated/catalog/`;
-  const dataset = list_meta.dataset;
-  const filename = list_meta.filename;
-  let item_list = [];
-  for (let datasetIndex in dataset) {
-    let newObj = {
-      // add placeholder to replace later with separator between all documents
-      separator: 'xxx',
-      id: datasetIndex
-    };
-    let item = dataset[datasetIndex];
-    _.merge(newObj, item);
-    item_list.push(newObj);
+function dumpYAMLs(prefix, docs) {
+  docs = Object.values(docs);
+  for (let i = 0; i < docs.length / FILE_SLICE; ++i) {
+    const filename = `${prefix}.${i.toString().padStart(3, '0')}.yaml`;
+    console.log(filename);
+    fs.writeFileSync(
+      filename,
+      '---\n' +
+        docs
+          .slice(i * FILE_SLICE, (i + 1) * FILE_SLICE)
+          .map((d) => yaml.safeDump(d))
+          .join('---\n')
+    );
   }
-  fs.mkdirSync(outputDir, { recursive: true });
-  let filePath = outputDir + filename;
-  let stream = yaml.safeDump(item_list);
-
-  // replace placeholder with '---' required by yaml-document-stream
-  stream = stream.replace(/- separator: xxx/g, '---');
-  fs.writeFileSync(filePath, stream);
 }
 
 function transform() {
@@ -355,8 +255,11 @@ function transform() {
     .pipe(csv())
     .on('data', parseInputLine)
     .on('end', () => {
+      const outputDir = `${__dirname}/../../data/generated/catalog/`;
+      fs.mkdirSync(outputDir, { recursive: true });
       for (let resource of resources) {
-        writeYAML(resource);
+        const dataset = resource.dataset;
+        dumpYAMLs(outputDir + resource.filename, dataset);
       }
     });
 }

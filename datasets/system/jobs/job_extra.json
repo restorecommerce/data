@@ -1,14 +1,13 @@
 {
   "options": {
-    "base": "./",
+    "base": "./datasets/system/data/generated/",
     "concurrency": 1
   },
   "tasks": [
     {
       "name": "unit_codes",
       "operation": "sync",
-      "src": "./datasets/system/data/generated/",
-      "filter": "unit_codes.yaml",
+      "filter": "unit_codes*.yaml",
       "batchSize": 100,
       "mutation": "mutation mutateCodes($var: [IIoRestorecommerceUnitCodeUnitCode!]!){ master_data { unit_code { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }

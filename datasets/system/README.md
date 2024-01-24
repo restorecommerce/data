@@ -59,6 +59,11 @@ to import the data locally or into the production environment.
 All flags are optional, and they can be listed by typing `node ./import.js -h`.
 The API key can be obtained from the [`facade-srv`](https://github.com/restorecommerce/facade-srv/blob/master/cfg/config.json#L21) configuration.
 The API key is generated during system startup from the `facade-srv` (Check the log message of facade-srv `Bootstrap API Key is`).
+In case `facade-srv` is a local container use the following command to extract the `Bootstrap API-KEY`:
+
+```sh
+npm run env:token
+```
 
 By default, the GraphQL importer uses the configuration file `config.json` to read data regarding endpoints for retrieving the API key
 and executing mutations/ queries.

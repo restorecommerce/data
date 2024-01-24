@@ -24,11 +24,11 @@ to import the data locally or into the production environment.
 
 ### Current supported jobs are
 
-- master (imports resources `organizations`, `addresses`, `contact_points`, `shops`, `customers`)
+- master (imports `organizations`, `addresses`, `contact_points`, `shops`, `customers`)
 - identity (imports `users`)
-- catalog (imports resources `price_group`, `manufacturer`, `product_category`, `product_prototype`, `product`)
+- catalog (imports `price_group`, `manufacturer`, `product_category`, `product_prototype`, `product`)
 
-> NOTE: Resources must be imported in a specific order!
+> NOTE: Resources should be imported in a specific order!
 > Master > Identity > Catalog.
 >
 > For the case when importing resources returns "Access denied", one way to fix
@@ -41,15 +41,15 @@ to import the data locally or into the production environment.
 
 2. Either export the API-KEY, paste it to an `.env` file or paste as command argument.
 
-2. Generate catalog datasets using [`transform.js script`](./generator/catalog/transform.js):
+3. Generate catalog datasets using [`transform.js script`](./generator/catalog/transform.js):
 
    - `node ./transform.js`
 
-3. Import datasets using [`import.js script`](./import.js):
+4. Import datasets using [`import.js script`](./import.js):
 
    - `node ./import.js import -t <access_token> -d demo-shop -j <job>`
 
-4. Examples:
+5. Examples:
 
    - `node ./import.js import -t <access_token>  -d demo-shop -j master`
    - `node ./import.js import -t <access_token>  -d demo-shop -j identity`
@@ -60,9 +60,15 @@ to import the data locally or into the production environment.
 All flags are optional, and they can be listed by typing `node ./import.js -h`.
 The API key can be obtained from the [`facade-srv`](https://github.com/restorecommerce/facade-srv/blob/master/cfg/config.json#L21) configuration.
 The API key is generated during system startup from the `facade-srv` (Check the log message of facade-srv `Bootstrap API Key is`).
+In case `facade-srv` is a local container use the following command to extract the `Bootstrap API-KEY`:
+
+```sh
+npm run env:token
+```
 
 By default, the GraphQL importer uses the configuration file `config.json` to read data regarding endpoints for retrieving the API key
 and executing mutations/ queries.
+
 
 ## Object Importer
 
@@ -75,10 +81,10 @@ Prerequisite: object importer should be build using `npm run build` command befo
 
 ```sh
 # Run import in production-mode:
-npm run import-objects -- --apiKey=<access_token> -- --NODE_ENV=local
+npm run import:demoshop:objects -- --apiKey=<access_token> -- --NODE_ENV=local
 
 # Run import in production-mode:
-npm run import-objects -- --apiKey=<access_token> -- --NODE_ENV=production
+npm run import:demoshop:objects -- --apiKey=<access_token> -- --NODE_ENV=production
 # or:
-npm run import-objects -- --apiKey=<access_token> # default is development
+npm run import:demoshop:objects -- --apiKey=<access_token> # default is development
 ```

@@ -1,34 +1,36 @@
 {
   "options": {
-    "base": "./",
+    "base": "./datasets/demo-shop/data/seed-data/",
     "concurrency": 1
   },
   "tasks": [
     {
       "name": "addresses",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/seed-data/",
       "filter": "addresses.yaml",
       "mutation": "mutation{ master_data { address { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "name": "contact_points",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/seed-data/",
       "filter": "contact_points.yaml",
       "mutation": "mutation{ master_data { contact_point { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "name": "organizations",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/seed-data/",
       "filter": "organizations.yaml",
       "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
+      "name": "customers",
+      "operation": "sync",
+      "filter": "customers.yaml",
+      "mutation": "mutation{ master_data { customer { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    },
+    {
       "name": "shops",
       "operation": "sync",
-      "src": "./datasets/demo-shop/data/seed-data/",
       "filter": "shops.yaml",
       "mutation": "mutation{ master_data { shop { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }

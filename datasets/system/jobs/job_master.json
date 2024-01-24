@@ -1,55 +1,54 @@
 {
   "options": {
-    "base": "./",
+    "base": "./datasets/system/data/seed-data/",
     "concurrency": 1
   },
   "tasks": [
     {
       "name": "countries",
       "operation": "sync",
-      "src": "./datasets/system/data/seed-data/",
       "filter": "countries.yaml",
       "mutation": "mutation{ master_data { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
       "name": "timezones",
       "operation": "sync",
-      "src": "./datasets/system/data/seed-data/",
       "filter": "timezones.yaml",
       "mutation": "mutation{ master_data { timezone { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "name": "locales",
       "operation": "sync",
-      "src": "./datasets/system/data/seed-data/",
       "filter": "locales.yaml",
       "mutation": "mutation{ master_data { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "name": "tax_types",
       "operation": "sync",
-      "src": "./datasets/system/data/seed-data/",
       "filter": "tax_types.yaml",
       "mutation": "mutation{ master_data { tax_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
+      "name": "taxes",
+      "operation": "sync",
+      "filter": "taxes.yaml",
+      "mutation": "mutation{ master_data { tax { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+    },
+    {
       "name": "commands",
       "operation": "sync",
-      "src": "./datasets/system/data/seed-data/",
       "filter": "commands.yaml",
       "mutation": "mutation mutateCommands($var: [IIoRestorecommerceCommandCommand!]!){ master_data { command { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "name": "contact_point_types",
       "operation": "sync",
-      "src": "./datasets/system/data/seed-data/",
       "filter": "contact_point_types.yaml",
       "mutation": "mutation{ master_data { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "name": "organizations",
       "operation": "sync",
-      "src": "./datasets/system/data/seed-data/",
       "filter": "organizations.yaml",
       "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
