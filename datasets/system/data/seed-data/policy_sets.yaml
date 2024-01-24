@@ -8,6 +8,7 @@
     subjects: [ ]
     actions: [ ]
   policies:
+    - execute_action_policy
     - users_policy
     - organizations_policy
     - address_policy
@@ -18,7 +19,6 @@
     - countries_policy
     - roles_policy
     - locales_policy
-    - execute_action_policy
     - commands_policy
     - jobs_policy
     - policy_sets_policy
@@ -27,6 +27,7 @@
     - timezones_policy
     - orders_policy
     - customers_policy
+    - shops_policy
     - products_policy
     - manufacturers_policy
     - product_prototypes_policy

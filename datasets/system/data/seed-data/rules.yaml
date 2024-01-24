@@ -1098,7 +1098,66 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
-## Product, Manufacturer, ProductPrototype, ProductCategory, PriceGroup - Master Data
+---
+  id: org_scoped_shop_read_rule
+  name: Shop read rule for Organizational Scope
+  description: Permits any read if the resource is under an organizational hierarchical scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:shop.Shop
+  effect: PERMIT
+  condition: ""
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: user_scoped_shop_read_rule
+  name: Shop read rule for Independent User Scope
+  description: Permits any read if the resource is under an user hierarchical scope
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id # NormalUser
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:shop.Shop
+  effect: PERMIT
+  condition: ""
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
 ---
   id: normal_user_product_read_rule
   name: Product read rule

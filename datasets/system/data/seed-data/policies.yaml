@@ -293,6 +293,7 @@
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:execute
     resources: [ ]
+    subjects: [ ]
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   meta:
     modifiedBy: ""
@@ -462,7 +463,6 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  ## Customers policy and 5 Products policy
   id: customers_policy
   name: Customers Policy
   description: Allows normal users to read Customer resource
@@ -477,6 +477,32 @@
   rules:
     - org_scoped_customer_read_rule  # Permit: normal user under an Org scope
     - user_scoped_customer_read_rule  # Permit: normal user who owns the resource and not bounded to any organization
+    - superadmin_rule  # Permit: SuperAdmin
+    - fall_back_rule  # Deny: All
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: shops_policy
+  name: Shops Policy
+  description: Allows normal users to read Shop resource
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:shop.Shop
+    subjects: [ ]
+    actions: [ ]
+  rules:
+    - org_scoped_shop_read_rule  # Permit: normal user under an Org scope
+    - user_scoped_shop_read_rule  # Permit: normal user who owns the resource and not bounded to any organization
     - superadmin_rule  # Permit: SuperAdmin
     - fall_back_rule  # Deny: All
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
