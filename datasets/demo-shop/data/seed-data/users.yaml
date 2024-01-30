@@ -1,19 +1,21 @@
 ---
   id: restorecommerce-demo-unauthenticated-user
-  name: unauthenticated_user
+  name: unauthenticated-user
   firstName: Unauthenticated
   lastName: User
-  email: unauthenticated_user@restorecommerce.io
-  defaultScope: restorecommecre-demo-root-organization
+  email: unauthenticated.user@restorecommerce.io
+  defaultScope: restorecommecre-demo-shops-organization
   roleAssociations:
-    - id: user-r-role-assoc-id  
-      role: user-r-id
+    - id: restorecommecre-demo-shops-organization-unauthenticated-user-r-id
+      role: unauthenticated-user-r-id
+    - id: restorecommecre-demo-shops-organization-customer-r-id
+      role: customer-r-id
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommecre-demo-root-organization
+              value: restorecommecre-demo-shops-organization
   localeId: de-de
   timezoneId: europe-berlin
   meta:
@@ -24,11 +26,6 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommecre-demo-root-organization
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:user.User
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-unauthenticated-user
   newEmail: ""
   active: true
   activationCode: ""
@@ -50,354 +47,21 @@
   invitedByUserLastName: ""
   properties: 
     - id: urn:restorecommerce:acs:names:network:src:domain
-      value: store.restorecommerce.io
+      value: localhost
   tokens:
-    - name: unauthenticated_token
-      token: k2veMOlBe52yUNMHNYJvCmD3T9iAKCpB
-      scopes:
-        - user-r-role-assoc-id
+    - name: unauthenticated-token
+      token: UNAUTHENTICATED
 ---
-  id: restorecommerce-demo-root-superadmin-000
-  name: root.superadmin
+  id: restorecommerce-demo-root-admin-000
+  name: root.admin
   firstName: Root
-  lastName: Superadmin
-  email: root.superadmin@restorecommerce.io
+  lastName: Admin
+  email: root.admin@restorecommerce.io
   password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-root-organization
   roleAssociations:
-    - role: superadministrator-r-id
-      attributes: []
-      id: ""
-  localeId: de-de
-  timezoneId: europe-berlin
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-root-organization
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:user.User
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-root-superadmin
-  newEmail: ""
-  active: true
-  activationCode: ""
-  passwordHash: ""
-  guest: false
-  image:
-    id: ""
-    caption: ""
-    filename: ""
-    contentType: ""
-    url: ""
-    width: 0
-    height: 0
-    length: 0
-  userType: "ORG_USER"
-  invite: false
-  invitedByUserName: ""
-  invitedByUserFirstName: ""
-  invitedByUserLastName: ""
-  tokens: []
----
-  id: restorecommerce-demo-shop-000-admin-000
-  name: shop000.admin000
-  firstName: Shop000
-  lastName: Admin000
-  email: shop000.admin@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
-  defaultScope: restorecommerce-demo-shop-000-organization
-  roleAssociations:
-    - role: user-r-id
-      id: restorecommerce-demo-shop-000-admin-000-user-r-id
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-shop-000-organization
-    - role: administrator-r-id
-      id: restorecommerce-demo-shop-000-admin-000-administrator-r-id
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-shop-000-organization
-  localeId: de-de
-  timezoneId: europe-berlin
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-shop-000-organization
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:user.User
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-shop-000-admin-000
-  newEmail: ""
-  active: true
-  activationCode: ""
-  passwordHash: ""
-  guest: false
-  image:
-    id: ""
-    caption: ""
-    filename: ""
-    contentType: ""
-    url: ""
-    width: 0
-    height: 0
-    length: 0
-  userType: "ORG_USER"
-  invite: false
-  invitedByUserName: ""
-  invitedByUserFirstName: ""
-  invitedByUserLastName: ""
-  tokens: [ ]
----
-  id: restorecommerce-demo-customer-000-admin-000
-  name: customer000.admin000
-  firstName: Customer000
-  lastName: Admin000
-  email: customer000.admin000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
-  defaultScope: restorecommerce-demo-customer-000-organization
-  roleAssociations:
-    - role: user-r-id
-      id: ""
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-000-organization
-    - role: administrator-r-id
-      id: restorecommerce-demo-customer-000-admin-000-administrator-r-id
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-000-organization
-  localeId: de-de
-  timezoneId: europe-berlin
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-000-organization
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:user.User
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-000-admin-000
-  newEmail: ""
-  active: true
-  activationCode: ""
-  passwordHash: ""
-  guest: false
-  image:
-    id: ""
-    caption: ""
-    filename: ""
-    contentType: ""
-    url: ""
-    width: 0
-    height: 0
-    length: 0
-  userType: "ORG_USER"
-  invite: false
-  invitedByUserName: ""
-  invitedByUserFirstName: ""
-  invitedByUserLastName: ""
-  tokens: [ ]
----
-  id: restorecommerce-demo-customer-001-admin-000
-  name: customer001.admin000
-  firstName: Customer001
-  lastName: Admin000
-  email: customer001.admin000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
-  defaultScope: restorecommerce-demo-customer-001-organization
-  roleAssociations:
-    - role: user-r-id
-      id: ""
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-001-organization
-    - role: administrator-r-id
-      id: restorecommerce-demo-customer-001-admin-000-administrator-r-id
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-001-organization
-  localeId: de-de
-  timezoneId: europe-berlin
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-001-organization
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:user.User
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-001-admin-000
-  newEmail: ""
-  active: true
-  activationCode: ""
-  passwordHash: ""
-  guest: false
-  image:
-    id: ""
-    caption: ""
-    filename: ""
-    contentType: ""
-    url: ""
-    width: 0
-    height: 0
-    length: 0
-  userType: "ORG_USER"
-  invite: false
-  invitedByUserName: ""
-  invitedByUserFirstName: ""
-  invitedByUserLastName: ""
-  tokens: [ ]
----
-  id: restorecommerce-demo-customer-000-user-000
-  name: customer000.user000
-  firstName: Customer000
-  lastName: User000
-  email: customer000.user000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
-  defaultScope: restorecommerce-demo-customer-000-organization
-  roleAssociations:
-    - role: user-r-id
-      id: ""
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-000-organization
-  localeId: de-de
-  timezoneId: europe-berlin
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-000-organization
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:user.User
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-000-user-000
-  newEmail: ""
-  active: true
-  activationCode: ""
-  passwordHash: ""
-  guest: false
-  image:
-    id: ""
-    caption: ""
-    filename: ""
-    contentType: ""
-    url: ""
-    width: 0
-    height: 0
-    length: 0
-  userType: "ORG_USER"
-  invite: false
-  invitedByUserName: ""
-  invitedByUserFirstName: ""
-  invitedByUserLastName: ""
-  tokens: [ ]
----
-  id: restorecommerce-demo-customer-001-user-000
-  name: customer001.user000
-  firstName: Customer001
-  lastName: User000
-  email: customer001.user000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
-  defaultScope: restorecommerce-demo-customer-001-organization
-  roleAssociations:
-    - role: user-r-id
-      id: ""
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-001-organization
-  localeId: de-de
-  timezoneId: europe-berlin
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-001-organization
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:user.User
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-001-user-000
-  newEmail: ""
-  active: true
-  activationCode: ""
-  passwordHash: ""
-  guest: false
-  image:
-    id: ""
-    caption: ""
-    filename: ""
-    contentType: ""
-    url: ""
-    width: 0
-    height: 0
-    length: 0
-  userType: "ORG_USER"
-  invite: false
-  invitedByUserName: ""
-  invitedByUserFirstName: ""
-  invitedByUserLastName: ""
-  tokens: [ ]
----
-  id: restorecommerce-demo-customer-002-user-000
-  name: customer002.user000
-  firstName: Customer002
-  lastName: User000
-  email: customer002.user000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
-  defaultScope: restorecommerce-demo-customer-002-organization
-  roleAssociations:
-    - role: user-r-id
-      id: ""
+    - id: restorecommerce-demo-root-organization-administrator-r-id
+      role: administrator-r-id
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
@@ -414,11 +78,6 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-root-organization
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:user.User
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-customer-002-user-000
   newEmail: ""
   active: true
   activationCode: ""
@@ -438,4 +97,342 @@
   invitedByUserName: ""
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
-  tokens: [ ]
+  tokens:
+    - name: access-token
+      token: ROOTADMINISTRATOR000
+---
+  id: restorecommerce-demo-shop-000-admin-000
+  name: shop000.admin000
+  firstName: Shop000
+  lastName: Admin000
+  email: shop000.admin@restorecommerce.io
+  password: CNQJrH%KAayeDpf3h
+  defaultScope: restorecommerce-demo-shop-000-organization
+  roleAssociations:
+    - id: restorecommerce-demo-shop-000-organization-administrator-r-id
+      role: administrator-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-shop-000-organization
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-shop-000-organization
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: access-token
+      token: SHOP000ADMINISTRATOR000
+---
+  id: restorecommerce-demo-customer-000-moderator-000
+  name: customer000.moderator000
+  firstName: Customer000
+  lastName: Moderator000
+  email: customer000.moderator000@restorecommerce.io
+  password: CNQJrH%KAayeDpf3h
+  defaultScope: restorecommerce-demo-customer-000-organization
+  roleAssociations:
+    - id: restorecommerce-demo-customer-000-organization-moderator-r-id
+      role: moderator-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-000-organization
+    - id: restorecommecre-demo-shops-organization-customer-r-id
+      role: customer-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommecre-demo-shops-organization
+    - id: user-r-id
+      role: user-r-id
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-organization
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: access-token
+      token: CUSTOMER000MODERATOR000
+---
+  id: restorecommerce-demo-customer-001-moderator-000
+  name: customer001.moderator000
+  firstName: Customer001
+  lastName: Moderator000
+  email: customer001.moderator000@restorecommerce.io
+  password: CNQJrH%KAayeDpf3h
+  defaultScope: restorecommerce-demo-customer-001-organization
+  roleAssociations:
+    - id: restorecommerce-demo-customer-001-organization-moderator-r-id
+      role: moderator-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-001-organization
+    - id: restorecommecre-demo-shops-organization-customer-r-id
+      role: customer-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommecre-demo-shops-organization
+    - id: user-r-id
+      role: user-r-id
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-001-organization
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: access-token
+      token: CUSTOMER001MODERATOR000
+---
+  id: restorecommerce-demo-customer-000-member-000
+  name: customer000.member000
+  firstName: Customer000
+  lastName: Member000
+  email: customer000.member000@restorecommerce.io
+  password: CNQJrH%KAayeDpf3h
+  defaultScope: restorecommerce-demo-customer-000-organization
+  roleAssociations:
+    - id: restorecommerce-demo-customer-000-organization-member-r-id
+      role: member-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-000-organization
+    - id: restorecommecre-demo-shops-organization-customer-r-id
+      role: customer-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommecre-demo-shops-organization
+    - id: user-r-id
+      role: user-r-id
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-organization
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: access-token
+      token: CUSTOMER000MEMBER000
+---
+  id: restorecommerce-demo-customer-001-member-000
+  name: customer001.member000
+  firstName: Customer001
+  lastName: Member000
+  email: customer001.member000@restorecommerce.io
+  password: CNQJrH%KAayeDpf3h
+  defaultScope: restorecommerce-demo-customer-001-organization
+  roleAssociations:
+    - id: restorecommerce-demo-customer-001-organization-member-r-id
+      role: member-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-001-organization
+    - id: restorecommecre-demo-shops-organization-customer-r-id
+      role: customer-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommecre-demo-shops-organization
+    - id: user-r-id
+      role: user-r-id
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-001-organization
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: access-token
+      token: CUSTOMER001MEMBER000
+---
+  id: restorecommerce-demo-customer-002-user-000
+  name: customer002.user000
+  firstName: Customer002
+  lastName: User000
+  email: customer002.user000@restorecommerce.io
+  password: CNQJrH%KAayeDpf3h
+  defaultScope: restorecommerce-demo-customers-organization
+  roleAssociations:
+    - id: restorecommecre-demo-shops-organization-customer-r-id
+      role: customer-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:organization.Organization
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommecre-demo-shops-organization
+    - id: user-r-id
+      role: user-r-id
+  localeId: de-de
+  timezoneId: europe-berlin
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customers-organization
+  newEmail: ""
+  active: true
+  activationCode: ""
+  passwordHash: ""
+  guest: false
+  image:
+    id: ""
+    caption: ""
+    filename: ""
+    contentType: ""
+    url: ""
+    width: 0
+    height: 0
+    length: 0
+  userType: "ORG_USER"
+  invite: false
+  invitedByUserName: ""
+  invitedByUserFirstName: ""
+  invitedByUserLastName: ""
+  tokens:
+    - name: access-token
+      token: CUSTOMER002USER000

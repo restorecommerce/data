@@ -1,9 +1,9 @@
 ---
-  id: tech_user
-  name: tech_user
+  id: tech-user
+  name: tech-user
   firstName: Tech
   lastName: User
-  email: tech_user@restorecommerce.io
+  email: tech-user@restorecommerce.io
   password: CNQJrH%KAayeDpf3h
   defaultScope: ""
   roleAssociations:
@@ -24,7 +24,7 @@
         value: urn:restorecommerce:acs:model:user.User
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: tech_user
+            value: tech-user
   newEmail: ""
   active: true
   activationCode: ""
@@ -45,7 +45,7 @@
   invitedByUserFirstName: ""
   invitedByUserLastName: ""
   tokens:
-    - name: tech_user_token
+    - name: access-token
       token: 123099ffc93b44f6b4a81b1e5589b642
       scopes:
         - superadministrator-r-role-assoc-id

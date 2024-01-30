@@ -1,42 +1,20 @@
 ---
-  id: locales_policy
-  name: Global Policy Set
+  id: system-policies
+  name: System Policy Set
   description: Contains all policies from RestoreCommerce
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
   target:
-    resources: [ ]
-    subjects: [ ]
-    actions: [ ]
+    resources: []
+    subjects: []
+    actions: []
   policies:
-    - execute_action_policy
-    - users_policy
-    - organizations_policy
-    - address_policy
-    - contact_points_policy
-    - contact_point_types_policy
-    - taxes_policy
-    - tax_types_policy
-    - countries_policy
-    - roles_policy
-    - locales_policy
-    - commands_policy
-    - jobs_policy
-    - policy_sets_policy
-    - policies_resource_policy
-    - rules_policy
-    - timezones_policy
-    - orders_policy
-    - customers_policy
-    - shops_policy
-    - products_policy
-    - manufacturers_policy
-    - product_prototypes_policy
-    - product_categories_policy
-    - price_groups_policy
-    - ostorage_policy
-    - tokens_policy
-    - ostorage_interal_bucket_policy
-    - unauth_execute_action_policy
+    - superadministrator-policy
+    - administrator-policy
+    - moderator-policy
+    - member-policy
+    - customer-policy
+    - user-policy
+    - everyone-policy
   meta:
     modifiedBy: ""
     owners:

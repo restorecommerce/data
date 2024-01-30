@@ -21,6 +21,50 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommecre-demo-root-organization
 ---
+  id: restorecommecre-demo-shops-organization
+  name: Restorecommerce Demo Shops
+  contactPointIds: []
+  website: ""
+  email: ""
+  vatId: ""
+  isicV4: ""
+  registration: ""
+  logo: 
+    url: ""
+  registrationCourt: ""
+  paymentMethodIds: []
+  parentId: "restorecommecre-demo-root-organization"
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-shops-organization
+---
+  id: restorecommecre-demo-customers-organization
+  name: Restorecommerce Demo Customers
+  contactPointIds: []
+  website: ""
+  email: ""
+  vatId: ""
+  isicV4: ""
+  registration: ""
+  logo: 
+    url: ""
+  registrationCourt: ""
+  paymentMethodIds: []
+  parentId: "restorecommecre-demo-root-organization"
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommecre-demo-customers-organization
+---
   id: restorecommecre-demo-shop-000-organization
   name: Restorecommerce Demo Shop 000 Organization
   contactPointIds:
@@ -34,7 +78,7 @@
     url: http://console:80/templates/logos/PNG/X_Logo.png
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: []
-  parentId: restorecommecre-demo-root-organization
+  parentId: restorecommecre-demo-shops-organization
   meta:
     modifiedBy: ""
     owners:
@@ -57,7 +101,7 @@
     url: ""
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: [ ]
-  parentId: restorecommecre-demo-root-organization
+  parentId: restorecommecre-demo-customers-organization
   meta:
     modifiedBy: ""
     owners:
@@ -80,7 +124,7 @@
     url: ""
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: [ ]
-  parentId: restorecommecre-demo-root-organization
+  parentId: restorecommecre-demo-customers-organization
   meta:
     modifiedBy: ""
     owners:
@@ -88,4 +132,4 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-002-organization
+            value: restorecommecre-demo-customer-001-organization

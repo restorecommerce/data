@@ -1,25 +1,162 @@
 ---
-  id: users_policy
+  id: fallback-policy
+  name: Fallback Policy
+  description: Fallback to Deny
+  evaluationCacheable: false
+  effect: DENY
+  target:
+    resources: []
+    actions: []
+    subjects: []
+  rules:
+    - fallback-rule
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: superadministrator-policy
+  name: Superadministrator Policy
+  description: Policies for Superadmin
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    resources: []
+    actions: []
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: superadministrator-r-id
+  rules:
+    - superadmin-rule
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: administrator-policy
+  name: Administrator Policy
+  description: Policies for Admin
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    resources: []
+    actions: []
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: administrator-r-id
+  rules:
+    - administrator-rule
+    - admin-system-roles-read-rule
+    - admin-orga-roles-read-rule
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: moderator-policy
+  name: Moderator Policy
+  description: Policies for Moderator
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    resources: []
+    actions: []
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: moderator-r-id
+  rules:
+    - moderator-organization-user-read-create-rule
+    - moderator-organization-resource-read-modify-rule
+    - moderator-organization-order-read-rule
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: member-policy
+  name: Member Policy
+  description: Policies for Member
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    resources: []
+    actions: []
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: member-r-id
+  rules:
+    - member-organization-resource-read-rule
+    - member-ostorage-bucket-modify-rule
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: customer-policy
+  name: Customer Policy
+  description: Policies for Customer
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    resources: []
+    actions: []
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: customer-r-id
+  rules:
+    - customer-organization-resource-read-rule
+    - customer-order-submit-rule
+    - customer-order-withdraw-rule
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: user-policy
   name: User Policy
-  description: Targets actions on a User account
+  description: Policies for User
   evaluationCacheable: false
   effect: PERMIT
   target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:user.User
-    subjects: [ ]
-    actions: [ ]
+    resources: []
+    actions: []
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
   rules:
-    - normal_user_read_rule  # Organization-scoped reads
-    - register_user_rule  # Unauthenticated user can register its account
-    - user_activation_rule  # Unauthenticated user can activate its account
-    - forgot_password_rule  # Unauthenticated user can reset its password
-    - confirm_email_change_rule  # Unauthenticated user can reset confirm email change
-    - normal_user_account_rule  # Authenticated User has all permissions to access its own account
-    - administrator_rule  # Admin
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
+    - user-owned-resource-read-modify-rule
+    - user-user-read-modify-rule
+    - user-order-read-modify-rule
   meta:
     modifiedBy: ""
     owners:
@@ -30,48 +167,18 @@
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
-  id: organizations_policy
-  name: Organizations policy
-  description: Targets access to the Organization resource
+  id: everyone-policy
+  name: Everyone Policy
+  description: Policies for Everyone
   evaluationCacheable: false
   effect: PERMIT
   target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:organization.Organization
-    subjects: [ ]
-    actions: [ ]
+    resources: []
+    actions: []
+    subjects: []
   rules:
-    - normal_user_organization_read_rule_scoped  # Reads
-    - administrator_rule  # Admin
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: address_policy
-  name: Addresses policy
-  description: Targets access to Addresses
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:address.Address
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_address_read_rule_scoped  # Reads
-    - administrator_rule # Admin
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
+    - everyone-own-token-read-modify-rule
+    - everyone-system-resource-read-rule
   meta:
     modifiedBy: ""
     owners:
@@ -81,635 +188,3 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
----
-  id: contact_points_policy
-  name: ContactPoints policy
-  description: Targets access to ContactPoints
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:contact_point.ContactPoint
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_contactpoint_read_rule_scoped  # Reads
-    - administrator_rule # Admin
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: contact_point_types_policy
-  name: ContactPointType policy
-  description: Targets access to ContactPointTypes
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:contact_point_type.ContactPointType
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_contactpoint_type_read_rule  # Reads
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: taxes_policy
-  name: Taxes policy
-  description: Targets access to Taxes
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:tax.Tax
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_tax_read_rule  # Reads
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: tax_types_policy
-  name: TaxType policy
-  description: Targets access to TaxTypes
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:tax_type.TaxType
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_tax_type_read_rule  # Reads
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: countries_policy
-  name: Countries policy
-  description: Targets access to Countries
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:country.Country
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_country_read_rule  # Reads
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: roles_policy
-  name: Roles policy
-  description: Targets access to Roles
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:role.Role
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_roles_read_rule  # Reads
-    - superadmin_role_read_rule  # Deny access to SuperAdmin Role
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: locales_policy
-  name: Locales policy
-  description: Targets access to Locales
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:locale.Locale
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_locale_read_rule  # Reads
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: timezones_policy
-  name: Timezones policy
-  description: Targets access to Timezones
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:timezone.Timezone
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_timezone_read_rule  # Reads
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: execute_action_policy
-  name: Execute-Action Policy
-  description: Targets `execute`-type actions
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    actions:
-      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
-        value: urn:restorecommerce:acs:names:action:execute
-    resources: [ ]
-    subjects: [ ]
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
-  rules:
-    - delete_organization_rule  # DeleteOrgData
-    - execute_command_rule # ExecuteCommand
-    - org_scoped_order_submit_rule
-    - org_scoped_order_withdraw_rule
-    - user_scoped_order_submit_rule
-    - user_scoped_order_withdraw_rule
-    - unauth_user_order_submit_rule
-    - superadmin_rule
----
-  id: commands_policy
-  name: Commands Policy
-  description: Allows access by SuperAdmins to the `Command` resource
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:command.Command
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: jobs_policy
-  name: Jobs Policy
-  description: Allows access by SuperAdmins to the `Jobs` resource
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:job.Job
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: policy_sets_policy
-  name: PolicySets Policy
-  description: Allows access by SuperAdmins to the `PolicySEt` resource
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:policy_set.PolicySet
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: policies_resource_policy
-  name: Policy-Resource Policy
-  description: Allows access by SuperAdmins to the `Policy` resource
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:policy.Policy
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: rules_policy
-  name: Rule Policy
-  description: Allows access by SuperAdmins to the `Rule` resource
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:rule.Rule
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: orders_modify_policy
-  name: Orders Policy
-  description: Allows normal users to create, read or modify Orders
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
-    actions: [ ]
-    subjects: [ ]
-  rules:
-    - org_scoped_order_read_rule
-    - org_scoped_order_modify_rule
-    - org_scoped_order_delete_rule
-    - user_scoped_order_read_rule
-    - user_scoped_order_modify_rule
-    - user_scoped_order_delete_rule
-    - superadmin_rule  # Permit: SuperAdmin
-    - fall_back_rule  # Deny: All
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: customers_policy
-  name: Customers Policy
-  description: Allows normal users to read Customer resource
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:customer.Customer
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - org_scoped_customer_read_rule  # Permit: normal user under an Org scope
-    - user_scoped_customer_read_rule  # Permit: normal user who owns the resource and not bounded to any organization
-    - superadmin_rule  # Permit: SuperAdmin
-    - fall_back_rule  # Deny: All
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: shops_policy
-  name: Shops Policy
-  description: Allows normal users to read Shop resource
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:shop.Shop
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - org_scoped_shop_read_rule  # Permit: normal user under an Org scope
-    - user_scoped_shop_read_rule  # Permit: normal user who owns the resource and not bounded to any organization
-    - superadmin_rule  # Permit: SuperAdmin
-    - fall_back_rule  # Deny: All
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: products_policy
-  name: Products policy
-  description: Targets access to Products
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:product.Product
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_product_read_rule  # Reads
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: manufacturers_policy
-  name: Manufacturer's policy
-  description: Targets access to Manufacturers
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:manufacturer.Manufacturer
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_manufacturer_read_rule  # Reads
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: product_prototypes_policy
-  name: ProductPrototype policy
-  description: Targets access to Manufacturers
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:product_prototype.ProductPrototype
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_product_prototype_read_rule  # Reads
-    - fall_back_rule  # Deny
-    - superadmin_rule  # SuperAdmin
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: product_categories_policy
-  name: ProductCategory policy
-  description: Targets access to Manufacturers
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:product_category.ProductCategory
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_product_category_read_rule  # Reads
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: price_groups_policy
-  name: PriceGroup policy
-  description: Targets access to Manufacturers
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:price_group.PriceGroup
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_price_group_read_rule  # Reads
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
-#ostorage policy -> Xingular
----
-  id: ostorage_policy
-  name: Ostorage policy
-  description: Targets access to the ostorage resource
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:ostorage.Ostorage
-    subjects: [ ]
-    actions: [ ]
-  rules:
-    - normal_user_ostorage_bucket_rule_scoped  # Reads
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: tokens_policy
-  name: Token Policy
-  description: Targets `Token` resource
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:token.Token
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  evaluationCacheable: true
-  rules:
-    - normal_user_token_create_rule_condition  # user-r-id create rule
-    - normal_user_token_modify_rule_condition  # user-r-id modify rule
-    - normal_user_token_delete_rule_condition  # user-r-id delete rule
-    - normal_user_token_read_rule_condition  # user-r-id read rule
-    - administrator_rule  # admin CRMD rule scoped
-    - superadmin_rule  # superAdmin rule
-    - fall_back_rule  # fallback Deny rule
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: ostorage_interal_bucket_policy
-  name: Ostorage policy for internal bucket
-  description: Targets access to the ostorage resource for internal bucket
-  target:
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:internal.Internal
-  rules:
-    - unauth_user_internal_bucket_rule  # normal user
-    - administrator_rule
-    - superadmin_rule  # SuperAdmin
-    - fall_back_rule  # Deny
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system

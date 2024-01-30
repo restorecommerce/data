@@ -86,7 +86,7 @@
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
+        value: urn:restorecommerce:acs:model:user.User
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-002-organization
+            value: restorecommerce-demo-customer-002-user-000
