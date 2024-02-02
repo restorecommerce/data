@@ -15,7 +15,22 @@
 ---
   id: administrator-r-id
   name: Administrator
-  description: can read and write within his organization scope
+  description: can read and write within organization scope
+  assignableByRoles:
+    - superadministrator-r-id
+    - administrator-r-id
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: sales-r-id
+  name: Sales
+  description: can read and write within shop organization scope
   assignableByRoles:
     - superadministrator-r-id
     - administrator-r-id
@@ -30,7 +45,7 @@
 ---
   id: moderator-r-id
   name: Moderator
-  description: can create and delete users within his organization scope
+  description: can create and delete users within organization scope
   assignableByRoles:
     - superadministrator-r-id
     - administrator-r-id
@@ -92,8 +107,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: unauthenticated-user-r-id
-  name: unauthenticated-user
+  id: unauthenticated-r-id
+  name: unauthenticated
   description: actions for unauthenticated users
   assignableByRoles:
     - superadministrator-r-id

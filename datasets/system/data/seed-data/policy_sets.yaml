@@ -1,20 +1,47 @@
 ---
-  id: system-policies
+  id: system-policy-set
   name: System Policy Set
-  description: Contains all policies from RestoreCommerce
+  description: Contains all policies for Restorecommerce
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
   target:
-    resources: []
-    subjects: []
-    actions: []
+    actions: [ ]
+    subjects: [ ]
+    resources: [ ]
   policies:
     - superadministrator-policy
-    - administrator-policy
-    - moderator-policy
-    - member-policy
+    - address-policy
+    - command-policy
+    - contact-point-type-policy
+    - contact-point-policy
+    - country-policy
+    - currency-policy
     - customer-policy
+    - fulfillment-courier-policy
+    - fulfillment-product-policy
+    - fulfillment-policy
+    - invoice-policy
+    - locale-policy
+    - manufacturer-policy
+    - order-policy
+    - order-submit-policy
+    - order-withdraw-policy
+    - order-cancel-policy
+    - organization-policy
+    - ostorage-policy
+    - payment-method-policy
+    - payment-policy
+    - price-group-policy
+    - product-category-policy
+    - product-prototype-policy
+    - product-policy
+    - role-policy
+    - shop-policy
+    - tax-type-policy
+    - tax-policy
+    - timezone-policy
+    - token-policy
+    - unit-code-policy
     - user-policy
-    - everyone-policy
   meta:
     modifiedBy: ""
     owners:

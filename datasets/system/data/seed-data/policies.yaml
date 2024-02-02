@@ -1,38 +1,17 @@
 ---
-  id: fallback-policy
-  name: Fallback Policy
-  description: Fallback to Deny
-  evaluationCacheable: false
-  effect: DENY
-  target:
-    resources: []
-    actions: []
-    subjects: []
-  rules:
-    - fallback-rule
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
----
   id: superadministrator-policy
-  name: Superadministrator Policy
-  description: Policies for Superadmin
+  name: Super Administrator Policy
+  description: Permit all to Super Administrator
   evaluationCacheable: false
   effect: PERMIT
   target:
-    resources: []
-    actions: []
+    resources: [ ]
+    actions: [ ]
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: superadministrator-r-id
   rules:
-    - superadmin-rule
+    - fallback-permit-all
   meta:
     modifiedBy: ""
     owners:
@@ -43,21 +22,26 @@
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
-  id: administrator-policy
-  name: Administrator Policy
-  description: Policies for Admin
+  id: address-policy
+  name: Address Policy
+  description: Policy for resource Address
   evaluationCacheable: false
   effect: PERMIT
   target:
-    resources: []
-    actions: []
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: administrator-r-id
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:address.Address
   rules:
-    - administrator-rule
-    - admin-system-roles-read-rule
-    - admin-orga-roles-read-rule
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - moderator-permit-all-scoped
+    - member-permit-read-scoped
+    - customer-permit-read-scoped
+    - user-permit-all-owned
+    - everyone-permit-read-system
+    - fallback-deny-all
   meta:
     modifiedBy: ""
     owners:
@@ -68,21 +52,19 @@
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
-  id: moderator-policy
-  name: Moderator Policy
-  description: Policies for Moderator
+  id: command-policy
+  name: Command Policy
+  description: Policy for resource Command
   evaluationCacheable: false
   effect: PERMIT
   target:
-    resources: []
-    actions: []
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: moderator-r-id
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:command.Command
   rules:
-    - moderator-organization-user-read-create-rule
-    - moderator-organization-resource-read-modify-rule
-    - moderator-organization-order-read-rule
+    - fallback-deny-all
   meta:
     modifiedBy: ""
     owners:
@@ -93,20 +75,113 @@
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
-  id: member-policy
-  name: Member Policy
-  description: Policies for Member
+  id: contact-point-type-policy
+  name: ContactPointType Policy
+  description: Policy for resource ContactPointType
   evaluationCacheable: false
   effect: PERMIT
   target:
-    resources: []
-    actions: []
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: member-r-id
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:contact_point_type.ContactPointType
   rules:
-    - member-organization-resource-read-rule
-    - member-ostorage-bucket-modify-rule
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-read-scoped
+    - member-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: contact-point-policy
+  name: ContactPoint Policy
+  description: Policy for resource ContactPoint
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:contact_point.ContactPoint
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - moderator-permit-all-scoped
+    - member-permit-read-scoped
+    - customer-permit-read-scoped
+    - user-permit-all-owned
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: country-policy
+  name: Country Policy
+  description: Policy for resource Country
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:country.Country
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-read-scoped
+    - member-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: currency-policy
+  name: Currency Policy
+  description: Policy for resource Currency
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:currency.Currency
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-read-scoped
+    - member-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
   meta:
     modifiedBy: ""
     owners:
@@ -119,19 +194,694 @@
 ---
   id: customer-policy
   name: Customer Policy
-  description: Policies for Customer
+  description: Policy for resource Customer
   evaluationCacheable: false
   effect: PERMIT
   target:
-    resources: []
-    actions: []
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: customer-r-id
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:customer.Customer
   rules:
-    - customer-organization-resource-read-rule
-    - customer-order-submit-rule
-    - customer-order-withdraw-rule
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-all-scoped
+    - member-permit-read-scoped
+    - user-permit-create-owned
+    - user-permit-read-owned
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: fulfillment-courier-policy
+  name: FulfillmentCourier Policy
+  description: Policy for resource FulfillmentCourier
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:fulfillment_courier.FulfillmentCounrier
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - customer-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: fulfillment-product-policy
+  name: FulfillmentProduct Policy
+  description: Policy for resource FulfillmentProduct
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:fulfillment_product.FulfillmentProduct
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - customer-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: fulfillment-policy
+  name: Fulfillment Policy
+  description: Policy for resource Fulfillment
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:fulfillment.Fulfillment
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - moderator-permit-read-scoped
+    - user-permit-read-owned
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: invoice-policy
+  name: Invoice Policy
+  description: Policy for resource Invoice
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:invoice.Invoice
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - moderator-permit-read-scoped
+    - user-permit-read-owned
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: locale-policy
+  name: Locale Policy
+  description: Policy for resource Locale
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:locale.Locale
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-read-scoped
+    - member-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: manufacturer-policy
+  name: Manufacturer Policy
+  description: Policy for resource Manufacturer
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:manufacturer.Manufacturer
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - customer-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: order-policy
+  name: Order Policy
+  description: Policy for resource Order
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-read-scoped
+    - user-permit-read-owned
+    - user-permit-modify-owned-order
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: order-submit-policy
+  name: Order Submit Policy
+  description: Policy for operation Submit Orders
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.submitOrders
+  rules:
+    - require-order-state-created
+    - administrator-permit-all-scoped
+    - customer-permit-all-scoped
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
+---
+  id: order-withdraw-policy
+  name: Order Withdraw Policy
+  description: Policy for operation Withdraw Orders
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.withdrawOrders
+  rules:
+    - requier-order-state-submitted
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - moderator-permit-all-scoped
+    - user-permit-all-owned
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
+---
+  id: order-cancel-policy
+  name: Order Cancel Policy
+  description: Policy for operation Cancel Orders
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.cancelOrders
+  rules:
+    - requier-order-state-withdrawn
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
+---
+  id: organization-policy
+  name: Organization Policy
+  description: Policy for resource Organization
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:organization.Organization
+  rules:
+    - administrator-permit-all-scoped
+    - moderator-permit-create-scoped
+    - moderator-permit-update-scoped
+    - moderator-permit-read-scoped
+    - member-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: ostorage-policy
+  name: Ostorage Policy
+  description: Policy for resource Ostorage
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:ostorage.Ostorage
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - moderator-permit-all-scoped
+    - member-permit-read-scoped
+    - user-permit-all-owned
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: payment-method-policy
+  name: PaymentMethod Policy
+  description: Policy for resource the PaymentMethod
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:payment_method.PaymentMethod
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: payment-policy
+  name: Payment Policy
+  description: Policy for resource the Payment
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:payment.Payment
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-read-scoped
+    - user-permit-read-owned
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: price-group-policy
+  name: PriceGroup Policy
+  description: Policy for resource PriceGroup
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:price_group.PriceGroup
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - customer-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: product-category-policy
+  name: ProductCategory Policy
+  description: Policy for resource ProductCategory
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:product_category.ProductCategory
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - customer-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: product-prototype-policy
+  name: ProductPrototype Policy
+  description: Policy for resource the ProductPrototype
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:product_prototype.ProductPrototype
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - customer-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: product-policy
+  name: Product Policy
+  description: Policy for resource Product
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:product.Product
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - customer-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: role-policy
+  name: Role Policy
+  description: Policy for resource Role
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:role.Role
+  rules:
+    - administrator-permit-read-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-read-scoped
+    - member-permit-read-scoped
+    - customer-permit-read-scoped
+    - user-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: shop-policy
+  name: Shop Policy
+  description: Policy for resource Shop
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:shop.Shop
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-all-scoped
+    - customer-permit-read-scoped
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: tax-type-policy
+  name: TaxType Policy
+  description: Policy for resource TaxType
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:tax_type.TaxType
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: tax-policy
+  name: Tax Policy
+  description: Policy for resource Tax
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:tax.Tax
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: timezone-policy
+  name: Timezone Policy
+  description: Policy for resource Timezone
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:timezone.Timezone
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-read-scoped
+    - member-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: token-policy
+  name: Token Policy
+  description: Policy for resource Token
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:token.Token
+  rules:
+    - user-permit-all-owned
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: unit-code-policy
+  name: UnitCode Policy
+  description: Policy for resource UnitCode
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:unit_code.UnitCode
+  rules:
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - customer-permit-read-scoped
+    - everyone-permit-read-system
+    - fallback-deny-all
   meta:
     modifiedBy: ""
     owners:
@@ -144,41 +894,26 @@
 ---
   id: user-policy
   name: User Policy
-  description: Policies for User
+  description: Policy for resource User
   evaluationCacheable: false
   effect: PERMIT
   target:
-    resources: []
-    actions: []
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: user-r-id
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:user.User
   rules:
-    - user-owned-resource-read-modify-rule
-    - user-user-read-modify-rule
-    - user-order-read-modify-rule
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
----
-  id: everyone-policy
-  name: Everyone Policy
-  description: Policies for Everyone
-  evaluationCacheable: false
-  effect: PERMIT
-  target:
-    resources: []
-    actions: []
-    subjects: []
-  rules:
-    - everyone-own-token-read-modify-rule
-    - everyone-system-resource-read-rule
+    - administrator-permit-all-scoped
+    - sales-permit-read-scoped
+    - moderator-permit-create-scoped
+    - moderator-permit-read-scoped
+    - member-permit-read-scoped
+    - user-permit-read-owned
+    - user-permit-update-owned
+    - unauthenticated-permit-create-strict-scope
+    - everyone-permit-reset-password
+    - fallback-deny-all
   meta:
     modifiedBy: ""
     owners:

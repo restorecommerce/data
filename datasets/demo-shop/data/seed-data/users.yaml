@@ -6,8 +6,8 @@
   email: unauthenticated.user@restorecommerce.io
   defaultScope: restorecommecre-demo-shops-organization
   roleAssociations:
-    - id: restorecommecre-demo-shops-organization-unauthenticated-user-r-id
-      role: unauthenticated-user-r-id
+    - id: restorecommecre-demo-shops-organization-unauthenticated-r-id
+      role: unauthenticated-r-id
     - id: restorecommecre-demo-shops-organization-customer-r-id
       role: customer-r-id
       attributes:
