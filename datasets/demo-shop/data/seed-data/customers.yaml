@@ -1,7 +1,7 @@
 ---
-  id: restorecommecre-demo-customer-000
+  id: restorecommerce-demo-customer-000
   commercial:
-    organizationId: restorecommecre-demo-customer-000-organization
+    organizationId: restorecommerce-demo-customer-000-organization
   meta:
     modifiedBy: ""
     owners:
@@ -9,11 +9,11 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-000-organization
+            value: restorecommerce-demo-customer-000-organization
 ---
-  id: restorecommecre-demo-customer-001
+  id: restorecommerce-demo-customer-001
   publicSector:
-    organizationId: restorecommecre-demo-customer-organization-001
+    organizationId: restorecommerce-demo-customer-organization-001
   meta:
     modifiedBy: ""
     owners:
@@ -21,13 +21,13 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-001-organization
+            value: restorecommerce-demo-customer-001-organization
 ---
-  id: restorecommecre-demo-customer-002
+  id: restorecommerce-demo-customer-002
   private:
-    userId: restorecommecre-demo-customer-002-user
+    userId: restorecommerce-demo-customer-002-user
     contactPointIds: [
-      restorecommecre-demo-customer-002-contact-point
+      restorecommerce-demo-customer-002-contact-point
     ]
   meta:
     modifiedBy: ""
@@ -36,9 +36,9 @@
         value: urn:restorecommerce:acs:model:user.User
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-002-user-000
+            value: restorecommerce-demo-customer-002-user-000
 ---
-  id: restorecommecre-demo-customer-unauthenticated
+  id: restorecommerce-demo-customer-unauthenticated
   private:
     userId: restorecommerce-demo-unauthenticated-user
     contactPointIds: []
@@ -49,4 +49,4 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-root-organization
+            value: restorecommerce-demo-root-organization

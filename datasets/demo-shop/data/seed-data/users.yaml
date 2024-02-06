@@ -4,18 +4,18 @@
   firstName: Unauthenticated
   lastName: User
   email: unauthenticated.user@restorecommerce.io
-  defaultScope: restorecommecre-demo-shops-organization
+  defaultScope: restorecommerce-demo-shops-organization
   roleAssociations:
-    - id: restorecommecre-demo-shops-organization-unauthenticated-r-id
+    - id: restorecommerce-demo-shops-organization-unauthenticated-r-id
       role: unauthenticated-r-id
-    - id: restorecommecre-demo-shops-organization-customer-r-id
+    - id: restorecommerce-demo-shops-organization-customer-r-id
       role: customer-r-id
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommecre-demo-shops-organization
+              value: restorecommerce-demo-shops-organization
   localeId: de-de
   timezoneId: europe-berlin
   meta:
@@ -25,7 +25,7 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-root-organization
+            value: restorecommerce-demo-root-organization
   newEmail: ""
   active: true
   activationCode: ""
@@ -166,14 +166,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-customer-000-organization
-    - id: restorecommecre-demo-shops-organization-customer-r-id
+    - id: restorecommerce-demo-shops-organization-customer-r-id
       role: customer-r-id
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommecre-demo-shops-organization
+              value: restorecommerce-demo-shops-organization
     - id: user-r-id
       role: user-r-id
   localeId: de-de
@@ -225,14 +225,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-customer-001-organization
-    - id: restorecommecre-demo-shops-organization-customer-r-id
+    - id: restorecommerce-demo-shops-organization-customer-r-id
       role: customer-r-id
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommecre-demo-shops-organization
+              value: restorecommerce-demo-shops-organization
     - id: user-r-id
       role: user-r-id
   localeId: de-de
@@ -284,14 +284,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-customer-000-organization
-    - id: restorecommecre-demo-shops-organization-customer-r-id
+    - id: restorecommerce-demo-shops-organization-customer-r-id
       role: customer-r-id
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommecre-demo-shops-organization
+              value: restorecommerce-demo-shops-organization
     - id: user-r-id
       role: user-r-id
   localeId: de-de
@@ -343,14 +343,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-customer-001-organization
-    - id: restorecommecre-demo-shops-organization-customer-r-id
+    - id: restorecommerce-demo-shops-organization-customer-r-id
       role: customer-r-id
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommecre-demo-shops-organization
+              value: restorecommerce-demo-shops-organization
     - id: user-r-id
       role: user-r-id
   localeId: de-de
@@ -394,14 +394,14 @@
   password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-customers-organization
   roleAssociations:
-    - id: restorecommecre-demo-shops-organization-customer-r-id
+    - id: restorecommerce-demo-shops-organization-customer-r-id
       role: customer-r-id
       attributes:
         - id: urn:restorecommerce:acs:names:roleScopingEntity
           value: urn:restorecommerce:acs:model:organization.Organization
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommecre-demo-shops-organization
+              value: restorecommerce-demo-shops-organization
     - id: user-r-id
       role: user-r-id
   localeId: de-de

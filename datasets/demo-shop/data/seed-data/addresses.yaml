@@ -1,5 +1,5 @@
 ---
-  id: restorecommecre-demo-shop-000-address-000
+  id: restorecommerce-demo-shop-000-address-000
   postcode: '70174'
   locality: Stuttgart
   street: Ossietzkystraße
@@ -20,9 +20,9 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-shop-organization-000
+            value: restorecommerce-demo-shop-organization-000
 ---
-  id: restorecommecre-demo-customer-000-address-000
+  id: restorecommerce-demo-customer-000-address-000
   postcode: '23456'
   locality: Teststadt
   street: Erste Teststraße
@@ -43,9 +43,9 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-000-organization
+            value: restorecommerce-demo-customer-000-organization
 ---
-  id: restorecommecre-demo-customer-001-address-000
+  id: restorecommerce-demo-customer-001-address-000
   postcode: '34567'
   locality: Beispielstadt
   street: Zweite Teststraße
@@ -66,9 +66,9 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-001-organization
+            value: restorecommerce-demo-customer-001-organization
 ---
-  id: restorecommecre-demo-customer-002-address-000
+  id: restorecommerce-demo-customer-002-address-000
   postcode: '34567'
   locality: Beispielstadt
   street: Zweite Teststraße

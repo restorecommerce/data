@@ -1,10 +1,10 @@
 ---
-  id: restorecommecre-demo-shop-000
+  id: restorecommerce-demo-shop-000
   shopNumber: "00000000" 
   name: "Restorecommerce Demo Shop 000"
   description: ""
   domain: localhost
-  organizationId: restorecommecre-demo-shop-000-organization
+  organizationId: restorecommerce-demo-shop-000-organization
   meta:
     modifiedBy: ""
     owners:
@@ -12,5 +12,5 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-shop-000-organization
+            value: restorecommerce-demo-shop-000-organization
 ---

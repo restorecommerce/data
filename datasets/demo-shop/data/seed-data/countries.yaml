@@ -1,5 +1,5 @@
 ---
-  id: restorecommecre-demo-country-germany
+  id: restorecommerce-demo-country-germany
   name: Germany
   countryCode: DE
   geographicalName: Germany
@@ -12,9 +12,9 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-root-organization
+            value: restorecommerce-demo-root-organization
 ---
-  id: restorecommecre-demo-country-switzerland
+  id: restorecommerce-demo-country-switzerland
   name: Switzerland
   countryCode: CH
   geographicalName: Switzerland
@@ -26,9 +26,9 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-root-organization
+            value: restorecommerce-demo-root-organization
 ---
-  id: restorecommecre-demo-country-belgium
+  id: restorecommerce-demo-country-belgium
   name: Belgium
   countryCode: BE
   geographicalName: Belgium
@@ -41,9 +41,9 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-root-organization
+            value: restorecommerce-demo-root-organization
 ---
-  id: restorecommecre-demo-country-france
+  id: restorecommerce-demo-country-france
   name: France
   countryCode: FR
   geographicalName: France
@@ -56,4 +56,4 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-root-organization
+            value: restorecommerce-demo-root-organization

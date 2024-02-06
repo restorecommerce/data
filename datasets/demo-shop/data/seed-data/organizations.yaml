@@ -1,5 +1,5 @@
 ---
-  id: restorecommecre-demo-root-organization
+  id: restorecommerce-demo-root-organization
   name: Restorecommerce Demo Root
   contactPointIds: []
   website: ""
@@ -19,9 +19,9 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-root-organization
+            value: restorecommerce-demo-root-organization
 ---
-  id: restorecommecre-demo-shops-organization
+  id: restorecommerce-demo-shops-organization
   name: Restorecommerce Demo Shops
   contactPointIds: []
   website: ""
@@ -33,7 +33,7 @@
     url: ""
   registrationCourt: ""
   paymentMethodIds: []
-  parentId: "restorecommecre-demo-root-organization"
+  parentId: restorecommerce-demo-root-organization
   meta:
     modifiedBy: ""
     owners:
@@ -41,9 +41,9 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-shops-organization
+            value: restorecommerce-demo-shops-organization
 ---
-  id: restorecommecre-demo-customers-organization
+  id: restorecommerce-demo-customers-organization
   name: Restorecommerce Demo Customers
   contactPointIds: []
   website: ""
@@ -55,7 +55,7 @@
     url: ""
   registrationCourt: ""
   paymentMethodIds: []
-  parentId: "restorecommecre-demo-root-organization"
+  parentId: restorecommerce-demo-root-organization
   meta:
     modifiedBy: ""
     owners:
@@ -63,12 +63,12 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customers-organization
+            value: restorecommerce-demo-customers-organization
 ---
-  id: restorecommecre-demo-shop-000-organization
+  id: restorecommerce-demo-shop-000-organization
   name: Restorecommerce Demo Shop 000 Organization
   contactPointIds:
-    - restorecommecre-demo-shop-000-contact-point
+    - restorecommerce-demo-shop-000-contact-point
   website: https://about.restorecommerce.io/
   email: shop000@restorecommerce.io
   vatId: DE000000000
@@ -78,7 +78,7 @@
     url: http://console:80/templates/logos/PNG/X_Logo.png
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: []
-  parentId: restorecommecre-demo-shops-organization
+  parentId: restorecommerce-demo-shops-organization
   meta:
     modifiedBy: ""
     owners:
@@ -86,12 +86,12 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-shop-000-organization
+            value: restorecommerce-demo-shop-000-organization
 ---
-  id: restorecommecre-demo-customer-000-organization
+  id: restorecommerce-demo-customer-000-organization
   name: Restorecommerce Demo Customer 000 Organization
   contactPointIds:
-    - restorecommecre-demo-customer-000-contact-point
+    - restorecommerce-demo-customer-000-contact-point
   website: https://about.restorecommerce.io/
   email: customer000@restorecommerce.io
   vatId: "7891011"
@@ -101,7 +101,7 @@
     url: ""
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: [ ]
-  parentId: restorecommecre-demo-customers-organization
+  parentId: restorecommerce-demo-customers-organization
   meta:
     modifiedBy: ""
     owners:
@@ -109,12 +109,12 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-001-organization
+            value: restorecommerce-demo-customer-000-organization
 ---
-  id: restorecommecre-demo-customer-001-organization
+  id: restorecommerce-demo-customer-001-organization
   name: Restorecommerce Demo Customer 001 Organization
   contactPointIds:
-    - restorecommecre-demo-customer-001-contact-point
+    - restorecommerce-demo-customer-001-contact-point
   website: https://about.restorecommerce.io/
   email: customer001@restorecommerce.io
   vatId: "7891011"
@@ -124,7 +124,7 @@
     url: ""
   registrationCourt: Amtsgericht Stuttgart (Registergericht)
   paymentMethodIds: [ ]
-  parentId: restorecommecre-demo-customers-organization
+  parentId: restorecommerce-demo-customers-organization
   meta:
     modifiedBy: ""
     owners:
@@ -132,4 +132,4 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-customer-001-organization
+            value: restorecommerce-demo-customer-001-organization
