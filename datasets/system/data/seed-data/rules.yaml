@@ -22,8 +22,8 @@
             value: system
 ---
   id: fallback-permit-all
-  name: Fallback Permit All
-  description: Fallback to Permit all
+  name: Fallback Permits All
+  description: Fallback to Permits all
   effect: PERMIT
   target:
     subjects: [ ]
@@ -43,8 +43,32 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: administrator-permit-all-scoped
-  name: Admin Permit All Rule
+  id: superadministrator-permits-all
+  name: SuperAdmin Permits All Rule
+  description: Permits all if subject is SuperAdmin
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: superadministrator-r-id
+    actions: [ ]
+    resources: [ ]
+  effect: PERMIT
+  condition: ""
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: administrator-permits-all-scoped
+  name: Admin Permits All Rule
   description: Permits all if subject is Admin within hierarchical scope
   target:
     subjects:
@@ -69,8 +93,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: administrator-permit-read-scoped
-  name: Admin Permit Read Rule
+  id: administrator-permits-read-scoped
+  name: Admin Permits Read Rule
   description: Permits read if subject is Admin within hierarchical scope
   target:
     resources: [ ]
@@ -97,8 +121,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: sales-permit-all-scoped
-  name: Sales Permit All Rule
+  id: sales-permits-all-hr-scoped
+  name: Sales Permits All HR Scoped
   description: Permits all if subject is Sales within hierarchical scope
   target:
     subjects:
@@ -123,8 +147,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: sales-permit-read-scoped
-  name: Sales Permit Read Rule
+  id: sales-permits-read-hr-scoped
+  name: Sales Permits Read HR Scope
   description: Permits read if subject is Sales within hierarchical scope
   target:
     resources: [ ]
@@ -151,8 +175,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: moderator-permit-all-scoped
-  name: Moderator Permit All Rule
+  id: moderator-permits-all-hr-scoped
+  name: Moderator Permits All HR Scoped
   description: Permits all if subject is Moderator within hierarchical scope
   target:
     subjects:
@@ -177,8 +201,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: moderator-permit-read-scoped
-  name: Moderator Permit Read Rule
+  id: moderator-permits-read-hr-scoped
+  name: Moderator Permits Read HR Scoped
   description: Permits read if subject is Moderator within hierarchical scope
   target:
     resources: [ ]
@@ -205,8 +229,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: moderator-permit-create-scoped
-  name: Moderator Permit Create Rule
+  id: moderator-permits-create-hr-scoped
+  name: Moderator Permits Create HR Scoped
   description: Permits create if subject is Moderator within hierarchical scope
   target:
     resources: [ ]
@@ -233,8 +257,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: moderator-permit-update-scoped
-  name: Moderator Permit Update Rule
+  id: moderator-permits-update-hr-scoped
+  name: Moderator Permits Update HR Scoped
   description: Permits update if subject is Moderator within hierarchical scope
   target:
     resources: [ ]
@@ -261,8 +285,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: member-permit-read-scoped
-  name: Member Permit Read Rule
+  id: member-permits-read-hr-scoped
+  name: Member Permits Read Rule
   description: Permits read if subject is Member within hierarchical scope
   target:
     resources: [ ]
@@ -289,34 +313,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: customer-permit-all-scoped
-  name: Customer Permit All Rule
-  description: Permits all if subject is Customer within hierarchical scope
-  target:
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: customer-r-id
-      - id: urn:restorecommerce:acs:names:roleScopingEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-    actions: [ ]
-    resources: [ ]
-  effect: PERMIT
-  condition: ""
-  evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: customer-permit-read-scoped
-  name: Customer Permit Read Rule
+  id: customer-permits-read-hr-scoped
+  name: Customer Permits Read HR Scope
   description: Permits read if subject is Customer within hierarchical scope
   target:
     resources: [ ]
@@ -343,33 +341,28 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: user-permit-all-owned
-  name: User Permit All Owned
-  description: Permits all if resource is owned by subject
+  id: user-permits-create-owned
+  name: User Permits Create Owned
+  description: Permits create if resource is owned by subject
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: user-r-id
-    actions: [ ]
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
+        value: "false"
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:create
     resources: [ ]
   effect: PERMIT
-  condition:
-    "
-    (request) => request?.context?.resources?.every(
-      resource => resource.meta?.owners?.some(
-        owner => (
-          owner.id === 'urn:restorecommerce:acs:names:ownerIndicatoryEntity'
-          && owner.value === 'urn:restorecommerce:acs:model:organization.Organization'
-          && owner.attributes?.some(
-            att => (
-              att.id === 'urn:restorecommerce:acs:names:ownerInstance'
-              && att.value === context?.subject?.id
-            )
-          )
-        )
-      )
-    );
-    "
+  condition: "
+    !context?.resources?.some(
+      resource => resource?.user_id !== context.subject?.id
+        || resource?.private?.user_id !== context.subject?.id
+    )
+  "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -383,35 +376,23 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: user-permit-update-owned
-  name: User Permit Update Owned
+  id: user-permits-update-owned
+  name: User Permits Update Owned
   description: Permits update if resource is owned by subject
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: user-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
+        value: "false"
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:update
     resources: [ ]
   effect: PERMIT
-  condition:
-    "
-    (request) => request?.context?.resources?.every(
-      resource => resource.meta?.owners?.some(
-        owner => (
-          owner.id === 'urn:restorecommerce:acs:names:ownerIndicatoryEntity'
-          && owner.value === 'urn:restorecommerce:acs:model:organization.Organization'
-          && owner.attributes?.some(
-            att => (
-              att.id === 'urn:restorecommerce:acs:names:ownerInstance'
-              && att.value === context?.subject?.id
-            )
-          )
-        )
-      )
-    );
-    "
+  condition: ""
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -425,35 +406,23 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: user-permit-read-owned
-  name: User Permit Read Owned
-  description: Permits read if resource is owned by subject
+  id: user-permits-read-owned
+  name: User Permits Read Owned
+  description: Permits read if resource is owned by subject User
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
         value: user-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
+        value: "false"
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
     resources: [ ]
   effect: PERMIT
-  condition:
-    "
-    (request) => request?.context?.resources?.every(
-      resource => resource.meta?.owners?.some(
-        owner => (
-          owner.id === 'urn:restorecommerce:acs:names:ownerIndicatoryEntity'
-          && owner.value === 'urn:restorecommerce:acs:model:organization.Organization'
-          && owner.attributes?.some(
-            att => (
-              att.id === 'urn:restorecommerce:acs:names:ownerInstance'
-              && att.value === context?.subject?.id
-            )
-          )
-        )
-      )
-    );
-    "
+  condition: ""
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -467,26 +436,39 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: require-order-state-created
-  name: Require Order State Created
-  description: Denies if order has other state than created
+  id: user-permits-update-user-owned
+  name: User Permits Update User Owned
+  description: Permits updated for owned user
   target:
-    subjects: [ ]
-    actions: [ ]
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
+        value: "false"
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:update
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
-  effect: DENY
-  condition:
-    "
-    (request) => !request?.context?.resources?.every(
-      resource => (
-        !resource.order_state
-        || resource.order_state?.toString() === 'UNRECOGNIZED'
-        || resource.order_state?.toString() === 'CREATED'
-      )
-    );
-    "
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#name
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#first_name
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#last_name
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#default_scope
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#locale_id
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#timezone_id
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#tokens
+  effect: PERMIT
+  condition: ""
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -500,24 +482,23 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: require-order-state-submitted
-  name: Require Order State Submitted
-  description: Denies if order has other state than submitted
+  id: permit-read-strict-scoped
+  name: Scoped User Permits Read
+  description: Permits read if resource is owned by scope
   target:
-    subjects: [ ]
-    actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
-  effect: DENY
-  condition:
-    "
-    (request) => !request?.context?.resources?.every(
-      resource => (
-        resource.order_state?.toString() === 'SUBMITTED'
-      )
-    );
-    "
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: scoped-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+      - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
+        value: "false"
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+    resources: [ ]
+  effect: PERMIT
+  condition: ""
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -531,40 +512,9 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: require-order-state-withdrawn
-  name: Require Order State Withdrawn
-  description: Denies if order has other state than withdrawn
-  target:
-    subjects: [ ]
-    actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
-  effect: DENY
-  condition:
-    "
-    (request) => !request?.context?.resources?.every(
-      resource => (
-        resource.order_state?.toString() === 'WITHDRAWM'
-      )
-    );
-    "
-  evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
-  id: unauthenticated-permit-create-strict-scope
+  id: unauthenticated-user-permits-create-strict-scope
   name: Unauthenticated Create Strict Scope
-  description: Permits create if subject is Unauthenticated within strict scope
+  description: Permits create if subject is Unauthenticated User within strict scope
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
@@ -572,7 +522,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
       - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
-        value: 'false'
+        value: "false"
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:create
@@ -590,35 +540,21 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommecre-demo-root-organization
+            value: system
 ---
-  id: everyone-permit-read-system
-  name: Everyone Permit Read System
-  description: Permits read if resource is owned by system
+  id: domainless-unauthenticated-permits-read-system
+  name: Domainless Unauthenticated Permits Read System
+  description: Permits read system for unauthenticated users without domain
   target:
-    resources: [ ]
-    subjects: [ ]
+    subjects:
+      - id: urn:restorecommerce:acs:names:unauthenticated-user
+        value: "true"
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
+    resources: [ ]
   effect: PERMIT
-  condition:
-    "
-    (request) => request?.context?.resources?.every(
-      resource => resource.meta?.owners?.some(
-        owner => (
-          owner.id === 'urn:restorecommerce:acs:names:ownerIndicatoryEntity'
-          && owner.value === 'urn:restorecommerce:acs:model:organization.Organization'
-          && owner.attributes?.some(
-            att => (
-              att.id === 'urn:restorecommerce:acs:names:ownerInstance'
-              && att.value === 'system'
-            )
-          )
-        )
-      )
-    );
-    "
+  condition: "{ filters: [ { field: 'meta.owners[*].attributes[0].value', operation: 'in', value: 'system' } ] }"
   evaluationCacheable: false
   contextQuery:
     filters: [ ]
@@ -632,8 +568,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: everyone-permit-reset-password
-  name: Everyone Permit Reset Password
+  id: everyone-permits-reset-password
+  name: Everyone Permits Reset Password
   description: Permits reset password to everyone
   target:
     subjects: [ ]
@@ -651,6 +587,324 @@
         value: urn:restorecommerce:acs:model:user.User#email
   effect: PERMIT
   condition: ""
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: sales-requires-order-state-submitted
+  name: Sales Requires Order State Submitted
+  description: Permits if order state is Submitted for subject Sales
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: sales-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        resource.order_state?.toString() === 'SUBMITTED'
+      )
+    )
+    "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: sales-requires-order-state-withdrawn
+  name: Sales Requires Order State Withdrawn
+  description: Permits if order state is Withdrawn for subject Sales
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: sales-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        resource.order_state?.toString() === 'WITHDRAWN'
+      )
+    )
+    "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: sales-requires-order-state-canceled
+  name: Sales Requires Order State Canceled
+  description: Permits if order state is Canceled for subject Sales
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: sales-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        resource.order_state?.toString() === 'CANCELED'
+      )
+    )
+    "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: moderator-requires-order-state-submitted
+  name: Moderator Requires Order State Submitted
+  description: Permits if order state is Submitted for subject Moderator
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: moderator-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        resource.order_state?.toString() === 'SUBMITTED'
+      )
+    )
+    "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: moderator-requires-order-state-withdrawn
+  name: Moderator Requires Order State Withdrawn
+  description: Permits if order state is Withdrawn for subject Moderator
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: moderator-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        resource.order_state?.toString() === 'WITHDRAWN'
+      )
+    )
+    "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: moderator-requires-order-state-canceled
+  name: Moderator Requires Order State Canceled
+  description: Permits if order state is Canceled for subject Moderator
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: moderator-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        resource.order_state?.toString() === 'CANCELED'
+      )
+    )
+    "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: user-requires-order-state-created
+  name: User Requires Order State Created
+  description: Permits if order state is Created for subject User
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        !resource.order_state
+        || resource.order_state?.toString() === 'CREATED'
+      )
+    )
+    "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: customer-requires-order-state-created
+  name: Customer Requires Order State Created
+  description: Permits if order state is Created for subject Customer
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: customer-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        !resource.order_state
+        || resource.order_state?.toString() === 'CREATED'
+      )
+    )
+    "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: customer-requires-order-state-submitted
+  name: Customer Requires Order State Submitted
+  description: Permits if order state is Submitted for subject Customer
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: customer-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+    actions: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:order.Order
+  effect: PERMIT
+  condition:
+    "
+    context?.resources?.some(
+      resource => (
+        !resource.order_state
+        || resource.order_state?.toString() === 'SUBMITTED'
+      )
+    )
+    "
   evaluationCacheable: false
   contextQuery:
     filters: [ ]

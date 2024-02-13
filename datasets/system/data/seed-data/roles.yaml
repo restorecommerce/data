@@ -28,6 +28,20 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
+  id: unauthenticated-r-id
+  name: unauthenticated
+  description: actions for unauthenticated users
+  assignableByRoles:
+    - superadministrator-r-id
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
   id: sales-r-id
   name: Sales
   description: can read and write within shop organization scope
@@ -81,6 +95,7 @@
   assignableByRoles:
     - superadministrator-r-id
     - administrator-r-id
+    - unauthenticated-r-id
     - moderator-r-id
   meta:
     modifiedBy: ""
@@ -93,10 +108,11 @@
 ---
   id: user-r-id
   name: user
-  description: grands actions on its own account
+  description: grands actions on owned resources
   assignableByRoles:
     - superadministrator-r-id
     - administrator-r-id
+    - unauthenticated-r-id
     - moderator-r-id
   meta:
     modifiedBy: ""
@@ -107,11 +123,14 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: unauthenticated-r-id
-  name: unauthenticated
-  description: actions for unauthenticated users
+  id: scoped-r-id
+  name: scoped
+  description: grands read on scoped resources
   assignableByRoles:
     - superadministrator-r-id
+    - administrator-r-id
+    - unauthenticated-r-id
+    - moderator-r-id
   meta:
     modifiedBy: ""
     owners:
