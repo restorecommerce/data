@@ -8,8 +8,228 @@ The data sets serve several purposes:
 - For automated testing
 - For demonstration purposes
 
-== Available Data Sets
+== Getting Started
 
-- link:datasets/system[System]
-- link:datasets/demo-shop[Demo Shop]
+_Note: Recommented for setups from scratch with clean databases only!_
 
+This tutorial will install all dependencies, generate all data and import all data!
+Depending on the dataset size, each process may take a while.
+For more sensitive and detail usage, please check individual documentation:
+
+- link:datasets/system/README.md[System]
+- link:datasets/demo-shop/README.md[Demo Shop]
+
+For quick start, please proceed with following steps:
+
+1. Ensure that https://github.com/restorecommerce/system[system]
+or https://github.com/restorecommerce/charts[charts] is running,
+either locally or remotely.
+At remote, please adjust endpoints in ``.config.json``.
+
+2. Install all dependencies:
+
+  npm ci
+
+3. Trigger all transformers and generators to create all generative data:
+
+  npm run transform
+
+4. Extract the API-Key from ``restorecommerce-facade-srv`` logs:
+
+  a. If ``facade-srv`` is running locally,
+  
+    - run:
+  
+      npm run env:token
+    
+    - ensure a file `.env` was created with content e.g.:
+
+      ACCESS_TOKEN=87a85f2661db4888ab88b8997ed0adc8
+  
+  b. If ``facade-srv`` is running remotely,
+  
+    - attach to its shell and try:
+    
+      echo $(docker logs --tail 10000 restorecommerce_facade_srv 2> /dev/null | grep 'Bootstrap API Key is:' | awk '{print \"\rACCESS_TOKEN=\"$7}')
+    
+    - then export the API-Key to your local environment:
+    
+      export ACCESS_TOKEN={API-KEY}
+
+5. Import all data, this process may take some time:
+
+  npm run import
+
+6. All done! Please check the database whether all data is imported.
+
+== All NPM Script Commands
+
+The project root provides a couble of handy NPM Script Commands to accelerate the workflow across all datasets.
+
+=== Transformers
+
+All:
+
+- Transforms all generative data:
+
+  npm run transform
+
+System:
+
+- Transforms all generative data for system:
+
+  npm run transform:system
+
+- Transforms unit-codes from XLS to YAML:
+
+  npm run transform:system:unitcodes
+
+Demo Shop:
+
+- Transforms all generative data for demo-shop:
+
+  npm run transform:demoshop
+
+- Transforms catalog data from CSV to YAML:
+
+  npm run transform:demoshop
+
+=== Imports
+
+All:
+
+- Imports all data:
+
+  npm run import
+
+System:
+
+- Imports all system data only:
+
+  npm run import:system
+
+- Imports users, roles, policy-sets, policies and rules from system data:
+
+  npm run import:system:identity
+
+- Imports commands, contact-point-types, countries, locales, organizations, tax-types, taxes and timezones from system data:
+
+  npm run import:system:master
+
+- Imports generated unit-codes from system data:
+
+  npm run import:system:extra
+
+Demo Shop:
+
+- Imports all data from demo-shop only:
+
+  npm run import:demoshop
+
+- Imports users from demo-shop data:
+
+  npm run import:demoshop:identity
+
+- Imports commands, contact-point-types, countries, locales, organizations, tax-types, taxes and timezones from demo-shop data:
+
+  npm run import:demoshop:master
+
+- Imports generated products, manufactures, price-groups, prototypes and categories from demo-shop data:
+
+  npm run import:demoshop:catalog
+
+=== Utilities
+
+- Extracts API-Key from local ``facade-srv`` logs:
+
+  npm run env:token
+
+
+== The Access Control Data Model
+
+All entities of this dataset are organized along a hierarchy of ``organisation``s.
+Each entity is owned by one or more ``organization``(s) and by its creator in common case.
+
+All ``organization``s are children of ``system`` while ``restorecommerce-demo-root`` implies the first tandent.
+Each tandent has two sub-``organization``s for categorization between ``organization``s of shops or customers.
+Shop and customer ``organization``s may have any sub-hierarchy as pleased.
+Here an overview of the current organization hierarchy:
+
+----
+system:
+  - restorecommerce-demo-root:
+    - restorecommerce-demo-shops:
+      - restorecommerce-demo-shop-000
+    - restorecommerce-demo-customers:
+      - restorecommerce-demo-customer-000
+      - restorecommerce-demo-customer-001
+----
+
+A combination of ``role``s given to a ``user`` grant variant read and write permissions per entity within defined scopes.
+The following roles are provided by `system:identity`:
+
+- ``superadministrator``: An exclusive role for developers and technical users.
+
+  1. Permits full access to all entities regardless of ownership or hierarchy.
+
+- ``administrator``: An exclusive role for maintenance and product owners.
+
+  1. Permits full access to all entities within an hierarchical scope.
+
+- ``sales``: Maintains daily business for shops.
+
+  1. Permits read for all entities within an hierarchical scope.
+  2. Permits create for products and other catalog entities within hierarchical scope.
+  3. Permits read and modify for submitted orderings within hierarchical scope.
+
+- ``moderator``: Maintains users and customer organizations.
+
+  1. Permits read for all entities within an hierarchical scope.
+  2. Permits create and modify for organizations and users within scope.
+  3. Permits withdraw for submitted orderings within scope.
+
+- ``member``: Acts as a member of a customer organizations.
+
+  1. Permits read for users, addresses, contact-points and sub-organizations within hierarchical scope
+
+- ``customer``: Acts as a customer of a shop.
+
+  1. Permits read for products and other catalog entities within hierarchical scope.
+  2. Permits to submit orders within hierarchical scope.
+
+- ``user``: Acts as a authenticated users.
+
+  1. Permits read for all owned entities
+  2. Permits read and modify of exposed user data
+  3. Permits to create orders within within hierarchical scope
+
+- ``scoped``: Expands read permission to a certain scope.
+
+  1. Permits read within scope
+
+- ``unauthenticated``: Acts as an unauthenticated users.
+
+  1. Permits to reset password
+  2. Permits read for exposed data of system
+
+=== Examples
+
+**The Common Sales User** has a ``sales``-role with scope on a shop-organization and a ``scoped``-role on system.
+By that it can maintain the shop but also read all master data in system.
+- Optionally it has a ``user``-role, so it can modify its user information.
+
+**The Common Moderator User** has a ``moderator``-role with scope on a customer-organization and a ``scoped``-role on system.
+By that it can maintain the customer organization but also read all master data in system.
+- Optionally it has a ``user``-role, so it can modify its user information.
+- Optionally it has a ``customer``-role on a shop, so it can submit orders.
+
+**The Common Customer User** has a ``customer``-role with scope on a shop-organization and a ``scoped``-role on system.
+By that it can submit orders to a shop but also read all master data in system.
+- Optionally it has a ``user``-role, so it can modify its user information.
+- Optionally it has a ``member``-role on a customer-organization, so it can create and submit orders in the name of that organization.
+
+== Trouble Shooting
+
+Access deny errors during import:
+
+- Please restart ``facade-srv`` 

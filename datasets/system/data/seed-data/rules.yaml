@@ -341,6 +341,39 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
+  id: user-permits-all-owned
+  name: User Permits All Owned
+  description: Permits all if resource is owned by subject
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
+        value: "false"
+    actions: [ ]
+    resources: [ ]
+  effect: PERMIT
+  condition: "
+    !context?.resources?.some(
+      resource => resource?.user_id !== context.subject?.id
+        || resource?.private?.user_id !== context.subject?.id
+    )
+  "
+  evaluationCacheable: false
+  contextQuery:
+    filters: [ ]
+    query: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
   id: user-permits-create-owned
   name: User Permits Create Owned
   description: Permits create if resource is owned by subject

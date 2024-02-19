@@ -13,24 +13,18 @@
     "data"
   ],
   "dependencies": {
-    "@restorecommerce/rc-grpc-clients": "^5.1.15",
     "@restorecommerce/gql-bot": "^1.0.1",
     "commander": "^9.4.1",
-    "dotenv": "^16.0.3",
-    "formdata-node": "^4.3.3",
-    "node-fetch": "^3.2.9",
-    "prompt": "^1.3.0",
-    "typescript": "^4.8.4"
+    "dotenv": "^16.0.3"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.23.10",
     "@restorecommerce/eslint-config-restorecommerce": "^0.1.5",
-    "@types/node": "^18.11.7",
-    "babel-eslint": "^10.0.3",
     "eslint": "^8.26.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-json": "^3.1.0",
-    "node-xlsx": "^0.23.0",
+    "lerna": "^8.1.2",
     "npm-run-all": "^4.1.5"
   },
   "scripts": {
@@ -46,10 +40,16 @@
     "import:demoshop:identity": "node import.js import -d demo-shop -j identity",
     "import:demoshop:catalog": "node import.js import -d demo-shop -j catalog",
     "import:demoshop:objects": "node ./dataset/demo-shop/objects/object_importer.js",
+    "transform": "npm-run-all transform:system transform:demoshop",
+    "transform:system": "npm-run-all transform:system:unitcodes",
+    "transform:demoshop": "npm-run-all transform:demoshop:catalog",
     "transform:system:unitcodes": "node ./datasets/system/generator/unit_codes/transform.js",
     "transform:demoshop:catalog": "node ./datasets/demo-shop/generator/catalog/transform.js"
   },
   "engines": {
     "node": ">= 18.0.0"
-  }
+  },
+  "workspaces": [
+    "datasets/**"
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "datasets/*"
+  ],
+  "ignoreChanges": [
+    "**/node_modules/**",
+    "**/package.json",
+    "**/*.md",
+    "**/perf/**"
+  ],
+  "version": "independent",
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json"
+}

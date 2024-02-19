@@ -1,11 +1,11 @@
 {
-  "name": "@restorecommerce/testdata-transform",
+  "name": "@restorecommerce/dataset-demoshop-catalog-transformer",
   "version": "0.1.0",
   "description": "Util for generating product catalog data from a CSV data set",
   "license": "MIT",
   "keywords": [
     "restorecommerce",
-    "seed",
+    "demo-shop",
     "data"
   ],
   "dependencies": {
@@ -14,11 +14,8 @@
     "object-hash": "^2.0.0",
     "uuid": "^3.3.3"
   },
-  "devDependencies": {
-    "@types/node": "^12.11.2"
-  },
   "scripts": {},
   "engines": {
-    "node": ">= 9.2.0"
+    "node": ">= 18.0.0"
   }
 }

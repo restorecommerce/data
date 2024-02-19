@@ -1,5 +1,5 @@
-const xlsx = require('node-xlsx');
 const fs = require('fs');
+const xlsx = require('node-xlsx');
 const yaml = require('js-yaml');
 
 const headerMapping = {
@@ -43,7 +43,7 @@ const sectorMapping = {
 
 const workSheetsFromFile = xlsx.parse(`${__dirname}/rec20_Rev15e-2020.xls`);
 
-export function transform() {
+function transform() {
   const codes = {};
 
   for (let i = 1; i < 3; i += 1) {
@@ -106,4 +106,6 @@ export function transform() {
   const outDir = `${__dirname}/../../data/generated/`;
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(`${outDir}unit_codes.yaml`, values.map(yaml.dump).join('\n---\n'));
-}
+};
+
+transform();

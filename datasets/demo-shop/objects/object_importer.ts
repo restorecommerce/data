@@ -3,7 +3,7 @@ import { FormData } from 'formdata-node';
 import * as fs from 'fs';
 import * as readline from 'readline';
 
-const CONFIG_NAME = process.env.CONFIG_NAME || '.config.json';
+const CONFIG_NAME = process.env.CONFIG_NAME ?? '.config.json';
 const defaultConfig = JSON.parse(fs.readFileSync(CONFIG_NAME)
   .toString());
 const realConfig = {

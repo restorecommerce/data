@@ -1,0 +1,19 @@
+{
+  "name": "@restorecommerce/dataset-system-units-transformer",
+  "version": "0.1.0",
+  "description": "Util for generating units from XLS data set",
+  "license": "MIT",
+  "keywords": [
+    "restorecommerce",
+    "system",
+    "data"
+  ],
+  "dependencies": {
+    "node-xlsx": "^0.23.0",
+    "js-yaml": "^3.14.0"
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">= 18.0.0"
+  }
+}
