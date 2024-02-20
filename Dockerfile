@@ -1,10 +1,12 @@
-FROM node:12.18.3-alpine
+### Base
+FROM node:20.8.0-alpine3.18 as base
 
-WORKDIR /
+USER node
+ARG APP_HOME=/home/node/data
+WORKDIR $APP_HOME
 
-COPY package.json package-lock.json ./
-RUN npm ci --only=production
+COPY *json *.js datasets ./
+RUN npm ci
 
-COPY . .
-
-ENTRYPOINT ["node", "import.js"]
+USER root
+USER node

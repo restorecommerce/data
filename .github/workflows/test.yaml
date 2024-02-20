@@ -25,5 +25,8 @@ jobs:
       - name: Extract Bootstrap API-KEY
         run: npm run env:token
 
-      - name: Import all
+      - name: Transform all data
+        run: npm run transform
+
+      - name: Import all data
         run: npm run import

@@ -232,4 +232,4 @@ By that it can submit orders to a shop but also read all master data in system.
 
 Access deny errors during import:
 
-- Please restart ``facade-srv`` 
+- Please restart ``facade-srv`` and retrive the latest API-Key
