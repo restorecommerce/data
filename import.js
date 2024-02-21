@@ -7,17 +7,16 @@ const {
 } = require('@restorecommerce/gql-bot');
 const { program } = require('commander');
 
-const CONFIG_NAME = process.env.CONFIG_NAME ?? '.config.json';
-const CONFIG = JSON.parse(fs.readFileSync(CONFIG_NAME).toString());
+const DB_IMPORT_CONFIG_NAME = process.env.DB_IMPORT_CONFIG_NAME ?? '.config.json';
+const CONFIG = JSON.parse(fs.readFileSync(DB_IMPORT_CONFIG_NAME).toString())?.db_import;
 
 async function commandDataImport(cmd) {
-  const dataset = cmd.dataset ?? exitWithError('error: please select data set');
+  CONFIG ?? exitWithError('error: invalid or missing config');
+  const dataset = cmd.dataset
+    ?? exitWithError('error: please select data set');
   const accessToken = cmd.token
-    ?? process.env.ACCESS_TOKEN
     ?? exitWithError('error: please provide an access token');
-
   const jobs = (cmd.job?.length > 0 ? cmd.job : undefined)
-    ?? process.env.JOBS?.split(',')
     ?? exitWithError('error: please provide a job');
 
   jobs.forEach(job => {
@@ -29,9 +28,8 @@ async function commandDataImport(cmd) {
     }
   });
 
-  if (accessToken) {
-    CONFIG.headers = Object.assign(CONFIG.headers ?? {}, { 'Authorization': `Bearer ${accessToken}` });
-  }
+  CONFIG.headers = Object.assign(CONFIG.headers ?? {}, { 'Authorization': `Bearer ${accessToken}` });
+  CONFIG.entry = cmd.entry ?? CONFIG.entry
 
   const gqlProcessor = new GraphQLProcessor(CONFIG);
 
@@ -77,9 +75,22 @@ async function importData() {
     .command('import')
     .description('import data')
     .option('-d, --dataset <dataset>', 'select dataset domain')
-    .option('-t, --token <access_token>', 'access token to use for communications')
-    .option('-u, --url <entry>', 'url to entry point', undefined)
-    .option('-j, --job <job>', 'list of jobs to process', (v, p) => p.concat(v), [])
+    .option(
+      '-j, --job <job>',
+      'list of jobs to process',
+      (v, p) => p.concat(v),
+      process.env.DB_IMPORT_JOBS?.split(',') ?? CONFIG?.jobs ?? []
+    )
+    .option(
+      '-u, --url <entry>',
+      'url to endpoint point',
+      process.env.DB_IMPORT_ENTRY ?? CONFIG?.entry
+    )
+    .option(
+      '-t, --token <access_token>',
+      'access token to use for communications',
+      process.env.ACCESS_TOKEN ?? CONFIG?.access_token
+    )
     .option('-i, --ignore', 'ignore errors and don\'t stop', false)
     .option('-v, --verbose', 'verbose output', false)
     .action(commandDataImport);
@@ -105,7 +116,12 @@ function exitWithError(message) {
 }
 
 function getFullJobPath(dataset, job) {
-  return path.resolve(path.join(CONFIG['data_directory'], dataset, CONFIG['job_directory'], CONFIG['job_prefix'] + job + '.json'));
+  return path.resolve(path.join(
+    CONFIG?.data_directory,
+    dataset,
+    CONFIG?.job_directory,
+    CONFIG?.job_prefix + job + '.json'
+  ));
 }
 
 importData();
