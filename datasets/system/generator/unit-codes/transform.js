@@ -56,15 +56,14 @@ function transform() {
     }
 
     for (let j = 1; j < workSheetsFromFile[i].data.length; j++) {
-      const val = workSheetsFromFile[i].data[j];
+      const vals = workSheetsFromFile[i].data[j];
       const code = {};
-      for (let k = 0; k < val.length; k++) {
-        if (val[k] !== undefined && val[k] !== null) {
-          if (k in headerOrder) {
-            code[headerOrder[k]] = val[k].toString();
-          }
+      vals.forEach((val, k) => {
+        if (val !== undefined && val !== null && k in headerOrder) {
+          const valNumber = Number.parseFloat(val);
+          code[headerOrder[k]] = isNaN(valNumber) ? val.toString() : valNumber.toString();
         }
-      }
+      });
 
       if (code.commonCode in codes) {
         continue;
@@ -103,7 +102,7 @@ function transform() {
   const values = Object.values(codes);
   values.sort((a, b) => a.id.localeCompare(b.id));
 
-  const outDir = `${__dirname}/../../data/generated/`;
+  const outDir = `${__dirname}/../../data/generated/unit-codes/`;
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(`${outDir}unit_codes.yaml`, values.map(yaml.dump).join('\n---\n'));
 };

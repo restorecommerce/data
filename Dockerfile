@@ -8,7 +8,9 @@ USER node
 ARG APP_HOME=/home/node/data
 WORKDIR $APP_HOME
 
-COPY *json *.js datasets ./
+COPY --chown=node:node datasets ./datasets
+COPY --chown=node:node *json *.js ./
 RUN npm ci
+
 
 CMD ["sleep", "infinity"]

@@ -43,7 +43,7 @@
     "transform": "npm-run-all transform:system transform:demoshop",
     "transform:system": "npm-run-all transform:system:unitcodes",
     "transform:demoshop": "npm-run-all transform:demoshop:catalog",
-    "transform:system:unitcodes": "node ./datasets/system/generator/unit_codes/transform.js",
+    "transform:system:unitcodes": "node ./datasets/system/generator/unit-codes/transform.js",
     "transform:demoshop:catalog": "node ./datasets/demo-shop/generator/catalog/transform.js"
   },
   "engines": {

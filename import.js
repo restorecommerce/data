@@ -29,7 +29,7 @@ async function commandDataImport(cmd) {
   });
 
   CONFIG.headers = Object.assign(CONFIG.headers ?? {}, { 'Authorization': `Bearer ${accessToken}` });
-  CONFIG.entry = cmd.entry ?? CONFIG.entry
+  CONFIG.entry = cmd.url ?? CONFIG.entry
 
   const gqlProcessor = new GraphQLProcessor(CONFIG);
 
