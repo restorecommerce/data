@@ -3,7 +3,7 @@
   rate: 0.07
   typeId: type-value-added-tax
   variant: Reduced rate
-  countryId: restorecommecre-demo-country-germany
+  countryId: germany
   meta:
     modifiedBy: system
     owners:
@@ -17,7 +17,7 @@
   rate: 0.19
   typeId: type-value-added-tax
   variant: Standard rate
-  countryId: restorecommecre-demo-country-germany
+  countryId: germany
   meta:
     modifiedBy: system
     owners:
@@ -31,7 +31,7 @@
   rate: 0.025
   typeId: type-value-added-tax
   variant: Heavily reduced rate
-  countryId: restorecommecre-demo-country-switzerland
+  countryId: switzerland
   meta:
     modifiedBy: system
     owners:
@@ -45,7 +45,7 @@
   rate: 0.038
   typeId: type-value-added-tax
   variant: Reduced rate
-  countryId: restorecommecre-demo-country-switzerland
+  countryId: switzerland
   meta:
     modifiedBy: system
     owners:
@@ -57,7 +57,7 @@
 ---
   id: switzerland-standard-rate
   rate: 0.08
-  countryId: restorecommecre-demo-country-switzerland
+  countryId: switzerland
   typeId: type-value-added-tax
   variant: Standard rate
   meta:
@@ -70,7 +70,7 @@
             value: system
 ---
   id: belgium-heavily-reduced-rate
-  countryId: restorecommecre-demo-country-belgium
+  countryId: belgium
   rate: 0.06
   typeId: type-value-added-tax
   variant: Heavily reduced rate
@@ -84,7 +84,7 @@
             value: system
 ---
   id: belgium-reduced-rate
-  countryId: restorecommecre-demo-country-belgium
+  countryId: belgium
   rate: 0.12
   typeId: type-value-added-tax
   variant: Reduced rate
@@ -98,7 +98,7 @@
             value: system
 ---
   id: belgium-standard-rate
-  countryId: restorecommecre-demo-country-belgium
+  countryId: belgium
   rate: 0.21
   typeId: type-value-added-tax
   variant: Standard rate
@@ -112,7 +112,7 @@
             value: system
 ---
   id: belgium-parking-rate
-  countryId: restorecommecre-demo-country-belgium
+  countryId: belgium
   rate: 0.12
   typeId: type-value-added-tax
   variant: Parking rate
@@ -126,7 +126,7 @@
             value: system
 ---
   id: france-heavily-reduced-rate
-  countryId: restorecommecre-demo-country-france
+  countryId: france
   rate: 0.021
   typeId: type-value-added-tax
   variant: heavily reduced rate
@@ -140,7 +140,7 @@
             value: system
 ---
   id: france-reduced-rate
-  countryId: restorecommecre-demo-country-france
+  countryId: france
   rate: 0.055
   typeId: type-value-added-tax
   variant: Reduced rate
@@ -154,7 +154,7 @@
             value: system
 ---
   id: france-lightly-reduced-rate
-  countryId: restorecommecre-demo-country-france
+  countryId: france
   rate: 0.1
   typeId: type-value-added-tax
   variant: Lightly reduced rate
@@ -168,7 +168,7 @@
             value: system
 ---
   id: france-standard-rate
-  countryId: restorecommecre-demo-country-france
+  countryId: france
   rate: 0.2
   typeId: type-value-added-tax
   variant: Standard rate

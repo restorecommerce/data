@@ -58,7 +58,7 @@
       value: localhost
   tokens:
     - name: unauthenticated-token
-      token: UNAUTHENTICATED
+      token: RESTOREDEMOUNAUTHENTICATED
 ---
   id: restorecommerce-demo-root-admin-000
   name: root.admin
@@ -115,7 +115,7 @@
   invitedByUserLastName: ""
   tokens:
     - name: access-token
-      token: ROOTADMINISTRATOR000
+      token: RESTOREDEMOROOTADMINISTRATOR000
 ---
   id: restorecommerce-demo-shop-000-admin-000
   name: shop000.admin000
@@ -172,7 +172,7 @@
   invitedByUserLastName: ""
   tokens:
     - name: access-token
-      token: SHOP000ADMINISTRATOR000
+      token: RESTOREDEMOSHOP000ADMINISTRATOR000
 ---
   id: restorecommerce-demo-shop-000-sales-000
   name: shop000.sales000
@@ -229,7 +229,7 @@
   invitedByUserLastName: ""
   tokens:
     - name: access-token
-      token: SHOP000SALES000
+      token: RESTOREDEMOSHOP000SALES000
 ---
   id: restorecommerce-demo-customer-000-moderator-000
   name: customer000.moderator000
@@ -302,7 +302,7 @@
   invitedByUserLastName: ""
   tokens:
     - name: access-token
-      token: CUSTOMER000MODERATOR000
+      token: RESTOREDEMOCUSTOMER000MODERATOR000
 ---
   id: restorecommerce-demo-customer-001-moderator-000
   name: customer001.moderator000
@@ -375,7 +375,7 @@
   invitedByUserLastName: ""
   tokens:
     - name: access-token
-      token: CUSTOMER001MODERATOR000
+      token: RESTOREDEMOCUSTOMER001MODERATOR000
 ---
   id: restorecommerce-demo-customer-000-member-000
   name: customer000.member000
@@ -448,7 +448,7 @@
   invitedByUserLastName: ""
   tokens:
     - name: access-token
-      token: CUSTOMER000MEMBER000
+      token: RESTOREDEMOCUSTOMER000MEMBER000
 ---
   id: restorecommerce-demo-customer-001-member-000
   name: customer001.member000
@@ -521,7 +521,7 @@
   invitedByUserLastName: ""
   tokens:
     - name: access-token
-      token: CUSTOMER001MEMBER000
+      token: RESTOREDEMOCUSTOMER001MEMBER000
 ---
   id: restorecommerce-demo-customer-002-user-000
   name: customer002.user000
@@ -586,4 +586,4 @@
   invitedByUserLastName: ""
   tokens:
     - name: access-token
-      token: CUSTOMER002USER000
+      token: RESTOREDEMOCUSTOMER002USER000
