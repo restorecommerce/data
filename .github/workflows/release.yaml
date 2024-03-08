@@ -44,7 +44,7 @@ jobs:
           tags: |
             type=ref,event=tag
           flavor: |
-            latest=false
+            latest=true
 
       - name: Build and push
         uses: docker/build-push-action@v2
