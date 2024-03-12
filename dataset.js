@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
@@ -76,10 +77,9 @@ async function importData() {
     .description('import data')
     .option('-d, --dataset <dataset>', 'select dataset domain')
     .option(
-      '-j, --job <job>',
+      '-j, --job <job...>',
       'list of jobs to process',
-      (v, p) => p.concat(v),
-      process.env.DB_IMPORT_JOBS?.split(',') ?? CONFIG?.jobs ?? []
+      process.env.DB_IMPORT_JOBS?.split(' ') ?? CONFIG?.jobs ?? []
     )
     .option(
       '-u, --url <entry>',
@@ -102,7 +102,7 @@ async function importData() {
     .action(commandListJobs);
   
   program
-    .command('datasets')
+    .command('list')
     .description('list all available datasets')
     .action(commandListDatasets);
 
