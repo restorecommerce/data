@@ -57,7 +57,7 @@
     - id: urn:restorecommerce:acs:names:network:src:domain
       value: localhost
   tokens:
-    - name: unauthenticated-token
+    - name: unauthenticated_token
       token: RESTOREDEMOUNAUTHENTICATED
 ---
   id: restorecommerce-demo-root-admin-000
