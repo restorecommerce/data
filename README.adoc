@@ -112,6 +112,10 @@ System:
 
   npm run import:system:identity
 
+- Imports policy-sets, policies and rules from system data:
+
+  npm run import:system:rules
+
 - Imports commands, contact-point-types, countries, locales, organizations, tax-types, taxes and timezones from system data:
 
   npm run import:system:master

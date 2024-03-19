@@ -8,7 +8,7 @@
       "name": "users",
       "operation": "sync",
       "filter": "users*.yaml",
-      "mutation": "mutation mutateUsers($var: [IIoRestorecommerceUserUser!]!){ identity { user { Mutate( input: { items: $var, totalCount: 0,  mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }  } } } }}"
+      "mutation": "mutation mutate($var: [IIoRestorecommerceUserUser!]!){ identity { user { Mutate( input: { items: $var, totalCount: 0,  mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }  } } } }}"
     }
   ]
 }

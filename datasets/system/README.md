@@ -17,14 +17,15 @@ Resources are imported using the [gql-bot](https://github.com/restorecommerce/gq
 All data is imported via the GraphQL API exposed by the [facade-srv](https://github.com/restorecommerce/facade-srv).
 
 All possible operations are exposed through JS scripts.
-These scripts either execute GraphQL mutations/ queries through the `import.js` script.
+These scripts either execute GraphQL mutations/ queries through the `dataset.js` script.
 The `import.js` also includes command-line options such as specifying if we wish
 to import the data locally or into the production environment.
 
 ### Current supported jobs are
 
 - master (imports resources `commands` `contact_points_types`, `countries`, `locales`, `organizations`, `tax_types`, `taxes`, `timezones`)
-- identity (imports `users`, `policies`, `policy_sets`, `roles`, `rules`)
+- identity (imports `users`, `roles`)
+- rules (imports `policies`, `policy_sets`, `rules`)
 - extra (imports resources `unit_codes`)
 
 > NOTE: Resources must be imported in a specific order!
@@ -44,19 +45,19 @@ to import the data locally or into the production environment.
 
    - `node ./transform.js`
 
-3. Import datasets using [`import.js script`](./import.js):
+3. Import datasets using [`dataset.js script`](./import.js):
 
-   - `node ./import.js import -t <access_token> -d system -j <job>`
+   - `node ./dataset.js import -t <access_token> -d system -j <job>`
 
 4. Examples:
 
-   - `node ./import.js import -t <access_token> -d system -j master`
-   - `node ./import.js import -t <access_token> -d system -j identity`
-   - `node ./import.js import -t <access_token> -d system -j extra`
+   - `node ./dataset.js import -t <access_token> -d system -j master`
+   - `node ./dataset.js import -t <access_token> -d system -j identity`
+   - `node ./dataset.js import -t <access_token> -d system -j extra`
 
 ### Supported environment variables: `GQL_ENDPOINT`.
 
-All flags are optional, and they can be listed by typing `node ./import.js -h`.
+All flags are optional, and they can be listed by typing `node ./dataset.js -h`.
 The API key can be obtained from the [`facade-srv`](https://github.com/restorecommerce/facade-srv/blob/master/cfg/config.json#L21) configuration.
 The API key is generated during system startup from the `facade-srv` (Check the log message of facade-srv `Bootstrap API Key is`).
 In case `facade-srv` is a local container use the following command to extract the `Bootstrap API-KEY`:

@@ -9,9 +9,6 @@
     resources: [ ]
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -31,9 +28,6 @@
     resources: [ ]
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -55,9 +49,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -67,8 +58,8 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: administrator-permits-all-scoped
-  name: Admin Permits All Rule
+  id: administrator-permits-all-hr-scoped
+  name: Admin Permits All Rule HR Scoped
   description: Permits all if subject is Admin within hierarchical scope
   target:
     subjects:
@@ -81,9 +72,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -94,7 +82,7 @@
             value: system
 ---
   id: administrator-permits-read-scoped
-  name: Admin Permits Read Rule
+  name: Admin Permits Read Rule HR Scoped
   description: Permits read if subject is Admin within hierarchical scope
   target:
     resources: [ ]
@@ -109,9 +97,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -135,9 +120,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -163,9 +145,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -189,9 +168,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -217,9 +193,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -245,9 +218,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -273,9 +243,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -301,9 +268,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -329,9 +293,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -362,9 +323,6 @@
     )
   "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -397,9 +355,6 @@
     )
   "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -427,9 +382,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -457,9 +409,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -503,9 +452,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -533,9 +479,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -563,9 +506,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -589,9 +529,6 @@
   effect: PERMIT
   condition: "{ filters: [ { field: 'meta.owners[*].attributes[0].value', operation: 'in', value: 'system' } ] }"
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -621,9 +558,6 @@
   effect: PERMIT
   condition: ""
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -643,9 +577,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -656,9 +588,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -678,9 +607,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -691,9 +618,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -713,9 +637,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -726,9 +648,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -748,9 +667,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -761,9 +678,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -783,9 +697,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -796,9 +708,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -818,9 +727,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -831,9 +738,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -853,9 +757,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -867,9 +769,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -889,9 +788,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -903,9 +800,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:
@@ -925,9 +819,7 @@
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:organization.Organization
     actions: [ ]
-    resources:
-      - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:order.Order
+    resources: [ ]
   effect: PERMIT
   condition:
     "
@@ -939,9 +831,6 @@
     )
     "
   evaluationCacheable: false
-  contextQuery:
-    filters: [ ]
-    query: ""
   meta:
     modifiedBy: ""
     owners:

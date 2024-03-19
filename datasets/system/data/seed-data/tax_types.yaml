@@ -1,7 +1,8 @@
 ---
   id: value-added-tax
   type: Value Added Tax
-  description: Value Added Tax is imposed on each stage of the supply chain and ultimately
+  description: >
+    Value Added Tax is imposed on each stage of the supply chain and ultimately
     charged in full to the final purchaser.
   meta:
     modifiedBy: system
@@ -26,7 +27,8 @@
 ---
   id: sales-tax
   type: Sales Tax
-  description: Sales Tax is the style of tax often used in the USA, where many governmental
+  description: >
+    Sales Tax is the style of tax often used in the USA, where many governmental
     entities impose their own tax on every purchase. It's typically added as a line
     item in the subtotal. Sales tax is collected on retail sales at the time of the
     sale to the final consumer, and only the final sale in the supply chain is subject
@@ -42,7 +44,8 @@
 ---
   id: visitors-tax
   type: Visitor's Tax
-  description: Tax to be payed for visitors of certain localities, such as health
+  description: >
+    Tax to be payed for visitors of certain localities, such as health
     resorts.
   meta:
     modifiedBy: system
@@ -55,7 +58,8 @@
 ---
   id: corporate-tax
   type: Corporate Tax
-  description: A direct tax imposed by a jurisdiction on the income or capital of
+  description: >
+    A direct tax imposed by a jurisdiction on the income or capital of
     corporations or analogous legal entities
   meta:
     modifiedBy: system
@@ -68,8 +72,9 @@
 ---
   id: individual-income-tax
   type: Individual Income Tax
-  description: 'The individual income tax is levied on the wages, salaries, dividends,
-  interest, and other income a person earns throughout the year. '
+  description: >
+    The individual income tax is levied on the wages, salaries, dividends,
+    interest, and other income a person earns throughout the year.
   meta:
     modifiedBy: system
     owners:

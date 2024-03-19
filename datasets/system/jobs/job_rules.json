@@ -1,0 +1,26 @@
+{
+  "options": {
+    "base": "./datasets/system/data/seed-data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "name": "rules",
+      "operation": "sync",
+      "filter": "rules.yaml",
+      "mutation": "mutation mutateRules($var: [IIoRestorecommerceRuleRule!]!){ access_control { rule { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    },
+    {
+      "name": "policies",
+      "operation": "sync",
+      "filter": "policies.yaml",
+      "mutation": "mutation mutatePolicies($var: [IIoRestorecommercePolicyPolicy!]!){ access_control { policy { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT  } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    },
+    {
+      "name": "policy_sets",
+      "operation": "sync",
+      "filter": "policy_sets.yaml",
+      "mutation": "mutation mutatePolicySets($var: [IIoRestorecommercePolicySetPolicySet!]!){ access_control { policy_set { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    }
+  ]
+}
