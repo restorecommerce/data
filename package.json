@@ -40,7 +40,7 @@
     "import:demoshop:master": "node dataset.js import -d demo-shop -j master",
     "import:demoshop:identity": "node dataset.js import -d demo-shop -j identity",
     "import:demoshop:catalog": "node dataset.js import -d demo-shop -j catalog",
-    "import:demoshop:objects": "node ./dataset/demo-shop/objects/object_importer.js",
+    "import:demoshop:objects": "node ./datasets/demo-shop/objects/object_importer.js",
     "transform": "npm-run-all transform:system transform:demoshop",
     "transform:system": "npm-run-all transform:system:unitcodes",
     "transform:demoshop": "npm-run-all transform:demoshop:catalog",

@@ -23,9 +23,9 @@ export const getNodeEnv = (): string => {
   return resultEnvironment;
 };
 
-const baseDir = realConfig?.objectImport?.baseDir;
+const baseDir = realConfig?.object_import?.base_dir;
 const NODE_ENV = getNodeEnv();
-const facadeGqlEndpoint = realConfig?.objectImport?.endpoint[NODE_ENV];
+const facadeGqlEndpoint = realConfig?.object_import?.endpoint[NODE_ENV];
 
 async function sendRequest(file: string, bucketName: string, keyName: string, orgKey: string, contentType?: string): Promise<any> {
   const body = new FormData();
@@ -93,7 +93,7 @@ async function runObjectImporter() {
 
   for (let sourceDef of contentArr) {
     let dir = sourceDef.dir;
-    let bucketName = sourceDef.bucketName;
+    let bucketName = sourceDef.bucket_name;
     if (dir && bucketName) {
       let fullPath = baseDir + '/' + dir;
       if (!fs.existsSync(fullPath)) {

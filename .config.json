@@ -4,15 +4,5 @@
     "job_prefix": "job_",
     "data_directory": "./datasets/",
     "job_directory": "jobs/"
-  },
-  "object_import": {
-    "endpoint": "http://localhost:5000/graphql",
-    "base_dir": "objects/content",
-    "content": [
-      {
-        "dir": "internal",
-        "bucket_name": "internal"
-      }
-    ]
   }
 }

@@ -1,0 +1,12 @@
+{
+  "object_import": {
+    "endpoint": "http://localhost:5000/graphql",
+    "base_dir": "./content",
+    "content": [
+      {
+        "dir": "internal",
+        "bucket_name": "internal"
+      }
+    ]
+  }
+}

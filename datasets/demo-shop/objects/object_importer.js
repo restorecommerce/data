@@ -1,72 +1,73 @@
 
-const FormData = requier('formdata-node');
+const FormData = require('formdata-node').FormData;
 const fs = require('fs');
 const readline = require('readline');
+const path = require('path');
 
-const CONFIG_NAME = process.env.CONFIG_NAME ?? '.config.json';
-const defaultConfig = JSON.parse(fs.readFileSync(CONFIG_NAME)
-  .toString());
+const CONFIG_NAME = process.env.CONFIG_NAME ?? path.join(__dirname, '.config.json');
+const defaultConfig = JSON.parse(fs.readFileSync(CONFIG_NAME).toString());
 const realConfig = {
   ...defaultConfig
 };
 
-const availableEnvironments = [
-  'local',
-  'production'
-];
-
-const getNodeEnv = () => {
-  let resultEnvironment = 'local';
-  if (!!realConfig['NODE_ENV'] && availableEnvironments.indexOf(realConfig['NODE_ENV']) >= 0) {
-    resultEnvironment = realConfig['NODE_ENV'];
-  }
-  return resultEnvironment;
-};
-
-const baseDir = realConfig?.objectImport?.baseDir;
-const NODE_ENV = getNodeEnv();
-const facadeGqlEndpoint = realConfig?.objectImport?.endpoint[NODE_ENV];
+const baseDir = realConfig?.object_import?.base_dir;
+const facadeGqlEndpoint = realConfig?.object_import?.endpoint;
 
 async function sendRequest(file, bucketName, keyName, orgKey, contentType) {
   const body = new FormData();
   body.append('operations', JSON.stringify({
-    query: `mutation Ostorage($input: IIoRestorecommerceOstorageObject!) 
-      { ostorage { object { Put(input: $input) { details { response { payload { url, bucket } status { code, message } } operationStatus { code, message } } } } } }`,
-    variables: { "input": { "object": null, "bucket": `${bucketName}`, "key": `${keyName}`, "options": { "contentType": `${contentType}` } } }
+    query: `mutation Ostorage($input: IIoRestorecommerceOstorageObject!) {
+       ostorage {
+        object {
+          Put(input: $input) {
+            details {
+              response {
+                payload { url, bucket }
+                status { code, message }
+              }
+              operationStatus { code, message }
+            }
+          }
+        }
+      }
+    }`,
+    variables: {
+      "input": {
+        "object": null,
+        "bucket": `${bucketName}`,
+        "key": `${keyName}`,
+        "options": {
+          "contentType": `${contentType}`
+        }
+      }
+    }
   }));
   body.append('map', JSON.stringify({ fileVar: ['variables.input.object'] }));
-  body.append('fileVar', {
-    [Symbol.toStringTag]: 'File',
-    stream: () => {
-      return fs.createReadStream(file);
-    }
-  });
+  body.append('file', fs.createReadStream(file));
 
   // add authorization header with apiKey
-  const apiKey = process.env.ACCESS_TOKEN ?? realConfig?.apiKey;
-  let headers = {
+  const apiKey = process.env.ACCESS_TOKEN ?? realConfig?.api_key;
+  const headers = {
     Authorization: 'Bearer ' + `${apiKey}`,
-    'Content-Type': 'multipart/form-data',
     'Apollo-Require-Preflight': true
   };
 
   return fetch(facadeGqlEndpoint, { method: 'POST', body, headers });
 }
 
-function getFiles(path, files) {
-  fs.readdirSync(path).forEach(function (file) {
-    let subpath = path + '/' + file;
+function getFiles(dir, files) {
+  fs.readdirSync(dir).forEach(function (file) {
+    const subpath = path.join(dir, file);
     if (fs.lstatSync(subpath).isDirectory()) {
       getFiles(subpath, files);
     } else {
-      files.push(path + '/' + file);
+      files.push(subpath);
     }
   });
 }
 
 async function runObjectImporter() {
   console.log('Objects-Import started');
-
   console.log(`Base directory is: \`${baseDir}\``);
 
   // prompt for prod import
@@ -77,7 +78,7 @@ async function runObjectImporter() {
         output: process.stdout
       }).question('\x1b[31mYOU ARE ABOUT TO PERFORM AN IMPORT IN PRODUCTION, DO YOU REALLY WANT TO CONTINUE? [y/n]:\x1b[0m ', (response) => {
         if (response !== 'y') {
-          console.log('Setup aborted');
+          console.error('Setup aborted');
           process.exit(1);
         }
         resolve();
@@ -85,23 +86,23 @@ async function runObjectImporter() {
     });
   }
 
-  const contentArr = realConfig?.objectImport?.content;
+  const contentArr = realConfig?.object_import?.content;
   if (!contentArr || !Array.isArray(contentArr)) {
-    console.log('No sources (`content` parameter) defined for object directory or wrong format. Import is interrupted.');
+    console.error('No sources (`content` parameter) defined for object directory or wrong format. Import is interrupted.');
     return;
   }
 
   for (let sourceDef of contentArr) {
     let dir = sourceDef.dir;
-    let bucketName = sourceDef.bucketName;
+    let bucketName = sourceDef.bucket_name;
     if (dir && bucketName) {
-      let fullPath = baseDir + '/' + dir;
+      let fullPath =  path.join(__dirname, baseDir, dir);
       if (!fs.existsSync(fullPath)) {
-        console.warn(`Directory: \`${fullPath}\` does not exist, skipping this directory.`);
+        console.error(`Directory: \`${fullPath}\` does not exist, skipping this directory.`);
         continue;
       }
 
-      console.warn(`Data from \`${fullPath}\` is going to be loaded into bucket \`${bucketName}\`.`);
+      console.log(`Data from \`${fullPath}\` is going to be loaded into bucket \`${bucketName}\`.`);
 
       let files = [];
       // recursively read the files from the directory and upload file
@@ -117,7 +118,11 @@ async function runObjectImporter() {
         if (keyName.endsWith('svg')) {
           contentType = 'image/svg+xml';
         }
-        await sendRequest(file, bucketName, keyName, orgKey, contentType).then((response) => { console.log('Upload Status:', file, response.status) });
+        await sendRequest(
+          file, bucketName, keyName, orgKey, contentType
+        ).then(
+          (response) => { console.log('Upload Status:', file, response.status) }
+        );
       }
     }
   }
