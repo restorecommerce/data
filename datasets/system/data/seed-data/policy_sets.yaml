@@ -8,7 +8,6 @@
     subjects: [ ]
     resources: [ ]
   policies:
-    - superadministrator-policy
     - address-policy
     - command-policy
     - contact-point-type-policy
@@ -22,7 +21,7 @@
     - invoice-policy
     - locale-policy
     - manufacturer-policy
-    - order-policy
+    - order-read-policy
     - order-submit-policy
     - order-withdraw-policy
     - order-cancel-policy

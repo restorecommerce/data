@@ -366,8 +366,8 @@
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
   id: order-read-policy
-  name: Order Policy
-  description: Policy for resource Order
+  name: Order Read Policy
+  description: Policy for resource Order read
   evaluationCacheable: false
   effect: PERMIT
   target:
@@ -939,7 +939,7 @@
     - member-permits-read-hr-scoped
     - user-permits-read-owned
     - user-permits-update-user-owned
-    - unauthenticated-permits-create-strict-scope
+    - unauthenticated-user-permits-create-strict-scope
     - everyone-permits-reset-password
     - fallback-deny-all
   meta:
