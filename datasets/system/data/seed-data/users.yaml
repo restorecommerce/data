@@ -4,7 +4,6 @@
   firstName: Tech
   lastName: User
   email: tech-user@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: ""
   roleAssociations:
     - id: superadministrator-r-role-assoc-id
@@ -28,7 +27,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""

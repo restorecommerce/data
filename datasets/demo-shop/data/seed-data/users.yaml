@@ -65,7 +65,6 @@
   firstName: Root
   lastName: Admin
   email: root.admin@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-root-organization
   roleAssociations:
     - id: restorecommerce-demo-root-organization-administrator-r-id
@@ -97,7 +96,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""
@@ -122,7 +121,6 @@
   firstName: Shop000
   lastName: Admin000
   email: shop000.admin000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-shop-000-organization
   roleAssociations:
     - id: restorecommerce-demo-shop-000-organization-administrator-r-id
@@ -154,7 +152,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""
@@ -179,7 +177,6 @@
   firstName: Shop000
   lastName: Sales000
   email: shop000.sales000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-shop-000-organization
   roleAssociations:
     - id: restorecommerce-demo-shop-000-organization-sales-r-id
@@ -211,7 +208,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""
@@ -236,7 +233,6 @@
   firstName: Customer000
   lastName: Moderator000
   email: customer000.moderator000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-customer-000-organization
   roleAssociations:
     - id: restorecommerce-demo-customer-000-organization-moderator-r-id
@@ -284,7 +280,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""
@@ -309,7 +305,6 @@
   firstName: Customer001
   lastName: Moderator000
   email: customer001.moderator000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-customer-001-organization
   roleAssociations:
     - id: restorecommerce-demo-customer-001-organization-moderator-r-id
@@ -357,7 +352,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""
@@ -382,7 +377,6 @@
   firstName: Customer000
   lastName: Member000
   email: customer000.member000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-customer-000-organization
   roleAssociations:
     - id: restorecommerce-demo-customer-000-organization-member-r-id
@@ -430,7 +424,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""
@@ -455,7 +449,6 @@
   firstName: Customer001
   lastName: Member000
   email: customer001.member000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-customer-001-organization
   roleAssociations:
     - id: restorecommerce-demo-customer-001-organization-member-r-id
@@ -503,7 +496,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""
@@ -528,7 +521,6 @@
   firstName: Customer002
   lastName: User000
   email: customer002.user000@restorecommerce.io
-  password: CNQJrH%KAayeDpf3h
   defaultScope: restorecommerce-demo-customers-organization
   roleAssociations:
     - id: restorecommerce-demo-shops-organization-customer-r-id
@@ -568,7 +560,7 @@
   newEmail: ""
   active: true
   activationCode: ""
-  passwordHash: ""
+  passwordHash: $2a$10$mo3euNumYtu3kVe8HFV/bepdRhhDDUG4wPmstSF3XbHPMHJ9TOgua
   guest: false
   image:
     id: ""

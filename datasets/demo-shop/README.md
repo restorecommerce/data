@@ -88,3 +88,55 @@ npm run import:demoshop:objects -- --apiKey=<access_token> -- --NODE_ENV=product
 # or:
 npm run import:demoshop:objects -- --apiKey=<access_token> # default is development
 ```
+
+## Login
+
+For login as any existing user of this dataset, the credentials are as follows:
+
+**Root Admin** (all permission in domain)
+```
+User:       root.admin@restorecommerce.io
+Password:   restorecommerce.io
+```
+
+**Shop Admin 000** (all permission in shop)
+```
+User:       shop000.admin000@restorecommerce.io
+Password:   restorecommerce.io
+```
+
+**Sales 000** (permission to maintain shop)
+```
+User:       shop000.sales000@restorecommerce.io
+Password:   restorecommerce.io
+```
+
+**Moderator 000** (permission to maintain customer organization 000)
+```
+User:       customer000.moderator000@restorecommerce.io
+Password:   restorecommerce.io
+```
+
+**Moderator 001** (permission to maintain customer organization 001)
+```
+User:       customer001.moderator000@restorecommerce.io
+Password:   restorecommerce.io
+```
+
+**Member 000** (permission to make orders for organization 000)
+```
+User:       customer000.member000@restorecommerce.io
+Password:   restorecommerce.io
+```
+
+**Member 001** (permission to make orders for organization 001)
+```
+User:       customer001.member000@restorecommerce.io
+Password:   restorecommerce.io
+```
+
+**User 000** (permission to make orders as individual)
+```
+User:       customer002.user000@restorecommerce.io
+Password:   restorecommerce.io
+```

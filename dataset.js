@@ -2,6 +2,7 @@
 require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
+const bcrypt = require('bcryptjs');
 const {
   GraphQLProcessor,
   JobProcessor
@@ -71,6 +72,12 @@ function commandListDatasets(cmd) {
   });
 }
 
+function commandHashPassword(pw) {
+  const salt = bcrypt.genSaltSync(10);
+  const hash = bcrypt.hashSync(pw, salt);
+  console.log("Hash Password:", pw, "->", hash);
+}
+
 async function importData() {
   program
     .command('import')
@@ -105,6 +112,12 @@ async function importData() {
     .command('list')
     .description('list all available datasets')
     .action(commandListDatasets);
+  
+  program
+    .command('hash')
+    .description('hash a password')
+    .argument('<pw>', 'the password to be hashed')
+    .action(commandHashPassword);
 
   await program.parseAsync(process.argv);
 }

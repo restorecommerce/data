@@ -18,7 +18,7 @@ All data is imported via the GraphQL API exposed by the [facade-srv](https://git
 
 All possible operations are exposed through JS scripts.
 These scripts either execute GraphQL mutations/ queries through the `dataset.js` script.
-The `import.js` also includes command-line options such as specifying if we wish
+The `dataset.js` also includes command-line options such as specifying if we wish
 to import the data locally or into the production environment.
 
 ### Current supported jobs are
@@ -68,3 +68,13 @@ npm run env:token
 
 By default, the GraphQL importer uses the configuration file `config.json` to read data regarding endpoints for retrieving the API key
 and executing mutations/ queries.
+
+## Login
+
+For login as any existing user of this dataset, the credentials are as follows:
+
+**Tech User** (Superadmin)
+```
+User:       tech-user@restorecommerce.io
+Password:   restorecommerce.io
+```
