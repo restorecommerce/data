@@ -96,47 +96,47 @@ For login as any existing user of this dataset, the credentials are as follows:
 **Root Admin** (all permission in domain)
 ```
 User:       root.admin@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```
 
 **Shop Admin 000** (all permission in shop)
 ```
 User:       shop000.admin000@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```
 
 **Sales 000** (permission to maintain shop)
 ```
 User:       shop000.sales000@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```
 
 **Moderator 000** (permission to maintain customer organization 000)
 ```
 User:       customer000.moderator000@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```
 
 **Moderator 001** (permission to maintain customer organization 001)
 ```
 User:       customer001.moderator000@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```
 
 **Member 000** (permission to make orders for organization 000)
 ```
 User:       customer000.member000@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```
 
 **Member 001** (permission to make orders for organization 001)
 ```
 User:       customer001.member000@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```
 
 **User 000** (permission to make orders as individual)
 ```
 User:       customer002.user000@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```

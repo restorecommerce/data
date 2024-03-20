@@ -76,5 +76,5 @@ For login as any existing user of this dataset, the credentials are as follows:
 **Tech User** (Superadmin)
 ```
 User:       tech-user@restorecommerce.io
-Password:   restorecommerce.io
+Password:   CNQJrH%KAayeDpf3h
 ```
