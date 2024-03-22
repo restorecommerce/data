@@ -744,6 +744,8 @@
   rules:
     - superadministrator-permits-all
     - permit-read-strict-scoped
+    - normal-user-read-roles
+    - admin-user-read-roles
     - domainless-unauthenticated-permits-read-system
     - fallback-deny-all
   meta:

@@ -839,3 +839,51 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
+---
+  id: normal-user-read-roles
+  name: Normal User Role read rule
+  description: Normal User should be allowed to read all Roles in system
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: user-r-id
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:role.Role
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+  effect: PERMIT
+  evaluationCacheable: false
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: admin-user-read-roles
+  name: Admin User Role read rule
+  description: Admin User should be allowed to read all Roles in system
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: administrator-r-id
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:role.Role
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+  effect: PERMIT
+  evaluationCacheable: false
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
