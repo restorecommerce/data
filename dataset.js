@@ -8,7 +8,6 @@ const {
   JobProcessor
 } = require('@restorecommerce/gql-bot');
 const { program } = require('commander');
-const { getHashes } = require('crypto');
 
 const DB_IMPORT_CONFIG_NAME = process.env.DB_IMPORT_CONFIG_NAME ?? '.config.json';
 const CONFIG = JSON.parse(fs.readFileSync(DB_IMPORT_CONFIG_NAME).toString())?.db_import;

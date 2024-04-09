@@ -743,10 +743,7 @@
         value: urn:restorecommerce:acs:model:role.Role
   rules:
     - superadministrator-permits-all
-    - permit-read-strict-scoped
-    - normal-user-read-roles
-    - admin-user-read-roles
-    - domainless-unauthenticated-permits-read-system
+    - everyone-permits-read
     - fallback-deny-all
   meta:
     modifiedBy: ""
@@ -923,7 +920,7 @@
 ---
   id: user-policy
   name: User Policy
-  description: Policy for resource User
+  description: Policy for Users
   evaluationCacheable: false
   effect: PERMIT
   target:
@@ -935,14 +932,12 @@
   rules:
     - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
-    - sales-permits-read-hr-scoped
-    - moderator-permits-create-hr-scoped
-    - moderator-permits-read-hr-scoped
+    - sales-permits-all-hr-scoped
+    - moderator-permits-all-hr-scoped
     - member-permits-read-hr-scoped
     - user-permits-read-owned
-    - user-permits-update-user-owned
-    - unauthenticated-user-permits-create-strict-scope
-    - everyone-permits-reset-password
+    - user-permits-update-owned
+    - unauthenticated-user-permits-create-strict-scoped
     - fallback-deny-all
   meta:
     modifiedBy: ""
@@ -953,3 +948,36 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: user-credentials-reset-policy
+  name: User Credential Reset Policy
+  description: Policy for User Credential Reset
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#activation_code
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#password_hash
+      - id: urn:restorecommerce:acs:names:model:property
+        value: urn:restorecommerce:acs:model:user.User#email
+  rules:
+    - domainless-unauthenticated-permits-update
+    - unauthenticated-user-permits-update-hr-scoped
+    - user-permits-update-user-owned
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---

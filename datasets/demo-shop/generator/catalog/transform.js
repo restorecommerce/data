@@ -223,9 +223,9 @@ function parseInputLine(csvLine) {
       description: csvLine['description'],
       stockLevel: Math.floor(Math.random() * 10000),
       price: {
-        regularPrice: parseFloat(csvLine['retail_price']),
+        regularPrice: parseFloat(csvLine['retail_price']) / 100.,
         sale: Math.random() < 0.25,
-        salePrice: parseFloat(csvLine['discounted_price'])
+        salePrice: parseFloat(csvLine['discounted_price']) / 100.,
       },
       stockKeepingUnit: csvLine['pid'],
       images: imagesData,

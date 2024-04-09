@@ -41,6 +41,7 @@
     - token-policy
     - unit-code-policy
     - user-policy
+    - user-credentials-reset-policy
   meta:
     modifiedBy: ""
     owners:

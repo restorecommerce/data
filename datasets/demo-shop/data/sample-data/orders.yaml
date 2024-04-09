@@ -1,0 +1,287 @@
+---
+  id: restorecommerce-demo-shop-000-order-000
+  userId: restorecommerce-demo-customer-000-member-000
+  shopId: restorecommerce-demo-shop-000
+  customerId: restorecommerce-demo-customer-000
+  customerOrderNr: o123456789
+  customerRemark: ""
+  notificationEmail: customer000.member000@restorecommerce.io
+  items:
+    - id: 'Pos. 001'
+      productId: ea7ee1e3620b8f56bb14fb45224a5f2fe15a484d
+      variantId: c2d766ca982eca8304150849735ffef9
+      quantity: 1
+      unitPrice:
+        currencyId: euro
+        regularPrice: 9.99
+        sale: false
+        salePrice: 3.97
+      amount:
+        currencyId: euro
+        gross: 9.99
+        net: 11.89
+        vats:
+          - taxId: germany-standard-rate
+            vat: 1.90
+  shippingAddress:
+    address:
+      residentialAddress:
+        title: Mr.
+        givenName: Customer000
+        midName: ""
+        familyName: Member000
+      street: Ossietzkystrasse
+      buildingNumber: "4"
+      postcode: "70174"
+      locality: Stuttgart
+      region: Baden-Württemberg
+      countryId: germany
+    contact:
+      name: Customer000 Member000
+      email: customer000.member000@restorecommerce.io
+      phone: "0123456789"
+    comments: ""
+  billingAddress:
+    address:
+      residentialAddress:
+        title: Mr.
+        givenName: Customer000
+        midName: ""
+        familyName: Member000
+      street: Ossietzkystrasse
+      buildingNumber: "4"
+      postcode: "70174"
+      locality: Stuttgart
+      region: Baden-Württemberg
+      countryId: germany
+    contact:
+      name: Customer000 Member000
+      email: customer000.member000@restorecommerce.io
+      phone: "0123456789"
+    comments: ""
+  packagingPreferences: [ ]
+  orderState: "CREATED"
+  fulfillmentState: null
+  paymentState: "UNPAYED"
+  totalAmounts:
+    - currencyId: euro
+      gross: 9.99
+      net: 11.89
+      vats:
+        - taxId: germany-standard-rate
+          vat: 1.90
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-shop-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-member-000
+---
+  id: restorecommerce-demo-shop-000-order-001
+  userId: restorecommerce-demo-customer-000-member-000
+  shopId: restorecommerce-demo-shop-000
+  customerId: restorecommerce-demo-customer-000
+  customerOrderNr: o123456789
+  customerRemark: ""
+  notificationEmail: customer000.member000@restorecommerce.io
+  items:
+    - id: 'Pos. 001'
+      productId: ea7ee1e3620b8f56bb14fb45224a5f2fe15a484d
+      variantId: c2d766ca982eca8304150849735ffef9
+      quantity: 2
+      unitPrice:
+        currencyId: euro
+        regularPrice: 9.99
+        sale: false
+        salePrice: 3.97
+      amount:
+        currencyId: euro
+        gross: 19.98
+        net: 23.78
+        vats:
+          - taxId: germany-standard-rate
+            vat: 3.80
+    - id: 'Pos. 002'
+      productId: c36f6ab9cbfc1cf91eea76f38cb581120a143fe7
+      variantId: 7f7036a6d550aaa89d34c77bd39a5e48
+      quantity: 1
+      unitPrice:
+        currencyId: euro
+        regularPrice: 321.57
+        sale: false
+        salePrice: 226.46
+      amount:
+        currencyId: euro
+        gross: 321.57
+        net: 382.67
+        vats:
+          - taxId: germany-standard-rate
+            vat: 61.10
+  shippingAddress:
+    address:
+      residentialAddress:
+        title: Mr.
+        givenName: Customer000
+        midName: ""
+        familyName: Member000
+      street: Ossietzkystrasse
+      buildingNumber: "4"
+      postcode: "70174"
+      locality: Stuttgart
+      region: Baden-Württemberg
+      countryId: germany
+    contact:
+      name: Customer000 Member000
+      email: customer000.member000@restorecommerce.io
+      phone: "0123456789"
+    comments: ""
+  billingAddress:
+    address:
+      residentialAddress:
+        title: Mr.
+        givenName: Customer000
+        midName: ""
+        familyName: Member000
+      street: Ossietzkystrasse
+      buildingNumber: "4"
+      postcode: "70174"
+      locality: Stuttgart
+      region: Baden-Württemberg
+      countryId: germany
+    contact:
+      name: Customer000 Member000
+      email: customer000.member000@restorecommerce.io
+      phone: "0123456789"
+    comments: ""
+  packagingPreferences: [ ]
+  orderState: "CREATED"
+  fulfillmentState: null
+  paymentState: "UNPAYED"
+  totalAmounts:
+    - currencyId: euro
+      gross: 341.55
+      net: 406.45
+      vats:
+        - taxId: germany-standard-rate
+          vat: 64.9
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-shop-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-member-000
+---
+  id: restorecommerce-demo-shop-000-order-002
+  userId: restorecommerce-demo-customer-000-member-000
+  shopId: restorecommerce-demo-shop-000
+  customerId: restorecommerce-demo-customer-000
+  customerOrderNr: o123456789
+  customerRemark: ""
+  notificationEmail: customer000.member000@restorecommerce.io
+  items:
+    - id: 'Pos. 001'
+      productId: 511c4a29a05e92ab9995611d2cb4e45d6e3ddd51
+      variantId: fb6e9a2a739b21ac7291d559156d3acd
+      quantity: 5
+      unitPrice:
+        currencyId: euro
+        regularPrice: 10.00
+        sale: true
+        salePrice: 2.49
+      amount:
+        currencyId: euro
+        gross: 12.45
+        net: 14.82
+        vats:
+          - taxId: germany-standard-rate
+            vat: 2.37
+  shippingAddress:
+    address:
+      residentialAddress:
+        title: Mr.
+        givenName: Customer000
+        midName: ""
+        familyName: Member000
+      street: Ossietzkystrasse
+      buildingNumber: "4"
+      postcode: "70174"
+      locality: Stuttgart
+      region: Baden-Württemberg
+      countryId: germany
+    contact:
+      name: Customer000 Member000
+      email: customer000.member000@restorecommerce.io
+      phone: "0123456789"
+    comments: ""
+  billingAddress:
+    address:
+      residentialAddress:
+        title: Mr.
+        givenName: Customer000
+        midName: ""
+        familyName: Member000
+      street: Ossietzkystrasse
+      buildingNumber: "4"
+      postcode: "70174"
+      locality: Stuttgart
+      region: Baden-Württemberg
+      countryId: germany
+    contact:
+      name: Customer000 Member000
+      email: customer000.member000@restorecommerce.io
+      phone: "0123456789"
+    comments: ""
+  packagingPreferences: [ ]
+  orderState: "CREATED"
+  fulfillmentState: null
+  paymentState: "UNPAYED"
+  totalAmounts:
+    - currencyId: euro
+      gross: 12.45
+      net: 14.82
+      vats:
+        - taxId: germany-standard-rate
+          vat: 2.37
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-shop-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-member-000
+---

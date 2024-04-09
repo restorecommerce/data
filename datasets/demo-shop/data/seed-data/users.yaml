@@ -93,6 +93,11 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-root-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-root-admin-000
   newEmail: ""
   active: true
   activationCode: ""
@@ -149,6 +154,11 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-shop-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-shop-000-admin-000
   newEmail: ""
   active: true
   activationCode: ""
@@ -205,6 +215,11 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-shop-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-shop-000-sales-000
   newEmail: ""
   active: true
   activationCode: ""
@@ -277,6 +292,11 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-customer-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-moderator-000
   newEmail: ""
   active: true
   activationCode: ""
@@ -349,6 +369,11 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-customer-001-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-001-moderator-000
   newEmail: ""
   active: true
   activationCode: ""
@@ -421,6 +446,11 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-customer-000-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-000-member-000
   newEmail: ""
   active: true
   activationCode: ""
@@ -493,6 +523,11 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-customer-001-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-001-member-000
   newEmail: ""
   active: true
   activationCode: ""
@@ -557,6 +592,11 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-customers-organization
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-customer-002-user-000
   newEmail: ""
   active: true
   activationCode: ""

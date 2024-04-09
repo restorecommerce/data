@@ -1,0 +1,14 @@
+{
+  "options": {
+    "base": "./datasets/demo-shop/data/sample-data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "name": "orders",
+      "operation": "sync",
+      "filter": "orders*.yaml",
+      "mutation": "mutation mutate($var: [IIoRestorecommerceOrderOrder!]!){ ordering { order { Mutate( input: { items: $var, totalCount: 0,  mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }  } } } }}"
+    }
+  ]
+}
