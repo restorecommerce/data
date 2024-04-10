@@ -27,6 +27,7 @@ to import the data locally or into the production environment.
 - master (imports `organizations`, `addresses`, `contact_points`, `shops`, `customers`)
 - identity (imports `users`)
 - catalog (imports `price_group`, `manufacturer`, `product_category`, `product_prototype`, `product`)
+- samples (imports `orders`)
 
 > NOTE: Resources should be imported in a specific order!
 > Master > Identity > Catalog.
@@ -54,6 +55,7 @@ to import the data locally or into the production environment.
    - `node ./import.js import -t <access_token>  -d demo-shop -j master`
    - `node ./import.js import -t <access_token>  -d demo-shop -j identity`
    - `node ./import.js import -t <access_token>  -d demo-shop -j catalog`
+   - `node ./import.js import -t <access_token>  -d demo-shop -j samples`
 
 ### Supported environment variables: `GQL_ENDPOINT`.
 
