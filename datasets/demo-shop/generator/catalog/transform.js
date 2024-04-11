@@ -6,6 +6,10 @@ const yaml = require('js-yaml');
 
 const FILE_SLICE = 500;
 
+const SHOP_IDS = [
+  'restorecommerce-demo-shop-000',
+];
+
 const meta = {
   modifiedBy: '',
   owners: [
@@ -180,6 +184,7 @@ function parseInputLine(csvLine) {
         product: {
           name: productEntry,
           description: 'Dummy description for product ' + productEntry,
+          shopId: SHOP_IDS[0],
           manufacturerId: brandHash,
           taricCode: uuid.v4(), // no data available
           physical: {

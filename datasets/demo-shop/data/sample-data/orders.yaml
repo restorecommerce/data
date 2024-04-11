@@ -71,7 +71,7 @@
         - taxId: germany-standard-rate
           vat: 1.90
   meta:
-    modifiedBy: ""
+    createdBy: restorecommerce-demo-customer-000-member-000
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -177,7 +177,7 @@
         - taxId: germany-standard-rate
           vat: 64.9
   meta:
-    modifiedBy: ""
+    createdBy: restorecommerce-demo-customer-000-member-000
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -267,7 +267,7 @@
         - taxId: germany-standard-rate
           vat: 2.37
   meta:
-    modifiedBy: ""
+    createdBy: restorecommerce-demo-customer-000-member-000
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
