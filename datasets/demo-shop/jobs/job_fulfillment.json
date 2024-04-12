@@ -1,0 +1,20 @@
+{
+  "options": {
+    "base": "./datasets/demo-shop/data/seed-data/",
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "name": "fulfillment_courier",
+      "operation": "sync",
+      "filter": "fulfillment_couriers*.yaml",
+      "mutation": "mutation { fulfillment { fulfillment_courier { Mutate( input: { items: ${resource_list}, totalCount: 0,  mode: UPSERT } ) { details{ items {status {id, code, message} }, operationStatus { code message } } } } } }"
+    },
+    {
+      "name": "fulfillment_product",
+      "operation": "sync",
+      "filter": "fulfillment_products*.yaml",
+      "mutation": "mutation { fulfillment { fulfillment_product { Mutate( input: { items: ${resource_list}, totalCount: 0,  mode: UPSERT } ) { details{ items {status {id, code, message} }, operationStatus { code message } } } } } }"
+    }
+  ]
+}

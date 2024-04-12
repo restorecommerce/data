@@ -1,0 +1,35 @@
+---
+  id: restorecommerce-demo-shop-fulfillment-product-000
+  name: Self Pickup
+  description: I gonna pickup the wares by myself
+  courierId: restorecommerce-demo-shop-courier-000
+  startZones:
+    - DE
+  destinationZones:
+    - DE
+  taxIds:
+    - germany-standard-rate
+  attributes: [ ]
+  variants:
+    - id: for-free
+      name: For Free
+      description: Self Pickup is for free
+      price:
+        currencyId: euro
+        regularPrice: 0.0
+        sale: false
+        salePrice: 0.0
+      maxSize:
+        width: 9999.9
+        height: 9999.9
+        length: 9999.9
+      maxWeight: 9999.9
+      attributes: [ ]
+  meta:
+    owners:
+      - id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity'
+        value: 'urn:restorecommerce:acs:model:organization.Organization'
+        attributes:
+          - id: 'urn:restorecommerce:acs:names:ownerInstance'
+            value: restorecommecre-demo-shop-000-organization
+---
