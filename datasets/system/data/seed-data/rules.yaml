@@ -800,8 +800,7 @@
     "
     context?.resources?.some(
       resource => (
-        !resource.order_state
-        || resource.order_state?.toString() === 'SUBMITTED'
+        resource.order_state?.toString() === 'SUBMITTED'
       )
     )
     "
