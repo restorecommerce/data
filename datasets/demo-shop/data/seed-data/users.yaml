@@ -504,7 +504,7 @@
           value: urn:restorecommerce:acs:model:organization.Organization
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-000-organization
+              value: restorecommerce-demo-customer-001-organization
     - id: system-scope-r-id
       role: scoped-r-id
       attributes:
