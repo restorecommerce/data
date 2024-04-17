@@ -60,9 +60,7 @@
       phone: "0123456789"
     comments: ""
   packagingPreferences: [ ]
-  orderState: "CREATED"
-  fulfillmentState: null
-  paymentState: "UNPAYED"
+  orderState: "PENDING"
   totalAmounts:
     - currencyId: euro
       gross: 9.99
@@ -166,9 +164,7 @@
       phone: "0123456789"
     comments: ""
   packagingPreferences: [ ]
-  orderState: "CREATED"
-  fulfillmentState: null
-  paymentState: "UNPAYED"
+  orderState: "PENDING"
   totalAmounts:
     - currencyId: euro
       gross: 341.55
@@ -256,9 +252,7 @@
       phone: "0123456789"
     comments: ""
   packagingPreferences: [ ]
-  orderState: "CREATED"
-  fulfillmentState: null
-  paymentState: "UNPAYED"
+  orderState: "PENDING"
   totalAmounts:
     - currencyId: euro
       gross: 12.45
