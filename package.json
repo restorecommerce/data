@@ -16,7 +16,7 @@
     "@restorecommerce/gql-bot": "^1.0.1",
     "bcryptjs": "^2.4.3",
     "commander": "^9.4.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.4.5"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.23.10",
