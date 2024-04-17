@@ -416,7 +416,7 @@
     - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-requires-order-state-submitted
-    - user-requires-order-state-created
+    - user-requires-order-state-pending
   meta:
     modifiedBy: ""
     owners:
@@ -441,7 +441,7 @@
   rules:
     - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
-    - customer-requires-order-state-created
+    - customer-requires-order-state-pending
     - fallback-deny-all
   meta:
     modifiedBy: ""

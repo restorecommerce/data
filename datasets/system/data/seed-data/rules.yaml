@@ -722,9 +722,9 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: user-requires-order-state-created
-  name: User Requires Order State Created
-  description: Permits if order state is Created for subject User
+  id: user-requires-order-state-pending
+  name: User Requires Order State Pending
+  description: Permits if order state is Pending for subject User
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
@@ -739,7 +739,7 @@
     context?.resources?.some(
       resource => (
         !resource.order_state
-        || resource.order_state?.toString() === 'CREATED'
+        || resource.order_state?.toString() === 'PENDING'
       )
     )
     "
@@ -753,9 +753,9 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: customer-requires-order-state-created
-  name: Customer Requires Order State Created
-  description: Permits if order state is Created for subject Customer
+  id: customer-requires-order-state-pending
+  name: Customer Requires Order State Pending
+  description: Permits if order state is Pending for subject Customer
   target:
     subjects:
       - id: urn:restorecommerce:acs:names:role
@@ -770,7 +770,7 @@
     context?.resources?.some(
       resource => (
         !resource.order_state
-        || resource.order_state?.toString() === 'CREATED'
+        || resource.order_state?.toString() === 'PENDING'
       )
     )
     "
