@@ -524,6 +524,7 @@
     - moderator-permits-update-hr-scoped
     - moderator-permits-read-hr-scoped
     - member-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
     - fallback-deny-all
   meta:
     modifiedBy: ""
