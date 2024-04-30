@@ -282,6 +282,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: system
+    - id: restorecommerce-demo-customer-000-moderator-000-user-r-id
+      role: user-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:user.User
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-000-moderator-000
   localeId: de-de
   timezoneId: europe-berlin
   meta:
@@ -343,14 +351,6 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-shops-organization
-    - id: restorecommerce-demo-customer-001-organization-user-r-id
-      role: user-r-id
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-001-organization
     - id: system-scope-r-id
       role: scoped-r-id
       attributes:
@@ -359,6 +359,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: system
+    - id: restorecommerce-demo-customer-001-moderator-000-user-r-id
+      role: user-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:user.User
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-001-moderator-000
   localeId: de-de
   timezoneId: europe-berlin
   meta:
@@ -420,14 +428,6 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-shops-organization
-    - id: restorecommerce-demo-customer-000-organization-user-r-id
-      role: user-r-id
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-000-organization
     - id: system-scope-r-id
       role: scoped-r-id
       attributes:
@@ -436,6 +436,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: system
+    - id: restorecommerce-demo-customer-000-member-000-user-r-id
+      role: user-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:user.User
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-000-member-000
   localeId: de-de
   timezoneId: europe-berlin
   meta:
@@ -497,14 +505,6 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-shops-organization
-    - id: restorecommerce-demo-customer-001-organization-user-r-id
-      role: user-r-id
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customer-001-organization
     - id: system-scope-r-id
       role: scoped-r-id
       attributes:
@@ -513,6 +513,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: system
+    - id: restorecommerce-demo-customer-001-member-000-user-r-id
+      role: user-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:user.User
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-001-member-000
   localeId: de-de
   timezoneId: europe-berlin
   meta:
@@ -566,14 +574,6 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-shops-organization
-    - id: restorecommerce-demo-customers-organization-user-r-id
-      role: user-r-id
-      attributes:
-        - id: urn:restorecommerce:acs:names:roleScopingEntity
-          value: urn:restorecommerce:acs:model:organization.Organization
-          attributes:
-            - id: urn:restorecommerce:acs:names:roleScopingInstance
-              value: restorecommerce-demo-customers-organization
     - id: system-scope-r-id
       role: scoped-r-id
       attributes:
@@ -582,6 +582,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: system
+    - id: restorecommerce-demo-customer-002-user-000-user-r-id
+      role: user-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:user.User
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-customer-002-user-000
   localeId: de-de
   timezoneId: europe-berlin
   meta:

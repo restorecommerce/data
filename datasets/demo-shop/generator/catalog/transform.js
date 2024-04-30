@@ -181,10 +181,10 @@ function parseInputLine(csvLine) {
 
       products[productHash] = {
         id: productHash,
+        shopId: SHOP_IDS[0],
         product: {
           name: productEntry,
           description: 'Dummy description for product ' + productEntry,
-          shopId: SHOP_IDS[0],
           manufacturerId: brandHash,
           taricCode: uuid.v4(), // no data available
           physical: {

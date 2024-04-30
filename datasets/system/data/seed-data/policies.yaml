@@ -381,12 +381,8 @@
   rules:
     - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
-    - sales-requires-order-state-submitted
-    - sales-requires-order-state-withdrawn
-    - sales-requires-order-state-canceled
-    - moderator-requires-order-state-submitted
-    - moderator-requires-order-state-withdrawn
-    - moderator-requires-order-state-canceled
+    - sales-permits-all-hr-scoped
+    - moderator-permits-all-hr-scoped
     - user-permits-read-owned
     - fallback-deny-all
   meta:
@@ -520,11 +516,14 @@
   rules:
     - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
+    - sales-permits-all-hr-scoped
     - moderator-permits-create-hr-scoped
     - moderator-permits-update-hr-scoped
     - moderator-permits-read-hr-scoped
     - member-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
+    - user-permits-all-owned
+    - permit-read-strict-scoped
     - fallback-deny-all
   meta:
     modifiedBy: ""

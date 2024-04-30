@@ -400,8 +400,6 @@
         value: user-r-id
       - id: urn:restorecommerce:acs:names:roleScopingEntity
         value: urn:restorecommerce:acs:model:user.User
-      - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
-        value: "false"
     actions:
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
@@ -556,7 +554,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         resource.order_state?.toString() === 'SUBMITTED'
       )
@@ -586,7 +584,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         resource.order_state?.toString() === 'WITHDRAWN'
       )
@@ -616,7 +614,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         resource.order_state?.toString() === 'CANCELED'
       )
@@ -646,7 +644,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         resource.order_state?.toString() === 'SUBMITTED'
       )
@@ -676,7 +674,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         resource.order_state?.toString() === 'WITHDRAWN'
       )
@@ -706,7 +704,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         resource.order_state?.toString() === 'CANCELED'
       )
@@ -736,7 +734,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         !resource.order_state
         || resource.order_state?.toString() === 'PENDING'
@@ -767,7 +765,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         !resource.order_state
         || resource.order_state?.toString() === 'PENDING'
@@ -798,7 +796,7 @@
   effect: PERMIT
   condition:
     "
-    context?.resources?.some(
+    context?.resources?.every(
       resource => (
         resource.order_state?.toString() === 'SUBMITTED'
       )
