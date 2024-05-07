@@ -206,14 +206,12 @@
     subjects: [ ]
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:fulfillment_courier.FulfillmentCounrier
+        value: urn:restorecommerce:acs:model:fulfillment_courier.FulfillmentCourier
   rules:
     - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
-    - permit-read-strict-scoped
-    - domainless-unauthenticated-permits-read-system
     - fallback-deny-all
   meta:
     modifiedBy: ""
@@ -241,8 +239,6 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
-    - permit-read-strict-scoped
-    - domainless-unauthenticated-permits-read-system
     - fallback-deny-all
   meta:
     modifiedBy: ""

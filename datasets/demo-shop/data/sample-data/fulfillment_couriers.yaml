@@ -1,0 +1,21 @@
+---
+  id: restorecommerce-demo-shop-courier-000
+  shopIds:
+    - restorecommerce-demo-shop-000
+  name: In House Courier
+  description: Fulfillments operated by us
+  logo: ""
+  website: ""
+  stubType: Dummy
+  configuration:
+    typeUrl: ""
+    value:
+      test: "123"
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-shop-000-organization
+---

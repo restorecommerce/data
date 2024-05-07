@@ -27,9 +27,9 @@
       attributes: [ ]
   meta:
     owners:
-      - id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity'
-        value: 'urn:restorecommerce:acs:model:organization.Organization'
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
-          - id: 'urn:restorecommerce:acs:names:ownerInstance'
-            value: restorecommecre-demo-shop-000-organization
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-shop-000-organization
 ---

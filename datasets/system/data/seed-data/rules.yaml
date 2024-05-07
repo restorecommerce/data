@@ -47,7 +47,6 @@
     actions: [ ]
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -70,7 +69,6 @@
     actions: [ ]
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -95,7 +93,6 @@
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -118,7 +115,6 @@
     actions: [ ]
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -143,7 +139,6 @@
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -166,7 +161,6 @@
     actions: [ ]
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -191,7 +185,6 @@
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -216,7 +209,6 @@
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:create
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -241,7 +233,6 @@
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:update
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -266,7 +257,6 @@
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -291,7 +281,6 @@
       - id: urn:oasis:names:tc:xacml:1.0:action:action-id
         value: urn:restorecommerce:acs:names:action:read
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -316,12 +305,6 @@
     actions: [ ]
     resources: [ ]
   effect: PERMIT
-  condition: "
-    !context?.resources?.some(
-      resource => resource?.user_id !== context.subject?.id
-        || resource?.private?.user_id !== context.subject?.id
-    )
-  "
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -348,12 +331,6 @@
         value: urn:restorecommerce:acs:names:action:create
     resources: [ ]
   effect: PERMIT
-  condition: "
-    !context?.resources?.some(
-      resource => resource?.user_id !== context.subject?.id
-        || resource?.private?.user_id !== context.subject?.id
-    )
-  "
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -380,7 +357,6 @@
         value: urn:restorecommerce:acs:names:action:update
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -405,7 +381,6 @@
         value: urn:restorecommerce:acs:names:action:read
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -432,7 +407,6 @@
         value: urn:restorecommerce:acs:names:action:read
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -459,7 +433,6 @@
         value: urn:restorecommerce:acs:names:action:create
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
@@ -484,7 +457,6 @@
         value: urn:restorecommerce:acs:names:action:update
     resources: [ ]
   effect: PERMIT
-  condition: ""
   evaluationCacheable: false
   meta:
     modifiedBy: ""
