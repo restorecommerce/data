@@ -75,6 +75,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-root-organization
+    - id: restorecommerce-demo-customer-000-moderator-000-user-r-id
+      role: user-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:user.User
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-root-admin-000
     - id: system-scope-r-id
       role: scoped-r-id
       attributes:
@@ -136,6 +144,14 @@
           attributes:
             - id: urn:restorecommerce:acs:names:roleScopingInstance
               value: restorecommerce-demo-shop-000-organization
+    - id: restorecommerce-demo-customer-000-moderator-000-user-r-id
+      role: user-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:user.User
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-shop-000-admin-000
     - id: system-scope-r-id
       role: scoped-r-id
       attributes:
