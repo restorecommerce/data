@@ -196,6 +196,31 @@
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
+  id: credential-policy
+  name: Credential Policy
+  description: Policy for resource Credential
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:credential.Credental
+  rules:
+    - superadministrator-permits-all
+    - user-permits-all-owned
+    - fallback-deny-all
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
   id: fulfillment-courier-policy
   name: FulfillmentCourier Policy
   description: Policy for resource FulfillmentCourier
