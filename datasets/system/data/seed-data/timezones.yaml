@@ -1,5 +1,6 @@
 ---
   id: europe-berlin
+  value: Europe/Berlin
   description: Central Europe
   meta:
     modifiedBy: ""
@@ -11,6 +12,7 @@
             value: system
 ---
   id: europe-london
+  value: Europe/London
   description: Western Europe
   meta:
     modifiedBy: ""
