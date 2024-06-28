@@ -30,7 +30,6 @@
   },
   "scripts": {
     "build": "tsc -d -P tsconfig.objects.json",
-    "env:token": "echo $(docker logs --tail 2000 restorecommerce_facade_srv 2> /dev/null | grep 'Bootstrap API Key is:' | tail -1 | awk '{print \"ACCESS_TOKEN=\"$7}') > .env && cat .env",
     "import": "npm-run-all import:system import:demoshop",
     "import:system": "npm-run-all import:system:master import:system:identity import:system:rules import:system:extra",
     "import:system:master": "node dataset.js import -d system -j master",

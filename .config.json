@@ -3,6 +3,7 @@
     "entry": "http://localhost:5000/graphql",
     "job_prefix": "job_",
     "data_directory": "./datasets/",
-    "job_directory": "jobs/"
+    "job_directory": "jobs/",
+    "access_token": "1a4c6789-6435-487a-9308-64d06384acf9"
   }
 }
