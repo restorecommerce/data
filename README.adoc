@@ -151,7 +151,7 @@ Demo Shop:
 
 == The Access Control Data Model
 
-All entities of this dataset are organized along a hierarchy of ``organisation``s.
+All entities of this dataset are organized along a hierarchy of ``organization``s.
 Each entity is owned by one or more ``organization``(s) and by its creator in common case.
 
 All ``organization``s are children of ``system`` while ``restorecommerce-demo-root`` implies the first tandent.
@@ -192,20 +192,20 @@ The following roles are provided by `system:identity`:
   2. Permits create and modify for organizations and users within scope.
   3. Permits withdraw for submitted orderings within scope.
 
-- ``member``: Acts as a member of a customer organizations.
+- ``member``: Acts as a member of customer organizations.
 
   1. Permits read for users, addresses, contact-points and sub-organizations within hierarchical scope
 
-- ``customer``: Acts as a customer of a shop.
+- ``customer``: Acts as a customer of a shops.
 
   1. Permits read for products and other catalog entities within hierarchical scope.
   2. Permits to submit orders within hierarchical scope.
 
-- ``user``: Acts as a authenticated users.
+- ``user``: Acts as an authenticated users.
 
   1. Permits read for all owned entities
   2. Permits read and modify of exposed user data
-  3. Permits to create orders within within hierarchical scope
+  3. Permits to create orders within hierarchical scope
 
 - ``scoped``: Expands read permission to a certain scope.
 
