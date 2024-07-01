@@ -11,7 +11,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:address.Address
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - moderator-permits-all-hr-scoped
@@ -42,7 +41,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:command.Command
   rules:
-    - superadministrator-permits-all
     - fallback-deny-all
   meta:
     modifiedBy: ""
@@ -66,7 +64,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:contact_point_type.ContactPointType
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
@@ -93,7 +90,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:contact_point.ContactPoint
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - moderator-permits-all-hr-scoped
@@ -124,7 +120,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:country.Country
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - permit-read-strict-scoped
@@ -152,7 +147,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:currency.Currency
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
@@ -179,7 +173,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:customer.Customer
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - moderator-permits-all-hr-scoped
@@ -208,7 +201,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:credential.Credental
   rules:
-    - superadministrator-permits-all
     - user-permits-all-owned
     - fallback-deny-all
   meta:
@@ -233,7 +225,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:fulfillment_courier.FulfillmentCourier
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
@@ -260,7 +251,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:fulfillment_product.FulfillmentProduct
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
@@ -287,7 +277,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:fulfillment.Fulfillment
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - moderator-permits-read-hr-scoped
@@ -315,7 +304,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:invoice.Invoice
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - moderator-permits-read-hr-scoped
@@ -343,7 +331,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:locale.Locale
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - permit-read-strict-scoped
@@ -371,7 +358,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:manufacturer.Manufacturer
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
@@ -400,7 +386,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - moderator-permits-all-hr-scoped
@@ -430,7 +415,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:order.Order
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-requires-order-state-submitted
     - user-requires-order-state-pending
@@ -456,7 +440,6 @@
       - id: urn:restorecommerce:acs:names:operation
         value: execution.submitOrders
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - customer-requires-order-state-pending
     - fallback-deny-all
@@ -482,7 +465,6 @@
       - id: urn:restorecommerce:acs:names:operation
         value: execution.withdrawOrders
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-requires-order-state-submitted
     - moderator-requires-order-state-submitted
@@ -509,7 +491,6 @@
       - id: urn:restorecommerce:acs:names:operation
         value: execution.cancelOrders
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-requires-order-state-submitted
     - sales-requires-order-state-withdrawn
@@ -535,7 +516,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:organization.Organization
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - moderator-permits-create-hr-scoped
@@ -568,7 +548,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:ostorage.Ostorage
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - moderator-permits-all-hr-scoped
@@ -598,7 +577,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:payment_method.PaymentMethod
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
@@ -627,7 +605,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:payment.Payment
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - moderator-permits-read-hr-scoped
@@ -655,7 +632,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:price_group.PriceGroup
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
@@ -682,7 +658,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:product_category.ProductCategory
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
@@ -709,7 +684,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:product_prototype.ProductPrototype
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
@@ -736,7 +710,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:product.Product
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
@@ -763,7 +736,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:role.Role
   rules:
-    - superadministrator-permits-all
     - everyone-permits-read
     - fallback-deny-all
   meta:
@@ -788,7 +760,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:shop.Shop
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
@@ -815,7 +786,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:tax_type.TaxType
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
@@ -842,7 +812,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:tax.Tax
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - permit-read-strict-scoped
@@ -870,7 +839,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:timezone.Timezone
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - permit-read-strict-scoped
@@ -898,7 +866,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:token.Token
   rules:
-    - superadministrator-permits-all
     - user-permits-all-owned
     - fallback-deny-all
   meta:
@@ -923,7 +890,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:unit_code.UnitCode
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - permit-read-strict-scoped
@@ -951,7 +917,6 @@
       - id: urn:restorecommerce:acs:names:model:entity
         value: urn:restorecommerce:acs:model:user.User
   rules:
-    - superadministrator-permits-all
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - moderator-permits-all-hr-scoped

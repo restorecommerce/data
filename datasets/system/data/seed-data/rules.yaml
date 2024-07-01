@@ -37,26 +37,6 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
-  id: superadministrator-permits-all
-  name: SuperAdmin Permits All Rule
-  description: Permits all if subject is SuperAdmin
-  target:
-    subjects:
-      - id: urn:restorecommerce:acs:names:role
-        value: superadministrator-r-id
-    actions: [ ]
-    resources: [ ]
-  effect: PERMIT
-  evaluationCacheable: false
-  meta:
-    modifiedBy: ""
-    owners:
-      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
-        attributes:
-          - id: urn:restorecommerce:acs:names:ownerInstance
-            value: system
----
   id: administrator-permits-all-hr-scoped
   name: Admin Permits All Rule HR Scoped
   description: Permits all if subject is Admin within hierarchical scope

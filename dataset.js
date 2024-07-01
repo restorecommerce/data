@@ -101,7 +101,7 @@ async function importData() {
     .option(
       '-t, --token <access_token>',
       'access token to use for communications',
-      CONFIG?.access_token
+      process.env.ACCESS_TOKEN ?? CONFIG?.access_token
     )
     .option('-i, --ignore', 'ignore errors and don\'t stop', false)
     .option('-v, --verbose', 'verbose output', false)
