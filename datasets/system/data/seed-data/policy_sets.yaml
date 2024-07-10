@@ -2,12 +2,13 @@
   id: system-policy-set
   name: System Policy Set
   description: Contains all policies for Restorecommerce
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
   target:
     actions: [ ]
     subjects: [ ]
     resources: [ ]
   policies:
+    - super_admin_policy_id
     - address-policy
     - command-policy
     - contact-point-type-policy
