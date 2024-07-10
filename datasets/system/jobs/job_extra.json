@@ -9,7 +9,7 @@
       "operation": "sync",
       "filter": "unit_codes*.yaml",
       "batchSize": 100,
-      "mutation": "mutation mutateCodes($var: [IIoRestorecommerceUnitCodeUnitCode!]!){ master_data { unit_code { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+      "mutation": "mutation mutateUnitCodes($var: [IIoRestorecommerceUnitCodeUnitCode!]!){ master_data { unit_code { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }

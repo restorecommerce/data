@@ -80,9 +80,6 @@ function transform() {
       code.id = 'un-cefact-cc-' + code.commonCode;
 
       code.meta = {
-        created: new Date().toISOString(),
-        modified: new Date().toISOString(),
-        modifiedBy: '',
         owners: [
           {
             id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',

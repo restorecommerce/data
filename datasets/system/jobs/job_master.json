@@ -5,6 +5,12 @@
   },
   "tasks": [
     {
+      "name": "organizations",
+      "operation": "sync",
+      "filter": "organizations.yaml",
+      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    },
+    {
       "name": "countries",
       "operation": "sync",
       "filter": "countries.yaml",
@@ -45,12 +51,6 @@
       "operation": "sync",
       "filter": "contact_point_types.yaml",
       "mutation": "mutation{ master_data { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
-    },
-    {
-      "name": "organizations",
-      "operation": "sync",
-      "filter": "organizations.yaml",
-      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }

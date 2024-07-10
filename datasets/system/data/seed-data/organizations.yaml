@@ -1,19 +1,7 @@
 ---
   id: system
   name: SYSTEM
-  contactPointIds: []
-  website: ""
-  email: ""
-  vatId: ""
-  isicV4: ""
-  registration: ""
-  logo: 
-    url: ""
-  registrationCourt: ""
-  paymentMethodIds: []
-  parentId: ""
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
