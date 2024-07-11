@@ -41,11 +41,11 @@ to import the data locally or into the production environment.
 
 2. Either export the API-KEY, paste it to an `.env` file or paste as command argument.
 
-2. Generate catalog datasets using [`transform.js script`](./generator/catalog/transform.js):
+2. Generate catalog datasets using [`transform.js script`](./generator/unit-codes/transform.js):
 
    - `node ./transform.js`
 
-3. Import datasets using [`dataset.js script`](./import.js):
+3. Import datasets using [`dataset.js script`](../../dataset.js):
 
    - `node ./dataset.js import -t <access_token> -d system -j <job>`
 

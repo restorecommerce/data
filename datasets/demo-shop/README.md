@@ -46,16 +46,16 @@ to import the data locally or into the production environment.
 
    - `node ./transform.js`
 
-4. Import datasets using [`import.js script`](./import.js):
+4. Import datasets using [`dataset.js script`](../../dataset.js):
 
-   - `node ./import.js import -t <access_token> -d demo-shop -j <job>`
+   - `node ./dataset.js import -t <access_token> -d demo-shop -j <job>`
 
 5. Examples:
 
-   - `node ./import.js import -t <access_token>  -d demo-shop -j master`
-   - `node ./import.js import -t <access_token>  -d demo-shop -j identity`
-   - `node ./import.js import -t <access_token>  -d demo-shop -j catalog`
-   - `node ./import.js import -t <access_token>  -d demo-shop -j samples`
+   - `node ./dataset.js import -t <access_token>  -d demo-shop -j master`
+   - `node ./dataset.js import -t <access_token>  -d demo-shop -j identity`
+   - `node ./dataset.js import -t <access_token>  -d demo-shop -j catalog`
+   - `node ./dataset.js import -t <access_token>  -d demo-shop -j samples`
 
 ### Supported environment variables: `GQL_ENDPOINT`.
 
@@ -79,7 +79,7 @@ To import the files, following settings needs to be configured in [config.json](
 * GraphQL endpoint 
 * Bucket name for the storage-server
 
-Prerequisite: object importer should be build using `npm run build` command before importing objects.
+Prerequisite: object importer should be built using `npm run build` command before importing objects.
 
 ```sh
 # Run import in production-mode:
