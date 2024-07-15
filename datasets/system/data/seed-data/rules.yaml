@@ -372,7 +372,7 @@
             value: system
 ---
   id: permit-read-strict-scoped
-  name: Scoped User Permits Read
+  name: Permit Read String Scoped on System
   description: Permits read if resource is owned by scope
   target:
     subjects:
