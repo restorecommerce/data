@@ -178,6 +178,7 @@
     - moderator-permits-all-hr-scoped
     - member-permits-read-hr-scoped
     - user-permits-all-owned
+    - unauthenticated-user-permits-read-owned
     - fallback-deny-all
   meta:
     modifiedBy: ""

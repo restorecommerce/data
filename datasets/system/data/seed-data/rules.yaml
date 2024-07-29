@@ -447,6 +447,30 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
+  id: unauthenticated-user-permits-read-owned
+  name: Unauthenticated User Permits Read Owned
+  description: Permits read if resource is owned by unauthenticated subject
+  target:
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: unauthenticated-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+    resources: [ ]
+  effect: PERMIT
+  evaluationCacheable: false
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
   id: domainless-unauthenticated-permits-read-system
   name: Domainless Unauthenticated Permits Read System
   description: Permits read system for unauthenticated users without domain

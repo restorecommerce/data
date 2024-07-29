@@ -25,7 +25,7 @@
 ---
   id: restorecommerce-demo-customer-002
   private:
-    userId: restorecommerce-demo-customer-002-user
+    userId: restorecommerce-demo-customer-002-user-000
     contactPointIds: [
       restorecommerce-demo-customer-002-contact-point
     ]
@@ -38,7 +38,7 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: restorecommerce-demo-customer-002-user-000
 ---
-  id: restorecommerce-demo-customer-unauthenticated
+  id: restorecommerce-demo-customer-unauthenticated-private
   private:
     userId: restorecommerce-demo-unauthenticated-user
     contactPointIds: []
@@ -46,7 +46,31 @@
     modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
-        value: urn:restorecommerce:acs:model:organization.Organization
+        value: urn:restorecommerce:acs:model:user.User
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-root-organization
+            value: restorecommerce-demo-unauthenticated-user
+---
+  id: restorecommerce-demo-customer-unauthenticated-commercial
+  commercial:
+    organizationId: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-unauthenticated-user
+---
+  id: restorecommerce-demo-customer-unauthenticated-public-sector
+  publicSector:
+    organizationId: ""
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:user.User
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: restorecommerce-demo-unauthenticated-user
