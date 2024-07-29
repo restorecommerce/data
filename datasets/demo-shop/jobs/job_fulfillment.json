@@ -1,6 +1,6 @@
 {
+  "base": "./datasets/demo-shop/data/seed-data/",
   "options": {
-    "base": "./datasets/demo-shop/data/seed-data/",
     "concurrency": 1
   },
   "tasks": [

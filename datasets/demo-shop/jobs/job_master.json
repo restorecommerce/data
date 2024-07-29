@@ -1,6 +1,6 @@
 {
+  "base": "./datasets/demo-shop/data/seed-data/",
   "options": {
-    "base": "./datasets/demo-shop/data/seed-data/",
     "concurrency": 1
   },
   "tasks": [
@@ -23,16 +23,16 @@
       "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } } }"
     },
     {
-      "name": "customers",
-      "operation": "sync",
-      "filter": "customers.yaml",
-      "mutation": "mutation{ master_data { customer { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
-    },
-    {
       "name": "shops",
       "operation": "sync",
       "filter": "shops.yaml",
       "mutation": "mutation{ master_data { shop { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+    },
+    {
+      "name": "customers",
+      "operation": "sync",
+      "filter": "customers.yaml",
+      "mutation": "mutation{ master_data { customer { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }

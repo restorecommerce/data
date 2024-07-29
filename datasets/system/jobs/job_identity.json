@@ -1,6 +1,6 @@
 {
+  "base": "./datasets/system/data/seed-data/",
   "options": {
-    "base": "./datasets/system/data/seed-data/",
     "concurrency": 1
   },
   "tasks": [

@@ -1,19 +1,8 @@
 ---
   id: restorecommerce-demo-root-organization
   name: Restorecommerce Demo Root
-  contactPointIds: []
-  website: ""
-  email: ""
-  vatId: ""
-  isicV4: ""
-  registration: ""
-  logo: 
-    url: ""
-  registrationCourt: ""
-  paymentMethodIds: []
-  parentId: "system"
+  parentId: system
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -23,19 +12,8 @@
 ---
   id: restorecommerce-demo-shops-organization
   name: Restorecommerce Demo Shops
-  contactPointIds: []
-  website: ""
-  email: ""
-  vatId: ""
-  isicV4: ""
-  registration: ""
-  logo: 
-    url: ""
-  registrationCourt: ""
-  paymentMethodIds: []
   parentId: restorecommerce-demo-root-organization
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -45,19 +23,8 @@
 ---
   id: restorecommerce-demo-customers-organization
   name: Restorecommerce Demo Customers
-  contactPointIds: []
-  website: ""
-  email: ""
-  vatId: ""
-  isicV4: ""
-  registration: ""
-  logo: 
-    url: ""
-  registrationCourt: ""
-  paymentMethodIds: []
   parentId: restorecommerce-demo-root-organization
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization

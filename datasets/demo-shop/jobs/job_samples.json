@@ -1,6 +1,6 @@
 {
+  "base": "./datasets/demo-shop/data/sample-data/",
   "options": {
-    "base": "./datasets/demo-shop/data/sample-data/",
     "concurrency": 1
   },
   "tasks": [

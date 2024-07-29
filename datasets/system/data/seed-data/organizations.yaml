@@ -1,7 +1,9 @@
 ---
   id: system
   name: SYSTEM
+  parentId: ""
   meta:
+    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization

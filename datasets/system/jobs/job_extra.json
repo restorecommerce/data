@@ -1,6 +1,6 @@
 {
+  "base": "./datasets/system/data/generated/",
   "options": {
-    "base": "./datasets/system/data/generated/",
     "concurrency": 1
   },
   "tasks": [

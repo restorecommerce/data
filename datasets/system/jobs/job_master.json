@@ -1,21 +1,9 @@
 {
+  "base": "./datasets/system/data/seed-data/",
   "options": {
-    "base": "./datasets/system/data/seed-data/",
     "concurrency": 1
   },
   "tasks": [
-    {
-      "name": "organizations",
-      "operation": "sync",
-      "filter": "organizations.yaml",
-      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
-    },
-    {
-      "name": "countries",
-      "operation": "sync",
-      "filter": "countries.yaml",
-      "mutation": "mutation{ master_data { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
-    },
     {
       "name": "timezones",
       "operation": "sync",
@@ -27,6 +15,18 @@
       "operation": "sync",
       "filter": "locales.yaml",
       "mutation": "mutation{ master_data { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+    },
+    {
+      "name": "countries",
+      "operation": "sync",
+      "filter": "countries.yaml",
+      "mutation": "mutation{ master_data { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
+    },
+    {
+      "name": "contact_point_types",
+      "operation": "sync",
+      "filter": "contact_point_types.yaml",
+      "mutation": "mutation{ master_data { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     },
     {
       "name": "tax_types",
@@ -47,10 +47,10 @@
       "mutation": "mutation mutateCommands($var: [IIoRestorecommerceCommandCommand!]!){ master_data { command { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
-      "name": "contact_point_types",
+      "name": "organizations",
       "operation": "sync",
-      "filter": "contact_point_types.yaml",
-      "mutation": "mutation{ master_data { contact_point_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
+      "filter": "organizations.yaml",
+      "mutation": "mutation mutateOrganizations($var: [IIoRestorecommerceOrganizationOrganization!]!){ master_data { organization { Mutate( input: { items: $var, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message } } } } }}"
     }
   ]
 }

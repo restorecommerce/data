@@ -1,6 +1,6 @@
 {
+  "base": "./datasets/demo-shop/data/generated/catalog/",
   "options": {
-    "base": "./datasets/demo-shop/data/generated/catalog/",
     "concurrency": 1
   },
   "tasks": [
