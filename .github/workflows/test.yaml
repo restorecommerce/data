@@ -22,9 +22,6 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      - name: Extract Bootstrap API-KEY
-        run: npm run env:token
-
       - name: Transform all data
         run: npm run transform
 
