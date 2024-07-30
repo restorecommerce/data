@@ -9,8 +9,8 @@
     "data"
   ],
   "dependencies": {
-    "node-xlsx": "^0.23.0",
-    "js-yaml": "^3.14.0"
+    "js-yaml": "^3.14.0",
+    "node-xlsx": "^0.23.0"
   },
   "scripts": {},
   "engines": {
