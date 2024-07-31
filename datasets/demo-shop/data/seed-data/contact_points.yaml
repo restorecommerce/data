@@ -17,7 +17,7 @@
         value: urn:restorecommerce:acs:model:organization.Organization
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
-            value: restorecommerce-demo-shop-organization-000
+            value: restorecommerce-demo-shop-000-organization
 ---
   id: restorecommerce-demo-customer-000-contact-point
   physicalAddressId: restorecommerce-demo-customer-000-address-000

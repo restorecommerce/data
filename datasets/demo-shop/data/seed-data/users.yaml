@@ -8,6 +8,12 @@
   roleAssociations:
     - id: restorecommerce-demo-shops-organization-unauthenticated-r-id
       role: unauthenticated-r-id
+      attributes:
+        - id: urn:restorecommerce:acs:names:roleScopingEntity
+          value: urn:restorecommerce:acs:model:user.User
+          attributes:
+            - id: urn:restorecommerce:acs:names:roleScopingInstance
+              value: restorecommerce-demo-unauthenticated-user
     - id: restorecommerce-demo-shops-organization-customer-r-id
       role: customer-r-id
       attributes:

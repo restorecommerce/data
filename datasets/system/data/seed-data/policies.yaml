@@ -15,6 +15,7 @@
     - sales-permits-all-hr-scoped
     - moderator-permits-all-hr-scoped
     - member-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
     - user-permits-all-owned
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
@@ -66,6 +67,8 @@
   rules:
     - administrator-permits-all-hr-scoped
     - permit-read-strict-scoped
+    - sales-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
     - domainless-unauthenticated-permits-read-system
     - fallback-deny-all
   meta:
@@ -92,6 +95,7 @@
   rules:
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
     - moderator-permits-all-hr-scoped
     - member-permits-read-hr-scoped
     - user-permits-all-owned
@@ -122,6 +126,7 @@
   rules:
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
     - fallback-deny-all
@@ -148,6 +153,8 @@
         value: urn:restorecommerce:acs:model:currency.Currency
   rules:
     - administrator-permits-all-hr-scoped
+    - sales-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
     - fallback-deny-all
@@ -178,6 +185,7 @@
     - moderator-permits-all-hr-scoped
     - member-permits-read-hr-scoped
     - user-permits-all-owned
+    - customer-permits-read-owned
     - unauthenticated-user-permits-read-owned
     - fallback-deny-all
   meta:
@@ -334,6 +342,7 @@
   rules:
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
     - fallback-deny-all

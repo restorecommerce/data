@@ -271,6 +271,32 @@
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
 ---
+  id: customer-permits-read-owned
+  name: Customer Permits Read Owned
+  description: Permits read if subject is owner of resource
+  target:
+    resources: [ ]
+    subjects:
+      - id: urn:restorecommerce:acs:names:role
+        value: customer-r-id
+      - id: urn:restorecommerce:acs:names:roleScopingEntity
+        value: urn:restorecommerce:acs:model:user.User
+      - id: urn:restorecommerce:acs:names:hierarchicalRoleScoping
+        value: "false"
+    actions:
+      - id: urn:oasis:names:tc:xacml:1.0:action:action-id
+        value: urn:restorecommerce:acs:names:action:read
+  effect: PERMIT
+  evaluationCacheable: false
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
   id: user-permits-all-owned
   name: User Permits All Owned
   description: Permits all if resource is owned by subject
