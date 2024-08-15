@@ -23,6 +23,7 @@
     - locale-policy
     - manufacturer-policy
     - order-read-policy
+    - order-modify-policy
     - order-submit-policy
     - order-withdraw-policy
     - order-cancel-policy
