@@ -1,5 +1,5 @@
 ### Base
-FROM node:20.8.0-alpine3.18 as base
+FROM node:20.8.0-alpine3.18 AS base
 
 ARG DB_IMPORT_ENTRY=http://facade-srv:5000/graphql
 ARG OBJECT_IMPORT_ENDPOINT=http://facade-srv:5000/graphql

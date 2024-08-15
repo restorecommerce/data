@@ -428,6 +428,7 @@
     - administrator-permits-all-hr-scoped
     - sales-requires-order-state-submitted
     - user-requires-order-state-pending
+    - fallback-deny-all
   meta:
     modifiedBy: ""
     owners:
@@ -436,7 +437,7 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
-  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
   id: order-submit-policy
   name: Order Submit Policy
