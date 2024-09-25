@@ -9,7 +9,23 @@
     resources: [ ]
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+---
+  id: everyone-permits-all
+  name: Everyone Permits All
+  description: Permits all to everyone
+  effect: PERMIT
+  target:
+    subjects: [ ]
+    resources: [ ]
+    actions: [ ]
+  evaluationCacheable: false
+  meta:
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -29,7 +45,6 @@
         value: urn:restorecommerce:acs:names:action:read
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -51,7 +66,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -75,7 +89,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -97,7 +110,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -121,7 +133,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -143,7 +154,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -167,7 +177,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -191,7 +200,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -215,7 +223,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -239,7 +246,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -263,7 +269,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -289,7 +294,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -313,7 +317,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -339,7 +342,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -365,7 +367,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -389,7 +390,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -415,7 +415,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -441,7 +440,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -465,7 +463,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -489,7 +486,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -512,7 +508,6 @@
   condition: "{ filters: [ { field: 'meta.owners[*].attributes[0].value', operation: 'in', value: 'system' } ] }"
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -534,7 +529,6 @@
   effect: PERMIT
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -564,7 +558,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -594,7 +587,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -624,7 +616,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -654,7 +645,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -684,7 +674,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -714,7 +703,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -745,7 +733,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -776,7 +763,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -806,7 +792,6 @@
     "
   evaluationCacheable: false
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization

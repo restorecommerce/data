@@ -1,4 +1,24 @@
 ---
+  id: fallback-deny-policy
+  name: Fallback Deny Policy
+  description: Fallback to deny if no other fits
+  evaluationCacheable: false
+  effect: DENY
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources: [ ]
+  rules:
+    - fallback-deny-all
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
   id: address-policy
   name: Address Policy
   description: Policy for resource Address
@@ -19,9 +39,7 @@
     - user-permits-all-owned
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -44,7 +62,6 @@
   rules:
     - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -70,9 +87,7 @@
     - sales-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -101,9 +116,7 @@
     - user-permits-all-owned
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -129,9 +142,7 @@
     - customer-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -157,9 +168,7 @@
     - customer-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -187,9 +196,7 @@
     - user-permits-all-owned
     - customer-permits-read-owned
     - unauthenticated-user-permits-read-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -211,9 +218,7 @@
         value: urn:restorecommerce:acs:model:credential.Credental
   rules:
     - user-permits-all-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -237,9 +242,7 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -263,9 +266,7 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-read-hr-scoped
     - customer-permits-read-hr-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -290,9 +291,7 @@
     - sales-permits-all-hr-scoped
     - moderator-permits-read-hr-scoped
     - user-permits-read-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -317,9 +316,7 @@
     - sales-permits-all-hr-scoped
     - moderator-permits-read-hr-scoped
     - user-permits-read-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -345,9 +342,7 @@
     - customer-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -371,9 +366,7 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -400,9 +393,7 @@
     - sales-permits-all-hr-scoped
     - moderator-permits-all-hr-scoped
     - user-permits-read-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -428,9 +419,29 @@
     - administrator-permits-all-hr-scoped
     - sales-requires-order-state-submitted
     - user-requires-order-state-pending
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: order-evaluate-policy
+  name: Order Evaluate Policy
+  description: Policy for operation Evaluate Orders
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.evaluateOrders
+  rules:
+    - everyone-permits-all
+  meta:
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -453,9 +464,7 @@
   rules:
     - administrator-permits-all-hr-scoped
     - customer-requires-order-state-pending
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -481,7 +490,6 @@
     - moderator-requires-order-state-submitted
     - customer-requires-order-state-submitted
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -506,7 +514,6 @@
     - sales-requires-order-state-submitted
     - sales-requires-order-state-withdrawn
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -536,9 +543,7 @@
     - customer-permits-read-hr-scoped
     - user-permits-all-owned
     - permit-read-strict-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -565,9 +570,7 @@
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
     - user-permits-all-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -593,9 +596,7 @@
     - customer-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -620,9 +621,7 @@
     - sales-permits-read-hr-scoped
     - moderator-permits-read-hr-scoped
     - user-permits-read-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -646,9 +645,7 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -672,9 +669,7 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -698,9 +693,7 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -724,9 +717,7 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -748,9 +739,7 @@
         value: urn:restorecommerce:acs:model:role.Role
   rules:
     - everyone-permits-read
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -774,9 +763,7 @@
     - administrator-permits-all-hr-scoped
     - sales-permits-all-hr-scoped
     - customer-permits-read-hr-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -800,9 +787,7 @@
     - administrator-permits-all-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -827,9 +812,7 @@
     - sales-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -854,9 +837,7 @@
     - sales-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -878,9 +859,7 @@
         value: urn:restorecommerce:acs:model:token.Token
   rules:
     - user-permits-all-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -905,9 +884,7 @@
     - sales-permits-read-hr-scoped
     - permit-read-strict-scoped
     - domainless-unauthenticated-permits-read-system
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -935,9 +912,7 @@
     - user-permits-read-owned
     - user-permits-update-owned
     - unauthenticated-user-permits-create-strict-scoped
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization
@@ -967,9 +942,7 @@
     - domainless-unauthenticated-permits-update
     - unauthenticated-user-permits-update-hr-scoped
     - user-permits-update-user-owned
-    - fallback-deny-all
   meta:
-    modifiedBy: ""
     owners:
       - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
         value: urn:restorecommerce:acs:model:organization.Organization

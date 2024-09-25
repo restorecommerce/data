@@ -24,6 +24,7 @@
     - manufacturer-policy
     - order-read-policy
     - order-modify-policy
+    - order-evaluate-policy
     - order-submit-policy
     - order-withdraw-policy
     - order-cancel-policy
@@ -44,6 +45,7 @@
     - unit-code-policy
     - user-policy
     - user-credentials-reset-policy
+    - fallback-deny-policy
   meta:
     modifiedBy: ""
     owners:
