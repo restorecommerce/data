@@ -45,7 +45,6 @@
     - unit-code-policy
     - user-policy
     - user-credentials-reset-policy
-    - fallback-deny-policy
   meta:
     modifiedBy: ""
     owners:
