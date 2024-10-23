@@ -310,6 +310,30 @@
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
+  id: fulfillment-submit-policy
+  name: Fulfillment Submit Policy
+  description: Policy for operation Submit Fulfillments
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:operation
+        value: execution.submitFulfillments
+  rules:
+    - administrator-permits-all-hr-scoped
+    - sales-permits-all-hr-scoped
+    - fallback-deny-all
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
   id: invoice-policy
   name: Invoice Policy
   description: Policy for resource Invoice
