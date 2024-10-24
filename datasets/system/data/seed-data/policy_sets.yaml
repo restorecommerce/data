@@ -19,6 +19,7 @@
     - fulfillment-courier-policy
     - fulfillment-product-policy
     - fulfillment-policy
+    - fulfillment-evaluate-policy
     - fulfillment-submit-policy
     - invoice-policy
     - locale-policy
