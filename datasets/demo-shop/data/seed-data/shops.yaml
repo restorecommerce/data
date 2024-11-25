@@ -3,7 +3,8 @@
   shopNumber: "00000000" 
   name: "Restorecommerce Demo Shop 000"
   description: ""
-  domain: localhost
+  domains:
+    - localhost
   organizationId: restorecommerce-demo-shop-000-organization
   meta:
     modifiedBy: ""
