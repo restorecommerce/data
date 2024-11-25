@@ -23,6 +23,12 @@
       "mutation": "mutation{ master_data { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
     },
     {
+      "name": "currencies",
+      "operation": "sync",
+      "filter": "currencies.yaml",
+      "mutation": "mutation{ master_data { currency { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
+    },
+    {
       "name": "contact_point_types",
       "operation": "sync",
       "filter": "contact_point_types.yaml",
