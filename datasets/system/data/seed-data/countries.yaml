@@ -57,3 +57,18 @@
         attributes:
           - id: urn:restorecommerce:acs:names:ownerInstance
             value: system
+---
+  id: netherlands
+  name: Netherlands
+  countryCode: NL
+  geographicalName: Netherlands
+  economicAreas:
+    - EEA
+  meta:
+    modifiedBy: ""
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
