@@ -19,7 +19,7 @@
     "dotenv": "^16.0.3"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.25.0",
+    "@babel/eslint-parser": "^7.25.9",
     "@restorecommerce/eslint-config-restorecommerce": "^0.1.5",
     "eslint": "^8.26.0",
     "eslint-config-airbnb-base": "^15.0.0",
