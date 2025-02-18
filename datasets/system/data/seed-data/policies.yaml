@@ -991,6 +991,7 @@
     - member-permits-read-hr-scoped
     - user-permits-read-owned
     - user-permits-update-owned
+    - unauthenticated-user-permits-read-owned
     - unauthenticated-user-permits-create-strict-scoped
     - fallback-deny-all
   meta:
