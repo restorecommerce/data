@@ -12,6 +12,7 @@ ARG APP_HOME=/home/node/data
 WORKDIR $APP_HOME
 
 COPY --chown=node:node datasets ./datasets
+COPY --chown=node:node objects ./objects
 COPY --chown=node:node *json *.js ./
 RUN npm ci
 

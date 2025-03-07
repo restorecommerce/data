@@ -83,12 +83,7 @@ Prerequisite: object importer should be built using `npm run build` command befo
 
 ```sh
 # Run import in production-mode:
-npm run import:demoshop:objects -- --apiKey=<access_token> -- --NODE_ENV=local
-
-# Run import in production-mode:
-npm run import:demoshop:objects -- --apiKey=<access_token> -- --NODE_ENV=production
-# or:
-npm run import:demoshop:objects -- --apiKey=<access_token> # default is development
+npm run import:demoshop:objects -- --token=<access_token>
 ```
 
 ## Login
