@@ -1034,3 +1034,103 @@
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
+  id: ostorage-public-bucket-policy
+  name: Ostorage Public Bucket Policy
+  description: Policy permits read on public bucket to everyone
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:public.Public
+  rules:
+    - administrator-permits-all-hr-scoped
+    - sales-permits-all-hr-scoped
+    - everyone-permits-read
+    - fallback-deny-all
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: ostorage-internal-bucket-policy
+  name: Ostorage Internal Bucket Policy
+  description: Policy permits access to internal bucket in HR-scope
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:internal.Internal
+  rules:
+    - administrator-permits-all-hr-scoped
+    - moderator-permits-all-hr-scoped
+    - sales-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
+    - fallback-deny-all
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: ostorage-usercontent-bucket-policy
+  name: Ostorage Usercontent Bucket Policy
+  description: Policy permits access to usercontent bucket in HR-scope
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:usercontent.Usercontent
+  rules:
+    - user-permits-all-owned
+    - everyone-permits-read
+    - fallback-deny-all
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: ostorage-invoices-bucket-policy
+  name: Ostorage Invoices Bucket Policy
+  description: Policy permits access to invoices bucket in HR-scope
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:invoices.Invoices
+  rules:
+    - administrator-permits-all-hr-scoped
+    - sales-permits-all-hr-scoped
+    - everyone-permits-read
+    - fallback-deny-all
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---

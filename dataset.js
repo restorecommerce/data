@@ -83,7 +83,7 @@ function commandValidateHash(pw, hash) {
   console.log("Validate Password:", bcrypt.compareSync(pw, hash));
 }
 
-async function importData() {
+async function main() {
   program
     .command('import')
     .description('import data')
@@ -149,4 +149,4 @@ function getFullJobPath(dataset, job) {
   ));
 }
 
-importData();
+main();
