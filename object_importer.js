@@ -1,5 +1,4 @@
 
-const FormData = require('formdata-node').FormData;
 const fs = require('fs');
 const path = require('path');
 const mime = require('mime-types');
