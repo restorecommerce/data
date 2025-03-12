@@ -20,7 +20,7 @@
     "mime-types": "^2.1.35"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.25.9",
+    "@babel/eslint-parser": "^7.26.10",
     "@restorecommerce/eslint-config-restorecommerce": "^0.1.5",
     "eslint": "^8.26.0",
     "eslint-config-airbnb-base": "^15.0.0",
