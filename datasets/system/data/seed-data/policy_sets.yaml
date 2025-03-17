@@ -47,6 +47,7 @@
     - unit-code-policy
     - user-policy
     - user-credentials-reset-policy
+    - ostorage-public-bucket-policy
   meta:
     modifiedBy: ""
     owners:
