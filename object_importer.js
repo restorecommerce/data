@@ -7,7 +7,7 @@ const { program } = require('commander');
 const CONFIG_NAME = process.env.CONFIG_NAME ?? path.join(__dirname, '.config.json');
 const CONFIG = JSON.parse(fs.readFileSync(CONFIG_NAME).toString())?.object_import;
 
-async function sendRequest(endpoint, file, bucketName, keyName, token) {
+async function sendRequest(endpoint, file, bucketName, keyName, token, meta) {
   const contentType = mime.lookup(keyName);
   const body = new FormData();
   const blob = await fs.openAsBlob(file, { type: contentType });
@@ -33,7 +33,8 @@ async function sendRequest(endpoint, file, bucketName, keyName, token) {
         key: `${keyName}`,
         options: {
           contentType: `${contentType}`
-        }
+        },
+        meta,
       }
     }
   }));
@@ -63,15 +64,17 @@ async function commandObjectImporter(args) {
   console.log('Objects-Import started');
   console.log(`Base directory is: \`${args.base_dir}\``);
 
-  const contentArr = CONFIG?.content;
-  if (!Array.isArray(contentArr)) {
+  const urns = CONFIG?.urns;
+  const contentList = CONFIG?.content;
+  if (!Array.isArray(contentList)) {
     console.error('No sources (`content` parameter) defined for object directory or wrong format. Import is interrupted.');
     return;
   }
 
-  for (const sourceDef of contentArr) {
-    const dir = sourceDef.dir;
-    const bucketName = sourceDef.bucket_name;
+  for (const content of contentList) {
+    const dir = content.dir;
+    const bucketName = content.bucket_name;
+    const scopes = content.scopes ?? [];
     if (dir && bucketName) {
       const fullPath =  path.join(__dirname, args.base_dir, dir);
       if (!fs.existsSync(fullPath)) {
@@ -86,11 +89,25 @@ async function commandObjectImporter(args) {
       getFiles(fullPath, files);
       const token = args.token;
       const endpoint = args.url;
+      const meta = {
+        owners: scopes?.map(
+          scope => ({
+            id: urns.ownerIndicatoryEntity,
+            value: urns[scope.entity],
+            attributes: [
+              {
+                id: urns.ownerInstance,
+                value: scope.instance
+              }
+            ]
+          })
+        )
+      }
       for (const file of files) {
         // To upload removing the base directory name as key
         const keyName = file.substring(fullPath.length + 1, file.length + 1);
         await sendRequest(
-          endpoint, file, bucketName, keyName, token
+          endpoint, file, bucketName, keyName, token, meta
         ).then(
           (response) => console.log('Upload Status:', keyName, response.status, response.statusText)
         );

@@ -8,17 +8,35 @@
   },
   "object_import": {
     "endpoint": "http://localhost:5000/graphql",
-    "base_dir": "./objects/demo-shop/",
+    "base_dir": "./objects/",
     "access_token": "1a4c6789-6435-487a-9308-64d06384acf9",
     "content": [
       {
-        "dir": "internal",
-        "bucket_name": "internal"
+        "dir": "demo-shop/internal",
+        "bucket_name": "internal",
+        "scopes": [
+          {
+            "entity": "organization",
+            "instance": "restorecommerce-demo-root-organization"
+          }
+        ]
       },
       {
-        "dir": "public",
-        "bucket_name": "public"
+        "dir": "demo-shop/public",
+        "bucket_name": "public",
+        "scopes": [
+          {
+            "entity": "organization",
+            "instance": "restorecommerce-demo-root-organization"
+          }
+        ]
       }
-    ]
+    ],
+    "urns": {
+      "ownerIndicatoryEntity": "urn:restorecommerce:acs:names:ownerIndicatoryEntity",
+      "ownerInstance": "urn:restorecommerce:acs:names:ownerInstance",
+      "organization": "urn:restorecommerce:acs:model:organization.Organization",
+      "user": "urn:restorecommerce:acs:model:user.User"
+    }
   }
 }
