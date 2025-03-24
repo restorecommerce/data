@@ -12,8 +12,9 @@
     "access_token": "1a4c6789-6435-487a-9308-64d06384acf9",
     "content": [
       {
-        "dir": "demo-shop/internal",
+        "dir": "internal/demo-shop",
         "bucket_name": "internal",
+        "prefix": "demo-shop",
         "scopes": [
           {
             "entity": "organization",
@@ -22,8 +23,9 @@
         ]
       },
       {
-        "dir": "demo-shop/public",
+        "dir": "public/demo-shop",
         "bucket_name": "public",
+        "prefix": "demo-shop",
         "scopes": [
           {
             "entity": "organization",

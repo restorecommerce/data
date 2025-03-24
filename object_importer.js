@@ -105,7 +105,7 @@ async function commandObjectImporter(args) {
       }
       for (const file of files) {
         // To upload removing the base directory name as key
-        const keyName = file.substring(fullPath.length + 1, file.length + 1);
+        const keyName = path.join(...[content.prefix,  file.substring(fullPath.length+1, file.length)].filter(f => f));
         await sendRequest(
           endpoint, file, bucketName, keyName, token, meta
         ).then(
