@@ -43,7 +43,7 @@ const sectorMapping = {
 
 const workSheetsFromFile = xlsx.parse(`${__dirname}/rec20_Rev15e-2020.xls`);
 
-function transform() {
+function main() {
   const codes = {};
 
   for (let i = 1; i < 3; i += 1) {
@@ -83,12 +83,14 @@ function transform() {
         owners: [
           {
             id: 'urn:restorecommerce:acs:names:ownerIndicatoryEntity',
-            value: 'urn:restorecommerce:acs:model:organization.Organization'
+            value: 'urn:restorecommerce:acs:model:organization.Organization',
+            attributes: [
+              {
+                id: 'urn:restorecommerce:acs:names:ownerInstance',
+                value: 'system'
+              }
+            ]
           },
-          {
-            id: 'urn:restorecommerce:acs:names:ownerInstance',
-            value: 'system'
-          }
         ]
       };
 
@@ -104,4 +106,4 @@ function transform() {
   fs.writeFileSync(`${outDir}unit_codes.yaml`, values.map(yaml.dump).join('\n---\n'));
 };
 
-transform();
+main();

@@ -13,30 +13,31 @@
     "data"
   ],
   "dependencies": {
-    "@restorecommerce/gql-bot": "^1.0.8",
+    "@restorecommerce/gql-bot": "1.0.8",
     "bcryptjs": "^2.4.3",
-    "commander": "^9.4.1",
-    "dotenv": "^16.4.7",
+    "commander": "^14.0.0",
+    "dotenv": "^16.5.0",
     "mime-types": "^2.1.35"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.25.9",
+    "@babel/eslint-parser": "^7.27.1",
     "@restorecommerce/eslint-config-restorecommerce": "^0.1.5",
-    "eslint": "^8.26.0",
+    "eslint": "^8.57.1",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-json": "^3.1.0",
-    "lerna": "^8.1.7",
+    "lerna": "^8.2.2",
     "npm-run-all": "^4.1.5"
   },
   "scripts": {
-    "build": "tsc -d -P tsconfig.objects.json",
+    "build": "nx run-many -t build",
     "import": "npm-run-all import:system import:demoshop",
-    "import:system": "npm-run-all import:system:rules import:system:identity import:system:master import:system:extra",
+    "import:system": "npm-run-all import:system:rules import:system:identity import:system:master import:system:extra import:system:world",
     "import:system:rules": "node dataset.js import -d system -j rules",
     "import:system:identity": "node dataset.js import -d system -j identity",
     "import:system:master": "node dataset.js import -d system -j master",
     "import:system:extra": "node dataset.js import -d system -j extra",
+    "import:system:world": "node dataset.js import -d system -j world",
     "import:demoshop": "npm-run-all import:demoshop:master import:demoshop:catalog import:demoshop:fulfillment",
     "import:demoshop:master": "node dataset.js import -d demo-shop -j master",
     "import:demoshop:identity": "node dataset.js import -d demo-shop -j identity",
@@ -44,11 +45,12 @@
     "import:demoshop:fulfillment": "node dataset.js import -d demo-shop -j fulfillment",
     "import:demoshop:samples": "node dataset.js import -d demo-shop -j samples",
     "import:demoshop:objects": "node object_importer.js",
-    "transform": "npm-run-all transform:system transform:demoshop",
-    "transform:system": "npm-run-all transform:system:unitcodes",
-    "transform:demoshop": "npm-run-all transform:demoshop:catalog",
-    "transform:system:unitcodes": "node ./datasets/system/generator/unit-codes/transform.js",
-    "transform:demoshop:catalog": "node ./datasets/demo-shop/generator/catalog/transform.js"
+    "generate": "nx run-many -t generate",
+    "generate:system": "nx run-many -t generate -p datasets/system/generator/*",
+    "generate:system:unitcodes": "node ./datasets/system/generator/unit-codes/transform.js",
+    "generate:system:world": "node ./datasets/system/generator/world/transform.js",
+    "generate:demoshop": "nx run-many -t generate -p datasets/demoshop/generator/*",
+    "generate:demoshop:catalog": "node ./datasets/demo-shop/generator/catalog/transform.js"
   },
   "engines": {
     "node": ">= 18.0.0"

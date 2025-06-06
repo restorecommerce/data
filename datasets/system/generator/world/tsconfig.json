@@ -1,0 +1,13 @@
+{
+  "extends": "../../../../node_modules/@restorecommerce/dev/tsconfig.json",
+  "include": [
+    "./src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "bin"
+  ],
+  "compilerOptions": {
+    "outDir": "bin"
+  }
+}

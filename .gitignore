@@ -10,6 +10,7 @@ pid/
 .directory
 .nyc_output
 .idea
+.cjs
 
 lib
 
@@ -19,5 +20,6 @@ id_rsa
 id_rsa.pub
 known_hosts
 config
+bin
 
 *.env

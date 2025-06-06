@@ -1,0 +1,50 @@
+{
+  "base": "./datasets/system/data/generated/world/",
+  "options": {
+    "concurrency": 1
+  },
+  "tasks": [
+    {
+      "name": "timezones",
+      "operation": "sync",
+      "filter": "timezones.yaml",
+      "batchSize": 100,
+      "mutation": "mutation{ master_data { timezone { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+    },
+    {
+      "name": "countries",
+      "operation": "sync",
+      "filter": "countries.yaml",
+      "batchSize": 100,
+      "mutation": "mutation{ master_data { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
+    },
+    {
+      "name": "currencies",
+      "operation": "sync",
+      "filter": "currencies.yaml",
+      "batchSize": 100,
+      "mutation": "mutation{ master_data { currency { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
+    },
+    {
+      "name": "locales",
+      "operation": "sync",
+      "filter": "locales.yaml",
+      "batchSize": 100,
+      "mutation": "mutation{ master_data { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+    },
+    {
+      "name": "tax_types",
+      "operation": "sync",
+      "filter": "tax_types.yaml",
+      "batchSize": 100,
+      "mutation": "mutation{ master_data { tax_type { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+    },
+    {
+      "name": "taxes",
+      "operation": "sync",
+      "filter": "taxes.yaml",
+      "batchSize": 100,
+      "mutation": "mutation{ master_data { tax { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+    }
+  ]
+}

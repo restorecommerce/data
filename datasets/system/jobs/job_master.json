@@ -5,24 +5,6 @@
   },
   "tasks": [
     {
-      "name": "timezones",
-      "operation": "sync",
-      "filter": "timezones.yaml",
-      "mutation": "mutation{ master_data { timezone { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
-    },
-    {
-      "name": "locales",
-      "operation": "sync",
-      "filter": "locales.yaml",
-      "mutation": "mutation{ master_data { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
-    },
-    {
-      "name": "countries",
-      "operation": "sync",
-      "filter": "countries.yaml",
-      "mutation": "mutation{ master_data { country { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
-    },
-    {
       "name": "currencies",
       "operation": "sync",
       "filter": "currencies.yaml",

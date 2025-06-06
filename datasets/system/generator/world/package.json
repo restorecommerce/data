@@ -1,0 +1,36 @@
+{
+  "name": "@restorecommerce/dataset-system-world-transformer",
+  "version": "0.1.0",
+  "description": "Util for generating units from XLS data set",
+  "license": "MIT",
+  "keywords": [
+    "restorecommerce",
+    "system",
+    "data"
+  ],
+  "dependencies": {
+    "@restorecommerce/rc-grpc-clients": "^5.1.54",
+    "@vvo/tzdb": "^6.161.0",
+    "argparse": "^2.0.1",
+    "currency-list": "^1.0.8",
+    "dayjs": "^1.11.13",
+    "js-yaml": "^4.1.0",
+    "world-countries": "^5.1.0"
+  },
+  "devDependencies": {
+    "@restorecommerce/dev": "^0.0.13",
+    "@types/argparse": "^2.0.17",
+    "@types/js-yaml": "^4.0.9"
+  },
+  "scripts": {
+    "build:es": "esbuild ./src/transform.ts --bundle --platform=node --outfile=bin/transform.cjs --minify --tree-shaking=true --sourcemap=inline",
+    "build:tsc": "tsc -d",
+    "build:clean": "rimraf bin",
+    "build": "npm-run-all build:clean build:tsc",
+    "generate": "npm-run-all build transform", 
+    "transform": "node ./transform.js"
+  },
+  "engines": {
+    "node": ">= 18.0.0"
+  }
+}

@@ -1,8 +1,10 @@
+#!/usr/bin/env node
+
 const csv = require('csv-parser');
 const fs = require('fs');
 const hash = require('object-hash');
-const uuid = require('uuid');
 const yaml = require('js-yaml');
+const { randomUUID } = require('crypto');
 
 const FILE_SLICE = 500;
 
@@ -76,7 +78,7 @@ const resources = [
 ];
 
 function makeUUID() {
-  return uuid.v4().replace(/-/g, '');
+  return randomUUID().replace(/-/g, '');
 }
 
 function parseInputLine(csvLine) {
@@ -186,7 +188,6 @@ function parseInputLine(csvLine) {
           name: productEntry,
           description: 'Dummy description for product ' + productEntry,
           manufacturerId: brandHash,
-          taricCode: uuid.v4(), // no data available
           physical: {
             variants: []
           },
@@ -213,7 +214,7 @@ function parseInputLine(csvLine) {
 
         const elems = spec.split('", "');
 
-        id = elems.length === 1 ? uuid.v4() : elems[0].split('"=>"')[1];
+        id = elems.length === 1 ? makeUUID() : elems[0].split('"=>"')[1];
         value = elems[elems.length - 1].split('"=>"')[1].slice(0, -1)[0];
         if (!value) {
           value = 'm';
@@ -249,13 +250,13 @@ function dumpYAMLs(prefix, docs) {
       '---\n' +
         docs
           .slice(i * FILE_SLICE, (i + 1) * FILE_SLICE)
-          .map((d) => yaml.safeDump(d))
+          .map((d) => yaml.dump(d))
           .join('---\n')
     );
   }
 }
 
-function transform() {
+function main() {
   fs.createReadStream(`${__dirname}/flipkart_com-ecommerce_sample.csv`)
     .pipe(csv())
     .on('data', parseInputLine)
@@ -269,4 +270,4 @@ function transform() {
     });
 }
 
-transform();
+main();
