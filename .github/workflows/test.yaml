@@ -23,7 +23,7 @@ jobs:
         run: npm ci
 
       - name: Transform all data
-        run: npm run transform
+        run: npm run generate
 
       - name: Import all data
         run: npm run import
