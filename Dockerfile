@@ -15,5 +15,6 @@ COPY --chown=node:node datasets ./datasets
 COPY --chown=node:node objects ./objects
 COPY --chown=node:node *json *.js ./
 RUN npm ci
+RUN npm run generate
 
 CMD ["sleep", "infinity"]
