@@ -32,7 +32,7 @@
   "scripts": {
     "build": "nx run-many -t build",
     "import": "npm-run-all import:system import:demoshop",
-    "import:system": "npm-run-all import:system:rules import:system:identity import:system:master import:system:extra import:system:world",
+    "import:system": "npm-run-all import:system:rules import:system:world import:system:identity import:system:master import:system:extra",
     "import:system:rules": "node dataset.js import -d system -j rules",
     "import:system:identity": "node dataset.js import -d system -j identity",
     "import:system:master": "node dataset.js import -d system -j master",
