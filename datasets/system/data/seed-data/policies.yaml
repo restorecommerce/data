@@ -1134,3 +1134,63 @@
             value: system
   combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
 ---
+  id: setting-policy
+  name: Setting Policy
+  description: Policy for resource Setting
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:setting.Setting
+  rules:
+    - administrator-permits-all-hr-scoped
+    - sales-permits-all-hr-scoped
+    - moderator-permits-all-hr-scoped
+    - member-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
+    - user-permits-all-owned
+    - permit-read-strict-scoped
+    - domainless-unauthenticated-permits-read-system
+    - fallback-deny-all
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
+  id: template-policy
+  name: Template Policy
+  description: Policy for resource Template
+  evaluationCacheable: false
+  effect: PERMIT
+  target:
+    actions: [ ]
+    subjects: [ ]
+    resources:
+      - id: urn:restorecommerce:acs:names:model:entity
+        value: urn:restorecommerce:acs:model:template.Template
+  rules:
+    - administrator-permits-all-hr-scoped
+    - sales-permits-all-hr-scoped
+    - moderator-permits-all-hr-scoped
+    - member-permits-read-hr-scoped
+    - customer-permits-read-hr-scoped
+    - user-permits-all-owned
+    - permit-read-strict-scoped
+    - domainless-unauthenticated-permits-read-system
+    - fallback-deny-all
+  meta:
+    owners:
+      - id: urn:restorecommerce:acs:names:ownerIndicatoryEntity
+        value: urn:restorecommerce:acs:model:organization.Organization
+        attributes:
+          - id: urn:restorecommerce:acs:names:ownerInstance
+            value: system
+  combiningAlgorithm: urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides
+---
