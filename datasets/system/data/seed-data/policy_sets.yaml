@@ -48,6 +48,8 @@
     - user-policy
     - user-credentials-reset-policy
     - ostorage-public-bucket-policy
+    - setting-policy
+    - template-policy
   meta:
     modifiedBy: ""
     owners:
