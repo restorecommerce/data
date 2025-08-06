@@ -221,7 +221,7 @@
     subjects: [ ]
     resources:
       - id: urn:restorecommerce:acs:names:model:entity
-        value: urn:restorecommerce:acs:model:credential.Credental
+        value: urn:restorecommerce:acs:model:credential.Credential
   rules:
     - user-permits-all-owned
     - fallback-deny-all

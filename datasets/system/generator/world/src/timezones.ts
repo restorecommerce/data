@@ -5,7 +5,6 @@ import { rawTimeZones } from '@vvo/tzdb';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
 import tz from 'dayjs/plugin/timezone';
-import wc from 'world-countries';
 import advancedFormat from 'dayjs/plugin/advancedFormat';
 import { Timezone } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/timezone';
 import { MainArgParser, meta, makeID } from './utils';
