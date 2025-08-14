@@ -1153,6 +1153,7 @@
     - customer-permits-read-hr-scoped
     - user-permits-all-owned
     - permit-read-strict-scoped
+    - unauthenticated-user-permits-read-owned
     - domainless-unauthenticated-permits-read-system
     - fallback-deny-all
   meta:
