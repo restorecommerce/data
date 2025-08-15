@@ -52,7 +52,7 @@ export function transform(args?: {
   fs.mkdirSync(path.dirname(output), { recursive: true });
   fs.writeFileSync(
     output,
-    rc_timezones.map(tz => YAML.dump(tz)).join('---\n')
+    '---\n' + rc_timezones.map(tz => YAML.dump(tz)).join('---\n')
   );
   return output;
 }

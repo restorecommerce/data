@@ -34,7 +34,7 @@ export function transform(args?: {
   fs.mkdirSync(path.dirname(output), { recursive: true });
   fs.writeFileSync(
     output,
-    rc_countries.map(c => YAML.dump(c)).join('---\n')
+    '---\n' + rc_countries.map(c => YAML.dump(c)).join('---\n')
   );
   return output;
 }
