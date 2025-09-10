@@ -48,7 +48,7 @@
     "generate": "nx run-many -t generate",
     "generate:system": "nx run-many -t generate -p datasets/system/generator/*",
     "generate:system:unitcodes": "node ./datasets/system/generator/unit-codes/transform.js",
-    "generate:system:world": "node ./datasets/system/generator/world/transform.js",
+    "generate:system:world": "node ./datasets/system/generator/world/bin/transform.cjs",
     "generate:demoshop": "nx run-many -t generate -p datasets/demoshop/generator/*",
     "generate:demoshop:catalog": "node ./datasets/demo-shop/generator/catalog/transform.js"
   },

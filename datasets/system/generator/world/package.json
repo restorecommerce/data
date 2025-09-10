@@ -9,6 +9,7 @@
     "data"
   ],
   "dependencies": {
+    "@localazy/languages": "^2.0.3",
     "@restorecommerce/rc-grpc-clients": "^5.1.54",
     "@vvo/tzdb": "^6.161.0",
     "argparse": "^2.0.1",
@@ -20,15 +21,16 @@
   "devDependencies": {
     "@restorecommerce/dev": "^0.0.13",
     "@types/argparse": "^2.0.17",
-    "@types/js-yaml": "^4.0.9"
+    "@types/js-yaml": "^4.0.9",
+    "esbuild": "^0.25.9"
   },
   "scripts": {
     "build:es": "esbuild ./src/transform.ts --bundle --platform=node --outfile=bin/transform.cjs --minify --tree-shaking=true --sourcemap=inline",
     "build:tsc": "tsc -d",
     "build:clean": "rimraf bin",
-    "build": "npm-run-all build:clean build:tsc",
-    "generate": "npm-run-all build transform", 
-    "transform": "node ./transform.js"
+    "build": "npm-run-all build:clean build:es",
+    "generate": "npm-run-all build transform",
+    "transform": "node ./bin/transform.cjs"
   },
   "engines": {
     "node": ">= 18.0.0"

@@ -3,8 +3,8 @@ import path from 'node:path';
 import * as YAML from 'js-yaml';
 import cc from 'currency-list';
 import wc from 'world-countries';
-import { Currency } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/currency';
-import { MainArgParser, meta, makeID } from './utils';
+import { Currency } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/currency.js';
+import { MainArgParser, meta, makeID } from './utils.js';
 
 export function listCurrency(): Currency[] {
   const currencies = cc.currencyList['en'];
@@ -39,7 +39,7 @@ export function transform(args?: {
   return output;
 }
 
-export function main(args: any) {
+export function main(args?: any) {
   args ??= MainArgParser({
     description: 'Transforms currency-list to restorecommerce Currency YAML',
   }).parse_args();

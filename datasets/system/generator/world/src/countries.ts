@@ -3,8 +3,8 @@ import path from 'node:path';
 import * as YAML from 'js-yaml';
 import countries from 'world-countries';
 import { rawTimeZones } from '@vvo/tzdb';
-import { Country } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/country';
-import { MainArgParser, meta, makeID } from './utils';
+import { Country } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/country.js';
+import { MainArgParser, meta, makeID } from './utils.js';
  
 export const EU = [
   'germany',
@@ -59,6 +59,15 @@ export function listCountries(): Country[] {
         countryCodeAlpha2: country.cca2,
         countryCodeAlpha3: country.cca3,
         geographicalName: country.name.official,
+        localeIds: Object.values(country.languages ?? {}).map(
+          language => makeID(language) 
+        ),
+        /*localizedNames: Object.entries(country.translations ?? {}).map(
+          ([locale, name]) => ({
+            locale,
+            name: name.common ?? name.official,
+          })
+        ),*/ // too large!
         economicAreas: Object.entries(EconomicAreas).filter(
           ([k, v]) => v?.includes(id)
         ).map(
@@ -89,7 +98,7 @@ export function transform(args?: {
   return output;
 }
 
-export function main(args: any) {
+export function main(args?: any) {
   args ??= MainArgParser({
     description: 'Transforms world-countries to restorecommerce Country YAML',
   }).parse_args();

@@ -5,6 +5,13 @@
   },
   "tasks": [
     {
+      "name": "locales",
+      "operation": "sync",
+      "filter": "locales.yaml",
+      "batchSize": 100,
+      "mutation": "mutation{ master_data { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
+    },
+    {
       "name": "timezones",
       "operation": "sync",
       "filter": "timezones.yaml",
@@ -24,13 +31,6 @@
       "filter": "currencies.yaml",
       "batchSize": 100,
       "mutation": "mutation{ master_data { currency { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}},  operationStatus { code message }} } } }}"
-    },
-    {
-      "name": "locales",
-      "operation": "sync",
-      "filter": "locales.yaml",
-      "batchSize": 100,
-      "mutation": "mutation{ master_data { locale { Mutate( input: { items: ${resource_list}, totalCount: 0, mode: UPSERT } ) { details{items {status {id, code, message}}, operationStatus { code message }} } } }}"
     },
     {
       "name": "tax_types",

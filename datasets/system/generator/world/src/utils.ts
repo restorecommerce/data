@@ -1,6 +1,7 @@
 import path from 'node:path';
 import { ArgumentParser, ArgumentParserOptions } from 'argparse';
-import { Meta } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/meta';
+import { Meta } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/meta.js';
+// const __dirname = import.meta.dirname;
 
 export const meta: Meta = {
   owners: [

@@ -3,11 +3,11 @@ import path from 'node:path';
 import * as YAML from 'js-yaml';
 import { rawTimeZones } from '@vvo/tzdb';
 import dayjs from 'dayjs';
-import utc from 'dayjs/plugin/utc';
-import tz from 'dayjs/plugin/timezone';
-import advancedFormat from 'dayjs/plugin/advancedFormat';
-import { Timezone } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/timezone';
-import { MainArgParser, meta, makeID } from './utils';
+import utc from 'dayjs/plugin/utc.js';
+import tz from 'dayjs/plugin/timezone.js';
+import advancedFormat from 'dayjs/plugin/advancedFormat.js';
+import { Timezone } from '@restorecommerce/rc-grpc-clients/dist/generated/io/restorecommerce/timezone.js';
+import { MainArgParser, meta, makeID } from './utils.js';
 dayjs.extend(utc);
 dayjs.extend(tz);
 dayjs.extend(advancedFormat);
@@ -57,7 +57,7 @@ export function transform(args?: {
   return output;
 }
 
-export function main(args: any) {
+export function main(args?: any) {
   args ??= MainArgParser({
     description: 'Transforms @vvo/tzdb to restorecommerce Timezone YAML',
   }).parse_args();
