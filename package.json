@@ -15,7 +15,7 @@
   "dependencies": {
     "@restorecommerce/gql-bot": "1.0.8",
     "bcryptjs": "^2.4.3",
-    "commander": "^14.0.0",
+    "commander": "^14.0.2",
     "dotenv": "^16.5.0",
     "mime-types": "^2.1.35"
   },
